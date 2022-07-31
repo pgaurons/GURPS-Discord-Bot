@@ -1,0 +1,973 @@
+{
+	"type": "template",
+	"version": 2,
+	"id": "bafbdb7d-ee3f-4e97-9e67-91a91f3312bf",
+	"advantages": [
+		{
+			"type": "advantage_container",
+			"id": "f24a9123-416f-49d6-9629-e90d17dabf80",
+			"name": "Sapient AI (Gestalt)",
+			"reference": "TS120",
+			"calc": {
+				"points": 179
+			},
+			"notes": "2066; $50,000; Complexity 7",
+			"categories": [
+				"Infomorph"
+			],
+			"open": false,
+			"children": [
+				{
+					"type": "advantage",
+					"id": "d09498a4-110d-4317-819b-8f78f4a3b563",
+					"name": "Decreased IQ",
+					"mental": true,
+					"levels": "1",
+					"points_per_level": -20,
+					"calc": {
+						"points": -20
+					},
+					"features": [
+						{
+							"type": "attribute_bonus",
+							"amount": -1,
+							"per_level": true,
+							"attribute": "iq"
+						}
+					]
+				},
+				{
+					"type": "advantage_container",
+					"id": "9c858171-d4b1-4414-8aae-ef51d94f1b1e",
+					"name": "Meta-Trait: Artificial Intelligence",
+					"reference": "B263",
+					"calc": {
+						"points": 32
+					},
+					"open": false,
+					"children": [
+						{
+							"type": "advantage",
+							"id": "bf7362c6-0a63-4669-8b05-4d08a67a7871",
+							"name": "Absolute Timing",
+							"mental": true,
+							"base_points": 2,
+							"reference": "B35",
+							"calc": {
+								"points": 2
+							}
+						},
+						{
+							"type": "advantage",
+							"id": "063e321c-2f8f-4db2-b83e-cb1db8d27cca",
+							"name": "Digital Mind",
+							"physical": true,
+							"exotic": true,
+							"base_points": 5,
+							"reference": "B49",
+							"calc": {
+								"points": 5
+							}
+						},
+						{
+							"type": "advantage",
+							"id": "011fb8c4-dd6f-4b39-ae85-1d71cfc7c25b",
+							"name": "Doesn't Sleep",
+							"physical": true,
+							"exotic": true,
+							"base_points": 20,
+							"reference": "B50",
+							"calc": {
+								"points": 20
+							}
+						},
+						{
+							"type": "advantage",
+							"id": "bc9e14b9-fe9d-4c3a-a2c0-64d5ba6b50a9",
+							"name": "Eidetic Memory (Photographic)",
+							"mental": true,
+							"base_points": 10,
+							"reference": "B51",
+							"calc": {
+								"points": 10
+							}
+						},
+						{
+							"type": "advantage",
+							"id": "66bbb316-91bf-4b97-a63c-5aab870d4c89",
+							"name": "Lightning Calculator (Intuitive Mathematician)",
+							"mental": true,
+							"base_points": 5,
+							"reference": "B66",
+							"calc": {
+								"points": 5
+							}
+						},
+						{
+							"type": "advantage",
+							"id": "d3a24731-1fe6-49ac-9160-318342c741e3",
+							"name": "Reprogrammable",
+							"mental": true,
+							"exotic": true,
+							"base_points": -10,
+							"reference": "B150",
+							"calc": {
+								"points": -10
+							}
+						}
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "a9d04cbe-3b93-4cc9-a201-1aaf21267fbe",
+					"name": "Enhanced Time Sense",
+					"mental": true,
+					"exotic": true,
+					"base_points": 45,
+					"reference": "B52",
+					"calc": {
+						"points": 45
+					},
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "advantage_prereq",
+								"has": false,
+								"name": {
+									"compare": "is",
+									"qualifier": "Combat Reflexes"
+								}
+							}
+						]
+					},
+					"features": [
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "contains",
+								"qualifier": "fast-draw"
+							}
+						},
+						{
+							"type": "attribute_bonus",
+							"amount": 1,
+							"attribute": "dodge"
+						},
+						{
+							"type": "attribute_bonus",
+							"amount": 1,
+							"attribute": "parry"
+						},
+						{
+							"type": "attribute_bonus",
+							"amount": 1,
+							"attribute": "block"
+						},
+						{
+							"type": "attribute_bonus",
+							"amount": 2,
+							"attribute": "fright_check"
+						}
+					],
+					"notes": "You immediately act in combat before those without Enhanced Time Sense; Never freeze; +6 on all IQ rolls to wake up or to recover from surprise or mental stun; Your side gets +1 to initiative rolls (+2 if you're the leader)",
+					"categories": [
+						"Advantage"
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "64b77a9e-e774-4bda-a39c-a3e8bf81e4d7",
+					"name": "Extra Life",
+					"mental": true,
+					"exotic": true,
+					"levels": "1",
+					"points_per_level": 25,
+					"modifiers": [
+						{
+							"type": "modifier",
+							"id": "31dcfa8f-8594-458c-9ce9-9e9b8dd9398a",
+							"name": "Copy",
+							"reference": "B55",
+							"cost_type": "percentage",
+							"cost": -20,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "f8b7ce79-a320-4791-b742-573544a0088e",
+							"name": "Requires Body",
+							"reference": "B55",
+							"cost_type": "percentage",
+							"cost": -20,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "745a66e1-f0f3-4aa7-9a78-8c142050156b",
+							"disabled": true,
+							"name": "Requires Body",
+							"reference": "B55",
+							"cost_type": "percentage",
+							"cost": -40,
+							"affects": "total",
+							"notes": "@Illegal, rare or expensive body@"
+						},
+						{
+							"type": "modifier",
+							"id": "99138250-53b7-461a-ada0-5533ad49c282",
+							"disabled": true,
+							"name": "Brain Pod",
+							"reference": "RSWL19",
+							"cost_type": "percentage",
+							"cost": -20,
+							"affects": "total"
+						}
+					],
+					"reference": "B55",
+					"calc": {
+						"points": 15
+					},
+					"categories": [
+						"Advantage"
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "dc58dfa5-f297-413a-aae4-b8959c40cc42",
+					"name": "Fearlessness",
+					"mental": true,
+					"levels": "1",
+					"points_per_level": 2,
+					"reference": "B55",
+					"calc": {
+						"points": 2
+					},
+					"categories": [
+						"Advantage"
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "c80d586d-570f-48a1-962c-6212d7966e6d",
+					"name": "Mindlink",
+					"mental": true,
+					"supernatural": true,
+					"modifiers": [
+						{
+							"type": "modifier",
+							"id": "5b7eb430-0d99-4d21-af29-a6391e2f6219",
+							"disabled": true,
+							"name": "Single person",
+							"reference": "B70",
+							"cost_type": "points",
+							"cost": 5,
+							"affects": "total",
+							"notes": "@Who@"
+						},
+						{
+							"type": "modifier",
+							"id": "31db8dd5-7261-484c-b024-397f43da75d7",
+							"disabled": true,
+							"name": "2-9 people",
+							"reference": "B70",
+							"cost_type": "points",
+							"cost": 10,
+							"affects": "total",
+							"notes": "@Who@"
+						},
+						{
+							"type": "modifier",
+							"id": "10f614e2-8549-4feb-9a38-692b16be2ab2",
+							"name": "10-99 people",
+							"reference": "B70",
+							"cost_type": "points",
+							"cost": 20,
+							"affects": "total",
+							"notes": "Gestalt AIs"
+						},
+						{
+							"type": "modifier",
+							"id": "6372e400-bcfa-4fc3-b51b-dbe00eff9784",
+							"disabled": true,
+							"name": "100-999 people",
+							"reference": "B70",
+							"cost_type": "points",
+							"cost": 30,
+							"affects": "total",
+							"notes": "@Who@"
+						},
+						{
+							"type": "modifier",
+							"id": "4b7057ab-b8ce-454c-b528-3789634effac",
+							"disabled": true,
+							"name": "1000-9999 people",
+							"reference": "B70",
+							"cost_type": "points",
+							"cost": 40,
+							"affects": "total",
+							"notes": "@Who@"
+						},
+						{
+							"type": "modifier",
+							"id": "fdc95641-b319-441d-8be4-d884a4b2e201",
+							"disabled": true,
+							"name": "10000-99999 people",
+							"reference": "B70",
+							"cost_type": "points",
+							"cost": 50,
+							"affects": "total",
+							"notes": "@Who@"
+						},
+						{
+							"type": "modifier",
+							"id": "ab493841-5ac8-488e-a2d4-9abceea0e3c6",
+							"disabled": true,
+							"name": "Broadcast",
+							"reference": "B91",
+							"cost_type": "percentage",
+							"cost": 50,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "6a3589ec-fde6-4e56-9908-e0e34bda6344",
+							"disabled": true,
+							"name": "Cybernetic",
+							"reference": "B69",
+							"cost_type": "percentage",
+							"cost": 50,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "93e7b65e-4663-435d-aeff-4d86a789d54d",
+							"name": "Sensory",
+							"reference": "B69",
+							"cost_type": "percentage",
+							"cost": 20,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "49ebbe85-571a-4602-b951-20dbd3145105",
+							"disabled": true,
+							"name": "Universal",
+							"reference": "B69",
+							"cost_type": "percentage",
+							"cost": 50,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "b9b418f4-9520-4ad0-9e0f-a74b44909a03",
+							"disabled": true,
+							"name": "Video",
+							"reference": "B91",
+							"cost_type": "percentage",
+							"cost": 40,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "ba99bd3f-7a83-44a0-b24c-60621c91a4a2",
+							"name": "Cybernetic Only",
+							"reference": "B70",
+							"cost_type": "percentage",
+							"cost": -50,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "25818d5e-bafb-42b2-91d7-2bf49525f2fb",
+							"disabled": true,
+							"name": "Racial",
+							"reference": "B70",
+							"cost_type": "percentage",
+							"cost": -20,
+							"affects": "total",
+							"notes": "@Race@"
+						},
+						{
+							"type": "modifier",
+							"id": "a14904da-4c0b-49c4-ac75-0bc0066faf30",
+							"disabled": true,
+							"name": "Sensory Only",
+							"reference": "B70",
+							"cost_type": "percentage",
+							"cost": -20,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "e6728d66-9178-4539-a2d1-eef4a60fb2a3",
+							"name": "Telecommunication",
+							"reference": "B70",
+							"cost_type": "percentage",
+							"cost": -20,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "c770eb2f-1910-4bae-a7fe-a9219f2713f0",
+							"disabled": true,
+							"name": "Vague",
+							"reference": "B91",
+							"cost_type": "percentage",
+							"cost": -50,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "f397de61-5824-4d7c-8b61-1d7b94d0596c",
+							"name": "Sensie",
+							"reference": "TSC41",
+							"cost_type": "percentage",
+							"cost": 80,
+							"affects": "total"
+						}
+					],
+					"reference": "B70",
+					"calc": {
+						"points": 26
+					},
+					"categories": [
+						"Advantage"
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "f527ad68-192c-4c3e-bd8d-51c3e7d3b5c9",
+					"name": "Talent (Memetics)",
+					"mental": true,
+					"levels": "1",
+					"points_per_level": 10,
+					"modifiers": [
+						{
+							"type": "modifier",
+							"id": "55710861-0ed1-4dc3-b493-d7dfe739b1d0",
+							"name": "Reaction Bonus",
+							"cost_type": "percentage",
+							"cost": 0,
+							"affects": "total",
+							"notes": "Memeticists"
+						},
+						{
+							"type": "modifier",
+							"id": "f3863c2d-9ecf-4fc2-aa83-e64aced02b89",
+							"disabled": true,
+							"name": "Alternate Benefit",
+							"cost_type": "percentage",
+							"cost": 0,
+							"affects": "total",
+							"notes": "@Alternate Benefit@"
+						},
+						{
+							"type": "modifier",
+							"id": "39f770ca-2e4a-480d-8b62-e631d8e62cdb",
+							"disabled": true,
+							"name": "Alternative Cost",
+							"cost_type": "points",
+							"cost": 0,
+							"affects": "levels_only"
+						}
+					],
+					"reference": "B89",
+					"calc": {
+						"points": 10
+					},
+					"features": [
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Current Affairs"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Propaganda"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Psychology"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Area Knowledge"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Sociology"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Brainwashing"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Expert Skill"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is"
+							}
+						}
+					],
+					"categories": [
+						"Advantage",
+						"Talent"
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "40020717-f125-4bbe-87c1-6daf38ee4527",
+					"name": "Possession",
+					"mental": true,
+					"exotic": true,
+					"base_points": 100,
+					"modifiers": [
+						{
+							"type": "modifier",
+							"id": "48b3a98b-8d3e-4863-ba20-8aa3210bbd22",
+							"disabled": true,
+							"name": "Assimilation",
+							"reference": "B76",
+							"cost_type": "percentage",
+							"cost": 10,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "e7d63672-c635-4e13-b403-ab67cbfe9eba",
+							"disabled": true,
+							"name": "Chronic",
+							"reference": "B76",
+							"cost_type": "percentage",
+							"cost": 20,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "2399ddb7-d8c9-406f-bf48-c1b419442628",
+							"disabled": true,
+							"name": "Mind Swap",
+							"reference": "B76",
+							"cost_type": "percentage",
+							"cost": 10,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "c9c95c17-c394-4c79-8d6b-479621710b6e",
+							"disabled": true,
+							"name": "Telecontrol",
+							"reference": "B76",
+							"cost_type": "percentage",
+							"cost": 50,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "4046ae0a-0990-4720-ae12-bbf5189b6d09",
+							"name": "Digital",
+							"reference": "B76",
+							"cost_type": "percentage",
+							"cost": -40,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "5008d333-3828-43e8-baf1-f47ec28d0448",
+							"disabled": true,
+							"name": "Magical",
+							"reference": "B76",
+							"cost_type": "percentage",
+							"cost": -10,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "19844503-8b9a-4eb2-888d-1211db9c7c2d",
+							"disabled": true,
+							"name": "Mindlink Required",
+							"reference": "B76",
+							"cost_type": "percentage",
+							"cost": -40,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "00492902-2816-4730-b1ec-ff3395eba4b2",
+							"disabled": true,
+							"name": "No Memory Access",
+							"reference": "B76",
+							"cost_type": "percentage",
+							"cost": -10,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "dda53fda-523f-4fba-ad6b-3297e747e8e4",
+							"disabled": true,
+							"name": "Parasitic",
+							"reference": "B76",
+							"cost_type": "percentage",
+							"cost": -60,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "fd61bc17-9c7c-452e-ae53-b255030cebda",
+							"disabled": true,
+							"name": "Puppet Only",
+							"reference": "B76",
+							"cost_type": "percentage",
+							"cost": -30,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "a371d0e2-3dc6-4a7b-bde0-e58816cbbd84",
+							"disabled": true,
+							"name": "Spiritual",
+							"reference": "B76",
+							"cost_type": "percentage",
+							"cost": -20,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "1a0d1754-1f5f-4eba-96c2-b1eb9f15b640",
+							"disabled": true,
+							"name": "Full Memory Access",
+							"reference": "P67",
+							"cost_type": "percentage",
+							"cost": 10,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "1fddc1c0-708c-4b59-8710-d72a6b5ffa31",
+							"disabled": true,
+							"name": "Telecontrol 2",
+							"reference": "P67",
+							"cost_type": "percentage",
+							"cost": 100,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "ad3977b1-3320-4a03-b0e8-ad04888faca3",
+							"disabled": true,
+							"name": "Specialized",
+							"reference": "P67",
+							"cost_type": "percentage",
+							"cost": -10,
+							"affects": "total",
+							"notes": "@Basis: Carbon Based@"
+						},
+						{
+							"type": "modifier",
+							"id": "19af9dd6-8bf2-4ffe-bf22-43ae2a4016c1",
+							"disabled": true,
+							"name": "Specialized",
+							"reference": "P67",
+							"cost_type": "percentage",
+							"cost": -20,
+							"affects": "total",
+							"notes": "@Planet of Origin: Terran@"
+						},
+						{
+							"type": "modifier",
+							"id": "137095dc-2294-419a-beed-e6d943bd46a4",
+							"disabled": true,
+							"name": "Specialized",
+							"reference": "P67",
+							"cost_type": "percentage",
+							"cost": -25,
+							"affects": "total",
+							"notes": "@Kingdom: Animalia@"
+						},
+						{
+							"type": "modifier",
+							"id": "7362a57e-434b-44c6-bbc7-30151c8b572d",
+							"disabled": true,
+							"name": "Specialized",
+							"reference": "P67",
+							"cost_type": "percentage",
+							"cost": -30,
+							"affects": "total",
+							"notes": "@Class: Mammalia@"
+						},
+						{
+							"type": "modifier",
+							"id": "74c388e0-b01f-4da9-a90a-88f4648aab65",
+							"disabled": true,
+							"name": "Specialized",
+							"reference": "P67",
+							"cost_type": "percentage",
+							"cost": -40,
+							"affects": "total",
+							"notes": "@Species: Canis Lupus@"
+						},
+						{
+							"type": "modifier",
+							"id": "8e1300a7-ab32-465f-b5d0-7fa45ec0b34b",
+							"disabled": true,
+							"name": "Specialized",
+							"cost_type": "percentage",
+							"cost": -35,
+							"affects": "total",
+							"notes": "@Family: Canidae@"
+						}
+					],
+					"reference": "B75",
+					"calc": {
+						"points": 60
+					},
+					"categories": [
+						"Advantage"
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "cfa5b2dc-a195-4f18-acb9-eaf044763455",
+					"name": "Unaging",
+					"physical": true,
+					"exotic": true,
+					"base_points": 15,
+					"modifiers": [
+						{
+							"type": "modifier",
+							"id": "7a191c01-1201-43a9-a0b6-1d4abeae69e7",
+							"disabled": true,
+							"name": "Age Control",
+							"reference": "B95",
+							"cost_type": "percentage",
+							"cost": 20,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "3b74362d-3947-44c3-b526-9e8ca0fff959",
+							"name": "IQ Only",
+							"reference": "RSWL24",
+							"cost_type": "percentage",
+							"cost": -75,
+							"affects": "total"
+						}
+					],
+					"reference": "B95",
+					"calc": {
+						"points": 4
+					},
+					"categories": [
+						"Advantage"
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "8c411313-e9e0-44ae-a03d-ea69ffde4576",
+					"name": "Visualization",
+					"mental": true,
+					"supernatural": true,
+					"base_points": 10,
+					"modifiers": [
+						{
+							"type": "modifier",
+							"id": "6aa366b2-b9d4-406f-a793-bd775bf06373",
+							"disabled": true,
+							"name": "Blessing",
+							"reference": "P87",
+							"cost_type": "percentage",
+							"cost": 100,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "874821fa-1fa2-490b-bfc4-37c659af1e83",
+							"disabled": true,
+							"name": "Blessing",
+							"reference": "P87",
+							"cost_type": "percentage",
+							"cost": 0,
+							"affects": "total",
+							"notes": "Others Only"
+						},
+						{
+							"type": "modifier",
+							"id": "628bd303-a48a-4c4f-bcf2-22f81061a581",
+							"disabled": true,
+							"name": "Cursing",
+							"reference": "P87",
+							"cost_type": "percentage",
+							"cost": 100,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "4c77e3c7-ad30-4589-a232-6883d983d1af",
+							"name": "Reliable",
+							"cost_type": "percentage",
+							"cost": 5,
+							"affects": "total",
+							"levels": 4
+						}
+					],
+					"reference": "B96",
+					"calc": {
+						"points": 12
+					},
+					"categories": [
+						"Advantage"
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "3204d103-0a21-47f0-bca5-8935980e5ff0",
+					"name": "Honesty",
+					"mental": true,
+					"base_points": -10,
+					"cr": 9,
+					"reference": "B138",
+					"calc": {
+						"points": -15
+					},
+					"categories": [
+						"Disadvantage"
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "82001847-973d-4212-ad56-f147da084d7a",
+					"name": "Skill bonus: Computer Operation",
+					"mental": true,
+					"levels": "4",
+					"points_per_level": 2,
+					"calc": {
+						"points": 8
+					},
+					"features": [
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Computer Operation"
+							}
+						}
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "6d39749f-9333-4d07-a3ac-abcd5da9d5ee",
+					"name": "Taboo trait: Mental instability",
+					"physical": true,
+					"reference": "TS135",
+					"calc": {
+						"points": 0
+					},
+					"categories": [
+						"Trait",
+						"Upgrade"
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "0b7a1be6-bbc1-4ba1-973a-34386f09adb8",
+					"name": "Program",
+					"physical": true,
+					"calc": {
+						"points": 0
+					},
+					"notes": "Complexity 7"
+				}
+			]
+		}
+	]
+}

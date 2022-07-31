@@ -1,0 +1,47 @@
+﻿Pseudobot is a Discord tool for playing the tabletop role playing game GURPS online.
+https://en.wikipedia.org/wiki/GURPS
+http://www.sjgames.com/gurps/
+The bot has several commands for:
+- rolling dice
+- looking up data on extensive roll tables
+- conversion of real world measurements to GURPS or Metric to US Imperial.
+- calling web services with further tools for GURPS Players and GMs
+- Looking up data in the manuals
+- Setting timers
+- Metrics to verify the "honesty" of the random number generator
+
+
+- A list of servers that want to receive global update announcements.
+- A list of servers that want to use a custom prefix.
+- A list of servers that the bot is permanently banned from to prevent abuse.
+- Daily users in the last seven days.
+
+
+The first three points I think explain themselves. The last point is for metrics tracking to determine what is the average user count on a daily basis over the previous week.
+
+
+Most data is stored indefinitely, but the userids for the metrics purposes are stored for 7 days. The userids are stored in memory so restarting the application wipes them. Server level information is stored in flat files that can be deleted to wipe them.
+
+
+Commands to recieve/not receive announcements or change the prefix are up to the administrators of a server to use. I do not officially have a way to remove the user data for the metrics tracking, but I could probably make an opt-in list to be ignored for metrics purposes.
+
+
+The software uses C# .net core on an Ubuntu Digitalocean droplet. It reads some data from several xml and json files, mostly for configuration and the search functionality.
+
+
+
+I think so! Secure shell Login to the server is only possible through a large key file. No personally identifying information is stored in flat files, so any loss of data is trivial.
+
+
+
+I can be reached via Private Message or email. The bot has a built in feedback command too. Using the feedback command, the bot copies a message that a user sends to it anonymously to me, that way I can get feedback without the user being identified for any reason, security issues among them.
+
+
+
+
+I use one REST API for some very sophisticated treasure tables. The software is not open source for Steve Jackson Games intellectual property reasons, no personal information about the bot or the users is sent to the web service.
+https://df-treasure-generator.herokuapp.com/
+I use xml "libraries" from the GCS open source project that I keep up to date with git for my lookup and search commands. The libraries contain volunteered human data entered content from the game manuals in a normalized way that is conducive to searching.
+https://github.com/richardwilkes/gcs_library
+
+

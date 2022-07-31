@@ -1,0 +1,251 @@
+{
+	"type": "template",
+	"version": 2,
+	"id": "d2bdc0e8-682a-4360-9a4a-98de7d7e21ca",
+	"advantages": [
+		{
+			"type": "advantage_container",
+			"id": "4c3f81f8-1419-417e-9d48-e89c6bda7805",
+			"name": "Knife-Fighter",
+			"reference": "PY112:6",
+			"calc": {
+				"points": 2
+			},
+			"open": true,
+			"children": [
+				{
+					"type": "advantage",
+					"id": "12e8af1e-6efd-47d7-9257-da3093f79a61",
+					"name": "Quick-Sheathe (Knife)",
+					"physical": true,
+					"base_points": 1,
+					"reference": "PU2:7",
+					"calc": {
+						"points": 1
+					},
+					"categories": [
+						"Perk"
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "50fd450b-189f-45ad-836e-d69594ea5fb5",
+					"name": "Quick-Swap (Knife)",
+					"physical": true,
+					"base_points": 1,
+					"reference": "PU2:7",
+					"calc": {
+						"points": 1
+					},
+					"categories": [
+						"Perk"
+					]
+				}
+			]
+		}
+	],
+	"skills": [
+		{
+			"type": "skill_container",
+			"id": "ad6a4a10-1933-4497-a0d7-5b16d56255ce",
+			"name": "Knife-Fighter",
+			"reference": "PY112:6",
+			"open": true,
+			"children": [
+				{
+					"type": "technique",
+					"id": "fe8b4955-4b01-40e9-985c-3b86c890b760",
+					"name": "Arm Lock",
+					"reference": "MA65",
+					"difficulty": "a",
+					"points": 3,
+					"limit": 4,
+					"default": {
+						"type": "skill",
+						"name": "Knife"
+					},
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "skill_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Knife"
+								}
+							}
+						]
+					},
+					"categories": [
+						"Combat/Weapon",
+						"Melee Combat",
+						"Technique"
+					]
+				},
+				{
+					"type": "technique",
+					"id": "5f666b6a-e4d9-4d8f-a105-1fc00bca7eab",
+					"name": "Armed Grapple",
+					"reference": "MA67",
+					"difficulty": "h",
+					"points": 2,
+					"limit": 0,
+					"default": {
+						"type": "skill",
+						"name": "Knife",
+						"modifier": -2
+					},
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "skill_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "Knife"
+								}
+							}
+						]
+					},
+					"categories": [
+						"Combat/Weapon",
+						"Melee Combat",
+						"Technique"
+					]
+				},
+				{
+					"type": "skill",
+					"id": "11a47050-0feb-4f4d-b017-7b516fc9ffe6",
+					"name": "Armoury",
+					"reference": "B178",
+					"specialization": "Melee Weapons",
+					"tech_level": "",
+					"difficulty": "iq/a",
+					"points": 1,
+					"defaults": [
+						{
+							"type": "iq",
+							"modifier": -5
+						},
+						{
+							"type": "skill",
+							"name": "Engineer",
+							"specialization": "Melee Weapons",
+							"modifier": -4
+						}
+					],
+					"categories": [
+						"Military",
+						"Repair/Maintainance"
+					]
+				},
+				{
+					"type": "skill",
+					"id": "0e0a30ca-f320-4d9a-9430-c57b81540add",
+					"name": "Fast-Draw",
+					"reference": "B194",
+					"specialization": "Knife",
+					"difficulty": "dx/e",
+					"points": 1,
+					"categories": [
+						"Combat/Weapon",
+						"Melee Combat"
+					]
+				},
+				{
+					"type": "skill",
+					"id": "720ec2c4-3f28-4970-b14d-fac06c345e51",
+					"name": "Holdout",
+					"reference": "B200",
+					"difficulty": "iq/a",
+					"points": 4,
+					"defaults": [
+						{
+							"type": "iq",
+							"modifier": -5
+						},
+						{
+							"type": "skill",
+							"name": "Sleight of Hand",
+							"modifier": -3
+						}
+					],
+					"categories": [
+						"Criminal/Street",
+						"Spy"
+					]
+				},
+				{
+					"type": "skill",
+					"id": "2167b082-c256-4eb9-b01c-76179d5c1f69",
+					"name": "Knife",
+					"reference": "B208",
+					"difficulty": "dx/e",
+					"points": 8,
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					],
+					"categories": [
+						"Combat/Weapon",
+						"Melee Combat"
+					]
+				},
+				{
+					"type": "technique",
+					"id": "4696705e-d3fd-402e-9122-52dc134189c3",
+					"name": "Targeted Attack (Knife Thrust/Vitals)",
+					"reference": "MA68",
+					"difficulty": "h",
+					"points": 3,
+					"limit": -1,
+					"default": {
+						"type": "skill",
+						"name": "Knife",
+						"modifier": -3
+					}
+				},
+				{
+					"type": "skill",
+					"id": "3a13ce62-7592-4eaa-8fa3-83ed7da4ccf2",
+					"name": "Thrown Weapon",
+					"reference": "B226",
+					"specialization": "Knife",
+					"difficulty": "dx/e",
+					"points": 1,
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					],
+					"categories": [
+						"Combat/Weapon",
+						"Ranged Combat"
+					]
+				}
+			]
+		}
+	]
+}

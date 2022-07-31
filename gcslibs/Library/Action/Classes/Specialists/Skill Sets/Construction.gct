@@ -1,0 +1,416 @@
+{
+	"type": "template",
+	"version": 2,
+	"id": "2765d2bd-2ad7-4172-8990-16d13d30c2b1",
+	"advantages": [
+		{
+			"type": "advantage_container",
+			"id": "ecad0834-f3b7-4ff2-a99d-6997e92b77e6",
+			"name": "Construction",
+			"reference": "ACT4:13",
+			"calc": {
+				"points": 11
+			},
+			"open": true,
+			"children": [
+				{
+					"type": "advantage",
+					"id": "ded62c99-4c09-4f1f-83eb-545568ad136e",
+					"name": "Talent (Artificer)",
+					"mental": true,
+					"levels": "1",
+					"points_per_level": 10,
+					"modifiers": [
+						{
+							"type": "modifier",
+							"id": "f2eafc73-9b5f-42f3-9202-4d162ec64aae",
+							"name": "Reaction Bonus",
+							"cost_type": "percentage",
+							"cost": 0,
+							"affects": "total",
+							"notes": "Any employer"
+						}
+					],
+					"reference": "B90",
+					"calc": {
+						"points": 10
+					},
+					"features": [
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "armoury"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Carpentry"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Electrician"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Electronics Repair"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Engineer"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Machinist"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Masonry"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Mechanic"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Smith"
+							}
+						}
+					],
+					"categories": [
+						"Advantage",
+						"Talent"
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "910ba593-d683-46e5-bde1-706fdf028324",
+					"name": "Equipment Bond (@any one tool kit or construction vehicle@)",
+					"physical": true,
+					"base_points": 1,
+					"reference": "MH1:25",
+					"calc": {
+						"points": 1
+					},
+					"categories": [
+						"Perk"
+					]
+				}
+			]
+		}
+	],
+	"skills": [
+		{
+			"type": "skill_container",
+			"id": "992d3d3b-5925-49d5-a9ab-d1c35e4110a6",
+			"name": "Construction",
+			"reference": "ACT4:13",
+			"open": true,
+			"children": [
+				{
+					"type": "skill",
+					"id": "c795c4e4-13f3-445f-b851-11f1429f6feb",
+					"name": "Architecture",
+					"reference": "B176",
+					"tech_level": "",
+					"difficulty": "iq/a",
+					"points": 4,
+					"defaults": [
+						{
+							"type": "iq",
+							"modifier": -5
+						},
+						{
+							"type": "skill",
+							"name": "Engineer",
+							"specialization": "Civil",
+							"modifier": -4
+						}
+					],
+					"categories": [
+						"Design/Invention"
+					]
+				},
+				{
+					"type": "skill",
+					"id": "d6ef9fdb-1b3b-4f01-a4d7-4e2c6dd60796",
+					"name": "Forced Entry",
+					"reference": "B196",
+					"difficulty": "dx/e",
+					"points": 2,
+					"categories": [
+						"Criminal/Street",
+						"Police",
+						"Spy"
+					]
+				},
+				{
+					"type": "skill_container",
+					"id": "511c3d79-4259-4aca-ab0b-8bbd0e7fe0e3",
+					"name": "Two of",
+					"open": false,
+					"children": [
+						{
+							"type": "skill",
+							"id": "ac3a2a8d-d52d-44ce-997f-8efbffaa4219",
+							"name": "Carpentry",
+							"reference": "B183",
+							"difficulty": "iq/e",
+							"points": 2,
+							"defaults": [
+								{
+									"type": "iq",
+									"modifier": -4
+								}
+							],
+							"categories": [
+								"Craft"
+							]
+						},
+						{
+							"type": "skill",
+							"id": "ff68aa84-9702-41a9-9f5d-eddb03f96316",
+							"name": "Masonry",
+							"reference": "B207",
+							"difficulty": "iq/e",
+							"points": 2,
+							"defaults": [
+								{
+									"type": "iq",
+									"modifier": -4
+								}
+							],
+							"categories": [
+								"Craft"
+							]
+						},
+						{
+							"type": "skill",
+							"id": "488e0043-b363-4593-af95-2ea80e4920e7",
+							"name": "Electrician",
+							"reference": "B189",
+							"tech_level": "",
+							"difficulty": "iq/a",
+							"points": 2,
+							"defaults": [
+								{
+									"type": "iq",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Engineer",
+									"specialization": "Electrical",
+									"modifier": -3
+								}
+							],
+							"categories": [
+								"Repair/Maintainance"
+							]
+						},
+						{
+							"type": "skill",
+							"id": "75e05a72-8044-40c0-aad8-6e91edc1ad14",
+							"name": "Machinist",
+							"reference": "B206",
+							"tech_level": "",
+							"difficulty": "iq/a",
+							"points": 2,
+							"defaults": [
+								{
+									"type": "iq",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Mechanic",
+									"modifier": -5
+								}
+							],
+							"categories": [
+								"Repair/Maintainance"
+							]
+						},
+						{
+							"type": "skill",
+							"id": "1a47f4b2-d2a1-4ba1-b2ab-8d9dc9dfc4d5",
+							"name": "Mechanic",
+							"reference": "B207",
+							"specialization": "@Machine class@",
+							"tech_level": "",
+							"difficulty": "iq/a",
+							"points": 2,
+							"defaults": [
+								{
+									"type": "iq",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Engineer",
+									"specialization": "Aerospace",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Machinist",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Mechanic",
+									"modifier": -4
+								}
+							],
+							"categories": [
+								"Repair/Maintainance"
+							]
+						},
+						{
+							"type": "skill",
+							"id": "b8e0dd05-5aa8-4dea-8dfa-2c8e8d35cfaa",
+							"name": "Engineer",
+							"reference": "B190",
+							"specialization": "Combat",
+							"tech_level": "",
+							"difficulty": "iq/h",
+							"points": 2,
+							"prereqs": {
+								"type": "prereq_list",
+								"all": true,
+								"when_tl": {
+									"compare": "at_least",
+									"qualifier": 5
+								},
+								"prereqs": [
+									{
+										"type": "skill_prereq",
+										"has": true,
+										"name": {
+											"compare": "is",
+											"qualifier": "mathematics"
+										},
+										"specialization": {
+											"compare": "is",
+											"qualifier": "applied"
+										}
+									}
+								]
+							},
+							"defaults": [
+								{
+									"type": "skill",
+									"name": "Explosives",
+									"specialization": "Demolition",
+									"modifier": -6
+								}
+							],
+							"categories": [
+								"Design/Invention",
+								"Engineer"
+							]
+						}
+					]
+				},
+				{
+					"type": "skill_container",
+					"id": "988ac71b-9f5b-4425-9e9b-0f78efb4c9de",
+					"name": "One of",
+					"open": false,
+					"children": [
+						{
+							"type": "skill",
+							"id": "eb8562f4-c25c-403e-8e5e-25a03522936e",
+							"name": "Area Knowledge",
+							"reference": "B176",
+							"specialization": "@City or tunnels under a city@",
+							"difficulty": "iq/e",
+							"points": 4,
+							"defaults": [
+								{
+									"type": "skill",
+									"name": "Geography",
+									"specialization": "@Specialty@",
+									"modifier": -3
+								}
+							],
+							"notes": "All important businesses, streets, citizens, leaders, etc.",
+							"categories": [
+								"Everyman",
+								"Knowledge"
+							]
+						},
+						{
+							"type": "skill",
+							"id": "563c2f0b-de18-46c7-bd6f-9f6a1c0b2c15",
+							"name": "Urban Survival",
+							"reference": "B228",
+							"difficulty": "per/a",
+							"points": 4,
+							"defaults": [
+								{
+									"type": "per",
+									"modifier": -5
+								}
+							],
+							"categories": [
+								"Criminal/Street",
+								"Police"
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

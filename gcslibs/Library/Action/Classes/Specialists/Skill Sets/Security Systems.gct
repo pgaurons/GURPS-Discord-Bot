@@ -1,0 +1,300 @@
+{
+	"type": "template",
+	"version": 2,
+	"id": "699f0389-23d0-4c10-a637-3423fec951e8",
+	"advantages": [
+		{
+			"type": "advantage_container",
+			"id": "6990ff4f-5913-4d77-bfd5-7f5f0ee51a1b",
+			"name": "Security Systems",
+			"reference": "ACT4:21",
+			"calc": {
+				"points": 12
+			},
+			"open": true,
+			"children": [
+				{
+					"type": "advantage",
+					"id": "4250a7d3-97b7-4597-a7d9-de3cdbf4b86c",
+					"name": "Talent (Circuit Sense)",
+					"mental": true,
+					"levels": "2",
+					"points_per_level": 5,
+					"reference": "ACT1:19",
+					"calc": {
+						"points": 10
+					},
+					"features": [
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Electrician"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Electronics Operation"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Electronics Repair"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Electrical"
+							},
+							"name": {
+								"compare": "is",
+								"qualifier": "Engineer"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Electronics"
+							},
+							"name": {
+								"compare": "is",
+								"qualifier": "Engineer"
+							}
+						}
+					],
+					"categories": [
+						"Advantage"
+					]
+				},
+				{
+					"type": "advantage_container",
+					"id": "892617f1-2919-4882-ad71-f9834a379611",
+					"name": "Choose one",
+					"calc": {
+						"points": 2
+					},
+					"open": false,
+					"children": [
+						{
+							"type": "advantage",
+							"id": "cd818805-990e-44cf-bdca-7995742628db",
+							"name": "Cheaper (Electronics; 10%)",
+							"social": true,
+							"base_points": 1,
+							"reference": "PU2:8",
+							"calc": {
+								"points": 1
+							},
+							"prereqs": {
+								"type": "prereq_list",
+								"all": true,
+								"prereqs": [
+									{
+										"type": "advantage_prereq",
+										"has": true,
+										"name": {
+											"compare": "is",
+											"qualifier": "High-Heeled Heroine"
+										}
+									}
+								]
+							},
+							"categories": [
+								"Perk"
+							]
+						},
+						{
+							"type": "advantage",
+							"id": "a1eeadb2-1709-4adf-905f-89e4e83d9992",
+							"name": "Equipment Bond (@any one tool kit or electronic burglary gadget@)",
+							"physical": true,
+							"base_points": 1,
+							"reference": "MH1:25",
+							"calc": {
+								"points": 1
+							},
+							"categories": [
+								"Perk"
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"skills": [
+		{
+			"type": "skill_container",
+			"id": "a42e3ce7-3295-4c3b-85e0-d06aa6e2dd52",
+			"name": "Security Systems",
+			"reference": "ACT4:21",
+			"open": true,
+			"children": [
+				{
+					"type": "skill",
+					"id": "85f550b8-63f5-4bb2-8263-cac8568aeae7",
+					"name": "Computer Operation",
+					"reference": "B184",
+					"tech_level": "",
+					"difficulty": "iq/e",
+					"points": 1,
+					"defaults": [
+						{
+							"type": "iq",
+							"modifier": -4
+						}
+					],
+					"categories": [
+						"Everyman",
+						"Scholarly",
+						"Technical"
+					]
+				},
+				{
+					"type": "skill",
+					"id": "c5029f52-17e3-4d60-a4eb-4d5c011107bb",
+					"name": "Electrician",
+					"reference": "B189",
+					"tech_level": "",
+					"difficulty": "iq/a",
+					"points": 1,
+					"defaults": [
+						{
+							"type": "iq",
+							"modifier": -5
+						},
+						{
+							"type": "skill",
+							"name": "Engineer",
+							"specialization": "Electrical",
+							"modifier": -3
+						}
+					],
+					"categories": [
+						"Repair/Maintainance"
+					]
+				},
+				{
+					"type": "skill",
+					"id": "6ab7b3c0-a7b4-4cc9-9f45-2a8a149c077e",
+					"name": "Electronics Operation",
+					"reference": "B189",
+					"specialization": "Security",
+					"tech_level": "",
+					"difficulty": "iq/a",
+					"points": 4,
+					"defaults": [
+						{
+							"type": "iq",
+							"modifier": -5
+						},
+						{
+							"type": "skill",
+							"name": "Electronics Operation",
+							"specialization": "Security",
+							"modifier": -5
+						},
+						{
+							"type": "skill",
+							"name": "Engineer",
+							"specialization": "Electronics",
+							"modifier": -5
+						},
+						{
+							"type": "skill",
+							"name": "Electronics Operation",
+							"modifier": -4
+						}
+					],
+					"categories": [
+						"Criminal/Street",
+						"Spy",
+						"Technical"
+					]
+				},
+				{
+					"type": "skill",
+					"id": "502ebaf6-3309-4d08-b44c-9ed6fa09d057",
+					"name": "Electronics Repair",
+					"reference": "B190",
+					"specialization": "Security",
+					"tech_level": "",
+					"difficulty": "iq/a",
+					"points": 4,
+					"defaults": [
+						{
+							"type": "iq",
+							"modifier": -5
+						},
+						{
+							"type": "skill",
+							"name": "Electronics Operation",
+							"specialization": "Security",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Engineer",
+							"specialization": "Electronics",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Electronics Repair",
+							"modifier": -4
+						}
+					],
+					"categories": [
+						"Repair/Maintainance"
+					]
+				},
+				{
+					"type": "skill",
+					"id": "2b5f015c-380e-4d85-8086-b75774c9d4ee",
+					"name": "Traps",
+					"reference": "B226",
+					"tech_level": "",
+					"difficulty": "iq/a",
+					"points": 4,
+					"defaults": [
+						{
+							"type": "iq",
+							"modifier": -5
+						},
+						{
+							"type": "skill",
+							"name": "Lockpicking",
+							"modifier": -3
+						}
+					],
+					"categories": [
+						"Criminal/Street",
+						"Military"
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,427 @@
+{
+	"type": "template",
+	"version": 2,
+	"id": "a1b60453-2674-4e9e-91a5-51bddc763476",
+	"advantages": [
+		{
+			"type": "advantage_container",
+			"id": "1f18e8ad-ddd5-4f8d-aa52-4b2010bfd786",
+			"name": "Command",
+			"reference": "ACT4:13",
+			"calc": {
+				"points": 6
+			},
+			"open": true,
+			"children": [
+				{
+					"type": "advantage",
+					"id": "55d8b48c-50a9-411e-956a-b20040f60dbd",
+					"name": "Charisma",
+					"mental": true,
+					"levels": "1",
+					"points_per_level": 5,
+					"reference": "B41",
+					"calc": {
+						"points": 5
+					},
+					"features": [
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "fortune-telling"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "leadership"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "panhandling"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": 1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "public speaking"
+							}
+						}
+					],
+					"notes": "+1/level to Influence rolls",
+					"categories": [
+						"Advantage"
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "d41fb58e-8531-4495-ac85-0e015708bdc6",
+					"name": "Penetrating Voice",
+					"physical": true,
+					"base_points": 1,
+					"reference": "B101",
+					"calc": {
+						"points": 1
+					},
+					"categories": [
+						"Perk"
+					]
+				}
+			]
+		}
+	],
+	"skills": [
+		{
+			"type": "skill_container",
+			"id": "489435fd-3897-409b-86dc-d1b8d5e72936",
+			"name": "Command",
+			"reference": "ACT4:13",
+			"open": true,
+			"children": [
+				{
+					"type": "skill",
+					"id": "137e190e-e5a3-455d-9933-87debcef3dc4",
+					"name": "Administration",
+					"reference": "B174",
+					"difficulty": "iq/a",
+					"points": 2,
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Merchant",
+							"modifier": -3
+						},
+						{
+							"type": "iq",
+							"modifier": -5
+						}
+					],
+					"categories": [
+						"Business",
+						"Social"
+					]
+				},
+				{
+					"type": "skill",
+					"id": "04d51b00-bd63-4694-b3b6-3932bb57cc76",
+					"name": "Diplomacy",
+					"reference": "B187",
+					"difficulty": "iq/h",
+					"points": 4,
+					"defaults": [
+						{
+							"type": "iq",
+							"modifier": -6
+						},
+						{
+							"type": "skill",
+							"name": "Politics",
+							"modifier": -6
+						}
+					],
+					"categories": [
+						"Business",
+						"Police",
+						"Social"
+					]
+				},
+				{
+					"type": "skill",
+					"id": "b9ce1298-79ea-454f-91b4-b3ca14d884b0",
+					"name": "Intimidation",
+					"reference": "B202",
+					"difficulty": "will/a",
+					"points": 2,
+					"defaults": [
+						{
+							"type": "per",
+							"modifier": -5
+						},
+						{
+							"type": "skill",
+							"name": "Acting",
+							"modifier": -3
+						}
+					],
+					"categories": [
+						"Criminal/Street",
+						"Police",
+						"Social"
+					]
+				},
+				{
+					"type": "skill",
+					"id": "58498b7a-6d52-4af2-9aa6-b2afc44b9ed7",
+					"name": "Leadership",
+					"reference": "B204",
+					"difficulty": "iq/a",
+					"points": 4,
+					"defaults": [
+						{
+							"type": "iq",
+							"modifier": -5
+						}
+					],
+					"categories": [
+						"Military",
+						"Social"
+					]
+				},
+				{
+					"type": "skill",
+					"id": "6445a8f0-1697-4b9a-86a5-b59cb4204a66",
+					"name": "Teaching",
+					"reference": "B224",
+					"difficulty": "iq/a",
+					"points": 2,
+					"defaults": [
+						{
+							"type": "iq",
+							"modifier": -5
+						}
+					],
+					"categories": [
+						"Scholarly",
+						"Social"
+					]
+				},
+				{
+					"type": "skill_container",
+					"id": "3a4a8dd8-a0e1-465b-8510-37925d8b8c6a",
+					"name": "Choose one",
+					"open": false,
+					"children": [
+						{
+							"type": "skill",
+							"id": "81498ccc-6a6d-4b2c-a06f-80f1d299c49b",
+							"name": "Savoir-Faire",
+							"reference": "B218",
+							"specialization": "Military",
+							"difficulty": "iq/e",
+							"points": 1,
+							"defaults": [
+								{
+									"type": "iq",
+									"modifier": -4
+								}
+							],
+							"categories": [
+								"Knowledge",
+								"Military",
+								"Social"
+							]
+						},
+						{
+							"type": "skill",
+							"id": "ced28fd1-bcd9-4191-82ea-11d2dce766ac",
+							"name": "Savoir-Faire",
+							"reference": "B218",
+							"specialization": "Police",
+							"difficulty": "iq/e",
+							"points": 1,
+							"defaults": [
+								{
+									"type": "iq",
+									"modifier": -4
+								}
+							],
+							"categories": [
+								"Knowledge",
+								"Police",
+								"Social"
+							]
+						}
+					]
+				},
+				{
+					"type": "skill_container",
+					"id": "2ddd66bc-b758-4168-9a8f-84b0b3f36315",
+					"name": "Total of 4 points in",
+					"open": false,
+					"children": [
+						{
+							"type": "skill",
+							"id": "a092742e-6599-4bc1-923c-6aa508588586",
+							"name": "Expert Skill",
+							"reference": "B193",
+							"specialization": "Military Science",
+							"difficulty": "iq/h",
+							"points": 1,
+							"categories": [
+								"Knowledge",
+								"Military",
+								"Scholarly"
+							]
+						},
+						{
+							"type": "skill",
+							"id": "b048f36f-cb1a-4f11-b2b7-d8bad80ead07",
+							"name": "Law",
+							"reference": "B204",
+							"specialization": "Police",
+							"difficulty": "iq/h",
+							"points": 1,
+							"defaults": [
+								{
+									"type": "iq",
+									"modifier": -6
+								}
+							],
+							"categories": [
+								"Business",
+								"Police",
+								"Social Sciences/Humanities"
+							]
+						},
+						{
+							"type": "skill",
+							"id": "41f73717-2094-403b-8833-03535e765990",
+							"name": "Strategy",
+							"reference": "B222",
+							"specialization": "@Specialty@",
+							"difficulty": "iq/h",
+							"points": 1,
+							"defaults": [
+								{
+									"type": "iq",
+									"modifier": -6
+								},
+								{
+									"type": "skill",
+									"name": "Intelligence Analysis",
+									"modifier": -6
+								},
+								{
+									"type": "skill",
+									"name": "Tactics",
+									"modifier": -6
+								},
+								{
+									"type": "skill",
+									"name": "Strategy",
+									"modifier": -4
+								}
+							],
+							"categories": [
+								"Military"
+							]
+						},
+						{
+							"type": "skill",
+							"id": "0e2f8b96-0eab-4287-b004-fb24348f269b",
+							"name": "Tactics",
+							"reference": "B224",
+							"difficulty": "iq/h",
+							"points": 1,
+							"defaults": [
+								{
+									"type": "iq",
+									"modifier": -6
+								},
+								{
+									"type": "skill",
+									"name": "Strategy",
+									"modifier": -6
+								}
+							],
+							"categories": [
+								"Military",
+								"Police"
+							]
+						},
+						{
+							"type": "skill_container",
+							"id": "b5f9334c-da00-4d7a-8d60-0ce5f3dde032",
+							"name": "Those with Sailor add",
+							"open": true,
+							"children": [
+								{
+									"type": "skill",
+									"id": "528cbcc1-a049-4b9b-92a3-989cd1baf801",
+									"name": "Shiphandling",
+									"reference": "B220",
+									"specialization": "@Ship class@",
+									"tech_level": "",
+									"difficulty": "iq/h",
+									"points": 1,
+									"prereqs": {
+										"type": "prereq_list",
+										"all": true,
+										"prereqs": [
+											{
+												"type": "skill_prereq",
+												"has": true,
+												"name": {
+													"compare": "is",
+													"qualifier": "navigation"
+												},
+												"specialization": {
+													"compare": "is",
+													"qualifier": "air"
+												}
+											},
+											{
+												"type": "skill_prereq",
+												"has": true,
+												"name": {
+													"compare": "is",
+													"qualifier": "leadership"
+												}
+											},
+											{
+												"type": "skill_prereq",
+												"has": true,
+												"name": {
+													"compare": "is",
+													"qualifier": "airshipman"
+												}
+											}
+										]
+									},
+									"defaults": [
+										{
+											"type": "iq",
+											"modifier": -6
+										},
+										{
+											"type": "skill",
+											"name": "Airshipman",
+											"modifier": -5
+										},
+										{
+											"type": "skill",
+											"name": "Piloting",
+											"specialization": "Lighter-Than-Air",
+											"modifier": -5
+										}
+									],
+									"categories": [
+										"Vehicle"
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

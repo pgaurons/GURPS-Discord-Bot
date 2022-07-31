@@ -1,0 +1,3811 @@
+{
+	"type": "equipment_list",
+	"version": 2,
+	"id": "8d3adf55-405e-46b8-b279-9eba09343127",
+	"rows": [
+		{
+			"type": "equipment",
+			"id": "78c8d610-f514-46fd-bfa7-9e94f230a66b",
+			"quantity": 1,
+			"description": "ISTEC ISL201, 40x46mmSR",
+			"tech_level": "8",
+			"legality_class": "1",
+			"value": "1000",
+			"weight": "3.2 lb",
+			"reference": "TS67",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "cr ex",
+						"base": "4d-1",
+						"fragmentation": "2d",
+						"fragmentation_type": "cut"
+					},
+					"strength": "8†",
+					"accuracy": "1",
+					"range": "30/440",
+					"rate_of_fire": "1",
+					"shots": "1(3)",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "30/440",
+						"damage": "4d-1 cr ex [2d cut]"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Grenade Launcher"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -4
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1000",
+				"extended_weight": "3.2 lb"
+			},
+			"notes": "First Range figure is minimum range, not 1/2D, underbarrel",
+			"categories": [
+				"Grenade Launchers",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "e45187e7-c0b2-444d-97e9-f1e6a62940fe",
+			"quantity": 1,
+			"description": "SOG M79, 40x46mmSR",
+			"tech_level": "7",
+			"legality_class": "1",
+			"value": "500",
+			"weight": "4 lb",
+			"reference": "TS66",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "cr ex",
+						"base": "4d-1",
+						"fragmentation": "2d",
+						"fragmentation_type": "cut"
+					},
+					"strength": "12†",
+					"accuracy": "1",
+					"range": "30/300",
+					"rate_of_fire": "1",
+					"shots": "1(3)",
+					"bulk": "-3",
+					"recoil": "3",
+					"calc": {
+						"level": 0,
+						"range": "30/300",
+						"damage": "4d-1 cr ex [2d cut]"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Grenade Launcher"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -4
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "500",
+				"extended_weight": "4 lb"
+			},
+			"notes": "First Range figure is minimum range, not 1/2D",
+			"categories": [
+				"Grenade Launchers",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "b5c90106-8817-402c-a6b7-b7e2d8a39a89",
+			"quantity": 1,
+			"description": "TOZ GSN-19, 30mm",
+			"tech_level": "7",
+			"legality_class": "1",
+			"value": "1500",
+			"weight": "4.3 lb",
+			"reference": "TS66",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "cr ex, 4d-1 cr ex",
+						"base": "1d+1",
+						"armor_divisor": 10
+					},
+					"strength": "10†",
+					"accuracy": "2",
+					"range": "30/440",
+					"rate_of_fire": "1",
+					"shots": "1(3)",
+					"recoil": "3",
+					"calc": {
+						"level": 0,
+						"range": "30/440",
+						"damage": "1d+1(10) cr ex, 4d-1 cr ex"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Grenade Launcher"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -4
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1500",
+				"extended_weight": "4.3 lb"
+			},
+			"notes": "First Range figure is minimum range, not 1/2D, silent, underbarrel",
+			"categories": [
+				"Grenade Launchers",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "e7879edc-c705-4ce6-9bec-17601f424d4e",
+			"quantity": 1,
+			"description": "ALS Pocket Smoke",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "25",
+			"weight": "0.17 lb",
+			"reference": "TS67",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "smoke (4 yd.)"
+					},
+					"bulk": "-1",
+					"calc": {
+						"level": 0,
+						"range": "",
+						"damage": "smoke (4 yd.)"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Throwing"
+						},
+						{
+							"type": "skill",
+							"name": "Dropping",
+							"modifier": -4
+						},
+						{
+							"type": "dx",
+							"modifier": -3
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "25",
+				"extended_weight": "0.17 lb"
+			},
+			"notes": "Takes a Ready maneuver to pull the pin, 1-2 Fuse",
+			"categories": [
+				"Grenades",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "198552a0-e576-4089-b440-2eee89e4df47",
+			"quantity": 1,
+			"description": "ARGES HG 84",
+			"tech_level": "8",
+			"legality_class": "1",
+			"value": "30",
+			"weight": "1.1 lb",
+			"reference": "TS67",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "cr ex",
+						"base": "6d+2",
+						"fragmentation": "2d",
+						"fragmentation_type": "cut"
+					},
+					"bulk": "-2",
+					"calc": {
+						"level": 0,
+						"range": "",
+						"damage": "6d+2 cr ex [2d cut]"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Throwing"
+						},
+						{
+							"type": "skill",
+							"name": "Dropping",
+							"modifier": -4
+						},
+						{
+							"type": "dx",
+							"modifier": -3
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "30",
+				"extended_weight": "1.1 lb"
+			},
+			"notes": "Takes a Ready maneuver to pull the pin, 4-5 Fuse",
+			"categories": [
+				"Grenades",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "15628c00-ea80-4f85-ba30-e3d445622ac3",
+			"quantity": 1,
+			"description": "Kodak T13 Beano",
+			"tech_level": "7",
+			"legality_class": "1",
+			"value": "40",
+			"weight": "0.75 lb",
+			"reference": "TS67",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "cr ex",
+						"base": "7d+2",
+						"fragmentation": "2d",
+						"fragmentation_type": "cut"
+					},
+					"bulk": "-2",
+					"calc": {
+						"level": 0,
+						"range": "",
+						"damage": "7d+2 cr ex [2d cut]"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Throwing"
+						},
+						{
+							"type": "skill",
+							"name": "Dropping",
+							"modifier": -4
+						},
+						{
+							"type": "dx",
+							"modifier": -3
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "40",
+				"extended_weight": "0.75 lb"
+			},
+			"notes": "Takes a Ready maneuver to pull the pin, Unreliable, Impact Fuse",
+			"categories": [
+				"Grenades",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "ae0710b0-7d03-4080-b9ea-90c417aa7ca7",
+			"quantity": 1,
+			"description": "ARES Shrike 5.56 AMG, 5.56x45mm",
+			"tech_level": "8",
+			"legality_class": "2",
+			"value": "5300",
+			"weight": "10.4 lb",
+			"reference": "TS66",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "4d+1"
+					},
+					"strength": "9†",
+					"accuracy": "4",
+					"range": "700/2900",
+					"rate_of_fire": "10",
+					"shots": "100(5)",
+					"bulk": "-4",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "700/2900",
+						"damage": "4d+1 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Light Machine Gun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Gunner",
+							"specialization": "Machine Gun",
+							"modifier": -2
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "5300",
+				"extended_weight": "10.4 lb"
+			},
+			"categories": [
+				"Machine Guns",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "75b18aa2-ea40-4603-a98e-2387721f12fa",
+			"quantity": 1,
+			"description": "Browning Stinger, .30-06",
+			"tech_level": "6",
+			"legality_class": "2",
+			"value": "8500",
+			"weight": "30 lb",
+			"reference": "TS65",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "7d"
+					},
+					"strength": "12B†",
+					"accuracy": "5",
+					"range": "1000/4400",
+					"rate_of_fire": "20!",
+					"shots": "100(5)",
+					"bulk": "-7",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "1000/4400",
+						"damage": "7d pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Light Machine Gun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Gunner",
+							"specialization": "Machine Gun",
+							"modifier": -2
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "8500",
+				"extended_weight": "30 lb"
+			},
+			"categories": [
+				"Machine Guns",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "43317421-9459-405f-b517-651c09314e4c",
+			"quantity": 1,
+			"description": "SOG RPD, 7.62x39mm",
+			"tech_level": "7",
+			"legality_class": "2",
+			"value": "1500",
+			"weight": "13.9 lb",
+			"reference": "TS66",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "4d+1"
+					},
+					"strength": "10†",
+					"accuracy": "4",
+					"range": "550/2300",
+					"rate_of_fire": "13",
+					"shots": "125(5)",
+					"bulk": "-6",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "550/2300",
+						"damage": "4d+1 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Light Machine Gun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Gunner",
+							"specialization": "Machine Gun",
+							"modifier": -2
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1500",
+				"extended_weight": "13.9 lb"
+			},
+			"categories": [
+				"Machine Guns",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "691b136c-cf45-48bc-93f5-7a81df93db55",
+			"quantity": 1,
+			"description": "Concealed Carry Clothing",
+			"tech_level": "8",
+			"value": "60",
+			"weight": "1 lb",
+			"reference": "TS73",
+			"calc": {
+				"extended_value": "60",
+				"extended_weight": "1 lb"
+			},
+			"notes": "-2 Fast-Draw, +2 Holdout",
+			"categories": [
+				"Mountings",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "1e267d2f-2082-4eaf-af50-426189349426",
+			"quantity": 1,
+			"description": "Long Arm Holster",
+			"tech_level": "6",
+			"value": "150",
+			"weight": "2 lb",
+			"reference": "TS73",
+			"calc": {
+				"extended_value": "150",
+				"extended_weight": "2 lb"
+			},
+			"notes": "-3 Fast-Draw (Long Arm)",
+			"categories": [
+				"Mountings",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "523b209f-df99-4079-bfb2-a3aaed748a2f",
+			"quantity": 1,
+			"description": "One-Point Sling, Expensive",
+			"tech_level": "5",
+			"value": "20",
+			"weight": "0.5 lb",
+			"reference": "TS71",
+			"calc": {
+				"extended_value": "20",
+				"extended_weight": "0.5 lb"
+			},
+			"notes": "+1 Fast Draw (Long Arm)",
+			"categories": [
+				"Mountings",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "62fb8046-2fb2-40db-9c9c-2b284377572b",
+			"quantity": 1,
+			"description": "One-Point Sling, Leather",
+			"tech_level": "5",
+			"value": "10",
+			"weight": "0.8 lb",
+			"reference": "TS71",
+			"calc": {
+				"extended_value": "10",
+				"extended_weight": "0.8 lb"
+			},
+			"notes": "+1 Fast Draw (Long Arm)",
+			"categories": [
+				"Mountings",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "ad2b7a52-ee14-4c41-97b5-bc5faa37edfa",
+			"quantity": 1,
+			"description": "One-Point Sling, Syntetic",
+			"tech_level": "8",
+			"value": "50",
+			"weight": "0.4 lb",
+			"reference": "TS71",
+			"calc": {
+				"extended_value": "50",
+				"extended_weight": "0.4 lb"
+			},
+			"notes": "+1 Fast Draw (Long Arm)",
+			"categories": [
+				"Mountings",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "817733cf-0259-4c02-afd3-eafd00277b17",
+			"quantity": 1,
+			"description": "Pistol Holster, Pocket",
+			"tech_level": "5",
+			"value": "50",
+			"weight": "0.5 lb",
+			"reference": "TS72",
+			"calc": {
+				"extended_value": "50",
+				"extended_weight": "0.5 lb"
+			},
+			"notes": "reduced (-2) Fast Draw penalty",
+			"categories": [
+				"Mountings",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "6ac84586-b228-495f-a6a4-3e3f6214a30c",
+			"quantity": 1,
+			"description": "Pistol Holster, Speed",
+			"tech_level": "8",
+			"value": "200",
+			"weight": "0.5 lb",
+			"reference": "TS72",
+			"calc": {
+				"extended_value": "200",
+				"extended_weight": "0.5 lb"
+			},
+			"notes": "+1 Fast-Draw (Pistol). -2 Holdout",
+			"categories": [
+				"Mountings",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "6a96bfb1-32e0-4b21-a919-becd5131cba0",
+			"quantity": 1,
+			"description": "Pistol Holster, Tactical",
+			"tech_level": "8",
+			"value": "50",
+			"weight": "0.5 lb",
+			"reference": "TS72",
+			"calc": {
+				"extended_value": "50",
+				"extended_weight": "0.5 lb"
+			},
+			"categories": [
+				"Mountings",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "c0e69cc3-314a-4d92-8630-023a5e9d12fe",
+			"quantity": 1,
+			"description": "Retention Device",
+			"tech_level": "8",
+			"value": "25",
+			"weight": "0.5 lb",
+			"reference": "TS72",
+			"calc": {
+				"extended_value": "25",
+				"extended_weight": "0.5 lb"
+			},
+			"notes": "+2 to Retain Weapon (Long Arm)",
+			"categories": [
+				"Mountings",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "02c4119b-fe0e-4a8a-81d5-7e3a27bbf772",
+			"quantity": 1,
+			"description": "Shoulder Rig",
+			"tech_level": "8",
+			"value": "120",
+			"weight": "1 lb",
+			"reference": "TS73",
+			"calc": {
+				"extended_value": "120",
+				"extended_weight": "1 lb"
+			},
+			"notes": "+1 Holdout, +2 Retain Weapon",
+			"categories": [
+				"Mountings",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "b4c2084b-3174-4e8c-925b-3df6528c9220",
+			"quantity": 1,
+			"description": "Sling Swivels",
+			"tech_level": "5",
+			"value": "20",
+			"weight": "0.1 lb",
+			"reference": "TS71",
+			"calc": {
+				"extended_value": "20",
+				"extended_weight": "0.1 lb"
+			},
+			"categories": [
+				"Mountings",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "7d434873-0060-4be6-b32e-715d0d41db86",
+			"quantity": 1,
+			"description": "Three-Point Patrol Sling",
+			"tech_level": "7",
+			"value": "50",
+			"weight": "0.4 lb",
+			"reference": "TS72",
+			"calc": {
+				"extended_value": "50",
+				"extended_weight": "0.4 lb"
+			},
+			"categories": [
+				"Mountings",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "e886081d-11af-496a-98da-3c5c90bcc6a2",
+			"quantity": 1,
+			"description": "Two-Point Sling, Canvas",
+			"tech_level": "6",
+			"value": "10",
+			"weight": "0.4 lb",
+			"reference": "TS72",
+			"calc": {
+				"extended_value": "10",
+				"extended_weight": "0.4 lb"
+			},
+			"categories": [
+				"Mountings",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "8378d0da-ab4e-40fd-be93-764e1feb659a",
+			"quantity": 1,
+			"description": "Two-Point Sling, Leather",
+			"tech_level": "5",
+			"value": "10",
+			"weight": "0.5 lb",
+			"reference": "TS72",
+			"calc": {
+				"extended_value": "10",
+				"extended_weight": "0.5 lb"
+			},
+			"categories": [
+				"Mountings",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "639401c2-ebd1-4b0d-b30f-ecdd254929c0",
+			"quantity": 1,
+			"description": "Two-Point Sling, Synthetic",
+			"tech_level": "7",
+			"value": "10",
+			"weight": "0.3 lb",
+			"reference": "TS72",
+			"calc": {
+				"extended_value": "10",
+				"extended_weight": "0.3 lb"
+			},
+			"categories": [
+				"Mountings",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "8ba936a8-4c09-44b1-87ae-185583d55586",
+			"quantity": 1,
+			"description": "ASP, 9x19mm",
+			"tech_level": "7",
+			"legality_class": "3",
+			"value": "1650",
+			"weight": "1.7 lb",
+			"reference": "TS56",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "2d+1"
+					},
+					"strength": "8",
+					"accuracy": "1",
+					"range": "140/1600",
+					"rate_of_fire": "3",
+					"shots": "7+1(3)",
+					"bulk": "-1",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "140/1600",
+						"damage": "2d+1 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1650",
+				"extended_weight": "1.7 lb"
+			},
+			"notes": "No lanyard ring, Very reliable",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "7cac25b4-f4c7-4522-b26d-4181f6a17b3d",
+			"quantity": 1,
+			"description": "Beretta Mod 70, .22 LR",
+			"tech_level": "7",
+			"legality_class": "3",
+			"value": "550",
+			"weight": "1.2 lb",
+			"reference": "TS56",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi-",
+						"base": "1d+1"
+					},
+					"strength": "7",
+					"accuracy": "1",
+					"range": "70/1400",
+					"rate_of_fire": "3",
+					"shots": "8+1(3)",
+					"bulk": "-1",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "70/1400",
+						"damage": "1d+1 pi-"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "550",
+				"extended_weight": "1.2 lb"
+			},
+			"notes": "No lanyard ring",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "5bd56bda-1a9e-4695-9538-895e245febb3",
+			"quantity": 1,
+			"description": "Beretta Mod 1951, 9x19mm",
+			"tech_level": "7",
+			"legality_class": "3",
+			"value": "625",
+			"weight": "2.3 lb",
+			"reference": "TS56",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "2d+2"
+					},
+					"strength": "9",
+					"accuracy": "2",
+					"range": "160/1800",
+					"rate_of_fire": "3",
+					"shots": "8+1(3)",
+					"bulk": "-2",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "160/1800",
+						"damage": "2d+2 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "625",
+				"extended_weight": "2.3 lb"
+			},
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "39d60003-ab4e-45ea-83c2-ad7603ab526f",
+			"quantity": 1,
+			"description": "BSA Welrod Mk II, .32 ACP",
+			"tech_level": "7",
+			"legality_class": "2",
+			"value": "450",
+			"weight": "2.4 lb",
+			"reference": "TS54",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi-",
+						"base": "1d+2"
+					},
+					"strength": "9",
+					"accuracy": "1",
+					"range": "120/1300",
+					"rate_of_fire": "1",
+					"shots": "8+1 (3)",
+					"bulk": "-3",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "120/1300",
+						"damage": "1d+2 pi-"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "450",
+				"extended_weight": "2.4 lb"
+			},
+			"notes": "No lanyard ring, Integral sound suppressor",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "3e6fe45f-d544-43ba-b11c-530c1674dfb1",
+			"quantity": 1,
+			"description": "H&K MK 23 MOD 0, .45 ACP",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "2000",
+			"weight": "3.2 lb",
+			"reference": "TS58",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "2d"
+					},
+					"strength": "10",
+					"accuracy": "3",
+					"range": "150/1600",
+					"rate_of_fire": "3",
+					"shots": "12+1(3)",
+					"bulk": "-3",
+					"recoil": "3",
+					"calc": {
+						"level": 0,
+						"range": "150/1600",
+						"damage": "2d pi+"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "2000",
+				"extended_weight": "3.2 lb"
+			},
+			"notes": "Very reliable, Fine (accurate)",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "e37dc356-78cf-439b-abf4-0eb013605a30",
+			"quantity": 1,
+			"description": "H&K P7, 9x19mm",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "1550",
+			"weight": "2.1 lb",
+			"reference": "TS56",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "2d+2"
+					},
+					"strength": "9",
+					"accuracy": "2",
+					"range": "160/1800",
+					"rate_of_fire": "3",
+					"shots": "8+1(3)",
+					"bulk": "-1",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "160/1800",
+						"damage": "2d+2 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1550",
+				"extended_weight": "2.1 lb"
+			},
+			"notes": "No lanyard ring, Very reliable",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "6816d8d0-7bb0-4493-bc54-45306ae9880e",
+			"quantity": 1,
+			"description": "H&K P7M13, 9x19mm",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "1850",
+			"weight": "2.5 lb",
+			"reference": "TS56",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "2d+2"
+					},
+					"strength": "9",
+					"accuracy": "2",
+					"range": "160/1800",
+					"rate_of_fire": "3",
+					"shots": "13+1(3)",
+					"bulk": "-2",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "160/1800",
+						"damage": "2d+2 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1850",
+				"extended_weight": "2.5 lb"
+			},
+			"notes": "No lanyard ring, Very reliable",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "56e1a06a-5b80-48bc-af0d-227d4c9d694a",
+			"quantity": 1,
+			"description": "Kimber TLE II, .45 ACP",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "1050",
+			"weight": "2.5 lb",
+			"reference": "TS58",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "2d"
+					},
+					"strength": "10",
+					"accuracy": "3",
+					"range": "150/1600",
+					"rate_of_fire": "3",
+					"shots": "7+1(3)",
+					"bulk": "-2",
+					"recoil": "3",
+					"calc": {
+						"level": 0,
+						"range": "150/1600",
+						"damage": "2d pi+"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1050",
+				"extended_weight": "2.5 lb"
+			},
+			"notes": "No lanyard ring, Fine (accurate)",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "ec532e3b-17bd-4b74-8a85-399c6b4070f1",
+			"quantity": 1,
+			"description": "Molot APS, 9x18mm",
+			"tech_level": "7",
+			"legality_class": "2",
+			"value": "600",
+			"weight": "2.7 lb",
+			"reference": "TS55",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "2d"
+					},
+					"strength": "9",
+					"accuracy": "2",
+					"range": "150/1600",
+					"rate_of_fire": "12",
+					"shots": "20+1(3)",
+					"bulk": "-2",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "150/1600",
+						"damage": "2d pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "600",
+				"extended_weight": "2.7 lb"
+			},
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "945905a2-ba91-4aba-b136-9af5f8b815eb",
+			"quantity": 1,
+			"description": "NORINCO QSW67, 7.62x17mm",
+			"tech_level": "7",
+			"legality_class": "2",
+			"value": "500",
+			"weight": "2.5 lb",
+			"reference": "TS56",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi-",
+						"base": "1d+2"
+					},
+					"strength": "9",
+					"accuracy": "2",
+					"range": "120/1300",
+					"rate_of_fire": "3",
+					"shots": "9+1(3)",
+					"bulk": "-2",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "120/1300",
+						"damage": "1d+2 pi-"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "500",
+				"extended_weight": "2.5 lb"
+			},
+			"notes": "Integral sound suppressor",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "0e54472e-35a2-4eef-aeed-7e22a1f4ecb7",
+			"quantity": 1,
+			"description": "S&W Model 40, .38 Special",
+			"tech_level": "7",
+			"legality_class": "3",
+			"value": "650",
+			"weight": "1.6 lb",
+			"reference": "TS55",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "2d-1"
+					},
+					"strength": "9",
+					"accuracy": "0",
+					"range": "90/1000",
+					"rate_of_fire": "3",
+					"shots": "5(2i)",
+					"bulk": "-1",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "90/1000",
+						"damage": "2d-1 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "650",
+				"extended_weight": "1.6 lb"
+			},
+			"notes": "No lanyard ring",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "f34eed20-9293-42af-8a55-f4dbadd6df15",
+			"quantity": 1,
+			"description": "S&W Model 686 Distinguished Combat Magnum, .357 Magnum",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "700",
+			"weight": "2.8 lb",
+			"reference": "TS55",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "3d-1"
+					},
+					"strength": "10",
+					"accuracy": "2",
+					"range": "190/2000",
+					"rate_of_fire": "3",
+					"shots": "6(2i)",
+					"bulk": "-2",
+					"recoil": "3",
+					"calc": {
+						"level": 0,
+						"range": "190/2000",
+						"damage": "3d-1 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "700",
+				"extended_weight": "2.8 lb"
+			},
+			"notes": "No lanyard ring, Fine (accurate)",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "6594d562-1d02-4759-972e-26d9f008b1c1",
+			"quantity": 1,
+			"description": "S&W Model 1076, 10x25mm",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "1150",
+			"weight": "2.9 lb",
+			"reference": "TS58",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "3d-1"
+					},
+					"strength": "11",
+					"accuracy": "1",
+					"range": "210/2300",
+					"rate_of_fire": "3",
+					"shots": "9+1(3)",
+					"bulk": "-2",
+					"recoil": "4",
+					"calc": {
+						"level": 0,
+						"range": "210/2300",
+						"damage": "3d-1 pi+"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1150",
+				"extended_weight": "2.9 lb"
+			},
+			"notes": "No lanyard ring, Malf. 16",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "a15444c4-f155-4fb9-9341-ce0552fc598e",
+			"quantity": 1,
+			"description": "S&W Model 3946, 9x19mm Parabellum",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "850",
+			"weight": "1.8 lb",
+			"reference": "TS57",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "2d+1"
+					},
+					"strength": "9",
+					"accuracy": "1",
+					"range": "160/1800",
+					"rate_of_fire": "3",
+					"shots": "8+1(3)",
+					"bulk": "-1",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "160/1800",
+						"damage": "2d+1 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "850",
+				"extended_weight": "1.8 lb"
+			},
+			"notes": "No lanyard ring",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "975c0e95-726d-49dd-b542-346ade725f3f",
+			"quantity": 1,
+			"description": "S&W Model 4006 Tactical, .40 S&W",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "1050",
+			"weight": "2.8 lb",
+			"reference": "TS56",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "2d+2"
+					},
+					"strength": "9",
+					"accuracy": "2",
+					"range": "160/1800",
+					"rate_of_fire": "3",
+					"shots": "11+1(3)",
+					"bulk": "-2",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "160/1800",
+						"damage": "2d+2 pi+"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1050",
+				"extended_weight": "2.8 lb"
+			},
+			"notes": "No lanyard ring",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "18c689d6-b976-4ed0-bb09-946f52a3b83b",
+			"quantity": 1,
+			"description": "S&W Model 4006, .40 S&W",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "1000",
+			"weight": "2.7 lb",
+			"reference": "TS56",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "2d+2"
+					},
+					"strength": "9",
+					"accuracy": "2",
+					"range": "160/1800",
+					"rate_of_fire": "3",
+					"shots": "11+1(3)",
+					"bulk": "-2",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "160/1800",
+						"damage": "2d+2 pi+"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1000",
+				"extended_weight": "2.7 lb"
+			},
+			"notes": "No lanyard ring",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "c0f662d9-a0dd-46f0-91c9-20658d272834",
+			"quantity": 1,
+			"description": "S&W Model 4506, .45 ACP",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "1050",
+			"weight": "2.9 lb",
+			"reference": "TS57",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "2d"
+					},
+					"strength": "10",
+					"accuracy": "2",
+					"range": "160/1800",
+					"rate_of_fire": "3",
+					"shots": "8+1(3)",
+					"bulk": "-2",
+					"recoil": "3",
+					"calc": {
+						"level": 0,
+						"range": "160/1800",
+						"damage": "2d pi+"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1050",
+				"extended_weight": "2.9 lb"
+			},
+			"notes": "No lanyard ring",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "c3a499fe-21fb-4092-9309-65c7c4444fdf",
+			"quantity": 1,
+			"description": "S&W Model 5906, 9x19mm Parabellum",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "1000",
+			"weight": "2.7 lb",
+			"reference": "TS57",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "2d+2"
+					},
+					"strength": "9",
+					"accuracy": "2",
+					"range": "160/1800",
+					"rate_of_fire": "3",
+					"shots": "15+1(3)",
+					"bulk": "-2",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "160/1800",
+						"damage": "2d+2 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1000",
+				"extended_weight": "2.7 lb"
+			},
+			"notes": "No lanyard ring",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "f00ec683-d2d0-4eb1-9ca7-1320a7d2f615",
+			"quantity": 1,
+			"description": "Springfield TRP Bureau, .45 ACP",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "2400",
+			"weight": "2.4 lb",
+			"reference": "TS58",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "2d"
+					},
+					"strength": "10",
+					"accuracy": "3",
+					"range": "150/1600",
+					"rate_of_fire": "3",
+					"shots": "8+1(3)",
+					"bulk": "-2",
+					"recoil": "3",
+					"calc": {
+						"level": 0,
+						"range": "150/1600",
+						"damage": "2d pi+"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "2400",
+				"extended_weight": "2.4 lb"
+			},
+			"notes": "No lanyard ring, Fine (accurate)",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "a0a9dff8-6f93-424c-9307-e0c564f8fb23",
+			"quantity": 1,
+			"description": "SVI Infinity IMM, .45 ACP",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "5200",
+			"weight": "3.7 lb",
+			"reference": "TS58",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "2d"
+					},
+					"strength": "10",
+					"accuracy": "3",
+					"range": "150/1600",
+					"rate_of_fire": "3",
+					"shots": "11+1(3)",
+					"bulk": "-3",
+					"recoil": "3",
+					"calc": {
+						"level": 0,
+						"range": "150/1600",
+						"damage": "2d pi+"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "5200",
+				"extended_weight": "3.7 lb"
+			},
+			"notes": "No lanyard ring, Fine (accurate), Integral muzzle compensator",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "b538b4ea-e1f0-4e80-ab6d-4de704db2f86",
+			"quantity": 1,
+			"description": "TOZ MSP, 7.62x38mm",
+			"tech_level": "7",
+			"legality_class": "2",
+			"value": "250",
+			"weight": "1.2 lb",
+			"reference": "TS54",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "1d+2"
+					},
+					"strength": "7",
+					"accuracy": "0",
+					"range": "200/650",
+					"rate_of_fire": "2",
+					"shots": "2 (5)",
+					"bulk": "-1",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "200/650",
+						"damage": "1d+2 pi"
+					},
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Pistol"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "250",
+				"extended_weight": "1.2 lb"
+			},
+			"notes": "Silent ammunition",
+			"categories": [
+				"Pistols",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "a5ca33fa-5b22-45f4-9a26-bc733c3ef31b",
+			"quantity": 1,
+			"description": "Buttstock Ammunition Loops",
+			"tech_level": "6",
+			"value": "25",
+			"weight": "0.2 lb",
+			"reference": "TS73",
+			"calc": {
+				"extended_value": "25",
+				"extended_weight": "0.2 lb"
+			},
+			"notes": "+1 Fast-Draw (Ammo)",
+			"categories": [
+				"Reloading",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "61ae9280-7845-4b5f-9710-11d08164c356",
+			"quantity": 1,
+			"description": "Buttstock Magazine Pouch",
+			"tech_level": "7",
+			"value": "25",
+			"weight": "0.2 lb",
+			"reference": "TS73",
+			"calc": {
+				"extended_value": "25",
+				"extended_weight": "0.2 lb"
+			},
+			"categories": [
+				"Reloading",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "52448f19-31cb-4eb7-9a17-582de9c8fc95",
+			"quantity": 1,
+			"description": "LMG Assault Pack, Canvas",
+			"tech_level": "7",
+			"value": "20",
+			"weight": "2.1 lb",
+			"reference": "TS74",
+			"calc": {
+				"extended_value": "20",
+				"extended_weight": "2.1 lb"
+			},
+			"notes": "50 - round belt",
+			"categories": [
+				"Reloading",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "17f07034-e60d-4aca-a33f-63e4c38893da",
+			"quantity": 1,
+			"description": "LMG Assault Pack, Nylon",
+			"tech_level": "7",
+			"value": "20",
+			"weight": "1.1 lb",
+			"reference": "TS74",
+			"calc": {
+				"extended_value": "20",
+				"extended_weight": "1.1 lb"
+			},
+			"notes": "50 - round belt",
+			"categories": [
+				"Reloading",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "0738097c-0e90-4082-9ba2-15b5ce7393bc",
+			"quantity": 1,
+			"description": "LMG Assault Pack, Plastic",
+			"tech_level": "7",
+			"value": "15",
+			"weight": "0.4 lb",
+			"reference": "TS74",
+			"calc": {
+				"extended_value": "15",
+				"extended_weight": "0.4 lb"
+			},
+			"notes": "100 - round belt",
+			"categories": [
+				"Reloading",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "abb55383-be98-488c-9ae1-740a3e58ad07",
+			"quantity": 1,
+			"description": "Magazine Loop, Fast-Draw ",
+			"tech_level": "8",
+			"value": "3",
+			"weight": "0 lb",
+			"reference": "TS74",
+			"calc": {
+				"extended_value": "3",
+				"extended_weight": "0 lb"
+			},
+			"notes": "+1 Fast-Draw (Ammo)",
+			"categories": [
+				"Reloading",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "b5046046-3006-486d-a573-c0409486b788",
+			"quantity": 1,
+			"description": "Magazine, Beveled",
+			"tech_level": "8",
+			"value": "100",
+			"weight": "0 lb",
+			"reference": "TS74",
+			"calc": {
+				"extended_value": "100",
+				"extended_weight": "0 lb"
+			},
+			"notes": "+1 Fast-Draw (Ammo)",
+			"categories": [
+				"Reloading",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "63c02764-d3ea-4a41-bd78-7d37e34a2be6",
+			"quantity": 1,
+			"description": "Shell Bag, large (100 Shells)",
+			"tech_level": "6",
+			"value": "60",
+			"weight": "1 lb",
+			"reference": "TS73",
+			"calc": {
+				"extended_value": "60",
+				"extended_weight": "1 lb"
+			},
+			"notes": "+1 Fast- Draw (Ammo)",
+			"categories": [
+				"Reloading",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "ecc08883-6db8-4cf4-8beb-52cef2dfdc23",
+			"quantity": 1,
+			"description": "Shell Bag, small (25 Shells)",
+			"tech_level": "6",
+			"value": "35",
+			"weight": "0.5 lb",
+			"reference": "TS73",
+			"calc": {
+				"extended_value": "35",
+				"extended_weight": "0.5 lb"
+			},
+			"notes": "+1 Fast- Draw (Ammo)",
+			"categories": [
+				"Reloading",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "deea48aa-be88-472c-ab71-e1994ccd65d4",
+			"quantity": 1,
+			"description": "Side Carrier",
+			"tech_level": "6",
+			"value": "25",
+			"weight": "0.5 lb",
+			"reference": "TS73",
+			"calc": {
+				"extended_value": "25",
+				"extended_weight": "0.5 lb"
+			},
+			"notes": "+1 Fast-Draw (Ammo)",
+			"categories": [
+				"Reloading",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "807fb0f8-8ac1-4e3f-bb3f-068d2608c2df",
+			"quantity": 1,
+			"description": "Wrist Pouch",
+			"tech_level": "8",
+			"value": "15",
+			"weight": "0.15 lb",
+			"reference": "TS74",
+			"calc": {
+				"extended_value": "15",
+				"extended_weight": "0.15 lb"
+			},
+			"notes": "+1 Fast-Draw (Ammo)",
+			"categories": [
+				"Reloading",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "35ad4717-b2b9-4e1e-8e6f-868b1498d180",
+			"quantity": 1,
+			"description": "CheyTac M200, .408 CheyTac",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "11500",
+			"weight": "34.5 lb",
+			"reference": "TS63",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "5dx2"
+					},
+					"strength": "14B†",
+					"accuracy": "6+4",
+					"range": "1700/6500",
+					"rate_of_fire": "1",
+					"shots": "7+1(3)",
+					"bulk": "-7",
+					"recoil": "4",
+					"calc": {
+						"level": 0,
+						"range": "1700/6500",
+						"damage": "5dx2 pi+"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Rifle"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "11500",
+				"extended_weight": "34.5 lb"
+			},
+			"notes": "Fine (accurate), Scope",
+			"categories": [
+				"Rifles",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "fb49d2e5-6ea7-4475-8386-ed46b7d78f22",
+			"quantity": 1,
+			"description": "F.R. Ordnance MC-51, 7.62x51mm",
+			"tech_level": "8",
+			"legality_class": "2",
+			"value": "3000",
+			"weight": "10.8 lb",
+			"reference": "TS62",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "6d-1"
+					},
+					"strength": "11†",
+					"accuracy": "4",
+					"range": "780/3300",
+					"rate_of_fire": "9/10",
+					"shots": "20+1(3)",
+					"bulk": "-4*",
+					"recoil": "3",
+					"calc": {
+						"level": 0,
+						"range": "780/3300",
+						"damage": "6d-1 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Rifle"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "3000",
+				"extended_weight": "10.8 lb"
+			},
+			"categories": [
+				"Rifles",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "77966b1b-478e-40e7-ae83-799f932f9e5d",
+			"quantity": 1,
+			"description": "H&K HK93A2, .223 Remington",
+			"tech_level": "7",
+			"legality_class": "2",
+			"value": "1300",
+			"weight": "9.1 lb",
+			"reference": "TS62",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "5d-1"
+					},
+					"strength": "8†",
+					"accuracy": "5",
+					"range": "460/2900",
+					"rate_of_fire": "3",
+					"shots": "25+1(3)",
+					"bulk": "-5",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "460/2900",
+						"damage": "5d-1 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Rifle"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1300",
+				"extended_weight": "9.1 lb"
+			},
+			"categories": [
+				"Rifles",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "b78795be-5b18-46fa-9ff5-de3c7b2f5589",
+			"quantity": 1,
+			"description": "H&K HK416D10RS, 5.56×45mm NATO",
+			"tech_level": "8",
+			"legality_class": "2",
+			"value": "1600",
+			"weight": "8 lb",
+			"reference": "TS63",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "4d"
+					},
+					"strength": "9†",
+					"accuracy": "4",
+					"range": "600/2500",
+					"rate_of_fire": "12",
+					"shots": "30+1(3)",
+					"bulk": "-4",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "600/2500",
+						"damage": "4d pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Rifle"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1600",
+				"extended_weight": "8 lb"
+			},
+			"notes": "Very reliable",
+			"categories": [
+				"Rifles",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "67fc29f8-ed71-40c9-9a20-b4d3bee44510",
+			"quantity": 1,
+			"description": "KAC M4A1K, 5.56x45mm",
+			"tech_level": "8",
+			"legality_class": "2",
+			"value": "1200",
+			"weight": "6.5 lb",
+			"reference": "TS62",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "4d"
+					},
+					"strength": "9†",
+					"accuracy": "4",
+					"range": "600/2500",
+					"rate_of_fire": "10",
+					"shots": "30+1(3)",
+					"bulk": "-4",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "600/2500",
+						"damage": "4d pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Rifle"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1200",
+				"extended_weight": "6.5 lb"
+			},
+			"notes": "Integral sound suppressor",
+			"categories": [
+				"Rifles",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "223a6c90-5493-4922-a96f-e7b6dbf5816e",
+			"quantity": 1,
+			"description": "KAC SR-25, 7.62x51mm",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "3500",
+			"weight": "11.1 lb",
+			"reference": "TS62",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "7d"
+					},
+					"strength": "10†",
+					"accuracy": "6",
+					"range": "1000/4200",
+					"rate_of_fire": "3",
+					"shots": "20+1(3)",
+					"bulk": "-6",
+					"recoil": "3",
+					"calc": {
+						"level": 0,
+						"range": "1000/4200",
+						"damage": "7d pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Rifle"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "3500",
+				"extended_weight": "11.1 lb"
+			},
+			"notes": "Fine (accurate)",
+			"categories": [
+				"Rifles",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "634dc8ca-7761-45b4-9f4e-419f03c07d65",
+			"quantity": 1,
+			"description": "MK 11 MOD 0 Sniper Rifle System (SRS), 7.62x51mm",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "7000",
+			"weight": "16 lb",
+			"reference": "TS63",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "7d"
+					},
+					"strength": "11B†",
+					"accuracy": "6+3",
+					"range": "1000/4200",
+					"rate_of_fire": "3",
+					"shots": "20+1(3)",
+					"bulk": "-6",
+					"recoil": "3",
+					"calc": {
+						"level": 0,
+						"range": "1000/4200",
+						"damage": "7d pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Rifle"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "7000",
+				"extended_weight": "16 lb"
+			},
+			"notes": "Fine (accurate), Scope",
+			"categories": [
+				"Rifles",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "7f982127-3152-4e9d-8a1e-e1caf737d49e",
+			"quantity": 1,
+			"description": "RRA LAR-15, 5.56x45mm",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "1450",
+			"weight": "7.3 lb",
+			"reference": "TS63",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "4d+2"
+					},
+					"strength": "9†",
+					"accuracy": "4",
+					"range": "750/2900",
+					"rate_of_fire": "3",
+					"shots": "30+1(3)",
+					"bulk": "-4",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "750/2900",
+						"damage": "4d+2 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Rifle"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1450",
+				"extended_weight": "7.3 lb"
+			},
+			"categories": [
+				"Rifles",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "4dca97d6-43c0-4701-8671-7e75f62f8761",
+			"quantity": 1,
+			"description": "TOZ AKS-74UB, 5.45x39mm",
+			"tech_level": "7",
+			"legality_class": "2",
+			"value": "900",
+			"weight": "8.2 lb",
+			"reference": "TS62",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "2d-1"
+					},
+					"strength": "8†",
+					"usage": "subsonic (-4 hearing)",
+					"accuracy": "4",
+					"range": "250/1600",
+					"rate_of_fire": "1",
+					"shots": "30+1(3)",
+					"bulk": "-4*",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "250/1600",
+						"damage": "2d-1 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Rifle"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				},
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "4d-1"
+					},
+					"strength": "8†",
+					"usage": "normal",
+					"accuracy": "4",
+					"range": "416/2667",
+					"rate_of_fire": "11",
+					"shots": "30+1(3)",
+					"bulk": "-4*",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "416/2667",
+						"damage": "4d-1 pi"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": "900",
+				"extended_weight": "8.2 lb"
+			},
+			"notes": "Integral sound suppressor",
+			"categories": [
+				"Rifles",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "0a90c217-12f6-43ff-82d1-1ac3c5724a2d",
+			"quantity": 1,
+			"description": "TOZ SVT-40, 7.62x54mmR",
+			"tech_level": "6",
+			"legality_class": "3",
+			"value": "600",
+			"weight": "9.6 lb",
+			"reference": "TS62",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "7d"
+					},
+					"strength": "10†",
+					"accuracy": "4",
+					"range": "1000/4200",
+					"rate_of_fire": "3",
+					"shots": "10+1(3)",
+					"bulk": "-6",
+					"recoil": "3",
+					"calc": {
+						"level": 0,
+						"range": "1000/4200",
+						"damage": "7d pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Rifle"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "600",
+				"extended_weight": "9.6 lb"
+			},
+			"categories": [
+				"Rifles",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "65da2281-5f10-46aa-ae0a-ce0d5b23a7d4",
+			"quantity": 1,
+			"description": "VKT-Lahti Pstkiv/39, 20x138mmB",
+			"tech_level": "6",
+			"legality_class": "2",
+			"value": "12000",
+			"weight": "124 lb",
+			"reference": "TS61",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi++",
+						"base": "6dx3",
+						"armor_divisor": 2
+					},
+					"strength": "18B†",
+					"usage": "AP",
+					"accuracy": "5",
+					"range": "1700/7200",
+					"rate_of_fire": "1",
+					"shots": "10+1(3)",
+					"bulk": "-10",
+					"recoil": "3",
+					"calc": {
+						"level": 0,
+						"range": "1700/7200",
+						"damage": "6dx3(2) pi++"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Rifle"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "12000",
+				"extended_weight": "124 lb"
+			},
+			"categories": [
+				"Rifles",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "2da710e3-085a-4afc-9a35-8e537e0f3aeb",
+			"quantity": 1,
+			"description": "Franchi SPAS 15, 12G 2.75”",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "1150",
+			"weight": "10.1 lb",
+			"reference": "TS59",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "1d+1"
+					},
+					"strength": "10†",
+					"usage": "Shot",
+					"accuracy": "3",
+					"range": "40/800",
+					"rate_of_fire": "3x9",
+					"shots": "6+1(3)",
+					"bulk": "-5*",
+					"recoil": "1",
+					"calc": {
+						"level": 0,
+						"range": "40/800",
+						"damage": "1d+1 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Shotgun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				},
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "5d"
+					},
+					"strength": "10†",
+					"usage": "Rifled Slug",
+					"accuracy": "4",
+					"range": "100/1200",
+					"rate_of_fire": "3",
+					"shots": "6+1(3)",
+					"bulk": "-5*",
+					"recoil": "4",
+					"calc": {
+						"level": 0,
+						"range": "100/1200",
+						"damage": "5d pi+"
+					},
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Shotgun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1150",
+				"extended_weight": "10.1 lb"
+			},
+			"categories": [
+				"Shotguns",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "d8bf1a5a-fe68-4649-b375-1c72253f67b9",
+			"quantity": 1,
+			"description": "High Standard K-1200 Riot,12G 2.75”",
+			"tech_level": "7",
+			"legality_class": "3",
+			"value": "600",
+			"weight": "8.7 lb",
+			"reference": "TS59",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "1d+1"
+					},
+					"strength": "10†",
+					"usage": "Shot",
+					"accuracy": "3",
+					"range": "40/800",
+					"rate_of_fire": "2x9",
+					"shots": "6+1(2i)",
+					"bulk": "-5",
+					"recoil": "1",
+					"calc": {
+						"level": 0,
+						"range": "40/800",
+						"damage": "1d+1 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Shotgun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				},
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "5d"
+					},
+					"strength": "10†",
+					"usage": "Rifled Slug",
+					"accuracy": "4",
+					"range": "100/1200",
+					"rate_of_fire": "2",
+					"shots": "6+1(2i)",
+					"bulk": "-5",
+					"recoil": "5",
+					"calc": {
+						"level": 0,
+						"range": "100/1200",
+						"damage": "5d pi+"
+					},
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Shotgun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "600",
+				"extended_weight": "8.7 lb"
+			},
+			"categories": [
+				"Shotguns",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "ec6f70e5-523e-4da1-a342-6ebada6d4bb4",
+			"quantity": 1,
+			"description": "High Standard Model 10B, 12G 2.75”",
+			"tech_level": "7",
+			"legality_class": "3",
+			"value": "750",
+			"weight": "10.3 lb",
+			"reference": "TS59",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "1d+1"
+					},
+					"strength": "11†",
+					"usage": "Shot",
+					"accuracy": "3",
+					"range": "40/800",
+					"rate_of_fire": "3x9",
+					"shots": "4+1(2i)",
+					"bulk": "-4",
+					"recoil": "1",
+					"calc": {
+						"level": 0,
+						"range": "40/800",
+						"damage": "1d+1 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Shotgun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				},
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "5d"
+					},
+					"strength": "11†",
+					"usage": "Rifled Slug",
+					"accuracy": "4",
+					"range": "100/1200",
+					"rate_of_fire": "3",
+					"shots": "4+1(2i)",
+					"bulk": "-4",
+					"recoil": "4",
+					"calc": {
+						"level": 0,
+						"range": "100/1200",
+						"damage": "5d pi+"
+					},
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Shotgun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "750",
+				"extended_weight": "10.3 lb"
+			},
+			"categories": [
+				"Shotguns",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "92ae6cd0-fd83-42af-8118-61ab28f298eb",
+			"quantity": 1,
+			"description": "Remington Model 1100 Tac-2, 12G 2.75”",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "850",
+			"weight": "8.4 lb",
+			"reference": "TS60",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "1d+1"
+					},
+					"strength": "10†",
+					"usage": "Shot",
+					"accuracy": "3",
+					"range": "40/800",
+					"rate_of_fire": "3x9",
+					"shots": "6+1(2i)",
+					"bulk": "-5",
+					"recoil": "1",
+					"calc": {
+						"level": 0,
+						"range": "40/800",
+						"damage": "1d+1 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Shotgun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				},
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "5d"
+					},
+					"strength": "10†",
+					"usage": "Rifled Slug",
+					"accuracy": "4",
+					"range": "100/1200",
+					"rate_of_fire": "3",
+					"shots": "6+1(2i)",
+					"bulk": "-5",
+					"recoil": "4",
+					"calc": {
+						"level": 0,
+						"range": "100/1200",
+						"damage": "5d pi+"
+					},
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Shotgun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "850",
+				"extended_weight": "8.4 lb"
+			},
+			"categories": [
+				"Shotguns",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "a891c87d-607a-4f11-b9f8-dde61c630d13",
+			"quantity": 1,
+			"description": "Scattergun TR-870 Model 90102, 12G 3”",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "1150",
+			"weight": "9 lb",
+			"reference": "TS59",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "1d+2"
+					},
+					"strength": "11†",
+					"usage": "Shot",
+					"accuracy": "3",
+					"range": "40/800",
+					"rate_of_fire": "2x12",
+					"shots": "4+1(2i)",
+					"bulk": "-5",
+					"recoil": "1",
+					"calc": {
+						"level": 0,
+						"range": "40/800",
+						"damage": "1d+2 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Shotgun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				},
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "6d+1"
+					},
+					"strength": "11†",
+					"usage": "Rifled Slug",
+					"accuracy": "4",
+					"range": "100/1200",
+					"rate_of_fire": "2",
+					"shots": "4+1(2i)",
+					"bulk": "-5",
+					"recoil": "5",
+					"calc": {
+						"level": 0,
+						"range": "100/1200",
+						"damage": "6d+1 pi+"
+					},
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Shotgun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "1150",
+				"extended_weight": "9 lb"
+			},
+			"notes": "Very reliable",
+			"categories": [
+				"Shotguns",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "4e6989e1-9055-4df8-8830-a1a7f28eacaa",
+			"quantity": 1,
+			"description": "Serbu Super-Shorty, 12G 3”",
+			"tech_level": "8",
+			"legality_class": "2",
+			"value": "750",
+			"weight": "4.7 lb",
+			"reference": "TS60",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "1d+1"
+					},
+					"strength": "11†",
+					"usage": "Shot",
+					"accuracy": "2",
+					"range": "30/600",
+					"rate_of_fire": "2x9",
+					"shots": "2+1(2i)",
+					"bulk": "-3",
+					"recoil": "1",
+					"calc": {
+						"level": 0,
+						"range": "30/600",
+						"damage": "1d+1 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Shotgun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				},
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "5d"
+					},
+					"strength": "11†",
+					"usage": "Rifled Slug",
+					"accuracy": "2",
+					"range": "75/900",
+					"rate_of_fire": "2",
+					"shots": "2+1(2i)",
+					"bulk": "-3",
+					"recoil": "5",
+					"calc": {
+						"level": 0,
+						"range": "75/900",
+						"damage": "5d pi+"
+					},
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Shotgun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "750",
+				"extended_weight": "4.7 lb"
+			},
+			"categories": [
+				"Shotguns",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "c8321bcc-484c-4936-a72c-25bcb03cf89b",
+			"quantity": 1,
+			"description": "TacOps Clandestine-12, 12G 3”",
+			"tech_level": "8",
+			"legality_class": "2",
+			"value": "2700",
+			"weight": "13 lb",
+			"reference": "TS60",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "1d+2"
+					},
+					"strength": "11†",
+					"usage": "Shot",
+					"accuracy": "3",
+					"range": "40/800",
+					"rate_of_fire": "2x12",
+					"shots": "5+1(2i)",
+					"bulk": "-6",
+					"recoil": "1",
+					"calc": {
+						"level": 0,
+						"range": "40/800",
+						"damage": "1d+2 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Shotgun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				},
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "6d+1"
+					},
+					"strength": "11†",
+					"usage": "Rifled Slug",
+					"accuracy": "4",
+					"range": "100/1200",
+					"rate_of_fire": "2",
+					"shots": "5+1(2i)",
+					"bulk": "-6",
+					"recoil": "5",
+					"calc": {
+						"level": 0,
+						"range": "100/1200",
+						"damage": "6d+1 pi+"
+					},
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Shotgun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "2700",
+				"extended_weight": "13 lb"
+			},
+			"notes": "Integral sound suppressor",
+			"categories": [
+				"Shotguns",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "0d4e4050-2267-4233-a814-a152d41048f4",
+			"quantity": 1,
+			"description": "Aiming Light",
+			"tech_level": "7",
+			"legality_class": "3",
+			"value": "400",
+			"weight": "3.8 lb",
+			"reference": "TS74",
+			"calc": {
+				"extended_value": "400",
+				"extended_weight": "3.8 lb"
+			},
+			"notes": "140 yd, -1 Bulk 5xS/90min",
+			"categories": [
+				"Sights and Targeting",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "5b51e212-5bc7-41af-b26a-23bc2f80c258",
+			"quantity": 1,
+			"description": "Laser/Light Module, Insight AN/PEQ-6 LAM",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "1900",
+			"weight": "0.3 lb",
+			"reference": "TS74",
+			"calc": {
+				"extended_value": "1900",
+				"extended_weight": "0.3 lb"
+			},
+			"notes": "750 yd red targeting laser, 200 yd IR targeting laser, 25 yd tactical light, 50 yd IR light, 2xXS/5 min.",
+			"categories": [
+				"Sights and Targeting",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "b487c828-763a-4c21-a52e-3326bebe8409",
+			"quantity": 1,
+			"description": "Laser/Light Module, Insight AN/PEQ-16 IPIM",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "2275",
+			"weight": "0.4 lb",
+			"reference": "TS74",
+			"calc": {
+				"extended_value": "2275",
+				"extended_weight": "0.4 lb"
+			},
+			"notes": "2200 yd red/IR targeting laser, 25 yd tactical light, 150 yd IR light, 2xXS/1 h",
+			"categories": [
+				"Sights and Targeting",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "6925e054-36da-48f7-8cb3-3132ce606e7c",
+			"quantity": 1,
+			"description": "Laser/Light Module, Oerlikon LLM01",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "1500",
+			"weight": "0.5 lb",
+			"reference": "TS74",
+			"calc": {
+				"extended_value": "1500",
+				"extended_weight": "0.5 lb"
+			},
+			"notes": "200 yd red/IR targeting laser, 25 yd tactical/IR light, 2xXS/1h",
+			"categories": [
+				"Sights and Targeting",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "9cb9fb9d-481f-42ac-a4c8-4c604c866ee6",
+			"quantity": 1,
+			"description": "Micro Reflex Sight",
+			"tech_level": "8",
+			"legality_class": "3",
+			"value": "250",
+			"weight": "0 lb",
+			"reference": "TS74",
+			"calc": {
+				"extended_value": "250",
+				"extended_weight": "0 lb"
+			},
+			"notes": "+1 up to 50 yd, T/2 years",
+			"categories": [
+				"Sights and Targeting",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "f223274c-bda4-4137-92f4-3b5df7600586",
+			"quantity": 1,
+			"description": "Off-Axis Viewing Device (OAVD)",
+			"tech_level": "8",
+			"legality_class": "2",
+			"value": "350",
+			"weight": "0.3 lb",
+			"reference": "TS75",
+			"calc": {
+				"extended_value": "350",
+				"extended_weight": "0.3 lb"
+			},
+			"notes": "-1 Acc, +1 Rcl, x1.2 ST, -2 Gun Skill",
+			"categories": [
+				"Sights and Targeting",
+				"Tactical Equipment"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "e998e13d-302e-4a5d-b1d7-3de8908c2898",
+			"quantity": 1,
+			"description": "TDI Kriss Super V SMG, .45 ACP",
+			"tech_level": "8",
+			"legality_class": "2",
+			"value": "2300",
+			"weight": "6.2 lb",
+			"reference": "TS65",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi+",
+						"base": "2d"
+					},
+					"strength": "7†",
+					"accuracy": "3",
+					"range": "150/1600",
+					"rate_of_fire": "6/16",
+					"shots": "13+1(3)",
+					"bulk": "-4*",
+					"recoil": "1",
+					"calc": {
+						"level": 0,
+						"range": "150/1600",
+						"damage": "2d pi+"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Submachine Gun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "2300",
+				"extended_weight": "6.2 lb"
+			},
+			"notes": "Includes recoil-mitigation system",
+			"categories": [
+				"Submachine Guns",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "82ba0f50-ca3c-4e02-882e-f63c117d2250",
+			"quantity": 1,
+			"description": "ZML PM 63, 9x18mm",
+			"tech_level": "7",
+			"legality_class": "2",
+			"value": "500",
+			"weight": "4.4 lb",
+			"reference": "TS64",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "2d"
+					},
+					"strength": "10†",
+					"accuracy": "2",
+					"range": "150/1600",
+					"rate_of_fire": "10",
+					"shots": "25(3)",
+					"bulk": "-3*",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "150/1600",
+						"damage": "2d pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Submachine Gun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "500",
+				"extended_weight": "4.4 lb"
+			},
+			"notes": "Includes compensator",
+			"categories": [
+				"Submachine Guns",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "df590414-bf65-4755-ab7a-cb152f7eb200",
+			"quantity": 1,
+			"description": "Lysaght Owen Mk I, 9x19mm",
+			"tech_level": "7",
+			"legality_class": "2",
+			"value": "250",
+			"weight": "10.7 lb",
+			"reference": "TS64",
+			"weapons": [
+				{
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "pi",
+						"base": "3d-1"
+					},
+					"strength": "9†",
+					"accuracy": "3",
+					"range": "170/1900",
+					"rate_of_fire": "11",
+					"shots": "33(3)",
+					"bulk": "-4",
+					"recoil": "2",
+					"calc": {
+						"level": 0,
+						"range": "170/1900",
+						"damage": "3d-1 pi"
+					},
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Guns",
+							"specialization": "Submachine Gun"
+						},
+						{
+							"type": "skill",
+							"name": "Guns",
+							"modifier": -2
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						}
+					]
+				}
+			],
+			"calc": {
+				"extended_value": "250",
+				"extended_weight": "10.7 lb"
+			},
+			"notes": "Includes compensator",
+			"categories": [
+				"Submachine Guns",
+				"Weapons"
+			]
+		},
+		{
+			"type": "equipment",
+			"id": "82b7a444-05c4-441b-8fad-d06052c6e8f6",
+			"quantity": 1,
+			"description": "Shotgun baffle Suppressor",
+			"tech_level": "6",
+			"legality_class": "3",
+			"value": "500",
+			"weight": "3 lb",
+			"reference": "TS71",
+			"calc": {
+				"extended_value": "500",
+				"extended_weight": "3 lb"
+			},
+			"notes": "Hearing -1",
+			"categories": [
+				"Suppressors",
+				"Tactical Equipment"
+			]
+		}
+	]
+}

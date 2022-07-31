@@ -1,0 +1,29 @@
+{
+	"type": "skill_list",
+	"version": 2,
+	"id": "42b0be1e-e308-443e-abce-c881fc4c9d7f",
+	"rows": [
+		{
+			"type": "skill",
+			"id": "dd52dbfc-3cfe-4f80-aca6-d3d894d37579",
+			"name": "Expert Skill",
+			"reference": "RSWL8",
+			"specialization": "Robotics",
+			"difficulty": "iq/h",
+			"points": 1,
+			"categories": [
+				"Knowledge",
+				"Scholarly",
+				"Technical"
+			]
+		},
+		{
+			"type": "skill",
+			"id": "00cea13c-0f4e-4f37-b10f-627862f18284",
+			"name": "Medicine!",
+			"reference": "RSWL20",
+			"difficulty": "iq/w",
+			"points": 1
+		}
+	]
+}

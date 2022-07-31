@@ -1,0 +1,183 @@
+{
+	"type": "template",
+	"version": 2,
+	"id": "6c833f8a-0a8a-4b30-bdfe-71e9d457f6e5",
+	"advantages": [
+		{
+			"type": "advantage_container",
+			"id": "c3e9c9ea-0bb2-4ecd-b667-e1451adfcf6d",
+			"container_type": "meta_trait",
+			"name": "Animated Character",
+			"reference": "TT2:9",
+			"calc": {
+				"points": 85
+			},
+			"open": true,
+			"children": [
+				{
+					"type": "advantage",
+					"id": "da9d5896-8db4-485d-a83b-317feb6e6d5e",
+					"name": "Unkillable",
+					"physical": true,
+					"exotic": true,
+					"levels": "2",
+					"points_per_level": 50,
+					"modifiers": [
+						{
+							"type": "modifier",
+							"id": "6852f420-af2d-4b2f-8faa-2180a9f3b704",
+							"name": "Achilles' Heal",
+							"reference": "B95",
+							"cost_type": "percentage",
+							"cost": -10,
+							"affects": "total",
+							"notes": "Cosmic attack"
+						},
+						{
+							"type": "modifier",
+							"id": "d5196aff-0ce9-4340-9f32-a848bdc44ea8",
+							"disabled": true,
+							"name": "Achilles' Heal",
+							"reference": "B95",
+							"cost_type": "percentage",
+							"cost": -30,
+							"affects": "total",
+							"notes": "@Occasional Achilles' Heal@"
+						},
+						{
+							"type": "modifier",
+							"id": "3130c5d2-d100-40ca-8c55-fb3fce72ea4e",
+							"disabled": true,
+							"name": "Achilles' Heal",
+							"reference": "B95",
+							"cost_type": "percentage",
+							"cost": -50,
+							"affects": "total",
+							"notes": "@Common Achilles' Heal@"
+						},
+						{
+							"type": "modifier",
+							"id": "7cc45a2b-0876-4f62-a4d2-c3901bda4032",
+							"disabled": true,
+							"name": "Hindrance",
+							"reference": "B95",
+							"cost_type": "percentage",
+							"cost": -5,
+							"affects": "total",
+							"notes": "@Rare Hindrance@"
+						},
+						{
+							"type": "modifier",
+							"id": "4c6da897-d1e8-46ef-9e65-ed950b5aa5cd",
+							"disabled": true,
+							"name": "Hindrance",
+							"reference": "B95",
+							"cost_type": "percentage",
+							"cost": -15,
+							"affects": "total",
+							"notes": "@Occasional Hindrance@"
+						},
+						{
+							"type": "modifier",
+							"id": "8d0f06bd-5451-460b-8483-7824e761890c",
+							"disabled": true,
+							"name": "Hindrance",
+							"reference": "B95",
+							"cost_type": "percentage",
+							"cost": -25,
+							"affects": "total",
+							"notes": "@Common Hindrance@"
+						},
+						{
+							"type": "modifier",
+							"id": "b1704923-2cae-4b13-b417-f09d6c5df25c",
+							"disabled": true,
+							"name": "Reincarnation",
+							"reference": "B95",
+							"cost_type": "percentage",
+							"cost": -20,
+							"affects": "total"
+						},
+						{
+							"type": "modifier",
+							"id": "8a4810e8-694b-4c87-9482-8c38c2b7adfa",
+							"disabled": true,
+							"name": "Trigger",
+							"reference": "B95",
+							"cost_type": "percentage",
+							"cost": -25,
+							"affects": "total",
+							"notes": "@Rare Trigger@"
+						},
+						{
+							"type": "modifier",
+							"id": "fcc36ba1-7e48-4904-a221-9f140be2155d",
+							"disabled": true,
+							"name": "Trigger",
+							"reference": "B95",
+							"cost_type": "percentage",
+							"cost": -15,
+							"affects": "total",
+							"notes": "@Occasional Trigger@"
+						},
+						{
+							"type": "modifier",
+							"id": "05e365ca-d1c1-4690-9131-6a6b5c69c749",
+							"disabled": true,
+							"name": "Trigger",
+							"reference": "B95",
+							"cost_type": "percentage",
+							"cost": -5,
+							"affects": "total",
+							"notes": "@Common Trigger@"
+						}
+					],
+					"reference": "B95",
+					"calc": {
+						"points": 90
+					},
+					"categories": [
+						"Advantage"
+					]
+				},
+				{
+					"type": "advantage",
+					"id": "809dab23-d8e4-4fd0-b674-4d4570aaab03",
+					"name": "Unnatural Features",
+					"physical": true,
+					"levels": "5",
+					"points_per_level": -1,
+					"reference": "B22",
+					"calc": {
+						"points": -5
+					},
+					"features": [
+						{
+							"type": "skill_bonus",
+							"amount": -1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "disguise"
+							}
+						},
+						{
+							"type": "skill_bonus",
+							"amount": -1,
+							"per_level": true,
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "shadowing"
+							}
+						}
+					],
+					"categories": [
+						"Disadvantage"
+					]
+				}
+			]
+		}
+	]
+}
