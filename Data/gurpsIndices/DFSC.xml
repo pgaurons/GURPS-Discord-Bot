@@ -1,0 +1,1942 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Accommodations">
+    <PageReference>DFSC42-43</PageReference>
+    <Child ReferenceText="Claim to Hospitality">
+      <PageReference>DFSC28</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>DFSC43</PageReference>
+    </Child>
+    <Child ReferenceText="owning">
+      <PageReference>DFSC28-29</PageReference>
+    </Child>
+    <Child ReferenceText="with homeowners">
+      <PageReference>DFSC42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="social">
+      <PageReference>DFSC28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventurers">
+    <Child ReferenceText="visiting">
+      <PageReference>DFSC12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventurers’ Guild">
+    <PageReference>DFSC19</PageReference>
+    <PageReference>DFSC37</PageReference>
+    <SeeAlso>Guilds</SeeAlso>
+    <Child ReferenceText="alternate entrance">
+      <PageReference>DFSC8</PageReference>
+    </Child>
+    <Child ReferenceText="black market">
+      <PageReference>DFSC19</PageReference>
+      <PageReference>DFSC36</PageReference>
+      <PageReference>DFSC37</PageReference>
+    </Child>
+    <Child ReferenceText="example shop">
+      <PageReference>DFSC39</PageReference>
+    </Child>
+    <Child ReferenceText="finding quests">
+      <PageReference>DFSC19</PageReference>
+      <PageReference>DFSC24</PageReference>
+      <PageReference>DFSC32</PageReference>
+    </Child>
+    <Child ReferenceText="Mayor’s Council">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="special gear sold by">
+      <PageReference>DFSC40</PageReference>
+    </Child>
+    <Child ReferenceText="tavern">
+      <PageReference>DFSC43</PageReference>
+    </Child>
+    <Child ReferenceText="Town Watch and">
+      <PageReference>DFSC15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <PageReference>DFSC31-34</PageReference>
+    <SeeAlso>Quests</SeeAlso>
+    <Child ReferenceText="exploring the dungeon">
+      <PageReference>DFSC32-33</PageReference>
+    </Child>
+    <Child ReferenceText="outdoorsmen and">
+      <PageReference>DFSC31</PageReference>
+    </Child>
+    <Child ReferenceText="random urban events">
+      <PageReference>DFSC30</PageReference>
+    </Child>
+    <Child ReferenceText="urban dangers">
+      <PageReference>DFSC25</PageReference>
+    </Child>
+    <Child ReferenceText="wandering monsters">
+      <PageReference>DFSC34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Air">
+    <PageReference>DFSC8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemists’ Guild">
+    <PageReference>DFSC21</PageReference>
+    <PageReference>DFSC37</PageReference>
+    <SeeAlso>Guilds</SeeAlso>
+    <Child ReferenceText="example shops">
+      <PageReference>DFSC39</PageReference>
+    </Child>
+    <Child ReferenceText="Mayor’s Council">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="quests">
+      <PageReference>DFSC31</PageReference>
+    </Child>
+    <Child ReferenceText="special gear sold by">
+      <PageReference>DFSC40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <SeeAlso>Enchantments</SeeAlso>
+    <SeeAlso>Equipment</SeeAlso>
+    <SeeAlso>Magic Items</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="cost of adjusting">
+      <PageReference>DFSC24</PageReference>
+    </Child>
+    <Child ReferenceText="wearing in town">
+      <PageReference>DFSC27</PageReference>
+    </Child>
+    <Child ReferenceText="buying">
+      <PageReference>DFSC39-40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armorers’ Guild">
+    <PageReference>DFSC19</PageReference>
+    <PageReference>DFSC37</PageReference>
+    <SeeAlso>Armor</SeeAlso>
+    <SeeAlso>Guilds</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="adjustments by">
+      <PageReference>DFSC24</PageReference>
+    </Child>
+    <Child ReferenceText="example shops">
+      <PageReference>DFSC39</PageReference>
+    </Child>
+    <Child ReferenceText="Mayor’s Council">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="special gear sold by">
+      <PageReference>DFSC40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificers’ Guild">
+    <PageReference>DFSC19</PageReference>
+    <PageReference>DFSC37</PageReference>
+    <SeeAlso>Guilds</SeeAlso>
+    <Child ReferenceText="current mayor">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="Mayor’s Council">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="special gear sold by">
+      <PageReference>DFSC40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Assassins">
+    <SeeAlso>Guilds</SeeAlso>
+    <Child ReferenceText="other entrance">
+      <PageReference>DFSC8</PageReference>
+    </Child>
+    <Child ReferenceText="Society of">
+      <PageReference>DFSC23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Authorities">
+    <PageReference>DFSC13-17</PageReference>
+    <Child ReferenceText="effective skill">
+      <PageReference>DFSC13</PageReference>
+    </Child>
+    <Child ReferenceText="quests">
+      <PageReference>DFSC31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Badapple">
+    <Child ReferenceText="Guildmaster Scrump">
+      <PageReference>DFSC19</PageReference>
+      <PageReference>DFSC23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbarians">
+    <Child ReferenceText="henchmen">
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="outdoorsmen traits">
+      <PageReference>DFSC29-31</PageReference>
+    </Child>
+    <Child ReferenceText="training">
+      <PageReference>DFSC28</PageReference>
+      <PageReference>DFSC46</PageReference>
+    </Child>
+    <Child ReferenceText="characters">
+      <PageReference>DFSC11</PageReference>
+      <PageReference>DFSC28</PageReference>
+      <PageReference>DFSC31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bards">
+    <SeeAlso>Guilds</SeeAlso>
+    <Child ReferenceText="Mayor’s Council">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="recharging power items">
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="training">
+      <PageReference>DFSC46</PageReference>
+    </Child>
+    <Child ReferenceText="visiting">
+      <PageReference>DFSC12</PageReference>
+    </Child>
+    <Child ReferenceText="Brotherhood of">
+      <PageReference>DFSC21-22</PageReference>
+      <PageReference>DFSC37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Barricade">
+    <PageReference>DFSC7-8</PageReference>
+    <SeeAlso>Military</SeeAlso>
+    <Child ReferenceText="damaging">
+      <PageReference>DFSC26</PageReference>
+      <PageReference>DFSC27</PageReference>
+    </Child>
+    <Child ReferenceText="gates">
+      <PageReference>DFSC8</PageReference>
+    </Child>
+    <Child ReferenceText="ghosts">
+      <PageReference>DFSC10</PageReference>
+    </Child>
+    <Child ReferenceText="Perimeter Road">
+      <PageReference>DFSC7</PageReference>
+      <PageReference>DFSC8</PageReference>
+    </Child>
+    <Child ReferenceText="Undertown">
+      <PageReference>DFSC35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic equipment">
+    <Child ReferenceText="buying">
+      <PageReference>DFSC38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Black market">
+    <PageReference>DFSC19</PageReference>
+    <PageReference>DFSC24</PageReference>
+    <PageReference>DFSC36</PageReference>
+    <PageReference>DFSC37</PageReference>
+    <Child ReferenceText="punishment">
+      <PageReference>DFSC25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bless spell">
+    <Child ReferenceText="buying">
+      <PageReference>DFSC45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Boulevards">
+    <PageReference>DFSC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buildings">
+    <PageReference>DFSC7</PageReference>
+    <SeeAlso>Barricade</SeeAlso>
+    <SeeAlso>Gates</SeeAlso>
+    <SeeAlso>Inns</SeeAlso>
+    <SeeAlso>Shaft</SeeAlso>
+    <SeeAlso>Taverns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="C-notes">
+    <PageReference>DFSC36</PageReference>
+    <Child ReferenceText="crime">
+      <PageReference>DFSC25</PageReference>
+    </Child>
+    <Child ReferenceText="metal reserves">
+      <PageReference>DFSC36</PageReference>
+    </Child>
+    <Child ReferenceText="money-changers">
+      <PageReference>DFSC14</PageReference>
+      <PageReference>DFSC24</PageReference>
+    </Child>
+    <Child ReferenceText="tavern">
+      <PageReference>DFSC43</PageReference>
+    </Child>
+    <Child ReferenceText="Town Hall">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <SeeAlso>Adventures</SeeAlso>
+    <SeeAlso>Character Creation</SeeAlso>
+    <Child ReferenceText="map of city">
+      <PageReference>DFSC6</PageReference>
+    </Child>
+    <Child ReferenceText="based in city">
+      <PageReference>DFSC27-30</PageReference>
+    </Child>
+    <Child ReferenceText="random urban events">
+      <PageReference>DFSC30</PageReference>
+    </Child>
+    <Child ReferenceText="location in world">
+      <PageReference>DFSC4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Castings">
+    <SeeAlso>Spells</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Chamber of Commerce">
+    <PageReference>DFSC19-20</PageReference>
+    <PageReference>DFSC37</PageReference>
+    <Child ReferenceText="buying goods">
+      <PageReference>DFSC24</PageReference>
+      <PageReference>DFSC37</PageReference>
+    </Child>
+    <Child ReferenceText="crimes against">
+      <PageReference>DFSC25</PageReference>
+    </Child>
+    <Child ReferenceText="example shops">
+      <PageReference>DFSC39-40</PageReference>
+    </Child>
+    <Child ReferenceText="Mayor’s Council">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="merchant visitors">
+      <PageReference>DFSC12</PageReference>
+    </Child>
+    <Child ReferenceText="quests">
+      <PageReference>DFSC32</PageReference>
+    </Child>
+    <Child ReferenceText="selling goods">
+      <PageReference>DFSC25</PageReference>
+      <PageReference>DFSC36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Character creation">
+    <Child ReferenceText="professions">
+      <PageReference>DFSC11</PageReference>
+      <PageReference>DFSC27-28</PageReference>
+    </Child>
+    <Child ReferenceText="races">
+      <PageReference>DFSC11</PageReference>
+    </Child>
+    <Child ReferenceText="social traits">
+      <PageReference>DFSC28</PageReference>
+    </Child>
+    <Child ReferenceText="outdoorsmen traits">
+      <PageReference>DFSC29-31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="City overview">
+    <PageReference>DFSC3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Civilization">
+    <Child ReferenceText="problems of">
+      <PageReference>DFSC26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Claim to Hospitality advantage">
+    <PageReference>DFSC28</PageReference>
+    <PageReference>DFSC45</PageReference>
+    <PageReference>DFSC46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerics">
+    <SeeAlso>Holy Warriors</SeeAlso>
+    <SeeAlso>Temples</SeeAlso>
+    <Child ReferenceText="henchmen">
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="important">
+      <PageReference>DFSC17</PageReference>
+    </Child>
+    <Child ReferenceText="recharging power items">
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="sanctity level">
+      <PageReference>DFSC10</PageReference>
+    </Child>
+    <Child ReferenceText="supplies">
+      <PageReference>DFSC40</PageReference>
+    </Child>
+    <Child ReferenceText="training">
+      <PageReference>DFSC46</PageReference>
+    </Child>
+    <Child ReferenceText="characters">
+      <PageReference>DFSC11</PageReference>
+      <PageReference>DFSC28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <PageReference>DFSC37-38</PageReference>
+    <Child ReferenceText="example shops">
+      <PageReference>DFSC39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Coleopteran queendom">
+    <PageReference>DFSC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crimes">
+    <PageReference>DFSC25-27</PageReference>
+    <Child ReferenceText="bypassing guilds">
+      <PageReference>DFSC18</PageReference>
+      <PageReference>DFSC25</PageReference>
+      <PageReference>DFSC41</PageReference>
+      <PageReference>DFSC43</PageReference>
+    </Child>
+    <Child ReferenceText="damaging town property">
+      <PageReference>DFSC26</PageReference>
+    </Child>
+    <Child ReferenceText="death-penalty equivalents">
+      <PageReference>DFSC26</PageReference>
+    </Child>
+    <Child ReferenceText="economic">
+      <PageReference>DFSC25</PageReference>
+    </Child>
+    <Child ReferenceText="general">
+      <PageReference>DFSC25</PageReference>
+    </Child>
+    <Child ReferenceText="gaming arrest and punishment">
+      <PageReference>DFSC26</PageReference>
+    </Child>
+    <Child ReferenceText="littering">
+      <PageReference>DFSC9</PageReference>
+      <PageReference>DFSC26</PageReference>
+    </Child>
+    <Child ReferenceText="magical">
+      <PageReference>DFSC26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Currency">
+    <SeeAlso>C-Notes</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Dante’s Paradise">
+    <PageReference>DFSC33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark Necropolis">
+    <PageReference>DFSC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Darkness-related magic">
+    <PageReference>DFSC9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deep">
+    <Child ReferenceText="The">
+      <PageReference>DFSC33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Deep Lakes">
+    <PageReference>DFSC33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deep Rangers">
+    <PageReference>DFSC15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delving companies">
+    <PageReference>DFSC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deputy delvers">
+    <PageReference>DFSC27</PageReference>
+    <Child ReferenceText="quests">
+      <PageReference>DFSC31</PageReference>
+    </Child>
+    <Child ReferenceText="random encounters">
+      <PageReference>DFSC30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Doors">
+    <PageReference>DFSC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druids">
+    <SeeAlso>Temples</SeeAlso>
+    <Child ReferenceText="College of">
+      <PageReference>DFSC17</PageReference>
+      <PageReference>DFSC20</PageReference>
+      <PageReference>DFSC27</PageReference>
+    </Child>
+    <Child ReferenceText="crimes against">
+      <PageReference>DFSC26</PageReference>
+    </Child>
+    <Child ReferenceText="Great Druid">
+      <PageReference>DFSC18</PageReference>
+    </Child>
+    <Child ReferenceText="Mayor’s Council">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="Nature’s strength">
+      <PageReference>DFSC10</PageReference>
+    </Child>
+    <Child ReferenceText="recharging power items">
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="rumors">
+      <PageReference>DFSC10</PageReference>
+    </Child>
+    <Child ReferenceText="training">
+      <PageReference>DFSC46</PageReference>
+    </Child>
+    <Child ReferenceText="character creation">
+      <PageReference>DFSC31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dueling">
+    <PageReference>DFSC27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeon Fantasy Roleplaying Game">
+    <PageReference>DFSC3</PageReference>
+    <SeeAlso>GURPS</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeons">
+    <SeeAlso>Tunnels</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth magic">
+    <PageReference>DFSC9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Economics">
+    <PageReference>DFSC37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eight Titans">
+    <PageReference>DFSC6-7</PageReference>
+    <PageReference>DFSC24</PageReference>
+    <Child ReferenceText="fountains">
+      <PageReference>DFSC6</PageReference>
+      <PageReference>DFSC9</PageReference>
+      <PageReference>DFSC10</PageReference>
+    </Child>
+    <Child ReferenceText="hidden lift">
+      <PageReference>DFSC8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchantments">
+    <SeeAlso>Magic Items</SeeAlso>
+    <SeeAlso>Scrolls</SeeAlso>
+    <SeeAlso>Spells</SeeAlso>
+    <Child ReferenceText="buying">
+      <PageReference>DFSC43-44</PageReference>
+    </Child>
+    <Child ReferenceText="magic items">
+      <PageReference>DFSC41-42</PageReference>
+    </Child>
+    <Child ReferenceText="special-order">
+      <PageReference>DFSC43-44</PageReference>
+    </Child>
+    <Child ReferenceText="bespoke">
+      <PageReference>DFSC43-44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Entrances">
+    <Child ReferenceText="main">
+      <PageReference>DFSC5</PageReference>
+      <PageReference>DFSC6</PageReference>
+    </Child>
+    <Child ReferenceText="other">
+      <PageReference>DFSC8</PageReference>
+    </Child>
+    <Child ReferenceText="The Shaft">
+      <PageReference>DFSC6</PageReference>
+    </Child>
+    <Child ReferenceText="tolls">
+      <PageReference>DFSC6</PageReference>
+      <PageReference>DFSC24</PageReference>
+      <PageReference>DFSC25</PageReference>
+    </Child>
+    <Child ReferenceText="from tunnels">
+      <PageReference>DFSC7-8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Black Market</SeeAlso>
+    <SeeAlso>Magic Items</SeeAlso>
+    <SeeAlso>Shops</SeeAlso>
+    <SeeAlso>Treasure</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="brewing own">
+      <PageReference>DFSC41</PageReference>
+    </Child>
+    <Child ReferenceText="buying basic">
+      <PageReference>DFSC38</PageReference>
+    </Child>
+    <Child ReferenceText="buying">
+      <PageReference>DFSC24</PageReference>
+      <PageReference>DFSC25</PageReference>
+      <PageReference>DFSC37-42</PageReference>
+    </Child>
+    <Child ReferenceText="crafting own">
+      <PageReference>DFSC41</PageReference>
+    </Child>
+    <Child ReferenceText="custom-crafted">
+      <PageReference>DFSC23</PageReference>
+    </Child>
+    <Child ReferenceText="dwarven">
+      <PageReference>DFSC40</PageReference>
+    </Child>
+    <Child ReferenceText="enchanting">
+      <PageReference>DFSC43-44</PageReference>
+    </Child>
+    <Child ReferenceText="finding rare">
+      <PageReference>DFSC41</PageReference>
+    </Child>
+    <Child ReferenceText="local specialties">
+      <PageReference>DFSC40-41</PageReference>
+    </Child>
+    <Child ReferenceText="money">
+      <PageReference>DFSC36</PageReference>
+    </Child>
+    <Child ReferenceText="outdoorsy">
+      <PageReference>DFSC41</PageReference>
+    </Child>
+    <Child ReferenceText="recharging power items">
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="refits">
+      <PageReference>DFSC46</PageReference>
+    </Child>
+    <Child ReferenceText="repairs">
+      <PageReference>DFSC46</PageReference>
+    </Child>
+    <Child ReferenceText="scrap">
+      <PageReference>DFSC36</PageReference>
+    </Child>
+    <Child ReferenceText="selling">
+      <PageReference>DFSC24</PageReference>
+      <PageReference>DFSC36-37</PageReference>
+    </Child>
+    <Child ReferenceText="special enchantments">
+      <PageReference>DFSC43-44</PageReference>
+    </Child>
+    <Child ReferenceText="special non-magical">
+      <PageReference>DFSC40-41</PageReference>
+    </Child>
+    <Child ReferenceText="special orders">
+      <PageReference>DFSC41</PageReference>
+    </Child>
+    <Child ReferenceText="starting for locals">
+      <PageReference>DFSC28</PageReference>
+    </Child>
+    <Child ReferenceText="availability">
+      <PageReference>DFSC37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <PageReference>DFSC9</PageReference>
+    <PageReference>DFSC38</PageReference>
+    <SeeAlso>Water</SeeAlso>
+    <Child ReferenceText="crimes">
+      <PageReference>DFSC26</PageReference>
+    </Child>
+    <Child ReferenceText="foraging">
+      <PageReference>DFSC29</PageReference>
+      <PageReference>DFSC32</PageReference>
+    </Child>
+    <Child ReferenceText="inns">
+      <PageReference>DFSC42-43</PageReference>
+    </Child>
+    <Child ReferenceText="taverns">
+      <PageReference>DFSC43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Forgotten Mines">
+    <PageReference>DFSC33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fort Caverntown">
+    <PageReference>DFSC5</PageReference>
+    <Child ReferenceText="breaching">
+      <PageReference>DFSC26</PageReference>
+    </Child>
+    <Child ReferenceText="great golems">
+      <PageReference>DFSC17</PageReference>
+    </Child>
+    <Child ReferenceText="The Shaft">
+      <PageReference>DFSC5</PageReference>
+      <PageReference>DFSC6</PageReference>
+    </Child>
+    <Child ReferenceText="troops">
+      <PageReference>DFSC5</PageReference>
+      <PageReference>DFSC15-17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteers’ Guild">
+    <SeeAlso>Artificers’ Guild</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Garbage">
+    <PageReference>DFSC9</PageReference>
+    <PageReference>DFSC24</PageReference>
+    <Child ReferenceText="crimes">
+      <PageReference>DFSC26</PageReference>
+    </Child>
+    <Child ReferenceText="rumors">
+      <PageReference>DFSC10</PageReference>
+    </Child>
+    <Child ReferenceText="scrounging">
+      <PageReference>DFSC24</PageReference>
+    </Child>
+    <Child ReferenceText="Undertown">
+      <PageReference>DFSC35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gate magic">
+    <PageReference>DFSC10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gates">
+    <Child ReferenceText="Fort Caverntown">
+      <PageReference>DFSC5</PageReference>
+    </Child>
+    <Child ReferenceText="Caverntown">
+      <PageReference>DFSC8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>Armor</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="General stores">
+    <Child ReferenceText="example">
+      <PageReference>DFSC39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Glimmering Caves">
+    <PageReference>DFSC34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goblin pits">
+    <PageReference>DFSC34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goldhaus Group">
+    <PageReference>DFSC20</PageReference>
+    <PageReference>DFSC39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great Cavern">
+    <Child ReferenceText="infrastructure">
+      <PageReference>DFSC8-9</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DFSC6</PageReference>
+    </Child>
+    <Child ReferenceText="city layout">
+      <PageReference>DFSC6-8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Great golems">
+    <PageReference>DFSC5</PageReference>
+    <PageReference>DFSC6</PageReference>
+    <PageReference>DFSC17</PageReference>
+    <Child ReferenceText="damaging">
+      <PageReference>DFSC17</PageReference>
+      <PageReference>DFSC26</PageReference>
+    </Child>
+    <Child ReferenceText="rumor">
+      <PageReference>DFSC10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Guides">
+    <Child ReferenceText="tour">
+      <PageReference>DFSC22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Guilds">
+    <SeeAlso>Military</SeeAlso>
+    <SeeAlso>Temples</SeeAlso>
+    <SeeAlso>specific guilds</SeeAlso>
+    <Child ReferenceText="bypassing">
+      <PageReference>DFSC18</PageReference>
+      <PageReference>DFSC25</PageReference>
+      <PageReference>DFSC41</PageReference>
+      <PageReference>DFSC43</PageReference>
+    </Child>
+    <Child ReferenceText="descriptions">
+      <PageReference>DFSC19-23</PageReference>
+    </Child>
+    <Child ReferenceText="effective skill">
+      <PageReference>DFSC13</PageReference>
+    </Child>
+    <Child ReferenceText="fees">
+      <PageReference>DFSC24</PageReference>
+    </Child>
+    <Child ReferenceText="Mayor’s Council">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="minor">
+      <PageReference>DFSC23</PageReference>
+    </Child>
+    <Child ReferenceText="other significant">
+      <PageReference>DFSC21-23</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DFSC18-19</PageReference>
+    </Child>
+    <Child ReferenceText="quests">
+      <PageReference>DFSC31</PageReference>
+    </Child>
+    <Child ReferenceText="table of people">
+      <PageReference>DFSC23</PageReference>
+    </Child>
+    <Child ReferenceText="visiting members">
+      <PageReference>DFSC12</PageReference>
+    </Child>
+    <Child ReferenceText="Big Five">
+      <PageReference>DFSC19-21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Basic Set">
+    <PageReference>DFSC3</PageReference>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DFSC3</PageReference>
+      <PageReference>DFSC6</PageReference>
+      <PageReference>DFSC8</PageReference>
+      <PageReference>DFSC13</PageReference>
+      <PageReference>DFSC23</PageReference>
+      <PageReference>DFSC24</PageReference>
+      <PageReference>DFSC26</PageReference>
+      <PageReference>DFSC38</PageReference>
+      <PageReference>DFSC41-44</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DFSC3</PageReference>
+      <PageReference>DFSC11</PageReference>
+      <PageReference>DFSC13</PageReference>
+      <PageReference>DFSC15</PageReference>
+      <PageReference>DFSC38</PageReference>
+      <PageReference>DFSC40</PageReference>
+      <PageReference>DFSC41</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DFSC3</PageReference>
+      <PageReference>DFSC5</PageReference>
+      <PageReference>DFSC7</PageReference>
+      <PageReference>DFSC8</PageReference>
+      <PageReference>DFSC10</PageReference>
+      <PageReference>DFSC13</PageReference>
+      <PageReference>DFSC15</PageReference>
+      <PageReference>DFSC18-20</PageReference>
+      <PageReference>DFSC24</PageReference>
+      <PageReference>DFSC25</PageReference>
+      <PageReference>DFSC29</PageReference>
+      <PageReference>DFSC30</PageReference>
+      <PageReference>DFSC32-34</PageReference>
+      <PageReference>DFSC36</PageReference>
+      <PageReference>DFSC37</PageReference>
+      <PageReference>DFSC41-43</PageReference>
+      <PageReference>DFSC46</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DFSC25</PageReference>
+      <PageReference>DFSC34</PageReference>
+      <PageReference>DFSC35</PageReference>
+      <PageReference>DFSC38</PageReference>
+      <PageReference>DFSC46</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DFSC11</PageReference>
+      <PageReference>DFSC20</PageReference>
+      <PageReference>DFSC40</PageReference>
+      <PageReference>DFSC42</PageReference>
+      <PageReference>DFSC46</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 5: Allies">
+      <PageReference>DFSC34</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 6: 40 Artifacts">
+      <PageReference>DFSC40</PageReference>
+      <PageReference>DFSC42</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 7: Clerics">
+      <PageReference>DFSC11</PageReference>
+      <PageReference>DFSC16</PageReference>
+      <PageReference>DFSC17</PageReference>
+      <PageReference>DFSC38</PageReference>
+      <PageReference>DFSC40</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 8: Treasure Tables">
+      <PageReference>DFSC37</PageReference>
+      <PageReference>DFSC38</PageReference>
+      <PageReference>DFSC40-42</PageReference>
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 9: Summoners">
+      <PageReference>DFSC10</PageReference>
+      <PageReference>DFSC11</PageReference>
+      <PageReference>DFSC34</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 10: Taverns">
+      <PageReference>DFSC11</PageReference>
+      <PageReference>DFSC23-25</PageReference>
+      <PageReference>DFSC34</PageReference>
+      <PageReference>DFSC42</PageReference>
+      <PageReference>DFSC43</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 11: Power-Ups">
+      <PageReference>DFSC28</PageReference>
+      <PageReference>DFSC31</PageReference>
+      <PageReference>DFSC46</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 12: Ninja">
+      <PageReference>DFSC11</PageReference>
+      <PageReference>DFSC16</PageReference>
+      <PageReference>DFSC41</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 13: Loadouts">
+      <PageReference>DFSC38</PageReference>
+      <PageReference>DFSC40</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 14: Psi">
+      <PageReference>DFSC10</PageReference>
+      <PageReference>DFSC16</PageReference>
+      <PageReference>DFSC35</PageReference>
+      <PageReference>DFSC41</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 15: Henchmen">
+      <PageReference>DFSC11</PageReference>
+      <PageReference>DFSC15</PageReference>
+      <PageReference>DFSC16</PageReference>
+      <PageReference>DFSC19</PageReference>
+      <PageReference>DFSC21</PageReference>
+      <PageReference>DFSC24</PageReference>
+      <PageReference>DFSC29</PageReference>
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 16: Wilderness Adventures">
+      <PageReference>DFSC15</PageReference>
+      <PageReference>DFSC29</PageReference>
+      <PageReference>DFSC32</PageReference>
+      <PageReference>DFSC33</PageReference>
+      <PageReference>DFSC38</PageReference>
+      <PageReference>DFSC40</PageReference>
+      <PageReference>DFSC41</PageReference>
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 17: Guilds">
+      <PageReference>DFSC3</PageReference>
+      <PageReference>DFSC14-16</PageReference>
+      <PageReference>DFSC18-20</PageReference>
+      <PageReference>DFSC22</PageReference>
+      <PageReference>DFSC24</PageReference>
+      <PageReference>DFSC27</PageReference>
+      <PageReference>DFSC28</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 18: Power Items">
+      <PageReference>DFSC23</PageReference>
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 19: Incantation Magic">
+      <PageReference>DFSC16</PageReference>
+      <PageReference>DFSC41</PageReference>
+      <PageReference>DFSC42</PageReference>
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Denizens: Barbarians">
+      <PageReference>DFSC31</PageReference>
+      <PageReference>DFSC38</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Denizens: Swashbucklers">
+      <PageReference>DFSC28</PageReference>
+      <PageReference>DFSC38</PageReference>
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Encounters 1: The Pagoda of Worlds">
+      <PageReference>DFSC8</PageReference>
+      <PageReference>DFSC35</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Monsters 1">
+      <PageReference>DFSC29</PageReference>
+      <PageReference>DFSC33-35</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Monsters 2: Icky Goo">
+      <PageReference>DFSC34</PageReference>
+      <PageReference>DFSC35</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Monsters 3: Born of Myth &amp; Magic">
+      <PageReference>DFSC10</PageReference>
+      <PageReference>DFSC33</PageReference>
+      <PageReference>DFSC34</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Treasures 2: Epic Treasures">
+      <PageReference>DFSC42</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>DFSC3</PageReference>
+    </Child>
+    <Child ReferenceText="Magic: Plant Spells">
+      <PageReference>DFSC31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Harris">
+    <Child ReferenceText="Commander Arthur">
+      <PageReference>DFSC15</PageReference>
+      <PageReference>DFSC23</PageReference>
+      <PageReference>DFSC26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hazards">
+    <Child ReferenceText="tunnel">
+      <PageReference>DFSC33</PageReference>
+    </Child>
+    <Child ReferenceText="urban">
+      <PageReference>DFSC25</PageReference>
+    </Child>
+    <Child ReferenceText="random urban events">
+      <PageReference>DFSC30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing">
+    <PageReference>DFSC44-45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hell’s Oubliette">
+    <PageReference>DFSC34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Henchmen">
+    <PageReference>DFSC45</PageReference>
+    <Child ReferenceText="rumors">
+      <PageReference>DFSC10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hive">
+    <Child ReferenceText="The">
+      <PageReference>DFSC35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy warriors">
+    <SeeAlso>Clerics</SeeAlso>
+    <SeeAlso>Order of Saint Angelina</SeeAlso>
+    <SeeAlso>Temples</SeeAlso>
+    <Child ReferenceText="training">
+      <PageReference>DFSC46</PageReference>
+    </Child>
+    <Child ReferenceText="characters">
+      <PageReference>DFSC11</PageReference>
+      <PageReference>DFSC27</PageReference>
+      <PageReference>DFSC28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hospitality Guild">
+    <PageReference>DFSC22-23</PageReference>
+    <PageReference>DFSC37</PageReference>
+    <SeeAlso>Guilds</SeeAlso>
+    <Child ReferenceText="guides">
+      <PageReference>DFSC22</PageReference>
+      <PageReference>DFSC24</PageReference>
+    </Child>
+    <Child ReferenceText="inns">
+      <PageReference>DFSC42-43</PageReference>
+    </Child>
+    <Child ReferenceText="maps">
+      <PageReference>DFSC22</PageReference>
+      <PageReference>DFSC24</PageReference>
+    </Child>
+    <Child ReferenceText="Mayor’s Council">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="taverns">
+      <PageReference>DFSC43</PageReference>
+    </Child>
+    <Child ReferenceText="welcome center">
+      <PageReference>DFSC7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Immortuos">
+    <Child ReferenceText="Grand Magister Certus">
+      <PageReference>DFSC21</PageReference>
+      <PageReference>DFSC23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Infrastructure">
+    <PageReference>DFSC8-9</PageReference>
+    <SeeAlso>Garbage</SeeAlso>
+    <SeeAlso>Light</SeeAlso>
+    <SeeAlso>Water</SeeAlso>
+    <Child ReferenceText="tampering with">
+      <PageReference>DFSC26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Inhabitants">
+    <PageReference>DFSC11-12</PageReference>
+    <Child ReferenceText="protagonists as">
+      <PageReference>DFSC27-28</PageReference>
+    </Child>
+    <Child ReferenceText="table of key">
+      <PageReference>DFSC23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Inns">
+    <PageReference>DFSC42-43</PageReference>
+    <SeeAlso>Hospitality Guild</SeeAlso>
+    <Child ReferenceText="example">
+      <PageReference>DFSC43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jewelry">
+    <PageReference>DFSC38</PageReference>
+    <Child ReferenceText="example shops">
+      <PageReference>DFSC40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="King’s Men">
+    <PageReference>DFSC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laws">
+    <SeeAlso>Crimes</SeeAlso>
+    <Child ReferenceText="tribune">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Layout of city">
+    <PageReference>DFSC6-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lift">
+    <PageReference>DFSC5</PageReference>
+    <SeeAlso>Shaft</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Light">
+    <Child ReferenceText="in tunnels">
+      <PageReference>DFSC32-33</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>DFSC9-10</PageReference>
+    </Child>
+    <Child ReferenceText="rumor">
+      <PageReference>DFSC10</PageReference>
+    </Child>
+    <Child ReferenceText="in town">
+      <PageReference>DFSC8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Location in world">
+    <PageReference>DFSC4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locks">
+    <PageReference>DFSC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loot">
+    <SeeAlso>Armor</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Lord Mayor">
+    <SeeAlso>Mayor</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Lost Labyrinth">
+    <PageReference>DFSC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic items">
+    <SeeAlso>Enchantments</SeeAlso>
+    <SeeAlso>Scrolls</SeeAlso>
+    <Child ReferenceText="example shops">
+      <PageReference>DFSC40</PageReference>
+    </Child>
+    <Child ReferenceText="special-order casting">
+      <PageReference>DFSC44</PageReference>
+    </Child>
+    <Child ReferenceText="specialorder enchantment">
+      <PageReference>DFSC43-44</PageReference>
+    </Child>
+    <Child ReferenceText="buying">
+      <PageReference>DFSC41-42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <SeeAlso>Spells</SeeAlso>
+    <Child ReferenceText="energies">
+      <PageReference>DFSC9-10</PageReference>
+    </Child>
+    <Child ReferenceText="mana level">
+      <PageReference>DFSC9-10</PageReference>
+    </Child>
+    <Child ReferenceText="spell bonuses">
+      <PageReference>DFSC9-10</PageReference>
+    </Child>
+    <Child ReferenceText="black">
+      <PageReference>DFSC44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical services">
+    <PageReference>DFSC43-46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana level">
+    <PageReference>DFSC9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maps">
+    <Child ReferenceText="creating">
+      <PageReference>DFSC37</PageReference>
+    </Child>
+    <Child ReferenceText="from guild">
+      <PageReference>DFSC22</PageReference>
+    </Child>
+    <Child ReferenceText="Navigation skill">
+      <PageReference>DFSC29</PageReference>
+    </Child>
+    <Child ReferenceText="of campaign setting">
+      <PageReference>DFSC6</PageReference>
+    </Child>
+    <Child ReferenceText="of streets">
+      <PageReference>DFSC7</PageReference>
+    </Child>
+    <Child ReferenceText="travel">
+      <PageReference>DFSC29</PageReference>
+      <PageReference>DFSC32</PageReference>
+    </Child>
+    <Child ReferenceText="accessories">
+      <PageReference>DFSC38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mayor">
+    <PageReference>DFSC13-14</PageReference>
+    <Child ReferenceText="history">
+      <PageReference>DFSC5</PageReference>
+    </Child>
+    <Child ReferenceText="other entrance">
+      <PageReference>DFSC8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mayor’s Council">
+    <PageReference>DFSC14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentalists">
+    <PageReference>DFSC10</PageReference>
+    <PageReference>DFSC11</PageReference>
+    <Child ReferenceText="King’s Men">
+      <PageReference>DFSC16</PageReference>
+    </Child>
+    <Child ReferenceText="nightmares">
+      <PageReference>DFSC10</PageReference>
+      <PageReference>DFSC33</PageReference>
+    </Child>
+    <Child ReferenceText="recharging power items">
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="training">
+      <PageReference>DFSC28</PageReference>
+      <PageReference>DFSC46</PageReference>
+    </Child>
+    <Child ReferenceText="training facility">
+      <PageReference>DFSC35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchants">
+    <SeeAlso>Chamber of Commerce</SeeAlso>
+    <SeeAlso>Equipment</SeeAlso>
+    <Child ReferenceText="example shops">
+      <PageReference>DFSC39-40</PageReference>
+    </Child>
+    <Child ReferenceText="regular dealings with">
+      <PageReference>DFSC38</PageReference>
+    </Child>
+    <Child ReferenceText="visiting">
+      <PageReference>DFSC12</PageReference>
+    </Child>
+    <Child ReferenceText="dealing with">
+      <PageReference>DFSC36</PageReference>
+      <PageReference>DFSC37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Military">
+    <PageReference>DFSC15-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mines">
+    <Child ReferenceText="forgotten">
+      <PageReference>DFSC33</PageReference>
+    </Child>
+    <Child ReferenceText="goblin">
+      <PageReference>DFSC34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Money">
+    <SeeAlso>C-Notes</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Money-changers">
+    <PageReference>DFSC14</PageReference>
+    <PageReference>DFSC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <Child ReferenceText="city wildlife">
+      <PageReference>DFSC12</PageReference>
+    </Child>
+    <Child ReferenceText="in tunnels">
+      <PageReference>DFSC33-35</PageReference>
+    </Child>
+    <Child ReferenceText="intelligent">
+      <PageReference>DFSC11</PageReference>
+      <PageReference>DFSC12</PageReference>
+    </Child>
+    <Child ReferenceText="random urban events">
+      <PageReference>DFSC30</PageReference>
+    </Child>
+    <Child ReferenceText="rumors">
+      <PageReference>DFSC10</PageReference>
+    </Child>
+    <Child ReferenceText="selling parts">
+      <PageReference>DFSC37</PageReference>
+    </Child>
+    <Child ReferenceText="undead">
+      <PageReference>DFSC10</PageReference>
+    </Child>
+    <Child ReferenceText="wandering">
+      <PageReference>DFSC34</PageReference>
+    </Child>
+    <Child ReferenceText="buying parts">
+      <PageReference>DFSC41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mufajir">
+    <Child ReferenceText="Guildmaster Zuulia">
+      <PageReference>DFSC21</PageReference>
+      <PageReference>DFSC23</PageReference>
+      <PageReference>DFSC39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Natives">
+    <PageReference>DFSC11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nature’s strength">
+    <PageReference>DFSC10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromantic magic">
+    <PageReference>DFSC10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="O’Malley, Guildmaster Cheery “Cheerio, ” 23">
+    <PageReference>DFSC43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of Saint Angelina">
+    <PageReference>DFSC10</PageReference>
+    <PageReference>DFSC14</PageReference>
+    <PageReference>DFSC16</PageReference>
+    <Child ReferenceText="duels">
+      <PageReference>DFSC27</PageReference>
+    </Child>
+    <Child ReferenceText="history">
+      <PageReference>DFSC5</PageReference>
+    </Child>
+    <Child ReferenceText="Mayor’s Council">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="quests">
+      <PageReference>DFSC32</PageReference>
+    </Child>
+    <Child ReferenceText="temple">
+      <PageReference>DFSC7</PageReference>
+      <PageReference>DFSC17</PageReference>
+    </Child>
+    <Child ReferenceText="troops">
+      <PageReference>DFSC5</PageReference>
+      <PageReference>DFSC10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Organizations">
+    <SeeAlso>Authorities</SeeAlso>
+    <SeeAlso>Guilds</SeeAlso>
+    <SeeAlso>Temples</SeeAlso>
+    <SeeAlso>specific organizations</SeeAlso>
+    <Child ReferenceText="effective skill">
+      <PageReference>DFSC13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Outdoorsmen">
+    <SeeAlso>Barbarians</SeeAlso>
+    <SeeAlso>Character Creation</SeeAlso>
+    <SeeAlso>Druids</SeeAlso>
+    <Child ReferenceText="making useful">
+      <PageReference>DFSC11</PageReference>
+      <PageReference>DFSC29-31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Perimeter Road">
+    <PageReference>DFSC7-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Population density">
+    <PageReference>DFSC11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power items">
+    <Child ReferenceText="recharging">
+      <PageReference>DFSC45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Professions">
+    <PageReference>DFSC11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic echoes">
+    <PageReference>DFSC10</PageReference>
+    <PageReference>DFSC33</PageReference>
+    <SeeAlso>Mentalists</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Quests">
+    <Child ReferenceText="as punishment">
+      <PageReference>DFSC15</PageReference>
+      <PageReference>DFSC26</PageReference>
+    </Child>
+    <Child ReferenceText="finding">
+      <PageReference>DFSC19</PageReference>
+      <PageReference>DFSC24</PageReference>
+      <PageReference>DFSC31-32</PageReference>
+    </Child>
+    <Child ReferenceText="ideas">
+      <PageReference>DFSC12</PageReference>
+    </Child>
+    <Child ReferenceText="Adventurers’ Guild">
+      <PageReference>DFSC19</PageReference>
+      <PageReference>DFSC32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Races">
+    <PageReference>DFSC11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Red-Eye beverage">
+    <PageReference>DFSC43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious sects">
+    <SeeAlso>Druids</SeeAlso>
+    <SeeAlso>Order of Saint Angelina</SeeAlso>
+    <SeeAlso>Temples</SeeAlso>
+    <Child ReferenceText="influential">
+      <PageReference>DFSC17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reputation trait">
+    <PageReference>DFSC28</PageReference>
+    <PageReference>DFSC29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Researchers">
+    <PageReference>DFSC12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resurrection">
+    <PageReference>DFSC10</PageReference>
+    <PageReference>DFSC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restless dead">
+    <SeeAlso>Undead</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Romée">
+    <Child ReferenceText="Grand Mistress Geneviève">
+      <PageReference>DFSC16</PageReference>
+      <PageReference>DFSC17</PageReference>
+      <PageReference>DFSC23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rooftops">
+    <PageReference>DFSC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Royal Embassy">
+    <PageReference>DFSC15</PageReference>
+    <Child ReferenceText="quests">
+      <PageReference>DFSC31</PageReference>
+    </Child>
+    <Child ReferenceText="visiting spies">
+      <PageReference>DFSC12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rumors">
+    <PageReference>DFSC10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruth Institute">
+    <PageReference>DFSC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sanctity level">
+    <PageReference>DFSC10</PageReference>
+    <Child ReferenceText="rumor">
+      <PageReference>DFSC10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Schreck">
+    <Child ReferenceText="Ambassador Bela">
+      <PageReference>DFSC15</PageReference>
+      <PageReference>DFSC23</PageReference>
+      <PageReference>DFSC31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrap">
+    <Child ReferenceText="selling">
+      <PageReference>DFSC36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrolls">
+    <Child ReferenceText="buying">
+      <PageReference>DFSC42</PageReference>
+    </Child>
+    <Child ReferenceText="example shop">
+      <PageReference>DFSC40</PageReference>
+    </Child>
+    <Child ReferenceText="tattooed">
+      <PageReference>DFSC46</PageReference>
+    </Child>
+    <Child ReferenceText="accessories for">
+      <PageReference>DFSC40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-defense">
+    <PageReference>DFSC27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Services">
+    <PageReference>DFSC42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sewage">
+    <SeeAlso>Garbage</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadow Enclave">
+    <PageReference>DFSC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shaft Draught beverage">
+    <PageReference>DFSC43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shaft">
+    <SeeAlso>Great Golems</SeeAlso>
+    <Child ReferenceText="Adventurers’ Guild">
+      <PageReference>DFSC19</PageReference>
+      <PageReference>DFSC43</PageReference>
+    </Child>
+    <Child ReferenceText="beer">
+      <PageReference>DFSC43</PageReference>
+    </Child>
+    <Child ReferenceText="crimes">
+      <PageReference>DFSC26</PageReference>
+      <PageReference>DFSC27</PageReference>
+    </Child>
+    <Child ReferenceText="tolls">
+      <PageReference>DFSC6</PageReference>
+      <PageReference>DFSC24</PageReference>
+      <PageReference>DFSC25</PageReference>
+    </Child>
+    <Child ReferenceText="Town Square">
+      <PageReference>DFSC7</PageReference>
+    </Child>
+    <Child ReferenceText="The">
+      <PageReference>DFSC5</PageReference>
+      <PageReference>DFSC6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <SeeAlso>Weapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shops">
+    <PageReference>DFSC39-40</PageReference>
+    <Child ReferenceText="regulars">
+      <PageReference>DFSC38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sideways (native “insect”)">
+    <PageReference>DFSC12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sivel">
+    <Child ReferenceText="Master Bard">
+      <PageReference>DFSC21-23</PageReference>
+      <PageReference>DFSC43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="outdoorsmen">
+      <PageReference>DFSC29-30</PageReference>
+    </Child>
+    <Child ReferenceText="new specialty">
+      <PageReference>DFSC29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma disadvantage">
+    <PageReference>DFSC25</PageReference>
+    <Child ReferenceText="gaining">
+      <PageReference>DFSC25</PageReference>
+      <PageReference>DFSC26</PageReference>
+      <PageReference>DFSC30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <SeeAlso>Enchantments</SeeAlso>
+    <SeeAlso>Magic</SeeAlso>
+    <SeeAlso>Magic Items</SeeAlso>
+    <SeeAlso>Scrolls</SeeAlso>
+    <Child ReferenceText="buying castings">
+      <PageReference>DFSC44</PageReference>
+    </Child>
+    <Child ReferenceText="special-order">
+      <PageReference>DFSC44</PageReference>
+    </Child>
+    <Child ReferenceText="bonuses to">
+      <PageReference>DFSC9-10</PageReference>
+    </Child>
+    <Child ReferenceText="buying Bless">
+      <PageReference>DFSC45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spies">
+    <PageReference>DFSC12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Status trait">
+    <PageReference>DFSC28</PageReference>
+    <PageReference>DFSC29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stonesen">
+    <Child ReferenceText="Guildmaster Wålli">
+      <PageReference>DFSC19</PageReference>
+      <PageReference>DFSC23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stories">
+    <Child ReferenceText="selling">
+      <PageReference>DFSC38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Streets">
+    <PageReference>DFSC7</PageReference>
+    <Child ReferenceText="crimes">
+      <PageReference>DFSC26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sunbats">
+    <PageReference>DFSC12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival (Subterranean) skill">
+    <PageReference>DFSC29</PageReference>
+    <PageReference>DFSC30</PageReference>
+    <PageReference>DFSC32</PageReference>
+    <PageReference>DFSC43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Table">
+    <Child ReferenceText="random urban events">
+      <PageReference>DFSC30</PageReference>
+    </Child>
+    <Child ReferenceText="random tunnel encounters">
+      <PageReference>DFSC34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tasks in town">
+    <PageReference>DFSC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tattoos">
+    <PageReference>DFSC38</PageReference>
+    <Child ReferenceText="example shop">
+      <PageReference>DFSC40</PageReference>
+    </Child>
+    <Child ReferenceText="scrolls">
+      <PageReference>DFSC46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Taverns">
+    <PageReference>DFSC43</PageReference>
+    <SeeAlso>Hospitality Guild</SeeAlso>
+    <Child ReferenceText="bar fights">
+      <PageReference>DFSC25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Temples">
+    <PageReference>DFSC17-18</PageReference>
+    <SeeAlso>Druids</SeeAlso>
+    <SeeAlso>Clerics</SeeAlso>
+    <SeeAlso>Order of Saint Angelina</SeeAlso>
+    <Child ReferenceText="crimes against">
+      <PageReference>DFSC26</PageReference>
+    </Child>
+    <Child ReferenceText="effective skill">
+      <PageReference>DFSC13</PageReference>
+    </Child>
+    <Child ReferenceText="evil">
+      <PageReference>DFSC17</PageReference>
+    </Child>
+    <Child ReferenceText="food">
+      <PageReference>DFSC9</PageReference>
+    </Child>
+    <Child ReferenceText="healing">
+      <PageReference>DFSC44-45</PageReference>
+    </Child>
+    <Child ReferenceText="Mayor’s Council">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="quests">
+      <PageReference>DFSC32</PageReference>
+    </Child>
+    <Child ReferenceText="recharges">
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="special gear sold by">
+      <PageReference>DFSC40</PageReference>
+    </Child>
+    <Child ReferenceText="undead and">
+      <PageReference>DFSC10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thieves’ Guild">
+    <SeeAlso>Adventurers’ Guild</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Thieves’ tools">
+    <PageReference>DFSC40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tolls">
+    <PageReference>DFSC6</PageReference>
+    <PageReference>DFSC24</PageReference>
+    <PageReference>DFSC25</PageReference>
+    <Child ReferenceText="not paying">
+      <PageReference>DFSC6</PageReference>
+      <PageReference>DFSC25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tombs">
+    <SeeAlso>Undead</SeeAlso>
+    <Child ReferenceText="in tunnels">
+      <PageReference>DFSC35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tourists">
+    <PageReference>DFSC12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Town Hall">
+    <PageReference>DFSC14</PageReference>
+    <SeeAlso>Town Watch</SeeAlso>
+    <Child ReferenceText="money">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="quests">
+      <PageReference>DFSC31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Town Square">
+    <PageReference>DFSC7</PageReference>
+    <SeeAlso>Eight Titans</SeeAlso>
+    <SeeAlso>Shaft</SeeAlso>
+    <Child ReferenceText="Adventurer’s Guild">
+      <PageReference>DFSC19</PageReference>
+    </Child>
+    <Child ReferenceText="Brotherhood of Bards">
+      <PageReference>DFSC21</PageReference>
+    </Child>
+    <Child ReferenceText="hospitable places">
+      <PageReference>DFSC43</PageReference>
+    </Child>
+    <Child ReferenceText="King’s Men">
+      <PageReference>DFSC16</PageReference>
+    </Child>
+    <Child ReferenceText="Order of Saint Angelina">
+      <PageReference>DFSC17</PageReference>
+    </Child>
+    <Child ReferenceText="Royal Embassy">
+      <PageReference>DFSC15</PageReference>
+    </Child>
+    <Child ReferenceText="Town Hall">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="Town Watch">
+      <PageReference>DFSC15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Town Watch">
+    <PageReference>DFSC15</PageReference>
+    <Child ReferenceText="Deputy delvers">
+      <PageReference>DFSC27</PageReference>
+    </Child>
+    <Child ReferenceText="Mayor’s Council">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="random encounters">
+      <PageReference>DFSC30</PageReference>
+    </Child>
+    <Child ReferenceText="quests">
+      <PageReference>DFSC31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Training">
+    <PageReference>DFSC46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel in tunnels">
+    <PageReference>DFSC32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treasure">
+    <SeeAlso>Armor</SeeAlso>
+    <SeeAlso>Equipment</SeeAlso>
+    <SeeAlso>Magic Items</SeeAlso>
+    <SeeAlso>Scrolls</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="scrap">
+      <PageReference>DFSC36</PageReference>
+    </Child>
+    <Child ReferenceText="selling">
+      <PageReference>DFSC36-37</PageReference>
+    </Child>
+    <Child ReferenceText="deed to home">
+      <PageReference>DFSC29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tribune">
+    <PageReference>DFSC14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tripvines">
+    <PageReference>DFSC12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tunnels">
+    <Child ReferenceText="exploring">
+      <PageReference>DFSC32-33</PageReference>
+    </Child>
+    <Child ReferenceText="hazards">
+      <PageReference>DFSC33</PageReference>
+    </Child>
+    <Child ReferenceText="travel in">
+      <PageReference>DFSC32</PageReference>
+    </Child>
+    <Child ReferenceText="destinations">
+      <PageReference>DFSC33-35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead">
+    <PageReference>DFSC10</PageReference>
+    <PageReference>DFSC35</PageReference>
+    <Child ReferenceText="history">
+      <PageReference>DFSC4</PageReference>
+    </Child>
+    <Child ReferenceText="random urban events">
+      <PageReference>DFSC30</PageReference>
+    </Child>
+    <Child ReferenceText="random tunnel encounters">
+      <PageReference>DFSC34</PageReference>
+    </Child>
+    <Child ReferenceText="spells related to">
+      <PageReference>DFSC10</PageReference>
+      <PageReference>DFSC44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Undertown">
+    <PageReference>DFSC35</PageReference>
+    <Child ReferenceText="alternate entrances in">
+      <PageReference>DFSC8</PageReference>
+    </Child>
+    <Child ReferenceText="example shops">
+      <PageReference>DFSC39</PageReference>
+      <PageReference>DFSC40</PageReference>
+    </Child>
+    <Child ReferenceText="example tavern">
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="quests in">
+      <PageReference>DFSC15</PageReference>
+    </Child>
+    <Child ReferenceText="undead and">
+      <PageReference>DFSC10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Urban">
+    <Child ReferenceText="random events">
+      <PageReference>DFSC30</PageReference>
+    </Child>
+    <Child ReferenceText="dangers">
+      <PageReference>DFSC25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampires">
+    <PageReference>DFSC8</PageReference>
+    <PageReference>DFSC10</PageReference>
+    <PageReference>DFSC35</PageReference>
+    <PageReference>DFSC43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vibes">
+    <Child ReferenceText="Great Druid Carbonado">
+      <PageReference>DFSC17</PageReference>
+      <PageReference>DFSC18</PageReference>
+      <PageReference>DFSC23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Villagers">
+    <PageReference>DFSC12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vision-related magic">
+    <PageReference>DFSC9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visitors">
+    <PageReference>DFSC12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vythispolis">
+    <PageReference>DFSC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warrior codes">
+    <PageReference>DFSC27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Watchmen">
+    <Child ReferenceText="example">
+      <PageReference>DFSC15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Water">
+    <PageReference>DFSC6</PageReference>
+    <PageReference>DFSC9</PageReference>
+    <PageReference>DFSC24</PageReference>
+    <SeeAlso>Food</SeeAlso>
+    <Child ReferenceText="crimes">
+      <PageReference>DFSC26</PageReference>
+    </Child>
+    <Child ReferenceText="foraging">
+      <PageReference>DFSC29</PageReference>
+      <PageReference>DFSC32</PageReference>
+    </Child>
+    <Child ReferenceText="rumors">
+      <PageReference>DFSC10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>DFSC38-39</PageReference>
+    <SeeAlso>Armor</SeeAlso>
+    <SeeAlso>Enchantments</SeeAlso>
+    <SeeAlso>Equipment</SeeAlso>
+    <SeeAlso>Magic Items</SeeAlso>
+    <Child ReferenceText="carrying in town">
+      <PageReference>DFSC27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Widgery">
+    <Child ReferenceText="Guildmaster Cleome">
+      <PageReference>DFSC19</PageReference>
+      <PageReference>DFSC23</PageReference>
+      <PageReference>DFSC39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Widgery">
+    <Child ReferenceText="Mayor Petunia">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildlife">
+    <PageReference>DFSC12</PageReference>
+    <SeeAlso>Monsters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizards">
+    <Child ReferenceText="henchmen">
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="mana level">
+      <PageReference>DFSC9-10</PageReference>
+    </Child>
+    <Child ReferenceText="recharging power items">
+      <PageReference>DFSC45</PageReference>
+    </Child>
+    <Child ReferenceText="training">
+      <PageReference>DFSC46</PageReference>
+    </Child>
+    <Child ReferenceText="characters">
+      <PageReference>DFSC11</PageReference>
+      <PageReference>DFSC27</PageReference>
+      <PageReference>DFSC28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizards’ Guild">
+    <PageReference>DFSC20-21</PageReference>
+    <SeeAlso>Guilds</SeeAlso>
+    <Child ReferenceText="crimes against">
+      <PageReference>DFSC26</PageReference>
+    </Child>
+    <Child ReferenceText="library">
+      <PageReference>DFSC20</PageReference>
+    </Child>
+    <Child ReferenceText="Mayor’s Council">
+      <PageReference>DFSC14</PageReference>
+    </Child>
+    <Child ReferenceText="other entrance">
+      <PageReference>DFSC8</PageReference>
+    </Child>
+    <Child ReferenceText="Town Watch and">
+      <PageReference>DFSC15</PageReference>
+    </Child>
+    <Child ReferenceText="visitors">
+      <PageReference>DFSC12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Zonio-Goldhaus">
+    <Child ReferenceText="Goldhaus Group">
+      <PageReference>DFSC20</PageReference>
+      <PageReference>DFSC39</PageReference>
+    </Child>
+    <Child ReferenceText="Chairperson Stella Marcia">
+      <PageReference>DFSC20</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

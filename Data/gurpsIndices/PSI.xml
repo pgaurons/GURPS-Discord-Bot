@@ -1,0 +1,2100 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abilities">
+    <SeeAlso>Powers</SeeAlso>
+    <Child ReferenceText="within powers">
+      <PageReference>PSI5</PageReference>
+    </Child>
+    <Child ReferenceText="as advantages">
+      <PageReference>PSI74</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Accessory perk">
+    <PageReference>PSI35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Active limitation">
+    <PageReference>PSI15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adaptability technique">
+    <PageReference>PSI32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Additional contact bonus">
+    <PageReference>PSI6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adjustment ability">
+    <PageReference>PSI44</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="existing">
+      <PageReference>PSI13-18</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>PSI18</PageReference>
+    </Child>
+    <Child ReferenceText="as psionic">
+      <PageReference>PSI4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerokinesis perk">
+    <PageReference>PSI56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Affliction advantage">
+    <PageReference>PSI13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Concentrate maneuver">
+    <PageReference>PSI11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Defense (Mental Defense) maneuver">
+    <PageReference>PSI11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Always On limitation">
+    <PageReference>PSI15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amnesia technique">
+    <PageReference>PSI61</PageReference>
+    <PageReference>PSI64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Analysis Only enhancement">
+    <PageReference>PSI14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anesthetic technique">
+    <PageReference>PSI49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Speech ability">
+    <PageReference>PSI71</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Telepathy power">
+    <PageReference>PSI71-72</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animalism technique">
+    <PageReference>PSI58</PageReference>
+    <PageReference>PSI64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animate Life-Forms enhancement">
+    <PageReference>PSI17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-Psi power">
+    <PageReference>PSI23-26</PageReference>
+    <PageReference>PSI78</PageReference>
+    <Child ReferenceText="perks">
+      <PageReference>PSI24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-Psi Talent">
+    <PageReference>PSI18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-Targeting limitation">
+    <PageReference>PSI16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area Effect enhancement">
+    <PageReference>PSI10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aspect ability">
+    <PageReference>PSI61</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral Accessory perk">
+    <PageReference>PSI29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral Armor ability">
+    <PageReference>PSI26</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral Awareness perk">
+    <PageReference>PSI29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral Celerity ability">
+    <PageReference>PSI26</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral Crossing technique">
+    <PageReference>PSI29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral movement">
+    <PageReference>PSI27</PageReference>
+    <PageReference>PSI28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral plane">
+    <PageReference>PSI27</PageReference>
+    <PageReference>PSI28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral Projection power">
+    <PageReference>PSI26-30</PageReference>
+    <PageReference>PSI78</PageReference>
+    <Child ReferenceText="perks">
+      <PageReference>PSI29</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>PSI18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral Sight ability">
+    <PageReference>PSI27</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral Sword ability">
+    <PageReference>PSI28</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral Travel ability">
+    <PageReference>PSI28-29</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Audio technique">
+    <PageReference>PSI40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aura Extension technique">
+    <PageReference>PSI61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aura Reading ability">
+    <PageReference>PSI46</PageReference>
+    <PageReference>PSI72</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Autoteleport ability">
+    <PageReference>PSI68</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Avatar perk">
+    <PageReference>PSI63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Awareness ability">
+    <PageReference>PSI39-40</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bamf perk">
+    <PageReference>PSI69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barrier Breaking technique">
+    <PageReference>PSI29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Based on (Different Attribute) enhancement">
+    <PageReference>PSI17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beast Control ability">
+    <PageReference>PSI72</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Binary Translation technique">
+    <PageReference>PSI30</PageReference>
+    <PageReference>PSI31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biokinesis power">
+    <PageReference>PSI72-73</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blind Projection technique">
+    <PageReference>PSI40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blink Only limitation">
+    <PageReference>PSI18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood Healing perk">
+    <PageReference>PSI51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blue Screen technique">
+    <PageReference>PSI32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Borrow Skill ability">
+    <PageReference>PSI57</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brain Squeeze technique">
+    <PageReference>PSI54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Broad Spectrum technique">
+    <PageReference>PSI36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Broadcast technique">
+    <PageReference>PSI59</PageReference>
+    <PageReference>PSI60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brute force attacks">
+    <PageReference>PSI65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="BSG Fast-Draw">
+    <PageReference>PSI69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Building a psi example">
+    <PageReference>PSI5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bulk Compensation technique">
+    <PageReference>PSI66</PageReference>
+    <PageReference>PSI68</PageReference>
+    <PageReference>PSI69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cage of thought">
+    <PageReference>PSI66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Can Carry Objects enhancement">
+    <PageReference>PSI19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cancellation">
+    <Child ReferenceText="enhancement">
+      <PageReference>PSI13</PageReference>
+    </Child>
+    <Child ReferenceText="ability">
+      <PageReference>PSI23</PageReference>
+      <PageReference>PSI78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannot Affect Self limitation">
+    <PageReference>PSI17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannot Analyze enhancement">
+    <PageReference>PSI14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannot Punch limitation">
+    <PageReference>PSI17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Card Sharp perk">
+    <PageReference>PSI42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Careful technique">
+    <PageReference>PSI68</PageReference>
+    <PageReference>PSI69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Castling perk">
+    <PageReference>PSI69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Channeling technique">
+    <PageReference>PSI43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chill Factor perk">
+    <PageReference>PSI56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cinematic psis">
+    <PageReference>PSI76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clairaudience ability">
+    <PageReference>PSI40</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clairsentience advantage">
+    <PageReference>PSI13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clairvoyance ability">
+    <PageReference>PSI40-41</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloaking technique">
+    <PageReference>PSI29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coincidence ability">
+    <PageReference>PSI44</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coin Trick perk">
+    <PageReference>PSI69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Sense ability">
+    <PageReference>PSI37</PageReference>
+    <PageReference>PSI45</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Teleport ability">
+    <PageReference>PSI68-69</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Communication power subset">
+    <PageReference>PSI57-60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Common Sense ability">
+    <PageReference>PSI43</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compartmentalized Mind advantage">
+    <PageReference>PSI13-14</PageReference>
+    <PageReference>PSI66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Confuse ability">
+    <PageReference>PSI32-33</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact Agent limitation">
+    <PageReference>PSI19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact bonus">
+    <PageReference>PSI6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Control power subset">
+    <PageReference>PSI60-64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Controllable Lifebane perk">
+    <PageReference>PSI51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Creating new psi techniques">
+    <PageReference>PSI9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crippling Attack technique">
+    <PageReference>PSI23</PageReference>
+    <PageReference>PSI24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crippling rules">
+    <PageReference>PSI7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cross-World Communication technique">
+    <PageReference>PSI29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crowded">
+    <Child ReferenceText="minds and noticing psi use">
+      <PageReference>PSI12</PageReference>
+      <PageReference>PSI59</PageReference>
+    </Child>
+    <Child ReferenceText="areas and noticing psi use">
+      <PageReference>PSI12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cryokinesis ability">
+    <PageReference>PSI55</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cure ability">
+    <PageReference>PSI46</PageReference>
+    <PageReference>PSI72</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cure Affliction technique">
+    <PageReference>PSI47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cure Disease ability">
+    <PageReference>PSI47</PageReference>
+    <PageReference>PSI72</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cure Injury ability">
+    <PageReference>PSI47</PageReference>
+    <PageReference>PSI72</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curse ability">
+    <PageReference>PSI45</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cursing technique">
+    <PageReference>PSI44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cyberpsi and digital minds">
+    <PageReference>PSI32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cyberpsi power subset">
+    <PageReference>PSI30-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Control ability">
+    <PageReference>PSI75</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage modifiers">
+    <PageReference>PSI19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Resistance advantage">
+    <PageReference>PSI14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dampen ability">
+    <PageReference>PSI33</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Danger Sense ability">
+    <PageReference>PSI43</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark Vision technique">
+    <PageReference>PSI41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Data Retrieval ability">
+    <PageReference>PSI30</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Daze technique">
+    <PageReference>PSI33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Decreased Immunity enhancement">
+    <PageReference>PSI21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detecting psi use">
+    <PageReference>PSI11-12</PageReference>
+    <PageReference>PSI38-39</PageReference>
+    <PageReference>PSI41-42</PageReference>
+    <PageReference>PSI59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deep Probe technique">
+    <PageReference>PSI59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deep Scan technique">
+    <PageReference>PSI33</PageReference>
+    <PageReference>PSI40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deep Sleep technique">
+    <PageReference>PSI49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deep Study perk">
+    <PageReference>PSI63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defenses against attacks">
+    <PageReference>PSI8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delayed Effect technique">
+    <PageReference>PSI45</PageReference>
+    <PageReference>PSI48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Derangable enhancement">
+    <PageReference>PSI16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Designating psionic advantages">
+    <PageReference>PSI4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Destabilizing technique">
+    <PageReference>PSI51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect (Life) ability">
+    <PageReference>PSI51</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect advantage">
+    <PageReference>PSI14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Difficulties">
+    <Child ReferenceText="varying">
+      <PageReference>PSI8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Digital minds and Cyberpsi">
+    <PageReference>PSI32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Directed technique">
+    <PageReference>PSI38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disease Shield ability">
+    <PageReference>PSI48</PageReference>
+    <PageReference>PSI72</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distant Use technique">
+    <PageReference>PSI38</PageReference>
+    <PageReference>PSI62</PageReference>
+    <PageReference>PSI64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divination power subset">
+    <PageReference>PSI37-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doesn’t Eat or Drink ability">
+    <PageReference>PSI30</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doesn’t Sleep ability">
+    <PageReference>PSI30</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Double Strike technique">
+    <PageReference>PSI66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dowsing perk">
+    <PageReference>PSI42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drain (Attribute) ability">
+    <PageReference>PSI50</PageReference>
+    <PageReference>PSI72</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drain Emotion ability">
+    <PageReference>PSI50</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dream Control power">
+    <PageReference>PSI73-74</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dream Projection ability">
+    <PageReference>PSI73</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dreaming limitation">
+    <PageReference>PSI16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eavesdropping">
+    <PageReference>PSI12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ecstatic Psi perk">
+    <PageReference>PSI19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="EK Shield ability">
+    <PageReference>PSI33</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electric Vision ability">
+    <PageReference>PSI33</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electrokinesis power subset">
+    <PageReference>PSI32-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emotion Control ability">
+    <PageReference>PSI61</PageReference>
+    <PageReference>PSI80</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emotion Sense ability">
+    <PageReference>PSI58</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Empathy ability">
+    <PageReference>PSI49</PageReference>
+    <PageReference>PSI72</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Power Defense advantage">
+    <PageReference>PSI18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancements">
+    <Child ReferenceText="new">
+      <PageReference>PSI13-18</PageReference>
+      <PageReference>PSI21</PageReference>
+    </Child>
+    <Child ReferenceText="for techniques">
+      <PageReference>PSI10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ergokinesis power">
+    <PageReference>PSI30-37</PageReference>
+    <PageReference>PSI79</PageReference>
+    <Child ReferenceText="perks">
+      <PageReference>PSI35</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>PSI19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="ESP power">
+    <PageReference>PSI37-43</PageReference>
+    <PageReference>PSI79</PageReference>
+    <Child ReferenceText="perks">
+      <PageReference>PSI42</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>PSI19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Event Search technique">
+    <PageReference>PSI38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="EVP perk">
+    <PageReference>PSI35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Example character">
+    <PageReference>PSI5</PageReference>
+    <PageReference>PSI77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exclusion technique">
+    <PageReference>PSI38</PageReference>
+    <PageReference>PSI41</PageReference>
+    <PageReference>PSI66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exclusive limitation">
+    <PageReference>PSI17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exemption">
+    <PageReference>PSI25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exo-Draw perk">
+    <PageReference>PSI69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exoteleport">
+    <Child ReferenceText="limitation">
+      <PageReference>PSI18</PageReference>
+    </Child>
+    <Child ReferenceText="ability">
+      <PageReference>PSI69-70</PageReference>
+      <PageReference>PSI81</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Expanded Area technique">
+    <PageReference>PSI55</PageReference>
+    <PageReference>PSI57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expansion technique">
+    <PageReference>PSI24-26</PageReference>
+    <PageReference>PSI33</PageReference>
+    <PageReference>PSI36</PageReference>
+    <PageReference>PSI56</PageReference>
+    <PageReference>PSI67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exposition Sense perk">
+    <PageReference>PSI42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expulsion perk">
+    <PageReference>PSI69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extended Arc technique">
+    <PageReference>PSI34</PageReference>
+    <PageReference>PSI40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extended Duration enhancement">
+    <PageReference>PSI20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extended Range technique">
+    <PageReference>PSI42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra effort">
+    <PageReference>PSI7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra-Sensory Awareness advantage">
+    <PageReference>PSI17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra ST without HP ability">
+    <PageReference>PSI57</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Familiarity penalties and using psi">
+    <PageReference>PSI8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Far Draining technique">
+    <PageReference>PSI50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Far Reach technique">
+    <PageReference>PSI70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Far Theft technique">
+    <PageReference>PSI51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast Activation technique">
+    <PageReference>PSI40</PageReference>
+    <PageReference>PSI41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Draw skill">
+    <PageReference>PSI69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast Mold technique">
+    <PageReference>PSI73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faster Concentration enhancement">
+    <PageReference>PSI15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faster Learning technique">
+    <PageReference>PSI58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faster Onset technique">
+    <PageReference>PSI46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feats">
+    <SeeAlso>Psi Techniques</SeeAlso>
+    <Child ReferenceText="multiple">
+      <PageReference>PSI6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Feedback limitation">
+    <PageReference>PSI15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fixed Duration enhancement">
+    <PageReference>PSI21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fixed Range limitation">
+    <PageReference>PSI13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flash ability">
+    <PageReference>PSI35</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flat Edge technique">
+    <PageReference>PSI53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flight advantage">
+    <PageReference>PSI14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forecast perk">
+    <PageReference>PSI42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Full Communion">
+    <Child ReferenceText="technique">
+      <PageReference>PSI60</PageReference>
+    </Child>
+    <Child ReferenceText="enhancement">
+      <PageReference>PSI17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fun with TK Grab">
+    <PageReference>PSI55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gaze Into the Abyss perk">
+    <PageReference>PSI24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gecko Grip perk">
+    <PageReference>PSI56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gestalt Familiarity perk">
+    <PageReference>PSI19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gestalts">
+    <PageReference>PSI9-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Getting tricky">
+    <PageReference>PSI7</PageReference>
+    <PageReference>PSI10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost Air enhancement">
+    <PageReference>PSI14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glamour limitation">
+    <PageReference>PSI20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Good Neighbor perk">
+    <PageReference>PSI44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Group Scare technique">
+    <PageReference>PSI65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>PSI19</PageReference>
+    <PageReference>PSI53</PageReference>
+    <Child ReferenceText="Atomic Horror">
+      <PageReference>PSI32</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>PSI3</PageReference>
+      <PageReference>PSI18</PageReference>
+      <PageReference>PSI22</PageReference>
+    </Child>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>PSI46</PageReference>
+      <PageReference>PSI49</PageReference>
+    </Child>
+    <Child ReferenceText="HighTech">
+      <PageReference>PSI35</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>PSI72</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>PSI63</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>PSI3-6</PageReference>
+      <PageReference>PSI9</PageReference>
+      <PageReference>PSI12</PageReference>
+      <PageReference>PSI14-20</PageReference>
+      <PageReference>PSI22</PageReference>
+      <PageReference>PSI26</PageReference>
+      <PageReference>PSI33</PageReference>
+      <PageReference>PSI43</PageReference>
+      <PageReference>PSI53</PageReference>
+      <PageReference>PSI54</PageReference>
+      <PageReference>PSI63</PageReference>
+      <PageReference>PSI74</PageReference>
+    </Child>
+    <Child ReferenceText="Psionics">
+      <PageReference>PSI3</PageReference>
+    </Child>
+    <Child ReferenceText="Supers">
+      <PageReference>PSI37</PageReference>
+    </Child>
+    <Child ReferenceText="Ultra-Tech">
+      <PageReference>PSI35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gyroscopic enhancement">
+    <PageReference>PSI18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hallucinations limitation">
+    <PageReference>PSI14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Halt Aging enhancement">
+    <PageReference>PSI18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Harden Bone technique">
+    <PageReference>PSI75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hazard enhancement">
+    <PageReference>PSI19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heal Limb technique">
+    <PageReference>PSI47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing advantage">
+    <PageReference>PSI14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing Bond perk">
+    <PageReference>PSI48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hide Signature technique">
+    <PageReference>PSI41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hologram ability">
+    <PageReference>PSI35-36</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Honest Face perk">
+    <PageReference>PSI51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hostile Dampening perk">
+    <PageReference>PSI24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="How psi works">
+    <PageReference>PSI6-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hydrokinesis perk">
+    <PageReference>PSI56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperspectral Vision ability">
+    <PageReference>PSI37</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="I Know What You Mean perk">
+    <PageReference>PSI63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="I/O Tap ability">
+    <PageReference>PSI30-31</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ignition perk">
+    <PageReference>PSI56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illuminated ability">
+    <PageReference>PSI43</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion advantage">
+    <PageReference>PSI14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improved enhancement">
+    <PageReference>PSI15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improved Theft technique">
+    <PageReference>PSI52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inanimate objects and resistance">
+    <PageReference>PSI12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Increased Immunity limitation">
+    <PageReference>PSI21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Increased Range">
+    <Child ReferenceText="technique">
+      <PageReference>PSI39</PageReference>
+      <PageReference>PSI42</PageReference>
+    </Child>
+    <Child ReferenceText="enhancement">
+      <PageReference>PSI20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Increased Size technique">
+    <PageReference>PSI36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Independent technique">
+    <PageReference>PSI36</PageReference>
+    <PageReference>PSI61</PageReference>
+    <PageReference>PSI64</PageReference>
+    <PageReference>PSI72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Indirect technique">
+    <PageReference>PSI65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inertia Control perk">
+    <PageReference>PSI69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infravision ability">
+    <PageReference>PSI37</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Innate attacks and partial dice">
+    <PageReference>PSI53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inner astral plane">
+    <PageReference>PSI28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Innerportation ability">
+    <PageReference>PSI70-71</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insider Glance perk">
+    <PageReference>PSI42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Instill Fear ability">
+    <PageReference>PSI64-65</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insubstantiality advantage">
+    <PageReference>PSI14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interface perk">
+    <PageReference>PSI35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interruption">
+    <Child ReferenceText="limitation">
+      <PageReference>PSI16</PageReference>
+    </Child>
+    <Child ReferenceText="ability">
+      <PageReference>PSI23</PageReference>
+      <PageReference>PSI78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intimidation Factor perk">
+    <PageReference>PSI63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invigoration perk">
+    <PageReference>PSI51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jam technique">
+    <PageReference>PSI31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumper Advantage">
+    <PageReference>PSI15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Karma Bank perk">
+    <PageReference>PSI44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Know-It-All perk">
+    <PageReference>PSI42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lasting Blow technique">
+    <PageReference>PSI65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lasting Effect technique">
+    <PageReference>PSI50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lend Intelligence technique">
+    <PageReference>PSI71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lethal Attack technique">
+    <PageReference>PSI76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Levitation ability">
+    <PageReference>PSI55</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Life Extension">
+    <Child ReferenceText="limitation">
+      <PageReference>PSI18</PageReference>
+    </Child>
+    <Child ReferenceText="ability">
+      <PageReference>PSI48-49</PageReference>
+      <PageReference>PSI75</PageReference>
+      <PageReference>PSI80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Life Support perk">
+    <PageReference>PSI48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light Amplification perk">
+    <PageReference>PSI35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lightning ability">
+    <PageReference>PSI33-34</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitations">
+    <Child ReferenceText="new">
+      <PageReference>PSI13-18</PageReference>
+      <PageReference>PSI21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited limitation">
+    <PageReference>PSI13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loaded Dice perk">
+    <PageReference>PSI44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lockdown enhancement">
+    <PageReference>PSI15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lock-On">
+    <Child ReferenceText="technique">
+      <PageReference>PSI34</PageReference>
+    </Child>
+    <Child ReferenceText="enhancement">
+      <PageReference>PSI14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Low or No Signature enhancement">
+    <PageReference>PSI20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low Psychic Signature enhancement">
+    <PageReference>PSI20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lucky Break perk">
+    <PageReference>PSI44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Malediction-Proof enhancement">
+    <PageReference>PSI14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maneuvers">
+    <Child ReferenceText="mental">
+      <PageReference>PSI11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mass Drain technique">
+    <PageReference>PSI50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mass Grab technique">
+    <PageReference>PSI55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mass Port technique">
+    <PageReference>PSI70</PageReference>
+    <PageReference>PSI71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mass Surge technique">
+    <PageReference>PSI34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mass Wipe technique">
+    <PageReference>PSI62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Megadose technique">
+    <PageReference>PSI48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee Attack limitation">
+    <PageReference>PSI20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental Blow ability">
+    <PageReference>PSI65</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental maneuvers">
+    <PageReference>PSI11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental Separation Only limitation">
+    <PageReference>PSI13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental Stab ability">
+    <PageReference>PSI65</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental Surgery ability">
+    <PageReference>PSI61</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentalism limitation">
+    <PageReference>PSI14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metabolism Control ability">
+    <PageReference>PSI49</PageReference>
+    <PageReference>PSI75</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Micro-PK Talent">
+    <PageReference>PSI19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Micro-PK">
+    <SeeAlso>Probably Alteration Power</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Clouding ability">
+    <PageReference>PSI66</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Control advantage">
+    <PageReference>PSI15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Shield">
+    <Child ReferenceText="advantage">
+      <PageReference>PSI15</PageReference>
+    </Child>
+    <Child ReferenceText="ability">
+      <PageReference>PSI65-67</PageReference>
+      <PageReference>PSI81</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Swap ability">
+    <PageReference>PSI62</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Trap technique">
+    <PageReference>PSI25</PageReference>
+    <PageReference>PSI67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Tricks limitation">
+    <PageReference>PSI15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mindlink ability">
+    <PageReference>PSI67</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mindwipe ability">
+    <PageReference>PSI62</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mirror technique">
+    <PageReference>PSI30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Misfire Master perk">
+    <PageReference>PSI44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modified Capacity limitation">
+    <PageReference>PSI18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modifiers to advantages">
+    <Child ReferenceText="minimum costs and">
+      <PageReference>PSI19</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>PSI13-18</PageReference>
+      <PageReference>PSI20</PageReference>
+    </Child>
+    <Child ReferenceText="existing">
+      <PageReference>PSI19-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Modular Abilities advantage">
+    <PageReference>PSI15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mold Flesh ability">
+    <PageReference>PSI72</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Moneyclip Magnet perk">
+    <PageReference>PSI44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multichannel Attack technique">
+    <PageReference>PSI73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple feats">
+    <PageReference>PSI6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiplicity technique">
+    <PageReference>PSI59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural Doctor perk">
+    <PageReference>PSI48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Near-Death Projection perk">
+    <PageReference>PSI29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nerve Damage technique">
+    <PageReference>PSI56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Netrunning ability">
+    <PageReference>PSI31-32</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neurological Damage technique">
+    <PageReference>PSI65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neutralize advantage">
+    <PageReference>PSI16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New Approach technique">
+    <PageReference>PSI59</PageReference>
+    <PageReference>PSI62</PageReference>
+    <PageReference>PSI64</PageReference>
+    <PageReference>PSI65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Contact technique">
+    <PageReference>PSI52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Mental Separation limitation">
+    <PageReference>PSI14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonthreatening perk">
+    <PageReference>PSI24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Normal Sight limitation">
+    <PageReference>PSI13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Noticing psi use">
+    <PageReference>PSI11-12</PageReference>
+    <PageReference>PSI38-39</PageReference>
+    <PageReference>PSI41-42</PageReference>
+    <PageReference>PSI59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obedience technique">
+    <PageReference>PSI72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obscure advantage">
+    <PageReference>PSI16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Offense power subset">
+    <PageReference>PSI64-66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Omnicast technique">
+    <PageReference>PSI76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Omniscan technique">
+    <PageReference>PSI67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One Power limitation">
+    <PageReference>PSI17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Optional rules">
+    <Child ReferenceText="normal advantages and">
+      <PageReference>PSI6</PageReference>
+    </Child>
+    <Child ReferenceText="for psionic advantages">
+      <PageReference>PSI6-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Oracle ability">
+    <PageReference>PSI43</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outer astral plane">
+    <PageReference>PSI27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Overwhelm technique">
+    <PageReference>PSI35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Painful Draining technique">
+    <PageReference>PSI50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Para-Invisibility ability">
+    <PageReference>PSI23-24</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Particle Beam technique">
+    <PageReference>PSI34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Penetrate Disguise technique">
+    <PageReference>PSI28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Penetrating Blow technique">
+    <PageReference>PSI28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <Child ReferenceText="new">
+      <PageReference>PSI19</PageReference>
+      <PageReference>PSI24</PageReference>
+      <PageReference>PSI29</PageReference>
+      <PageReference>PSI35</PageReference>
+      <PageReference>PSI42</PageReference>
+      <PageReference>PSI44</PageReference>
+      <PageReference>PSI48</PageReference>
+      <PageReference>PSI51</PageReference>
+      <PageReference>PSI56</PageReference>
+      <PageReference>PSI63</PageReference>
+      <PageReference>PSI69</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Permanent Effect technique">
+    <PageReference>PSI76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal Awareness perk">
+    <PageReference>PSI24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pharmaceutical Probe perk">
+    <PageReference>PSI48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Photokinesis power subset">
+    <PageReference>PSI34-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Photorefraction ability">
+    <PageReference>PSI36</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phreaker perk">
+    <PageReference>PSI35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Piggyback technique">
+    <PageReference>PSI26</PageReference>
+    <PageReference>PSI29</PageReference>
+    <PageReference>PSI74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ping perk">
+    <PageReference>PSI63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pinpoint technique">
+    <PageReference>PSI43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="PK Shield ability">
+    <PageReference>PSI56</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pleasant Theft perk">
+    <PageReference>PSI51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poison Charm perk">
+    <PageReference>PSI51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poor Control limitation">
+    <PageReference>PSI16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Portersense ability">
+    <PageReference>PSI71</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Possession advantage">
+    <PageReference>PSI16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Postmortem perk">
+    <PageReference>PSI48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power defenses">
+    <PageReference>PSI8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power modifiers">
+    <Child ReferenceText="examples">
+      <PageReference>PSI23</PageReference>
+      <PageReference>PSI26</PageReference>
+      <PageReference>PSI30</PageReference>
+      <PageReference>PSI37</PageReference>
+      <PageReference>PSI43</PageReference>
+      <PageReference>PSI46</PageReference>
+      <PageReference>PSI49</PageReference>
+      <PageReference>PSI53</PageReference>
+      <PageReference>PSI57</PageReference>
+      <PageReference>PSI68</PageReference>
+      <PageReference>PSI71</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>PSI4-5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Source perk">
+    <PageReference>PSI35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Talent advantage">
+    <PageReference>PSI18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Theft">
+    <Child ReferenceText="Weak enhancement">
+      <PageReference>PSI16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <Child ReferenceText="definition">
+      <PageReference>PSI4</PageReference>
+    </Child>
+    <Child ReferenceText="example character">
+      <PageReference>PSI5</PageReference>
+      <PageReference>PSI77</PageReference>
+    </Child>
+    <Child ReferenceText="components of">
+      <PageReference>PSI4-5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Precise">
+    <Child ReferenceText="Nontargeting enhancement">
+      <PageReference>PSI14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Precision Attack technique">
+    <PageReference>PSI23</PageReference>
+    <PageReference>PSI24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Precision technique">
+    <PageReference>PSI52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Precognition advantage">
+    <PageReference>PSI16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Preparation Required limitation">
+    <PageReference>PSI20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressed Attack technique">
+    <PageReference>PSI61</PageReference>
+    <PageReference>PSI64</PageReference>
+    <PageReference>PSI72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Probability Alteration power">
+    <PageReference>PSI43-46</PageReference>
+    <PageReference>PSI79-80</PageReference>
+    <Child ReferenceText="perks">
+      <PageReference>PSI44</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>PSI19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Profiling enhancement">
+    <PageReference>PSI15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prognostication ability">
+    <PageReference>PSI37</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Projected Senses ability">
+    <PageReference>PSI75</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Projection Clock perk">
+    <PageReference>PSI29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Projection technique">
+    <PageReference>PSI25</PageReference>
+    <PageReference>PSI33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Protected Power ability">
+    <PageReference>PSI30</PageReference>
+    <PageReference>PSI37</PageReference>
+    <PageReference>PSI43</PageReference>
+    <PageReference>PSI46</PageReference>
+    <PageReference>PSI49</PageReference>
+    <PageReference>PSI51</PageReference>
+    <PageReference>PSI57</PageReference>
+    <PageReference>PSI67</PageReference>
+    <PageReference>PSI72</PageReference>
+    <PageReference>PSI75</PageReference>
+    <PageReference>PSI78-81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Protected Vision ability">
+    <PageReference>PSI37</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi">
+    <Child ReferenceText="game mechanics">
+      <PageReference>PSI6-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi Sense ability">
+    <PageReference>PSI41</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi Static">
+    <Child ReferenceText="advantage">
+      <PageReference>PSI17</PageReference>
+    </Child>
+    <Child ReferenceText="ability">
+      <PageReference>PSI26</PageReference>
+      <PageReference>PSI78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi techniques">
+    <PageReference>PSI8-10</PageReference>
+    <PageReference>PSI76</PageReference>
+    <SeeAlso>specific abilities</SeeAlso>
+    <Child ReferenceText="designing">
+      <PageReference>PSI9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psidar ability">
+    <PageReference>PSI41-42</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic abilities">
+    <Child ReferenceText="write-up explained">
+      <PageReference>PSI22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic advantages">
+    <PageReference>PSI4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic Overload ability">
+    <PageReference>PSI24</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic powers">
+    <SeeAlso>Powers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic range table">
+    <PageReference>PSI22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic Shield ability">
+    <PageReference>PSI24-25</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic Armor ability">
+    <PageReference>PSI25</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic Healing power">
+    <PageReference>PSI46-49</PageReference>
+    <PageReference>PSI72</PageReference>
+    <PageReference>PSI75</PageReference>
+    <PageReference>PSI80</PageReference>
+    <Child ReferenceText="perks">
+      <PageReference>PSI48</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>PSI19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic Hunches ability">
+    <PageReference>PSI42</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic Surgery perk">
+    <PageReference>PSI48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic Vampirism power">
+    <PageReference>PSI49-52</PageReference>
+    <PageReference>PSI80</PageReference>
+    <Child ReferenceText="perks">
+      <PageReference>PSI51</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>PSI19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychokinesis power">
+    <PageReference>PSI53-57</PageReference>
+    <PageReference>PSI80</PageReference>
+    <Child ReferenceText="perks">
+      <PageReference>PSI56</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>PSI19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychometabolism power">
+    <PageReference>PSI75</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychometry advantage">
+    <PageReference>PSI17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychosomatic technique">
+    <PageReference>PSI63</PageReference>
+    <PageReference>PSI74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Publication history">
+    <PageReference>PSI3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyrokinesis ability">
+    <PageReference>PSI56-57</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick and Dirty technique">
+    <PageReference>PSI61-62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Shot, technique 76" />
+  <IndexReference ReferenceText="Racial Memory ability">
+    <PageReference>PSI43</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radar Sense advantage">
+    <PageReference>PSI34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Range-Limited Exoteleport ability">
+    <PageReference>PSI70</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Range table">
+    <PageReference>PSI22</PageReference>
+    <PageReference>PSI68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged enhancement">
+    <PageReference>PSI20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Fire technique">
+    <PageReference>PSI53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Launch technique">
+    <PageReference>PSI55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rationalization enhancement">
+    <PageReference>PSI15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reactive Use technique">
+    <PageReference>PSI37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recovery ability">
+    <PageReference>PSI49</PageReference>
+    <PageReference>PSI75</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reduced Duration limitation">
+    <PageReference>PSI21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reduced Fatigue Lost enhancement">
+    <PageReference>PSI10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reduced Time enhancement">
+    <PageReference>PSI17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reflection enhancement">
+    <PageReference>PSI15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reflective Shield technique">
+    <PageReference>PSI25</PageReference>
+    <PageReference>PSI67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regeneration ability">
+    <PageReference>PSI49</PageReference>
+    <PageReference>PSI75</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regrowth ability">
+    <PageReference>PSI49</PageReference>
+    <PageReference>PSI75</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reliable enhancement">
+    <PageReference>PSI10</PageReference>
+    <PageReference>PSI20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remote Control ability">
+    <PageReference>PSI32</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remote Senses power subset">
+    <PageReference>PSI39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remove Curse technique">
+    <PageReference>PSI45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repeated attempts">
+    <PageReference>PSI6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reprogramming technique">
+    <PageReference>PSI32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires (Attribute) Roll limitation">
+    <PageReference>PSI20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reshape Dream ability">
+    <PageReference>PSI74</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistance of inanimate objects">
+    <PageReference>PSI12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant to Disease ability">
+    <PageReference>PSI49</PageReference>
+    <PageReference>PSI75</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant to Ingested Poison ability">
+    <PageReference>PSI49</PageReference>
+    <PageReference>PSI75</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant to Poison ability">
+    <PageReference>PSI49</PageReference>
+    <PageReference>PSI75</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant to (Power)">
+    <PageReference>PSI26</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant to Psionics ability">
+    <PageReference>PSI26</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant to Sickness ability">
+    <PageReference>PSI49</PageReference>
+    <PageReference>PSI75</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restore Limb technique">
+    <PageReference>PSI47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restore Limbs enhancement">
+    <PageReference>PSI14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retention technique">
+    <PageReference>PSI58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retractable Cord perk">
+    <PageReference>PSI29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retrocognition ability">
+    <PageReference>PSI38</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retrocognitive Flashbacks ability">
+    <PageReference>PSI38</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="RL Exoteleport ability">
+    <PageReference>PSI70</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Samantha Jo">
+    <PageReference>PSI5</PageReference>
+    <PageReference>PSI77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sanitized Metabolism perk">
+    <PageReference>PSI48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scanning Sense advantage">
+    <PageReference>PSI17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Schadenfreude perk">
+    <PageReference>PSI51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Screaming ability">
+    <PageReference>PSI25</PageReference>
+    <PageReference>PSI78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Second Chance ability">
+    <PageReference>PSI45</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secondary Senses technique">
+    <PageReference>PSI32</PageReference>
+    <PageReference>PSI41</PageReference>
+    <PageReference>PSI64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secure technique">
+    <PageReference>PSI59</PageReference>
+    <PageReference>PSI60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Selective technique">
+    <PageReference>PSI23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-Healing technique">
+    <PageReference>PSI47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Send Senses technique">
+    <PageReference>PSI60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense and Defense power subset">
+    <PageReference>PSI66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensory Control ability">
+    <PageReference>PSI62-63</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shared Hunches technique">
+    <PageReference>PSI42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shared Sight technique">
+    <PageReference>PSI25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharp Edge technique">
+    <PageReference>PSI53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shopper’s Blessing perk">
+    <PageReference>PSI44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signature Sniffer ability">
+    <PageReference>PSI38-39</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silencer technique">
+    <PageReference>PSI54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Simple Defense perk">
+    <PageReference>PSI24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Situational modifiers">
+    <PageReference>PSI6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skeptic perk">
+    <PageReference>PSI24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="using psionic">
+      <PageReference>PSI6-7</PageReference>
+    </Child>
+    <Child ReferenceText="for abilities">
+      <PageReference>PSI5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleep ability">
+    <PageReference>PSI49</PageReference>
+    <PageReference>PSI66</PageReference>
+    <PageReference>PSI72</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slotted Cosmic Power advantage">
+    <PageReference>PSI15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slow and Sure enhancement">
+    <PageReference>PSI15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slow limitation">
+    <PageReference>PSI14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Small-Scale TK perk">
+    <PageReference>PSI56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Vampire perk">
+    <PageReference>PSI51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soothing Touch perk">
+    <PageReference>PSI48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spectral Dodge technique">
+    <PageReference>PSI27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Communication ability">
+    <PageReference>PSI43</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Static Control perk">
+    <PageReference>PSI35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steal Dreams ability">
+    <PageReference>PSI50</PageReference>
+    <PageReference>PSI73</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steal Energy ability">
+    <PageReference>PSI51</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steal Life ability">
+    <PageReference>PSI52</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steal Power ability">
+    <PageReference>PSI52</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strike Exotic technique">
+    <PageReference>PSI73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strike Sense ability">
+    <PageReference>PSI73</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strong Blade perk">
+    <PageReference>PSI56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subconscious Hand-Off technique">
+    <PageReference>PSI63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subjective Navigator perk">
+    <PageReference>PSI29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Substantial Communication enhancement">
+    <PageReference>PSI14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suggestion ability">
+    <PageReference>PSI63-64</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super Jump ability">
+    <PageReference>PSI57</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suppression technique">
+    <PageReference>PSI33</PageReference>
+    <PageReference>PSI56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surge">
+    <Child ReferenceText="enhancement">
+      <PageReference>PSI19-20</PageReference>
+    </Child>
+    <Child ReferenceText="ability">
+      <PageReference>PSI34</PageReference>
+      <PageReference>PSI79</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Synchronize perk">
+    <PageReference>PSI63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactical Reading perk">
+    <PageReference>PSI63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <Child ReferenceText="psi powers and">
+      <PageReference>PSI5</PageReference>
+    </Child>
+    <Child ReferenceText="for abilities">
+      <PageReference>PSI18-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <SeeAlso>Psi Techniques</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Telecommunication advantage">
+    <PageReference>PSI17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telecontrol ability">
+    <PageReference>PSI64</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telekinesis">
+    <Child ReferenceText="power subset">
+      <PageReference>PSI53-54</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>PSI17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Telekinetic Control ability">
+    <PageReference>PSI54</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telepathic Learning advantage">
+    <PageReference>PSI16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telepathy power">
+    <PageReference>PSI57-67</PageReference>
+    <PageReference>PSI71</PageReference>
+    <PageReference>PSI73</PageReference>
+    <PageReference>PSI80-81</PageReference>
+    <Child ReferenceText="perks">
+      <PageReference>PSI63</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>PSI19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Telepathy Sense ability">
+    <PageReference>PSI67</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teleportation power">
+    <PageReference>PSI68</PageReference>
+    <PageReference>PSI81</PageReference>
+    <Child ReferenceText="modifiers">
+      <PageReference>PSI68</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>PSI69</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>PSI19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Telereceive ability">
+    <PageReference>PSI58-60</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telescan ability">
+    <PageReference>PSI67</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telesend ability">
+    <PageReference>PSI60</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telespeak ability">
+    <PageReference>PSI59</PageReference>
+    <PageReference>PSI81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature Tolerance ability">
+    <PageReference>PSI57</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="That Extra Inch perk">
+    <PageReference>PSI69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throat Squeeze technique">
+    <PageReference>PSI54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thunderbolt technique">
+    <PageReference>PSI34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiring enhancement">
+    <PageReference>PSI17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiring Scream technique">
+    <PageReference>PSI25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TK Bullet ability">
+    <PageReference>PSI53</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TK Crush ability">
+    <PageReference>PSI54</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TK Grab ability">
+    <PageReference>PSI54</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TK Tether perk">
+    <PageReference>PSI56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tolerance perk">
+    <PageReference>PSI24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracking technique">
+    <PageReference>PSI68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transference technique">
+    <PageReference>PSI45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trapping with Mind Shield">
+    <PageReference>PSI66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Sight ability">
+    <PageReference>PSI25</PageReference>
+    <PageReference>PSI43</PageReference>
+    <PageReference>PSI78</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uber-techniques">
+    <PageReference>PSI76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultravision ability">
+    <PageReference>PSI37</PageReference>
+    <PageReference>PSI79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Umbrella perk">
+    <PageReference>PSI56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unaging advantage">
+    <PageReference>PSI18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unified telekinesis">
+    <PageReference>PSI54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal Remote perk">
+    <PageReference>PSI35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal technique">
+    <PageReference>PSI60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unsupervised Change technique">
+    <PageReference>PSI46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Using psionic skills">
+    <PageReference>PSI6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Varying difficulties">
+    <PageReference>PSI8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visions">
+    <Child ReferenceText="enhancement">
+      <PageReference>PSI17</PageReference>
+    </Child>
+    <Child ReferenceText="ability">
+      <PageReference>PSI39</PageReference>
+      <PageReference>PSI79</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Visions (Aspected) ability">
+    <PageReference>PSI39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visions (Aspected Dream) perk">
+    <PageReference>PSI42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visions (Dream) ability">
+    <PageReference>PSI39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visions (Full) ability">
+    <PageReference>PSI39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visions (Overwhelming) ability">
+    <PageReference>PSI39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visions (Second Sight) ability">
+    <PageReference>PSI39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visual technique">
+    <PageReference>PSI40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Waiving skill rolls">
+    <PageReference>PSI8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walk on Air ability">
+    <PageReference>PSI57</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walk on Liquid ability">
+    <PageReference>PSI57</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warp advantage">
+    <PageReference>PSI18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weak Latency (Psi) perk">
+    <PageReference>PSI19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weaponized limitation">
+    <PageReference>PSI21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weather Control ability">
+    <PageReference>PSI45-46</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild Talent ability">
+    <PageReference>PSI46</PageReference>
+    <PageReference>PSI80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wireless technique">
+    <PageReference>PSI32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrenching Journey technique">
+    <PageReference>PSI70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Xenohealing technique">
+    <PageReference>PSI47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Xeno-Reading technique">
+    <PageReference>PSI46</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

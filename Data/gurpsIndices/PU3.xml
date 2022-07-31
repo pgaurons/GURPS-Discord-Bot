@@ -1,0 +1,749 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Academic Talent">
+    <PageReference>PU3:6</PageReference>
+    <PageReference>PU3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alien Friend Talent">
+    <PageReference>PU3:6</PageReference>
+    <PageReference>PU3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allure Talent">
+    <PageReference>PU3:6</PageReference>
+    <PageReference>PU3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Foe Anti-Talent">
+    <PageReference>PU3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Friend Talent">
+    <PageReference>PU3:6</PageReference>
+    <PageReference>PU3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antiquary Talent">
+    <PageReference>PU3:6</PageReference>
+    <PageReference>PU3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-Talent">
+    <PageReference>PU3:19-20</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>PU3:20-21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificer Talent">
+    <PageReference>PU3:6</PageReference>
+    <PageReference>PU3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bard Talent">
+    <PageReference>PU3:6</PageReference>
+    <PageReference>PU3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bard-Lore Talent">
+    <PageReference>PU3:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beastmaster Talent">
+    <PageReference>PU3:6</PageReference>
+    <PageReference>PU3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Born Entertainer Talent">
+    <PageReference>PU3:6</PageReference>
+    <PageReference>PU3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Born Sailor Talent">
+    <PageReference>PU3:13</PageReference>
+    <PageReference>PU3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Born Soldier Talent">
+    <PageReference>PU3:12</PageReference>
+    <PageReference>PU3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Born Spacer Talent">
+    <PageReference>PU3:7</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Born Tactician Talent">
+    <PageReference>PU3:12</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Born to Be Wired Talent">
+    <PageReference>PU3:8</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Born War-Leader Talent">
+    <PageReference>PU3:12</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Business Acumen Talent">
+    <PageReference>PU3:7</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi">
+    <Child ReferenceText="Talent">
+      <PageReference>PU3:7</PageReference>
+      <PageReference>PU3:24</PageReference>
+    </Child>
+    <Child ReferenceText="related Talents">
+      <PageReference>PU3:7-8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Circuit Sense Talent">
+    <PageReference>PU3:8</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close to Heaven Talent">
+    <PageReference>PU3:8</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close to Hell Talent">
+    <PageReference>PU3:8</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close to the Earth Talent">
+    <PageReference>PU3:8</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clown Talent">
+    <PageReference>PU3:8</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Talents">
+    <PageReference>PU3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer Talents">
+    <PageReference>PU3:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer Wizard Talent">
+    <PageReference>PU3:9</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Couch Potato Anti-Talent">
+    <PageReference>PU3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Craftiness Talent">
+    <PageReference>PU3:9</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Chameleon Talent">
+    <PageReference>PU3:9</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cunning Folk Talent">
+    <PageReference>PU3:9</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cyberneticist Talent">
+    <PageReference>PU3:9</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark ones">
+    <Child ReferenceText="Talent for">
+      <PageReference>PU3:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Devotion Talent">
+    <PageReference>PU3:9-10</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Driver’s Reflexes Talent">
+    <PageReference>PU3:10</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeon Artificer Talent">
+    <PageReference>PU3:10</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarves">
+    <Child ReferenceText="Talent for">
+      <PageReference>PU3:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder Gift Talent">
+    <PageReference>PU3:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder-spawn">
+    <Child ReferenceText="Talent for">
+      <PageReference>PU3:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elves">
+    <Child ReferenceText="Talent for">
+      <PageReference>PU3:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Empath Talent">
+    <PageReference>PU3:10</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evil Computer Talent">
+    <PageReference>PU3:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explorer Talent">
+    <PageReference>PU3:10</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forceful Chi Talent">
+    <PageReference>PU3:7</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forest Guardian Talent">
+    <PageReference>PU3:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gifted Artist Talent">
+    <PageReference>PU3:10</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gnomes">
+    <Child ReferenceText="Talent for">
+      <PageReference>PU3:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Goodwife Talent">
+    <PageReference>PU3:10</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Green Thumb Talent">
+    <PageReference>PU3:11</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>PU3:3</PageReference>
+    <PageReference>PU3:4</PageReference>
+    <SeeAlso>Pyramid magazine</SeeAlso>
+    <SeeAlso>Transhuman Space</SeeAlso>
+    <Child ReferenceText="Action 1: Heroes">
+      <PageReference>PU3:8-10</PageReference>
+    </Child>
+    <Child ReferenceText="Action 3: Furious Fists">
+      <PageReference>PU3:8</PageReference>
+    </Child>
+    <Child ReferenceText="Banestorm">
+      <PageReference>PU3:8</PageReference>
+      <PageReference>PU3:11</PageReference>
+      <PageReference>PU3:12</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>PU3:3-7</PageReference>
+      <PageReference>PU3:10-15</PageReference>
+      <PageReference>PU3:19</PageReference>
+      <PageReference>PU3:21-23</PageReference>
+      <PageReference>PU3:25</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>PU3:11</PageReference>
+      <PageReference>PU3:23</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>PU3:7</PageReference>
+      <PageReference>PU3:12</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>PU3:10</PageReference>
+      <PageReference>PU3:11</PageReference>
+      <PageReference>PU3:14</PageReference>
+      <PageReference>PU3:17</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>PU3:10</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 11: Power-Ups">
+      <PageReference>PU3:6</PageReference>
+      <PageReference>PU3:8</PageReference>
+      <PageReference>PU3:9</PageReference>
+      <PageReference>PU3:11</PageReference>
+      <PageReference>PU3:13-16</PageReference>
+      <PageReference>PU3:21</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 12: Ninja">
+      <PageReference>PU3:7</PageReference>
+      <PageReference>PU3:8</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 14: Psi">
+      <PageReference>PU3:15</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Monsters 1">
+      <PageReference>PU3:15</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>PU3:6</PageReference>
+      <PageReference>PU3:10</PageReference>
+      <PageReference>PU3:12</PageReference>
+      <PageReference>PU3:13</PageReference>
+      <PageReference>PU3:15</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>PU3:6</PageReference>
+      <PageReference>PU3:9</PageReference>
+      <PageReference>PU3:10</PageReference>
+      <PageReference>PU3:12</PageReference>
+      <PageReference>PU3:14</PageReference>
+      <PageReference>PU3:17</PageReference>
+    </Child>
+    <Child ReferenceText="Lair of the Fat Man">
+      <PageReference>PU3:16</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>PU3:7</PageReference>
+      <PageReference>PU3:23</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts: Fairbairn Close Combat Systems">
+      <PageReference>PU3:12</PageReference>
+      <PageReference>PU3:13</PageReference>
+      <PageReference>PU3:15</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 1: Champions">
+      <PageReference>PU3:8</PageReference>
+      <PageReference>PU3:9</PageReference>
+      <PageReference>PU3:12</PageReference>
+      <PageReference>PU3:14</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 4: Sidekicks">
+      <PageReference>PU3:9</PageReference>
+      <PageReference>PU3:10</PageReference>
+    </Child>
+    <Child ReferenceText="Mysteries">
+      <PageReference>PU3:16</PageReference>
+      <PageReference>PU3:17</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>PU3:3</PageReference>
+    </Child>
+    <Child ReferenceText="PowerUps 2: Perks">
+      <PageReference>PU3:4</PageReference>
+    </Child>
+    <Child ReferenceText="Psis">
+      <PageReference>PU3:9</PageReference>
+      <PageReference>PU3:14</PageReference>
+    </Child>
+    <Child ReferenceText="SEALs in Vietnam">
+      <PageReference>PU3:12</PageReference>
+      <PageReference>PU3:13</PageReference>
+      <PageReference>PU3:15</PageReference>
+    </Child>
+    <Child ReferenceText="Space">
+      <PageReference>PU3:6</PageReference>
+      <PageReference>PU3:9</PageReference>
+      <PageReference>PU3:11</PageReference>
+    </Child>
+    <Child ReferenceText="Supporting Cast: Age of Sail Pirate Crew">
+      <PageReference>PU3:13</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Urban Magics">
+      <PageReference>PU3:16</PageReference>
+    </Child>
+    <Child ReferenceText="Traveller: Interstellar Wars">
+      <PageReference>PU3:12</PageReference>
+      <PageReference>PU3:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Halfling Marksmanship Talent">
+    <PageReference>PU3:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Halfling Ranged Weapon Talent">
+    <PageReference>PU3:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healer Talent">
+    <PageReference>PU3:11</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hot Pilot Talent">
+    <PageReference>PU3:11</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impersonator Talent">
+    <PageReference>PU3:11</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inner Balance Talent">
+    <PageReference>PU3:7</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intuitive Admiral Talent">
+    <PageReference>PU3:12-13</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intuitive Statesman Talent">
+    <PageReference>PU3:11</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jack of All Trades Talent">
+    <PageReference>PU3:11</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Job Training advantage">
+    <PageReference>PU3:25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ki">
+    <SeeAlso>Chi</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mariner Talent">
+    <PageReference>PU3:13-14</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master Builder Talent">
+    <PageReference>PU3:11-12</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mathematical Ability Talent">
+    <PageReference>PU3:12</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Memetics Talent">
+    <PageReference>PU3:12</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mesmerist Talent">
+    <PageReference>PU3:12</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military Talents">
+    <PageReference>PU3:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Like a Sieve Anti-Talent">
+    <PageReference>PU3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Misfit Anti-Talent">
+    <PageReference>PU3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mr">
+    <Child ReferenceText="Smash Talent">
+      <PageReference>PU3:13</PageReference>
+      <PageReference>PU3:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical Ability Talent">
+    <PageReference>PU3:13</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural Athlete Talent">
+    <PageReference>PU3:13</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural Copper Talent">
+    <PageReference>PU3:13</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural Diver Talent">
+    <PageReference>PU3:13</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural Scientist Talent">
+    <PageReference>PU3:13</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nautical Talents">
+    <PageReference>PU3:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja Talent">
+    <PageReference>PU3:7</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Noncombatant Anti-Talent">
+    <PageReference>PU3:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occultist Talent">
+    <PageReference>PU3:14</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outdoorsman Talent">
+    <PageReference>PU3:14</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parapsychologist Talent">
+    <PageReference>PU3:14</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>PU3:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pickaxe Penchant Talent">
+    <PageReference>PU3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poet Talent">
+    <PageReference>PU3:14</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pop Culture Maven Talent">
+    <PageReference>PU3:14-15</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Talents">
+    <PageReference>PU3:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prana">
+    <SeeAlso>Chi</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Psientist Talent">
+    <PageReference>PU3:15</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid magazine">
+    <PageReference>PU3:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sage Talent">
+    <PageReference>PU3:15</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seafarer Talent">
+    <PageReference>PU3:14</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smooth Operator Talent">
+    <PageReference>PU3:15</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Scientist Talent">
+    <PageReference>PU3:15</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit-Talker Talent">
+    <PageReference>PU3:15</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stalker Talent">
+    <PageReference>PU3:15</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strangler Talent">
+    <PageReference>PU3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Street Smarts Talent">
+    <PageReference>PU3:16</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Street-Smart Talent">
+    <PageReference>PU3:16</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strong Chi Talent">
+    <PageReference>PU3:8</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superior Equilibrioception Talent">
+    <PageReference>PU3:16</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-Spy Talent">
+    <PageReference>PU3:16</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Survivor Talent">
+    <PageReference>PU3:16</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="Talent limits">
+      <PageReference>PU3:22</PageReference>
+    </Child>
+    <Child ReferenceText="associated traits">
+      <PageReference>PU3:23-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <SeeAlso>Anti-Talent</SeeAlso>
+    <Child ReferenceText="as training">
+      <PageReference>PU3:25</PageReference>
+    </Child>
+    <Child ReferenceText="associated traits table">
+      <PageReference>PU3:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="benefits">
+      <PageReference>PU3:4</PageReference>
+      <PageReference>PU3:18</PageReference>
+      <PageReference>PU3:19</PageReference>
+      <PageReference>PU3:22</PageReference>
+    </Child>
+    <Child ReferenceText="buying after character creation">
+      <PageReference>PU3:22-25</PageReference>
+    </Child>
+    <Child ReferenceText="chi-related">
+      <PageReference>PU3:7-8</PageReference>
+    </Child>
+    <Child ReferenceText="combat">
+      <PageReference>PU3:23</PageReference>
+    </Child>
+    <Child ReferenceText="combat-related">
+      <PageReference>PU3:7-8</PageReference>
+      <PageReference>PU3:11</PageReference>
+      <PageReference>PU3:13-15</PageReference>
+      <PageReference>PU3:8-9</PageReference>
+    </Child>
+    <Child ReferenceText="cost">
+      <PageReference>PU3:4</PageReference>
+      <PageReference>PU3:20</PageReference>
+      <PageReference>PU3:22</PageReference>
+      <PageReference>PU3:25</PageReference>
+    </Child>
+    <Child ReferenceText="defaults">
+      <PageReference>PU3:4</PageReference>
+    </Child>
+    <Child ReferenceText="description overview">
+      <PageReference>PU3:5</PageReference>
+    </Child>
+    <Child ReferenceText="descriptions">
+      <PageReference>PU3:6-17</PageReference>
+    </Child>
+    <Child ReferenceText="enablers">
+      <PageReference>PU3:23</PageReference>
+      <PageReference>PU3:25</PageReference>
+    </Child>
+    <Child ReferenceText="exotic and supernatural advantages and">
+      <PageReference>PU3:24</PageReference>
+    </Child>
+    <Child ReferenceText="Expert Skill and">
+      <PageReference>PU3:5</PageReference>
+    </Child>
+    <Child ReferenceText="Hobby Skill and">
+      <PageReference>PU3:5</PageReference>
+    </Child>
+    <Child ReferenceText="Large">
+      <PageReference>PU3:4</PageReference>
+    </Child>
+    <Child ReferenceText="learning">
+      <PageReference>PU3:22-25</PageReference>
+    </Child>
+    <Child ReferenceText="learning cap">
+      <PageReference>PU3:21</PageReference>
+      <PageReference>PU3:22</PageReference>
+    </Child>
+    <Child ReferenceText="learning-time reduction and">
+      <PageReference>PU3:21</PageReference>
+    </Child>
+    <Child ReferenceText="level limits">
+      <PageReference>PU3:4</PageReference>
+      <PageReference>PU3:21</PageReference>
+      <PageReference>PU3:22</PageReference>
+    </Child>
+    <Child ReferenceText="lockstep levels">
+      <PageReference>PU3:21</PageReference>
+      <PageReference>PU3:22</PageReference>
+    </Child>
+    <Child ReferenceText="Medium">
+      <PageReference>PU3:4</PageReference>
+    </Child>
+    <Child ReferenceText="military">
+      <PageReference>PU3:12-13</PageReference>
+    </Child>
+    <Child ReferenceText="nautical">
+      <PageReference>PU3:13-14</PageReference>
+    </Child>
+    <Child ReferenceText="overlapping">
+      <PageReference>PU3:14</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>PU3:19</PageReference>
+    </Child>
+    <Child ReferenceText="playercreated">
+      <PageReference>PU3:5</PageReference>
+    </Child>
+    <Child ReferenceText="power">
+      <PageReference>PU3:3</PageReference>
+    </Child>
+    <Child ReferenceText="prerequisites">
+      <PageReference>PU3:23</PageReference>
+      <PageReference>PU3:25</PageReference>
+    </Child>
+    <Child ReferenceText="qualified bonuses from">
+      <PageReference>PU3:5</PageReference>
+    </Child>
+    <Child ReferenceText="racial">
+      <PageReference>PU3:4-5</PageReference>
+      <PageReference>PU3:22</PageReference>
+      <PageReference>PU3:23</PageReference>
+    </Child>
+    <Child ReferenceText="racial examples">
+      <PageReference>PU3:9-11</PageReference>
+      <PageReference>PU3:14</PageReference>
+      <PageReference>PU3:15</PageReference>
+      <PageReference>PU3:17</PageReference>
+    </Child>
+    <Child ReferenceText="reaction bonuses from">
+      <PageReference>PU3:21</PageReference>
+    </Child>
+    <Child ReferenceText="reaction cap">
+      <PageReference>PU3:21</PageReference>
+      <PageReference>PU3:22</PageReference>
+    </Child>
+    <Child ReferenceText="realism of">
+      <PageReference>PU3:17</PageReference>
+    </Child>
+    <Child ReferenceText="skill bonuses from">
+      <PageReference>PU3:21</PageReference>
+    </Child>
+    <Child ReferenceText="skill cap">
+      <PageReference>PU3:21</PageReference>
+      <PageReference>PU3:22</PageReference>
+    </Child>
+    <Child ReferenceText="skills and">
+      <PageReference>PU3:4</PageReference>
+      <PageReference>PU3:5</PageReference>
+    </Child>
+    <Child ReferenceText="Small">
+      <PageReference>PU3:4</PageReference>
+    </Child>
+    <Child ReferenceText="smooth cost">
+      <PageReference>PU3:25</PageReference>
+    </Child>
+    <Child ReferenceText="specialties and">
+      <PageReference>PU3:5</PageReference>
+    </Child>
+    <Child ReferenceText="Sport skills and">
+      <PageReference>PU3:5</PageReference>
+    </Child>
+    <Child ReferenceText="staggered levels">
+      <PageReference>PU3:22</PageReference>
+    </Child>
+    <Child ReferenceText="wildcard skills and">
+      <PageReference>PU3:4</PageReference>
+    </Child>
+    <Child ReferenceText="advantages and">
+      <PageReference>PU3:23-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talker Talent">
+    <PageReference>PU3:16</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thanatologist Talent">
+    <PageReference>PU3:16</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throttlers">
+    <Child ReferenceText="Talent for">
+      <PageReference>PU3:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tough Guy Talent">
+    <PageReference>PU3:16</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transhuman Space">
+    <PageReference>PU3:15</PageReference>
+    <SeeAlso>GURPS</SeeAlso>
+    <SeeAlso>Pyramid magazine</SeeAlso>
+    <Child ReferenceText="Changing Times">
+      <PageReference>PU3:12</PageReference>
+      <PageReference>PU3:13</PageReference>
+      <PageReference>PU3:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trivia Sponge Talent">
+    <PageReference>PU3:16</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Truth-Seeker Talent">
+    <PageReference>PU3:17</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unseelie Talent">
+    <PageReference>PU3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unsubtle Anti-Talent">
+    <PageReference>PU3:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whiz Kid Talent">
+    <PageReference>PU3:17</PageReference>
+    <PageReference>PU3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Widget-Worker Talent">
+    <PageReference>PU3:17</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

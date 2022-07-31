@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Better Power Items power-up">
+    <PageReference>DF18:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blessed equipment, value of">
+    <PageReference>DF18:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bonding process">
+    <PageReference>DF18:10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Borrowing">
+    <PageReference>DF18:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caster power items">
+    <PageReference>DF18:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Consumable power items">
+    <PageReference>DF18:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Controlling power items">
+    <PageReference>DF18:12-13</PageReference>
+    <Child ReferenceText="forbidding replacements">
+      <PageReference>DF18:13</PageReference>
+    </Child>
+    <Child ReferenceText="found items only">
+      <PageReference>DF18:13</PageReference>
+    </Child>
+    <Child ReferenceText="harder recharging">
+      <PageReference>DF18:13</PageReference>
+    </Child>
+    <Child ReferenceText="limiting quantity">
+      <PageReference>DF18:13</PageReference>
+    </Child>
+    <Child ReferenceText="minimum item value">
+      <PageReference>DF18:13</PageReference>
+    </Child>
+    <Child ReferenceText="restricted item types">
+      <PageReference>DF18:12-13</PageReference>
+    </Child>
+    <Child ReferenceText="ritual conditions">
+      <PageReference>DF18:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic artifacts, value of">
+    <PageReference>DF18:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Definition of power item">
+    <PageReference>DF18:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonological power items">
+    <PageReference>DF18:7</PageReference>
+    <PageReference>DF18:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder weirdness, value of">
+    <PageReference>DF18:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchantment-like effects, value of">
+    <PageReference>DF18:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Endurance items">
+    <PageReference>DF18:8</PageReference>
+    <PageReference>DF18:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy">
+    <SeeAlso>Fatigue Points</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Power Items power-ups">
+    <PageReference>DF18:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extraordinary craftsmanship, value of">
+    <PageReference>DF18:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue Points (FP)">
+    <SeeAlso>Recharging</SeeAlso>
+    <Child ReferenceText="detailed costs and">
+      <PageReference>DF18:7</PageReference>
+    </Child>
+    <Child ReferenceText="determining capacity">
+      <PageReference>DF18:6</PageReference>
+    </Child>
+    <Child ReferenceText="items of power and">
+      <PageReference>DF18:13</PageReference>
+    </Child>
+    <Child ReferenceText="restrictions on">
+      <PageReference>DF18:9</PageReference>
+      <PageReference>DF18:11</PageReference>
+    </Child>
+    <Child ReferenceText="source of">
+      <PageReference>DF18:9</PageReference>
+    </Child>
+    <Child ReferenceText="spending">
+      <PageReference>DF18:9-10</PageReference>
+      <PageReference>DF18:13</PageReference>
+    </Child>
+    <Child ReferenceText="changes in capacity">
+      <PageReference>DF18:6</PageReference>
+      <PageReference>DF18:10-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Dungeon Fantasy">
+    <PageReference>DF18:3</PageReference>
+    <PageReference>DF18:7</PageReference>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DF18:3</PageReference>
+      <PageReference>DF18:4</PageReference>
+      <PageReference>DF18:6</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DF18:8</PageReference>
+      <PageReference>DF18:10</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF18:7</PageReference>
+      <PageReference>DF18:12</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DF18:4</PageReference>
+      <PageReference>DF18:6</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 5: Allies">
+      <PageReference>DF18:5</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 6: 40 Artifacts">
+      <PageReference>DF18:5</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 7: Clerics">
+      <PageReference>DF18:5</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 8: Treasure Tables">
+      <PageReference>DF18:4</PageReference>
+      <PageReference>DF18:8</PageReference>
+      <PageReference>DF18:9</PageReference>
+      <PageReference>DF18:13</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 9: Summoners">
+      <PageReference>DF18:7</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 11: Power-Ups">
+      <PageReference>DF18:7</PageReference>
+      <PageReference>DF18:11</PageReference>
+      <PageReference>DF18:12</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 14: Psi">
+      <PageReference>DF18:5</PageReference>
+      <PageReference>DF18:7</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>DF18:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heroic power items">
+    <PageReference>DF18:8</PageReference>
+    <PageReference>DF18:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immovable power items">
+    <SeeAlso>Static Power Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Insubstantial power items">
+    <PageReference>DF18:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Items of power">
+    <PageReference>DF18:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lending">
+    <PageReference>DF18:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical power items">
+    <PageReference>DF18:7</PageReference>
+    <PageReference>DF18:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromantic power items">
+    <PageReference>DF18:7</PageReference>
+    <PageReference>DF18:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Passively Rechargeable Caster Items perk">
+    <PageReference>DF18:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>DF18:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power-ups">
+    <PageReference>DF18:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Professions, power items for other">
+    <PageReference>DF18:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic power items">
+    <PageReference>DF18:7</PageReference>
+    <PageReference>DF18:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recharger power-up">
+    <PageReference>DF18:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recharging">
+    <PageReference>DF18:10</PageReference>
+    <Child ReferenceText="active">
+      <PageReference>DF18:10</PageReference>
+    </Child>
+    <Child ReferenceText="harder">
+      <PageReference>DF18:13</PageReference>
+    </Child>
+    <Child ReferenceText="house calls">
+      <PageReference>DF18:10</PageReference>
+    </Child>
+    <Child ReferenceText="passive">
+      <PageReference>DF18:10</PageReference>
+    </Child>
+    <Child ReferenceText="power-up">
+      <PageReference>DF18:12</PageReference>
+    </Child>
+    <Child ReferenceText="static items">
+      <PageReference>DF18:10</PageReference>
+    </Child>
+    <Child ReferenceText="supercharging">
+      <PageReference>DF18:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Replacements">
+    <PageReference>DF18:10-11</PageReference>
+    <Child ReferenceText="forbidding">
+      <PageReference>DF18:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacred power items">
+    <PageReference>DF18:7</PageReference>
+    <PageReference>DF18:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scholarly power items">
+    <PageReference>DF18:8</PageReference>
+    <PageReference>DF18:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sets as power items">
+    <PageReference>DF18:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spending energy">
+    <PageReference>DF18:9-10</PageReference>
+    <PageReference>DF18:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Static power items">
+    <PageReference>DF18:9-10</PageReference>
+    <Child ReferenceText="gaining control of">
+      <PageReference>DF18:10</PageReference>
+    </Child>
+    <Child ReferenceText="recharging">
+      <PageReference>DF18:10</PageReference>
+    </Child>
+    <Child ReferenceText="supercharging">
+      <PageReference>DF18:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stealing">
+    <PageReference>DF18:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Table, power items">
+    <PageReference>DF18:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treasure as power item">
+    <PageReference>DF18:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Types">
+    <PageReference>DF18:7-9</PageReference>
+    <Child ReferenceText="multiple items of different kinds">
+      <PageReference>DF18:8-9</PageReference>
+      <PageReference>DF18:13</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>DF18:8</PageReference>
+    </Child>
+    <Child ReferenceText="restricted item types">
+      <PageReference>DF18:12-13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unlinking">
+    <PageReference>DF18:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Upgrades">
+    <PageReference>DF18:10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Using power items">
+    <PageReference>DF18:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Value">
+    <Child ReferenceText="changes in">
+      <PageReference>DF18:6</PageReference>
+    </Child>
+    <Child ReferenceText="contributing properties">
+      <PageReference>DF18:4</PageReference>
+    </Child>
+    <Child ReferenceText="detailed costs">
+      <PageReference>DF18:7</PageReference>
+    </Child>
+    <Child ReferenceText="determining">
+      <PageReference>DF18:4-7</PageReference>
+    </Child>
+    <Child ReferenceText="extraordinary properties">
+      <PageReference>DF18:4-5</PageReference>
+    </Child>
+    <Child ReferenceText="FP capacity determined by">
+      <PageReference>DF18:6</PageReference>
+    </Child>
+    <Child ReferenceText="losses">
+      <PageReference>DF18:6</PageReference>
+    </Child>
+    <Child ReferenceText="minimum">
+      <PageReference>DF18:13</PageReference>
+    </Child>
+    <Child ReferenceText="noncontributing properties">
+      <PageReference>DF18:4</PageReference>
+    </Child>
+    <Child ReferenceText="priceless artifacts and">
+      <PageReference>DF18:5</PageReference>
+    </Child>
+    <Child ReferenceText="restrictions based on table">
+      <PageReference>DF18:13</PageReference>
+    </Child>
+    <Child ReferenceText="swaps">
+      <PageReference>DF18:6</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>DF18:6</PageReference>
+    </Child>
+    <Child ReferenceText="adding">
+      <PageReference>DF18:6</PageReference>
+      <PageReference>DF18:13</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

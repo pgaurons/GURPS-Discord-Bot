@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>ACT1:17-19</PageReference>
+    <Child ReferenceText="action movie variations">
+      <PageReference>ACT1:18-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammo">
+    <Child ReferenceText="special">
+      <PageReference>ACT1:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>ACT1:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arson tools">
+    <PageReference>ACT1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assassin template">
+    <PageReference>ACT1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assistance">
+    <Child ReferenceText="modifiers to requests">
+      <PageReference>ACT1:24</PageReference>
+    </Child>
+    <Child ReferenceText="requesting">
+      <PageReference>ACT1:24-25</PageReference>
+    </Child>
+    <Child ReferenceText="results of requesting">
+      <PageReference>ACT1:25</PageReference>
+    </Child>
+    <Child ReferenceText="sample">
+      <PageReference>ACT1:24-25</PageReference>
+    </Child>
+    <Child ReferenceText="availability by service">
+      <PageReference>ACT1:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Budgets">
+    <PageReference>ACT1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burglar’s tools">
+    <PageReference>ACT1:26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaign types">
+    <PageReference>ACT1:5-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="CF">
+    <PageReference>ACT1:26</PageReference>
+    <PageReference>ACT1:31-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cheat sheet">
+    <PageReference>ACT1:17-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleaner template">
+    <PageReference>ACT1:7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <PageReference>ACT1:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat accessories">
+    <PageReference>ACT1:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Communicators">
+    <PageReference>ACT1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <PageReference>ACT1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost factors">
+    <PageReference>ACT1:26</PageReference>
+    <PageReference>ACT1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminal template">
+    <PageReference>ACT1:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminal trickery">
+    <PageReference>ACT1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Customization modifiers for items">
+    <PageReference>ACT1:26</PageReference>
+    <PageReference>ACT1:31-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defaults for skills">
+    <PageReference>ACT1:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demolition Man template">
+    <PageReference>ACT1:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demolition tools">
+    <PageReference>ACT1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>ACT1:19-20</PageReference>
+    <Child ReferenceText="limit">
+      <PageReference>ACT1:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Dodge advantage">
+    <PageReference>ACT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Entry-forcing tools">
+    <PageReference>ACT1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Everyman skills">
+    <PageReference>ACT1:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extraction aids">
+    <PageReference>ACT1:28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Face Man template">
+    <PageReference>ACT1:9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Familiarity for skills">
+    <PageReference>ACT1:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearms">
+    <PageReference>ACT1:32-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgets">
+    <PageReference>ACT1:26-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <PageReference>ACT1:26-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grenades">
+    <PageReference>ACT1:33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun perks">
+    <PageReference>ACT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunslinger advantage">
+    <PageReference>ACT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>ACT1:4</PageReference>
+    <PageReference>ACT1:22</PageReference>
+    <PageReference>ACT1:34</PageReference>
+    <Child ReferenceText="Action 2: Exploits">
+      <PageReference>ACT1:3</PageReference>
+      <PageReference>ACT1:22</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>ACT1:4</PageReference>
+      <PageReference>ACT1:17</PageReference>
+      <PageReference>ACT1:19</PageReference>
+      <PageReference>ACT1:22</PageReference>
+      <PageReference>ACT1:26</PageReference>
+      <PageReference>ACT1:33</PageReference>
+    </Child>
+    <Child ReferenceText="HighTech">
+      <PageReference>ACT1:26</PageReference>
+      <PageReference>ACT1:31-34</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>ACT1:5</PageReference>
+      <PageReference>ACT1:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hacker template">
+    <PageReference>ACT1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Higher Purpose advantage">
+    <PageReference>ACT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infiltrator template">
+    <PageReference>ACT1:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insertion aids">
+    <PageReference>ACT1:28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intelligence lens">
+    <PageReference>ACT1:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Investigator template">
+    <PageReference>ACT1:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IQ attribute">
+    <Child ReferenceText="roleplaying options">
+      <PageReference>ACT1:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Labs">
+    <PageReference>ACT1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Law enforcement gear">
+    <PageReference>ACT1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Law Enforcement lens">
+    <PageReference>ACT1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legal Enforcement Powers advantage">
+    <PageReference>ACT1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <PageReference>ACT1:4-5</PageReference>
+    <Child ReferenceText="optional">
+      <PageReference>ACT1:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Light sources">
+    <PageReference>ACT1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luck advantage">
+    <PageReference>ACT1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luggage">
+    <PageReference>ACT1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medic template">
+    <PageReference>ACT1:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical equipment">
+    <PageReference>ACT1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee weapons">
+    <PageReference>ACT1:33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military lens">
+    <PageReference>ACT1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Non-standard-issue gear">
+    <PageReference>ACT1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Optics">
+    <PageReference>ACT1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Optional lenses">
+    <PageReference>ACT1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>ACT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal accessories">
+    <PageReference>ACT1:29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal wealth">
+    <PageReference>ACT1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pocket money">
+    <PageReference>ACT1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pulling rank">
+    <SeeAlso>Assistance</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Gadgeteer advantage">
+    <PageReference>ACT1:18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repair tools">
+    <PageReference>ACT1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requesting assistance">
+    <SeeAlso>Assistance</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Scientific gear">
+    <PageReference>ACT1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Security lens">
+    <PageReference>ACT1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Security measures">
+    <PageReference>ACT1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shooter template">
+    <PageReference>ACT1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signature gear">
+    <PageReference>ACT1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>ACT1:20-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specialties for skills">
+    <PageReference>ACT1:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spy gadgets">
+    <PageReference>ACT1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standard-issue gear">
+    <PageReference>ACT1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surveillance gadgets">
+    <PageReference>ACT1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talent advantage">
+    <PageReference>ACT1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <PageReference>ACT1:7-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terminology">
+    <PageReference>ACT1:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tool kits">
+    <PageReference>ACT1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tools">
+    <PageReference>ACT1:26-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <PageReference>ACT1:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth">
+    <PageReference>ACT1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>ACT1:32-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wheel Man template">
+    <PageReference>ACT1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard skills">
+    <PageReference>ACT1:22-23</PageReference>
+    <Child ReferenceText="not using">
+      <PageReference>ACT1:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wire Rat template">
+    <PageReference>ACT1:16</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

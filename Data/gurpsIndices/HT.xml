@@ -1,0 +1,4944 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="3D model scanner">
+    <PageReference>HT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="A/V">
+    <PageReference>HT245</PageReference>
+    <Child ReferenceText="transceiver">
+      <PageReference>HT209</PageReference>
+    </Child>
+    <Child ReferenceText="transmitter">
+      <PageReference>HT209</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Abbot-Downing Concord">
+    <PageReference>HT233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accessory rails">
+    <PageReference>HT161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accles Positive Feed drum">
+    <PageReference>HT127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acoustic countersniper systems">
+    <PageReference>HT207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Activated charcoal">
+    <PageReference>HT226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adapters (power)">
+    <PageReference>HT14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adding machines">
+    <PageReference>HT18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adjusting for SM">
+    <PageReference>HT10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerial resupply">
+    <PageReference>HT61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aérospatiale SA316B Alouette III">
+    <PageReference>HT241</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aiming">
+    <Child ReferenceText="precision">
+      <PageReference>HT84</PageReference>
+    </Child>
+    <Child ReferenceText="aids">
+      <PageReference>HT155-157</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Air">
+    <Child ReferenceText="masks">
+      <PageReference>HT72-73</PageReference>
+    </Child>
+    <Child ReferenceText="tanks">
+      <PageReference>HT74</PageReference>
+    </Child>
+    <Child ReferenceText="compressors">
+      <PageReference>HT27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Airbags">
+    <PageReference>HT229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Airburst (-AB) projectile upgrade">
+    <PageReference>HT174-175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Airmail">
+    <PageReference>HT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Airplanes">
+    <PageReference>HT233</PageReference>
+    <PageReference>HT235</PageReference>
+    <PageReference>HT237-238</PageReference>
+    <PageReference>HT243</PageReference>
+    <SeeAlso>Helicopters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Akimbo Gun Perk">
+    <PageReference>HT249</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alarms, electric">
+    <PageReference>HT206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alcohol">
+    <Child ReferenceText="fuels">
+      <PageReference>HT15-16</PageReference>
+    </Child>
+    <Child ReferenceText="still">
+      <PageReference>HT15</PageReference>
+    </Child>
+    <Child ReferenceText="beverage">
+      <PageReference>HT34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="AM General M1025">
+    <PageReference>HT242</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammonia inhalants">
+    <PageReference>HT226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammunition">
+    <PageReference>HT161-177</PageReference>
+    <PageReference>HT245</PageReference>
+    <SeeAlso>Accles Positive Feed drum</SeeAlso>
+    <SeeAlso>Black powder</SeeAlso>
+    <SeeAlso>Cartridge conversion</SeeAlso>
+    <SeeAlso>Handloading and reloading ammunition</SeeAlso>
+    <SeeAlso>Minié balls</SeeAlso>
+    <SeeAlso>Projectiles</SeeAlso>
+    <Child ReferenceText="calibers">
+      <PageReference>HT161-163</PageReference>
+      <PageReference>HT245</PageReference>
+    </Child>
+    <Child ReferenceText="classes">
+      <PageReference>HT163-165</PageReference>
+    </Child>
+    <Child ReferenceText="fixed">
+      <PageReference>HT164</PageReference>
+    </Child>
+    <Child ReferenceText="homemade">
+      <PageReference>HT163</PageReference>
+    </Child>
+    <Child ReferenceText="interchangeability">
+      <PageReference>HT178</PageReference>
+    </Child>
+    <Child ReferenceText="misloading">
+      <PageReference>HT178</PageReference>
+    </Child>
+    <Child ReferenceText="propellants">
+      <PageReference>HT163</PageReference>
+    </Child>
+    <Child ReferenceText="upgrades">
+      <PageReference>HT165</PageReference>
+    </Child>
+    <Child ReferenceText="tables">
+      <PageReference>HT175-177</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Analgesics">
+    <PageReference>HT226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anesthesia">
+    <PageReference>HT224-225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Annular blast fragmentation (ABF) projectiles">
+    <PageReference>HT174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antenna">
+    <PageReference>HT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antibiotics">
+    <PageReference>HT226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-G suits">
+    <PageReference>HT74</PageReference>
+    <PageReference>HT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antimalarial pills">
+    <PageReference>HT226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antisepsis">
+    <PageReference>HT225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antiseptic">
+    <PageReference>HT225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antitoxin kits">
+    <PageReference>HT226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appliances">
+    <PageReference>HT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <Child ReferenceText="concealing">
+      <PageReference>HT66</PageReference>
+    </Child>
+    <Child ReferenceText="high-tech versions of low-tech armor">
+      <PageReference>HT65</PageReference>
+    </Child>
+    <Child ReferenceText="homemade">
+      <PageReference>HT71</PageReference>
+    </Child>
+    <Child ReferenceText="limb">
+      <PageReference>HT67-68</PageReference>
+    </Child>
+    <Child ReferenceText="for other body parts">
+      <PageReference>HT71</PageReference>
+    </Child>
+    <Child ReferenceText="torso">
+      <PageReference>HT65-67</PageReference>
+    </Child>
+    <Child ReferenceText="vehicle">
+      <PageReference>HT229</PageReference>
+    </Child>
+    <Child ReferenceText="body">
+      <PageReference>HT65-71</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armored doors">
+    <PageReference>HT202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armorer’s Gift Gun Perk">
+    <PageReference>HT249</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor-piercing (AP) projectiles">
+    <PageReference>HT167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor-piercing depleted uranium (APDU) projectiles">
+    <PageReference>HT169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor-piercing discardingsabot (APDS) projectiles">
+    <PageReference>HT103</PageReference>
+    <PageReference>HT167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor-piercing discardingsabot depleted uranium (APDSDU) projectiles">
+    <PageReference>HT169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor-piercing explosive (APEX) projectiles">
+    <PageReference>HT169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor-piercing fin-stabilized discarding-sabot (APFSDS) projectiles">
+    <PageReference>HT167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor-piercing fin-stabilized discarding-sabot depleted uranium (APFSDSDU) projectiles">
+    <PageReference>HT169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor-piercing hardcore (APHC) projectiles">
+    <PageReference>HT103</PageReference>
+    <PageReference>HT167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor-piercing hardcore explosive (APHEX) projectiles">
+    <PageReference>HT170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artillery, using">
+    <PageReference>HT139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ASDIC">
+    <PageReference>HT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attaché cases">
+    <PageReference>HT31</PageReference>
+    <PageReference>HT215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Audio">
+    <Child ReferenceText="cassette tapes">
+      <PageReference>HT42</PageReference>
+    </Child>
+    <Child ReferenceText="storage media">
+      <PageReference>HT42</PageReference>
+    </Child>
+    <Child ReferenceText="storage, recording, and playback">
+      <PageReference>HT40-42</PageReference>
+    </Child>
+    <Child ReferenceText="accessories">
+      <PageReference>HT40-41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Audio bugs">
+    <PageReference>HT208</PageReference>
+    <SeeAlso>Bug detectors</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Automatic weapons, shooting">
+    <PageReference>HT82-93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Avalanche transceivers">
+    <PageReference>HT56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Backblast from LAWs">
+    <PageReference>HT147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Backpacks">
+    <PageReference>HT54</PageReference>
+    <PageReference>HT55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Backyard docs">
+    <PageReference>HT224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bag masks">
+    <PageReference>HT219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Baggage screeners">
+    <PageReference>HT206-207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bags">
+    <PageReference>HT30</PageReference>
+    <PageReference>HT31</PageReference>
+    <PageReference>HT43</PageReference>
+    <PageReference>HT54-55</PageReference>
+    <PageReference>HT161</PageReference>
+    <PageReference>HT215</PageReference>
+    <PageReference>HT220-221</PageReference>
+    <PageReference>HT222</PageReference>
+    <SeeAlso>Attaché cases</SeeAlso>
+    <SeeAlso>Load-bearing equipment</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bandages">
+    <PageReference>HT221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bandoleers">
+    <PageReference>HT54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bank vaults">
+    <PageReference>HT203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbecue grills">
+    <PageReference>HT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbed wire">
+    <PageReference>HT204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barrels">
+    <PageReference>HT53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barriers">
+    <PageReference>HT202-205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Baton projectiles">
+    <PageReference>HT103</PageReference>
+    <PageReference>HT143</PageReference>
+    <PageReference>HT168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Batteries">
+    <PageReference>HT13-14</PageReference>
+    <Child ReferenceText="dirty tech">
+      <PageReference>HT13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Battering rams">
+    <PageReference>HT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beanbag projectiles">
+    <PageReference>HT103</PageReference>
+    <PageReference>HT143</PageReference>
+    <PageReference>HT168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beehive projectiles">
+    <PageReference>HT173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Belts">
+    <PageReference>HT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bicycles">
+    <PageReference>HT230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Binoculars">
+    <PageReference>HT47</PageReference>
+    <PageReference>HT48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biohazard suits">
+    <PageReference>HT74</PageReference>
+    <PageReference>HT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biomedical sensors">
+    <PageReference>HT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biplane fighter/bombers">
+    <PageReference>HT233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bipods for firearms">
+    <PageReference>HT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Birdshot">
+    <PageReference>HT143</PageReference>
+    <PageReference>HT173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bit and brace">
+    <PageReference>HT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Black markets">
+    <PageReference>HT7-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blankets">
+    <PageReference>HT56</PageReference>
+    <PageReference>HT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blasting">
+    <Child ReferenceText="machines">
+      <PageReference>HT187</PageReference>
+    </Child>
+    <Child ReferenceText="caps">
+      <PageReference>HT187</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Blenders">
+    <PageReference>HT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood and intravenous fluids">
+    <PageReference>HT220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood-pressure cuffs">
+    <PageReference>HT222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blueprints">
+    <PageReference>HT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boats, patrol">
+    <PageReference>HT241-242</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body bags">
+    <PageReference>HT221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body shops">
+    <PageReference>HT224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boeing M998 Avenger">
+    <PageReference>HT242-243</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bolt cutters">
+    <PageReference>HT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bomb disposal">
+    <SeeAlso>Bombs in Weaponry Index</SeeAlso>
+    <Child ReferenceText="suit">
+      <PageReference>HT76</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>HT217</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Books">
+    <PageReference>HT17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Borescope">
+    <PageReference>HT209</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Box cameras">
+    <PageReference>HT42-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brakes on vehicles">
+    <PageReference>HT229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brass catchers">
+    <PageReference>HT161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breaker hammers">
+    <PageReference>HT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breguet Bre 14B-2">
+    <PageReference>HT233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buck-and-ball">
+    <PageReference>HT173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bug detectors">
+    <PageReference>HT212</PageReference>
+    <SeeAlso>Audio bugs</SeeAlso>
+    <SeeAlso>Video bugs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bugs for surveillance">
+    <SeeAlso>Audio bugs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bullets">
+    <SeeAlso>Ammunition</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Burglary tools">
+    <PageReference>HT213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bursting-cargo projectiles">
+    <PageReference>HT172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Business cards">
+    <PageReference>HT18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Butolin toxins">
+    <PageReference>HT227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buying equipment">
+    <PageReference>HT7-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cadillac V-16">
+    <Child ReferenceText="Imperial Sedan">
+      <PageReference>HT236</PageReference>
+    </Child>
+    <Child ReferenceText="Armored">
+      <PageReference>HT236</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Calculators">
+    <PageReference>HT18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caltrop traps">
+    <PageReference>HT203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="CAM">
+    <PageReference>HT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camcorders">
+    <PageReference>HT43</PageReference>
+    <PageReference>HT44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camera obscura">
+    <PageReference>HT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cameras">
+    <PageReference>HT42-44</PageReference>
+    <PageReference>HT48</PageReference>
+    <Child ReferenceText="accessories">
+      <PageReference>HT43</PageReference>
+    </Child>
+    <Child ReferenceText="bags">
+      <PageReference>HT43</PageReference>
+    </Child>
+    <Child ReferenceText="grenade">
+      <PageReference>HT143</PageReference>
+    </Child>
+    <Child ReferenceText="jamming">
+      <PageReference>HT212</PageReference>
+    </Child>
+    <Child ReferenceText="millimeter-wave">
+      <PageReference>HT207</PageReference>
+    </Child>
+    <Child ReferenceText="radar">
+      <PageReference>HT207</PageReference>
+    </Child>
+    <Child ReferenceText="video surveillance">
+      <PageReference>HT206</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Camouflage">
+    <PageReference>HT76-77</PageReference>
+    <Child ReferenceText="clothing">
+      <PageReference>HT76-77</PageReference>
+    </Child>
+    <Child ReferenceText="net">
+      <PageReference>HT77</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Camping gear">
+    <PageReference>HT56-59</PageReference>
+    <SeeAlso>Foodstuffs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Can opener">
+    <PageReference>HT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Can, 5-gallon">
+    <PageReference>HT54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Candles">
+    <PageReference>HT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Candy">
+    <PageReference>HT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Canes">
+    <PageReference>HT31</PageReference>
+    <PageReference>HT98</PageReference>
+    <PageReference>HT197</PageReference>
+    <PageReference>HT200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Canister loads">
+    <PageReference>HT172-173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Canning food">
+    <PageReference>HT33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Canteens">
+    <PageReference>HT53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Car stoppers">
+    <PageReference>HT203-204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carbon monoxide monitors">
+    <PageReference>HT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carbon paper">
+    <PageReference>HT19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cardiopulmonary resuscitation equipment">
+    <PageReference>HT220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cargo containers">
+    <PageReference>HT54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cars">
+    <PageReference>HT235-236</PageReference>
+    <SeeAlso>HHMMWV</SeeAlso>
+    <SeeAlso>Jeeps</SeeAlso>
+    <SeeAlso>Tanks</SeeAlso>
+    <SeeAlso>Trucks</SeeAlso>
+    <Child ReferenceText="armored">
+      <PageReference>HT240</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cartridge conversions">
+    <PageReference>HT164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cased ammunition">
+    <PageReference>HT164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caseless ammunition">
+    <PageReference>HT164-165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cassette players/recorders">
+    <PageReference>HT41</PageReference>
+    <PageReference>HT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Castor oil">
+    <PageReference>HT226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Casualty bags">
+    <PageReference>HT222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cell phones">
+    <PageReference>HT39</PageReference>
+    <PageReference>HT210</PageReference>
+    <Child ReferenceText="jammers">
+      <PageReference>HT213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cellular">
+    <Child ReferenceText="monitoring system">
+      <PageReference>HT209</PageReference>
+    </Child>
+    <Child ReferenceText="location beacons">
+      <PageReference>HT210</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Central tire-inflation systems">
+    <PageReference>HT229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cessna 172R Skyhawk">
+    <PageReference>HT243</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chainsaws">
+    <PageReference>HT27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cheap equipment">
+    <PageReference>HT10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chelating agents">
+    <PageReference>HT227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemical">
+    <Child ReferenceText="test kits">
+      <PageReference>HT48</PageReference>
+    </Child>
+    <Child ReferenceText="detectors">
+      <PageReference>HT48-49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemlight">
+    <PageReference>HT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chloroform">
+    <PageReference>HT224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chronometers, marine">
+    <PageReference>HT53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cigarettes">
+    <PageReference>HT34</PageReference>
+    <Child ReferenceText="cases">
+      <PageReference>HT31</PageReference>
+    </Child>
+    <Child ReferenceText="lighters">
+      <PageReference>HT57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cigars">
+    <PageReference>HT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Circle cutters">
+    <PageReference>HT26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clean suits">
+    <PageReference>HT74-75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Climate-controlled clothing">
+    <PageReference>HT74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Climbing equipment">
+    <PageReference>HT55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clinical analyzers">
+    <PageReference>HT223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close-Quarters Battle technique">
+    <PageReference>HT250-251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothes washers">
+    <PageReference>HT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <PageReference>HT62-65</PageReference>
+    <SeeAlso>Personal accessories</SeeAlso>
+    <Child ReferenceText="accessories">
+      <PageReference>HT63</PageReference>
+    </Child>
+    <Child ReferenceText="materials and technology">
+      <PageReference>HT64-65</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>HT63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clubs">
+    <PageReference>HT198</PageReference>
+    <PageReference>HT200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="CNC workshop">
+    <PageReference>HT28</PageReference>
+    <PageReference>HT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code-breaking">
+    <PageReference>HT210-211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coffee">
+    <PageReference>HT34</PageReference>
+    <Child ReferenceText="makers">
+      <PageReference>HT32</PageReference>
+      <PageReference>HT59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Sport gun skill">
+    <PageReference>HT250</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combination gadgets">
+    <PageReference>HT10</PageReference>
+    <SeeAlso>Combination weapons in Weaponry Index</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Come-a-longs">
+    <PageReference>HT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compact discs">
+    <PageReference>HT42</PageReference>
+    <Child ReferenceText="players">
+      <PageReference>HT41-42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Compasses">
+    <PageReference>HT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer numerically controlled workshop">
+    <PageReference>HT28</PageReference>
+    <PageReference>HT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer-aided">
+    <Child ReferenceText="manufacturing">
+      <PageReference>HT28-29</PageReference>
+    </Child>
+    <Child ReferenceText="design">
+      <PageReference>HT28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <PageReference>HT19-22</PageReference>
+    <SeeAlso>Encryption</SeeAlso>
+    <SeeAlso>Software</SeeAlso>
+    <Child ReferenceText="customizing hardware">
+      <PageReference>HT20-21</PageReference>
+    </Child>
+    <Child ReferenceText="intrusion equipment">
+      <PageReference>HT215</PageReference>
+    </Child>
+    <Child ReferenceText="monitoring gear">
+      <PageReference>HT215</PageReference>
+    </Child>
+    <Child ReferenceText="networks">
+      <PageReference>HT20</PageReference>
+    </Child>
+    <Child ReferenceText="research using">
+      <PageReference>HT21</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>HT20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Conex container">
+    <PageReference>HT54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Consumable cased ammunition">
+    <PageReference>HT164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact lenses">
+    <PageReference>HT225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Containers">
+    <PageReference>HT53-54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cooking gear">
+    <PageReference>HT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coolers">
+    <PageReference>HT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cords">
+    <PageReference>HT56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmetic surgery">
+    <PageReference>HT225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Counterfeiting tools">
+    <PageReference>HT213-214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Countersurveillance">
+    <PageReference>HT211-213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crampons">
+    <PageReference>HT56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crash kits">
+    <PageReference>HT221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crates">
+    <PageReference>HT54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cross-belts">
+    <PageReference>HT54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cross-Trained Gun Perk">
+    <PageReference>HT249</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crowbars">
+    <PageReference>HT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="CT scanners">
+    <PageReference>HT223</PageReference>
+    <PageReference>HT207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="CTIS">
+    <PageReference>HT229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cups (drinking)">
+    <PageReference>HT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curare">
+    <PageReference>HT227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutting cords">
+    <PageReference>HT188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutting torches">
+    <PageReference>HT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage, adjusting weapon">
+    <PageReference>HT166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Darkrooms">
+    <PageReference>HT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dart transmitters">
+    <PageReference>HT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Data storage">
+    <PageReference>HT21-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Databases">
+    <PageReference>HT22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Datapads">
+    <PageReference>HT21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dayton-Wright DH-4">
+    <PageReference>HT233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dearmer/disruptors">
+    <PageReference>HT217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Decontamination equipment">
+    <PageReference>HT222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defibrillators">
+    <PageReference>HT220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dehydrated foods">
+    <PageReference>HT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dehydrators">
+    <PageReference>HT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Depositories">
+    <PageReference>HT203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Desalinators">
+    <PageReference>HT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Desiccated vegetables">
+    <PageReference>HT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detonating cords">
+    <PageReference>HT187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diesel fuel">
+    <PageReference>HT16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Digital">
+    <Child ReferenceText="media players">
+      <PageReference>HT42</PageReference>
+    </Child>
+    <Child ReferenceText="storage devices">
+      <PageReference>HT22</PageReference>
+    </Child>
+    <Child ReferenceText="versatile disc">
+      <PageReference>HT44</PageReference>
+    </Child>
+    <Child ReferenceText="video recorder">
+      <PageReference>HT44</PageReference>
+    </Child>
+    <Child ReferenceText="cameras">
+      <PageReference>HT43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dimethyl sulfoxide">
+    <PageReference>HT227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dirty tech">
+    <PageReference>HT6</PageReference>
+    <Child ReferenceText="armor">
+      <PageReference>HT71</PageReference>
+    </Child>
+    <Child ReferenceText="batteries">
+      <PageReference>HT13</PageReference>
+    </Child>
+    <Child ReferenceText="explosives">
+      <PageReference>HT186</PageReference>
+    </Child>
+    <Child ReferenceText="firearm sound suppressors">
+      <PageReference>HT159</PageReference>
+    </Child>
+    <Child ReferenceText="flamethrowers">
+      <PageReference>HT179</PageReference>
+    </Child>
+    <Child ReferenceText="full-auto conversions">
+      <PageReference>HT79</PageReference>
+    </Child>
+    <Child ReferenceText="grenades">
+      <PageReference>HT191</PageReference>
+    </Child>
+    <Child ReferenceText="guns">
+      <PageReference>HT92</PageReference>
+    </Child>
+    <Child ReferenceText="hand-grenade booby traps">
+      <PageReference>HT190</PageReference>
+    </Child>
+    <Child ReferenceText="powder and shot">
+      <PageReference>HT163</PageReference>
+    </Child>
+    <Child ReferenceText="melee weapons">
+      <PageReference>HT199</PageReference>
+    </Child>
+    <Child ReferenceText="oil refining">
+      <PageReference>HT16</PageReference>
+    </Child>
+    <Child ReferenceText="skimming nitro">
+      <PageReference>HT185</PageReference>
+    </Child>
+    <Child ReferenceText="surveillance gear">
+      <PageReference>HT210</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disease-control equipment">
+    <PageReference>HT222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disguise kits">
+    <PageReference>HT214-215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disguised equipment">
+    <PageReference>HT9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diskettes">
+    <PageReference>HT22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dive cages">
+    <PageReference>HT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dive torpedoes">
+    <PageReference>HT231</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divecom base stations">
+    <PageReference>HT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diver communicators">
+    <PageReference>HT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="DMSO">
+    <PageReference>HT227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doctor’s bags">
+    <PageReference>HT220-221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Document scanners">
+    <PageReference>HT21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doorbusters">
+    <PageReference>HT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dornier Do J Wal">
+    <PageReference>HT235</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dosimeters">
+    <PageReference>HT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Double-Loading technique">
+    <PageReference>HT251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drag bags">
+    <PageReference>HT161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drills">
+    <PageReference>HT26</PageReference>
+    <PageReference>HT27</PageReference>
+    <PageReference>HT55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drinks">
+    <PageReference>HT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drugs">
+    <PageReference>HT226-227</PageReference>
+    <SeeAlso>Poisons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Drums (container)">
+    <PageReference>HT54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dry suits">
+    <PageReference>HT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duct tape">
+    <PageReference>HT26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duplicators">
+    <PageReference>HT19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="DVDs">
+    <PageReference>HT44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dye markers">
+    <PageReference>HT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ear protection">
+    <PageReference>HT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ejecting-cargo projectiles">
+    <PageReference>HT171-172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electric hand torches">
+    <PageReference>HT51-52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="EM field meters">
+    <PageReference>HT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emergency beacons">
+    <PageReference>HT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="EMP effects of nuclear weapons">
+    <PageReference>HT196</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Encryption">
+    <PageReference>HT210-211</PageReference>
+    <Child ReferenceText="computer networks and">
+      <PageReference>HT20</PageReference>
+    </Child>
+    <Child ReferenceText="devices">
+      <PageReference>HT211</PageReference>
+    </Child>
+    <Child ReferenceText="standards">
+      <PageReference>HT211</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Endoscopes">
+    <PageReference>HT209</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy collectors">
+    <PageReference>HT15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Environment suits">
+    <PageReference>HT74-75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Environmental protection">
+    <PageReference>HT72-76</PageReference>
+    <SeeAlso>Fire shelters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Epidemiology">
+    <PageReference>HT222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment Bond perk">
+    <PageReference>HT7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <Child ReferenceText="statistics format">
+      <PageReference>HT10-11</PageReference>
+    </Child>
+    <Child ReferenceText="bonuses">
+      <PageReference>HT11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Espresso makers">
+    <PageReference>HT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ether masks">
+    <PageReference>HT224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evidence collection kits">
+    <PageReference>HT217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expensive equipment">
+    <PageReference>HT10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosions">
+    <Child ReferenceText="in enclosed spaces">
+      <PageReference>HT181</PageReference>
+    </Child>
+    <Child ReferenceText="relative explosive force table">
+      <PageReference>HT183</PageReference>
+    </Child>
+    <Child ReferenceText="side effects">
+      <PageReference>HT181-182</PageReference>
+    </Child>
+    <Child ReferenceText="destroying materiel">
+      <PageReference>HT182-183</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosive-energy projectiles">
+    <PageReference>HT169-170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosively formed projectile (EFP) projectiles">
+    <PageReference>HT170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosives">
+    <SeeAlso>Explosives in the Weaponry Index</SeeAlso>
+    <Child ReferenceText="equipment">
+      <PageReference>HT187-188</PageReference>
+    </Child>
+    <Child ReferenceText="blankets">
+      <PageReference>HT72</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra-powerful ammunition upgrade">
+    <PageReference>HT165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eye protection">
+    <PageReference>HT70-71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eyeglasses">
+    <PageReference>HT225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fallout from nuclear weapons">
+    <PageReference>HT196</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fanning firearms">
+    <PageReference>HT83</PageReference>
+    <PageReference>HT84</PageReference>
+    <Child ReferenceText="technique">
+      <PageReference>HT251</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Draw optional rules">
+    <PageReference>HT81-82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-draw rigs">
+    <PageReference>HT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Firing technique">
+    <PageReference>HT84</PageReference>
+    <PageReference>HT251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fences">
+    <PageReference>HT204-205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fiberscopes">
+    <PageReference>HT209</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Films for cameras">
+    <PageReference>HT44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fingerprint">
+    <Child ReferenceText="scanners">
+      <PageReference>HT205</PageReference>
+    </Child>
+    <Child ReferenceText="kits">
+      <PageReference>HT216-217</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire">
+    <Child ReferenceText="shelters">
+      <PageReference>HT30</PageReference>
+    </Child>
+    <Child ReferenceText="starters">
+      <PageReference>HT57-58</PageReference>
+    </Child>
+    <Child ReferenceText="extinguishers">
+      <PageReference>HT29</PageReference>
+      <PageReference>HT229</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearm accessories">
+    <PageReference>HT153-161</PageReference>
+    <SeeAlso>Load-bearing equipment</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Firefighter alert systems">
+    <PageReference>HT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fireproof suits">
+    <PageReference>HT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire-suppression systems">
+    <PageReference>HT229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="First aid kits">
+    <PageReference>HT221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fishing kits">
+    <PageReference>HT58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flares">
+    <PageReference>HT58</PageReference>
+    <PageReference>HT143</PageReference>
+    <PageReference>HT171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flashlights">
+    <PageReference>HT51-52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flint and steel">
+    <PageReference>HT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Floodlights">
+    <PageReference>HT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flotation">
+    <Child ReferenceText="vests">
+      <PageReference>HT59</PageReference>
+    </Child>
+    <Child ReferenceText="belts">
+      <PageReference>HT59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying boats">
+    <PageReference>HT235</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Focke-Wulf Fw 190A-6 Würger">
+    <PageReference>HT237-238</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <Child ReferenceText="canners">
+      <PageReference>HT34</PageReference>
+    </Child>
+    <Child ReferenceText="additives">
+      <PageReference>HT34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Foodstuffs">
+    <PageReference>HT33-35</PageReference>
+    <SeeAlso>Appliances</SeeAlso>
+    <SeeAlso>Cooking gear</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Foot powder">
+    <PageReference>HT221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Footwear">
+    <PageReference>HT68-69</PageReference>
+    <Child ReferenceText="breaking in">
+      <PageReference>HT69</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ford GPA">
+    <PageReference>HT237</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ford M151 MUTT">
+    <PageReference>HT237</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ford V-8">
+    <PageReference>HT236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forensics">
+    <PageReference>HT216-217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forgery">
+    <PageReference>HT213-214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frangible projectiles">
+    <PageReference>HT103</PageReference>
+    <PageReference>HT167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Freeze-dried foods">
+    <PageReference>HT34</PageReference>
+    <PageReference>HT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Freezing food">
+    <PageReference>HT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Freight shipping">
+    <PageReference>HT35-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fresh foods">
+    <PageReference>HT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fuel">
+    <PageReference>HT15-16</PageReference>
+    <Child ReferenceText="cells">
+      <PageReference>HT14-15</PageReference>
+    </Child>
+    <Child ReferenceText="dirtytech refining">
+      <PageReference>HT16</PageReference>
+    </Child>
+    <Child ReferenceText="tablets">
+      <PageReference>HT57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Full-auto firearms conversions">
+    <PageReference>HT79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fume sponges">
+    <PageReference>HT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gas masks">
+    <PageReference>HT72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gasoline">
+    <PageReference>HT16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GAZ BRDM-2">
+    <PageReference>HT240</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Geiger counters">
+    <PageReference>HT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Generators">
+    <PageReference>HT14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghillie suits">
+    <PageReference>HT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glass cutters">
+    <PageReference>HT26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glasses (eyewear)">
+    <PageReference>HT71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gliders">
+    <PageReference>HT231-232</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Global Positioning System receivers">
+    <PageReference>HT53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gloves">
+    <PageReference>HT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glowsticks">
+    <PageReference>HT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GMC CCKW-353">
+    <PageReference>HT239</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Go-bars">
+    <PageReference>HT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goggles">
+    <PageReference>HT71</PageReference>
+    <Child ReferenceText="night-vision">
+      <PageReference>HT48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gorilla bars">
+    <PageReference>HT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GORP">
+    <PageReference>HT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GPS">
+    <PageReference>HT53</PageReference>
+    <PageReference>HT245</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gramophones">
+    <PageReference>HT41</PageReference>
+    <PageReference>HT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grappling hooks">
+    <PageReference>HT55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gray markets">
+    <PageReference>HT8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grinders">
+    <PageReference>HT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grooming kits">
+    <PageReference>HT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Group mess kits">
+    <PageReference>HT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grumman G-21A Goose">
+    <PageReference>HT235</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun cases">
+    <PageReference>HT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun fu">
+    <PageReference>HT252</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun Perks">
+    <PageReference>HT249-250</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun ports">
+    <PageReference>HT228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun techniques">
+    <PageReference>HT250-252</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun-cleaning kits">
+    <PageReference>HT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns/TL skill">
+    <PageReference>HT250</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunslinger advantage">
+    <PageReference>HT249</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>HT7</PageReference>
+    <PageReference>HT10</PageReference>
+    <PageReference>HT173</PageReference>
+    <Child ReferenceText="Alternate Earths">
+      <PageReference>HT79</PageReference>
+    </Child>
+    <Child ReferenceText="Autoduel">
+      <PageReference>HT79</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>HT55</PageReference>
+      <PageReference>HT69</PageReference>
+      <PageReference>HT84</PageReference>
+    </Child>
+    <Child ReferenceText="BioTech">
+      <PageReference>HT218</PageReference>
+      <PageReference>HT225</PageReference>
+    </Child>
+    <Child ReferenceText="Infinite Worlds">
+      <PageReference>HT79</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>HT162</PageReference>
+      <PageReference>HT196</PageReference>
+      <PageReference>HT197</PageReference>
+      <PageReference>HT199</PageReference>
+      <PageReference>HT252</PageReference>
+    </Child>
+    <Child ReferenceText="Mysteries">
+      <PageReference>HT216</PageReference>
+    </Child>
+    <Child ReferenceText="Steampunk">
+      <PageReference>HT97</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hacksaws">
+    <PageReference>HT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hammers">
+    <PageReference>HT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hand rams">
+    <PageReference>HT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hand sanitizer gel">
+    <PageReference>HT221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Handbags">
+    <PageReference>HT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Handcuffs">
+    <PageReference>HT217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Handloading and reloading ammunition">
+    <PageReference>HT174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hang-gliders">
+    <PageReference>HT232</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard-hat diving gear">
+    <PageReference>HT73-74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hardtack">
+    <PageReference>HT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hasty solutions">
+    <SeeAlso>Dirty tech</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Hats">
+    <PageReference>HT64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Headgear">
+    <PageReference>HT64</PageReference>
+    <PageReference>HT69-70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Headphones">
+    <PageReference>HT40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Headsets">
+    <PageReference>HT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heads-Up Displays">
+    <PageReference>HT21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hearing aids">
+    <PageReference>HT226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hearing distance table">
+    <PageReference>HT158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helicopters">
+    <PageReference>HT240-241</PageReference>
+    <SeeAlso>Airplanes</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Heliographs">
+    <PageReference>HT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High explosive (HE) projectiles">
+    <PageReference>HT103</PageReference>
+    <PageReference>HT143</PageReference>
+    <PageReference>HT169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High-explosive antitank (HEAT) projectiles">
+    <PageReference>HT103</PageReference>
+    <PageReference>HT170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High-explosive dual-purpose (HEDP) projectiles">
+    <PageReference>HT143</PageReference>
+    <PageReference>HT170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High-explosive squash-head (HESH) projectiles">
+    <PageReference>HT170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High-Mobility Mutlipurpose Wheeled Vehicle">
+    <PageReference>HT242-243</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hip flasks">
+    <PageReference>HT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit location rule option">
+    <PageReference>HT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HMMWV">
+    <PageReference>HT242-243</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hobo knives">
+    <PageReference>HT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hollow-point (HP) projectiles">
+    <PageReference>HT166-167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holsters">
+    <PageReference>HT153-154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hotplates">
+    <PageReference>HT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HUDs">
+    <PageReference>HT21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hughes OH-6A Cayuse">
+    <PageReference>HT241</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hydraulic door openers">
+    <PageReference>HT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hydrocarbon fuel">
+    <PageReference>HT16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hydroelectricity">
+    <PageReference>HT15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hydrophones">
+    <PageReference>HT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperbaric chambers">
+    <PageReference>HT223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ice">
+    <PageReference>HT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ice and snow gear">
+    <PageReference>HT55-56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iceboxes">
+    <PageReference>HT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Identity verification systems">
+    <PageReference>HT205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IFF (identify friend or foe) equipment">
+    <PageReference>HT229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illumination projectiles">
+    <PageReference>HT143</PageReference>
+    <PageReference>HT171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immediate Action">
+    <Child ReferenceText="technique">
+      <PageReference>HT251</PageReference>
+    </Child>
+    <Child ReferenceText="rules">
+      <PageReference>HT81</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Incendiary (I) projectile upgrade">
+    <PageReference>HT175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infiltration pods">
+    <PageReference>HT61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infrared">
+    <SeeAlso>Infraredsuppressing ponchos</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Infrared-suppressing ponchos">
+    <PageReference>HT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insect repellant">
+    <PageReference>HT221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Instant Arsenal Disarm technique">
+    <PageReference>HT251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Internal combustion engines">
+    <PageReference>HT14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Internet">
+    <PageReference>HT20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intrusion-detection systems">
+    <PageReference>HT205-206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intubation kits">
+    <PageReference>HT219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inverters (power)">
+    <PageReference>HT14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invisible ink">
+    <PageReference>HT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IR">
+    <Child ReferenceText="illumination">
+      <PageReference>HT47</PageReference>
+    </Child>
+    <Child ReferenceText="motion detectors">
+      <PageReference>HT206</PageReference>
+      <PageReference>HT77</PageReference>
+    </Child>
+    <Child ReferenceText="camouflage net">
+      <PageReference>HT77</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron lungs">
+    <PageReference>HT222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Irradiated thallium">
+    <PageReference>HT227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Isolation domes">
+    <PageReference>HT222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jacket boilers">
+    <PageReference>HT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jackhammers">
+    <PageReference>HT26</PageReference>
+    <PageReference>HT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jacks">
+    <PageReference>HT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jammers">
+    <PageReference>HT212-213</PageReference>
+    <Child ReferenceText="cell phone">
+      <PageReference>HT213</PageReference>
+    </Child>
+    <Child ReferenceText="radio">
+      <PageReference>HT212-213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jeeps">
+    <PageReference>HT236-237</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jerky (food)">
+    <PageReference>HT33</PageReference>
+    <PageReference>HT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Junkers J">
+    <Child ReferenceText="I">
+      <PageReference>HT233</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kayaks">
+    <PageReference>HT230-231</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kerosene">
+    <PageReference>HT16</PageReference>
+    <Child ReferenceText="dirty-tech refining">
+      <PageReference>HT16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kettles">
+    <PageReference>HT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Keyboard bugs">
+    <PageReference>HT215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kinetic-energy projectiles">
+    <PageReference>HT166-169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kitchens, field">
+    <PageReference>HT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knock-knock guns">
+    <PageReference>HT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Krupp Panzer IV Ausf H">
+    <PageReference>HT238-239</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laboratories">
+    <PageReference>HT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ladders">
+    <PageReference>HT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lanterns">
+    <PageReference>HT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lanyards">
+    <PageReference>HT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laser communicators">
+    <PageReference>HT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="LBE">
+    <SeeAlso>Load-bearing equipment</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Lead poisoning">
+    <PageReference>HT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leg irons">
+    <PageReference>HT217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legality and antiques">
+    <PageReference>HT8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Letter copiers">
+    <PageReference>HT18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Libraries">
+    <PageReference>HT17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lie detection">
+    <PageReference>HT215-216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Life jackets">
+    <PageReference>HT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Life rafts">
+    <PageReference>HT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lift bag kits">
+    <PageReference>HT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifting device, personal">
+    <PageReference>HT56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light-cased ammunition">
+    <PageReference>HT164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lights">
+    <PageReference>HT51-52</PageReference>
+    <PageReference>HT156</PageReference>
+    <PageReference>HT228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limp-wristing">
+    <PageReference>HT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Liners (boats)">
+    <PageReference>HT35-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Linked weapons">
+    <PageReference>HT229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Liquid projectiles">
+    <PageReference>HT171-172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Liquid projectors">
+    <PageReference>HT178-180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Litter for wounded">
+    <PageReference>HT221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="LMZ Il-103">
+    <PageReference>HT243</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Load-bearing">
+    <Child ReferenceText="gear">
+      <PageReference>HT53-55</PageReference>
+    </Child>
+    <Child ReferenceText="vests">
+      <PageReference>HT54</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>HT54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lock busters">
+    <PageReference>HT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lockpicks">
+    <PageReference>HT213</PageReference>
+    <Child ReferenceText="gun">
+      <PageReference>HT213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Locks">
+    <Child ReferenceText="mechanical">
+      <PageReference>HT203</PageReference>
+    </Child>
+    <Child ReferenceText="electronic">
+      <PageReference>HT204</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Long coats">
+    <PageReference>HT64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low explosive projectiles">
+    <PageReference>HT169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="LP records">
+    <PageReference>HT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lunch boxes">
+    <PageReference>HT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lyophilization">
+    <PageReference>HT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magazines for guns">
+    <Child ReferenceText="extended">
+      <PageReference>HT155</PageReference>
+    </Child>
+    <Child ReferenceText="modifications">
+      <PageReference>HT155</PageReference>
+    </Child>
+    <Child ReferenceText="clamped">
+      <PageReference>HT155</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnetic tape">
+    <PageReference>HT22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnifying glasses">
+    <PageReference>HT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mail">
+    <Child ReferenceText="security spray">
+      <PageReference>HT209</PageReference>
+    </Child>
+    <Child ReferenceText="delivery">
+      <PageReference>HT35-36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Maintaining gadgets">
+    <PageReference>HT9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maps">
+    <PageReference>HT52-53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marching cross-country">
+    <PageReference>HT55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Matches">
+    <PageReference>HT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Match-grade ammunition upgrade">
+    <PageReference>HT165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MDHC AH-6J Little Bird">
+    <PageReference>HT241</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meal heaters">
+    <PageReference>HT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meals, Ready to Eat">
+    <PageReference>HT34</PageReference>
+    <PageReference>HT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mechanical generators">
+    <PageReference>HT14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mechanical music">
+    <PageReference>HT41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical Tech Levels, overview">
+    <PageReference>HT219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical">
+    <Child ReferenceText="diagnostic instruments">
+      <PageReference>HT221-223</PageReference>
+    </Child>
+    <Child ReferenceText="emergency equipment">
+      <PageReference>HT219-221</PageReference>
+    </Child>
+    <Child ReferenceText="general equipment">
+      <PageReference>HT221-223</PageReference>
+    </Child>
+    <Child ReferenceText="imaging equipment">
+      <PageReference>HT222-223</PageReference>
+    </Child>
+    <Child ReferenceText="oxygen">
+      <PageReference>HT219</PageReference>
+    </Child>
+    <Child ReferenceText="supplies">
+      <PageReference>HT223</PageReference>
+    </Child>
+    <Child ReferenceText="assistance kits">
+      <PageReference>HT220-221</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Metal detectors">
+    <PageReference>HT50</PageReference>
+    <PageReference>HT206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microphones">
+    <PageReference>HT50</PageReference>
+    <PageReference>HT39-41</PageReference>
+    <PageReference>HT208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microwaves">
+    <PageReference>HT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mini-DV cassette">
+    <PageReference>HT44</PageReference>
+    <SeeAlso>Camcorders</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Minié balls">
+    <PageReference>HT109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mini-manufacturing workshop">
+    <PageReference>HT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modifying equipment">
+    <PageReference>HT9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monoplanes">
+    <PageReference>HT235</PageReference>
+    <PageReference>HT237</PageReference>
+    <PageReference>HT243</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Morphine">
+    <PageReference>HT226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounted Shooting technique">
+    <PageReference>HT251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounts for firearms">
+    <PageReference>HT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Movie cameras">
+    <PageReference>HT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MREs">
+    <PageReference>HT34</PageReference>
+    <PageReference>HT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MRI scanners">
+    <PageReference>HT223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mule pills">
+    <PageReference>HT214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-ball loads">
+    <PageReference>HT173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-flechette (MF)">
+    <PageReference>HT103</PageReference>
+    <PageReference>HT143</PageReference>
+    <PageReference>HT174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple loads">
+    <PageReference>HT172-174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-stage high-explosive antitank (MS-HEAT) projectiles">
+    <PageReference>HT170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-tools">
+    <PageReference>HT26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NAA P-51D Mustang IV">
+    <PageReference>HT238</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nail guns">
+    <PageReference>HT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Navigation instruments">
+    <PageReference>HT52-53</PageReference>
+    <Child ReferenceText="kits">
+      <PageReference>HT53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="NBC">
+    <Child ReferenceText="suits">
+      <PageReference>HT75</PageReference>
+    </Child>
+    <Child ReferenceText="detectors">
+      <PageReference>HT49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Net grenade">
+    <PageReference>HT143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NODs">
+    <PageReference>HT48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Notebooks">
+    <PageReference>HT17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nuclear weapons">
+    <PageReference>HT195-196</PageReference>
+    <PageReference>HT196</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NVGs">
+    <PageReference>HT48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oil, crude">
+    <PageReference>HT16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-Armed Bandit Gun Perk">
+    <PageReference>HT249</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Opel-Blitz Typ S">
+    <PageReference>HT239</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Operating theaters">
+    <PageReference>HT224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Optical disks">
+    <PageReference>HT22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Optical recognition software">
+    <PageReference>HT207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Optics (sensors)">
+    <PageReference>HT47</PageReference>
+    <Child ReferenceText="nightvision">
+      <PageReference>HT47-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Otological reflectors">
+    <PageReference>HT222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Otoscopes">
+    <PageReference>HT222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outlawed goods">
+    <PageReference>HT9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Packs">
+    <SeeAlso>Bags</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Panhard AML60-7">
+    <PageReference>HT240</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pan-tilt-zoom video aiming systems">
+    <PageReference>HT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pants-Positive Safety Gun Perk">
+    <PageReference>HT249</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paper">
+    <PageReference>HT19</PageReference>
+    <Child ReferenceText="special security">
+      <PageReference>HT212</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Paperclips">
+    <PageReference>HT19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parachutes">
+    <PageReference>HT61</PageReference>
+    <PageReference>HT232</PageReference>
+    <Child ReferenceText="containers">
+      <PageReference>HT61</PageReference>
+    </Child>
+    <Child ReferenceText="delivery by">
+      <PageReference>HT61</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>HT60-61</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Parachutists and dispatching ground targets">
+    <PageReference>HT61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pemmican">
+    <PageReference>HT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pens">
+    <PageReference>HT19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Percussors">
+    <PageReference>HT222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peripherals for computers">
+    <PageReference>HT21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal accessories">
+    <PageReference>HT31-32</PageReference>
+    <SeeAlso>Bags</SeeAlso>
+    <SeeAlso>Body armor</SeeAlso>
+    <SeeAlso>Clothing</SeeAlso>
+    <SeeAlso>Load-bearing equipment</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal transport platforms">
+    <PageReference>HT230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Petroleum">
+    <PageReference>HT16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phone taps">
+    <PageReference>HT208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phonographs">
+    <PageReference>HT41</PageReference>
+    <PageReference>HT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Photocopies">
+    <PageReference>HT19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pistol whipping">
+    <PageReference>HT93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pistolero">
+    <PageReference>HT84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plastic surgery">
+    <PageReference>HT225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Player pianos">
+    <PageReference>HT41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plymouth PA">
+    <PageReference>HT236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisons">
+    <PageReference>HT226</PageReference>
+    <PageReference>HT227</PageReference>
+    <PageReference>HT167</PageReference>
+    <PageReference>HT172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Polygraphs">
+    <PageReference>HT215-216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Portable covers for specialized threats">
+    <PageReference>HT72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pouches, cartridge">
+    <PageReference>HT54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power for gadgets">
+    <PageReference>HT9</PageReference>
+    <PageReference>HT13-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power tools">
+    <PageReference>HT26-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Precision Aiming technique">
+    <PageReference>HT251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Presses for printing">
+    <PageReference>HT17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressed Steel M4A1(76)W Sherman IIA">
+    <PageReference>HT239</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Printers">
+    <PageReference>HT21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Printing technology">
+    <PageReference>HT17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Projectiles">
+    <SeeAlso>Ammunition</SeeAlso>
+    <SeeAlso>Handloading and reloading ammunition</SeeAlso>
+    <SeeAlso>Shot sizes</SeeAlso>
+    <Child ReferenceText="multiple">
+      <PageReference>HT172-174</PageReference>
+    </Child>
+    <Child ReferenceText="options">
+      <PageReference>HT166-172</PageReference>
+    </Child>
+    <Child ReferenceText="upgrades">
+      <PageReference>HT174-175</PageReference>
+    </Child>
+    <Child ReferenceText="exotic">
+      <PageReference>HT168</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Propane">
+    <PageReference>HT31</PageReference>
+    <Child ReferenceText="cylinders">
+      <PageReference>HT31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Propeller fighters">
+    <PageReference>HT237-238</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prosthetics">
+    <PageReference>HT225-226</PageReference>
+    <Child ReferenceText="limbs">
+      <PageReference>HT225-226</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Proximity detectors">
+    <PageReference>HT206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychiatric drugs">
+    <PageReference>HT227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pumps">
+    <PageReference>HT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quarantine tents">
+    <PageReference>HT222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Sheathe Gun Perk">
+    <PageReference>HT249</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Shot technique">
+    <PageReference>HT252</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Swap Gun Perk">
+    <PageReference>HT250</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quill pens">
+    <PageReference>HT19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quinine">
+    <PageReference>HT226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radar">
+    <PageReference>HT46-47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation">
+    <Child ReferenceText="detectors">
+      <PageReference>HT49</PageReference>
+    </Child>
+    <Child ReferenceText="blankets">
+      <PageReference>HT72</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Radios">
+    <PageReference>HT37-39</PageReference>
+    <Child ReferenceText="accessories">
+      <PageReference>HT39</PageReference>
+    </Child>
+    <Child ReferenceText="beacons">
+      <PageReference>HT58</PageReference>
+      <PageReference>HT60</PageReference>
+      <PageReference>HT210</PageReference>
+    </Child>
+    <Child ReferenceText="broadcast">
+      <PageReference>HT44</PageReference>
+    </Child>
+    <Child ReferenceText="direction finders">
+      <PageReference>HT38-39</PageReference>
+    </Child>
+    <Child ReferenceText="intercept">
+      <PageReference>HT209</PageReference>
+    </Child>
+    <Child ReferenceText="jammers">
+      <PageReference>HT212-213</PageReference>
+    </Child>
+    <Child ReferenceText="options">
+      <PageReference>HT38-39</PageReference>
+    </Child>
+    <Child ReferenceText="sets">
+      <PageReference>HT44</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>HT38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Railroads">
+    <PageReference>HT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged Rapid Strike maneuver">
+    <PageReference>HT85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranges (cooking)">
+    <PageReference>HT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rappel kits">
+    <PageReference>HT55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rations">
+    <PageReference>HT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Razor wire">
+    <PageReference>HT204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="RDF">
+    <PageReference>HT38-39</PageReference>
+    <SeeAlso>Radio beacons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Rebreathers">
+    <PageReference>HT60</PageReference>
+    <PageReference>HT76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Records">
+    <PageReference>HT42</PageReference>
+    <Child ReferenceText="players">
+      <PageReference>HT41</PageReference>
+      <PageReference>HT42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Recreational drugs">
+    <PageReference>HT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reel-to-reel">
+    <Child ReferenceText="tapes">
+      <PageReference>HT42</PageReference>
+    </Child>
+    <Child ReferenceText="recorders">
+      <PageReference>HT41</PageReference>
+      <PageReference>HT42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Refrigeration">
+    <PageReference>HT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious symbols">
+    <PageReference>HT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reloading guns">
+    <PageReference>HT86-88</PageReference>
+    <Child ReferenceText="aids">
+      <PageReference>HT155</PageReference>
+    </Child>
+    <Child ReferenceText="belt or strip feed">
+      <PageReference>HT88</PageReference>
+    </Child>
+    <Child ReferenceText="break-open revolver">
+      <PageReference>HT87</PageReference>
+    </Child>
+    <Child ReferenceText="breechloading">
+      <PageReference>HT86</PageReference>
+      <PageReference>HT87</PageReference>
+    </Child>
+    <Child ReferenceText="careful loading of muzzleloaders">
+      <PageReference>HT86</PageReference>
+    </Child>
+    <Child ReferenceText="detachable magazine">
+      <PageReference>HT87</PageReference>
+    </Child>
+    <Child ReferenceText="fixed ammo">
+      <PageReference>HT87-88</PageReference>
+    </Child>
+    <Child ReferenceText="gateloading revolver">
+      <PageReference>HT87</PageReference>
+    </Child>
+    <Child ReferenceText="internal magazine">
+      <PageReference>HT87</PageReference>
+    </Child>
+    <Child ReferenceText="multi-part ammo">
+      <PageReference>HT86</PageReference>
+    </Child>
+    <Child ReferenceText="muzzleloading">
+      <PageReference>HT86</PageReference>
+    </Child>
+    <Child ReferenceText="one in the chamber">
+      <PageReference>HT88</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Remote-controlled weapons">
+    <PageReference>HT205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Renault FT17">
+    <PageReference>HT234-235</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repairing gadgets">
+    <PageReference>HT9</PageReference>
+    <PageReference>HT24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rescue">
+    <SeeAlso>Body armor</SeeAlso>
+    <SeeAlso>Environmental protection</SeeAlso>
+    <SeeAlso>Hand tools</SeeAlso>
+    <SeeAlso>Power tools</SeeAlso>
+    <Child ReferenceText="hoists">
+      <PageReference>HT30</PageReference>
+    </Child>
+    <Child ReferenceText="signaling devices">
+      <PageReference>HT58</PageReference>
+    </Child>
+    <Child ReferenceText="spreader/cutters">
+      <PageReference>HT30</PageReference>
+    </Child>
+    <Child ReferenceText="tools">
+      <PageReference>HT29-30</PageReference>
+    </Child>
+    <Child ReferenceText="beacons">
+      <PageReference>HT56</PageReference>
+      <PageReference>HT58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Restraints">
+    <PageReference>HT217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retinal scanners">
+    <PageReference>HT205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retort packaging">
+    <PageReference>HT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ricin">
+    <PageReference>HT227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rock drills">
+    <PageReference>HT26</PageReference>
+    <PageReference>HT55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rocket belts">
+    <PageReference>HT232</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rolls-Royce Phantom II">
+    <PageReference>HT236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ropes">
+    <PageReference>HT56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="RP manufacturing">
+    <PageReference>HT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rubber shot">
+    <PageReference>HT103</PageReference>
+    <PageReference>HT143</PageReference>
+    <PageReference>HT174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruggedized equipment">
+    <PageReference>HT10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sadler Piranha">
+    <PageReference>HT243</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Safes">
+    <PageReference>HT203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Salt tablets">
+    <PageReference>HT221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Satellite phones">
+    <PageReference>HT39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Satellites, imagery">
+    <PageReference>HT207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saw mills">
+    <PageReference>HT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saws">
+    <PageReference>HT25</PageReference>
+    <PageReference>HT27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scabbards">
+    <PageReference>HT153-154</PageReference>
+    <SeeAlso>Sheaths for blades optional rule</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="SCBA masks">
+    <PageReference>HT72-73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scent masking">
+    <PageReference>HT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Schtick Gun Perk">
+    <PageReference>HT250</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Screening systems">
+    <PageReference>HT206-207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scuba">
+    <Child ReferenceText="masks">
+      <PageReference>HT73</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>HT60</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Searchlights for vehicles">
+    <PageReference>HT228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret Internet Protocol Router Network">
+    <PageReference>HT20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Security">
+    <Child ReferenceText="systems">
+      <PageReference>HT205-207</PageReference>
+    </Child>
+    <Child ReferenceText="document scanners">
+      <PageReference>HT209</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sedans">
+    <PageReference>HT235-236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seismic detectors">
+    <PageReference>HT206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-contained breaking apparatus">
+    <PageReference>HT72-73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-destruct (-SD) projectile upgrade">
+    <PageReference>HT175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Semi-armor-piercing finstabilized discarding-sabot (SAPFSDS) projectiles">
+    <PageReference>HT168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Semi-armor-piercing high explosive (SAPHE) projectiles">
+    <PageReference>HT169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Semi-armor-piercing highexplosive concussion (SAPHEC) projectiles">
+    <PageReference>HT169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Semi-armor-piercing low explosive (SAPLE) projectiles">
+    <PageReference>HT169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensors">
+    <Child ReferenceText="indirect passive">
+      <PageReference>HT48-50</PageReference>
+    </Child>
+    <Child ReferenceText="passive visual">
+      <PageReference>HT47-48</PageReference>
+    </Child>
+    <Child ReferenceText="active">
+      <PageReference>HT45-47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sewing">
+    <Child ReferenceText="machines">
+      <PageReference>HT26-27</PageReference>
+    </Child>
+    <Child ReferenceText="kits">
+      <PageReference>HT31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sheaths for blades optional rule">
+    <PageReference>HT198</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shelters">
+    <PageReference>HT56-57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sherman tanks">
+    <PageReference>HT239</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shielded rooms">
+    <PageReference>HT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <PageReference>HT71-72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shooting sticks">
+    <PageReference>HT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shooting weapons">
+    <PageReference>HT82-86</PageReference>
+    <Child ReferenceText="into the air">
+      <PageReference>HT85</PageReference>
+    </Child>
+    <Child ReferenceText="in space">
+      <PageReference>HT85</PageReference>
+    </Child>
+    <Child ReferenceText="into water">
+      <PageReference>HT85</PageReference>
+    </Child>
+    <Child ReferenceText="sustained fire">
+      <PageReference>HT85-86</PageReference>
+    </Child>
+    <Child ReferenceText="underwater">
+      <PageReference>HT85</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shotshell">
+    <PageReference>HT143</PageReference>
+    <PageReference>HT173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shovels">
+    <PageReference>HT25</PageReference>
+    <PageReference>HT26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Showers, camp">
+    <PageReference>HT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shrapnel">
+    <PageReference>HT173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sights for firearms">
+    <PageReference>HT155-157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SIGINT">
+    <PageReference>HT209</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signal mirrors">
+    <PageReference>HT58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signals intelligence monitoring">
+    <PageReference>HT209</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signature pads">
+    <PageReference>HT205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silencers">
+    <PageReference>HT159</PageReference>
+    <SeeAlso>Sound suppressors for firearms</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Silent ammunition">
+    <PageReference>HT103</PageReference>
+    <PageReference>HT143</PageReference>
+    <Child ReferenceText="upgrade">
+      <PageReference>HT165</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Single-lens reflex cameras">
+    <PageReference>HT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SIPRNET">
+    <PageReference>HT20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skateboards">
+    <PageReference>HT230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skin-diving equipment">
+    <PageReference>HT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skis">
+    <PageReference>HT56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skytales">
+    <PageReference>HT211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sledgehammers">
+    <PageReference>HT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleeping bags">
+    <PageReference>HT56</PageReference>
+    <PageReference>HT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slide rules">
+    <PageReference>HT18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slide-locks">
+    <PageReference>HT161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slings">
+    <PageReference>HT153-154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SLR cameras">
+    <PageReference>HT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smoke">
+    <Child ReferenceText="projectiles">
+      <PageReference>HT143</PageReference>
+      <PageReference>HT171</PageReference>
+    </Child>
+    <Child ReferenceText="dischargers">
+      <PageReference>HT229</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smuggler’s luggage">
+    <PageReference>HT215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snacks">
+    <PageReference>HT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snares">
+    <PageReference>HT58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snorkel">
+    <PageReference>HT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snow gear">
+    <PageReference>HT55-56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snowshoes">
+    <PageReference>HT56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soap">
+    <PageReference>HT221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Software">
+    <PageReference>HT22</PageReference>
+    <PageReference>HT207</PageReference>
+    <PageReference>HT210-211</PageReference>
+    <SeeAlso>Computers</SeeAlso>
+    <Child ReferenceText="program cost table">
+      <PageReference>HT22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Solar">
+    <Child ReferenceText="reflectors">
+      <PageReference>HT58</PageReference>
+    </Child>
+    <Child ReferenceText="panels">
+      <PageReference>HT15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Solid projectiles">
+    <PageReference>HT166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sonar">
+    <PageReference>HT45-46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sonobuoys">
+    <PageReference>HT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sound baffling for vehicles">
+    <PageReference>HT229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sound">
+    <Child ReferenceText="suppressors for firearms">
+      <PageReference>HT158-159</PageReference>
+      <PageReference>HT246</PageReference>
+    </Child>
+    <Child ReferenceText="detectors">
+      <PageReference>HT49-50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Soups">
+    <PageReference>HT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Space suits">
+    <PageReference>HT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spanner wrenches">
+    <PageReference>HT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speedloaders">
+    <PageReference>HT155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sphygmomanometers">
+    <PageReference>HT222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spike strips">
+    <PageReference>HT204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spotlights">
+    <PageReference>HT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spotting scopes">
+    <PageReference>HT47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spyglasses">
+    <PageReference>HT47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stagecoaches">
+    <PageReference>HT232-233</PageReference>
+    <Child ReferenceText="traveling by">
+      <PageReference>HT232</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stake pits">
+    <PageReference>HT203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steam power generators">
+    <PageReference>HT14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steamer trunks">
+    <PageReference>HT53</PageReference>
+    <PageReference>HT215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steamers (vessels)">
+    <PageReference>HT35-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steam-powered tools">
+    <PageReference>HT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stethoscopes">
+    <PageReference>HT213</PageReference>
+    <PageReference>HT222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stock tickers">
+    <PageReference>HT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stocks for firearms">
+    <PageReference>HT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stokes litters">
+    <PageReference>HT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stoves">
+    <PageReference>HT32</PageReference>
+    <PageReference>HT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Straitjackets">
+    <PageReference>HT217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strobe markers">
+    <PageReference>HT58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strychnine">
+    <PageReference>HT227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Styling for equipment">
+    <PageReference>HT10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subminiature cameras">
+    <PageReference>HT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subsonic ammunition upgrade">
+    <PageReference>HT165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suction cups">
+    <PageReference>HT56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sunscreen">
+    <PageReference>HT221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superglue">
+    <PageReference>HT26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sure-Footed Gun Perk">
+    <PageReference>HT250</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surfboards">
+    <PageReference>HT231</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surgical">
+    <Child ReferenceText="theaters">
+      <PageReference>HT224</PageReference>
+    </Child>
+    <Child ReferenceText="tools">
+      <PageReference>HT223-224</PageReference>
+    </Child>
+    <Child ReferenceText="lasers">
+      <PageReference>HT224</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Surveillance">
+    <SeeAlso>A/V</SeeAlso>
+    <SeeAlso>Sensors</SeeAlso>
+    <Child ReferenceText="cameras">
+      <PageReference>HT48</PageReference>
+    </Child>
+    <Child ReferenceText="devices">
+      <PageReference>HT208-210</PageReference>
+    </Child>
+    <Child ReferenceText="visual">
+      <PageReference>HT209-210</PageReference>
+    </Child>
+    <Child ReferenceText="audio">
+      <PageReference>HT208</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Surveying instruments">
+    <PageReference>HT53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival gear">
+    <PageReference>HT56-59</PageReference>
+    <SeeAlso>Foodstuffs</SeeAlso>
+    <Child ReferenceText="kits">
+      <PageReference>HT58-59</PageReference>
+    </Child>
+    <Child ReferenceText="tablets">
+      <PageReference>HT35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Survivalist food caches">
+    <PageReference>HT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suturing kit">
+    <PageReference>HT224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swim fins">
+    <PageReference>HT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactical lights">
+    <PageReference>HT52</PageReference>
+    <PageReference>HT156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tanks">
+    <PageReference>HT234-235</PageReference>
+    <PageReference>HT238-239</PageReference>
+    <PageReference>HT244</PageReference>
+    <Child ReferenceText="riding in">
+      <PageReference>HT234</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tape recorders, open">
+    <PageReference>HT41</PageReference>
+    <PageReference>HT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Targeted Attack technique">
+    <PageReference>HT252</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Targeting lasers">
+    <PageReference>HT156-157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tarps">
+    <PageReference>HT56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TDS tester">
+    <PageReference>HT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tear gas projectiles">
+    <PageReference>HT103</PageReference>
+    <PageReference>HT143</PageReference>
+    <PageReference>HT171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teas">
+    <PageReference>HT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech-Level specialization">
+    <PageReference>HT11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telegraphs">
+    <PageReference>HT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telephones">
+    <PageReference>HT36-37</PageReference>
+    <SeeAlso>Cell phones</SeeAlso>
+    <SeeAlso>Radios</SeeAlso>
+    <SeeAlso>Satellite phones</SeeAlso>
+    <Child ReferenceText="taps">
+      <PageReference>HT208</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Telephoto lens">
+    <PageReference>HT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telescopes">
+    <PageReference>HT47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teletypes">
+    <PageReference>HT37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Televisions">
+    <PageReference>HT44-45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature guns">
+    <PageReference>HT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tents">
+    <PageReference>HT56-57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terminals (computer)">
+    <PageReference>HT21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thermal imagers">
+    <PageReference>HT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thermal-imaging sensors">
+    <PageReference>HT48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thermobaric projectiles">
+    <PageReference>HT143</PageReference>
+    <PageReference>HT170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thermographs">
+    <PageReference>HT48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thermometers, clinical">
+    <PageReference>HT221-222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thermos bottles">
+    <PageReference>HT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thumbing firearms">
+    <PageReference>HT83</PageReference>
+    <PageReference>HT84</PageReference>
+    <Child ReferenceText="technique">
+      <PageReference>HT252</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Time">
+    <Child ReferenceText="fuses">
+      <PageReference>HT187</PageReference>
+    </Child>
+    <Child ReferenceText="pencils">
+      <PageReference>HT188</PageReference>
+    </Child>
+    <Child ReferenceText="clocks">
+      <PageReference>HT188</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Timeline">
+    <PageReference>HT6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tires">
+    <PageReference>HT229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TL5: The Industrial Revolution">
+    <PageReference>HT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TL6: The Mechanized Age">
+    <PageReference>HT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TL7: The Nuclear Age">
+    <PageReference>HT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TL8: The Digital Age">
+    <PageReference>HT6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toasters">
+    <PageReference>HT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tobacco">
+    <PageReference>HT34</PageReference>
+    <Child ReferenceText="boxes">
+      <PageReference>HT31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Toilets, chemical">
+    <PageReference>HT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tool kits">
+    <PageReference>HT24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Torches">
+    <PageReference>HT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Towels">
+    <PageReference>HT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracer (-T) projectile upgrade">
+    <PageReference>HT175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracheotomy kits">
+    <PageReference>HT219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracking devices">
+    <PageReference>HT210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traditional food-preservation methods">
+    <PageReference>HT33</PageReference>
+    <SeeAlso>Refrigeration</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Trail food">
+    <PageReference>HT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trapping kits">
+    <PageReference>HT58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps">
+    <PageReference>HT202</PageReference>
+    <PageReference>HT203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trauma plates">
+    <PageReference>HT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel bags">
+    <PageReference>HT54</PageReference>
+    <PageReference>HT215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trigger mechanisms">
+    <PageReference>HT82</PageReference>
+    <PageReference>HT245</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tripods">
+    <Child ReferenceText="for firearms">
+      <PageReference>HT160</PageReference>
+    </Child>
+    <Child ReferenceText="for cameras">
+      <PageReference>HT43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tripwires">
+    <PageReference>HT203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tritium illuminator">
+    <PageReference>HT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trucks, cargo">
+    <PageReference>HT239</PageReference>
+    <SeeAlso>HHMMWV</SeeAlso>
+    <SeeAlso>Jeeps</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Truth serum">
+    <PageReference>HT227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turnout gear">
+    <PageReference>HT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turrets">
+    <PageReference>HT228-229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-Handing Thumbing technique">
+    <PageReference>HT252</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Typewriters">
+    <PageReference>HT19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultrasound">
+    <PageReference>HT223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Umbrellas">
+    <PageReference>HT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Undercover clothing">
+    <PageReference>HT64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Underwater">
+    <Child ReferenceText="darts">
+      <PageReference>HT169</PageReference>
+    </Child>
+    <Child ReferenceText="housing for cameras">
+      <PageReference>HT43</PageReference>
+    </Child>
+    <Child ReferenceText="shooting weapons">
+      <PageReference>HT85</PageReference>
+    </Child>
+    <Child ReferenceText="communicator">
+      <PageReference>HT40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Uniflite PBR MK 2">
+    <PageReference>HT241-242</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uralvagonzavod T-72A">
+    <PageReference>HT244</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vacuum cleaners">
+    <PageReference>HT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <PageReference>HT232-244</PageReference>
+    <Child ReferenceText="availability of combat">
+      <PageReference>HT229</PageReference>
+    </Child>
+    <Child ReferenceText="components">
+      <PageReference>HT228-229</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ventilators">
+    <PageReference>HT219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="VHS cassette">
+    <PageReference>HT44</PageReference>
+    <SeeAlso>Camcorders</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Video">
+    <Child ReferenceText="storage media">
+      <PageReference>HT44</PageReference>
+    </Child>
+    <Child ReferenceText="storage, recording, and playback">
+      <PageReference>HT42-44</PageReference>
+    </Child>
+    <Child ReferenceText="accessories">
+      <PageReference>HT43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Video bugs">
+    <PageReference>HT209-210</PageReference>
+    <SeeAlso>Bug detectors</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Vision-improving surgery">
+    <PageReference>HT225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vitamin pills">
+    <PageReference>HT221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voice">
+    <Child ReferenceText="stress analyzers">
+      <PageReference>HT216</PageReference>
+    </Child>
+    <Child ReferenceText="modulators">
+      <PageReference>HT212</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Voiceprint analyzers">
+    <PageReference>HT205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Waffle irons">
+    <PageReference>HT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Waist packs">
+    <PageReference>HT31</PageReference>
+    <PageReference>HT54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warheads">
+    <SeeAlso>Ammunition</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Washing machines">
+    <PageReference>HT32</PageReference>
+    <PageReference>HT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Watches">
+    <PageReference>HT31-32</PageReference>
+    <PageReference>HT53</PageReference>
+    <Child ReferenceText="camera">
+      <PageReference>HT43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Water, bottles">
+    <PageReference>HT53</PageReference>
+    <PageReference>HT53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water-processing equipment">
+    <PageReference>HT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wax cylinders">
+    <PageReference>HT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Way of the Pistol martial arts style">
+    <PageReference>HT252</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Bond perk">
+    <PageReference>HT7</PageReference>
+    <PageReference>HT250</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weather station">
+    <PageReference>HT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Web gear">
+    <PageReference>HT54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wet-plate cameras">
+    <PageReference>HT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wetsuit">
+    <PageReference>HT76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wet-weather gear">
+    <PageReference>HT64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whetstones">
+    <PageReference>HT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whistles">
+    <PageReference>HT58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="White noise generators">
+    <PageReference>HT213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="White phosphorus (WP) projectiles">
+    <PageReference>HT172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wicking undergarment">
+    <PageReference>HT64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Willys CJ-5">
+    <PageReference>HT237</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Willys MB">
+    <PageReference>HT236-237</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Windmills">
+    <PageReference>HT15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wire cutters">
+    <PageReference>HT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wire rat gear">
+    <PageReference>HT209</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wire recorders">
+    <PageReference>HT41</PageReference>
+    <PageReference>HT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wire reels">
+    <PageReference>HT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wiretaps">
+    <PageReference>HT208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wood fuel">
+    <PageReference>HT15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Workshops">
+    <PageReference>HT24</PageReference>
+    <SeeAlso>Computer-aided manufacturing</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="World Wide Web">
+    <PageReference>HT20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wounding rules">
+    <PageReference>HT162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Writing supplies">
+    <PageReference>HT19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="X-ray machines">
+    <PageReference>HT206-207</PageReference>
+    <PageReference>HT217</PageReference>
+    <PageReference>HT222-223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zen Marksmanship skill">
+    <PageReference>HT250</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ZiS-5">
+    <PageReference>HT239</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="25-lb MK II">
+    <PageReference>HT194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="82-BM-37">
+    <PageReference>HT145-146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="100-lb">
+    <Child ReferenceText="GP AN-M30">
+      <PageReference>HT194</PageReference>
+      <PageReference>HT195</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="120-PM-38">
+    <PageReference>HT146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="250-lb">
+    <Child ReferenceText="GP MK 81">
+      <PageReference>HT194</PageReference>
+      <PageReference>HT195</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="500-lb">
+    <Child ReferenceText="CBU-55/B">
+      <PageReference>HT194</PageReference>
+      <PageReference>HT195</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="500-lb">
+    <Child ReferenceText="GP MK 82">
+      <PageReference>HT194</PageReference>
+      <PageReference>HT195</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="AAI XM19 Serial Flechette Rifle">
+    <PageReference>HT116</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accuracy International AW">
+    <PageReference>HT118-119</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accuracy Systems M452 Stringball">
+    <PageReference>HT192</PageReference>
+    <PageReference>HT193</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerosols, targeting with">
+    <PageReference>HT180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aérospatiale SS.11">
+    <PageReference>HT151</PageReference>
+    <PageReference>HT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air guns">
+    <PageReference>HT88-89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alkan MMN">
+    <PageReference>HT194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allen pepperbox">
+    <PageReference>HT92</PageReference>
+    <PageReference>HT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AMC AN-M8">
+    <PageReference>HT192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AMC AN-M14">
+    <PageReference>HT192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AMC M17">
+    <PageReference>HT193</PageReference>
+    <PageReference>HT194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AMC M26">
+    <PageReference>HT192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AMC M34">
+    <PageReference>HT192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AMC M67">
+    <PageReference>HT192</PageReference>
+    <PageReference>HT193</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AMC MK II">
+    <PageReference>HT191</PageReference>
+    <PageReference>HT192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AMC MK III">
+    <PageReference>HT191</PageReference>
+    <PageReference>HT192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammonium nitrate/fuel oil">
+    <PageReference>HT186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AMT Back Up">
+    <PageReference>HT100</PageReference>
+    <PageReference>HT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ANFO">
+    <PageReference>HT186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antitank weapons">
+    <SeeAlso>Light antitank weapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="APX SA17">
+    <PageReference>HT140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ARGES HG 86">
+    <PageReference>HT192</PageReference>
+    <PageReference>HT193</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arisaka Meiji 38 Shiki Shoujuu">
+    <PageReference>HT112</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ArmaLite AR-7 Explorer">
+    <PageReference>HT115-116</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armsel Striker">
+    <PageReference>HT104</PageReference>
+    <PageReference>HT106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ATK-H&amp;K M29">
+    <PageReference>HT144</PageReference>
+    <PageReference>HT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Autocannon">
+    <SeeAlso>Machine guns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Auto-Ordnance M1921">
+    <PageReference>HT122</PageReference>
+    <PageReference>HT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Axes">
+    <PageReference>HT24-25</PageReference>
+    <PageReference>HT56</PageReference>
+    <PageReference>HT196</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Baker rifles">
+    <PageReference>HT108</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barrett M82A1">
+    <PageReference>HT118</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Baton">
+    <Child ReferenceText="stun">
+      <PageReference>HT199</PageReference>
+      <PageReference>HT200</PageReference>
+    </Child>
+    <Child ReferenceText="expandable">
+      <PageReference>HT198</PageReference>
+      <PageReference>HT200</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Battleaxes">
+    <PageReference>HT196</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bayonets">
+    <PageReference>HT197</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beattie M2-2">
+    <PageReference>HT179</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beaumont-Adams Mk I">
+    <PageReference>HT93</PageReference>
+    <PageReference>HT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Benelli M1 Super 90">
+    <PageReference>HT104</PageReference>
+    <PageReference>HT106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beretta Mod 92">
+    <PageReference>HT100</PageReference>
+    <PageReference>HT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bergmann GSprgr30">
+    <PageReference>HT193</PageReference>
+    <PageReference>HT194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bergmann MP18/I">
+    <PageReference>HT122</PageReference>
+    <PageReference>HT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Black powder">
+    <Child ReferenceText="fouling">
+      <PageReference>HT86</PageReference>
+    </Child>
+    <Child ReferenceText="locks">
+      <PageReference>HT164</PageReference>
+    </Child>
+    <Child ReferenceText="making">
+      <PageReference>HT186</PageReference>
+    </Child>
+    <Child ReferenceText="as explosive">
+      <PageReference>HT183-184</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Blades">
+    <PageReference>HT196-198</PageReference>
+    <PageReference>HT200</PageReference>
+    <SeeAlso>Bayonets</SeeAlso>
+    <SeeAlso>Knives</SeeAlso>
+    <Child ReferenceText="composition">
+      <PageReference>HT198</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="BM-13-16 Katyusha">
+    <PageReference>HT150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bourges Mle 1853">
+    <PageReference>HT138</PageReference>
+    <PageReference>HT140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bows">
+    <PageReference>HT201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Briefcase guns">
+    <PageReference>HT123</PageReference>
+    <PageReference>HT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brown Bess">
+    <PageReference>HT107</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Browning Automatic Rifle">
+    <PageReference>HT112-113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Browning M1917">
+    <PageReference>HT131</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Browning M1918 BAR">
+    <PageReference>HT112-113</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Browning M1919A4">
+    <PageReference>HT132</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Browning M2HB">
+    <PageReference>HT133</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buck HAFLA DM34">
+    <PageReference>HT142</PageReference>
+    <PageReference>HT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cane rifles">
+    <PageReference>HT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannons">
+    <PageReference>HT138-141</PageReference>
+    <Child ReferenceText="innovations">
+      <PageReference>HT138</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>HT140</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>HT139</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Carl Gustaf M2">
+    <PageReference>HT148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cattle prod">
+    <PageReference>HT199</PageReference>
+    <PageReference>HT200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charleville Fusil Mle 1777">
+    <PageReference>HT107-108</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charter Arms Undercover">
+    <PageReference>HT94</PageReference>
+    <PageReference>HT96-97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cigarette pistols">
+    <PageReference>HT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="C-More M26 MASS">
+    <PageReference>HT104</PageReference>
+    <PageReference>HT107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Collier revolver">
+    <PageReference>HT92</PageReference>
+    <PageReference>HT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colt Government">
+    <PageReference>HT98-99</PageReference>
+    <PageReference>HT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colt M16A1">
+    <PageReference>HT117</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colt M1848 Dragoon">
+    <PageReference>HT93</PageReference>
+    <PageReference>HT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colt M1851 Navy">
+    <PageReference>HT93</PageReference>
+    <PageReference>HT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colt M1873 SAA">
+    <PageReference>HT94</PageReference>
+    <PageReference>HT95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colt M203">
+    <PageReference>HT142</PageReference>
+    <PageReference>HT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colt M4A1">
+    <PageReference>HT119-121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colt M79">
+    <PageReference>HT142</PageReference>
+    <PageReference>HT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colt Model 1855">
+    <PageReference>HT104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colt Model 1895">
+    <PageReference>HT130</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colt Number 5 Holster Model">
+    <PageReference>HT93</PageReference>
+    <PageReference>HT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colt Peacemaker">
+    <PageReference>HT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colt Python">
+    <PageReference>HT94</PageReference>
+    <PageReference>HT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combination weapons">
+    <PageReference>HT198-199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Condor AM-402">
+    <PageReference>HT91</PageReference>
+    <PageReference>HT199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossbows">
+    <PageReference>HT201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="CZ Samopal vzór 61 Skorpion">
+    <PageReference>HT124</PageReference>
+    <PageReference>HT125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Daewoo USAS-12">
+    <PageReference>HT104</PageReference>
+    <PageReference>HT107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Daisy Number 111 Red Ryder">
+    <PageReference>HT88</PageReference>
+    <PageReference>HT89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dan-Inject JM Standard">
+    <PageReference>HT88</PageReference>
+    <PageReference>HT89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deringer">
+    <PageReference>HT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diehl HGR DM51">
+    <PageReference>HT192</PageReference>
+    <PageReference>HT193</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dreyse M.1841">
+    <PageReference>HT108</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drillings">
+    <PageReference>HT108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="DTAT MR60CS 61">
+    <PageReference>HT140</PageReference>
+    <PageReference>HT141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="DWM FmW46">
+    <PageReference>HT179</PageReference>
+    <PageReference>HT180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dynamite">
+    <PageReference>HT184-185</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dynamit-Nobel PZF3">
+    <PageReference>HT148</PageReference>
+    <PageReference>HT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eihandgranate 39">
+    <PageReference>HT191-192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elgin Cutlass Pistol">
+    <PageReference>HT91</PageReference>
+    <PageReference>HT198-199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elswick 2">
+    <Child ReferenceText="5” RML Mk I Screw-Gun">
+      <PageReference>HT138</PageReference>
+      <PageReference>HT140</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enfield Bren Mk I">
+    <PageReference>HT133</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enfield L85A1 Individual Weapon">
+    <PageReference>HT118</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enfield P/1853">
+    <PageReference>HT108-109</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enfield SMLE Mk III">
+    <PageReference>HT112</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enfield Sten Mk II">
+    <PageReference>HT124-125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ERMA MP40">
+    <PageReference>HT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Euromissile MILAN">
+    <PageReference>HT151-152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosives">
+    <SeeAlso>Explosions and Explosives in the main index</SeeAlso>
+    <Child ReferenceText="home-cooked">
+      <PageReference>HT186</PageReference>
+    </Child>
+    <Child ReferenceText="conventional">
+      <PageReference>HT183-187</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Extrudable explosives">
+    <PageReference>HT187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FFV AT4">
+    <PageReference>HT148</PageReference>
+    <PageReference>HT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fiedler Kleif">
+    <PageReference>HT179</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearms">
+    <PageReference>HT78-161</PageReference>
+    <SeeAlso>Reloading guns and Shooting weapons in the main index</SeeAlso>
+    <Child ReferenceText="abuse of">
+      <PageReference>HT80</PageReference>
+    </Child>
+    <Child ReferenceText="age">
+      <PageReference>HT80-81</PageReference>
+    </Child>
+    <Child ReferenceText="cleaning and maintenance">
+      <PageReference>HT80</PageReference>
+    </Child>
+    <Child ReferenceText="clearing a stoppage">
+      <PageReference>HT81</PageReference>
+    </Child>
+    <Child ReferenceText="disguised">
+      <PageReference>HT98</PageReference>
+      <PageReference>HT123</PageReference>
+    </Child>
+    <Child ReferenceText="drawing">
+      <PageReference>HT81</PageReference>
+    </Child>
+    <Child ReferenceText="handling">
+      <PageReference>HT80</PageReference>
+    </Child>
+    <Child ReferenceText="immediate action">
+      <PageReference>HT81</PageReference>
+    </Child>
+    <Child ReferenceText="improvised">
+      <PageReference>HT92</PageReference>
+    </Child>
+    <Child ReferenceText="malfunctions">
+      <PageReference>HT81</PageReference>
+    </Child>
+    <Child ReferenceText="new versions of old guns">
+      <PageReference>HT90</PageReference>
+    </Child>
+    <Child ReferenceText="quality">
+      <PageReference>HT79</PageReference>
+    </Child>
+    <Child ReferenceText="treating">
+      <PageReference>HT79-81</PageReference>
+    </Child>
+    <Child ReferenceText="two-handed firing">
+      <PageReference>HT84</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Firestone M18">
+    <PageReference>HT147</PageReference>
+    <PageReference>HT148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flamethrowers">
+    <PageReference>HT178-180</PageReference>
+    <Child ReferenceText="improvised">
+      <PageReference>HT179</PageReference>
+    </Child>
+    <Child ReferenceText="malfunctions">
+      <PageReference>HT179</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>HT179</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="FN 303">
+    <PageReference>HT88</PageReference>
+    <PageReference>HT89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FN BAR Magnum">
+    <PageReference>HT117</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FN FAL">
+    <PageReference>HT115</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FN Five-seveN">
+    <PageReference>HT101</PageReference>
+    <PageReference>HT102-103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FN MAG">
+    <PageReference>HT134-135</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FN Mini-Mitrailleuse (MINIMI)">
+    <PageReference>HT136-137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FN MK 16 MOD 0">
+    <PageReference>HT121-122</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FN P90 PDW">
+    <PageReference>HT124</PageReference>
+    <PageReference>HT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FN-Browning Auto-5">
+    <PageReference>HT104</PageReference>
+    <PageReference>HT105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FN-Browning High Power">
+    <PageReference>HT99</PageReference>
+    <PageReference>HT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FN-Browning Mle 1906">
+    <PageReference>HT97-98</PageReference>
+    <PageReference>HT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foam explosive">
+    <PageReference>HT187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ford AIM-9L Sidewinder">
+    <PageReference>HT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foster-Miller WebShot Launcher">
+    <PageReference>HT144</PageReference>
+    <PageReference>HT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Franchi SPAS-12">
+    <PageReference>HT104</PageReference>
+    <PageReference>HT106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fuel-air explosives">
+    <PageReference>HT186-187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gatling guns, electric">
+    <PageReference>HT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gatling M1874">
+    <PageReference>HT127</PageReference>
+    <PageReference>HT128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gatling M1893">
+    <PageReference>HT135</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GD FIM-92A Stinger">
+    <PageReference>HT152-153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GD M307">
+    <PageReference>HT144-145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GE M134">
+    <PageReference>HT135-137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GE M1A1 Bazooka">
+    <PageReference>HT147</PageReference>
+    <PageReference>HT148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Girard LeMat">
+    <PageReference>HT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glock 17">
+    <PageReference>HT100-101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greener Elephant Rifle">
+    <PageReference>HT110</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greener Harpoon Gun">
+    <PageReference>HT138</PageReference>
+    <PageReference>HT140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grenade à Main">
+    <PageReference>HT190</PageReference>
+    <PageReference>HT192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grenade launchers">
+    <PageReference>HT142-145</PageReference>
+    <Child ReferenceText="ammo for">
+      <PageReference>HT143</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>HT145</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grenades">
+    <SeeAlso>Grenade launchers</SeeAlso>
+    <Child ReferenceText="improvised">
+      <PageReference>HT191</PageReference>
+    </Child>
+    <Child ReferenceText="types of rifle">
+      <PageReference>HT192</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>HT192</PageReference>
+      <PageReference>HT194</PageReference>
+    </Child>
+    <Child ReferenceText="types of hand">
+      <PageReference>HT190</PageReference>
+    </Child>
+    <Child ReferenceText="booby trap">
+      <PageReference>HT190</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Guide Lamp M3">
+    <PageReference>HT124</PageReference>
+    <PageReference>HT125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;H Royal Double-Express">
+    <PageReference>HT111-112</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K AG36">
+    <PageReference>HT144</PageReference>
+    <PageReference>HT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K G11">
+    <PageReference>HT119</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K G36">
+    <PageReference>HT121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K G3A3">
+    <PageReference>HT116</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K HK21A1">
+    <PageReference>HT136</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K HK69A1">
+    <PageReference>HT142</PageReference>
+    <PageReference>HT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K MP5">
+    <PageReference>HT123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K MP5A3">
+    <PageReference>HT123</PageReference>
+    <PageReference>HT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K MP5K">
+    <PageReference>HT123</PageReference>
+    <PageReference>HT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K MP5SD3">
+    <PageReference>HT123</PageReference>
+    <PageReference>HT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K MP7A1">
+    <PageReference>HT124</PageReference>
+    <PageReference>HT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K P11">
+    <PageReference>HT91-92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K UMP">
+    <PageReference>HT124</PageReference>
+    <PageReference>HT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K USP">
+    <PageReference>HT101</PageReference>
+    <PageReference>HT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K VP70">
+    <PageReference>HT100</PageReference>
+    <PageReference>HT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Haenel StG44">
+    <PageReference>HT115</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hale 9-pr Mk I">
+    <PageReference>HT150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hall M1819">
+    <PageReference>HT108</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HASAG Panzerfaust 30">
+    <PageReference>HT147</PageReference>
+    <PageReference>HT148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hawk MM1">
+    <PageReference>HT143</PageReference>
+    <PageReference>HT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HEC M72A2">
+    <PageReference>HT148</PageReference>
+    <PageReference>HT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heckler &amp; Koch">
+    <PageReference>HT245</PageReference>
+    <SeeAlso>specific H&amp;K weapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Holland &amp; Holland">
+    <PageReference>HT245</PageReference>
+    <SeeAlso>specific H&amp;H weapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Hotchkiss 1-pounder">
+    <PageReference>HT128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hotchkiss Mle 1914">
+    <PageReference>HT131</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hotchkiss-Brandt Commando">
+    <PageReference>HT146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hughes BGM-71A TOW">
+    <PageReference>HT151</PageReference>
+    <PageReference>HT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hughes M242 Bushmaster">
+    <PageReference>HT136</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IMI Desert Eagle">
+    <PageReference>HT101</PageReference>
+    <PageReference>HT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IMI Galil ARM">
+    <PageReference>HT117</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IMI Uzi">
+    <PageReference>HT124</PageReference>
+    <PageReference>HT125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incendiaries, effects of">
+    <PageReference>HT188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Individual combat weapon">
+    <PageReference>HT144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intratec TEC-9">
+    <PageReference>HT101</PageReference>
+    <PageReference>HT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ithaca Auto &amp; Burglar">
+    <PageReference>HT104</PageReference>
+    <PageReference>HT105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ithaca Model 37 Featherlight">
+    <PageReference>HT104</PageReference>
+    <PageReference>HT105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Izhmash AK-47">
+    <PageReference>HT114</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Izhmash AK-74">
+    <PageReference>HT114</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Izhmash PP-19 Bizon-2">
+    <PageReference>HT124</PageReference>
+    <PageReference>HT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Izhmash SVD">
+    <PageReference>HT116</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Izhmekh PM">
+    <PageReference>HT100</PageReference>
+    <PageReference>HT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jam-tin grenade">
+    <PageReference>HT191</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kahr K40">
+    <PageReference>HT101</PageReference>
+    <PageReference>HT103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kalashnikov rifle">
+    <PageReference>HT114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Katana">
+    <PageReference>HT197</PageReference>
+    <PageReference>HT200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="KBP AGS-17 Plamya">
+    <PageReference>HT142</PageReference>
+    <PageReference>HT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="KBP GP-25 Kostyor">
+    <PageReference>HT142</PageReference>
+    <PageReference>HT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="KBP RPO-A Shmel">
+    <PageReference>HT148</PageReference>
+    <PageReference>HT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kentucky rifles">
+    <PageReference>HT107</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="KMZ PK">
+    <PageReference>HT135</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="KMZ RPG-2">
+    <PageReference>HT148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="KMZ RPG-7">
+    <PageReference>HT148-149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knives">
+    <PageReference>HT25</PageReference>
+    <PageReference>HT26</PageReference>
+    <PageReference>HT31</PageReference>
+    <PageReference>HT57</PageReference>
+    <PageReference>HT98</PageReference>
+    <PageReference>HT197</PageReference>
+    <PageReference>HT198</PageReference>
+    <PageReference>HT200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kolomna 9M14M MalyutkaM">
+    <PageReference>HT151</PageReference>
+    <PageReference>HT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="KPZ DShK-38">
+    <PageReference>HT133</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lancaster Howdah">
+    <PageReference>HT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Land mines">
+    <PageReference>HT189</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laser weapons">
+    <PageReference>HT181</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="LAWs, delivery systems">
+    <PageReference>HT147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lebel Mle 1886">
+    <PageReference>HT111</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lefaucheux Mle 1854">
+    <PageReference>HT93</PageReference>
+    <PageReference>HT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="LeFever Automatic Hammerless">
+    <PageReference>HT104-105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lewis Mk I">
+    <PageReference>HT131</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light antitank weapons">
+    <PageReference>HT147-149</PageReference>
+    <Child ReferenceText="delivery systems">
+      <PageReference>HT147</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>HT148</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lorcin L-25">
+    <PageReference>HT101</PageReference>
+    <PageReference>HT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luger P08 Parabellum">
+    <PageReference>HT98</PageReference>
+    <PageReference>HT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="M10">
+    <PageReference>HT150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="M18A1 Claymore">
+    <PageReference>HT189</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="M260">
+    <PageReference>HT150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="M86 PDM">
+    <PageReference>HT189</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MAC AA7">
+    <Child ReferenceText="62NF1">
+      <PageReference>HT135</PageReference>
+      <PageReference>HT137</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Machetes">
+    <PageReference>HT197</PageReference>
+    <PageReference>HT200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Machine guns">
+    <Child ReferenceText="table">
+      <PageReference>HT128</PageReference>
+      <PageReference>HT137</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>HT129</PageReference>
+    </Child>
+    <Child ReferenceText="watercooled">
+      <PageReference>HT129</PageReference>
+    </Child>
+    <Child ReferenceText="126-137 penalties when using mechanical">
+      <PageReference>HT127</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="MAC-Ingram M10">
+    <PageReference>HT124</PageReference>
+    <PageReference>HT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Madsen M/03">
+    <PageReference>HT130</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manton Double">
+    <PageReference>HT104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marlin Model 444">
+    <PageReference>HT117</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martini-Henry Mk I">
+    <PageReference>HT109-110</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MAS Pistolet AN IX">
+    <PageReference>HT90-91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mauser C96">
+    <PageReference>HT97</PageReference>
+    <PageReference>HT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mauser Gewehr 98 (Gew98)">
+    <PageReference>HT111</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mauser MG151/20">
+    <PageReference>HT133-134</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mauser Tank-Gewehr 18">
+    <PageReference>HT112</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maxim 1-pounder Quick-Fire Mk 1">
+    <PageReference>HT130</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maxim MG08">
+    <PageReference>HT130</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maxim Mk I">
+    <PageReference>HT129-130</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MBA Gyrojet Mk I">
+    <PageReference>HT99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MBB Armbrust">
+    <PageReference>HT148</PageReference>
+    <PageReference>HT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="McDonnell FGM-77A">
+    <PageReference>HT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MECAR Energa-75">
+    <PageReference>HT194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee weapons">
+    <PageReference>HT196-200</PageReference>
+    <Child ReferenceText="improvised">
+      <PageReference>HT199</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>HT200</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Milkor MGL">
+    <PageReference>HT143</PageReference>
+    <PageReference>HT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mills Number 36M Mk I">
+    <PageReference>HT191</PageReference>
+    <PageReference>HT192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missiles">
+    <PageReference>HT150-153</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>HT152</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>HT150-151</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Molot NSV-12">
+    <Child ReferenceText="7 Utes">
+      <PageReference>HT136</PageReference>
+      <PageReference>HT137</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Molotov cocktail">
+    <PageReference>HT191</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mortars">
+    <PageReference>HT145-147</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>HT146</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mosin Nagant obrazets 1891g">
+    <PageReference>HT111</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Motovilikha D-81TM Rapira">
+    <PageReference>HT140</PageReference>
+    <PageReference>HT141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Muskets, as firestarters">
+    <PageReference>HT57</PageReference>
+    <SeeAlso>Rifles</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Nagant R-1895">
+    <PageReference>HT94</PageReference>
+    <PageReference>HT95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Napalm">
+    <PageReference>HT188-189</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Napoleon cannon">
+    <PageReference>HT138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nitroglycerin">
+    <PageReference>HT184</PageReference>
+    <Child ReferenceText="skimming">
+      <PageReference>HT185</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nitromethane">
+    <PageReference>HT187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nordenfelt Single-Barrel">
+    <PageReference>HT128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NORINCO QBZ95">
+    <PageReference>HT121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NORINCO QXJ04">
+    <PageReference>HT181</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NORINCO ZM87">
+    <PageReference>HT181</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="North West Guns">
+    <PageReference>HT107</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NSG SplatMaster">
+    <PageReference>HT88</PageReference>
+    <PageReference>HT89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nuclear weapons">
+    <PageReference>HT195-196</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oerlikon Typ S">
+    <PageReference>HT132</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="OZM-3">
+    <PageReference>HT189</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pepper spray">
+    <PageReference>HT180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pistols">
+    <PageReference>HT90-92</PageReference>
+    <PageReference>HT97-103</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>HT91</PageReference>
+      <PageReference>HT101</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Plastic explosives">
+    <PageReference>HT185-186</PageReference>
+    <Child ReferenceText="making">
+      <PageReference>HT186</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pocketknife pistols">
+    <PageReference>HT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pocketknives">
+    <PageReference>HT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="PRB NR8113 FLY-K">
+    <PageReference>HT146</PageReference>
+    <PageReference>HT147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="PuW12.5">
+    <PageReference>HT194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rafael Simon 150">
+    <PageReference>HT194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged weapons, musclepowered">
+    <PageReference>HT201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remington Model 700">
+    <PageReference>HT116</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remington Model 8">
+    <PageReference>HT112</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remington Model 870 Wingmaster">
+    <PageReference>HT104</PageReference>
+    <PageReference>HT105-106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remington Model 95 DoublerDerringer">
+    <PageReference>HT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remington New Model Army">
+    <PageReference>HT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remington Number 1 Rolling Block">
+    <PageReference>HT109</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remington-Whitmore Hammer Lifter">
+    <PageReference>HT104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Revolvers">
+    <PageReference>HT92-97</PageReference>
+    <Child ReferenceText="automatic">
+      <PageReference>HT97</PageReference>
+      <PageReference>HT245</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>HT94</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>HT92</PageReference>
+    </Child>
+    <Child ReferenceText="“unsafe, ” 93" />
+  </IndexReference>
+  <IndexReference ReferenceText="Rheinmetall 3">
+    <Child ReferenceText="7cm PaK">
+      <PageReference>HT140</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rheinmetall 7">
+    <Child ReferenceText="5cm KwK40">
+      <PageReference>HT140</PageReference>
+      <PageReference>HT141</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rheinmetall FG42">
+    <PageReference>HT115</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rheinmetall MG34">
+    <PageReference>HT132-133</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rheinmetall MG42">
+    <PageReference>HT134</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="RIA M2A1">
+    <PageReference>HT140</PageReference>
+    <PageReference>HT141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rifles">
+    <PageReference>HT107-122</PageReference>
+    <Child ReferenceText="butts as clubs">
+      <PageReference>HT198</PageReference>
+    </Child>
+    <Child ReferenceText="cane">
+      <PageReference>HT98</PageReference>
+    </Child>
+    <Child ReferenceText="flechette">
+      <PageReference>HT116</PageReference>
+    </Child>
+    <Child ReferenceText="grenade">
+      <PageReference>HT193-194</PageReference>
+    </Child>
+    <Child ReferenceText="table, 120-121 types">
+      <PageReference>HT107</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rigby Traveling Pistol">
+    <PageReference>HT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="RLM FGM-148A Javelin">
+    <PageReference>HT152</PageReference>
+    <PageReference>HT153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rocket pistol">
+    <PageReference>HT99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Royal Ordnance ML 2” Mk II">
+    <PageReference>HT146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="RPG-43">
+    <PageReference>HT192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruger Mini-14">
+    <PageReference>HT117</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruger Standard MK1">
+    <PageReference>HT100</PageReference>
+    <PageReference>HT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruger Super Redhawk">
+    <PageReference>HT94</PageReference>
+    <PageReference>HT97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="S&amp;W">
+    <Child ReferenceText="44 Hand Ejector">
+      <PageReference>HT94</PageReference>
+      <PageReference>HT96</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="S&amp;W Model 10 Military &amp; Police">
+    <PageReference>HT94</PageReference>
+    <PageReference>HT95-96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="S&amp;W Model 27">
+    <PageReference>HT94</PageReference>
+    <PageReference>HT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="S&amp;W Model 29">
+    <PageReference>HT94</PageReference>
+    <PageReference>HT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="S&amp;W Model 34 kit gun">
+    <PageReference>HT94</PageReference>
+    <PageReference>HT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="S&amp;W Model 36 Chief’s Special">
+    <PageReference>HT94</PageReference>
+    <PageReference>HT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="S&amp;W Number 1">
+    <PageReference>HT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="S&amp;W Number 3 Russian">
+    <PageReference>HT94</PageReference>
+    <PageReference>HT95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="S&amp;W Safety Hammerless">
+    <PageReference>HT94</PageReference>
+    <PageReference>HT95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saco M60">
+    <PageReference>HT134</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saco MK 19 MOD 3">
+    <PageReference>HT143</PageReference>
+    <PageReference>HT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SC250">
+    <PageReference>HT194</PageReference>
+    <PageReference>HT195</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SC50">
+    <PageReference>HT194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SCAR">
+    <PageReference>HT121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Schermuly Stun Grenade">
+    <PageReference>HT192</PageReference>
+    <PageReference>HT193</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Schneider Mle 1897">
+    <PageReference>HT138</PageReference>
+    <PageReference>HT140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sedgley Glove Pistol">
+    <PageReference>HT199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharps Model 1874">
+    <PageReference>HT110</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shotguns">
+    <PageReference>HT103-107</PageReference>
+    <Child ReferenceText="determing damage of">
+      <PageReference>HT103-104</PageReference>
+    </Child>
+    <Child ReferenceText="exotic ammo">
+      <PageReference>HT103</PageReference>
+    </Child>
+    <Child ReferenceText="sawed-off">
+      <PageReference>HT106</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>HT104</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="SIG-Sauer P226">
+    <PageReference>HT101</PageReference>
+    <PageReference>HT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slingshots">
+    <PageReference>HT201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smith &amp; Wesson">
+    <PageReference>HT246</PageReference>
+    <SeeAlso>specific S&amp;W weapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Smokeless powders">
+    <PageReference>HT185</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spearguns">
+    <PageReference>HT201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special Operations Forces Combat Assault Rifle">
+    <PageReference>HT121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spencer M1860">
+    <PageReference>HT109</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spray guns, targeting with">
+    <PageReference>HT180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Springfield M1 Garand">
+    <PageReference>HT113</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Springfield M14">
+    <PageReference>HT115</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Springfield M1873">
+    <PageReference>HT110</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Springfield M1903">
+    <PageReference>HT112</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Squirt carbines">
+    <PageReference>HT180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sterling L2A3">
+    <PageReference>HT124</PageReference>
+    <PageReference>HT125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steyr AUG A1">
+    <PageReference>HT118</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steyr TMP">
+    <PageReference>HT124</PageReference>
+    <PageReference>HT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steyr-Girandoni M.1780">
+    <PageReference>HT88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steyr-Solothurn S18-1000">
+    <PageReference>HT113</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stielhandgranate">
+    <PageReference>HT190-192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stokes ML 3” Mk I">
+    <PageReference>HT145</PageReference>
+    <PageReference>HT146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stun">
+    <Child ReferenceText="gun">
+      <PageReference>HT199</PageReference>
+      <PageReference>HT200</PageReference>
+    </Child>
+    <Child ReferenceText="weapon effects">
+      <PageReference>HT199</PageReference>
+    </Child>
+    <Child ReferenceText="baton">
+      <PageReference>HT199</PageReference>
+      <PageReference>HT200</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stunners">
+    <PageReference>HT89-90</PageReference>
+    <Child ReferenceText="effects of">
+      <PageReference>HT89-90</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Submachine guns">
+    <PageReference>HT122-126</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>HT124</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Suer Modell 30">
+    <PageReference>HT108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Switchblade">
+    <PageReference>HT197</PageReference>
+    <PageReference>HT200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sword cane">
+    <PageReference>HT197</PageReference>
+    <PageReference>HT200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TASER M26">
+    <PageReference>HT89</PageReference>
+    <PageReference>HT90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tasertron TASER TE-76">
+    <PageReference>HT89</PageReference>
+    <PageReference>HT90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taurus Mod 608">
+    <PageReference>HT94</PageReference>
+    <PageReference>HT97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tear gas">
+    <PageReference>HT103</PageReference>
+    <PageReference>HT171</PageReference>
+    <PageReference>HT180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tellermine 35">
+    <PageReference>HT189</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thermite">
+    <PageReference>HT188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thomspon/Center Contender">
+    <PageReference>HT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrown weapons">
+    <PageReference>HT201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tikkakoski Konepistooli malli 1931 (KP/31) Suomi">
+    <PageReference>HT122</PageReference>
+    <PageReference>HT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TNT">
+    <PageReference>HT185</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tommy gun">
+    <PageReference>HT122</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tonfa">
+    <PageReference>HT198</PageReference>
+    <PageReference>HT200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tower blunderbusses">
+    <PageReference>HT104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tower Sea Service P/1796">
+    <PageReference>HT90</PageReference>
+    <PageReference>HT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TOZ LPO-50">
+    <PageReference>HT179</PageReference>
+    <PageReference>HT180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TOZ ROKS-2">
+    <PageReference>HT179</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TOZ SKS-45">
+    <PageReference>HT115</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TOZ TP-82">
+    <PageReference>HT108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TOZ TT-33">
+    <PageReference>HT99-100</PageReference>
+    <PageReference>HT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TsNIITochMash APS">
+    <PageReference>HT117</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TsNIITochMash AS Val">
+    <PageReference>HT118</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TsNIITochMash NRS-2">
+    <PageReference>HT91</PageReference>
+    <PageReference>HT199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TsNIITochMash SPS Gyurza">
+    <PageReference>HT101</PageReference>
+    <PageReference>HT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TsNIITochMash SR-2 Veresk">
+    <PageReference>HT124</PageReference>
+    <PageReference>HT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tulskiy Oruzheinyi Zavod">
+    <PageReference>HT246</PageReference>
+    <SeeAlso>specific TOZ weapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="U">
+    <SeeAlso>specific AMC weapons</SeeAlso>
+    <Child ReferenceText="S" />
+    <Child ReferenceText="Army Material Command">
+      <PageReference>HT245</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicular rocket launchers">
+    <PageReference>HT150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vickers Mk I">
+    <PageReference>HT131</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voere VEC91">
+    <PageReference>HT119</PageReference>
+    <PageReference>HT121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Volcanic Repeating Rife">
+    <PageReference>HT109</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walther Leuchtpistole">
+    <PageReference>HT142</PageReference>
+    <PageReference>HT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walther P38">
+    <PageReference>HT100</PageReference>
+    <PageReference>HT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walther P99">
+    <PageReference>HT101</PageReference>
+    <PageReference>HT103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walther PPK">
+    <PageReference>HT99</PageReference>
+    <PageReference>HT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Watervliet M1">
+    <PageReference>HT140</PageReference>
+    <PageReference>HT141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Watervliet M2">
+    <PageReference>HT146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Watervliet M40">
+    <PageReference>HT140</PageReference>
+    <PageReference>HT141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Webley-Fosbery Automatic Mk I">
+    <PageReference>HT94</PageReference>
+    <PageReference>HT97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Webley Mk VI">
+    <PageReference>HT94</PageReference>
+    <PageReference>HT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Webley RIC Number 1">
+    <PageReference>HT94-95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="White phosphorus">
+    <PageReference>HT188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Winchester M1">
+    <PageReference>HT113</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Winchester Model 1873">
+    <PageReference>HT110</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Winchester Model 1887">
+    <PageReference>HT104</PageReference>
+    <PageReference>HT105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Winchester Model 1894">
+    <PageReference>HT111</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Winchester Model 1897">
+    <PageReference>HT104</PageReference>
+    <PageReference>HT105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Winchester Model 70">
+    <PageReference>HT113</PageReference>
+    <PageReference>HT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wogdon Dueller">
+    <PageReference>HT90</PageReference>
+    <PageReference>HT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrist guns">
+    <PageReference>HT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ZB ZB26">
+    <PageReference>HT132</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ZiD DP">
+    <PageReference>HT132</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ZiD KPV">
+    <PageReference>HT134</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ZiD PPSh-41">
+    <PageReference>HT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ZiD RPD">
+    <PageReference>HT134</PageReference>
+    <PageReference>HT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zip-gun">
+    <PageReference>HT92</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

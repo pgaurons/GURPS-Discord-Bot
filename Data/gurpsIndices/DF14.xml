@@ -1,0 +1,1379 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Acute ESP power-up">
+    <PageReference>DF14:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>DF14:14</PageReference>
+    <SeeAlso>Power-Ups</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Dungeon Design</SeeAlso>
+    <Child ReferenceText="introducing psi">
+      <PageReference>DF14:35</PageReference>
+    </Child>
+    <Child ReferenceText="psionic encounters">
+      <PageReference>DF14:37-41</PageReference>
+    </Child>
+    <Child ReferenceText="tips">
+      <PageReference>DF14:31-36</PageReference>
+    </Child>
+    <Child ReferenceText="finding">
+      <PageReference>DF14:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Afflictions, psionic">
+    <PageReference>DF14:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Concentrate maneuver">
+    <PageReference>DF14:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Defense maneuver">
+    <PageReference>DF14:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-psi abilities">
+    <PageReference>DF14:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>DF14:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artifacts">
+    <SeeAlso>Equipment</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="as-Sharak, aloakasa">
+    <PageReference>DF14:37</PageReference>
+    <PageReference>DF14:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral">
+    <Child ReferenceText="piranha">
+      <PageReference>DF14:37</PageReference>
+    </Child>
+    <Child ReferenceText="Plane">
+      <PageReference>DF14:36</PageReference>
+    </Child>
+    <Child ReferenceText="squalls">
+      <PageReference>DF14:37</PageReference>
+    </Child>
+    <Child ReferenceText="things">
+      <PageReference>DF14:37</PageReference>
+      <PageReference>DF14:42</PageReference>
+    </Child>
+    <Child ReferenceText="hounds">
+      <PageReference>DF14:37</PageReference>
+      <PageReference>DF14:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Az amplifiers">
+    <PageReference>DF14:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Baldness">
+    <PageReference>DF14:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battlesense ability">
+    <PageReference>DF14:5</PageReference>
+    <PageReference>DF14:13</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="skill use and">
+      <PageReference>DF14:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Beyond Time and Space, definition">
+    <PageReference>DF14:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blind Viewing power-up">
+    <PageReference>DF14:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bloque">
+    <PageReference>DF14:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bluster">
+    <PageReference>DF14:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bonded Creature power-up">
+    <PageReference>DF14:20</PageReference>
+    <PageReference>DF14:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boosters">
+    <PageReference>DF14:25</PageReference>
+    <PageReference>DF14:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brainers">
+    <PageReference>DF14:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breaking and entering">
+    <PageReference>DF14:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bridging hazards">
+    <PageReference>DF14:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <SeeAlso>Adventures</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Chaos monks">
+    <PageReference>DF14:38</PageReference>
+    <PageReference>DF14:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clarity concoction">
+    <PageReference>DF14:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <PageReference>DF14:33-34</PageReference>
+    <Child ReferenceText="active defense and psi">
+      <PageReference>DF14:31</PageReference>
+    </Child>
+    <Child ReferenceText="after">
+      <PageReference>DF14:34</PageReference>
+    </Child>
+    <Child ReferenceText="inspirational leadership">
+      <PageReference>DF14:33</PageReference>
+    </Child>
+    <Child ReferenceText="new maneuvers">
+      <PageReference>DF14:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Concoctions">
+    <PageReference>DF14:24-25</PageReference>
+    <PageReference>DF14:30</PageReference>
+    <Child ReferenceText="dealing with">
+      <PageReference>DF14:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Coordinator power-up">
+    <PageReference>DF14:22</PageReference>
+    <PageReference>DF14:31</PageReference>
+    <PageReference>DF14:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curses, dealing with">
+    <PageReference>DF14:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death Possession power-up">
+    <PageReference>DF14:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defenses">
+    <Child ReferenceText="stunts">
+      <PageReference>DF14:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="active bonus">
+      <PageReference>DF14:33-34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Demons">
+    <PageReference>DF14:41</PageReference>
+    <PageReference>DF14:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dimensions">
+    <PageReference>DF14:36</PageReference>
+    <Child ReferenceText="crossing">
+      <PageReference>DF14:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disciplines">
+    <PageReference>DF14:12</PageReference>
+    <Child ReferenceText="related abilities">
+      <PageReference>DF14:12-13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dispel Psi ability">
+    <PageReference>DF14:5-6</PageReference>
+    <PageReference>DF14:12</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:32</PageReference>
+      <PageReference>DF14:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Distortions">
+    <PageReference>DF14:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doors, hidden">
+    <PageReference>DF14:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doppelgangers">
+    <PageReference>DF14:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeon design">
+    <PageReference>DF14:35-36</PageReference>
+    <Child ReferenceText="archetype">
+      <PageReference>DF14:35</PageReference>
+    </Child>
+    <Child ReferenceText="area information">
+      <PageReference>DF14:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="encounters">
+      <PageReference>DF14:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeoneering gear">
+    <PageReference>DF14:23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeons, exploring">
+    <PageReference>DF14:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder Lore power-up">
+    <PageReference>DF14:21</PageReference>
+    <PageReference>DF14:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder Things">
+    <PageReference>DF14:3</PageReference>
+    <PageReference>DF14:7</PageReference>
+    <PageReference>DF14:38</PageReference>
+    <PageReference>DF14:41</PageReference>
+    <SeeAlso>Monsters</SeeAlso>
+    <Child ReferenceText="artifacts from">
+      <PageReference>DF14:26-27</PageReference>
+      <PageReference>DF14:35</PageReference>
+    </Child>
+    <Child ReferenceText="communication with">
+      <PageReference>DF14:21</PageReference>
+      <PageReference>DF14:33</PageReference>
+    </Child>
+    <Child ReferenceText="defined">
+      <PageReference>DF14:4</PageReference>
+    </Child>
+    <Child ReferenceText="detecting">
+      <PageReference>DF14:9</PageReference>
+    </Child>
+    <Child ReferenceText="dreams and">
+      <PageReference>DF14:14</PageReference>
+    </Child>
+    <Child ReferenceText="Elder Lore and">
+      <PageReference>DF14:21</PageReference>
+    </Child>
+    <Child ReferenceText="encounters">
+      <PageReference>DF14:37-40</PageReference>
+    </Child>
+    <Child ReferenceText="exploiting weaknesses">
+      <PageReference>DF14:33</PageReference>
+    </Child>
+    <Child ReferenceText="Hidden Lore and">
+      <PageReference>DF14:15</PageReference>
+      <PageReference>DF14:32-33</PageReference>
+      <PageReference>DF14:35</PageReference>
+    </Child>
+    <Child ReferenceText="inducing psi">
+      <PageReference>DF14:19</PageReference>
+    </Child>
+    <Child ReferenceText="recognizing">
+      <PageReference>DF14:33</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>DF14:42</PageReference>
+      <PageReference>DF14:43</PageReference>
+    </Child>
+    <Child ReferenceText="using psi on">
+      <PageReference>DF14:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elsewhere, definition">
+    <PageReference>DF14:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Empathy ability">
+    <PageReference>DF14:6</PageReference>
+    <PageReference>DF14:13</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="skill use and">
+      <PageReference>DF14:31</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Encounters">
+    <PageReference>DF14:37-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy Reserve power-up">
+    <PageReference>DF14:19</PageReference>
+    <PageReference>DF14:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy, stealing">
+    <PageReference>DF14:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <Child ReferenceText="buying">
+      <PageReference>DF14:30</PageReference>
+    </Child>
+    <Child ReferenceText="elder">
+      <PageReference>DF14:26-27</PageReference>
+    </Child>
+    <Child ReferenceText="identifying">
+      <PageReference>DF14:34-35</PageReference>
+    </Child>
+    <Child ReferenceText="mundane">
+      <PageReference>DF14:23-25</PageReference>
+      <PageReference>DF14:27</PageReference>
+    </Child>
+    <Child ReferenceText="psiphilic">
+      <PageReference>DF14:24</PageReference>
+    </Child>
+    <Child ReferenceText="psiphobic">
+      <PageReference>DF14:24</PageReference>
+      <PageReference>DF14:30</PageReference>
+    </Child>
+    <Child ReferenceText="selling">
+      <PageReference>DF14:35</PageReference>
+    </Child>
+    <Child ReferenceText="special">
+      <PageReference>DF14:27</PageReference>
+    </Child>
+    <Child ReferenceText="as rewards">
+      <PageReference>DF14:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ergokinetic Shield ability">
+    <PageReference>DF14:6</PageReference>
+    <PageReference>DF14:12-13</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="stunts">
+      <PageReference>DF14:20-21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="ESP abilities">
+    <PageReference>DF14:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ethereal Plane">
+    <PageReference>DF14:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expunge concoction">
+    <PageReference>DF14:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extended Defense power-up">
+    <PageReference>DF14:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extraordinary Luck advantage">
+    <PageReference>DF14:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue Points (FP), spending extra">
+    <PageReference>DF14:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fear ability">
+    <PageReference>DF14:6</PageReference>
+    <PageReference>DF14:13</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="powerups requiring">
+      <PageReference>DF14:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fhtagn focusers">
+    <PageReference>DF14:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firestarters">
+    <PageReference>DF14:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying squid monsters (FSM)">
+    <PageReference>DF14:38</PageReference>
+    <PageReference>DF14:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Focused Resistance perk">
+    <PageReference>DF14:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Future">
+    <PageReference>DF14:7</PageReference>
+    <SeeAlso>ing with psi</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Fuzzies">
+    <PageReference>DF14:38</PageReference>
+    <PageReference>DF14:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gambling">
+    <PageReference>DF14:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gazer perk">
+    <PageReference>DF14:14</PageReference>
+    <PageReference>DF14:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghosts">
+    <PageReference>DF14:38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glossary">
+    <PageReference>DF14:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunk">
+    <PageReference>DF14:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Basic Set">
+    <PageReference>DF14:12</PageReference>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DF14:4</PageReference>
+      <PageReference>DF14:12</PageReference>
+      <PageReference>DF14:14</PageReference>
+      <PageReference>DF14:15</PageReference>
+      <PageReference>DF14:19</PageReference>
+      <PageReference>DF14:23</PageReference>
+      <PageReference>DF14:29</PageReference>
+      <PageReference>DF14:32</PageReference>
+      <PageReference>DF14:35</PageReference>
+      <PageReference>DF14:41</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DF14:3</PageReference>
+      <PageReference>DF14:4</PageReference>
+      <PageReference>DF14:17</PageReference>
+      <PageReference>DF14:23</PageReference>
+      <PageReference>DF14:24</PageReference>
+      <PageReference>DF14:26</PageReference>
+      <PageReference>DF14:28</PageReference>
+      <PageReference>DF14:42</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DF14:3</PageReference>
+      <PageReference>DF14:14</PageReference>
+      <PageReference>DF14:15</PageReference>
+      <PageReference>DF14:21</PageReference>
+      <PageReference>DF14:22</PageReference>
+      <PageReference>DF14:30-36</PageReference>
+      <PageReference>DF14:39</PageReference>
+      <PageReference>DF14:41</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF14:3</PageReference>
+      <PageReference>DF14:8</PageReference>
+      <PageReference>DF14:17</PageReference>
+      <PageReference>DF14:19</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 6: 40 Artifacts">
+      <PageReference>DF14:27</PageReference>
+      <PageReference>DF14:34</PageReference>
+      <PageReference>DF14:36</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 8: Treasure Tables">
+      <PageReference>DF14:27</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 9: Summoners">
+      <PageReference>DF14:3</PageReference>
+      <PageReference>DF14:7</PageReference>
+      <PageReference>DF14:31</PageReference>
+      <PageReference>DF14:36</PageReference>
+      <PageReference>DF14:38</PageReference>
+      <PageReference>DF14:40</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 11: Power-Ups">
+      <PageReference>DF14:19</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 12: Ninja">
+      <PageReference>DF14:3</PageReference>
+      <PageReference>DF14:17</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>DF14:3</PageReference>
+      <PageReference>DF14:4</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>DF14:3</PageReference>
+      <PageReference>DF14:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing, psi and">
+    <PageReference>DF14:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden Lore skill">
+    <PageReference>DF14:15</PageReference>
+    <PageReference>DF14:30-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hilfe! perk">
+    <PageReference>DF14:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypno-discs">
+    <PageReference>DF14:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypnotism skill">
+    <PageReference>DF14:15</PageReference>
+    <PageReference>DF14:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inquisitor archetype">
+    <PageReference>DF14:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interrogation">
+    <PageReference>DF14:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intuition ability">
+    <PageReference>DF14:6</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <PageReference>DF14:17-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Levitation ability">
+    <PageReference>DF14:6-7</PageReference>
+    <PageReference>DF14:13</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="skill use and">
+      <PageReference>DF14:31</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:32</PageReference>
+      <PageReference>DF14:33-34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lockpicking">
+    <PageReference>DF14:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loot">
+    <SeeAlso>Equipment</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Madness ability">
+    <PageReference>DF14:7</PageReference>
+    <PageReference>DF14:13</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="power-ups requiring">
+      <PageReference>DF14:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <Child ReferenceText="psi and">
+      <PageReference>DF14:28</PageReference>
+      <PageReference>DF14:29</PageReference>
+    </Child>
+    <Child ReferenceText="advantages of">
+      <PageReference>DF14:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Maneuvers, new combat">
+    <PageReference>DF14:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mass Chaos power-up">
+    <PageReference>DF14:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental Strength skill">
+    <PageReference>DF14:15</PageReference>
+    <PageReference>DF14:32</PageReference>
+    <PageReference>DF14:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentalist">
+    <Child ReferenceText="lens">
+      <PageReference>DF14:19</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>DF14:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>DF14:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentalist-barbarian lens">
+    <PageReference>DF14:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentalist-bard lens">
+    <PageReference>DF14:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentalist-cleric lens">
+    <PageReference>DF14:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentalist-druid lens">
+    <PageReference>DF14:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentalist-holy warrior lens">
+    <PageReference>DF14:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentalist-knight lens">
+    <PageReference>DF14:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentalist-martial artist lens">
+    <PageReference>DF14:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentalist-scout lens">
+    <PageReference>DF14:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentalist-swashbuckler lens">
+    <PageReference>DF14:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentalist-thief lens">
+    <PageReference>DF14:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentalist-wizard lens">
+    <PageReference>DF14:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentat archetype">
+    <PageReference>DF14:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Blast ability">
+    <PageReference>DF14:7</PageReference>
+    <PageReference>DF14:13</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="power-ups requiring">
+      <PageReference>DF14:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Block skill">
+    <PageReference>DF14:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Control ability">
+    <PageReference>DF14:7-8</PageReference>
+    <PageReference>DF14:13</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:30</PageReference>
+      <PageReference>DF14:33</PageReference>
+      <PageReference>DF14:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Meld ability">
+    <PageReference>DF14:8</PageReference>
+    <PageReference>DF14:13</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="stunts">
+      <PageReference>DF14:21</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:32</PageReference>
+      <PageReference>DF14:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Reading ability">
+    <PageReference>DF14:8</PageReference>
+    <PageReference>DF14:13</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="psiphobic scenery and">
+      <PageReference>DF14:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="skill use and">
+      <PageReference>DF14:31</PageReference>
+    </Child>
+    <Child ReferenceText="stunts">
+      <PageReference>DF14:21</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:30-34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Shield ability">
+    <PageReference>DF14:8</PageReference>
+    <PageReference>DF14:12</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="stunts">
+      <PageReference>DF14:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:32</PageReference>
+      <PageReference>DF14:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Stab ability">
+    <PageReference>DF14:9</PageReference>
+    <PageReference>DF14:13</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mindwarpers">
+    <PageReference>DF14:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <SeeAlso>Elder Things</SeeAlso>
+    <Child ReferenceText="encounters">
+      <PageReference>DF14:37-41</PageReference>
+    </Child>
+    <Child ReferenceText="dealing with psionic">
+      <PageReference>DF14:32-33</PageReference>
+    </Child>
+    <Child ReferenceText="resistant">
+      <PageReference>DF14:29-30</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>DF14:41-44</PageReference>
+    </Child>
+    <Child ReferenceText="attracting">
+      <PageReference>DF14:24-26</PageReference>
+      <PageReference>DF14:29-32</PageReference>
+      <PageReference>DF14:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mr">
+    <Child ReferenceText="Universe power-up">
+      <PageReference>DF14:22</PageReference>
+      <PageReference>DF14:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mundane monsters">
+    <PageReference>DF14:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Negative odic flux">
+    <PageReference>DF14:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Negative probability flux">
+    <PageReference>DF14:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neuroids">
+    <PageReference>DF14:39</PageReference>
+    <PageReference>DF14:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nightmares">
+    <PageReference>DF14:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No-brainers">
+    <PageReference>DF14:39</PageReference>
+    <PageReference>DF14:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Odic flux, negative">
+    <PageReference>DF14:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Odifiers">
+    <PageReference>DF14:39</PageReference>
+    <PageReference>DF14:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outer Void">
+    <PageReference>DF14:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outside Time and Space, definition">
+    <PageReference>DF14:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parkour">
+    <PageReference>DF14:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>DF14:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pickpocketing">
+    <PageReference>DF14:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poison, psychic">
+    <PageReference>DF14:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Portals">
+    <PageReference>DF14:26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power items">
+    <PageReference>DF14:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power modifier, new">
+    <PageReference>DF14:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power-ups">
+    <PageReference>DF14:19-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prisoners, interrogating">
+    <PageReference>DF14:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Probability">
+    <Child ReferenceText="flux">
+      <PageReference>DF14:39</PageReference>
+    </Child>
+    <Child ReferenceText="distortion">
+      <PageReference>DF14:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psharp perk">
+    <PageReference>DF14:14</PageReference>
+    <PageReference>DF14:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi">
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <SeeAlso>Psionics College</SeeAlso>
+    <SeeAlso>Psionics Power</SeeAlso>
+    <Child ReferenceText="advantages of">
+      <PageReference>DF14:28</PageReference>
+    </Child>
+    <Child ReferenceText="attracting threats">
+      <PageReference>DF14:24-26</PageReference>
+      <PageReference>DF14:29-32</PageReference>
+      <PageReference>DF14:36</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>DF14:4</PageReference>
+    </Child>
+    <Child ReferenceText="drawbacks">
+      <PageReference>DF14:29</PageReference>
+    </Child>
+    <Child ReferenceText="gaining">
+      <PageReference>DF14:19</PageReference>
+    </Child>
+    <Child ReferenceText="glossary">
+      <PageReference>DF14:4</PageReference>
+    </Child>
+    <Child ReferenceText="Hidden Lore and">
+      <PageReference>DF14:15</PageReference>
+    </Child>
+    <Child ReferenceText="impossible feats">
+      <PageReference>DF14:7</PageReference>
+    </Child>
+    <Child ReferenceText="magic and">
+      <PageReference>DF14:28</PageReference>
+      <PageReference>DF14:29</PageReference>
+    </Child>
+    <Child ReferenceText="mundane tasks and">
+      <PageReference>DF14:31</PageReference>
+    </Child>
+    <Child ReferenceText="recognizing">
+      <PageReference>DF14:33</PageReference>
+    </Child>
+    <Child ReferenceText="resistant monsters">
+      <PageReference>DF14:29-30</PageReference>
+    </Child>
+    <Child ReferenceText="resisting">
+      <PageReference>DF14:29</PageReference>
+      <PageReference>DF14:30</PageReference>
+      <PageReference>DF14:33</PageReference>
+    </Child>
+    <Child ReferenceText="source of">
+      <PageReference>DF14:38</PageReference>
+    </Child>
+    <Child ReferenceText="abilities mimicking">
+      <PageReference>DF14:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psibane">
+    <PageReference>DF14:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pshield concoction">
+    <PageReference>DF14:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psientist">
+    <Child ReferenceText="Talent">
+      <PageReference>DF14:21</PageReference>
+      <PageReference>DF14:33</PageReference>
+    </Child>
+    <Child ReferenceText="archetype">
+      <PageReference>DF14:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psight ability">
+    <PageReference>DF14:9</PageReference>
+    <PageReference>DF14:12</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="powerups requiring">
+      <PageReference>DF14:19</PageReference>
+    </Child>
+    <Child ReferenceText="psiphobic scenery and">
+      <PageReference>DF14:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="skill use and">
+      <PageReference>DF14:31</PageReference>
+      <PageReference>DF14:33</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:31</PageReference>
+      <PageReference>DF14:32</PageReference>
+      <PageReference>DF14:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic, definition">
+    <PageReference>DF14:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic parasites">
+    <PageReference>DF14:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionics abilities">
+    <PageReference>DF14:5-11</PageReference>
+    <SeeAlso>Psi</SeeAlso>
+    <Child ReferenceText="adding">
+      <PageReference>DF14:20</PageReference>
+    </Child>
+    <Child ReferenceText="alternative">
+      <PageReference>DF14:5</PageReference>
+    </Child>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="extra FP and">
+      <PageReference>DF14:33</PageReference>
+    </Child>
+    <Child ReferenceText="improving">
+      <PageReference>DF14:20</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>DF14:11-13</PageReference>
+    </Child>
+    <Child ReferenceText="triggers">
+      <PageReference>DF14:19</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:30-35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionics college, spells">
+    <PageReference>DF14:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionics power">
+    <PageReference>DF14:4-11</PageReference>
+    <SeeAlso>Psi</SeeAlso>
+    <Child ReferenceText="definition">
+      <PageReference>DF14:4</PageReference>
+    </Child>
+    <Child ReferenceText="power modifier">
+      <PageReference>DF14:5</PageReference>
+    </Child>
+    <Child ReferenceText="triggers">
+      <PageReference>DF14:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psiphilic">
+    <Child ReferenceText="weapons">
+      <PageReference>DF14:24</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>DF14:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psiphobic">
+    <Child ReferenceText="dungeon scenery">
+      <PageReference>DF14:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>DF14:24</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>DF14:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi Talent">
+    <PageReference>DF14:4</PageReference>
+    <Child ReferenceText="dungeon use">
+      <PageReference>DF14:32-35</PageReference>
+    </Child>
+    <Child ReferenceText="powerups requiring">
+      <PageReference>DF14:20-22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pslay">
+    <PageReference>DF14:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pslay BR">
+    <PageReference>DF14:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psure-tests">
+    <PageReference>DF14:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic, definition">
+    <PageReference>DF14:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic Armor ability">
+    <PageReference>DF14:9</PageReference>
+    <PageReference>DF14:12</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="stunts">
+      <PageReference>DF14:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic flu">
+    <PageReference>DF14:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic poison">
+    <PageReference>DF14:27</PageReference>
+    <PageReference>DF14:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic Replica perk">
+    <PageReference>DF14:14</PageReference>
+    <PageReference>DF14:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic Sensitivity ability">
+    <PageReference>DF14:9-10</PageReference>
+    <PageReference>DF14:12</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="power-ups requiring">
+      <PageReference>DF14:19</PageReference>
+      <PageReference>DF14:21</PageReference>
+    </Child>
+    <Child ReferenceText="skill use and">
+      <PageReference>DF14:31</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:31</PageReference>
+      <PageReference>DF14:32</PageReference>
+      <PageReference>DF14:34</PageReference>
+      <PageReference>DF14:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic Terror perk">
+    <PageReference>DF14:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychokinesis abilities">
+    <PageReference>DF14:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychokinetic Lash ability">
+    <PageReference>DF14:10</PageReference>
+    <PageReference>DF14:13</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="psiphobic scenery and">
+      <PageReference>DF14:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="skill using">
+      <PageReference>DF14:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychometry ability">
+    <PageReference>DF14:10</PageReference>
+    <PageReference>DF14:12</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="power-ups requiring">
+      <PageReference>DF14:21</PageReference>
+    </Child>
+    <Child ReferenceText="skill use and">
+      <PageReference>DF14:31</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:31</PageReference>
+      <PageReference>DF14:32</PageReference>
+      <PageReference>DF14:34</PageReference>
+      <PageReference>DF14:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Puppeteer archetype">
+    <PageReference>DF14:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid hats">
+    <PageReference>DF14:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramids">
+    <PageReference>DF14:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyrokinetic Bolt ability">
+    <PageReference>DF14:10</PageReference>
+    <PageReference>DF14:13</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="psiphobic scenery and">
+      <PageReference>DF14:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:32</PageReference>
+      <PageReference>DF14:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reality, hole in">
+    <PageReference>DF14:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realms">
+    <PageReference>DF14:36</PageReference>
+    <Child ReferenceText="crossing">
+      <PageReference>DF14:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Remote Viewing ability">
+    <PageReference>DF14:10-12</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="power-ups requiring">
+      <PageReference>DF14:19</PageReference>
+    </Child>
+    <Child ReferenceText="psiphobic scenery and">
+      <PageReference>DF14:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="skill use and">
+      <PageReference>DF14:31</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:30</PageReference>
+      <PageReference>DF14:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Residue Sense power-up">
+    <PageReference>DF14:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant advantage">
+    <PageReference>DF14:14</PageReference>
+    <PageReference>DF14:32</PageReference>
+    <PageReference>DF14:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ridiculous Luck advantage">
+    <PageReference>DF14:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rumors">
+    <PageReference>DF14:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scouting">
+    <PageReference>DF14:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Searching bodies">
+    <PageReference>DF14:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Second Nature power-up">
+    <PageReference>DF14:21-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serendipity advantage">
+    <PageReference>DF14:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shaving head">
+    <PageReference>DF14:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <PageReference>DF14:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signaling">
+    <PageReference>DF14:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>DF14:15</PageReference>
+    <Child ReferenceText="psionics abilities and">
+      <PageReference>DF14:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skull fungus">
+    <PageReference>DF14:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smooth Operator advantage">
+    <PageReference>DF14:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spatial distortion">
+    <PageReference>DF14:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed of Thought power-up">
+    <PageReference>DF14:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spice concoction">
+    <PageReference>DF14:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirits">
+    <PageReference>DF14:42</PageReference>
+    <PageReference>DF14:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spotter power-up">
+    <PageReference>DF14:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Squiddy snacks">
+    <PageReference>DF14:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stunts">
+    <PageReference>DF14:20-22</PageReference>
+    <PageReference>DF14:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sudden Defense power-up">
+    <PageReference>DF14:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="Psionics abilities">
+      <PageReference>DF14:11-13</PageReference>
+    </Child>
+    <Child ReferenceText="psionic encounters">
+      <PageReference>DF14:37-41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents, new">
+    <PageReference>DF14:4</PageReference>
+    <PageReference>DF14:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taunting">
+    <PageReference>DF14:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taurus Blue">
+    <PageReference>DF14:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taurus Red">
+    <PageReference>DF14:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telekinesis ability">
+    <PageReference>DF14:11</PageReference>
+    <PageReference>DF14:13</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="psiphobic scenery and">
+      <PageReference>DF14:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="skill use and">
+      <PageReference>DF14:31</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:30-32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Telekinetic Tether perk">
+    <PageReference>DF14:14</PageReference>
+    <PageReference>DF14:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telekinetic toggles">
+    <PageReference>DF14:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telekinetic webbing">
+    <PageReference>DF14:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telepathy abilities">
+    <PageReference>DF14:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teleportation">
+    <PageReference>DF14:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telesend ability">
+    <PageReference>DF14:11</PageReference>
+    <PageReference>DF14:13</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="psiphobic scenery and">
+      <PageReference>DF14:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="stunts">
+      <PageReference>DF14:22</PageReference>
+    </Child>
+    <Child ReferenceText="skill use and">
+      <PageReference>DF14:31</PageReference>
+      <PageReference>DF14:33</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:31</PageReference>
+      <PageReference>DF14:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tempest archetype">
+    <PageReference>DF14:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Template">
+    <PageReference>DF14:15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temporal distortion">
+    <PageReference>DF14:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Things Man Was Not Meant To Know">
+    <SeeAlso>Elder Things</SeeAlso>
+    <Child ReferenceText="encounter">
+      <PageReference>DF14:38</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>DF14:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Threshold incident">
+    <PageReference>DF14:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Towns, using psi in">
+    <PageReference>DF14:30-31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracking">
+    <PageReference>DF14:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transdimensional Sight ability">
+    <PageReference>DF14:11</PageReference>
+    <PageReference>DF14:12</PageReference>
+    <SeeAlso>Psionics Abilities</SeeAlso>
+    <Child ReferenceText="boosters and">
+      <PageReference>DF14:25</PageReference>
+    </Child>
+    <Child ReferenceText="power-ups requiring">
+      <PageReference>DF14:19</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DF14:31</PageReference>
+      <PageReference>DF14:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps">
+    <PageReference>DF14:32</PageReference>
+    <PageReference>DF14:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel">
+    <Child ReferenceText="rapid">
+      <PageReference>DF14:31</PageReference>
+    </Child>
+    <Child ReferenceText="psi and">
+      <PageReference>DF14:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tricks, dealing with">
+    <PageReference>DF14:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Will power-up">
+    <PageReference>DF14:22</PageReference>
+    <PageReference>DF14:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead monsters">
+    <PageReference>DF14:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background advantage">
+    <PageReference>DF14:14</PageReference>
+    <Child ReferenceText="dungeons and">
+      <PageReference>DF14:32</PageReference>
+      <PageReference>DF14:34</PageReference>
+      <PageReference>DF14:35</PageReference>
+    </Child>
+    <Child ReferenceText="pyramids and">
+      <PageReference>DF14:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Void elementals">
+    <PageReference>DF14:40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warrior archetype">
+    <PageReference>DF14:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weaknesses, exploiting">
+    <PageReference>DF14:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>DF14:24</PageReference>
+    <Child ReferenceText="against psis">
+      <PageReference>DF14:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weird Dreams perk">
+    <PageReference>DF14:14</PageReference>
+    <PageReference>DF14:30-31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Will trait">
+    <PageReference>DF14:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wormhole">
+    <PageReference>DF14:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Your Eyes Are My Eyes power-up">
+    <PageReference>DF14:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Your Tongue Is My Tongue power-up">
+    <PageReference>DF14:21</PageReference>
+    <PageReference>DF14:33</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

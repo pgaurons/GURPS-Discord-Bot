@@ -1,0 +1,1030 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abacuses">
+    <Child ReferenceText="using">
+      <PageReference>LTC1:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Abortion">
+    <PageReference>LTC1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accounting">
+    <PageReference>LTC1:12</PageReference>
+    <Child ReferenceText="skill">
+      <PageReference>LTC1:12</PageReference>
+      <PageReference>LTC1:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Administration skill">
+    <PageReference>LTC1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerophones">
+    <PageReference>LTC1:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy">
+    <PageReference>LTC1:23</PageReference>
+    <Child ReferenceText="processes">
+      <PageReference>LTC1:23</PageReference>
+    </Child>
+    <Child ReferenceText="substances">
+      <PageReference>LTC1:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alexandria">
+    <PageReference>LTC1:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allods">
+    <PageReference>LTC1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amulets">
+    <PageReference>LTC1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antikythera mechanism">
+    <PageReference>LTC1:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Apprenticeships">
+    <PageReference>LTC1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arithmetic">
+    <PageReference>LTC1:20-21</PageReference>
+    <SeeAlso>Mathematics</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Artist skill">
+    <PageReference>LTC1:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astronomy">
+    <Child ReferenceText="observational">
+      <PageReference>LTC1:21-23</PageReference>
+      <PageReference>LTC1:30</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>LTC1:20</PageReference>
+      <PageReference>LTC1:22</PageReference>
+    </Child>
+    <Child ReferenceText="development">
+      <PageReference>LTC1:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bagpipes">
+    <PageReference>LTC1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bands">
+    <PageReference>LTC1:4-5</PageReference>
+    <Child ReferenceText="social traits in">
+      <PageReference>LTC1:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Banks">
+    <SeeAlso>Treasuries</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bardic Lore specialty">
+    <PageReference>LTC1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bells">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body Discipline (Skill) perk">
+    <PageReference>LTC1:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bonesetting">
+    <PageReference>LTC1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Book production">
+    <PageReference>LTC1:33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bookkeeping">
+    <PageReference>LTC1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bullroarers">
+    <PageReference>LTC1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bureaucracies">
+    <PageReference>LTC1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burial practices">
+    <PageReference>LTC1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Calculators">
+    <PageReference>LTC1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Calendars">
+    <PageReference>LTC1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camera obscura">
+    <PageReference>LTC1:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Can’t Read Music quirk">
+    <PageReference>LTC1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caravans">
+    <Child ReferenceText="speed">
+      <PageReference>LTC1:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Castes">
+    <PageReference>LTC1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Castration">
+    <PageReference>LTC1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chancery">
+    <PageReference>LTC1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charms">
+    <PageReference>LTC1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemistry">
+    <PageReference>LTC1:23</PageReference>
+    <Child ReferenceText="terms">
+      <PageReference>LTC1:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chiefdoms">
+    <PageReference>LTC1:6-7</PageReference>
+    <Child ReferenceText="social traits in">
+      <PageReference>LTC1:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Childbirth">
+    <PageReference>LTC1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chinese Empire">
+    <Child ReferenceText="education">
+      <PageReference>LTC1:33</PageReference>
+    </Child>
+    <Child ReferenceText="fossils">
+      <PageReference>LTC1:30</PageReference>
+    </Child>
+    <Child ReferenceText="guilds">
+      <PageReference>LTC1:10</PageReference>
+    </Child>
+    <Child ReferenceText="laws">
+      <PageReference>LTC1:11</PageReference>
+    </Child>
+    <Child ReferenceText="manuscript production">
+      <PageReference>LTC1:33</PageReference>
+      <PageReference>LTC1:34</PageReference>
+    </Child>
+    <Child ReferenceText="merchants in">
+      <PageReference>LTC1:12</PageReference>
+    </Child>
+    <Child ReferenceText="monuments">
+      <PageReference>LTC1:14</PageReference>
+      <PageReference>LTC1:15</PageReference>
+    </Child>
+    <Child ReferenceText="script">
+      <PageReference>LTC1:34</PageReference>
+    </Child>
+    <Child ReferenceText="taxation">
+      <PageReference>LTC1:10</PageReference>
+    </Child>
+    <Child ReferenceText="transportation network">
+      <PageReference>LTC1:7</PageReference>
+    </Child>
+    <Child ReferenceText="alchemy">
+      <PageReference>LTC1:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chordophones">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claim to Hospitality advantage">
+    <PageReference>LTC1:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clans">
+    <PageReference>LTC1:5</PageReference>
+    <PageReference>LTC1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical Investment advantage">
+    <PageReference>LTC1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concussion instruments">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Connoisseur skill">
+    <PageReference>LTC1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contraception">
+    <PageReference>LTC1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Copying">
+    <Child ReferenceText="by hand">
+      <PageReference>LTC1:33-34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic engines">
+    <PageReference>LTC1:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Courts">
+    <Child ReferenceText="of law">
+      <PageReference>LTC1:5</PageReference>
+      <PageReference>LTC1:9</PageReference>
+      <PageReference>LTC1:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Familiarity trait">
+    <PageReference>LTC1:4</PageReference>
+    <PageReference>LTC1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cures">
+    <SeeAlso>Medicine</SeeAlso>
+    <Child ReferenceText="wondrous">
+      <PageReference>LTC1:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Curriculum">
+    <Child ReferenceText="medieval">
+      <PageReference>LTC1:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Democracy">
+    <Child ReferenceText="early">
+      <PageReference>LTC1:9-10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Didgeridoos">
+    <PageReference>LTC1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Digests">
+    <Child ReferenceText="law">
+      <PageReference>LTC1:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dionysius">
+    <Child ReferenceText="workshops of">
+      <PageReference>LTC1:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disciplines of Faith disadvantage">
+    <PageReference>LTC1:15</PageReference>
+    <PageReference>LTC1:16</PageReference>
+    <PageReference>LTC1:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drugs">
+    <SeeAlso>Herbs</SeeAlso>
+    <Child ReferenceText="surgery and">
+      <PageReference>LTC1:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drums">
+    <PageReference>LTC1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dulcimers">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Economy">
+    <Child ReferenceText="laws and concepts">
+      <PageReference>LTC1:12</PageReference>
+    </Child>
+    <Child ReferenceText="early">
+      <PageReference>LTC1:5</PageReference>
+      <PageReference>LTC1:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Education">
+    <SeeAlso>Instruction</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Eidetic Memory advantage">
+    <PageReference>LTC1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emancipation">
+    <PageReference>LTC1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Empires">
+    <Child ReferenceText="rise of">
+      <PageReference>LTC1:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Endowments">
+    <PageReference>LTC1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exorcism">
+    <PageReference>LTC1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expert Skill">
+    <PageReference>LTC1:23</PageReference>
+    <PageReference>LTC1:24</PageReference>
+    <Child ReferenceText="new">
+      <PageReference>LTC1:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Feudalism">
+    <PageReference>LTC1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fiddles">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Finance skill">
+    <PageReference>LTC1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flutes">
+    <PageReference>LTC1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foot relays">
+    <Child ReferenceText="speed">
+      <PageReference>LTC1:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Formalized Drill">
+    <PageReference>LTC1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Formularies">
+    <PageReference>LTC1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fossil collectors">
+    <PageReference>LTC1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Funeral Customs">
+    <PageReference>LTC1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gifting">
+    <PageReference>LTC1:5</PageReference>
+    <PageReference>LTC1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glossary">
+    <Child ReferenceText="pharmaceuticals">
+      <PageReference>LTC1:26</PageReference>
+    </Child>
+    <Child ReferenceText="political and social">
+      <PageReference>LTC1:10</PageReference>
+    </Child>
+    <Child ReferenceText="chemical">
+      <PageReference>LTC1:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Guilds">
+    <PageReference>LTC1:9</PageReference>
+    <PageReference>LTC1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guitars">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gundeshapur">
+    <PageReference>LTC1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guozijian">
+    <PageReference>LTC1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>LTC1:23</PageReference>
+    <PageReference>LTC1:32</PageReference>
+    <PageReference>LTC1:33</PageReference>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>LTC1:25</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>LTC1:33</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech">
+      <PageReference>LTC1:3</PageReference>
+      <PageReference>LTC1:8</PageReference>
+      <PageReference>LTC1:15</PageReference>
+      <PageReference>LTC1:16</PageReference>
+      <PageReference>LTC1:19</PageReference>
+      <PageReference>LTC1:21-26</PageReference>
+      <PageReference>LTC1:31</PageReference>
+      <PageReference>LTC1:32</PageReference>
+      <PageReference>LTC1:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Harps">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing">
+    <SeeAlso>Medicine</SeeAlso>
+    <Child ReferenceText="miraculous">
+      <PageReference>LTC1:25</PageReference>
+    </Child>
+    <Child ReferenceText="shrines">
+      <PageReference>LTC1:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Health">
+    <Child ReferenceText="public">
+      <PageReference>LTC1:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Herbs">
+    <Child ReferenceText="trances and">
+      <PageReference>LTC1:16</PageReference>
+    </Child>
+    <Child ReferenceText="pharmaceutical">
+      <PageReference>LTC1:26</PageReference>
+      <PageReference>LTC1:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Horns">
+    <PageReference>LTC1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horses">
+    <Child ReferenceText="speed">
+      <PageReference>LTC1:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hospitals">
+    <PageReference>LTC1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Human body">
+    <Child ReferenceText="as musical instrument">
+      <PageReference>LTC1:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunter-gathers">
+    <PageReference>LTC1:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hurdy-gurdies">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iconography">
+    <PageReference>LTC1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Idiophones">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Information">
+    <Child ReferenceText="transmission speeds">
+      <PageReference>LTC1:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Institutions of knowledge">
+    <PageReference>LTC1:30-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Instruction">
+    <Child ReferenceText="places for">
+      <PageReference>LTC1:31-33</PageReference>
+    </Child>
+    <Child ReferenceText="methods">
+      <PageReference>LTC1:28-30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jew’s harps">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Keyboard-style instruments">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Keyboards">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knowledge">
+    <Child ReferenceText="institutions">
+      <PageReference>LTC1:30-33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Laws">
+    <Child ReferenceText="enforcement">
+      <PageReference>LTC1:11-12</PageReference>
+    </Child>
+    <Child ReferenceText="early">
+      <PageReference>LTC1:11-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Leadership skill">
+    <PageReference>LTC1:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Learning">
+    <Child ReferenceText="from books">
+      <PageReference>LTC1:29</PageReference>
+    </Child>
+    <Child ReferenceText="environments">
+      <PageReference>LTC1:29-30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lèse majesté">
+    <PageReference>LTC1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Libraries">
+    <PageReference>LTC1:31</PageReference>
+    <PageReference>LTC1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lineages">
+    <PageReference>LTC1:5</PageReference>
+    <PageReference>LTC1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lutes">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lyres">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnates">
+    <Child ReferenceText="as rivals of rulers">
+      <PageReference>LTC1:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Manorialism">
+    <PageReference>LTC1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manuscripts">
+    <PageReference>LTC1:33-34</PageReference>
+    <Child ReferenceText="reading">
+      <PageReference>LTC1:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mathematics">
+    <Child ReferenceText="computational">
+      <PageReference>LTC1:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="development by tech level">
+      <PageReference>LTC1:19</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>LTC1:20</PageReference>
+    </Child>
+    <Child ReferenceText="specialties">
+      <PageReference>LTC1:19</PageReference>
+    </Child>
+    <Child ReferenceText="applications">
+      <PageReference>LTC1:12</PageReference>
+      <PageReference>LTC1:19</PageReference>
+      <PageReference>LTC1:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mbiras">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medicine">
+    <SeeAlso>Healing</SeeAlso>
+    <SeeAlso>Surgery</SeeAlso>
+    <Child ReferenceText="herbs and">
+      <PageReference>LTC1:26</PageReference>
+    </Child>
+    <Child ReferenceText="places for">
+      <PageReference>LTC1:24</PageReference>
+    </Child>
+    <Child ReferenceText="reproductive">
+      <PageReference>LTC1:27</PageReference>
+    </Child>
+    <Child ReferenceText="glossary">
+      <PageReference>LTC1:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Meditation skill">
+    <PageReference>LTC1:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Membranophones">
+    <PageReference>LTC1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Memory">
+    <Child ReferenceText="enhancing">
+      <PageReference>LTC1:29</PageReference>
+    </Child>
+    <Child ReferenceText="artificial">
+      <PageReference>LTC1:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mercantilism">
+    <PageReference>LTC1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchant skill">
+    <PageReference>LTC1:4</PageReference>
+    <PageReference>LTC1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ministries">
+    <PageReference>LTC1:10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monuments">
+    <Child ReferenceText="megalithic">
+      <PageReference>LTC1:13</PageReference>
+    </Child>
+    <Child ReferenceText="prehistoric">
+      <PageReference>LTC1:13-14</PageReference>
+    </Child>
+    <Child ReferenceText="private and political">
+      <PageReference>LTC1:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="religious">
+      <PageReference>LTC1:14</PageReference>
+    </Child>
+    <Child ReferenceText="building">
+      <PageReference>LTC1:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical instruments">
+    <PageReference>LTC1:17-19</PageReference>
+    <Child ReferenceText="skill">
+      <PageReference>LTC1:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical scales">
+    <PageReference>LTC1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nalanda">
+    <PageReference>LTC1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Notae Tironianae">
+    <PageReference>LTC1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Numerals">
+    <Child ReferenceText="nonpositional">
+      <PageReference>LTC1:19</PageReference>
+      <PageReference>LTC1:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Observatories">
+    <PageReference>LTC1:22</PageReference>
+    <Child ReferenceText="of Samarkand">
+      <PageReference>LTC1:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Orreries">
+    <PageReference>LTC1:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paideias">
+    <PageReference>LTC1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paleontology">
+    <PageReference>LTC1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Panpipes">
+    <PageReference>LTC1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paris">
+    <Child ReferenceText="university of">
+      <PageReference>LTC1:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pascalines">
+    <PageReference>LTC1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Percussion instruments">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <Child ReferenceText="new">
+      <PageReference>LTC1:16</PageReference>
+      <PageReference>LTC1:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pharmaceuticals">
+    <Child ReferenceText="glossary">
+      <PageReference>LTC1:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pharmacy skill">
+    <PageReference>LTC1:16</PageReference>
+    <PageReference>LTC1:23</PageReference>
+    <PageReference>LTC1:24</PageReference>
+    <PageReference>LTC1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phlogiston theory">
+    <PageReference>LTC1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pilgrimages">
+    <PageReference>LTC1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poetry">
+    <PageReference>LTC1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Police">
+    <PageReference>LTC1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Politics">
+    <PageReference>LTC1:4-12</PageReference>
+    <Child ReferenceText="skill">
+      <PageReference>LTC1:5</PageReference>
+    </Child>
+    <Child ReferenceText="terms">
+      <PageReference>LTC1:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Popular assemblies">
+    <PageReference>LTC1:9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Priests">
+    <PageReference>LTC1:8</PageReference>
+    <SeeAlso>Temples</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Printing">
+    <PageReference>LTC1:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Professional Skill">
+    <PageReference>LTC1:27</PageReference>
+    <PageReference>LTC1:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psalteries">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Public health">
+    <PageReference>LTC1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Public Speaking skill">
+    <PageReference>LTC1:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramids">
+    <PageReference>LTC1:13</PageReference>
+    <Child ReferenceText="building">
+      <PageReference>LTC1:15-16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Quirks">
+    <Child ReferenceText="new">
+      <PageReference>LTC1:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rattles">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rebabs">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recorders (instruments)">
+    <PageReference>LTC1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reeds (instruments)">
+    <PageReference>LTC1:17</PageReference>
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious establishments">
+    <SeeAlso>Temples</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious Ritual skill">
+    <PageReference>LTC1:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reproductive medicine">
+    <PageReference>LTC1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Republics">
+    <Child ReferenceText="laws">
+      <PageReference>LTC1:11</PageReference>
+    </Child>
+    <Child ReferenceText="early">
+      <PageReference>LTC1:9</PageReference>
+      <PageReference>LTC1:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Riverboats">
+    <Child ReferenceText="speed">
+      <PageReference>LTC1:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Roman Empire">
+    <Child ReferenceText="arithmetic in">
+      <PageReference>LTC1:21</PageReference>
+    </Child>
+    <Child ReferenceText="guilds">
+      <PageReference>LTC1:10</PageReference>
+    </Child>
+    <Child ReferenceText="government">
+      <PageReference>LTC1:9</PageReference>
+      <PageReference>LTC1:11</PageReference>
+    </Child>
+    <Child ReferenceText="laws">
+      <PageReference>LTC1:11</PageReference>
+    </Child>
+    <Child ReferenceText="health">
+      <PageReference>LTC1:24</PageReference>
+      <PageReference>LTC1:25</PageReference>
+      <PageReference>LTC1:28</PageReference>
+    </Child>
+    <Child ReferenceText="memory">
+      <PageReference>LTC1:29</PageReference>
+    </Child>
+    <Child ReferenceText="merchants in">
+      <PageReference>LTC1:12</PageReference>
+    </Child>
+    <Child ReferenceText="monuments">
+      <PageReference>LTC1:14</PageReference>
+      <PageReference>LTC1:15</PageReference>
+    </Child>
+    <Child ReferenceText="script">
+      <PageReference>LTC1:34</PageReference>
+    </Child>
+    <Child ReferenceText="taxation">
+      <PageReference>LTC1:10</PageReference>
+    </Child>
+    <Child ReferenceText="transportation network">
+      <PageReference>LTC1:7</PageReference>
+    </Child>
+    <Child ReferenceText="Alexandria">
+      <PageReference>LTC1:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Royal Society of London">
+    <PageReference>LTC1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rulers">
+    <PageReference>LTC1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Salerno">
+    <Child ReferenceText="university of">
+      <PageReference>LTC1:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Samarkand">
+    <Child ReferenceText="observatory">
+      <PageReference>LTC1:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrapers">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scripts">
+    <PageReference>LTC1:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrolls">
+    <PageReference>LTC1:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serpents (instruments)">
+    <PageReference>LTC1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shengs">
+    <PageReference>LTC1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ship">
+    <Child ReferenceText="seagoing speed">
+      <PageReference>LTC1:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shorthand perk">
+    <PageReference>LTC1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sight-Reading technique">
+    <PageReference>LTC1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Regard advantage">
+    <PageReference>LTC1:4</PageReference>
+    <PageReference>LTC1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma disadvantage">
+    <PageReference>LTC1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social terms">
+    <PageReference>LTC1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Societies">
+    <Child ReferenceText="state (TL1-4)">
+      <PageReference>LTC1:7-12</PageReference>
+    </Child>
+    <Child ReferenceText="stateless (TL0-1)">
+      <PageReference>LTC1:4-7</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>LTC1:4-12</PageReference>
+    </Child>
+    <Child ReferenceText="voting">
+      <PageReference>LTC1:9-10</PageReference>
+    </Child>
+    <Child ReferenceText="communal decision-making">
+      <PageReference>LTC1:5</PageReference>
+      <PageReference>LTC1:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Songs">
+    <PageReference>LTC1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standing stones">
+    <PageReference>LTC1:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stateless societies">
+    <PageReference>LTC1:4-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="States">
+    <PageReference>LTC1:7-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="States">
+    <Child ReferenceText="limits on size">
+      <PageReference>LTC1:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Statistics">
+    <PageReference>LTC1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Status advantage">
+    <PageReference>LTC1:5</PageReference>
+    <PageReference>LTC1:6</PageReference>
+    <PageReference>LTC1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stepped reckoners">
+    <PageReference>LTC1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stonehenge">
+    <PageReference>LTC1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suffrage">
+    <PageReference>LTC1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sumptuary laws">
+    <PageReference>LTC1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surgery">
+    <Child ReferenceText="damage and">
+      <PageReference>LTC1:25</PageReference>
+    </Child>
+    <Child ReferenceText="pain and">
+      <PageReference>LTC1:24-25</PageReference>
+    </Child>
+    <Child ReferenceText="abortion">
+      <PageReference>LTC1:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tax farming">
+    <PageReference>LTC1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <Child ReferenceText="new">
+      <PageReference>LTC1:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Telescopes">
+    <PageReference>LTC1:22-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temples">
+    <PageReference>LTC1:14</PageReference>
+    <Child ReferenceText="as hospitals">
+      <PageReference>LTC1:24</PageReference>
+      <PageReference>LTC1:25</PageReference>
+    </Child>
+    <Child ReferenceText="building">
+      <PageReference>LTC1:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="endowments to">
+      <PageReference>LTC1:15</PageReference>
+    </Child>
+    <Child ReferenceText="fossils and">
+      <PageReference>LTC1:30</PageReference>
+    </Child>
+    <Child ReferenceText="iconography and">
+      <PageReference>LTC1:13</PageReference>
+    </Child>
+    <Child ReferenceText="pyramids and">
+      <PageReference>LTC1:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Terms">
+    <SeeAlso>Glossary</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="TL0-1 societies">
+    <PageReference>LTC1:4-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TL1-4 societies">
+    <PageReference>LTC1:7-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traits">
+    <Child ReferenceText="important social">
+      <PageReference>LTC1:4-6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trances">
+    <PageReference>LTC1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transportation">
+    <Child ReferenceText="in states">
+      <PageReference>LTC1:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel conditions">
+    <PageReference>LTC1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treasuries">
+    <Child ReferenceText="temple">
+      <PageReference>LTC1:14</PageReference>
+    </Child>
+    <Child ReferenceText="of governments">
+      <PageReference>LTC1:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tribes">
+    <PageReference>LTC1:5-6</PageReference>
+    <Child ReferenceText="social traits in">
+      <PageReference>LTC1:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trombones">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Troops">
+    <Child ReferenceText="speed">
+      <PageReference>LTC1:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tutoring">
+    <PageReference>LTC1:28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universities">
+    <Child ReferenceText="early">
+      <PageReference>LTC1:31-33</PageReference>
+    </Child>
+    <Child ReferenceText="non-European">
+      <PageReference>LTC1:32</PageReference>
+    </Child>
+    <Child ReferenceText="curriculum">
+      <PageReference>LTC1:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Voting systems">
+    <PageReference>LTC1:9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wergilds">
+    <PageReference>LTC1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Workshops of Dionysius">
+    <PageReference>LTC1:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Writing systems">
+    <PageReference>LTC1:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zithers">
+    <PageReference>LTC1:18</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

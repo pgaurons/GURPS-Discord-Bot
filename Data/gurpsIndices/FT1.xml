@@ -1,0 +1,1020 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Adventures">
+    <Child ReferenceText="including fantasy-tech in">
+      <PageReference>FT1:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Air">
+    <Child ReferenceText="guns">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:8</PageReference>
+      <PageReference>FT1:9</PageReference>
+    </Child>
+    <Child ReferenceText="transportation">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:16-20</PageReference>
+    </Child>
+    <Child ReferenceText="brakes">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemical laboratories">
+    <PageReference>FT1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy">
+    <PageReference>FT1:29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alkahest">
+    <PageReference>FT1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aluminum">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Analog computer">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Androids">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal-powered paddle wheelers">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:20-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-miasmal gear">
+    <PageReference>FT1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-ship claws">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archimedes">
+    <PageReference>FT1:6-8</PageReference>
+    <PageReference>FT1:19</PageReference>
+    <PageReference>FT1:25</PageReference>
+    <PageReference>FT1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:13</PageReference>
+    <Child ReferenceText="magnets and">
+      <PageReference>FT1:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Arrows">
+    <PageReference>FT1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Articulated claws">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astrological tools">
+    <PageReference>FT1:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astrology">
+    <PageReference>FT1:30-31</PageReference>
+    <Child ReferenceText="medicine and">
+      <PageReference>FT1:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Automata">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Automated">
+    <Child ReferenceText="mannequins">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:26</PageReference>
+    </Child>
+    <Child ReferenceText="tripods">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:26</PageReference>
+    </Child>
+    <Child ReferenceText="doors">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Azzalum">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balloons">
+    <Child ReferenceText="hot air">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:16-17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Batteries">
+    <Child ReferenceText="electrical">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="healing with">
+      <PageReference>FT1:24</PageReference>
+    </Child>
+    <Child ReferenceText="artillery">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bezoar">
+    <PageReference>FT1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioengineering skill">
+    <PageReference>FT1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biological constructs">
+    <PageReference>FT1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bird glider">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bleeding as healing technique">
+    <PageReference>FT1:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bononian stone">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bronze androids">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burning as healing technique">
+    <PageReference>FT1:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Calculator">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caltrops">
+    <PageReference>FT1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <Child ReferenceText="realistic">
+      <PageReference>FT1:3</PageReference>
+    </Child>
+    <Child ReferenceText="including fantasy-tech in">
+      <PageReference>FT1:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannon">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:8-9</PageReference>
+    <PageReference>FT1:16</PageReference>
+    <Child ReferenceText="saddle for">
+      <PageReference>FT1:33</PageReference>
+    </Child>
+    <Child ReferenceText="tanks and">
+      <PageReference>FT1:15</PageReference>
+      <PageReference>FT1:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cars">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Choking harnesses">
+    <PageReference>FT1:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloaks">
+    <Child ReferenceText="gliding">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:18</PageReference>
+    </Child>
+    <Child ReferenceText="leather">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:13</PageReference>
+    </Child>
+    <Child ReferenceText="as air brake">
+      <PageReference>FT1:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clocks">
+    <Child ReferenceText="floral">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:33</PageReference>
+    </Child>
+    <Child ReferenceText="castle">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <PageReference>FT1:13</PageReference>
+    <PageReference>FT1:18</PageReference>
+    <PageReference>FT1:28</PageReference>
+    <Child ReferenceText="flammable">
+      <PageReference>FT1:5</PageReference>
+    </Child>
+    <Child ReferenceText="poisoned">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combination weapons">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost Factor (CF)">
+    <PageReference>FT1:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Craft Secret perk">
+    <PageReference>FT1:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Creation of life">
+    <PageReference>FT1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ctesibius">
+    <PageReference>FT1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Da Vinci">
+    <Child ReferenceText="Leonardo">
+      <PageReference>FT1:8</PageReference>
+      <PageReference>FT1:9</PageReference>
+      <PageReference>FT1:15</PageReference>
+      <PageReference>FT1:18</PageReference>
+      <PageReference>FT1:19</PageReference>
+      <PageReference>FT1:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dew">
+    <Child ReferenceText="booths">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:17</PageReference>
+    </Child>
+    <Child ReferenceText="belts">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Di Giorgio tanks">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Di Jacopo, Mariano">
+    <SeeAlso>Il Taccola</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Diet as healing technique">
+    <PageReference>FT1:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diolkos">
+    <PageReference>FT1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diving bells">
+    <PageReference>FT1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doors">
+    <Child ReferenceText="automated">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drebbel">
+    <Child ReferenceText="submarines">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:21</PageReference>
+    </Child>
+    <Child ReferenceText="diving bells">
+      <PageReference>FT1:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual-weapon attack">
+    <PageReference>FT1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electrical batteries">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electroplating">
+    <PageReference>FT1:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elevator">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elixir of life">
+    <PageReference>FT1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elixirs">
+    <PageReference>FT1:29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Engines">
+    <Child ReferenceText="steam">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Environmental therapy">
+    <PageReference>FT1:31-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment maintenance using pyramids">
+    <PageReference>FT1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Esoteric medicine">
+    <PageReference>FT1:31-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Esoterical medical kits">
+    <PageReference>FT1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Etching">
+    <PageReference>FT1:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ethnic cool">
+    <Child ReferenceText="weapons">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:10-11</PageReference>
+    </Child>
+    <Child ReferenceText="items">
+      <PageReference>FT1:13</PageReference>
+      <PageReference>FT1:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Exercises">
+    <PageReference>FT1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosive caltrops">
+    <PageReference>FT1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearms">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:8-9</PageReference>
+    <PageReference>FT1:12</PageReference>
+    <Child ReferenceText="ultra-low-tech">
+      <PageReference>FT1:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flammable clothing">
+    <PageReference>FT1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flight">
+    <PageReference>FT1:16-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying conveyances">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:16-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Footwear">
+    <PageReference>FT1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fortune-Telling skill">
+    <PageReference>FT1:30-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fossil oosik">
+    <PageReference>FT1:10</PageReference>
+    <PageReference>FT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Francisca">
+    <PageReference>FT1:10</PageReference>
+    <PageReference>FT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genetic engineering">
+    <PageReference>FT1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Germ theory">
+    <PageReference>FT1:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghurka kukri">
+    <PageReference>FT1:10</PageReference>
+    <PageReference>FT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glass">
+    <Child ReferenceText="flexible">
+      <PageReference>FT1:27-28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gliders">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gloves">
+    <PageReference>FT1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grappling catapult">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ground vehicles">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:14-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun-dagger">
+    <PageReference>FT1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun-hatchet">
+    <PageReference>FT1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun-katar">
+    <PageReference>FT1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun-knife">
+    <PageReference>FT1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun-rapier">
+    <PageReference>FT1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun-shield">
+    <PageReference>FT1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun-sword">
+    <PageReference>FT1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunpowder">
+    <PageReference>FT1:34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:8-9</PageReference>
+    <PageReference>FT1:12</PageReference>
+    <PageReference>FT1:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Fantasy">
+    <PageReference>FT1:27</PageReference>
+    <Child ReferenceText="High-Tech">
+      <PageReference>FT1:24</PageReference>
+      <PageReference>FT1:26</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech">
+      <PageReference>FT1:13</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>FT1:29</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>FT1:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Handgonne">
+    <PageReference>FT1:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing">
+    <Child ReferenceText="panacea">
+      <PageReference>FT1:29</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>FT1:31-32</PageReference>
+    </Child>
+    <Child ReferenceText="with batteries">
+      <PageReference>FT1:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heat rays">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:6</PageReference>
+    <PageReference>FT1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helicopters">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helmets">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Herbal medicine">
+    <PageReference>FT1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Homing arrows">
+    <PageReference>FT1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horned helmets">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horse cannon">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horse-killing macuahuitl">
+    <PageReference>FT1:10</PageReference>
+    <PageReference>FT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hydra venom">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ice sailers">
+    <PageReference>FT1:14</PageReference>
+    <PageReference>FT1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Il Taccola">
+    <PageReference>FT1:8</PageReference>
+    <PageReference>FT1:15</PageReference>
+    <PageReference>FT1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incendiary arrows">
+    <PageReference>FT1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incombustible oil">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Katana! skill">
+    <PageReference>FT1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Katana">
+    <PageReference>FT1:10</PageReference>
+    <PageReference>FT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Keel breaker">
+    <PageReference>FT1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kris">
+    <PageReference>FT1:10</PageReference>
+    <PageReference>FT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kukri">
+    <PageReference>FT1:10</PageReference>
+    <PageReference>FT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Land sailing">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Land transportation">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:14-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Land yachts">
+    <PageReference>FT1:14</PageReference>
+    <PageReference>FT1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lapis phosphorus">
+    <PageReference>FT1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leather cloaks">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leonardo">
+    <SeeAlso>Da Vinci</SeeAlso>
+    <Child ReferenceText="tanks">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:15</PageReference>
+    </Child>
+    <Child ReferenceText="batteries">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Levitating instrument">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light">
+    <Child ReferenceText="using batteries">
+      <PageReference>FT1:23</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>FT1:6</PageReference>
+      <PageReference>FT1:19</PageReference>
+    </Child>
+    <Child ReferenceText="from materials">
+      <PageReference>FT1:27</PageReference>
+      <PageReference>FT1:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Linen armor">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Linstock">
+    <PageReference>FT1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Literacy">
+    <PageReference>FT1:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Longbow">
+    <PageReference>FT1:10</PageReference>
+    <PageReference>FT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Macuahuitl">
+    <PageReference>FT1:10</PageReference>
+    <PageReference>FT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical vs">
+    <Child ReferenceText="mundane alchemy">
+      <PageReference>FT1:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnets">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Making and maintaining fantasy-tech">
+    <PageReference>FT1:3-4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mannequins">
+    <Child ReferenceText="automated">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Materials">
+    <Child ReferenceText="unusual">
+      <PageReference>FT1:27-28</PageReference>
+      <PageReference>FT1:30</PageReference>
+      <PageReference>FT1:32</PageReference>
+    </Child>
+    <Child ReferenceText="alchemy">
+      <PageReference>FT1:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical gear">
+    <PageReference>FT1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mercury">
+    <Child ReferenceText="philosophical">
+      <PageReference>FT1:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mines">
+    <Child ReferenceText="naval">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mr">
+    <Child ReferenceText="Stab-Stab Bang-Bang">
+      <PageReference>FT1:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-barrel">
+    <Child ReferenceText="combined arms">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:12</PageReference>
+    </Child>
+    <Child ReferenceText="artillery">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Naval sambuca">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:20</PageReference>
+    <PageReference>FT1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naval siege towers">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:20</PageReference>
+    <PageReference>FT1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja">
+    <Child ReferenceText="suit">
+      <PageReference>FT1:28</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Oil">
+    <Child ReferenceText="incombustible">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Oosik">
+    <PageReference>FT1:10</PageReference>
+    <PageReference>FT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orichalcum">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ornithopter">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:19</PageReference>
+    <PageReference>FT1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Overland transportation">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:14-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ox-driven paddle wheelers">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paddle wheelers">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Panacea">
+    <PageReference>FT1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parachutes">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parasols">
+    <Child ReferenceText="as air brake">
+      <PageReference>FT1:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Periscopes">
+    <PageReference>FT1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perpetual motion machines">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Philoctetes’ bow">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Philosopher’s stone">
+    <PageReference>FT1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plate armor">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Platforms">
+    <Child ReferenceText="moving">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pneumatic">
+    <Child ReferenceText="weapons">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:8-9</PageReference>
+    </Child>
+    <Child ReferenceText="ballista">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:8</PageReference>
+      <PageReference>FT1:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisoned clothing">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Porcelain">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poulticing as healing technique">
+    <PageReference>FT1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power sources">
+    <PageReference>FT1:22-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Preservation using pyramids">
+    <PageReference>FT1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pseudosciences">
+    <PageReference>FT1:29-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pumps">
+    <Child ReferenceText="steam">
+      <PageReference>FT1:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Purging as healing technique">
+    <PageReference>FT1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid power">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Railways">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ray disks">
+    <PageReference>FT1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Renaissance">
+    <Child ReferenceText="calculator">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:25</PageReference>
+    </Child>
+    <Child ReferenceText="helicopter">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:19</PageReference>
+    </Child>
+    <Child ReferenceText="air rifles">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:8</PageReference>
+      <PageReference>FT1:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rutways">
+    <PageReference>FT1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saddle">
+    <Child ReferenceText="for carrying cannon">
+      <PageReference>FT1:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sail-powered land vehicles">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sambuca">
+    <Child ReferenceText="naval">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:20</PageReference>
+      <PageReference>FT1:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sica">
+    <PageReference>FT1:10</PageReference>
+    <PageReference>FT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sea-going vehicles">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:20-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shirazi battery">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoes">
+    <PageReference>FT1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoot-stab maneuver and technique">
+    <PageReference>FT1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="new">
+      <PageReference>FT1:10</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>FT1:4</PageReference>
+    </Child>
+    <Child ReferenceText="to make or maintain tech">
+      <PageReference>FT1:3-4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sound levitation">
+    <PageReference>FT1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specific-attraction conveyances">
+    <PageReference>FT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spiral elevator">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spontaneous Generation specialization">
+    <PageReference>FT1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spring-powered cars">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steam">
+    <Child ReferenceText="engines">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:23</PageReference>
+    </Child>
+    <Child ReferenceText="power">
+      <PageReference>FT1:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="pumps">
+      <PageReference>FT1:23</PageReference>
+    </Child>
+    <Child ReferenceText="cannons">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:8-9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stirrups">
+    <PageReference>FT1:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stone droppers">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Submarines">
+    <PageReference>FT1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sword-grappling gloves">
+    <PageReference>FT1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swords">
+    <Child ReferenceText="very cheap">
+      <PageReference>FT1:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Table">
+    <Child ReferenceText="fantasy-tech skills">
+      <PageReference>FT1:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tanks">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech levels">
+    <Child ReferenceText="of items">
+      <PageReference>FT1:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Technicians of fantasy-tech">
+    <PageReference>FT1:3-4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tomahawks">
+    <PageReference>FT1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tools of alchemy">
+    <PageReference>FT1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transmutation">
+    <PageReference>FT1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transportation">
+    <Child ReferenceText="land">
+      <PageReference>FT1:14-16</PageReference>
+    </Child>
+    <Child ReferenceText="sea">
+      <PageReference>FT1:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="air">
+      <PageReference>FT1:16-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tripods">
+    <Child ReferenceText="automated">
+      <PageReference>FT1:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="True-flight conveyances">
+    <PageReference>FT1:18-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultra-low-tech firearms">
+    <PageReference>FT1:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:14-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vimana">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:19-20</PageReference>
+    <Child ReferenceText="weapons">
+      <PageReference>FT1:4</PageReference>
+      <PageReference>FT1:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Water-walking shoes">
+    <PageReference>FT1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Watercraft">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:20-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>FT1:3-12</PageReference>
+    <PageReference>FT1:16</PageReference>
+    <PageReference>FT1:19</PageReference>
+    <PageReference>FT1:28</PageReference>
+    <PageReference>FT1:33</PageReference>
+    <PageReference>FT1:35</PageReference>
+    <Child ReferenceText="combination">
+      <PageReference>FT1:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Welsh longbow">
+    <PageReference>FT1:10</PageReference>
+    <PageReference>FT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard skill">
+    <Child ReferenceText="new">
+      <PageReference>FT1:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wind">
+    <Child ReferenceText="chariots">
+      <PageReference>FT1:14</PageReference>
+      <PageReference>FT1:15</PageReference>
+    </Child>
+    <Child ReferenceText="barrows">
+      <PageReference>FT1:14</PageReference>
+      <PageReference>FT1:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wings">
+    <PageReference>FT1:4</PageReference>
+    <PageReference>FT1:18-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zanbato">
+    <PageReference>FT1:10</PageReference>
+    <PageReference>FT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zweihander">
+    <PageReference>FT1:11</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

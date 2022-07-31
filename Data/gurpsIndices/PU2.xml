@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Acceleration Tolerance">
+    <PageReference>PU2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accent">
+    <PageReference>PU2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accessory">
+    <PageReference>PU2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatic Feints">
+    <PageReference>PU2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatic Kicks">
+    <PageReference>PU2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air Jet">
+    <PageReference>PU2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Akimbo">
+    <PageReference>PU2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alcohol Tolerance">
+    <PageReference>PU2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Androgynous">
+    <PageReference>PU2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance perks">
+    <PageReference>PU2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor Familiarity">
+    <PageReference>PU2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armorer’s Gift">
+    <PageReference>PU2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attribute Substitution">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Autotrance">
+    <PageReference>PU2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Back to the Wall">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Background Knowledge">
+    <PageReference>PU2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Base">
+    <PageReference>PU2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Better (Gear)">
+    <PageReference>PU2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biting Mastery">
+    <PageReference>PU2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brotherhood">
+    <PageReference>PU2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burrower">
+    <PageReference>PU2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Call of the Wild">
+    <PageReference>PU2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carrier">
+    <PageReference>PU2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charms">
+    <PageReference>PU2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cheaper (Gear)">
+    <PageReference>PU2:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi Resistance">
+    <PageReference>PU2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Citizenship">
+    <PageReference>PU2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Classic Features">
+    <PageReference>PU2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Climbing Line">
+    <PageReference>PU2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clinch">
+    <PageReference>PU2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloak Shtick">
+    <PageReference>PU2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing Shticks">
+    <PageReference>PU2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat perks">
+    <PageReference>PU2:4-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Shticks">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Vaulting">
+    <PageReference>PU2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compact Frame">
+    <PageReference>PU2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Controllable Disadvantage">
+    <Child ReferenceText="physical">
+      <PageReference>PU2:13</PageReference>
+    </Child>
+    <Child ReferenceText="mental">
+      <PageReference>PU2:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Convincing Nod">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cotton Stomach">
+    <PageReference>PU2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Courtesy Title">
+    <PageReference>PU2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Covenant of Rest">
+    <PageReference>PU2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossbow Finesse">
+    <PageReference>PU2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cross-Species Surrogacy">
+    <PageReference>PU2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cross-Trained">
+    <PageReference>PU2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutting-Edge Training">
+    <PageReference>PU2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dabbler">
+    <PageReference>PU2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deep Sleeper">
+    <PageReference>PU2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dirty Fighting">
+    <PageReference>PU2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disarming Smile">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disposable Identity">
+    <PageReference>PU2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doodad">
+    <PageReference>PU2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dramatic Death">
+    <PageReference>PU2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drunken Fighting">
+    <PageReference>PU2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual Ready">
+    <PageReference>PU2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Efficient">
+    <PageReference>PU2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energizer">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment Bond">
+    <PageReference>PU2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment perks">
+    <PageReference>PU2:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exotic Equipment Training">
+    <PageReference>PU2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exotic perks">
+    <PageReference>PU2:9-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exotic Weapon Training">
+    <PageReference>PU2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extended Hearing">
+    <PageReference>PU2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Option">
+    <PageReference>PU2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extreme Sexual Dimorphism">
+    <PageReference>PU2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eye for Distance">
+    <PageReference>PU2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fearsome Stare">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feathers">
+    <PageReference>PU2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flourish Shtick">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Focused (Task)">
+    <PageReference>PU2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Focused Fury">
+    <PageReference>PU2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Follow-Through Shtick">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forgettable Face">
+    <PageReference>PU2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Form Mastery">
+    <PageReference>PU2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Friend">
+    <PageReference>PU2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Full Tank">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fur">
+    <PageReference>PU2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gangster Swagger">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Generator">
+    <PageReference>PU2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Good with (Animal)">
+    <PageReference>PU2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Good with (Social Group)">
+    <PageReference>PU2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grip Mastery">
+    <PageReference>PU2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ground Guard">
+    <PageReference>PU2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>PU2:3</PageReference>
+    <PageReference>PU2:8</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>PU2:3</PageReference>
+    </Child>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>PU2:9</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>PU2:5</PageReference>
+      <PageReference>PU2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>PU2:20</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>PU2:3</PageReference>
+      <PageReference>PU2:5-7</PageReference>
+      <PageReference>PU2:20</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>PU2:11</PageReference>
+    </Child>
+    <Child ReferenceText="Supers">
+      <PageReference>PU2:9</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>PU2:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hands-Free">
+    <PageReference>PU2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Haughty Sneer">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Headhunter">
+    <PageReference>PU2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High-Heeled Heroine">
+    <PageReference>PU2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High-Heeled Hurt">
+    <PageReference>PU2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Honest Face">
+    <PageReference>PU2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Huge Weapons">
+    <PageReference>PU2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyper-Specialization">
+    <PageReference>PU2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ignition">
+    <PageReference>PU2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illumination">
+    <PageReference>PU2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immunity to">
+    <Child ReferenceText="Specific Hazard">
+      <PageReference>PU2:11</PageReference>
+    </Child>
+    <Child ReferenceText="Specific Poison">
+      <PageReference>PU2:11</PageReference>
+    </Child>
+    <Child ReferenceText="Specific Disease">
+      <PageReference>PU2:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvised Weapons">
+    <PageReference>PU2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Influence Shticks">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intuitive Repairman">
+    <PageReference>PU2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron Body Parts">
+    <PageReference>PU2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Job Hunter">
+    <PageReference>PU2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Last Man Out">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="License">
+    <PageReference>PU2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited Camouflage">
+    <PageReference>PU2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Long Fingers/Thumbs">
+    <PageReference>PU2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Looks Good in Uniform">
+    <PageReference>PU2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low Rejection Threshold">
+    <PageReference>PU2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical School Familiarity">
+    <PageReference>PU2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Masked Shtick">
+    <PageReference>PU2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maximum number of perks">
+    <PageReference>PU2:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental perks">
+    <PageReference>PU2:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Named Possession">
+    <PageReference>PU2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naming perks">
+    <PageReference>PU2:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural Pockets">
+    <PageReference>PU2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naval Training">
+    <PageReference>PU2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neck Control">
+    <PageReference>PU2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Degeneration in Zero-G">
+    <PageReference>PU2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Hangover">
+    <PageReference>PU2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Nuisance Rolls">
+    <PageReference>PU2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Visible Damage">
+    <PageReference>PU2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Number of perks allowed">
+    <PageReference>PU2:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obscure True Name">
+    <PageReference>PU2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Off-Hand Training">
+    <PageReference>PU2:16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Office">
+    <PageReference>PU2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Off-Screen Reload">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="On Alert">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-Armed Bandit">
+    <PageReference>PU2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-Task Wonder">
+    <PageReference>PU2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-Way Fluency">
+    <PageReference>PU2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-Way Literacy">
+    <PageReference>PU2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pants-Positive Safety">
+    <PageReference>PU2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parthenogenesis">
+    <PageReference>PU2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Passing Appearance">
+    <PageReference>PU2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Passing Complexion">
+    <PageReference>PU2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patience of Job">
+    <PageReference>PU2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peg-Leg Fighting">
+    <PageReference>PU2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Penetrating Voice">
+    <PageReference>PU2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perfume">
+    <PageReference>PU2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Periscope">
+    <PageReference>PU2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Permit">
+    <PageReference>PU2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pet">
+    <PageReference>PU2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Photogenic">
+    <PageReference>PU2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Physical perks">
+    <PageReference>PU2:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pistol-Fist">
+    <PageReference>PU2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Grappling">
+    <PageReference>PU2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power perks">
+    <PageReference>PU2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure-Tolerant Lungs">
+    <PageReference>PU2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Procedure">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Purpose">
+    <PageReference>PU2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Sheathe">
+    <PageReference>PU2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Swap">
+    <PageReference>PU2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Racial Gifts">
+    <PageReference>PU2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Retraction">
+    <PageReference>PU2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Razor Kicks">
+    <PageReference>PU2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reach Mastery">
+    <PageReference>PU2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reproductive Control">
+    <PageReference>PU2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant to (Specific Poison)">
+    <PageReference>PU2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rest in Pieces">
+    <PageReference>PU2:19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rinse">
+    <PageReference>PU2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robust (Sense)">
+    <PageReference>PU2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rule of 15">
+    <PageReference>PU2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rule of 17 (Skill)">
+    <PageReference>PU2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rules Exemption">
+    <PageReference>PU2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrificial Parry">
+    <PageReference>PU2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sanitized Metabolism">
+    <PageReference>PU2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sartorial Integrity">
+    <PageReference>PU2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scales">
+    <PageReference>PU2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="School Adaptation">
+    <PageReference>PU2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sea Legs">
+    <PageReference>PU2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret Knowledge">
+    <PageReference>PU2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret Styles">
+    <PageReference>PU2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shield-Wall Training">
+    <PageReference>PU2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoves and Tackles">
+    <PageReference>PU2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shticks">
+    <PageReference>PU2:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skill Adaptation">
+    <PageReference>PU2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skill perks">
+    <PageReference>PU2:15-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skintight Shtick">
+    <PageReference>PU2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social perks">
+    <PageReference>PU2:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special Exercises">
+    <PageReference>PU2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special properties of perks">
+    <PageReference>PU2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special Setup">
+    <PageReference>PU2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Contract">
+    <PageReference>PU2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standard Operating" />
+  <IndexReference ReferenceText="Striking Surface">
+    <PageReference>PU2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strongbow">
+    <PageReference>PU2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Style Adaptation">
+    <PageReference>PU2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Style Familiarity">
+    <PageReference>PU2:7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suit Familiarity">
+    <PageReference>PU2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural perks">
+    <PageReference>PU2:19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supersuit">
+    <PageReference>PU2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sure-Footed">
+    <PageReference>PU2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swinging perk">
+    <PageReference>PU2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teamwork">
+    <PageReference>PU2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technique Adaptation">
+    <PageReference>PU2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technique Mastery">
+    <PageReference>PU2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Template Adaptation">
+    <PageReference>PU2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trademark Move">
+    <PageReference>PU2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transporter">
+    <PageReference>PU2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trivial Destiny">
+    <PageReference>PU2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trivial Reputation">
+    <PageReference>PU2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Twirl Shtick">
+    <PageReference>PU2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unarmed Parry">
+    <PageReference>PU2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unique Technique">
+    <PageReference>PU2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background perks">
+    <PageReference>PU2:20-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Posture">
+    <PageReference>PU2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Training">
+    <PageReference>PU2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicle">
+    <PageReference>PU2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Adaptation">
+    <PageReference>PU2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Bond">
+    <PageReference>PU2:9</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

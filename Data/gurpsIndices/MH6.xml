@@ -1,0 +1,499 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abaddon locusts">
+    <PageReference>MH6:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adversaries">
+    <SeeAlso>Monsters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="African religions">
+    <PageReference>MH6:4-5</PageReference>
+    <Child ReferenceText="adversary from">
+      <PageReference>MH6:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="sample spirits">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animated Servitor ability">
+    <PageReference>MH6:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animism">
+    <Child ReferenceText="Neo-Paganism">
+      <PageReference>MH6:11</PageReference>
+    </Child>
+    <Child ReferenceText="indigenous">
+      <PageReference>MH6:8-9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ásatrú">
+    <PageReference>MH6:11</PageReference>
+    <Child ReferenceText="adversary from">
+      <PageReference>MH6:20-21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral Projection ability">
+    <PageReference>MH6:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Australian Aboriginal religion">
+    <PageReference>MH6:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bahá’í Faith">
+    <PageReference>MH6:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buddhism">
+    <PageReference>MH6:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caribou Inuit religion">
+    <PageReference>MH6:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Celtic Reconstructionism">
+    <PageReference>MH6:11</PageReference>
+    <Child ReferenceText="sample spirit">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chango">
+    <Child ReferenceText="Divine Vessel stats">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Character customization">
+    <Child ReferenceText="Chinese traditional religion">
+      <PageReference>MH6:5-6</PageReference>
+    </Child>
+    <Child ReferenceText="Christianity">
+      <PageReference>MH6:6-7</PageReference>
+    </Child>
+    <Child ReferenceText="Hazardous Materials skill">
+      <PageReference>MH6:15</PageReference>
+    </Child>
+    <Child ReferenceText="Hinduism">
+      <PageReference>MH6:7-8</PageReference>
+    </Child>
+    <Child ReferenceText="indigenous animism and shamanism">
+      <PageReference>MH6:8-9</PageReference>
+    </Child>
+    <Child ReferenceText="Islam">
+      <PageReference>MH6:9-10</PageReference>
+    </Child>
+    <Child ReferenceText="Judaism">
+      <PageReference>MH6:10-11</PageReference>
+    </Child>
+    <Child ReferenceText="magic and religious overlap">
+      <PageReference>MH6:16</PageReference>
+    </Child>
+    <Child ReferenceText="Mysticism vs" />
+    <Child ReferenceText="magic">
+      <PageReference>MH6:16</PageReference>
+    </Child>
+    <Child ReferenceText="Neo-Paganism">
+      <PageReference>MH6:11</PageReference>
+    </Child>
+    <Child ReferenceText="new Mysticism abilities">
+      <PageReference>MH6:12-16</PageReference>
+    </Child>
+    <Child ReferenceText="new Theology specialty">
+      <PageReference>MH6:8</PageReference>
+    </Child>
+    <Child ReferenceText="Theology skill and monsters">
+      <PageReference>MH6:22</PageReference>
+    </Child>
+    <Child ReferenceText="African religion">
+      <PageReference>MH6:4-5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chinese traditional religions">
+    <PageReference>MH6:5-6</PageReference>
+    <Child ReferenceText="adversary from">
+      <PageReference>MH6:18</PageReference>
+    </Child>
+    <Child ReferenceText="sample spirits">
+      <PageReference>MH6:14</PageReference>
+      <PageReference>MH6:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Christianity">
+    <PageReference>MH6:6-7</PageReference>
+    <Child ReferenceText="adversary from">
+      <PageReference>MH6:17-18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Curses">
+    <Child ReferenceText="cleansing times">
+      <PageReference>MH6:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine Favor advantage">
+    <PageReference>MH6:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine Vessel ability">
+    <PageReference>MH6:14-15</PageReference>
+    <Child ReferenceText="power-up">
+      <PageReference>MH6:15</PageReference>
+    </Child>
+    <Child ReferenceText="sample spirits">
+      <PageReference>MH6:14-15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dreamtime">
+    <PageReference>MH6:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faiths">
+    <SeeAlso>Religions</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Geb">
+    <Child ReferenceText="Divine Vessel stats">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Basic Set">
+    <PageReference>MH6:3</PageReference>
+    <Child ReferenceText="Dungeon Fantasy 9: Summoners">
+      <PageReference>MH6:18</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>MH6:18</PageReference>
+    </Child>
+    <Child ReferenceText="Horror: The Madness Dossier">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters">
+      <PageReference>MH6:3</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 1: Champions">
+      <PageReference>MH6:3-6</PageReference>
+      <PageReference>MH6:8</PageReference>
+      <PageReference>MH6:12</PageReference>
+      <PageReference>MH6:15</PageReference>
+      <PageReference>MH6:16</PageReference>
+      <PageReference>MH6:18</PageReference>
+      <PageReference>MH6:22</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 2: The Mission">
+      <PageReference>MH6:3</PageReference>
+      <PageReference>MH6:15</PageReference>
+      <PageReference>MH6:16</PageReference>
+      <PageReference>MH6:18</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 3: The Enemy">
+      <PageReference>MH6:3</PageReference>
+      <PageReference>MH6:15-19</PageReference>
+      <PageReference>MH6:21</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 4: Sidekicks">
+      <PageReference>MH6:3</PageReference>
+      <PageReference>MH6:16</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 5: Applied Xenology">
+      <PageReference>MH6:3</PageReference>
+    </Child>
+    <Child ReferenceText="Powers: Divine Favor">
+      <PageReference>MH6:12</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>MH6:10</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Chinese Elemental Powers">
+      <PageReference>MH6:6</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Ritual Path Magic">
+      <PageReference>MH6:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hazardous Materials (Magical) skill">
+    <PageReference>MH6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heathenry (Neo-Paganism)">
+    <PageReference>MH6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hinduism">
+    <PageReference>MH6:7</PageReference>
+    <Child ReferenceText="adversary from">
+      <PageReference>MH6:21-22</PageReference>
+    </Child>
+    <Child ReferenceText="sample spirits">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Huli jing">
+    <PageReference>MH6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ifrit">
+    <PageReference>MH6:18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impundulu">
+    <PageReference>MH6:19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Indigenous animism and shamanism">
+    <PageReference>MH6:8-9</PageReference>
+    <Child ReferenceText="sample spirit">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Instant Karma ability">
+    <PageReference>MH6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intolerance (Religious) disadvantage">
+    <PageReference>MH6:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Islam">
+    <PageReference>MH6:9-10</PageReference>
+    <Child ReferenceText="adversary from">
+      <PageReference>MH6:18-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jainism">
+    <PageReference>MH6:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jor ōgumo">
+    <PageReference>MH6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Judaism">
+    <PageReference>MH6:10-11</PageReference>
+    <Child ReferenceText="adversary from">
+      <PageReference>MH6:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kali">
+    <Child ReferenceText="Divine Vessel stats">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kemetism">
+    <PageReference>MH6:11</PageReference>
+    <Child ReferenceText="sample spirit">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Koxinga">
+    <Child ReferenceText="Divine Vessel stats">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Linnormr">
+    <PageReference>MH6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="M āori religion">
+    <PageReference>MH6:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miracles">
+    <Child ReferenceText="new">
+      <PageReference>MH6:12-16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <Child ReferenceText="new">
+      <PageReference>MH6:17-21</PageReference>
+    </Child>
+    <Child ReferenceText="other sources for">
+      <PageReference>MH6:18</PageReference>
+    </Child>
+    <Child ReferenceText="Theology specialties and">
+      <PageReference>MH6:22</PageReference>
+    </Child>
+    <Child ReferenceText="knowledge about">
+      <PageReference>MH6:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Morrígan">
+    <Child ReferenceText="Divine Vessel stats">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mysticism power">
+    <Child ReferenceText="magic vs" />
+    <Child ReferenceText="">
+      <PageReference>MH6:16</PageReference>
+    </Child>
+    <Child ReferenceText="new abilities">
+      <PageReference>MH6:12-16</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>MH6:15</PageReference>
+    </Child>
+    <Child ReferenceText="character suggestions">
+      <PageReference>MH6:4-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Native American religions">
+    <PageReference>MH6:8</PageReference>
+    <PageReference>MH6:9</PageReference>
+    <Child ReferenceText="adversary from">
+      <PageReference>MH6:9</PageReference>
+    </Child>
+    <Child ReferenceText="sample spirit">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neo-Druidism">
+    <PageReference>MH6:11</PageReference>
+    <Child ReferenceText="sample spirit">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neo-Paganism">
+    <PageReference>MH6:11</PageReference>
+    <Child ReferenceText="adversary from">
+      <PageReference>MH6:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="sample spirits">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ogun">
+    <Child ReferenceText="Divine Vessel stats">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Purifying Incense ability">
+    <PageReference>MH6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid">
+    <Child ReferenceText="#3/70: Fourth Edition Festival">
+      <PageReference>MH6:6</PageReference>
+      <PageReference>MH6:18</PageReference>
+    </Child>
+    <Child ReferenceText="#3/92: Zombies">
+      <PageReference>MH6:21</PageReference>
+    </Child>
+    <Child ReferenceText="#3/66: The Laws of Magic">
+      <PageReference>MH6:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rakshasa">
+    <PageReference>MH6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rama">
+    <Child ReferenceText="Divine Vessel stats">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Cleansing ability">
+    <PageReference>MH6:15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Raven mockers">
+    <PageReference>MH6:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Religions">
+    <SeeAlso>specific religions</SeeAlso>
+    <Child ReferenceText="exclusivism">
+      <PageReference>MH6:4</PageReference>
+    </Child>
+    <Child ReferenceText="overviews">
+      <PageReference>MH6:4-11</PageReference>
+    </Child>
+    <Child ReferenceText="presentation limitations">
+      <PageReference>MH6:3</PageReference>
+      <PageReference>MH6:6</PageReference>
+    </Child>
+    <Child ReferenceText="character customization tips">
+      <PageReference>MH6:4-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual Path magic, Mysticism vs">
+    <Child ReferenceText="">
+      <PageReference>MH6:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Servitors">
+    <Child ReferenceText="stats">
+      <PageReference>MH6:13</PageReference>
+    </Child>
+    <Child ReferenceText="Mysticism ability">
+      <PageReference>MH6:12-13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shamanism">
+    <Child ReferenceText="indigenous">
+      <PageReference>MH6:8-9</PageReference>
+    </Child>
+    <Child ReferenceText="Chinese traditional">
+      <PageReference>MH6:5-6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shamir">
+    <PageReference>MH6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shinto">
+    <PageReference>MH6:9</PageReference>
+    <Child ReferenceText="adversary from">
+      <PageReference>MH6:20</PageReference>
+    </Child>
+    <Child ReferenceText="sample spirit">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sikhism">
+    <PageReference>MH6:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirits">
+    <Child ReferenceText="sample">
+      <PageReference>MH6:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="Mysticism ability">
+      <PageReference>MH6:14-15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Susanoo">
+    <Child ReferenceText="Divine Vessel stats">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thelema">
+    <PageReference>MH6:11</PageReference>
+    <Child ReferenceText="sample spirit">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Theology skill">
+    <Child ReferenceText="Polytheistic defined">
+      <PageReference>MH6:8</PageReference>
+    </Child>
+    <Child ReferenceText="Polytheistic">
+      <PageReference>MH6:7-8</PageReference>
+      <PageReference>MH6:11</PageReference>
+    </Child>
+    <Child ReferenceText="Shamanic">
+      <PageReference>MH6:5-6</PageReference>
+      <PageReference>MH6:8-9</PageReference>
+      <PageReference>MH6:11</PageReference>
+    </Child>
+    <Child ReferenceText="specialties and monster knowledge">
+      <PageReference>MH6:22</PageReference>
+    </Child>
+    <Child ReferenceText="Voodoo">
+      <PageReference>MH6:4-5</PageReference>
+    </Child>
+    <Child ReferenceText="Abrahamic">
+      <PageReference>MH6:6-7</PageReference>
+      <PageReference>MH6:9-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thunderbird">
+    <Child ReferenceText="Divine Vessel stats">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Torah">
+    <PageReference>MH6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Totem Bond ability">
+    <PageReference>MH6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vessel Bond power-up">
+    <PageReference>MH6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wicca">
+    <PageReference>MH6:11</PageReference>
+    <Child ReferenceText="Mysticism and magic">
+      <PageReference>MH6:16</PageReference>
+    </Child>
+    <Child ReferenceText="sample spirits">
+      <PageReference>MH6:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Yup’ik religions">
+    <PageReference>MH6:9</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

@@ -1,0 +1,3142 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abilities Only limitation">
+    <PageReference>H20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Academic template">
+    <PageReference>H33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accelerated Healing enhancement">
+    <PageReference>H21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adam monster">
+    <PageReference>H97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Addiction disadvantage">
+    <PageReference>H22-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Addictive Bite enhancement">
+    <PageReference>H21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="new">
+      <PageReference>H20-21</PageReference>
+    </Child>
+    <Child ReferenceText="powers and">
+      <PageReference>H31-33</PageReference>
+    </Child>
+    <Child ReferenceText="secret">
+      <PageReference>H22</PageReference>
+    </Child>
+    <Child ReferenceText="existing">
+      <PageReference>H11-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Campaigns</SeeAlso>
+    <Child ReferenceText="maintaining the mood">
+      <PageReference>H6</PageReference>
+      <PageReference>H10</PageReference>
+      <PageReference>H44-46</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters">
+      <PageReference>H11</PageReference>
+    </Child>
+    <Child ReferenceText="Plain Folks">
+      <PageReference>H10-11</PageReference>
+    </Child>
+    <Child ReferenceText="character hooks">
+      <PageReference>H6-8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Affliction advantage">
+    <PageReference>H12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AI">
+    <Child ReferenceText="evil">
+      <PageReference>H88</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aliens">
+    <SeeAlso>Unseelie</SeeAlso>
+    <Child ReferenceText="invaders">
+      <PageReference>H76</PageReference>
+    </Child>
+    <Child ReferenceText="infiltrators">
+      <PageReference>H84-85</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammunition">
+    <Child ReferenceText="reducing effectiveness">
+      <PageReference>H56</PageReference>
+    </Child>
+    <Child ReferenceText="silver">
+      <PageReference>H52-53</PageReference>
+    </Child>
+    <Child ReferenceText="wooden">
+      <PageReference>H53</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>H53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ancestor hook">
+    <PageReference>H7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ancient Ones">
+    <PageReference>H73-75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Androids">
+    <PageReference>H88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Angels">
+    <Child ReferenceText="as monsters">
+      <PageReference>H95</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <Child ReferenceText="hordes">
+      <PageReference>H64-65</PageReference>
+    </Child>
+    <Child ReferenceText="man-eating">
+      <PageReference>H62-63</PageReference>
+    </Child>
+    <Child ReferenceText="giant">
+      <PageReference>H65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animation limitation">
+    <PageReference>H19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antagonists">
+    <SeeAlso>Villains</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Antiquary Talent">
+    <PageReference>H19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Apeirophobia">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ape-men">
+    <PageReference>H152-153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Apes">
+    <Child ReferenceText="fifty-foot">
+      <PageReference>H65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Apocalypse">
+    <Child ReferenceText="Phobia">
+      <PageReference>H25</PageReference>
+    </Child>
+    <Child ReferenceText="fear of">
+      <PageReference>H94</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Apparitions">
+    <PageReference>H78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ardat-lili">
+    <PageReference>H93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area Knowledge skill">
+    <PageReference>H28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arendians">
+    <PageReference>H85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aristocrat template">
+    <PageReference>H34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armada-2 worldline">
+    <PageReference>H119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>H48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armoury skill">
+    <PageReference>H28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artist template">
+    <PageReference>H34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aslais">
+    <PageReference>H96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral plane">
+    <PageReference>H108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attorney template">
+    <PageReference>H35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aura spell">
+    <Child ReferenceText="item">
+      <PageReference>H111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Austerity">
+    <PageReference>H106</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>H151</PageReference>
+      <PageReference>H158</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aware enhancement">
+    <PageReference>H13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad Places">
+    <PageReference>H128-130</PageReference>
+    <Child ReferenceText="ghosts and">
+      <PageReference>H77</PageReference>
+    </Child>
+    <Child ReferenceText="planes and">
+      <PageReference>H108</PageReference>
+    </Child>
+    <Child ReferenceText="planets as">
+      <PageReference>H118</PageReference>
+    </Child>
+    <Child ReferenceText="supernatural Corruption and">
+      <PageReference>H147</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Balloon">
+    <Child ReferenceText="water">
+      <PageReference>H49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bane limitation">
+    <PageReference>H14</PageReference>
+    <PageReference>H18</PageReference>
+    <PageReference>H52-53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banshees">
+    <PageReference>H80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bear were-form">
+    <PageReference>H61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beasts">
+    <SeeAlso>Monsters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Beheading Blow technique">
+    <PageReference>H30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Being Buried Alive Phobia">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bibliography">
+    <SeeAlso>Reference Material</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bike locks and chains">
+    <PageReference>H46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biological power modifier">
+    <PageReference>H30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Black magic">
+    <PageReference>H110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blessed advantage">
+    <PageReference>H13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blobbs">
+    <PageReference>H153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Blood in the Craters” campaign">
+    <PageReference>H157-161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Swarm enhancement">
+    <PageReference>H14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body parts">
+    <Child ReferenceText="independent">
+      <PageReference>H15</PageReference>
+      <PageReference>H71</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Boundaries">
+    <PageReference>H106-109</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>H151</PageReference>
+      <PageReference>H158</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Britannica-3 worldline">
+    <PageReference>H119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brute monsters">
+    <PageReference>H97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bullets">
+    <SeeAlso>Ammunition</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Byles">
+    <PageReference>H153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cabal">
+    <PageReference>H10</PageReference>
+    <PageReference>H11</PageReference>
+    <PageReference>H14</PageReference>
+    <PageReference>H52</PageReference>
+    <Child ReferenceText="as enemy">
+      <PageReference>H102</PageReference>
+    </Child>
+    <Child ReferenceText="Code of Honor">
+      <PageReference>H23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cameras">
+    <Child ReferenceText="monsters and">
+      <PageReference>H56</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Camp horror">
+    <PageReference>H129</PageReference>
+    <SeeAlso>Silly Horror</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <SeeAlso>Adventures</SeeAlso>
+    <SeeAlso>Design Parameters</SeeAlso>
+    <SeeAlso>Fears</SeeAlso>
+    <SeeAlso>Genres</SeeAlso>
+    <SeeAlso>Narrative Structures</SeeAlso>
+    <SeeAlso>Villains</SeeAlso>
+    <Child ReferenceText="atmosphere">
+      <PageReference>H131-132</PageReference>
+    </Child>
+    <Child ReferenceText="boundaries">
+      <PageReference>H106-109</PageReference>
+    </Child>
+    <Child ReferenceText="building in the twists">
+      <PageReference>H134</PageReference>
+    </Child>
+    <Child ReferenceText="casting suspicions">
+      <PageReference>H131</PageReference>
+    </Child>
+    <Child ReferenceText="changes of pace">
+      <PageReference>H131</PageReference>
+    </Child>
+    <Child ReferenceText="design">
+      <PageReference>H132-134</PageReference>
+    </Child>
+    <Child ReferenceText="elements">
+      <PageReference>H121-123</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>H150-161</PageReference>
+    </Child>
+    <Child ReferenceText="extraordinary abilities in">
+      <PageReference>H112-113</PageReference>
+    </Child>
+    <Child ReferenceText="first encounter with evil">
+      <PageReference>H133</PageReference>
+    </Child>
+    <Child ReferenceText="high-powered">
+      <PageReference>H104-105</PageReference>
+    </Child>
+    <Child ReferenceText="hooks">
+      <PageReference>H6-8</PageReference>
+      <PageReference>H133</PageReference>
+    </Child>
+    <Child ReferenceText="length">
+      <PageReference>H99-100</PageReference>
+    </Child>
+    <Child ReferenceText="magic in">
+      <PageReference>H109-111</PageReference>
+    </Child>
+    <Child ReferenceText="other modes">
+      <PageReference>H129</PageReference>
+    </Child>
+    <Child ReferenceText="payoff">
+      <PageReference>H134</PageReference>
+    </Child>
+    <Child ReferenceText="plots">
+      <PageReference>H102-103</PageReference>
+    </Child>
+    <Child ReferenceText="power level of">
+      <PageReference>H55</PageReference>
+      <PageReference>H99</PageReference>
+      <PageReference>H103</PageReference>
+      <PageReference>H114</PageReference>
+    </Child>
+    <Child ReferenceText="preventing formula horror">
+      <PageReference>H134</PageReference>
+    </Child>
+    <Child ReferenceText="props">
+      <PageReference>H131-132</PageReference>
+    </Child>
+    <Child ReferenceText="psionics in">
+      <PageReference>H111-112</PageReference>
+    </Child>
+    <Child ReferenceText="reality of legends">
+      <PageReference>H136</PageReference>
+    </Child>
+    <Child ReferenceText="running horror">
+      <PageReference>H131-132</PageReference>
+    </Child>
+    <Child ReferenceText="scale">
+      <PageReference>H105</PageReference>
+    </Child>
+    <Child ReferenceText="scope">
+      <PageReference>H106</PageReference>
+    </Child>
+    <Child ReferenceText="settings">
+      <PageReference>H106-109</PageReference>
+      <PageReference>H128-130</PageReference>
+    </Child>
+    <Child ReferenceText="styles">
+      <PageReference>H123-130</PageReference>
+    </Child>
+    <Child ReferenceText="symbolic settings">
+      <PageReference>H128-130</PageReference>
+    </Child>
+    <Child ReferenceText="teasers">
+      <PageReference>H133</PageReference>
+    </Child>
+    <Child ReferenceText="technology in">
+      <PageReference>H112</PageReference>
+    </Child>
+    <Child ReferenceText="themes">
+      <PageReference>H127-128</PageReference>
+    </Child>
+    <Child ReferenceText="timing">
+      <PageReference>H131</PageReference>
+    </Child>
+    <Child ReferenceText="uncertainty in">
+      <PageReference>H121</PageReference>
+    </Child>
+    <Child ReferenceText="unnatural elements">
+      <PageReference>H123</PageReference>
+    </Child>
+    <Child ReferenceText="adding horror">
+      <PageReference>H132</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Candles">
+    <Child ReferenceText="demon">
+      <PageReference>H111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannibals">
+    <Child ReferenceText="other forms">
+      <PageReference>H72</PageReference>
+      <PageReference>H83</PageReference>
+      <PageReference>H154</PageReference>
+    </Child>
+    <Child ReferenceText="legendary">
+      <PageReference>H84</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannot Close Eyes Supernatural Feature">
+    <PageReference>H26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannot Memorize Forms limitation">
+    <PageReference>H18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cat were-form">
+    <PageReference>H61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cell phones">
+    <PageReference>H46</PageReference>
+    <Child ReferenceText="problem">
+      <PageReference>H122</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chainsaws">
+    <PageReference>H49-51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chalkies">
+    <PageReference>H68-69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Channeling advantage">
+    <PageReference>H13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Disadvantages</SeeAlso>
+    <SeeAlso>Enhancements</SeeAlso>
+    <SeeAlso>Limitations</SeeAlso>
+    <SeeAlso>Monsters</SeeAlso>
+    <SeeAlso>Villains</SeeAlso>
+    <Child ReferenceText="adventure tips">
+      <PageReference>H6</PageReference>
+      <PageReference>H10</PageReference>
+      <PageReference>H44-46</PageReference>
+    </Child>
+    <Child ReferenceText="archetypes">
+      <PageReference>H7</PageReference>
+    </Child>
+    <Child ReferenceText="biographies">
+      <PageReference>H6</PageReference>
+    </Child>
+    <Child ReferenceText="concept">
+      <PageReference>H6</PageReference>
+    </Child>
+    <Child ReferenceText="consequences of actions">
+      <PageReference>H106</PageReference>
+    </Child>
+    <Child ReferenceText="design">
+      <PageReference>H6-9</PageReference>
+    </Child>
+    <Child ReferenceText="development">
+      <PageReference>H9</PageReference>
+    </Child>
+    <Child ReferenceText="hooks">
+      <PageReference>H6-8</PageReference>
+    </Child>
+    <Child ReferenceText="monsters as">
+      <PageReference>H11</PageReference>
+    </Child>
+    <Child ReferenceText="motivation">
+      <PageReference>H9</PageReference>
+    </Child>
+    <Child ReferenceText="party design">
+      <PageReference>H9-11</PageReference>
+    </Child>
+    <Child ReferenceText="personalizing">
+      <PageReference>H7</PageReference>
+    </Child>
+    <Child ReferenceText="point levels">
+      <PageReference>H10</PageReference>
+    </Child>
+    <Child ReferenceText="power levels">
+      <PageReference>H103</PageReference>
+      <PageReference>H104</PageReference>
+    </Child>
+    <Child ReferenceText="special considerations">
+      <PageReference>H6</PageReference>
+    </Child>
+    <Child ReferenceText="stereotypes">
+      <PageReference>H7</PageReference>
+    </Child>
+    <Child ReferenceText="templates">
+      <PageReference>H33-44</PageReference>
+    </Child>
+    <Child ReferenceText="abilities in campaigns">
+      <PageReference>H112-113</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Charlatan template">
+    <PageReference>H40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemlights">
+    <PageReference>H46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi power modifier">
+    <PageReference>H30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Child template">
+    <PageReference>H35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Childhood curse hook">
+    <PageReference>H7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cihuateteos">
+    <PageReference>H93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical Investment advantage">
+    <PageReference>H13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clowns">
+    <Child ReferenceText="evil">
+      <PageReference>H68-69</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor disadvantage">
+    <PageReference>H23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coitophobia">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cold Spot Supernatural Feature">
+    <PageReference>H26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Collector Contacts">
+    <PageReference>H13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <Child ReferenceText="reducing effectiveness">
+      <PageReference>H56</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>H48-53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Communications">
+    <Child ReferenceText="spectral">
+      <PageReference>H47-48</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>H46-48</PageReference>
+      <PageReference>H122</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Compulsive Behavior disadvantage">
+    <PageReference>H23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <Child ReferenceText="evil">
+      <PageReference>H88-89</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Conspiracy horror">
+    <PageReference>H117</PageReference>
+    <Child ReferenceText="austerity">
+      <PageReference>H106</PageReference>
+    </Child>
+    <Child ReferenceText="character hooks and">
+      <PageReference>H8</PageReference>
+    </Child>
+    <Child ReferenceText="character traits and">
+      <PageReference>H13</PageReference>
+      <PageReference>H18</PageReference>
+      <PageReference>H24</PageReference>
+      <PageReference>H25</PageReference>
+    </Child>
+    <Child ReferenceText="example settings">
+      <PageReference>H158</PageReference>
+    </Child>
+    <Child ReferenceText="high-powered horror and">
+      <PageReference>H105</PageReference>
+    </Child>
+    <Child ReferenceText="magic and">
+      <PageReference>H110</PageReference>
+    </Child>
+    <Child ReferenceText="monsters and">
+      <PageReference>H59</PageReference>
+      <PageReference>H82</PageReference>
+      <PageReference>H86</PageReference>
+      <PageReference>H89</PageReference>
+    </Child>
+    <Child ReferenceText="narrative structures and">
+      <PageReference>H101</PageReference>
+    </Child>
+    <Child ReferenceText="other styles and">
+      <PageReference>H125</PageReference>
+    </Child>
+    <Child ReferenceText="scale">
+      <PageReference>H105</PageReference>
+    </Child>
+    <Child ReferenceText="scope">
+      <PageReference>H106</PageReference>
+    </Child>
+    <Child ReferenceText="settings">
+      <PageReference>H107</PageReference>
+      <PageReference>H109</PageReference>
+      <PageReference>H115-119</PageReference>
+    </Child>
+    <Child ReferenceText="themes">
+      <PageReference>H127</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts advantage">
+    <PageReference>H13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corporeal Undead meta-traits">
+    <PageReference>H27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corrupting limitation">
+    <PageReference>H22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corruption points">
+    <PageReference>H146-147</PageReference>
+    <Child ReferenceText="example system">
+      <PageReference>H147-148</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Corruption">
+    <Child ReferenceText="theme">
+      <PageReference>H127</PageReference>
+    </Child>
+    <Child ReferenceText="of magic and powers">
+      <PageReference>H146-148</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic deities">
+    <PageReference>H73</PageReference>
+    <PageReference>H74</PageReference>
+    <SeeAlso>Things Man Was Not Meant To Know</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic horror">
+    <PageReference>H124-125</PageReference>
+    <SeeAlso>Things Man Was Not Meant To Know</SeeAlso>
+    <Child ReferenceText="austerity">
+      <PageReference>H106</PageReference>
+    </Child>
+    <Child ReferenceText="character traits and">
+      <PageReference>H14</PageReference>
+      <PageReference>H16</PageReference>
+      <PageReference>H19</PageReference>
+      <PageReference>H25</PageReference>
+      <PageReference>H32</PageReference>
+    </Child>
+    <Child ReferenceText="example settings">
+      <PageReference>H151</PageReference>
+    </Child>
+    <Child ReferenceText="Fright Checks">
+      <PageReference>H141</PageReference>
+    </Child>
+    <Child ReferenceText="insanity and">
+      <PageReference>H142</PageReference>
+      <PageReference>H147</PageReference>
+    </Child>
+    <Child ReferenceText="modes">
+      <PageReference>H128</PageReference>
+    </Child>
+    <Child ReferenceText="monsters and">
+      <PageReference>H65</PageReference>
+      <PageReference>H73-76</PageReference>
+      <PageReference>H83</PageReference>
+      <PageReference>H94</PageReference>
+    </Child>
+    <Child ReferenceText="narrative structures and">
+      <PageReference>H102</PageReference>
+    </Child>
+    <Child ReferenceText="other styles and">
+      <PageReference>H124</PageReference>
+    </Child>
+    <Child ReferenceText="scale">
+      <PageReference>H105</PageReference>
+    </Child>
+    <Child ReferenceText="scope">
+      <PageReference>H106</PageReference>
+    </Child>
+    <Child ReferenceText="settings">
+      <PageReference>H107</PageReference>
+      <PageReference>H109</PageReference>
+      <PageReference>H115-119</PageReference>
+    </Child>
+    <Child ReferenceText="technology and">
+      <PageReference>H112</PageReference>
+    </Child>
+    <Child ReferenceText="themes">
+      <PageReference>H128</PageReference>
+    </Child>
+    <Child ReferenceText="villains">
+      <PageReference>H103</PageReference>
+      <PageReference>H137</PageReference>
+      <PageReference>H138</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic power modifier">
+    <PageReference>H30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cowards">
+    <PageReference>H138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cratiphobia">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminal template">
+    <PageReference>H36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crosses">
+    <PageReference>H49</PageReference>
+    <PageReference>H50</PageReference>
+    <Child ReferenceText="of protection">
+      <PageReference>H111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crucifixes">
+    <PageReference>H48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cryptids">
+    <PageReference>H81-82</PageReference>
+    <PageReference>H84</PageReference>
+    <Child ReferenceText="study of">
+      <PageReference>H28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cryptozoology Expert Skill">
+    <PageReference>H28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cunning Folk Talent">
+    <PageReference>H19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Current Affairs skill">
+    <PageReference>H28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curse Affliction">
+    <PageReference>H12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cyberpunk genre">
+    <PageReference>H118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Daggers">
+    <PageReference>H111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Daikaiju">
+    <PageReference>H94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Resistance advantage">
+    <PageReference>H14</PageReference>
+    <Child ReferenceText="silver and">
+      <PageReference>H52-53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dead Social Stigma">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death-fetches">
+    <PageReference>H80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delusions disadvantage">
+    <PageReference>H23-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dementophobia">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demiplanes">
+    <PageReference>H108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonology Expert Skill">
+    <PageReference>H28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demons">
+    <PageReference>H95-96</PageReference>
+    <Child ReferenceText="candles">
+      <PageReference>H111</PageReference>
+    </Child>
+    <Child ReferenceText="possession by">
+      <PageReference>H142</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dependents disadvantage">
+    <PageReference>H135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Derangement penalties">
+    <PageReference>H141-142</PageReference>
+    <SeeAlso>Fright Checks</SeeAlso>
+    <Child ReferenceText="conditions caused by">
+      <PageReference>H144</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Design parameters">
+    <PageReference>H105-109</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>H151</PageReference>
+      <PageReference>H158</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Detective template">
+    <PageReference>H37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Devil-beasts">
+    <PageReference>H96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Devotion Talent">
+    <PageReference>H19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Difficult Materialization limitation">
+    <PageReference>H16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <Child ReferenceText="drug side effects">
+      <PageReference>H146</PageReference>
+    </Child>
+    <Child ReferenceText="Fright Checks and">
+      <PageReference>H26</PageReference>
+      <PageReference>H143-144</PageReference>
+    </Child>
+    <Child ReferenceText="hooks and">
+      <PageReference>H7-8</PageReference>
+    </Child>
+    <Child ReferenceText="mental conditions and">
+      <PageReference>H144</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>H26-27</PageReference>
+    </Child>
+    <Child ReferenceText="secret">
+      <PageReference>H22</PageReference>
+    </Child>
+    <Child ReferenceText="existing">
+      <PageReference>H22-26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantageous Alternate Form option">
+    <PageReference>H18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disease power">
+    <PageReference>H31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disembodied brain">
+    <PageReference>H71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine power modifier">
+    <PageReference>H30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dixie-1 worldline">
+    <PageReference>H119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doctor template">
+    <PageReference>H37-38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doleovore enhancement">
+    <PageReference>H21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doppelgängers">
+    <PageReference>H80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dracula">
+    <PageReference>H57</PageReference>
+    <PageReference>H58</PageReference>
+    <SeeAlso>Vampires</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Dread disadvantage">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dream power">
+    <PageReference>H31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dreamworlds">
+    <PageReference>H114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drills">
+    <Child ReferenceText="power">
+      <PageReference>H47</PageReference>
+      <PageReference>H50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drugs">
+    <Child ReferenceText="psychiatric">
+      <PageReference>H146</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Duct tape">
+    <PageReference>H46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dybbuks">
+    <PageReference>H78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ectoplasmic Materialization limitation">
+    <PageReference>H16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eidolons">
+    <PageReference>H79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronic voice phenomena (EVP)">
+    <PageReference>H47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronics Operation skill">
+    <PageReference>H28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="EM filed meters">
+    <PageReference>H47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emotion Control limitation">
+    <PageReference>H17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy Reserve advantage">
+    <PageReference>H20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancements">
+    <Child ReferenceText="new">
+      <PageReference>H13-17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Computers</SeeAlso>
+    <SeeAlso>Technology</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="breaking down">
+      <PageReference>H112</PageReference>
+    </Child>
+    <Child ReferenceText="cell phone problem">
+      <PageReference>H122</PageReference>
+    </Child>
+    <Child ReferenceText="holy">
+      <PageReference>H48</PageReference>
+      <PageReference>H111</PageReference>
+    </Child>
+    <Child ReferenceText="holy water">
+      <PageReference>H48</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>H53</PageReference>
+      <PageReference>H111</PageReference>
+    </Child>
+    <Child ReferenceText="malevolent">
+      <PageReference>H81</PageReference>
+      <PageReference>H88-89</PageReference>
+    </Child>
+    <Child ReferenceText="modern gear and monsters">
+      <PageReference>H55-56</PageReference>
+    </Child>
+    <Child ReferenceText="protection">
+      <PageReference>H48-49</PageReference>
+    </Child>
+    <Child ReferenceText="reducing effectiveness">
+      <PageReference>H112</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>H48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Esoteric Armoury">
+    <PageReference>H28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Etheric plane">
+    <PageReference>H108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evil ancestor hook">
+    <PageReference>H7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expert Skill">
+    <PageReference>H28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explorer templates">
+    <PageReference>H38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extended Duration">
+    <Child ReferenceText="Permanent enhancement">
+      <PageReference>H22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Faërie demiplane">
+    <PageReference>H108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faeries">
+    <PageReference>H83</PageReference>
+    <PageReference>H84</PageReference>
+    <SeeAlso>Unseelie</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="False Memories Delusion">
+    <PageReference>H24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fantasy horror">
+    <PageReference>H113-114</PageReference>
+    <Child ReferenceText="historical">
+      <PageReference>H114-117</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue Only limitation">
+    <PageReference>H18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fear power">
+    <PageReference>H31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fearlessness advantage">
+    <PageReference>H14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fears">
+    <SeeAlso>Fright Checks</SeeAlso>
+    <Child ReferenceText="death">
+      <PageReference>H90-94</PageReference>
+    </Child>
+    <Child ReferenceText="disease">
+      <PageReference>H86-87</PageReference>
+    </Child>
+    <Child ReferenceText="god">
+      <PageReference>H75</PageReference>
+    </Child>
+    <Child ReferenceText="hell">
+      <PageReference>H95-97</PageReference>
+    </Child>
+    <Child ReferenceText="madness">
+      <PageReference>H67-69</PageReference>
+      <PageReference>H83</PageReference>
+    </Child>
+    <Child ReferenceText="mutilation">
+      <PageReference>H69-71</PageReference>
+      <PageReference>H83</PageReference>
+    </Child>
+    <Child ReferenceText="nature">
+      <PageReference>H60-66</PageReference>
+      <PageReference>H83</PageReference>
+    </Child>
+    <Child ReferenceText="no hell">
+      <PageReference>H97</PageReference>
+    </Child>
+    <Child ReferenceText="others">
+      <PageReference>H82-85</PageReference>
+    </Child>
+    <Child ReferenceText="Phobia disadvantage">
+      <PageReference>H25</PageReference>
+    </Child>
+    <Child ReferenceText="poisoning">
+      <PageReference>H59</PageReference>
+    </Child>
+    <Child ReferenceText="sex">
+      <PageReference>H65-66</PageReference>
+    </Child>
+    <Child ReferenceText="starvation">
+      <PageReference>H72-73</PageReference>
+    </Child>
+    <Child ReferenceText="taint">
+      <PageReference>H57-60</PageReference>
+      <PageReference>H83</PageReference>
+    </Child>
+    <Child ReferenceText="technology">
+      <PageReference>H88-89</PageReference>
+    </Child>
+    <Child ReferenceText="the foreign">
+      <PageReference>H73</PageReference>
+    </Child>
+    <Child ReferenceText="the natives">
+      <PageReference>H66</PageReference>
+      <PageReference>H83</PageReference>
+    </Child>
+    <Child ReferenceText="the state">
+      <PageReference>H89-90</PageReference>
+    </Child>
+    <Child ReferenceText="the universe">
+      <PageReference>H73-76</PageReference>
+    </Child>
+    <Child ReferenceText="the unnatural">
+      <PageReference>H77-82</PageReference>
+    </Child>
+    <Child ReferenceText="witches">
+      <PageReference>H82</PageReference>
+    </Child>
+    <Child ReferenceText="apocalypse">
+      <PageReference>H94</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fiberscopes">
+    <PageReference>H47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Film">
+    <Child ReferenceText="specialty">
+      <PageReference>H46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire extinguisher">
+    <PageReference>H49</PageReference>
+    <PageReference>H51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Five Rs">
+    <PageReference>H45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Five Ss">
+    <PageReference>H46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Five Ts">
+    <PageReference>H45-46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flares">
+    <Child ReferenceText="pistols">
+      <PageReference>H49</PageReference>
+    </Child>
+    <Child ReferenceText="hand">
+      <PageReference>H46</PageReference>
+      <PageReference>H50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flashlights">
+    <PageReference>H49</PageReference>
+    <PageReference>H51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flawed limitation">
+    <PageReference>H18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying Swarm enhancement">
+    <PageReference>H14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fortean horror">
+    <PageReference>H129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fortune Telling techniques">
+    <PageReference>H30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frankenstein’s Monster">
+    <PageReference>H97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fright Checks">
+    <PageReference>H139-146</PageReference>
+    <Child ReferenceText="bizarre and supernatural happenings">
+      <PageReference>H140</PageReference>
+    </Child>
+    <Child ReferenceText="conditions caused by">
+      <PageReference>H144</PageReference>
+    </Child>
+    <Child ReferenceText="cumulative effects of">
+      <PageReference>H140</PageReference>
+    </Child>
+    <Child ReferenceText="curing conditions">
+      <PageReference>H144-146</PageReference>
+    </Child>
+    <Child ReferenceText="dead bodies">
+      <PageReference>H140</PageReference>
+    </Child>
+    <Child ReferenceText="derangement and">
+      <PageReference>H141-142</PageReference>
+    </Child>
+    <Child ReferenceText="forgotten lore">
+      <PageReference>H141</PageReference>
+    </Child>
+    <Child ReferenceText="horrible secrets">
+      <PageReference>H141</PageReference>
+    </Child>
+    <Child ReferenceText="insanity and, 143-144 monsters and">
+      <PageReference>H139</PageReference>
+    </Child>
+    <Child ReferenceText="multiple">
+      <PageReference>H140</PageReference>
+    </Child>
+    <Child ReferenceText="stress and">
+      <PageReference>H141-142</PageReference>
+    </Child>
+    <Child ReferenceText="”stunned” results">
+      <PageReference>H141</PageReference>
+    </Child>
+    <Child ReferenceText="tables">
+      <PageReference>H143-144</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gaki">
+    <PageReference>H72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gates">
+    <Child ReferenceText="alternate plane">
+      <PageReference>H111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gaudivore Affliction">
+    <PageReference>H12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genii locorum">
+    <PageReference>H79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genres">
+    <PageReference>H113-119</PageReference>
+    <Child ReferenceText="campaign examples">
+      <PageReference>H150</PageReference>
+      <PageReference>H157</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gernsback worldline">
+    <PageReference>H119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghilan">
+    <PageReference>H64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost hunter lens">
+    <PageReference>H41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghostly Movement ability">
+    <PageReference>H20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghostly Repetition Compulsive Behavior">
+    <PageReference>H23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghosts">
+    <PageReference>H77-81</PageReference>
+    <Child ReferenceText="Compulsive Behavior">
+      <PageReference>H23</PageReference>
+    </Child>
+    <Child ReferenceText="feeding">
+      <PageReference>H77-78</PageReference>
+    </Child>
+    <Child ReferenceText="Phobia">
+      <PageReference>H25</PageReference>
+    </Child>
+    <Child ReferenceText="Possession modifiers">
+      <PageReference>H80</PageReference>
+    </Child>
+    <Child ReferenceText="specialized">
+      <PageReference>H80-81</PageReference>
+    </Child>
+    <Child ReferenceText="variations">
+      <PageReference>H72-73</PageReference>
+      <PageReference>H160-161</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghouls">
+    <PageReference>H59-60</PageReference>
+    <Child ReferenceText="fantasy">
+      <PageReference>H60</PageReference>
+    </Child>
+    <Child ReferenceText="Martian">
+      <PageReference>H159-160</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghuls">
+    <PageReference>H60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gill-men">
+    <PageReference>H153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glass shards">
+    <PageReference>H49</PageReference>
+    <PageReference>H50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gore style">
+    <PageReference>H124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gothic horror">
+    <PageReference>H125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Government">
+    <Child ReferenceText="Phobia">
+      <PageReference>H25</PageReference>
+    </Child>
+    <Child ReferenceText="fear of">
+      <PageReference>H89-90</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Guiafairos">
+    <PageReference>H153-154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guilty secret hook">
+    <PageReference>H7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>H43</PageReference>
+    <PageReference>H114</PageReference>
+    <PageReference>H139</PageReference>
+    <PageReference>H150</PageReference>
+    <PageReference>H172</PageReference>
+    <Child ReferenceText="All-Star Jam 2004">
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Arabian Nights">
+      <PageReference>H115</PageReference>
+    </Child>
+    <Child ReferenceText="Atlantis">
+      <PageReference>H156</PageReference>
+    </Child>
+    <Child ReferenceText="Atomic Horror">
+      <PageReference>H117</PageReference>
+    </Child>
+    <Child ReferenceText="Autoduel">
+      <PageReference>H119</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>H19</PageReference>
+      <PageReference>H139</PageReference>
+    </Child>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>H146</PageReference>
+      <PageReference>H158</PageReference>
+      <PageReference>H159</PageReference>
+    </Child>
+    <Child ReferenceText="Black Ops">
+      <PageReference>H43</PageReference>
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Blood Types">
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Cabal">
+      <PageReference>H102</PageReference>
+      <PageReference>H117</PageReference>
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Cliffhangers">
+      <PageReference>H116</PageReference>
+    </Child>
+    <Child ReferenceText="Creatures of the Night">
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="CthulhuPunk">
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Cyberworld">
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Egypt">
+      <PageReference>H93</PageReference>
+      <PageReference>H115</PageReference>
+    </Child>
+    <Child ReferenceText="Faerie">
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>H72</PageReference>
+      <PageReference>H111</PageReference>
+      <PageReference>H146</PageReference>
+    </Child>
+    <Child ReferenceText="Greece">
+      <PageReference>H115</PageReference>
+    </Child>
+    <Child ReferenceText="High-T ech">
+      <PageReference>H46</PageReference>
+      <PageReference>H53</PageReference>
+    </Child>
+    <Child ReferenceText="Illuminati">
+      <PageReference>H117</PageReference>
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Imperial Rome">
+      <PageReference>H115</PageReference>
+    </Child>
+    <Child ReferenceText="Infinite Worlds">
+      <PageReference>H116</PageReference>
+      <PageReference>H119</PageReference>
+      <PageReference>H129</PageReference>
+      <PageReference>H157</PageReference>
+    </Child>
+    <Child ReferenceText="Loadouts: Monster Hunters">
+      <PageReference>H48</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>H69</PageReference>
+      <PageReference>H95</PageReference>
+      <PageReference>H110</PageReference>
+      <PageReference>H114</PageReference>
+      <PageReference>H146</PageReference>
+      <PageReference>H147</PageReference>
+    </Child>
+    <Child ReferenceText="Mars">
+      <PageReference>H161</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>H11</PageReference>
+      <PageReference>H30</PageReference>
+    </Child>
+    <Child ReferenceText="Middle Ages 1">
+      <PageReference>H115</PageReference>
+    </Child>
+    <Child ReferenceText="Monsters">
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Old West">
+      <PageReference>H115</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>H14</PageReference>
+      <PageReference>H31</PageReference>
+      <PageReference>H69</PageReference>
+      <PageReference>H95</PageReference>
+      <PageReference>H146</PageReference>
+      <PageReference>H147</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 1">
+      <PageReference>H112</PageReference>
+      <PageReference>H146</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Campaigns">
+      <PageReference>H112</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>H112</PageReference>
+      <PageReference>H114</PageReference>
+      <PageReference>H147</PageReference>
+    </Child>
+    <Child ReferenceText="Reign of Steel">
+      <PageReference>H119</PageReference>
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Screampunk">
+      <PageReference>H125</PageReference>
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Shapeshifters">
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Space">
+      <PageReference>H119</PageReference>
+    </Child>
+    <Child ReferenceText="Special Ops">
+      <PageReference>H43</PageReference>
+    </Child>
+    <Child ReferenceText="Spirits">
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Steampunk">
+      <PageReference>H115</PageReference>
+      <PageReference>H151</PageReference>
+      <PageReference>H158</PageReference>
+    </Child>
+    <Child ReferenceText="Supers">
+      <PageReference>H91</PageReference>
+      <PageReference>H118</PageReference>
+    </Child>
+    <Child ReferenceText="Swashbucklers">
+      <PageReference>H115</PageReference>
+    </Child>
+    <Child ReferenceText="T echnomancer">
+      <PageReference>H111</PageReference>
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>H110</PageReference>
+      <PageReference>H141</PageReference>
+      <PageReference>H146</PageReference>
+      <PageReference>H151</PageReference>
+      <PageReference>H152</PageReference>
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Undead">
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Voodoo">
+      <PageReference>H115</PageReference>
+      <PageReference>H151</PageReference>
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="War Against the Chtorr">
+      <PageReference>H161</PageReference>
+    </Child>
+    <Child ReferenceText="Warehouse 23">
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="World War II">
+      <PageReference>H117</PageReference>
+    </Child>
+    <Child ReferenceText="WWII: Weird War II">
+      <PageReference>H117</PageReference>
+      <PageReference>H172</PageReference>
+    </Child>
+    <Child ReferenceText="Y2K">
+      <PageReference>H119</PageReference>
+      <PageReference>H172</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Half-men">
+    <PageReference>H154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Handsome stranger (monster)">
+    <PageReference>H68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Haunt meta-trait">
+    <PageReference>H27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Haunted item hook">
+    <PageReference>H8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hazard enhancement">
+    <PageReference>H21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hazardous Materials skill">
+    <PageReference>H29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Headless Horsemen">
+    <PageReference>H80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heals FP enhancement">
+    <PageReference>H21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hell">
+    <SeeAlso>Demons</SeeAlso>
+    <Child ReferenceText="plane">
+      <PageReference>H108</PageReference>
+    </Child>
+    <Child ReferenceText="power">
+      <PageReference>H32</PageReference>
+    </Child>
+    <Child ReferenceText="fear of">
+      <PageReference>H95-97</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Herbs">
+    <PageReference>H49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden races">
+    <PageReference>H84</PageReference>
+    <SeeAlso>Unseelie</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Higher Purpose advantage">
+    <PageReference>H14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Historical horror">
+    <PageReference>H114-117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy water">
+    <PageReference>H48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hook, The, killers">
+    <PageReference>H67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horrifying Window Affliction">
+    <PageReference>H12</PageReference>
+    <PageReference>H13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Humanoid Form enhancement">
+    <PageReference>H14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunger">
+    <Child ReferenceText="Phobia">
+      <PageReference>H25</PageReference>
+    </Child>
+    <Child ReferenceText="spirits">
+      <PageReference>H72-73</PageReference>
+    </Child>
+    <Child ReferenceText="fear of">
+      <PageReference>H72-73</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperspace">
+    <PageReference>H108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incubi">
+    <PageReference>H66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Independent Body Parts variation">
+    <PageReference>H15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Independent enhancement">
+    <PageReference>H17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infiltration enhancement">
+    <PageReference>H14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinite Worlds campaigns">
+    <PageReference>H119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinity Phobia">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infrared">
+    <Child ReferenceText="filters">
+      <PageReference>H47</PageReference>
+    </Child>
+    <Child ReferenceText="film">
+      <PageReference>H46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury Tolerance advantage">
+    <PageReference>H14-15</PageReference>
+    <Child ReferenceText="Independent Body Parts">
+      <PageReference>H15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Innate Attack advantage">
+    <PageReference>H15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insanity">
+    <PageReference>H142-146</PageReference>
+    <SeeAlso>Fright Checks</SeeAlso>
+    <Child ReferenceText="conditions caused by">
+      <PageReference>H144</PageReference>
+    </Child>
+    <Child ReferenceText="hook">
+      <PageReference>H8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Insensitive limitation">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insubstantiality advantage">
+    <PageReference>H16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intact Undead meta-trait">
+    <PageReference>H27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invaded House">
+    <PageReference>H130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invaders">
+    <SeeAlso>Unseelie</SeeAlso>
+    <Child ReferenceText="metamorphic">
+      <PageReference>H85</PageReference>
+    </Child>
+    <Child ReferenceText="alien">
+      <PageReference>H76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Investigations">
+    <Child ReferenceText="gear">
+      <PageReference>H46-48</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>H45</PageReference>
+    </Child>
+    <Child ReferenceText="standard kit">
+      <PageReference>H46</PageReference>
+    </Child>
+    <Child ReferenceText="useful gear">
+      <PageReference>H46-48</PageReference>
+    </Child>
+    <Child ReferenceText="checklist">
+      <PageReference>H45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Investigative horror">
+    <PageReference>H129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Isolation">
+    <PageReference>H122</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jack the Ripper">
+    <PageReference>H70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="J-horror">
+    <PageReference>H126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jiangshi">
+    <PageReference>H58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Johnson’s Rome worldline">
+    <PageReference>H119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Journalist template">
+    <PageReference>H38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumper advantage">
+    <PageReference>H16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kaiju">
+    <PageReference>H94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kirlian camera">
+    <PageReference>H47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lamashtu">
+    <PageReference>H94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lamia">
+    <PageReference>H66</PageReference>
+    <PageReference>H93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lawnmowers">
+    <PageReference>H50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leech advantage">
+    <PageReference>H20-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <SeeAlso>Templates</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Leprous Touch Affliction">
+    <PageReference>H12</PageReference>
+    <PageReference>H13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lights">
+    <Child ReferenceText="tactical">
+      <PageReference>H47</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>H46-47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lilitu">
+    <PageReference>H93-94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitations">
+    <Child ReferenceText="new">
+      <PageReference>H14-21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited Access limitation">
+    <PageReference>H16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limouphobia">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lion">
+    <Child ReferenceText="man-eating">
+      <PageReference>H63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Little People">
+    <PageReference>H83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lobotomization">
+    <PageReference>H145-146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Long Tongue Supernatural Feature">
+    <PageReference>H26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loups-garous">
+    <PageReference>H72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lycanthropy">
+    <SeeAlso>Werewolves</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Madness">
+    <Child ReferenceText="Phobia">
+      <PageReference>H25</PageReference>
+    </Child>
+    <Child ReferenceText="power">
+      <PageReference>H32</PageReference>
+    </Child>
+    <Child ReferenceText="fear of">
+      <PageReference>H67-69</PageReference>
+      <PageReference>H83</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <Child ReferenceText="bullets">
+      <PageReference>H53</PageReference>
+    </Child>
+    <Child ReferenceText="campaigns and">
+      <PageReference>H109-111</PageReference>
+    </Child>
+    <Child ReferenceText="Corruption and">
+      <PageReference>H146-148</PageReference>
+    </Child>
+    <Child ReferenceText="items">
+      <PageReference>H111</PageReference>
+    </Child>
+    <Child ReferenceText="black">
+      <PageReference>H110</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical power modifier">
+    <PageReference>H31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Malevolent objects">
+    <PageReference>H81</PageReference>
+    <PageReference>H88-89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Malformed Feet Supernatural Feature">
+    <PageReference>H26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mandroids">
+    <PageReference>H90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Man-eaters">
+    <PageReference>H62-63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manifestation enhancement">
+    <PageReference>H17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manitous">
+    <PageReference>H66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marauds">
+    <PageReference>H160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martians">
+    <PageReference>H158-159</PageReference>
+    <Child ReferenceText="ghouls">
+      <PageReference>H159</PageReference>
+    </Child>
+    <Child ReferenceText="technology">
+      <PageReference>H159</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Medium advantage">
+    <PageReference>H17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Memory Wipe Affliction">
+    <PageReference>H12</PageReference>
+    <PageReference>H13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Men In Black">
+    <PageReference>H89-90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental disorders">
+    <SeeAlso>Fright Checks</SeeAlso>
+    <Child ReferenceText="diagnoses">
+      <PageReference>H144</PageReference>
+      <PageReference>H145</PageReference>
+    </Child>
+    <Child ReferenceText="disadvantages and">
+      <PageReference>H144</PageReference>
+    </Child>
+    <Child ReferenceText="cures">
+      <PageReference>H144-146</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mesmerist Talent">
+    <PageReference>H19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metamorphic invaders">
+    <PageReference>H85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-traits">
+    <SeeAlso>Templates</SeeAlso>
+    <Child ReferenceText="new">
+      <PageReference>H27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Metuovore enhancement">
+    <PageReference>H21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meyhoms">
+    <PageReference>H154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Millenniphobia">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Control advantage">
+    <PageReference>H17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minions">
+    <Child ReferenceText="for Cosmic Deities and Ancient Ones">
+      <PageReference>H75-76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mirrors">
+    <Child ReferenceText="realm">
+      <PageReference>H108</PageReference>
+    </Child>
+    <Child ReferenceText="vampires and">
+      <PageReference>H56</PageReference>
+      <PageReference>H58</PageReference>
+    </Child>
+    <Child ReferenceText="gates">
+      <PageReference>H111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Missing relative hook">
+    <PageReference>H8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missing time hook">
+    <PageReference>H8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Misty limitation">
+    <PageReference>H15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modern-day horror">
+    <PageReference>H117-118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modes">
+    <PageReference>H129</PageReference>
+    <SeeAlso>Austerity</SeeAlso>
+    <SeeAlso>Boundaries</SeeAlso>
+    <SeeAlso>Fears</SeeAlso>
+    <SeeAlso>Scale</SeeAlso>
+    <SeeAlso>Scope</SeeAlso>
+    <SeeAlso>Styles</SeeAlso>
+    <SeeAlso>Themes</SeeAlso>
+    <Child ReferenceText="examples">
+      <PageReference>H151</PageReference>
+      <PageReference>H157</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Monster-hunting">
+    <Child ReferenceText="checklist">
+      <PageReference>H45</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>H46-53</PageReference>
+    </Child>
+    <Child ReferenceText="adventures">
+      <PageReference>H11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <SeeAlso>Fears</SeeAlso>
+    <SeeAlso>Villains</SeeAlso>
+    <Child ReferenceText="as antagonists">
+      <PageReference>H102-105</PageReference>
+    </Child>
+    <Child ReferenceText="characteristics of">
+      <PageReference>H136</PageReference>
+    </Child>
+    <Child ReferenceText="characters as">
+      <PageReference>H11</PageReference>
+    </Child>
+    <Child ReferenceText="choosing">
+      <PageReference>H55-56</PageReference>
+    </Child>
+    <Child ReferenceText="modern equipment and">
+      <PageReference>H55-56</PageReference>
+    </Child>
+    <Child ReferenceText="reality of">
+      <PageReference>H136</PageReference>
+    </Child>
+    <Child ReferenceText="stereotypes">
+      <PageReference>H55-56</PageReference>
+    </Child>
+    <Child ReferenceText="archetypes">
+      <PageReference>H55-56</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Moral power modifier">
+    <PageReference>H31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Morois">
+    <PageReference>H58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mummies">
+    <PageReference>H92-93</PageReference>
+    <Child ReferenceText="curses">
+      <PageReference>H92</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mummified Undead meta-trait">
+    <PageReference>H27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Murophobia">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mutilation">
+    <Child ReferenceText="independent body parts">
+      <PageReference>H15</PageReference>
+      <PageReference>H71</PageReference>
+    </Child>
+    <Child ReferenceText="monsters">
+      <PageReference>H70-71</PageReference>
+      <PageReference>H69</PageReference>
+    </Child>
+    <Child ReferenceText="Phobia">
+      <PageReference>H25</PageReference>
+    </Child>
+    <Child ReferenceText="fear of">
+      <PageReference>H69-71</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Myrmidons">
+    <PageReference>H160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mystic template">
+    <PageReference>H39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Narrative structures">
+    <Child ReferenceText="examples">
+      <PageReference>H156</PageReference>
+      <PageReference>H161</PageReference>
+    </Child>
+    <Child ReferenceText="gauntlet">
+      <PageReference>H101</PageReference>
+    </Child>
+    <Child ReferenceText="nemesis">
+      <PageReference>H101</PageReference>
+    </Child>
+    <Child ReferenceText="picaresque">
+      <PageReference>H101</PageReference>
+    </Child>
+    <Child ReferenceText="quest">
+      <PageReference>H102</PageReference>
+    </Child>
+    <Child ReferenceText="escape">
+      <PageReference>H100-101</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural unnatural monsters">
+    <PageReference>H81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nature power modifier">
+    <PageReference>H31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NCO lens">
+    <PageReference>H43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neck Bite technique">
+    <PageReference>H30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neck protectors">
+    <PageReference>H49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necrophones">
+    <PageReference>H48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Needs Sample limitation">
+    <PageReference>H18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nergal worldline">
+    <PageReference>H119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ngojama">
+    <PageReference>H96-97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night Vision advantage">
+    <PageReference>H17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nightmare">
+    <Child ReferenceText="plane">
+      <PageReference>H108</PageReference>
+    </Child>
+    <Child ReferenceText="power">
+      <PageReference>H31</PageReference>
+    </Child>
+    <Child ReferenceText="Affliction">
+      <PageReference>H12</PageReference>
+      <PageReference>H13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="No Pulse Supernatural Feature">
+    <PageReference>H26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Vertical Move limitation">
+    <PageReference>H16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Noisy limitation">
+    <PageReference>H16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nosferatu">
+    <PageReference>H87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oathbound Code of Honor">
+    <PageReference>H23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Objects">
+    <Child ReferenceText="malevolent">
+      <PageReference>H81</PageReference>
+      <PageReference>H88-89</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Obligate Doleovore limitation">
+    <PageReference>H21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obligate Metuovore limitation">
+    <PageReference>H21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occult crime consultant lens">
+    <PageReference>H41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occult! wildcard skill">
+    <PageReference>H29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occultism skill">
+    <PageReference>H29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occultist">
+    <Child ReferenceText="template">
+      <PageReference>H40-41</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>H19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Octopuses">
+    <Child ReferenceText="giant">
+      <PageReference>H154</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Officer lens">
+    <PageReference>H43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One Emotion Only limitation">
+    <PageReference>H17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One Power limitation">
+    <PageReference>H20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oni">
+    <PageReference>H97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Only Heals FP limitation">
+    <PageReference>H21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of the Golden Fleece">
+    <PageReference>H151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of the Silver Sword">
+    <PageReference>H151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outsider meta-trait">
+    <PageReference>H27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paintball guns">
+    <PageReference>H50</PageReference>
+    <PageReference>H51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Palefaces">
+    <PageReference>H68-69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Panic Attacks disadvantage">
+    <PageReference>H26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paralyzing Touch Affliction">
+    <PageReference>H12</PageReference>
+    <PageReference>H13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parapsychology Electronics Operation">
+    <PageReference>H28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrons advantage">
+    <PageReference>H18</PageReference>
+    <Child ReferenceText="false-flagged">
+      <PageReference>H18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pentacles">
+    <Child ReferenceText="electric">
+      <PageReference>H48-49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pepper spray">
+    <PageReference>H50</PageReference>
+    <PageReference>H51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perk">
+    <Child ReferenceText="new">
+      <PageReference>H22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pestilence Innate Attack">
+    <PageReference>H15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pestilent perk">
+    <PageReference>H22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phantasms">
+    <PageReference>H79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phantom ships">
+    <PageReference>H80-81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phobia disadvantage">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Photography skill">
+    <PageReference>H29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Physician skill">
+    <PageReference>H29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Piasa birds">
+    <PageReference>H81-82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pirate template">
+    <PageReference>H152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pishachas">
+    <PageReference>H60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plague Innate Attack">
+    <PageReference>H16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plagues">
+    <PageReference>H86-87</PageReference>
+    <Child ReferenceText="vampire">
+      <PageReference>H87</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Planes">
+    <PageReference>H108</PageReference>
+    <PageReference>H109</PageReference>
+    <Child ReferenceText="gates to">
+      <PageReference>H111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Plots">
+    <PageReference>H102-103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pneumatology Expert Skill">
+    <PageReference>H28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pocket dimensions">
+    <PageReference>H108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pod people">
+    <PageReference>H85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poet Talent">
+    <PageReference>H19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisoning">
+    <Child ReferenceText="Phobia">
+      <PageReference>H25</PageReference>
+    </Child>
+    <Child ReferenceText="fear of">
+      <PageReference>H59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Police officer template">
+    <PageReference>H41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poltergeists">
+    <PageReference>H79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Possession">
+    <Child ReferenceText="by ghosts">
+      <PageReference>H80</PageReference>
+    </Child>
+    <Child ReferenceText="by demons">
+      <PageReference>H142</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>H18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Post-apocalyptic genre">
+    <PageReference>H119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power levels">
+    <Child ReferenceText="campaigns and">
+      <PageReference>H55</PageReference>
+      <PageReference>H99</PageReference>
+      <PageReference>H103</PageReference>
+      <PageReference>H114</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power modifiers">
+    <Child ReferenceText="new">
+      <PageReference>H31-33</PageReference>
+    </Child>
+    <Child ReferenceText="common">
+      <PageReference>H30-31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <PageReference>H30-33</PageReference>
+    <Child ReferenceText="Corruption and">
+      <PageReference>H146-148</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Practitioner template">
+    <PageReference>H39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Priest template">
+    <PageReference>H41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prisms">
+    <Child ReferenceText="magic">
+      <PageReference>H111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Projected Form limitation">
+    <PageReference>H19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Projection limitation">
+    <PageReference>H16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Protective gear">
+    <PageReference>H46-47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic power modifier">
+    <PageReference>H31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionics">
+    <PageReference>H111-112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic silhouettes">
+    <PageReference>H160-161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psycho killers">
+    <PageReference>H67-68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychological horror">
+    <PageReference>H11</PageReference>
+    <PageReference>H125-126</PageReference>
+    <Child ReferenceText="austerity">
+      <PageReference>H106</PageReference>
+    </Child>
+    <Child ReferenceText="character hooks and">
+      <PageReference>H7</PageReference>
+      <PageReference>H8</PageReference>
+    </Child>
+    <Child ReferenceText="character traits and">
+      <PageReference>H14</PageReference>
+      <PageReference>H23</PageReference>
+      <PageReference>H24</PageReference>
+    </Child>
+    <Child ReferenceText="Fright Checks">
+      <PageReference>H141</PageReference>
+    </Child>
+    <Child ReferenceText="high-powered horror and">
+      <PageReference>H105</PageReference>
+    </Child>
+    <Child ReferenceText="insanity and">
+      <PageReference>H143</PageReference>
+    </Child>
+    <Child ReferenceText="narrative structures and">
+      <PageReference>H100-102</PageReference>
+    </Child>
+    <Child ReferenceText="no-magic">
+      <PageReference>H110</PageReference>
+    </Child>
+    <Child ReferenceText="other styles and">
+      <PageReference>H124</PageReference>
+    </Child>
+    <Child ReferenceText="scale">
+      <PageReference>H105</PageReference>
+    </Child>
+    <Child ReferenceText="scope">
+      <PageReference>H106</PageReference>
+    </Child>
+    <Child ReferenceText="settings">
+      <PageReference>H107</PageReference>
+      <PageReference>H109</PageReference>
+      <PageReference>H115-119</PageReference>
+    </Child>
+    <Child ReferenceText="themes">
+      <PageReference>H128</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychology skill">
+    <PageReference>H29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pulp horror">
+    <PageReference>H124</PageReference>
+    <Child ReferenceText="austerity">
+      <PageReference>H106</PageReference>
+    </Child>
+    <Child ReferenceText="character hooks and">
+      <PageReference>H8</PageReference>
+    </Child>
+    <Child ReferenceText="character traits and">
+      <PageReference>H14</PageReference>
+    </Child>
+    <Child ReferenceText="example settings">
+      <PageReference>H150</PageReference>
+      <PageReference>H158</PageReference>
+    </Child>
+    <Child ReferenceText="mental illness cures">
+      <PageReference>H146</PageReference>
+    </Child>
+    <Child ReferenceText="narrative structures and">
+      <PageReference>H101</PageReference>
+      <PageReference>H102</PageReference>
+    </Child>
+    <Child ReferenceText="scale">
+      <PageReference>H105</PageReference>
+    </Child>
+    <Child ReferenceText="settings">
+      <PageReference>H107</PageReference>
+      <PageReference>H115-119</PageReference>
+    </Child>
+    <Child ReferenceText="themes">
+      <PageReference>H128</PageReference>
+    </Child>
+    <Child ReferenceText="villain motivations">
+      <PageReference>H137</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rakshasa">
+    <PageReference>H97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rats Phobia">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reality Tripod worldline">
+    <PageReference>H157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realms">
+    <PageReference>H108</PageReference>
+    <PageReference>H109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reference material">
+    <Child ReferenceText="filmography">
+      <PageReference>H167-171</PageReference>
+    </Child>
+    <Child ReferenceText="for example campaigns">
+      <PageReference>H156</PageReference>
+      <PageReference>H161</PageReference>
+    </Child>
+    <Child ReferenceText="ludography">
+      <PageReference>H171-172</PageReference>
+    </Child>
+    <Child ReferenceText="bibliography">
+      <PageReference>H162-167</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Regeneration advantage">
+    <PageReference>H18</PageReference>
+    <Child ReferenceText="silver and">
+      <PageReference>H52-53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Revenants">
+    <PageReference>H79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reversion enhancement">
+    <PageReference>H16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rippers">
+    <PageReference>H70-71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Romantic horror">
+    <PageReference>H128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rotting Undead meta-trait">
+    <PageReference>H27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Royal Society">
+    <PageReference>H151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rugose Skin Supernatural Feature">
+    <PageReference>H26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rural horror">
+    <PageReference>H107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Satyrs">
+    <PageReference>H69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scale">
+    <PageReference>H105</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>H151</PageReference>
+      <PageReference>H158</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scatter enhancement">
+    <PageReference>H14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scent masking">
+    <PageReference>H49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Science-fiction horror">
+    <PageReference>H118-119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scientist lens">
+    <PageReference>H33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scope">
+    <PageReference>H106</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>H151</PageReference>
+      <PageReference>H158</PageReference>
+    </Child>
+    <Child ReferenceText="visible">
+      <PageReference>H106</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Se’irim">
+    <PageReference>H69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sea serpents">
+    <PageReference>H154-155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Seas of Dread” campaign">
+    <PageReference>H150-156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Second Sight ability">
+    <PageReference>H18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret history campaigns">
+    <PageReference>H114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret Society Code of Honor">
+    <PageReference>H23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serial killers">
+    <PageReference>H67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serpent-folk">
+    <PageReference>H84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Settings">
+    <PageReference>H128-130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sex">
+    <Child ReferenceText="phobia">
+      <PageReference>H25</PageReference>
+    </Child>
+    <Child ReferenceText="fear of">
+      <PageReference>H65-66</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shades">
+    <PageReference>H79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadowland">
+    <PageReference>H108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadows (ghosts)">
+    <PageReference>H79-80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shaggy ones">
+    <PageReference>H69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shapeshifting advantage">
+    <PageReference>H18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shark suits">
+    <PageReference>H49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharks">
+    <Child ReferenceText="man-eating">
+      <PageReference>H63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shikaku-Mon worldline">
+    <PageReference>H119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ships">
+    <Child ReferenceText="phantom">
+      <PageReference>H80-81</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Silly horror">
+    <PageReference>H126</PageReference>
+    <Child ReferenceText="austerity">
+      <PageReference>H106</PageReference>
+    </Child>
+    <Child ReferenceText="modes and">
+      <PageReference>H129</PageReference>
+    </Child>
+    <Child ReferenceText="scale">
+      <PageReference>H105</PageReference>
+    </Child>
+    <Child ReferenceText="settings">
+      <PageReference>H117</PageReference>
+      <PageReference>H119</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Silver">
+    <Child ReferenceText="nitrate">
+      <PageReference>H53</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>H52-53</PageReference>
+    </Child>
+    <Child ReferenceText="mirrors">
+      <PageReference>H56</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skeletal Undead meta-trait">
+    <PageReference>H27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skeletons">
+    <PageReference>H27</PageReference>
+    <PageReference>H155</PageReference>
+    <SeeAlso>Zombies</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>H28-29</PageReference>
+    <Child ReferenceText="investigation">
+      <PageReference>H45</PageReference>
+    </Child>
+    <Child ReferenceText="monsterhunting">
+      <PageReference>H45-46</PageReference>
+    </Child>
+    <Child ReferenceText="wildcard">
+      <PageReference>H29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skinbound limitation">
+    <PageReference>H19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayer template">
+    <PageReference>H43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleep Affliction">
+    <PageReference>H12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slow Recharge limitation">
+    <PageReference>H20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma disadvantage">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soldier template">
+    <Child ReferenceText="retired">
+      <PageReference>H42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Space genre">
+    <PageReference>H119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special Recharge limitation">
+    <PageReference>H20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specter meta-trait">
+    <PageReference>H27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spectral communications">
+    <PageReference>H47-48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spectrophobia">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spiricoms">
+    <PageReference>H48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit">
+    <Child ReferenceText="meta-traits">
+      <PageReference>H27</PageReference>
+    </Child>
+    <Child ReferenceText="power modifier">
+      <PageReference>H31</PageReference>
+    </Child>
+    <Child ReferenceText="daggers">
+      <PageReference>H111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirits">
+    <SeeAlso>Ghosts</SeeAlso>
+    <Child ReferenceText="hungry">
+      <PageReference>H72-73</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Splatter style">
+    <PageReference>H124</PageReference>
+    <Child ReferenceText="austerity">
+      <PageReference>H106</PageReference>
+    </Child>
+    <Child ReferenceText="example settings">
+      <PageReference>H151</PageReference>
+      <PageReference>H157</PageReference>
+      <PageReference>H158</PageReference>
+    </Child>
+    <Child ReferenceText="insanity and">
+      <PageReference>H143</PageReference>
+    </Child>
+    <Child ReferenceText="scale">
+      <PageReference>H105</PageReference>
+    </Child>
+    <Child ReferenceText="settings">
+      <PageReference>H115</PageReference>
+      <PageReference>H118</PageReference>
+      <PageReference>H119</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Squirt carbines">
+    <PageReference>H50</PageReference>
+    <PageReference>H51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stake to the Heart technique">
+    <PageReference>H30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="State, the, power">
+    <PageReference>H32-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steal (Other Score) enhancement">
+    <PageReference>H21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steal Youth enhancement">
+    <PageReference>H21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steampunk setting">
+    <PageReference>H115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starvation">
+    <SeeAlso>Hunger</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Strangle Hold technique">
+    <PageReference>H30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stress penalties">
+    <PageReference>H141-142</PageReference>
+    <SeeAlso>Fright Checks</SeeAlso>
+    <Child ReferenceText="conditions caused by">
+      <PageReference>H144</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Strong Venom Innate Attack">
+    <PageReference>H16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Styles">
+    <PageReference>H123-127</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>H150</PageReference>
+      <PageReference>H157</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Succubi">
+    <PageReference>H66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suggestion limitation">
+    <PageReference>H17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Summerland">
+    <PageReference>H108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sun lamps">
+    <PageReference>H47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super power modifier">
+    <PageReference>H31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural abilities">
+    <PageReference>H146-148</PageReference>
+    <SeeAlso>Magic</SeeAlso>
+    <SeeAlso>Powers</SeeAlso>
+    <Child ReferenceText="Corruption and">
+      <PageReference>H147-148</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural Contacts">
+    <PageReference>H14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural Durability">
+    <PageReference>H19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural Features disadvantage">
+    <PageReference>H26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supers genre">
+    <PageReference>H117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surrealism">
+    <PageReference>H123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival horror">
+    <PageReference>H127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swamp Monsters">
+    <PageReference>H64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Syrens">
+    <PageReference>H155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="improvised melee weapons">
+      <PageReference>H50-51</PageReference>
+    </Child>
+    <Child ReferenceText="improvised ranged weapons">
+      <PageReference>H51</PageReference>
+    </Child>
+    <Child ReferenceText="madness">
+      <PageReference>H143</PageReference>
+      <PageReference>H144</PageReference>
+    </Child>
+    <Child ReferenceText="describing Things Man Was Not Meant To Know">
+      <PageReference>H74</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Taint power">
+    <PageReference>H33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talent advantage">
+    <PageReference>H19</PageReference>
+    <Child ReferenceText="for powers">
+      <PageReference>H31-33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talking boards">
+    <PageReference>H47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taphephobia">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech template">
+    <PageReference>H43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <Child ReferenceText="new">
+      <PageReference>H30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Technology">
+    <SeeAlso>Computers</SeeAlso>
+    <SeeAlso>Equipment</SeeAlso>
+    <SeeAlso>Malevolent Objects</SeeAlso>
+    <Child ReferenceText="black">
+      <PageReference>H112</PageReference>
+    </Child>
+    <Child ReferenceText="malevolent">
+      <PageReference>H81</PageReference>
+      <PageReference>H88-89</PageReference>
+    </Child>
+    <Child ReferenceText="anti">
+      <PageReference>H112</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Technothriller horror">
+    <PageReference>H129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telekinesis advantage">
+    <PageReference>H19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature guns">
+    <PageReference>H47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <SeeAlso>Meta-Traits</SeeAlso>
+    <Child ReferenceText="monster">
+      <PageReference>H57-76</PageReference>
+      <PageReference>H78-85</PageReference>
+      <PageReference>H87-94</PageReference>
+      <PageReference>H96-97</PageReference>
+      <PageReference>H152-155</PageReference>
+      <PageReference>H158-161</PageReference>
+    </Child>
+    <Child ReferenceText="character">
+      <PageReference>H33-44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tempters">
+    <PageReference>H97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tenuous Form">
+    <PageReference>H15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terminal Condition limitation">
+    <PageReference>H22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Themes">
+    <PageReference>H127-128</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>H151</PageReference>
+      <PageReference>H157-158</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Therapy">
+    <PageReference>H144-145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Things Man Was Not Meant To Know">
+    <PageReference>H73-76</PageReference>
+    <Child ReferenceText="describing">
+      <PageReference>H74</PageReference>
+    </Child>
+    <Child ReferenceText="plots">
+      <PageReference>H103</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thought-forms">
+    <PageReference>H81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Threshold Entity meta-trait">
+    <PageReference>H27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrills">
+    <PageReference>H124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time travel">
+    <PageReference>H116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tome of the Sorcerer">
+    <PageReference>H111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tone generators">
+    <PageReference>H46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Touch enhancement">
+    <PageReference>H16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toxicophobia">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transhuman horror genre">
+    <PageReference>H118-119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transhuman Space">
+    <PageReference>H119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traumatophobia">
+    <PageReference>H25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Troglodytes">
+    <PageReference>H84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Augury technique">
+    <PageReference>H30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Faith advantage">
+    <PageReference>H19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True I Ching technique">
+    <PageReference>H30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Scrying technique">
+    <PageReference>H30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Tarot technique">
+    <PageReference>H30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tulpas">
+    <PageReference>H81</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>H68</PageReference>
+      <PageReference>H90</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tumors">
+    <PageReference>H142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ufology Expert Skill">
+    <PageReference>H28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultraviolet (UV) bulbs">
+    <PageReference>H47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead meta-traits">
+    <PageReference>H27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unfazeable advantage">
+    <PageReference>H19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal enhancement">
+    <PageReference>H17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unkillable advantage">
+    <Child ReferenceText="silver and">
+      <PageReference>H53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unnatural natural monsters">
+    <PageReference>H64-65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unseelie">
+    <PageReference>H82-84</PageReference>
+    <Child ReferenceText="aliens as">
+      <PageReference>H84-85</PageReference>
+    </Child>
+    <Child ReferenceText="androids as">
+      <PageReference>H88</PageReference>
+    </Child>
+    <Child ReferenceText="metamorphic invaders as">
+      <PageReference>H85</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Untrue Beliefs delusions">
+    <PageReference>H24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Upurinas">
+    <PageReference>H58-59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Urban horror">
+    <PageReference>H107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Urban living legends">
+    <PageReference>H68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampire Society Code of Honor">
+    <PageReference>H23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampires">
+    <PageReference>H57-59</PageReference>
+    <Child ReferenceText="lords">
+      <PageReference>H59</PageReference>
+    </Child>
+    <Child ReferenceText="plague">
+      <PageReference>H87</PageReference>
+    </Child>
+    <Child ReferenceText="psychic">
+      <PageReference>H58</PageReference>
+    </Child>
+    <Child ReferenceText="romantic">
+      <PageReference>H65-66</PageReference>
+    </Child>
+    <Child ReferenceText="variations">
+      <PageReference>H57-59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampirologist lens">
+    <PageReference>H41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampirology Expert Skill">
+    <PageReference>H28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vetalas">
+    <PageReference>H59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Victims">
+    <Child ReferenceText="sneaky tricks">
+      <PageReference>H135</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>H135</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Victorian">
+    <Child ReferenceText="faeries">
+      <PageReference>H83</PageReference>
+    </Child>
+    <Child ReferenceText="horror aspects">
+      <PageReference>H8</PageReference>
+      <PageReference>H25</PageReference>
+      <PageReference>H57</PageReference>
+      <PageReference>H65</PageReference>
+      <PageReference>H115</PageReference>
+      <PageReference>H125</PageReference>
+    </Child>
+    <Child ReferenceText="mediums">
+      <PageReference>H17</PageReference>
+    </Child>
+    <Child ReferenceText="psionics">
+      <PageReference>H111</PageReference>
+    </Child>
+    <Child ReferenceText="example setting">
+      <PageReference>H157-161</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Villains">
+    <SeeAlso>Fears</SeeAlso>
+    <SeeAlso>Monsters</SeeAlso>
+    <Child ReferenceText="characteristics of">
+      <PageReference>H136</PageReference>
+    </Child>
+    <Child ReferenceText="high-powered">
+      <PageReference>H104-105</PageReference>
+    </Child>
+    <Child ReferenceText="motivations">
+      <PageReference>H136-138</PageReference>
+    </Child>
+    <Child ReferenceText="no motivation">
+      <PageReference>H138</PageReference>
+    </Child>
+    <Child ReferenceText="opportunity">
+      <PageReference>H138</PageReference>
+    </Child>
+    <Child ReferenceText="power levels and">
+      <PageReference>H103</PageReference>
+    </Child>
+    <Child ReferenceText="as antagonists">
+      <PageReference>H102-105</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Viruses">
+    <Child ReferenceText="killer">
+      <PageReference>H86</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Visual enhancement">
+    <PageReference>H17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vlad the Impaler">
+    <PageReference>H57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voodoo dolls">
+    <PageReference>H111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vulnerability disadvantage">
+    <Child ReferenceText="silver and">
+      <PageReference>H52-53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wainscot fantasy">
+    <PageReference>H110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warp advantage">
+    <PageReference>H20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <Child ReferenceText="magic">
+      <PageReference>H111</PageReference>
+    </Child>
+    <Child ReferenceText="reducing effectiveness">
+      <PageReference>H56</PageReference>
+    </Child>
+    <Child ReferenceText="silver">
+      <PageReference>H52-53</PageReference>
+    </Child>
+    <Child ReferenceText="wooden">
+      <PageReference>H53</PageReference>
+    </Child>
+    <Child ReferenceText="improvised">
+      <PageReference>H49-51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wendigo">
+    <PageReference>H72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Were-forms">
+    <PageReference>H61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Werewolves">
+    <PageReference>H60-61</PageReference>
+    <Child ReferenceText="becoming">
+      <PageReference>H62</PageReference>
+    </Child>
+    <Child ReferenceText="stopping">
+      <PageReference>H62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard skill">
+    <PageReference>H29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wind walkers">
+    <PageReference>H73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Window to the Soul">
+    <PageReference>H111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Witch template">
+    <PageReference>H82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Witch’s Mark Supernatural Feature">
+    <PageReference>H26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Witches">
+    <PageReference>H82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Witiko">
+    <PageReference>H73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wolf were-form">
+    <PageReference>H61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wolf-men">
+    <PageReference>H61-62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wooden bullets">
+    <PageReference>H53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Writer template">
+    <PageReference>H44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombies">
+    <PageReference>H90-92</PageReference>
+    <PageReference>H155</PageReference>
+    <Child ReferenceText="B-movie">
+      <PageReference>H91</PageReference>
+    </Child>
+    <Child ReferenceText="mobs">
+      <PageReference>H91</PageReference>
+    </Child>
+    <Child ReferenceText="voodoo">
+      <PageReference>H91-92</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

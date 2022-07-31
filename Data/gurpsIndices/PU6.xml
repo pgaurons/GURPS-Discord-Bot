@@ -1,0 +1,1606 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="quirk versions">
+      <PageReference>PU6:30</PageReference>
+      <PageReference>PU6:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alcohol-related quirks">
+    <PageReference>PU6:9</PageReference>
+    <PageReference>PU6:10</PageReference>
+    <PageReference>PU6:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aversions (quirks)">
+    <PageReference>PU6:25-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Belief quirks">
+    <PageReference>PU6:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claim to Hospitality">
+    <Child ReferenceText="quirk version">
+      <PageReference>PU6:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing quirks">
+    <PageReference>PU6:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cognition quirks">
+    <PageReference>PU6:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conviction quirks">
+    <PageReference>PU6:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantage variations">
+    <PageReference>PU6:9-12</PageReference>
+    <SeeAlso>Quirk-Level Disadvantage index</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Dress-code quirks">
+    <PageReference>PU6:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exotic quirks">
+    <PageReference>PU6:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>PU6:3</PageReference>
+    <PageReference>PU6:8</PageReference>
+    <PageReference>PU6:20</PageReference>
+    <PageReference>PU6:21</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>PU6:3</PageReference>
+      <PageReference>PU6:6</PageReference>
+      <PageReference>PU6:22</PageReference>
+    </Child>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>PU6:3</PageReference>
+      <PageReference>PU6:23</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>PU6:3</PageReference>
+      <PageReference>PU6:6</PageReference>
+      <PageReference>PU6:34</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>PU6:3</PageReference>
+      <PageReference>PU6:17</PageReference>
+    </Child>
+    <Child ReferenceText="LowTech Companion 1: Philosophers and Kings">
+      <PageReference>PU6:3</PageReference>
+    </Child>
+    <Child ReferenceText="Supers">
+      <PageReference>PU6:3</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>PU6:3</PageReference>
+      <PageReference>PU6:21</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>PU6:21</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat">
+      <PageReference>PU6:6</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>PU6:8</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>PU6:14</PageReference>
+      <PageReference>PU6:30</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 5: Impulse Buys">
+      <PageReference>PU6:21</PageReference>
+    </Child>
+    <Child ReferenceText="Gun Fu">
+      <PageReference>PU6:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Looks-related quirks">
+    <PageReference>PU6:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic-related quirks">
+    <PageReference>PU6:33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mannerisms-related quirks">
+    <PageReference>PU6:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental quirks">
+    <PageReference>PU6:17-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-game quirks">
+    <PageReference>PU6:21-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mini-disadvantages">
+    <Child ReferenceText="definition">
+      <PageReference>PU6:4</PageReference>
+    </Child>
+    <Child ReferenceText="effects">
+      <PageReference>PU6:4-5</PageReference>
+    </Child>
+    <Child ReferenceText="enforcing">
+      <PageReference>PU6:5</PageReference>
+    </Child>
+    <Child ReferenceText="limiting number">
+      <PageReference>PU6:6</PageReference>
+    </Child>
+    <Child ReferenceText="compared to roleplaying-only quirks">
+      <PageReference>PU6:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Physical quirks">
+    <PageReference>PU6:22-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Point-spending quirks">
+    <PageReference>PU6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power quirks">
+    <PageReference>PU6:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Preference quirks">
+    <PageReference>PU6:25-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Preoccupation quirks">
+    <PageReference>PU6:27-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid magazine">
+    <PageReference>PU6:3</PageReference>
+    <SeeAlso>GURPS</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Quirks">
+    <SeeAlso>specific quirk categories and quirk indexes</SeeAlso>
+    <Child ReferenceText="as disadvantage variations">
+      <PageReference>PU6:9-12</PageReference>
+    </Child>
+    <Child ReferenceText="buying off">
+      <PageReference>PU6:7</PageReference>
+    </Child>
+    <Child ReferenceText="changing">
+      <PageReference>PU6:5-7</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>PU6:4</PageReference>
+    </Child>
+    <Child ReferenceText="disadvantage buy-off and">
+      <PageReference>PU6:7</PageReference>
+    </Child>
+    <Child ReferenceText="effects">
+      <PageReference>PU6:4-5</PageReference>
+    </Child>
+    <Child ReferenceText="empty slots">
+      <PageReference>PU6:5-6</PageReference>
+    </Child>
+    <Child ReferenceText="enforcing">
+      <PageReference>PU6:5</PageReference>
+    </Child>
+    <Child ReferenceText="gaining new">
+      <PageReference>PU6:7</PageReference>
+    </Child>
+    <Child ReferenceText="naming">
+      <PageReference>PU6:8</PageReference>
+    </Child>
+    <Child ReferenceText="number of">
+      <PageReference>PU6:6</PageReference>
+    </Child>
+    <Child ReferenceText="overlapping">
+      <PageReference>PU6:5</PageReference>
+    </Child>
+    <Child ReferenceText="stacking">
+      <PageReference>PU6:5</PageReference>
+    </Child>
+    <Child ReferenceText="acquired in play">
+      <PageReference>PU6:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Racial quirks">
+    <PageReference>PU6:12-13</PageReference>
+    <PageReference>PU6:18</PageReference>
+    <PageReference>PU6:33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roleplaying-only quirks">
+    <Child ReferenceText="definition">
+      <PageReference>PU6:4</PageReference>
+    </Child>
+    <Child ReferenceText="effects">
+      <PageReference>PU6:4</PageReference>
+    </Child>
+    <Child ReferenceText="enforcing">
+      <PageReference>PU6:5</PageReference>
+    </Child>
+    <Child ReferenceText="limiting number">
+      <PageReference>PU6:6</PageReference>
+    </Child>
+    <Child ReferenceText="compared to minidisadvantages">
+      <PageReference>PU6:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sexuality quirks">
+    <PageReference>PU6:14</PageReference>
+    <PageReference>PU6:15</PageReference>
+    <PageReference>PU6:18</PageReference>
+    <PageReference>PU6:23</PageReference>
+    <PageReference>PU6:26</PageReference>
+    <PageReference>PU6:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skill quirks">
+    <PageReference>PU6:30-32</PageReference>
+    <PageReference>PU6:14-15</PageReference>
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social quirks">
+    <PageReference>PU6:32-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standard Operating Procedure">
+    <Child ReferenceText="quirk version">
+      <PageReference>PU6:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural quirks">
+    <PageReference>PU6:33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Absent-Mindedness">
+    <PageReference>PU6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Addiction">
+    <PageReference>PU6:28</PageReference>
+    <PageReference>PU6:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alcoholism">
+    <PageReference>PU6:10</PageReference>
+    <PageReference>PU6:29</PageReference>
+    <Child ReferenceText="disadvantage embellishment">
+      <PageReference>PU6:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Amnesia">
+    <PageReference>PU6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad Smell">
+    <PageReference>PU6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad Temper">
+    <PageReference>PU6:10</PageReference>
+    <Child ReferenceText="disadvantage embellishment">
+      <PageReference>PU6:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bloodlust">
+    <PageReference>PU6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bully">
+    <PageReference>PU6:11</PageReference>
+    <PageReference>PU6:20</PageReference>
+    <Child ReferenceText="disadvantage embellishment">
+      <PageReference>PU6:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Callous">
+    <PageReference>PU6:11</PageReference>
+    <PageReference>PU6:19</PageReference>
+    <Child ReferenceText="disadvantage embellishment">
+      <PageReference>PU6:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannot Learn">
+    <PageReference>PU6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannot Speak">
+    <PageReference>PU6:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charitable">
+    <PageReference>PU6:20</PageReference>
+    <Child ReferenceText="disadvantage embellishment">
+      <PageReference>PU6:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chronic Depression">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chronic Pain">
+    <PageReference>PU6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chummy">
+    <PageReference>PU6:11</PageReference>
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clueless">
+    <PageReference>PU6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor">
+    <PageReference>PU6:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colorblindness">
+    <PageReference>PU6:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Paralysis">
+    <PageReference>PU6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compulsive Behavior">
+    <PageReference>PU6:27</PageReference>
+    <PageReference>PU6:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compulsive Carousing">
+    <PageReference>PU6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compulsive Gambling">
+    <PageReference>PU6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compulsive Generosity">
+    <PageReference>PU6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compulsive Lying">
+    <PageReference>PU6:11</PageReference>
+    <Child ReferenceText="disadvantage embellishment">
+      <PageReference>PU6:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Compulsive Spending">
+    <PageReference>PU6:10</PageReference>
+    <PageReference>PU6:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compulsive Vowing">
+    <PageReference>PU6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cowardice">
+    <PageReference>PU6:11</PageReference>
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curious">
+    <PageReference>PU6:10</PageReference>
+    <PageReference>PU6:20</PageReference>
+    <Child ReferenceText="disadvantage embellishment">
+      <PageReference>PU6:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Deep Sleeper">
+    <PageReference>PU6:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dependent">
+    <PageReference>PU6:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Destiny">
+    <PageReference>PU6:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disturbing Voice">
+    <PageReference>PU6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dread">
+    <PageReference>PU6:33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duty">
+    <PageReference>PU6:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dyslexia">
+    <PageReference>PU6:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemy">
+    <PageReference>PU6:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Sleep">
+    <PageReference>PU6:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fearfulness">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flashbacks">
+    <PageReference>PU6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frightens Animals">
+    <PageReference>PU6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gluttony">
+    <PageReference>PU6:10</PageReference>
+    <PageReference>PU6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greed">
+    <PageReference>PU6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guilt Complex">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gullibility">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ham-Fisted">
+    <PageReference>PU6:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard of Hearing">
+    <PageReference>PU6:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidebound">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Honesty">
+    <PageReference>PU6:9</PageReference>
+    <PageReference>PU6:11</PageReference>
+    <PageReference>PU6:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impulsiveness">
+    <PageReference>PU6:17</PageReference>
+    <PageReference>PU6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Increased Consumption">
+    <PageReference>PU6:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incurious">
+    <PageReference>PU6:10</PageReference>
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Innumerate">
+    <PageReference>PU6:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intolerance">
+    <PageReference>PU6:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jealousy">
+    <PageReference>PU6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kleptomania">
+    <PageReference>PU6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lame">
+    <PageReference>PU6:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laziness">
+    <PageReference>PU6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lecherousness">
+    <PageReference>PU6:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light Sleeper">
+    <PageReference>PU6:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loner">
+    <PageReference>PU6:10</PageReference>
+    <PageReference>PU6:11</PageReference>
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low Pain Threshold">
+    <PageReference>PU6:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low Self Image">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lunacy">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maintenance">
+    <PageReference>PU6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manic-Depressive">
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miserliness">
+    <PageReference>PU6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neurological Disorder">
+    <PageReference>PU6:16</PageReference>
+    <PageReference>PU6:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night Blindness">
+    <PageReference>PU6:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nightmares">
+    <PageReference>PU6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Sense of Humor">
+    <PageReference>PU6:11</PageReference>
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Sense of Smell/Taste">
+    <PageReference>PU6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Non-Iconographic">
+    <PageReference>PU6:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obsession">
+    <PageReference>PU6:28-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oblivious">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Odious Personal Habit">
+    <PageReference>PU6:11</PageReference>
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Overconfidence">
+    <PageReference>PU6:10</PageReference>
+    <PageReference>PU6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pacificism">
+    <PageReference>PU6:11</PageReference>
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paranoia">
+    <PageReference>PU6:11</PageReference>
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Penetrating Voice">
+    <PageReference>PU6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phobia">
+    <PageReference>PU6:11</PageReference>
+    <PageReference>PU6:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyromania">
+    <PageReference>PU6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reputation">
+    <PageReference>PU6:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reprogrammable">
+    <Child ReferenceText="disadvantage embellishment">
+      <PageReference>PU6:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Restricted Diet">
+    <Child ReferenceText="quirk level">
+      <PageReference>PU6:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Revulsion">
+    <PageReference>PU6:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sadism">
+    <PageReference>PU6:20</PageReference>
+    <Child ReferenceText="disadvantage embellishment">
+      <PageReference>PU6:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret">
+    <PageReference>PU6:28</PageReference>
+    <PageReference>PU6:33</PageReference>
+    <Child ReferenceText="disadvantage embellishment">
+      <PageReference>PU6:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret Identity">
+    <PageReference>PU6:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Selfish">
+    <PageReference>PU6:10</PageReference>
+    <PageReference>PU6:11</PageReference>
+    <PageReference>PU6:20</PageReference>
+    <Child ReferenceText="disadvantage embellishment">
+      <PageReference>PU6:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Selfless">
+    <PageReference>PU6:10</PageReference>
+    <PageReference>PU6:11</PageReference>
+    <PageReference>PU6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense of Duty">
+    <PageReference>PU6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Short Attention Span">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shyness">
+    <PageReference>PU6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Disease">
+    <PageReference>PU6:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma">
+    <PageReference>PU6:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Split Personality">
+    <PageReference>PU6:20</PageReference>
+    <PageReference>PU6:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Squeamish">
+    <PageReference>PU6:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stubbornness">
+    <PageReference>PU6:18</PageReference>
+    <Child ReferenceText="disadvantage embellishment">
+      <PageReference>PU6:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stuttering">
+    <PageReference>PU6:11</PageReference>
+    <PageReference>PU6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural Features">
+    <PageReference>PU6:34</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Susceptible">
+    <PageReference>PU6:24-25</PageReference>
+    <PageReference>PU6:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trademark">
+    <PageReference>PU6:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trickster">
+    <PageReference>PU6:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Truthfulness">
+    <PageReference>PU6:10</PageReference>
+    <PageReference>PU6:11</PageReference>
+    <Child ReferenceText="Disadvantage Embellishment">
+      <PageReference>PU6:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unfit">
+    <PageReference>PU6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unluckiness">
+    <PageReference>PU6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Biochemistry">
+    <PageReference>PU6:24</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vow">
+    <PageReference>PU6:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Workaholic">
+    <PageReference>PU6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Xenophilia">
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Abrasive">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acceleration Weakness">
+    <PageReference>PU6:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aches and Pains">
+    <PageReference>PU6:22</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Admiration">
+    <PageReference>PU6:25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Affected by Magnetism">
+    <PageReference>PU6:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alcohol Intolerance">
+    <PageReference>PU6:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allergy">
+    <PageReference>PU6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternative Sexuality">
+    <PageReference>PU6:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambitious">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amoral">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance Change">
+    <PageReference>PU6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Argumentative">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aristocratic">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Atheist">
+    <PageReference>PU6:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attentive">
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad Posture">
+    <PageReference>PU6:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bitter 20" />
+  <IndexReference ReferenceText="Blunt">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boring">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Born Goon">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bowlegged">
+    <PageReference>PU6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Broad-Minded">
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bulky Frame">
+    <PageReference>PU6:22</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Can Be Turned By True Faith">
+    <PageReference>PU6:33-34</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Can’t Read Music">
+    <PageReference>PU6:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannot Float">
+    <PageReference>PU6:12</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Care">
+    <PageReference>PU6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Careful planner">
+    <PageReference>PU6:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Careful">
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carries backup weapons">
+    <PageReference>PU6:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chauvinistic">
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Checkered Past">
+    <PageReference>PU6:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cheerful">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clean freak">
+    <PageReference>PU6:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clumsy Runner">
+    <PageReference>PU6:22</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cold Intolerance">
+    <PageReference>PU6:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Collector">
+    <PageReference>PU6:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="College Incompetence">
+    <PageReference>PU6:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Hesitancy">
+    <PageReference>PU6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Complicated">
+    <PageReference>PU6:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compulsion">
+    <PageReference>PU6:27-28</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Congenial">
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cooperative">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmetic Eyeglasses">
+    <PageReference>PU6:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Credulous">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crude">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cruel">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crush">
+    <PageReference>PU6:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cyclothymic">
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cynical">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Daily Ritual">
+    <PageReference>PU6:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damned">
+    <PageReference>PU6:34</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dead Giveaway">
+    <PageReference>PU6:13-14</PageReference>
+    <PageReference>PU6:34</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>PU6:13</PageReference>
+      <PageReference>PU6:16</PageReference>
+      <PageReference>PU6:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dead Weight">
+    <PageReference>PU6:22</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Decisive">
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delusion">
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delusional Competence">
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Depressing">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Desirous">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Determined">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantage Embellishment">
+    <PageReference>PU6:9-10</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>PU6:9-10</PageReference>
+      <PageReference>PU6:15</PageReference>
+      <PageReference>PU6:27</PageReference>
+      <PageReference>PU6:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disciplined">
+    <PageReference>PU6:18</PageReference>
+    <Child ReferenceText="options">
+      <PageReference>PU6:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dishonest Face">
+    <PageReference>PU6:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dislike">
+    <PageReference>PU6:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dislikes haste">
+    <PageReference>PU6:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disorganized">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distinctive Features">
+    <PageReference>PU6:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distinctive Speech">
+    <PageReference>PU6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distractible">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Docile">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doesn’t trust banks">
+    <PageReference>PU6:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dorky">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dreamer">
+    <PageReference>PU6:18</PageReference>
+    <Child ReferenceText="options">
+      <PageReference>PU6:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual Identity">
+    <PageReference>PU6:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dull">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dull Taste or Smell">
+    <PageReference>PU6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dweeby">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Easily Frustrated">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Easily Influenced">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Easily Mistaken Sex">
+    <PageReference>PU6:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Easily Suppressed Disadvantage">
+    <PageReference>PU6:10</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>PU6:19</PageReference>
+      <PageReference>PU6:20</PageReference>
+      <PageReference>PU6:24</PageReference>
+      <PageReference>PU6:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Easily Winded">
+    <PageReference>PU6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eavesdropper">
+    <PageReference>PU6:28</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enthusiastic">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Epicure">
+    <PageReference>PU6:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Epitome">
+    <PageReference>PU6:14</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Expensive Habit">
+    <PageReference>PU6:28</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>PU6:13</PageReference>
+      <PageReference>PU6:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="External Mood Influence">
+    <PageReference>PU6:18</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Drawback">
+    <PageReference>PU6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extremely Limited Disadvantage">
+    <PageReference>PU6:10-11</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>PU6:15</PageReference>
+      <PageReference>PU6:20</PageReference>
+      <PageReference>PU6:25</PageReference>
+      <PageReference>PU6:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Extrovert">
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faithless">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="False Memory">
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fashion Disaster">
+    <PageReference>PU6:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast Talker">
+    <PageReference>PU6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatalistic">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigues Easily Under Loads">
+    <PageReference>PU6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Favor Owed">
+    <PageReference>PU6:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fickle">
+	<PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flirtatious">
+    <PageReference>PU6:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forbidden Word">
+    <PageReference>PU6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forgetful">
+    <PageReference>PU6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Former Alcoholic">
+    <PageReference>PU6:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foul-Mouthed">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Friendly">
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Friendly Drunk">
+    <PageReference>PU6:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gallant">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glimpses of Clarity">
+    <PageReference>PU6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gloating">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grudge">
+    <PageReference>PU6:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hated by (Group)">
+    <PageReference>PU6:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heat Intolerance">
+    <PageReference>PU6:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hedonist">
+    <PageReference>PU6:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hero Worship">
+    <PageReference>PU6:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High-Frequency Hearing Loss">
+    <PageReference>PU6:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High-Pressure Intolerance">
+    <PageReference>PU6:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High Rejection Threshold">
+    <PageReference>PU6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hoarder">
+    <PageReference>PU6:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horrible Hangovers">
+    <PageReference>PU6:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Humble">
+    <PageReference>PU6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hungry">
+    <PageReference>PU6:23</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Idealistic">
+    <PageReference>PU6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ignoble">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ill-Advised Hobby">
+    <PageReference>PU6:28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imaginative">
+    <PageReference>PU6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impatient">
+    <PageReference>PU6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inaccessible Idioms">
+    <PageReference>PU6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inappropriate Manner">
+    <PageReference>PU6:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incompetence">
+    <PageReference>PU6:31</PageReference>
+    <Child ReferenceText="magic college">
+      <PageReference>PU6:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Insensitive">
+    <PageReference>PU6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interviews Badly">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Involuntary Ability Use">
+    <PageReference>PU6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Involuntary Utterance">
+    <PageReference>PU6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ironic">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jovial">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Layabout">
+    <PageReference>PU6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lazy Skill">
+    <PageReference>PU6:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legalistic">
+    <PageReference>PU6:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Like">
+    <PageReference>PU6:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited Colorblindness">
+    <PageReference>PU6:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited Hearing Loss">
+    <PageReference>PU6:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Literal-Minded">
+    <PageReference>PU6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loud Voice">
+    <PageReference>PU6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low-Frequency Hearing Loss">
+    <PageReference>PU6:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low-Pressure Intolerance">
+    <PageReference>PU6:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Math-Shy">
+    <PageReference>PU6:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melancholy">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Methodical">
+    <PageReference>PU6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mild Dyslexia">
+    <PageReference>PU6:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind-Numbing Magnetism">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minor Addiction">
+    <PageReference>PU6:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minor Alcoholism">
+    <PageReference>PU6:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minor Handicap">
+    <PageReference>PU6:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mirror-Image Disadvantages">
+    <PageReference>PU6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missing Disadvantage">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missing Teeth">
+    <PageReference>PU6:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missing Toes">
+    <PageReference>PU6:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mitigated Disadvantage">
+    <PageReference>PU6:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mouthy 20" />
+  <IndexReference ReferenceText="Name-Bound">
+    <PageReference>PU6:34</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nano-Fever">
+    <PageReference>PU6:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nerdy">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nervous Stomach">
+    <PageReference>PU6:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neutered">
+    <PageReference>PU6:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Never raises voice">
+    <PageReference>PU6:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nostalgic">
+    <PageReference>PU6:19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nosy">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obvious">
+    <PageReference>PU6:12</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Oily">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Optimistic">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outgoing">
+    <PageReference>PU6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Overcautious Habit">
+    <PageReference>PU6:30</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Overspecialization">
+    <PageReference>PU6:31-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Overweight">
+    <PageReference>PU6:23</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pain-Sensitive">
+    <PageReference>PU6:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pensive">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perfectionist">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Persistent">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Personality Change">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pessimistic">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Philosophical">
+    <PageReference>PU6:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phony">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Photosensitivity">
+    <PageReference>PU6:24</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Playful">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poor Night Vision">
+    <PageReference>PU6:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Posh">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Positive Secret">
+    <PageReference>PU6:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Practical Joker">
+    <PageReference>PU6:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Precise">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Preferred Looks">
+    <PageReference>PU6:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Preferred Tactics">
+    <PageReference>PU6:26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure Intolerance">
+    <PageReference>PU6:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pretense">
+    <PageReference>PU6:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prickly">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Proud">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pushy">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Record-Keeper">
+    <PageReference>PU6:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Red Tape">
+    <PageReference>PU6:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious">
+    <PageReference>PU6:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Residual Personality">
+    <PageReference>PU6:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Responsible">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Responsive">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restless Sleeper">
+    <PageReference>PU6:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restricted Casting Style">
+    <PageReference>PU6:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Risk-Taking Behavior">
+    <PageReference>PU6:30</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>PU6:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Romantic">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rule of 15">
+    <PageReference>PU6:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rules Exclusion">
+    <PageReference>PU6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Salacious">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sanctimonious">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sarcastic">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scornful 20" />
+  <IndexReference ReferenceText="Scummy">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret Powers">
+    <PageReference>PU6:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secretive">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-Imposed Limit">
+    <PageReference>PU6:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensualist">
+    <PageReference>PU6:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serious">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sexless">
+    <PageReference>PU6:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shaky Hands">
+    <PageReference>PU6:24</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharpens weapons at every opportunity">
+    <PageReference>PU6:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shocking Affectation">
+    <PageReference>PU6:15</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>PU6:13</PageReference>
+      <PageReference>PU6:20</PageReference>
+      <PageReference>PU6:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Show-Off">
+    <PageReference>PU6:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skimpy dresser">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleep of the Dead">
+    <PageReference>PU6:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleeptalker">
+    <PageReference>PU6:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleepy Drinker">
+    <PageReference>PU6:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleepyhead">
+    <PageReference>PU6:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slightly Unusual Biochemistry">
+    <PageReference>PU6:24</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slow Reflexes">
+    <PageReference>PU6:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smug">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soft Spot">
+    <PageReference>PU6:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speech Mannerisms">
+    <PageReference>PU6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Signature">
+    <PageReference>PU6:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Susceptibility">
+    <PageReference>PU6:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Staid">
+    <PageReference>PU6:20</PageReference>
+    <Child ReferenceText="options">
+      <PageReference>PU6:10</PageReference>
+      <PageReference>PU6:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stereotype">
+    <PageReference>PU6:16</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Strikes with precision">
+    <Child ReferenceText="not speed">
+      <PageReference>PU6:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Substance Intolerance">
+    <PageReference>PU6:25</PageReference>
+    <PageReference>PU6:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Successful at (Ability)">
+    <PageReference>PU6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sunburns Easily">
+    <PageReference>PU6:24</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural Dislike">
+    <PageReference>PU6:34</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Superstition">
+    <PageReference>PU6:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Susceptible to (Item)">
+    <PageReference>PU6:24-25</PageReference>
+    <PageReference>PU6:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suspicious">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sybarite">
+    <PageReference>PU6:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbol-Shy">
+    <PageReference>PU6:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taboo Traits">
+    <PageReference>PU6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactless">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talkative">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tattletale">
+    <PageReference>PU6:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taunting">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature Intolerance">
+    <PageReference>PU6:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tests Positive for (Condition)">
+    <PageReference>PU6:25</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thin Skull">
+    <PageReference>PU6:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Third Person">
+    <PageReference>PU6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Timid">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiny Hands">
+    <PageReference>PU6:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Token">
+    <PageReference>PU6:16</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tone-Deaf">
+    <PageReference>PU6:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treacherous">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trivial Destiny">
+    <PageReference>PU6:34</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trivial Reputation">
+    <PageReference>PU6:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trivial Secret">
+    <PageReference>PU6:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Twitchy">
+    <PageReference>PU6:25</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unbelievable at (Ability)">
+    <PageReference>PU6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uncongenial">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ungentlemanly">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unimaginative">
+    <PageReference>PU6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unwelcome Accessory">
+    <PageReference>PU6:13</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>PU6:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Variable Quirk">
+    <PageReference>PU6:21-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Villain-Worshipper">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vindictive">
+    <PageReference>PU6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Willful Ignorance">
+    <PageReference>PU6:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wishy-Washy">
+    <PageReference>PU6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Won’t carry a load">
+    <PageReference>PU6:27</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

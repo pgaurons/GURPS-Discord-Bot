@@ -1,0 +1,3453 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="10+Magery (attribute)">
+    <PageReference>THM29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Abilities">
+    <Child ReferenceText="reasons for">
+      <PageReference>THM15-18</PageReference>
+      <PageReference>THM219-220</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Academic terminology">
+    <PageReference>THM9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accessibility limitation">
+    <PageReference>THM26</PageReference>
+    <PageReference>THM199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Addiction disadvantage">
+    <PageReference>THM63</PageReference>
+    <PageReference>THM94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Addiction to magic">
+    <PageReference>THM63</PageReference>
+    <PageReference>THM94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="in GURPS Powers">
+      <PageReference>THM198</PageReference>
+    </Child>
+    <Child ReferenceText="magical">
+      <PageReference>THM197-201</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>THM60-62</PageReference>
+      <PageReference>THM72</PageReference>
+      <PageReference>THM78-79</PageReference>
+      <PageReference>THM123-124</PageReference>
+      <PageReference>THM179</PageReference>
+      <PageReference>THM188</PageReference>
+      <PageReference>THM228</PageReference>
+    </Child>
+    <Child ReferenceText="dispelling magical">
+      <PageReference>THM204</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventure ideas">
+    <PageReference>THM216-217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Affects Insubstantial enhancement">
+    <PageReference>THM199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Affects Substantial enhancement">
+    <PageReference>THM199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy">
+    <PageReference>THM100-107</PageReference>
+    <Child ReferenceText="as spiritual discipline">
+      <PageReference>THM102</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>THM234</PageReference>
+      <PageReference>THM238</PageReference>
+    </Child>
+    <Child ReferenceText="inventions">
+      <PageReference>THM103</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>THM101</PageReference>
+    </Child>
+    <Child ReferenceText="schools of">
+      <PageReference>THM102</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy skill">
+    <PageReference>THM102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies advantage">
+    <PageReference>THM55</PageReference>
+    <PageReference>THM118</PageReference>
+    <PageReference>THM209-210</PageReference>
+    <PageReference>THM236</PageReference>
+    <Child ReferenceText="with Summonable">
+      <PageReference>THM113</PageReference>
+      <PageReference>THM198</PageReference>
+      <PageReference>THM202</PageReference>
+      <PageReference>THM203</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate Form advantage">
+    <PageReference>THM197</PageReference>
+    <PageReference>THM211</PageReference>
+    <PageReference>THM213</PageReference>
+    <Child ReferenceText="limitations">
+      <PageReference>THM213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate rituals">
+    <PageReference>THM36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambient energy (source)">
+    <PageReference>THM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amulets">
+    <PageReference>THM139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Analyze Raw Magic spell">
+    <PageReference>THM228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <Child ReferenceText="definition">
+      <PageReference>THM155</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Apprenticeships">
+    <PageReference>THM220-221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Architecture">
+    <Child ReferenceText="sacred">
+      <PageReference>THM89</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Area effect modifiers">
+    <PageReference>THM242</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aristocracy">
+    <PageReference>THM218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Art-style magic">
+    <PageReference>THM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“As Above">
+    <Child ReferenceText="So Below” law">
+      <PageReference>THM14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ashes (material)">
+    <PageReference>THM244</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aspected energy">
+    <PageReference>THM135</PageReference>
+    <PageReference>THM136-137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aspected limitation">
+    <PageReference>THM200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aspected ritual space">
+    <PageReference>THM126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral Projection ritual">
+    <PageReference>THM159</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astrological limitation">
+    <PageReference>THM23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astrology">
+    <Child ReferenceText="modifiers">
+      <PageReference>THM83-86</PageReference>
+    </Child>
+    <Child ReferenceText="symbols">
+      <PageReference>THM171</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>THM85</PageReference>
+    </Child>
+    <Child ReferenceText="time">
+      <PageReference>THM85</PageReference>
+      <PageReference>THM87</PageReference>
+    </Child>
+    <Child ReferenceText="Hermetic">
+      <PageReference>THM83</PageReference>
+      <PageReference>THM85</PageReference>
+      <PageReference>THM101</PageReference>
+      <PageReference>THM248-253</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <Child ReferenceText="as energy sources">
+      <PageReference>THM51</PageReference>
+    </Child>
+    <Child ReferenceText="as prerequisites for spells">
+      <PageReference>THM31</PageReference>
+    </Child>
+    <Child ReferenceText="alternative bases">
+      <PageReference>THM29-31</PageReference>
+      <PageReference>THM169</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aura Reading ritual">
+    <PageReference>THM151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Auras">
+    <SeeAlso>Spiritual Distortion</SeeAlso>
+    <Child ReferenceText="energy and">
+      <PageReference>THM55</PageReference>
+      <PageReference>THM58</PageReference>
+    </Child>
+    <Child ReferenceText="natural medicine and">
+      <PageReference>THM98</PageReference>
+    </Child>
+    <Child ReferenceText="emanating">
+      <PageReference>THM22</PageReference>
+      <PageReference>THM25</PageReference>
+      <PageReference>THM29</PageReference>
+      <PageReference>THM57</PageReference>
+      <PageReference>THM61-62</PageReference>
+      <PageReference>THM76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Avatars">
+    <Child ReferenceText="temporary">
+      <PageReference>THM211-214</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Awaken Craft Spirit spell">
+    <PageReference>THM117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Awakening magic">
+    <PageReference>THM239</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ayurvedic metaphysics">
+    <PageReference>THM48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Backlash">
+    <PageReference>THM15</PageReference>
+    <PageReference>THM139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bagua">
+    <PageReference>THM86</PageReference>
+    <PageReference>THM255</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banish ritual">
+    <PageReference>THM160</PageReference>
+    <PageReference>THM163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bardic Arts power">
+    <PageReference>THM204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bardic Talent">
+    <PageReference>THM204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barriers (magical defense)">
+    <PageReference>THM225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Base Essence">
+    <PageReference>THM51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Based on (Different Attribute) enhancement">
+    <PageReference>THM199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic concepts">
+    <PageReference>THM7-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bezoar">
+    <PageReference>THM99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Binary elixirs">
+    <PageReference>THM106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bind ritual">
+    <PageReference>THM160</PageReference>
+    <PageReference>THM163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Black magic">
+    <PageReference>THM13</PageReference>
+    <PageReference>THM90</PageReference>
+    <PageReference>THM93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood (material)">
+    <PageReference>THM244</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bloodlines and ability">
+    <PageReference>THM16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Book Adept advantage">
+    <PageReference>THM123-124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Book-learning and ability">
+    <PageReference>THM18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Book magic">
+    <SeeAlso>Path Magic and Path Magic Rituals</SeeAlso>
+    <Child ReferenceText="example books">
+      <PageReference>THM163-165</PageReference>
+    </Child>
+    <Child ReferenceText="hidden books">
+      <PageReference>THM122</PageReference>
+    </Child>
+    <Child ReferenceText="path magic compared with">
+      <PageReference>THM121-122</PageReference>
+    </Child>
+    <Child ReferenceText="titles">
+      <PageReference>THM163</PageReference>
+    </Child>
+    <Child ReferenceText="writing new books">
+      <PageReference>THM165</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>THM236</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Book of the Names of the Dead">
+    <PageReference>THM163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bread (material)">
+    <PageReference>THM244</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buffer objects">
+    <PageReference>THM80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buying off limitations">
+    <PageReference>THM27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cabal">
+    <PageReference>THM84</PageReference>
+    <PageReference>THM239-241</PageReference>
+    <Child ReferenceText="alchemy and">
+      <PageReference>THM101</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Calamities">
+    <Child ReferenceText="thresholds and">
+      <PageReference>THM77-78</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>THM77-78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Calculated bases for spellcasting">
+    <PageReference>THM30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Calm the Winds ritual">
+    <PageReference>THM143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <PageReference>THM216-219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Can Be Wielded enhancement">
+    <PageReference>THM119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Can’t Maintain Spells limitation">
+    <PageReference>THM23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Can’t Use External Energy limitation">
+    <PageReference>THM23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Canceling ritual effects">
+    <PageReference>THM138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannot Learn Spells limitation">
+    <PageReference>THM22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Casting time changes">
+    <PageReference>THM33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Celtic tree talismans">
+    <PageReference>THM97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ceremonial Magery limitation">
+    <PageReference>THM23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ceremonial magic">
+    <PageReference>THM23</PageReference>
+    <PageReference>THM35</PageReference>
+    <PageReference>THM67-68</PageReference>
+    <PageReference>THM73</PageReference>
+    <PageReference>THM80</PageReference>
+    <PageReference>THM195</PageReference>
+    <SeeAlso>Collaborative Efforts</SeeAlso>
+    <Child ReferenceText="optional rules">
+      <PageReference>THM51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ceremonial-only casting">
+    <PageReference>THM82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Changing character attributes">
+    <Child ReferenceText="spellcasting and">
+      <PageReference>THM31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Changing-magic campaigns">
+    <PageReference>THM239</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chaperone ritual">
+    <PageReference>THM152</PageReference>
+    <PageReference>THM157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charm Against Dark Beasts ritual">
+    <PageReference>THM157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charms">
+    <PageReference>THM139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi control powers">
+    <PageReference>THM207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chinese">
+    <Child ReferenceText="mystical modifiers">
+      <PageReference>THM255</PageReference>
+    </Child>
+    <Child ReferenceText="elements">
+      <PageReference>THM47</PageReference>
+      <PageReference>THM238</PageReference>
+      <PageReference>THM255</PageReference>
+    </Child>
+    <Child ReferenceText="symbolism">
+      <PageReference>THM86</PageReference>
+    </Child>
+    <Child ReferenceText="astrology">
+      <PageReference>THM86</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Classes of flexible magic effects">
+    <PageReference>THM167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleansing ritual">
+    <PageReference>THM157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerics">
+    <PageReference>THM27</PageReference>
+    <PageReference>THM28</PageReference>
+    <SeeAlso>Priests</SeeAlso>
+    <SeeAlso>Religion</SeeAlso>
+    <SeeAlso>Shamans</SeeAlso>
+    <SeeAlso>and Spirits</SeeAlso>
+    <Child ReferenceText="critical failure table">
+      <PageReference>THM257</PageReference>
+    </Child>
+    <Child ReferenceText="enchantments">
+      <PageReference>THM54</PageReference>
+      <PageReference>THM113</PageReference>
+    </Child>
+    <Child ReferenceText="Magery 0 and">
+      <PageReference>THM65</PageReference>
+    </Child>
+    <Child ReferenceText="powers and">
+      <PageReference>THM205-206</PageReference>
+    </Child>
+    <Child ReferenceText="requirements">
+      <PageReference>THM66-67</PageReference>
+    </Child>
+    <Child ReferenceText="spellbased magic">
+      <PageReference>THM49</PageReference>
+      <PageReference>THM51</PageReference>
+      <PageReference>THM53</PageReference>
+      <PageReference>THM65-71</PageReference>
+    </Child>
+    <Child ReferenceText="spell lists">
+      <PageReference>THM69-70</PageReference>
+    </Child>
+    <Child ReferenceText="threshold-limited magic and">
+      <PageReference>THM81</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloud Memory ritual">
+    <PageReference>THM140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Collaborative efforts">
+    <PageReference>THM129</PageReference>
+    <PageReference>THM132-133</PageReference>
+    <SeeAlso>Ceremonial Magic</SeeAlso>
+    <Child ReferenceText="in rituals">
+      <PageReference>THM137</PageReference>
+    </Child>
+    <Child ReferenceText="syntactic magic">
+      <PageReference>THM195</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="College Incompetence quirk">
+    <PageReference>THM22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colleges for training">
+    <PageReference>THM220-221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colleges (spell)">
+    <SeeAlso>Spells</SeeAlso>
+    <Child ReferenceText="mana varying by">
+      <PageReference>THM59</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>THM47-48</PageReference>
+    </Child>
+    <Child ReferenceText="pantheons and">
+      <PageReference>THM75</PageReference>
+    </Child>
+    <Child ReferenceText="reorganization example">
+      <PageReference>THM42-47</PageReference>
+    </Child>
+    <Child ReferenceText="spells in">
+      <PageReference>THM261-267</PageReference>
+    </Child>
+    <Child ReferenceText="used only ritually">
+      <PageReference>THM72</PageReference>
+    </Child>
+    <Child ReferenceText="wildcard">
+      <PageReference>THM75</PageReference>
+    </Child>
+    <Child ReferenceText="changing">
+      <PageReference>THM41-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Colors of magic">
+    <PageReference>THM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combining efforts">
+    <SeeAlso>Ceremonial Magic and Collaborative Efforts</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Command Beast ritual">
+    <PageReference>THM155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Command the Bodies of the Dead ritual">
+    <PageReference>THM163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Command the Waves ritual">
+    <PageReference>THM143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conceptions of magic">
+    <PageReference>THM9-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conditional negation">
+    <PageReference>THM36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conditional termination">
+    <PageReference>THM36</PageReference>
+    <PageReference>THM138</PageReference>
+    <PageReference>THM201</PageReference>
+    <PageReference>THM242</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conjure Flame ritual">
+    <PageReference>THM143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conjuring creatures to assist">
+    <PageReference>THM198</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Consecration">
+    <PageReference>THM68-69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Constituents (in effect)">
+    <PageReference>THM132</PageReference>
+    <PageReference>THM183</PageReference>
+    <PageReference>THM243</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts advantage">
+    <PageReference>THM197</PageReference>
+    <PageReference>THM198</PageReference>
+    <PageReference>THM210</PageReference>
+    <PageReference>THM226</PageReference>
+    <PageReference>THM236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contagions">
+    <PageReference>THM14</PageReference>
+    <PageReference>THM87</PageReference>
+    <PageReference>THM129</PageReference>
+    <Child ReferenceText="modifiers">
+      <PageReference>THM245-246</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Contests (magic system interaction)">
+    <PageReference>THM226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cookbook-style magic">
+    <PageReference>THM9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corruption">
+    <PageReference>THM230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic enhancement with Luck advantage">
+    <PageReference>THM30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Costs Fatigue disadvantage">
+    <PageReference>THM26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Critical failures">
+    <PageReference>THM30</PageReference>
+    <Child ReferenceText="alternatives">
+      <PageReference>THM256-260</PageReference>
+    </Child>
+    <Child ReferenceText="Celtic table">
+      <PageReference>THM256</PageReference>
+    </Child>
+    <Child ReferenceText="clerical spells and">
+      <PageReference>THM69</PageReference>
+    </Child>
+    <Child ReferenceText="clerical table">
+      <PageReference>THM257</PageReference>
+    </Child>
+    <Child ReferenceText="comedy table">
+      <PageReference>THM257</PageReference>
+    </Child>
+    <Child ReferenceText="diabolic table">
+      <PageReference>THM258</PageReference>
+    </Child>
+    <Child ReferenceText="effects of mana on">
+      <PageReference>THM59-60</PageReference>
+    </Child>
+    <Child ReferenceText="horrific table">
+      <PageReference>THM258</PageReference>
+    </Child>
+    <Child ReferenceText="illusory magic table">
+      <PageReference>THM258</PageReference>
+    </Child>
+    <Child ReferenceText="luck and">
+      <PageReference>THM30</PageReference>
+    </Child>
+    <Child ReferenceText="Oriental table">
+      <PageReference>THM259</PageReference>
+    </Child>
+    <Child ReferenceText="realitywarping table">
+      <PageReference>THM259</PageReference>
+    </Child>
+    <Child ReferenceText="skills to salvage">
+      <PageReference>THM41</PageReference>
+    </Child>
+    <Child ReferenceText="spirit-oriented magic table">
+      <PageReference>THM260</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Critical successes">
+    <PageReference>THM30</PageReference>
+    <Child ReferenceText="effects of mana on">
+      <PageReference>THM59-60</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Curse Mirror ritual">
+    <PageReference>THM157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curse Sanctum ritual">
+    <PageReference>THM157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curses">
+    <Child ReferenceText="announcing">
+      <PageReference>THM226</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cyclical Magery limitation">
+    <PageReference>THM23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage">
+    <Child ReferenceText="modifiers">
+      <PageReference>THM242-243</PageReference>
+    </Child>
+    <Child ReferenceText="magically based">
+      <PageReference>THM22</PageReference>
+      <PageReference>THM63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Resistance advantage">
+    <PageReference>THM63</PageReference>
+    <PageReference>THM118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dampers (magical defense)">
+    <PageReference>THM225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark side of evil">
+    <PageReference>THM230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dates">
+    <Child ReferenceText="significant">
+      <PageReference>THM87</PageReference>
+      <PageReference>THM246-248</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Decanic correspondences">
+    <PageReference>THM129</PageReference>
+    <PageReference>THM248</PageReference>
+    <PageReference>THM253</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Decanic natures">
+    <PageReference>THM248-253</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Declining magic">
+    <PageReference>THM239</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deconsecration">
+    <PageReference>THM69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deeper Principia book">
+    <PageReference>THM164-165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defenses">
+    <PageReference>THM224-226</PageReference>
+    <Child ReferenceText="undermining with fear">
+      <PageReference>THM227</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Defensive knots">
+    <PageReference>THM178</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delay enhancement">
+    <PageReference>THM199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demons">
+    <PageReference>THM93</PageReference>
+    <PageReference>THM105</PageReference>
+    <PageReference>THM203</PageReference>
+    <PageReference>THM226</PageReference>
+    <SeeAlso>Religion and Spirits</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Destroying the world plot">
+    <PageReference>THM216-217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect Raw Magic spell">
+    <PageReference>THM228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Devils">
+    <PageReference>THM93</PageReference>
+    <PageReference>THM105</PageReference>
+    <PageReference>THM203</PageReference>
+    <PageReference>THM226</PageReference>
+    <SeeAlso>Religion and Spirits</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <Child ReferenceText="new">
+      <PageReference>THM25-27</PageReference>
+      <PageReference>THM61-62</PageReference>
+      <PageReference>THM119</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dispel Ritual ritual">
+    <PageReference>THM157-158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dispelling ritual effects">
+    <PageReference>THM138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distance">
+    <SeeAlso>Range</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Distortion Crisis">
+    <PageReference>THM194</PageReference>
+    <PageReference>THM230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distortion Points">
+    <PageReference>THM193-194</PageReference>
+    <PageReference>THM230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine favor">
+    <PageReference>THM10</PageReference>
+    <PageReference>THM13</PageReference>
+    <SeeAlso>Clerics</SeeAlso>
+    <SeeAlso>Priests</SeeAlso>
+    <SeeAlso>Religion</SeeAlso>
+    <SeeAlso>and Shamans</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine ritual magic">
+    <PageReference>THM75</PageReference>
+    <SeeAlso>Clerics</SeeAlso>
+    <SeeAlso>Priests</SeeAlso>
+    <SeeAlso>Religion</SeeAlso>
+    <SeeAlso>and Shamans</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Djinn lamp">
+    <PageReference>THM115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doctrine of Signatures">
+    <PageReference>THM14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doom ritual">
+    <PageReference>THM152-153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dose ritual">
+    <PageReference>THM148-149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="DP">
+    <PageReference>THM193-194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragon lines">
+    <PageReference>THM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragon’s blood">
+    <PageReference>THM100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drains (magical defense)">
+    <PageReference>THM225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dream Sanctum ritual">
+    <PageReference>THM142</PageReference>
+    <PageReference>THM158</PageReference>
+    <PageReference>THM163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dream Shackles ritual">
+    <PageReference>THM142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dream Visitor ritual">
+    <PageReference>THM142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dreaming trails">
+    <PageReference>THM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dreamwalk ritual">
+    <PageReference>THM142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Durations">
+    <Child ReferenceText="effect modifiers">
+      <PageReference>THM243</PageReference>
+    </Child>
+    <Child ReferenceText="variant">
+      <PageReference>THM242</PageReference>
+    </Child>
+    <Child ReferenceText="changes for spells">
+      <PageReference>THM36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dust and symbols">
+    <PageReference>THM174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="DX-based magic">
+    <PageReference>THM29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Easily Resisted Magery limitation">
+    <PageReference>THM24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Easy Casting enhancement">
+    <PageReference>THM28</PageReference>
+    <PageReference>THM38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Education">
+    <PageReference>THM17-18</PageReference>
+    <PageReference>THM220-221</PageReference>
+    <Child ReferenceText="by spirits">
+      <PageReference>THM18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Effectiveness Roll">
+    <PageReference>THM137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Effects">
+    <Child ReferenceText="constituents of">
+      <PageReference>THM132</PageReference>
+      <PageReference>THM183</PageReference>
+      <PageReference>THM243</PageReference>
+    </Child>
+    <Child ReferenceText="changes for spells">
+      <PageReference>THM34-35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Effect Shaping magic">
+    <PageReference>THM122</PageReference>
+    <PageReference>THM123</PageReference>
+    <PageReference>THM133-134</PageReference>
+    <PageReference>THM138</PageReference>
+    <PageReference>THM159</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>THM133-134</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental Command power">
+    <PageReference>THM204-205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental Command Talent">
+    <PageReference>THM205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental spirits">
+    <Child ReferenceText="new">
+      <PageReference>THM48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elements">
+    <Child ReferenceText="medicine and">
+      <PageReference>THM48</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>THM255</PageReference>
+    </Child>
+    <Child ReferenceText="alternative">
+      <PageReference>THM47-48</PageReference>
+      <PageReference>THM238</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elimination of rituals">
+    <PageReference>THM37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elixirs">
+    <SeeAlso>Alchemy</SeeAlso>
+    <Child ReferenceText="multiple">
+      <PageReference>THM106</PageReference>
+    </Child>
+    <Child ReferenceText="delivery methods">
+      <PageReference>THM107</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Embody ritual">
+    <PageReference>THM160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emerging magic">
+    <PageReference>THM239</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Empower ritual">
+    <PageReference>THM160-161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchantment-Only Magery limitation">
+    <PageReference>THM24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchantments">
+    <PageReference>THM107-113</PageReference>
+    <SeeAlso>Magic Items</SeeAlso>
+    <Child ReferenceText="devotional">
+      <PageReference>THM54</PageReference>
+      <PageReference>THM113</PageReference>
+    </Child>
+    <Child ReferenceText="one-off symbol">
+      <PageReference>THM175</PageReference>
+    </Child>
+    <Child ReferenceText="Realm-based syntactic magic and">
+      <PageReference>THM192</PageReference>
+    </Child>
+    <Child ReferenceText="skill limits and">
+      <PageReference>THM41</PageReference>
+    </Child>
+    <Child ReferenceText="spending traits for">
+      <PageReference>THM109-110</PageReference>
+    </Child>
+    <Child ReferenceText="symbolbased">
+      <PageReference>THM174-177</PageReference>
+    </Child>
+    <Child ReferenceText="through age">
+      <PageReference>THM110-112</PageReference>
+      <PageReference>THM117</PageReference>
+    </Child>
+    <Child ReferenceText="through deeds">
+      <PageReference>THM112-113</PageReference>
+      <PageReference>THM117</PageReference>
+    </Child>
+    <Child ReferenceText="through Talents">
+      <PageReference>THM198-199</PageReference>
+    </Child>
+    <Child ReferenceText="through traumatic incidents">
+      <PageReference>THM112-113</PageReference>
+    </Child>
+    <Child ReferenceText="verb-noun syntactic magic and">
+      <PageReference>THM187</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Encumbrance">
+    <PageReference>THM28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Endure Elements ritual">
+    <PageReference>THM143</PageReference>
+    <PageReference>THM156</PageReference>
+    <PageReference>THM158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy Accumulating magic">
+    <PageReference>THM123</PageReference>
+    <PageReference>THM135-139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy costs">
+    <SeeAlso>Energy Sources</SeeAlso>
+    <Child ReferenceText="changes">
+      <PageReference>THM33-34</PageReference>
+      <PageReference>THM83</PageReference>
+    </Child>
+    <Child ReferenceText="drawing symbols and">
+      <PageReference>THM169</PageReference>
+    </Child>
+    <Child ReferenceText="increasing to gain enhancements">
+      <PageReference>THM39</PageReference>
+    </Child>
+    <Child ReferenceText="materials and">
+      <PageReference>THM96</PageReference>
+    </Child>
+    <Child ReferenceText="modifying">
+      <PageReference>THM110</PageReference>
+    </Child>
+    <Child ReferenceText="Realm-based syntactic magic and">
+      <PageReference>THM191</PageReference>
+    </Child>
+    <Child ReferenceText="reduced by spirits">
+      <PageReference>THM92</PageReference>
+    </Child>
+    <Child ReferenceText="symbol-workings and">
+      <PageReference>THM175</PageReference>
+    </Child>
+    <Child ReferenceText="syntactic magic and">
+      <PageReference>THM180-181</PageReference>
+      <PageReference>THM194-195</PageReference>
+    </Child>
+    <Child ReferenceText="Alternate Form and">
+      <PageReference>THM213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy Reserve">
+    <PageReference>THM50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy sources">
+    <PageReference>THM50-58</PageReference>
+    <Child ReferenceText="converting to character points">
+      <PageReference>THM54</PageReference>
+    </Child>
+    <Child ReferenceText="static">
+      <PageReference>THM53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Engineering-style magic">
+    <PageReference>THM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancements">
+    <Child ReferenceText="new">
+      <PageReference>THM28-29</PageReference>
+      <PageReference>THM39</PageReference>
+      <PageReference>THM114</PageReference>
+      <PageReference>THM119</PageReference>
+      <PageReference>THM200</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enmities between magical societies">
+    <PageReference>THM221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Esoteric Medicine skill">
+    <PageReference>THM40</PageReference>
+    <PageReference>THM98</PageReference>
+    <PageReference>THM106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Essence">
+    <PageReference>THM51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ethical forces">
+    <PageReference>THM13-14</PageReference>
+    <PageReference>THM49-50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evil eye affliction">
+    <PageReference>THM201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evil Eye ritual">
+    <PageReference>THM149</PageReference>
+    <PageReference>THM163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exclude (Ethical Category) spell">
+    <PageReference>THM50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exorcise ritual">
+    <PageReference>THM158</PageReference>
+    <PageReference>THM161</PageReference>
+    <PageReference>THM163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="External Energy Only limitation">
+    <PageReference>THM24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="External Sources Only limitation">
+    <PageReference>THM24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extravagant Rituals limitation">
+    <PageReference>THM24</PageReference>
+    <PageReference>THM38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Facets of gemstones">
+    <PageReference>THM99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fading Spell Effects limitation">
+    <PageReference>THM24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Familiars">
+    <Child ReferenceText="as energy source">
+      <PageReference>THM50</PageReference>
+    </Child>
+    <Child ReferenceText="as buffers">
+      <PageReference>THM81</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue points">
+    <Child ReferenceText="recovery rates">
+      <PageReference>THM50</PageReference>
+    </Child>
+    <Child ReferenceText="as energy source">
+      <PageReference>THM50</PageReference>
+      <PageReference>THM80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fertility ritual">
+    <PageReference>THM149</PageReference>
+    <PageReference>THM156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fetish ritual">
+    <PageReference>THM161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fetishes">
+    <PageReference>THM139</PageReference>
+    <PageReference>THM161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fickle limitation">
+    <PageReference>THM200-202</PageReference>
+    <PageReference>THM213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fiction-based magic">
+    <PageReference>THM7-9</PageReference>
+    <PageReference>THM234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Field experience as training">
+    <PageReference>THM220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Finger-tracing">
+    <PageReference>THM174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firecalm ritual">
+    <PageReference>THM143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fix Glitch ritual">
+    <PageReference>THM145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flagrant Aura disadvantage">
+    <PageReference>THM25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flavors of magic">
+    <PageReference>THM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flexible magic">
+    <PageReference>THM166-195</PageReference>
+    <Child ReferenceText="effect classes">
+      <PageReference>THM167</PageReference>
+    </Child>
+    <Child ReferenceText="resisting effects">
+      <PageReference>THM167</PageReference>
+    </Child>
+    <Child ReferenceText="simple">
+      <PageReference>THM167</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Foci for magic">
+    <PageReference>THM124</PageReference>
+    <PageReference>THM139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Folkloric magic">
+    <PageReference>THM208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fright Checks">
+    <PageReference>THM258</PageReference>
+    <PageReference>THM32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fuel ritual">
+    <PageReference>THM145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Futhark runes">
+    <PageReference>THM170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteer advantage">
+    <PageReference>THM103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteering">
+    <Child ReferenceText="alchemical">
+      <PageReference>THM103-104</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gambler’s Token ritual">
+    <PageReference>THM153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gem Injection Problem setting">
+    <PageReference>THM239-241</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gem injection rules">
+    <PageReference>THM240-241</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gemstones">
+    <PageReference>THM99</PageReference>
+    <PageReference>THM240-241</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genetics and ability">
+    <PageReference>THM15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gentle Art of the Floating World book">
+    <PageReference>THM163-164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gentle Beast ritual">
+    <PageReference>THM144</PageReference>
+    <PageReference>THM156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost Shirt ritual">
+    <PageReference>THM158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost Sword ritual">
+    <PageReference>THM145</PageReference>
+    <PageReference>THM161-162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gizmos">
+    <Child ReferenceText="alchemical">
+      <PageReference>THM104</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Glamour limitation">
+    <PageReference>THM201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="God-masks">
+    <PageReference>THM211-214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gods">
+    <PageReference>THM10</PageReference>
+    <PageReference>THM13</PageReference>
+    <PageReference>THM16</PageReference>
+    <PageReference>THM17</PageReference>
+    <PageReference>THM203</PageReference>
+    <PageReference>THM226</PageReference>
+    <SeeAlso>Clerics</SeeAlso>
+    <SeeAlso>Priests</SeeAlso>
+    <SeeAlso>Religion</SeeAlso>
+    <SeeAlso>Shamans</SeeAlso>
+    <SeeAlso>SpiritAssisted Magic</SeeAlso>
+    <SeeAlso>Spirit Vessels</SeeAlso>
+    <SeeAlso>and Spirits</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="“Good vs">
+    <Child ReferenceText="evil” ethical forces">
+      <PageReference>THM13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grain (material)">
+    <PageReference>THM244</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great Gas Mileage ritual">
+    <PageReference>THM146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gremlins ritual">
+    <PageReference>THM146</PageReference>
+    <PageReference>THM153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grimoires">
+    <PageReference>THM38</PageReference>
+    <PageReference>THM56</PageReference>
+    <PageReference>THM229</PageReference>
+    <SeeAlso>Book Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Groups (targets)">
+    <Child ReferenceText="defenses">
+      <PageReference>THM130</PageReference>
+      <PageReference>THM130</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Guards (magical defense)">
+    <PageReference>THM224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guise ritual">
+    <PageReference>THM140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>THM4</PageReference>
+    <PageReference>THM5</PageReference>
+    <PageReference>THM8</PageReference>
+    <PageReference>THM9</PageReference>
+    <PageReference>THM12</PageReference>
+    <PageReference>THM15</PageReference>
+    <PageReference>THM56</PageReference>
+    <PageReference>THM58</PageReference>
+    <PageReference>THM65</PageReference>
+    <PageReference>THM172</PageReference>
+    <Child ReferenceText="Banestorm">
+      <PageReference>THM20</PageReference>
+      <PageReference>THM71</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>THM4</PageReference>
+      <PageReference>THM19</PageReference>
+      <PageReference>THM107</PageReference>
+      <PageReference>THM190</PageReference>
+      <PageReference>THM197</PageReference>
+      <PageReference>THM239</PageReference>
+    </Child>
+    <Child ReferenceText="Best of Pyramid Volume 2">
+      <PageReference>THM5</PageReference>
+    </Child>
+    <Child ReferenceText="Cabal">
+      <PageReference>THM5</PageReference>
+    </Child>
+    <Child ReferenceText="Celtic Myth">
+      <PageReference>THM4</PageReference>
+    </Child>
+    <Child ReferenceText="Dragons">
+      <PageReference>THM100</PageReference>
+      <PageReference>THM238</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy II">
+      <PageReference>THM240</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>THM5</PageReference>
+      <PageReference>THM24</PageReference>
+      <PageReference>THM23</PageReference>
+      <PageReference>THM69</PageReference>
+      <PageReference>THM213</PageReference>
+      <PageReference>THM226</PageReference>
+    </Child>
+    <Child ReferenceText="Ice Age">
+      <PageReference>THM4</PageReference>
+    </Child>
+    <Child ReferenceText="Infinite Worlds">
+      <PageReference>THM84</PageReference>
+      <PageReference>THM239</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>THM5</PageReference>
+      <PageReference>THM19</PageReference>
+      <PageReference>THM22</PageReference>
+      <PageReference>THM23</PageReference>
+      <PageReference>THM47-49</PageReference>
+      <PageReference>THM51</PageReference>
+      <PageReference>THM52</PageReference>
+      <PageReference>THM58</PageReference>
+      <PageReference>THM63</PageReference>
+      <PageReference>THM65</PageReference>
+      <PageReference>THM68</PageReference>
+      <PageReference>THM72</PageReference>
+      <PageReference>THM75</PageReference>
+      <PageReference>THM79</PageReference>
+      <PageReference>THM84</PageReference>
+      <PageReference>THM100</PageReference>
+      <PageReference>THM103</PageReference>
+      <PageReference>THM105-107</PageReference>
+      <PageReference>THM116</PageReference>
+      <PageReference>THM143</PageReference>
+      <PageReference>THM155</PageReference>
+      <PageReference>THM167</PageReference>
+      <PageReference>THM171</PageReference>
+      <PageReference>THM177</PageReference>
+      <PageReference>THM192</PageReference>
+      <PageReference>THM209</PageReference>
+      <PageReference>THM234</PageReference>
+      <PageReference>THM238</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>THM207</PageReference>
+      <PageReference>THM238</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>THM5</PageReference>
+      <PageReference>THM26</PageReference>
+      <PageReference>THM39</PageReference>
+      <PageReference>THM117</PageReference>
+      <PageReference>THM124</PageReference>
+      <PageReference>THM190</PageReference>
+      <PageReference>THM198-200</PageReference>
+      <PageReference>THM202</PageReference>
+      <PageReference>THM203</PageReference>
+      <PageReference>THM207</PageReference>
+      <PageReference>THM208</PageReference>
+      <PageReference>THM213</PageReference>
+      <PageReference>THM224</PageReference>
+      <PageReference>THM238</PageReference>
+    </Child>
+    <Child ReferenceText="Religion">
+      <PageReference>THM4</PageReference>
+    </Child>
+    <Child ReferenceText="Spirits">
+      <PageReference>THM5</PageReference>
+    </Child>
+    <Child ReferenceText="Voodoo">
+      <PageReference>THM5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hallucination ritual">
+    <PageReference>THM140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hand of Glory ritual">
+    <PageReference>THM141</PageReference>
+    <PageReference>THM163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hasten Mount ritual">
+    <PageReference>THM149</PageReference>
+    <PageReference>THM156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hawthorn (material)">
+    <PageReference>THM244</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hebrew alphabet">
+    <PageReference>THM172</PageReference>
+    <PageReference>THM254</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Herb Lore skill">
+    <PageReference>THM15</PageReference>
+    <PageReference>THM98</PageReference>
+    <PageReference>THM104-105</PageReference>
+    <Child ReferenceText="critical failures">
+      <PageReference>THM105</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Herbs">
+    <PageReference>THM105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hermetic astrology">
+    <PageReference>THM83</PageReference>
+    <PageReference>THM85</PageReference>
+    <PageReference>THM101</PageReference>
+    <PageReference>THM248-253</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hermetic decans">
+    <PageReference>THM83</PageReference>
+    <PageReference>THM85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hierarchies in magic societies">
+    <PageReference>THM221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High Craft powers">
+    <PageReference>THM205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High Craft Talent">
+    <PageReference>THM205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Higher favors">
+    <Child ReferenceText="asking for">
+      <PageReference>THM226</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="History ritual">
+    <PageReference>THM151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit Points">
+    <Child ReferenceText="as energy source">
+      <PageReference>THM50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Holiness Talent">
+    <PageReference>THM205-206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holiness">
+    <Child ReferenceText="as energy source">
+      <PageReference>THM53-54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Horses (for spirits)">
+    <PageReference>THM211-214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HT-based magic">
+    <PageReference>THM29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Humors">
+    <PageReference>THM48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunter’s Blessing ritual">
+    <PageReference>THM153</PageReference>
+    <PageReference>THM156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Identification of students">
+    <PageReference>THM220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ideogram symbols">
+    <PageReference>THM172</PageReference>
+    <PageReference>THM177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ill-Omened Dates limitation">
+    <PageReference>THM23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imagery">
+    <PageReference>THM219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impotence ritual">
+    <PageReference>THM164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incompetence quirk">
+    <PageReference>THM22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Increased Threshold advantage">
+    <PageReference>THM78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inexorable Breeze ritual">
+    <PageReference>THM143-144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinity Unlimited">
+    <PageReference>THM239-240</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injurious Magic limitation">
+    <PageReference>THM25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insubstantial beings">
+    <Child ReferenceText="material world and">
+      <PageReference>THM228</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Insubstantial Only limitation">
+    <PageReference>THM201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interactions between systems">
+    <PageReference>THM222-226</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>THM234</PageReference>
+      <PageReference>THM237</PageReference>
+      <PageReference>THM238</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Interdimensional casting">
+    <PageReference>THM86</PageReference>
+    <PageReference>THM131</PageReference>
+    <PageReference>THM182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inventing new spells">
+    <PageReference>THM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invention skills">
+    <PageReference>THM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inventions">
+    <Child ReferenceText="alchemy">
+      <PageReference>THM103</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron (material)">
+    <PageReference>THM244</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Item IQ">
+    <PageReference>THM116</PageReference>
+    <SeeAlso>Magic Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Item magery">
+    <PageReference>THM24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Journeyman’s Blessing ritual">
+    <PageReference>THM146</PageReference>
+    <PageReference>THM153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Journeyman’s Curse ritual">
+    <PageReference>THM146</PageReference>
+    <PageReference>THM153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Karmic” magic">
+    <PageReference>THM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knot-symbol magic">
+    <PageReference>THM177-178</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Know Fault ritual">
+    <PageReference>THM146</PageReference>
+    <PageReference>THM151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lab-loving PC problem">
+    <PageReference>THM222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laboratories">
+    <PageReference>THM102-104</PageReference>
+    <PageReference>THM108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Languages">
+    <SeeAlso>Symbolic Lexicons</SeeAlso>
+    <Child ReferenceText="magical">
+      <PageReference>THM87-88</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Laws of magic">
+    <PageReference>THM14-15</PageReference>
+    <PageReference>THM86-87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laws of nature">
+    <PageReference>THM12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lay to Rest ritual">
+    <PageReference>THM162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lend Energy spell">
+    <PageReference>THM78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lend Skill spell">
+    <PageReference>THM109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ley lines">
+    <PageReference>THM12</PageReference>
+    <PageReference>THM53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Liar’s Charm ritual">
+    <PageReference>THM141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitations">
+    <Child ReferenceText="new">
+      <PageReference>THM22-25</PageReference>
+      <PageReference>THM79</PageReference>
+      <PageReference>THM200-201</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited Colleges limitation">
+    <PageReference>THM25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locate ritual">
+    <PageReference>THM151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locate Spare ritual">
+    <PageReference>THM146</PageReference>
+    <PageReference>THM151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Love Charm ritual">
+    <PageReference>THM154</PageReference>
+    <PageReference>THM163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lower of two bases for spellcasting">
+    <PageReference>THM30-31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loyal Item ritual">
+    <PageReference>THM154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loyalty of (Ethical Category) spell">
+    <PageReference>THM50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luck advantage">
+    <Child ReferenceText="critical failures and">
+      <PageReference>THM30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Luck and ability">
+    <PageReference>THM16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lunar Magery limitation">
+    <PageReference>THM23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lust ritual">
+    <PageReference>THM141</PageReference>
+    <PageReference>THM149</PageReference>
+    <PageReference>THM163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Machines Hate You ritual">
+    <PageReference>THM147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mageocracy">
+    <PageReference>THM218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery (Path/Book) advantage">
+    <PageReference>THM123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery 0 advantage">
+    <PageReference>THM21</PageReference>
+    <PageReference>THM65</PageReference>
+    <PageReference>THM168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery advantage">
+    <Child ReferenceText="buying off limitations">
+      <PageReference>THM27</PageReference>
+    </Child>
+    <Child ReferenceText="enhancements">
+      <PageReference>THM28-29</PageReference>
+    </Child>
+    <Child ReferenceText="level cap">
+      <PageReference>THM20</PageReference>
+    </Child>
+    <Child ReferenceText="limitations">
+      <PageReference>THM23-27</PageReference>
+    </Child>
+    <Child ReferenceText="limited">
+      <PageReference>THM20-29</PageReference>
+    </Child>
+    <Child ReferenceText="mixed limitations">
+      <PageReference>THM21</PageReference>
+    </Child>
+    <Child ReferenceText="modified">
+      <PageReference>THM20-29</PageReference>
+    </Child>
+    <Child ReferenceText="One College Only">
+      <PageReference>THM21</PageReference>
+      <PageReference>THM22</PageReference>
+      <PageReference>THM26</PageReference>
+      <PageReference>THM27</PageReference>
+      <PageReference>THM42</PageReference>
+    </Child>
+    <Child ReferenceText="partially limited">
+      <PageReference>THM20</PageReference>
+    </Child>
+    <Child ReferenceText="replacement for Power Investiture">
+      <PageReference>THM67</PageReference>
+    </Child>
+    <Child ReferenceText="symbol magic and">
+      <PageReference>THM168</PageReference>
+    </Child>
+    <Child ReferenceText="varieties">
+      <PageReference>THM65</PageReference>
+    </Child>
+    <Child ReferenceText="as limit for spell skills">
+      <PageReference>THM41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mages">
+    <Child ReferenceText="persecuted">
+      <PageReference>THM217</PageReference>
+      <PageReference>THM222</PageReference>
+    </Child>
+    <Child ReferenceText="as rulers">
+      <PageReference>THM218</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <Child ReferenceText="based on other attributes">
+      <PageReference>THM29-31</PageReference>
+    </Child>
+    <Child ReferenceText="associated with evil">
+      <PageReference>THM230</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic addiction">
+    <PageReference>THM63</PageReference>
+    <PageReference>THM94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic items">
+    <SeeAlso>Enchantments</SeeAlso>
+    <Child ReferenceText="as advantages">
+      <PageReference>THM54</PageReference>
+      <PageReference>THM113-115</PageReference>
+    </Child>
+    <Child ReferenceText="as characters">
+      <PageReference>THM118-119</PageReference>
+    </Child>
+    <Child ReferenceText="common abilities of">
+      <PageReference>THM117-118</PageReference>
+    </Child>
+    <Child ReferenceText="cursed">
+      <PageReference>THM116</PageReference>
+    </Child>
+    <Child ReferenceText="disadvantages and">
+      <PageReference>THM114-115</PageReference>
+    </Child>
+    <Child ReferenceText="enchanting">
+      <PageReference>THM107-113</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>THM97</PageReference>
+      <PageReference>THM115</PageReference>
+    </Child>
+    <Child ReferenceText="interactions of">
+      <PageReference>THM115</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers and">
+      <PageReference>THM89-90</PageReference>
+    </Child>
+    <Child ReferenceText="Path/Book-related">
+      <PageReference>THM139</PageReference>
+    </Child>
+    <Child ReferenceText="power Talents and">
+      <PageReference>THM115</PageReference>
+    </Child>
+    <Child ReferenceText="psionics and">
+      <PageReference>THM229</PageReference>
+    </Child>
+    <Child ReferenceText="restricted">
+      <PageReference>THM116</PageReference>
+    </Child>
+    <Child ReferenceText="sapient">
+      <PageReference>THM116-119</PageReference>
+    </Child>
+    <Child ReferenceText="standard">
+      <PageReference>THM9-10</PageReference>
+    </Child>
+    <Child ReferenceText="thresholdlimited magic and">
+      <PageReference>THM79-80</PageReference>
+    </Child>
+    <Child ReferenceText="willful">
+      <PageReference>THM116-119</PageReference>
+    </Child>
+    <Child ReferenceText="activating">
+      <PageReference>THM111</PageReference>
+      <PageReference>THM176</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="“Magic Only” Fatigue">
+    <PageReference>THM50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Resistance advantage">
+    <PageReference>THM22</PageReference>
+    <PageReference>THM62-63</PageReference>
+    <PageReference>THM131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic staffs">
+    <PageReference>THM52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Susceptibility disadvantage">
+    <PageReference>THM22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic sword">
+    <PageReference>THM115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical societies">
+    <PageReference>THM220-222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magically based damage">
+    <PageReference>THM22</PageReference>
+    <PageReference>THM63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Malaise ritual">
+    <PageReference>THM149-150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Malediction enhancement">
+    <PageReference>THM199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Malefices">
+    <PageReference>THM139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana">
+    <PageReference>THM58-62</PageReference>
+    <PageReference>THM81</PageReference>
+    <PageReference>THM111</PageReference>
+    <PageReference>THM202</PageReference>
+    <Child ReferenceText="aspected">
+      <PageReference>THM59</PageReference>
+      <PageReference>THM60</PageReference>
+    </Child>
+    <Child ReferenceText="continuous">
+      <PageReference>THM58</PageReference>
+      <PageReference>THM59</PageReference>
+    </Child>
+    <Child ReferenceText="eliminating">
+      <PageReference>THM62</PageReference>
+    </Child>
+    <Child ReferenceText="nonmages and">
+      <PageReference>THM58</PageReference>
+      <PageReference>THM81</PageReference>
+    </Child>
+    <Child ReferenceText="ritual space and">
+      <PageReference>THM126</PageReference>
+    </Child>
+    <Child ReferenceText="symbol magic and">
+      <PageReference>THM173</PageReference>
+    </Child>
+    <Child ReferenceText="twisted">
+      <PageReference>THM59</PageReference>
+      <PageReference>THM60</PageReference>
+    </Child>
+    <Child ReferenceText="variable">
+      <PageReference>THM58-59</PageReference>
+    </Child>
+    <Child ReferenceText="very low">
+      <PageReference>THM58</PageReference>
+      <PageReference>THM59</PageReference>
+    </Child>
+    <Child ReferenceText="wild">
+      <PageReference>THM59</PageReference>
+      <PageReference>THM61</PageReference>
+      <PageReference>THM117</PageReference>
+      <PageReference>THM173</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana Damper advantage">
+    <PageReference>THM59-60</PageReference>
+    <PageReference>THM81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana Enhancer advantage">
+    <PageReference>THM26</PageReference>
+    <PageReference>THM59-60</PageReference>
+    <PageReference>THM81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana organs">
+    <PageReference>THM99-100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana Sensitive limitation">
+    <PageReference>THM114</PageReference>
+    <PageReference>THM198</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manastone">
+    <PageReference>THM52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mass destruction magic">
+    <PageReference>THM218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Material components">
+    <PageReference>THM87</PageReference>
+    <PageReference>THM90</PageReference>
+    <PageReference>THM96-99</PageReference>
+    <PageReference>THM105</PageReference>
+    <PageReference>THM128</PageReference>
+    <PageReference>THM244</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Material magic">
+    <Child ReferenceText="inherent">
+      <PageReference>THM96-100</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Measurement ritual">
+    <PageReference>THM164-165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medicine">
+    <PageReference>THM15</PageReference>
+    <PageReference>THM32</PageReference>
+    <PageReference>THM105</PageReference>
+    <Child ReferenceText="alchemy and">
+      <PageReference>THM101</PageReference>
+      <PageReference>THM106-107</PageReference>
+    </Child>
+    <Child ReferenceText="elements and">
+      <PageReference>THM48</PageReference>
+    </Child>
+    <Child ReferenceText="natural">
+      <PageReference>THM98</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Meditation">
+    <Child ReferenceText="as energy source">
+      <PageReference>THM53-54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Medium advantage">
+    <PageReference>THM159</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee Attack (ST-Based) enhancement">
+    <PageReference>THM114</PageReference>
+    <PageReference>THM119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentors and ability">
+    <PageReference>THM17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meritocracy">
+    <PageReference>THM218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metal">
+    <Child ReferenceText="problems with">
+      <PageReference>THM28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Metal College">
+    <PageReference>THM47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meteoric iron (material)">
+    <PageReference>THM244</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minerals">
+    <Child ReferenceText="magic-rich">
+      <PageReference>THM98-99</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Minion enhancement">
+    <PageReference>THM198</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mist ritual">
+    <PageReference>THM141</PageReference>
+    <PageReference>THM144</PageReference>
+    <PageReference>THM156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modifier-enhanced magic">
+    <PageReference>THM82-90</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>THM90</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Modular Abilities advantage">
+    <PageReference>THM56</PageReference>
+    <PageReference>THM100</PageReference>
+    <PageReference>THM167</PageReference>
+    <PageReference>THM203</PageReference>
+    <PageReference>THM231</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Morph advantage">
+    <PageReference>THM197</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple constituent modifiers">
+    <PageReference>THM243</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple target modifiers">
+    <PageReference>THM243</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mundanes">
+    <Child ReferenceText="views of">
+      <PageReference>THM221-222</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Must Be Wielded limitation">
+    <PageReference>THM119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mystic Chinoiserie setting">
+    <PageReference>THM238-239</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mysticism">
+    <PageReference>THM11</PageReference>
+    <SeeAlso>Clerics</SeeAlso>
+    <SeeAlso>Priests</SeeAlso>
+    <SeeAlso>Divine Favor</SeeAlso>
+    <SeeAlso>and Religion</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="“Mystic Symbol” advantages">
+    <PageReference>THM124</PageReference>
+    <PageReference>THM139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Names">
+    <PageReference>THM14</PageReference>
+    <PageReference>THM87</PageReference>
+    <PageReference>THM92</PageReference>
+    <PageReference>THM128-129</PageReference>
+    <Child ReferenceText="modifiers">
+      <PageReference>THM245</PageReference>
+    </Child>
+    <Child ReferenceText="objects and">
+      <PageReference>THM112</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural ability">
+    <PageReference>THM15-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Negotiation magic">
+    <PageReference>THM10-11</PageReference>
+    <SeeAlso>Spirit-Assisted Magic and Spirits</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Night Terrors ritual">
+    <PageReference>THM142</PageReference>
+    <PageReference>THM163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Legs (Portable) disadvantage">
+    <PageReference>THM119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No-justification plots">
+    <PageReference>THM217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No-Mana Shutdown disadvantage">
+    <PageReference>THM119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Non-mage casters">
+    <PageReference>THM15</PageReference>
+    <PageReference>THM58</PageReference>
+    <PageReference>THM81</PageReference>
+    <PageReference>THM91</PageReference>
+    <PageReference>THM123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obscurity ritual">
+    <PageReference>THM141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occultist casters">
+    <PageReference>THM91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ogham alphabet">
+    <PageReference>THM42</PageReference>
+    <PageReference>THM43-46</PageReference>
+    <PageReference>THM170-171</PageReference>
+    <PageReference>THM185</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One College Only limitation">
+    <PageReference>THM21</PageReference>
+    <PageReference>THM22</PageReference>
+    <PageReference>THM26</PageReference>
+    <PageReference>THM27</PageReference>
+    <PageReference>THM42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-off symbol enchantments">
+    <PageReference>THM175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-Spell Magery limitation">
+    <PageReference>THM21</PageReference>
+    <PageReference>THM25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oral traditions and ability">
+    <PageReference>THM17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Otherworldly entanglements">
+    <PageReference>THM226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Otz Chaim">
+    <PageReference>THM253</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pact limitation">
+    <PageReference>THM17</PageReference>
+    <PageReference>THM27</PageReference>
+    <PageReference>THM198</PageReference>
+    <PageReference>THM199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parchment symbol casting">
+    <PageReference>THM173-174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path Adept advantage">
+    <PageReference>THM123-124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path magic">
+    <PageReference>THM121-162</PageReference>
+    <PageReference>THM172</PageReference>
+    <PageReference>THM173</PageReference>
+    <Child ReferenceText="as religious ritual">
+      <PageReference>THM133</PageReference>
+    </Child>
+    <Child ReferenceText="book magic compared with">
+      <PageReference>THM121-122</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>THM236</PageReference>
+    </Child>
+    <Child ReferenceText="example paths">
+      <PageReference>THM140-162</PageReference>
+    </Child>
+    <Child ReferenceText="learning">
+      <PageReference>THM125</PageReference>
+      <PageReference>THM127</PageReference>
+      <PageReference>THM136</PageReference>
+    </Child>
+    <Child ReferenceText="spirits and">
+      <PageReference>THM159</PageReference>
+    </Child>
+    <Child ReferenceText="terminology">
+      <PageReference>THM122</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Path magic rituals">
+    <Child ReferenceText="canceling and dispelling effects">
+      <PageReference>THM138</PageReference>
+    </Child>
+    <Child ReferenceText="combined ceremonies">
+      <PageReference>THM138</PageReference>
+    </Child>
+    <Child ReferenceText="complexity of effect">
+      <PageReference>THM132</PageReference>
+    </Child>
+    <Child ReferenceText="components and">
+      <PageReference>THM128-129</PageReference>
+    </Child>
+    <Child ReferenceText="conditional">
+      <PageReference>THM138</PageReference>
+    </Child>
+    <Child ReferenceText="damage of">
+      <PageReference>THM132</PageReference>
+      <PageReference>THM135</PageReference>
+    </Child>
+    <Child ReferenceText="duration of">
+      <PageReference>THM131</PageReference>
+    </Child>
+    <Child ReferenceText="group defenses and resistance">
+      <PageReference>THM130</PageReference>
+    </Child>
+    <Child ReferenceText="items">
+      <PageReference>THM139</PageReference>
+    </Child>
+    <Child ReferenceText="multiple effects">
+      <PageReference>THM132</PageReference>
+    </Child>
+    <Child ReferenceText="range">
+      <PageReference>THM131</PageReference>
+      <PageReference>THM135</PageReference>
+    </Child>
+    <Child ReferenceText="sensing">
+      <PageReference>THM138</PageReference>
+    </Child>
+    <Child ReferenceText="targets of">
+      <PageReference>THM130</PageReference>
+      <PageReference>THM131</PageReference>
+      <PageReference>THM135</PageReference>
+    </Child>
+    <Child ReferenceText="time selected">
+      <PageReference>THM128</PageReference>
+    </Child>
+    <Child ReferenceText="time taken">
+      <PageReference>THM127-128</PageReference>
+    </Child>
+    <Child ReferenceText="triggering effects of">
+      <PageReference>THM131</PageReference>
+    </Child>
+    <Child ReferenceText="area of">
+      <PageReference>THM130-131</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Path of Cunning">
+    <PageReference>THM140-141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path of Dreams">
+    <PageReference>THM141-143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path of Form">
+    <PageReference>THM144-145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path of Gadgets">
+    <PageReference>THM145-148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path of Health">
+    <PageReference>THM139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path of Health">
+    <PageReference>THM148-151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path of Knowledge">
+    <PageReference>THM151-152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path of Luck">
+    <PageReference>THM152-155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path of Nature">
+    <PageReference>THM155-157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path of Protection">
+    <PageReference>THM157-159</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path of Spirit">
+    <PageReference>THM159-162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path of the Elements">
+    <PageReference>THM143-144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path of the People">
+    <PageReference>THM155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patina">
+    <PageReference>THM88-89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrons advantage">
+    <PageReference>THM17</PageReference>
+    <PageReference>THM198</PageReference>
+    <PageReference>THM209-210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paut">
+    <PageReference>THM52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="People of the Ocean setting">
+    <PageReference>THM231-235</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Per-based magic">
+    <PageReference>THM29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perfect Appearance ritual">
+    <PageReference>THM164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perfect Control ritual">
+    <PageReference>THM147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perfection of the Soul ritual">
+    <PageReference>THM165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perk">
+    <Child ReferenceText="new">
+      <PageReference>THM39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal Cycle limitation">
+    <PageReference>THM24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal force (source)">
+    <PageReference>THM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal Holiness power">
+    <PageReference>THM205-206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pharmacy skill">
+    <PageReference>THM15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Physical initiation">
+    <PageReference>THM18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Places of power">
+    <PageReference>THM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planetary correspondences">
+    <PageReference>THM85</PageReference>
+    <PageReference>THM247</PageReference>
+    <PageReference>THM248</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plane-Walking power">
+    <PageReference>THM206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plane-Walking Talent">
+    <PageReference>THM206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poetry">
+    <PageReference>THM88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Polarized colleges or forms">
+    <PageReference>THM22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Politics">
+    <PageReference>THM219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poppet magic">
+    <PageReference>THM89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Investiture advantage">
+    <PageReference>THM17</PageReference>
+    <PageReference>THM65-67</PageReference>
+    <PageReference>THM206</PageReference>
+    <Child ReferenceText="Shamanic">
+      <PageReference>THM66</PageReference>
+    </Child>
+    <Child ReferenceText="spells and">
+      <PageReference>THM206</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power items">
+    <PageReference>THM139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power modifier">
+    <Child ReferenceText="calculating">
+      <PageReference>THM202</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <Child ReferenceText="new">
+      <PageReference>THM190</PageReference>
+      <PageReference>THM204-208</PageReference>
+    </Child>
+    <Child ReferenceText="magic as">
+      <PageReference>THM202-208</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power staffs">
+    <PageReference>THM52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powerstones">
+    <PageReference>THM51</PageReference>
+    <PageReference>THM52</PageReference>
+    <PageReference>THM90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power supplies">
+    <SeeAlso>Energy Sources</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Talents">
+    <PageReference>THM124</PageReference>
+    <PageReference>THM203</PageReference>
+    <SeeAlso>Talents</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Power tallies">
+    <PageReference>THM76-77</PageReference>
+    <Child ReferenceText="calamities and">
+      <PageReference>THM77-78</PageReference>
+    </Child>
+    <Child ReferenceText="recovery">
+      <PageReference>THM77</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Predict Weather ritual">
+    <PageReference>THM156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Preparation Required limitation">
+    <PageReference>THM27</PageReference>
+    <PageReference>THM198</PageReference>
+    <PageReference>THM199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prerequisites">
+    <Child ReferenceText="calculating counts">
+      <PageReference>THM72-73</PageReference>
+    </Child>
+    <Child ReferenceText="change example">
+      <PageReference>THM42-47</PageReference>
+    </Child>
+    <Child ReferenceText="changing">
+      <PageReference>THM26</PageReference>
+      <PageReference>THM32-33</PageReference>
+      <PageReference>THM41</PageReference>
+    </Child>
+    <Child ReferenceText="changing counts">
+      <PageReference>THM73</PageReference>
+    </Child>
+    <Child ReferenceText="counts">
+      <PageReference>THM33</PageReference>
+      <PageReference>THM261-267</PageReference>
+    </Child>
+    <Child ReferenceText="unusable">
+      <PageReference>THM26</PageReference>
+    </Child>
+    <Child ReferenceText="attribute">
+      <PageReference>THM31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Priests">
+    <PageReference>THM7</PageReference>
+    <PageReference>THM8</PageReference>
+    <PageReference>THM11</PageReference>
+    <PageReference>THM17</PageReference>
+    <PageReference>THM40</PageReference>
+    <PageReference>THM49</PageReference>
+    <SeeAlso>Clerics</SeeAlso>
+    <SeeAlso>Religion</SeeAlso>
+    <SeeAlso>Shamans</SeeAlso>
+    <SeeAlso>and Spirits</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Priest-wizards">
+    <PageReference>THM71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Process Raw Magic spell">
+    <PageReference>THM229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Protection from (Ethical Category) spell">
+    <PageReference>THM49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionics and magic">
+    <PageReference>THM229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Purity">
+    <PageReference>THM57</PageReference>
+    <PageReference>THM88-89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Qabala">
+    <PageReference>THM11</PageReference>
+    <PageReference>THM54</PageReference>
+    <PageReference>THM168</PageReference>
+    <PageReference>THM172</PageReference>
+    <PageReference>THM253</PageReference>
+    <PageReference>THM254</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quests">
+    <PageReference>THM216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Gadgeteer advantage">
+    <PageReference>THM103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quirks">
+    <Child ReferenceText="new">
+      <PageReference>THM22</PageReference>
+      <PageReference>THM65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Races and ability">
+    <PageReference>THM16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radically Unstable Magery limitation">
+    <PageReference>THM26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Raise Cone of Power spell">
+    <PageReference>THM52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Range">
+    <Child ReferenceText="interdimensional casting">
+      <PageReference>THM86</PageReference>
+      <PageReference>THM131</PageReference>
+      <PageReference>THM182</PageReference>
+    </Child>
+    <Child ReferenceText="meaningless">
+      <PageReference>THM86</PageReference>
+    </Child>
+    <Child ReferenceText="overcoming">
+      <PageReference>THM87</PageReference>
+    </Child>
+    <Child ReferenceText="changes for spells">
+      <PageReference>THM35-36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Magical Recovery advantage">
+    <PageReference>THM79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Raw Magic Store advantage">
+    <PageReference>THM228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Raw Magic">
+    <PageReference>THM227-229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reactive reality">
+    <PageReference>THM193-194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Read Memories ritual">
+    <PageReference>THM151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Read the Manual ritual">
+    <PageReference>THM147</PageReference>
+    <PageReference>THM151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Read Thoughts ritual">
+    <PageReference>THM152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reality shaping">
+    <PageReference>THM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Real magic">
+    <PageReference>THM7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realm advantages">
+    <PageReference>THM188-190</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realm-based syntactic magic">
+    <PageReference>THM181</PageReference>
+    <PageReference>THM183</PageReference>
+    <PageReference>THM188-192</PageReference>
+    <SeeAlso>Syntactic Magic</SeeAlso>
+    <Child ReferenceText="example">
+      <PageReference>THM191</PageReference>
+      <PageReference>THM232-233</PageReference>
+      <PageReference>THM253</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Realm powers">
+    <PageReference>THM190</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realms">
+    <Child ReferenceText="defining">
+      <PageReference>THM188-189</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Realm skills">
+    <PageReference>THM188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reasons for abilities">
+    <PageReference>THM15-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recover Energy spell">
+    <PageReference>THM78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recruitment of students">
+    <PageReference>THM220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reduced Threshold limitation">
+    <PageReference>THM79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regeneration advantage">
+    <PageReference>THM50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reincarnate Talent">
+    <PageReference>THM207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reincarnation power">
+    <PageReference>THM206-207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Religion">
+    <SeeAlso>Clerics</SeeAlso>
+    <SeeAlso>Priests</SeeAlso>
+    <SeeAlso>and Shamans</SeeAlso>
+    <Child ReferenceText="rituals">
+      <PageReference>THM40</PageReference>
+      <PageReference>THM125</PageReference>
+      <PageReference>THM129</PageReference>
+      <PageReference>THM133</PageReference>
+    </Child>
+    <Child ReferenceText="magic and">
+      <PageReference>THM7</PageReference>
+      <PageReference>THM11</PageReference>
+      <PageReference>THM205-206</PageReference>
+      <PageReference>THM221</PageReference>
+      <PageReference>THM222</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious Ritual skill">
+    <PageReference>THM51</PageReference>
+    <PageReference>THM54</PageReference>
+    <PageReference>THM68</PageReference>
+    <PageReference>THM96</PageReference>
+    <PageReference>THM128</PageReference>
+    <PageReference>THM133</PageReference>
+    <PageReference>THM207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repair ritual">
+    <PageReference>THM148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repel (Ethical Category) spell">
+    <PageReference>THM49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires Reaction Roll limitation">
+    <PageReference>THM201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Research plots">
+    <PageReference>THM216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistible limitation">
+    <PageReference>THM199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restricted Casting Style quirk">
+    <PageReference>THM65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Results">
+    <SeeAlso>Effects</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Returning magic">
+    <PageReference>THM239</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reversion of Form ritual">
+    <PageReference>THM144-145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rituals">
+    <SeeAlso>Ceremonial Magic</SeeAlso>
+    <SeeAlso>Religion</SeeAlso>
+    <SeeAlso>and Ritual Magic</SeeAlso>
+    <Child ReferenceText="elements of">
+      <PageReference>THM127-129</PageReference>
+    </Child>
+    <Child ReferenceText="elimination of">
+      <PageReference>THM37</PageReference>
+    </Child>
+    <Child ReferenceText="encumbrance and">
+      <PageReference>THM28</PageReference>
+    </Child>
+    <Child ReferenceText="flexible">
+      <PageReference>THM37</PageReference>
+    </Child>
+    <Child ReferenceText="penalties for omitting">
+      <PageReference>THM37-38</PageReference>
+    </Child>
+    <Child ReferenceText="sensing attacks">
+      <PageReference>THM138</PageReference>
+    </Child>
+    <Child ReferenceText="space">
+      <PageReference>THM126</PageReference>
+      <PageReference>THM128</PageReference>
+    </Child>
+    <Child ReferenceText="steps">
+      <PageReference>THM125</PageReference>
+    </Child>
+    <Child ReferenceText="styles of">
+      <PageReference>THM37</PageReference>
+    </Child>
+    <Child ReferenceText="alternate">
+      <PageReference>THM36-37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual Magery advantage">
+    <PageReference>THM72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual Magic skill">
+    <PageReference>THM51</PageReference>
+    <PageReference>THM54</PageReference>
+    <PageReference>THM75</PageReference>
+    <PageReference>THM96</PageReference>
+    <PageReference>THM125</PageReference>
+    <PageReference>THM128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual magic">
+    <PageReference>THM72-76</PageReference>
+    <Child ReferenceText="divine">
+      <PageReference>THM75</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>THM240</PageReference>
+    </Child>
+    <Child ReferenceText="thresholdlimited magic and">
+      <PageReference>THM82</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rivalries between mages">
+    <PageReference>THM221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rockfall ritual">
+    <PageReference>THM144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Routine magic paths">
+    <PageReference>THM155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rule of 20">
+    <Child ReferenceText="extended">
+      <PageReference>THM73</PageReference>
+      <PageReference>THM125</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrifice spell">
+    <PageReference>THM54-55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrifice technique">
+    <PageReference>THM54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrifices">
+    <PageReference>THM54-58</PageReference>
+    <PageReference>THM88</PageReference>
+    <PageReference>THM129</PageReference>
+    <Child ReferenceText="character points from">
+      <PageReference>THM55</PageReference>
+    </Child>
+    <Child ReferenceText="energy value of living">
+      <PageReference>THM55-57</PageReference>
+    </Child>
+    <Child ReferenceText="energy from">
+      <PageReference>THM58</PageReference>
+    </Child>
+    <Child ReferenceText="inanimate">
+      <PageReference>THM55-56</PageReference>
+    </Child>
+    <Child ReferenceText="living">
+      <PageReference>THM56-57</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>THM246</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Safer Magical Excess advantage">
+    <PageReference>THM79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Salt (material)">
+    <PageReference>THM244</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sanctity">
+    <PageReference>THM68-69</PageReference>
+    <Child ReferenceText="ritual space and">
+      <PageReference>THM126</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Saving the world plot">
+    <PageReference>THM216-217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Schools for training">
+    <PageReference>THM18</PageReference>
+    <PageReference>THM220-221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Screens (magical defense)">
+    <PageReference>THM225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scry ritual">
+    <PageReference>THM152</PageReference>
+    <PageReference>THM164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-sacrifices">
+    <PageReference>THM246</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense (Ethical Category) spell">
+    <PageReference>THM49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensing ritual attacks">
+    <PageReference>THM138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sephiroth">
+    <PageReference>THM172</PageReference>
+    <PageReference>THM248</PageReference>
+    <PageReference>THM253-254</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seriously Calamity Prone limitation">
+    <PageReference>THM79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shake the Earth ritual">
+    <PageReference>THM144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shamanic Talent">
+    <PageReference>THM159</PageReference>
+    <PageReference>THM207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shamanism power">
+    <PageReference>THM159</PageReference>
+    <PageReference>THM207-208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shamans">
+    <PageReference>THM8</PageReference>
+    <PageReference>THM18</PageReference>
+    <PageReference>THM125</PageReference>
+    <PageReference>THM207-208</PageReference>
+    <PageReference>THM222</PageReference>
+    <PageReference>THM224</PageReference>
+    <SeeAlso>Religion</SeeAlso>
+    <SeeAlso>Spirit-Assisted Magic</SeeAlso>
+    <SeeAlso>Spirit Vessels</SeeAlso>
+    <SeeAlso>and Spirits</SeeAlso>
+    <Child ReferenceText="example">
+      <PageReference>THM210</PageReference>
+    </Child>
+    <Child ReferenceText="Power Investiture and">
+      <PageReference>THM66</PageReference>
+    </Child>
+    <Child ReferenceText="shape-changing and">
+      <PageReference>THM144</PageReference>
+      <PageReference>THM197</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>THM66</PageReference>
+    </Child>
+    <Child ReferenceText="spirits and">
+      <PageReference>THM7</PageReference>
+      <PageReference>THM10-11</PageReference>
+      <PageReference>THM13</PageReference>
+      <PageReference>THM90</PageReference>
+      <PageReference>THM193</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shapeshifting advantage">
+    <PageReference>THM197-198</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shapeshifting spell">
+    <PageReference>THM34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shapeshift Others spell">
+    <PageReference>THM34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Share Energy spell">
+    <PageReference>THM78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Side Effect enhancement">
+    <PageReference>THM199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silk (material)">
+    <PageReference>THM244</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silver Harp">
+    <PageReference>THM120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skill-based spell limits">
+    <PageReference>THM40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="new">
+      <PageReference>THM169</PageReference>
+      <PageReference>THM188</PageReference>
+    </Child>
+    <Child ReferenceText="alternative core">
+      <PageReference>THM74-74</PageReference>
+      <PageReference>THM140</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skinchange ritual">
+    <PageReference>THM145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slower Magical Recover limitation">
+    <PageReference>THM79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slumber ritual">
+    <PageReference>THM141</PageReference>
+    <PageReference>THM143</PageReference>
+    <PageReference>THM150</PageReference>
+    <PageReference>THM163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smooth Ride ritual">
+    <PageReference>THM148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Society and magic">
+    <PageReference>THM57</PageReference>
+    <PageReference>THM98</PageReference>
+    <PageReference>THM217-219</PageReference>
+    <PageReference>THM220-222</PageReference>
+    <PageReference>THM230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Solitary Ceremonial enhancement">
+    <PageReference>THM28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Songlines">
+    <PageReference>THM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soothe ritual">
+    <PageReference>THM150</PageReference>
+    <PageReference>THM208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soothsaying Talent">
+    <PageReference>THM208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soul-cleansing">
+    <PageReference>THM94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sources">
+    <PageReference>THM12-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="peak With Beasts ritual">
+    <PageReference>THM145</PageReference>
+    <PageReference>THM156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed changes for spells">
+    <PageReference>THM35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Enhancement enhancement">
+    <PageReference>THM39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <SeeAlso>Colleges (Spell) and Prerequisites</SeeAlso>
+    <Child ReferenceText="banning">
+      <PageReference>THM31</PageReference>
+    </Child>
+    <Child ReferenceText="capping skill levels">
+      <PageReference>THM40-41</PageReference>
+    </Child>
+    <Child ReferenceText="changing">
+      <PageReference>THM31-40</PageReference>
+    </Child>
+    <Child ReferenceText="clerical magic and">
+      <PageReference>THM65-71</PageReference>
+    </Child>
+    <Child ReferenceText="defaulting to other spells">
+      <PageReference>THM38-39</PageReference>
+    </Child>
+    <Child ReferenceText="ethical forces and">
+      <PageReference>THM49-50</PageReference>
+    </Child>
+    <Child ReferenceText="fixed list of">
+      <PageReference>THM9-10</PageReference>
+    </Child>
+    <Child ReferenceText="inventing">
+      <PageReference>THM10</PageReference>
+    </Child>
+    <Child ReferenceText="magic system example">
+      <PageReference>THM238</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>THM49-50</PageReference>
+      <PageReference>THM52</PageReference>
+      <PageReference>THM54-55</PageReference>
+      <PageReference>THM228-229</PageReference>
+    </Child>
+    <Child ReferenceText="ritual magic and">
+      <PageReference>THM76</PageReference>
+    </Child>
+    <Child ReferenceText="secret and lost">
+      <PageReference>THM31-32</PageReference>
+    </Child>
+    <Child ReferenceText="signatures">
+      <PageReference>THM25</PageReference>
+    </Child>
+    <Child ReferenceText="skills to salvage critical failures">
+      <PageReference>THM41</PageReference>
+    </Child>
+    <Child ReferenceText="slots">
+      <PageReference>THM56</PageReference>
+    </Child>
+    <Child ReferenceText="special costs of">
+      <PageReference>THM34-35</PageReference>
+    </Child>
+    <Child ReferenceText="spirits and">
+      <PageReference>THM91-94</PageReference>
+    </Child>
+    <Child ReferenceText="threshold-limited magic and">
+      <PageReference>THM81</PageReference>
+    </Child>
+    <Child ReferenceText="adjustable">
+      <PageReference>THM39-40</PageReference>
+      <PageReference>THM39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Variation perk">
+    <PageReference>THM39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit-assisted magic">
+    <PageReference>THM90-94</PageReference>
+    <SeeAlso>Shamans</SeeAlso>
+    <Child ReferenceText="example">
+      <PageReference>THM236</PageReference>
+    </Child>
+    <Child ReferenceText="rituals">
+      <PageReference>THM125</PageReference>
+    </Child>
+    <Child ReferenceText="starting with">
+      <PageReference>THM94</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Empathy advantage">
+    <PageReference>THM159</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirits">
+    <PageReference>THM18</PageReference>
+    <PageReference>THM159-162</PageReference>
+    <SeeAlso>Shamans</SeeAlso>
+    <Child ReferenceText="binding">
+      <PageReference>THM209</PageReference>
+    </Child>
+    <Child ReferenceText="contacting">
+      <PageReference>THM92</PageReference>
+      <PageReference>THM226</PageReference>
+    </Child>
+    <Child ReferenceText="contracts with">
+      <PageReference>THM92</PageReference>
+    </Child>
+    <Child ReferenceText="critical failure table">
+      <PageReference>THM260</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>THM210</PageReference>
+    </Child>
+    <Child ReferenceText="magic granted by">
+      <PageReference>THM10-11</PageReference>
+      <PageReference>THM13</PageReference>
+      <PageReference>THM210</PageReference>
+    </Child>
+    <Child ReferenceText="summoning">
+      <PageReference>THM91-92</PageReference>
+      <PageReference>THM209</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Slave ritual">
+    <PageReference>THM162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Trap ritual">
+    <PageReference>THM162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spiritual distortion">
+    <PageReference>THM93-94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit vessels">
+    <PageReference>THM211-214</PageReference>
+    <SeeAlso>Shamans</SeeAlso>
+    <Child ReferenceText="example">
+      <PageReference>THM234</PageReference>
+    </Child>
+    <Child ReferenceText="nonhuman">
+      <PageReference>THM213</PageReference>
+    </Child>
+    <Child ReferenceText="sample packages">
+      <PageReference>THM214</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit warriors">
+    <PageReference>THM211-214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stable Casting enhancement">
+    <PageReference>THM28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Star-iron (material)">
+    <PageReference>THM244</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Star-sign modifier">
+    <PageReference>THM85-86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Statis vs">
+    <Child ReferenceText="change” ethical forces">
+      <PageReference>THM13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sterility ritual">
+    <PageReference>THM150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stroke of Luck ritual">
+    <PageReference>THM154-155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Study">
+    <Child ReferenceText="as training">
+      <PageReference>THM220</PageReference>
+    </Child>
+    <Child ReferenceText="as energy source">
+      <PageReference>THM53-54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Subjective reality">
+    <PageReference>THM14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subtle Aura enhancement">
+    <PageReference>THM29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Succor ritual">
+    <PageReference>THM150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suggestion ritual">
+    <PageReference>THM141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Summonable enhancement">
+    <PageReference>THM198</PageReference>
+    <SeeAlso>Allies advantage and Patrons advantage</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Summon Beast ritual">
+    <PageReference>THM156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Summon ritual">
+    <PageReference>THM162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Summon the Unspeakable ritual">
+    <PageReference>THM163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super Luck advantage">
+    <SeeAlso>Luck advantage</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Supercharge ritual">
+    <PageReference>THM148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superhero mages">
+    <PageReference>THM230-231</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural beings">
+    <SeeAlso>Spirits</SeeAlso>
+    <Child ReferenceText="magic granted by">
+      <PageReference>THM210</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural creature abilities">
+    <PageReference>THM203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural favor">
+    <PageReference>THM10</PageReference>
+    <PageReference>THM13</PageReference>
+    <SeeAlso>Spirits</SeeAlso>
+    <Child ReferenceText="ability and">
+      <PageReference>THM17</PageReference>
+    </Child>
+    <Child ReferenceText="secret ability">
+      <PageReference>THM16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural Features disadvantage">
+    <PageReference>THM25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural servants">
+    <PageReference>THM209-210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Switchable enhancement">
+    <PageReference>THM29</PageReference>
+    <PageReference>THM62-63</PageReference>
+    <PageReference>THM200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbol Drawing skill">
+    <PageReference>THM168</PageReference>
+    <PageReference>THM172-174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbolic lexicons">
+    <Child ReferenceText="selecting">
+      <PageReference>THM169-171</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>THM171-173</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbolism">
+    <PageReference>THM14</PageReference>
+    <PageReference>THM86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbol magic">
+    <PageReference>THM168-179</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>THM177</PageReference>
+    </Child>
+    <Child ReferenceText="workings">
+      <PageReference>THM172-173</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbols">
+    <PageReference>THM110</PageReference>
+    <PageReference>THM128-129</PageReference>
+    <PageReference>THM139</PageReference>
+    <Child ReferenceText="understanding inscriptions">
+      <PageReference>THM174</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbol skills">
+    <PageReference>THM169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbol tokens">
+    <PageReference>THM174</PageReference>
+    <Child ReferenceText="enchanted">
+      <PageReference>THM176-177</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sympathy">
+    <PageReference>THM14</PageReference>
+    <PageReference>THM87</PageReference>
+    <PageReference>THM110</PageReference>
+    <PageReference>THM139</PageReference>
+    <Child ReferenceText="modifiers">
+      <PageReference>THM243-245</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Syntactic magic">
+    <PageReference>THM172</PageReference>
+    <PageReference>THM179-195</PageReference>
+    <Child ReferenceText="caps">
+      <PageReference>THM184</PageReference>
+    </Child>
+    <Child ReferenceText="countermagic and">
+      <PageReference>THM194</PageReference>
+    </Child>
+    <Child ReferenceText="errors and side effects">
+      <PageReference>THM193-194</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>THM232-233</PageReference>
+    </Child>
+    <Child ReferenceText="GMing">
+      <PageReference>THM195</PageReference>
+    </Child>
+    <Child ReferenceText="practices">
+      <PageReference>THM193-194</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>THM194</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Syntactic workings">
+    <Child ReferenceText="overview">
+      <PageReference>THM180-183</PageReference>
+    </Child>
+    <Child ReferenceText="Realm-based">
+      <PageReference>THM190-192</PageReference>
+    </Child>
+    <Child ReferenceText="verb-noun">
+      <PageReference>THM186</PageReference>
+    </Child>
+    <Child ReferenceText="linked">
+      <PageReference>THM195</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tainted">
+    <Child ReferenceText="objects">
+      <PageReference>THM88-89</PageReference>
+    </Child>
+    <Child ReferenceText="energy">
+      <PageReference>THM55</PageReference>
+      <PageReference>THM58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Takes Recharge disadvantage">
+    <PageReference>THM27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <PageReference>THM124</PageReference>
+    <PageReference>THM203</PageReference>
+    <Child ReferenceText="as magic">
+      <PageReference>THM198-199</PageReference>
+    </Child>
+    <Child ReferenceText="enchantments and">
+      <PageReference>THM198-199</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>THM204-208</PageReference>
+    </Child>
+    <Child ReferenceText="spirits and">
+      <PageReference>THM159</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Targets">
+    <Child ReferenceText="multiple">
+      <PageReference>THM243</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tattoos">
+    <Child ReferenceText="symbol">
+      <PageReference>THM176</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech level and magic">
+    <PageReference>THM59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <Child ReferenceText="spells as">
+      <PageReference>THM39</PageReference>
+    </Child>
+    <Child ReferenceText="syntactic magic">
+      <PageReference>THM194</PageReference>
+    </Child>
+    <Child ReferenceText="developing new ritual magic">
+      <PageReference>THM74</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Technology">
+    <Child ReferenceText="disrupting magic">
+      <PageReference>THM59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Temple of Hephaestus">
+    <PageReference>THM70-71</PageReference>
+    <PageReference>THM75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temporary Disadvantage limitation">
+    <PageReference>THM27</PageReference>
+    <PageReference>THM114</PageReference>
+    <PageReference>THM199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temptation of power">
+    <PageReference>THM56</PageReference>
+    <PageReference>THM230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terminal Condition limitation">
+    <PageReference>THM201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terminology">
+    <PageReference>THM8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thicken the Walls of the World ritual">
+    <PageReference>THM165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Threefold Law">
+    <PageReference>THM15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Threshold-limited magic">
+    <PageReference>THM76-82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thresholds">
+    <Child ReferenceText="energy spells and">
+      <PageReference>THM78</PageReference>
+    </Child>
+    <Child ReferenceText="score">
+      <PageReference>THM77</PageReference>
+    </Child>
+    <Child ReferenceText="calamities and">
+      <PageReference>THM77-78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thunderbolt ritual">
+    <PageReference>THM144</PageReference>
+    <PageReference>THM156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tirelessness ritual">
+    <PageReference>THM150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Total darkness (spiritual distortion)">
+    <PageReference>THM94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Total spell incompetence">
+    <PageReference>THM22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trademark disadvantage">
+    <PageReference>THM25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Training options">
+    <PageReference>THM219-222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traits">
+    <Child ReferenceText="spending for enchantments">
+      <PageReference>THM109-110</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Transformations">
+    <PageReference>THM223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transmutation of Metals ritual">
+    <PageReference>THM165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trigrams">
+    <PageReference>THM86</PageReference>
+    <PageReference>THM255</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treachery">
+    <PageReference>THM133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tree magic">
+    <PageReference>THM42-47</PageReference>
+    <PageReference>THM97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trigger disadvantage">
+    <PageReference>THM27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Name">
+    <PageReference>THM87</PageReference>
+    <PageReference>THM92</PageReference>
+    <PageReference>THM245</PageReference>
+    <SeeAlso>Names</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="T wisted Mana Generator advantage/disadvantage">
+    <PageReference>THM61-62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unarmored wizard">
+    <PageReference>THM28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unbearable Pleasure ritual">
+    <PageReference>THM164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uncontrollable limitation">
+    <PageReference>THM114</PageReference>
+    <PageReference>THM199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unlimited Ammo ritual">
+    <PageReference>THM148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Unlimited mana” system">
+    <PageReference>THM76-82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unmistakable Power disadvantage">
+    <PageReference>THM25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unnatural Features disadvantage">
+    <PageReference>THM25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unreliable disadvantage">
+    <PageReference>THM27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Untrainable limitation">
+    <PageReference>THM199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background advantage">
+    <PageReference>THM20</PageReference>
+    <PageReference>THM31-32</PageReference>
+    <PageReference>THM38</PageReference>
+    <PageReference>THM39</PageReference>
+    <PageReference>THM80</PageReference>
+    <PageReference>THM88</PageReference>
+    <PageReference>THM136</PageReference>
+    <PageReference>THM169</PageReference>
+    <PageReference>THM223</PageReference>
+    <Child ReferenceText="Supernatural Ancestry">
+      <PageReference>THM197</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Upbringing and ability">
+    <PageReference>THM16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Vancean” magic">
+    <PageReference>THM56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Variable Energy Excess advantage">
+    <PageReference>THM78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Varying bases for spellcasting">
+    <PageReference>THM31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Veil ritual">
+    <PageReference>THM141</PageReference>
+    <PageReference>THM152</PageReference>
+    <PageReference>THM158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Verb-noun syntactic magic">
+    <PageReference>THM181</PageReference>
+    <PageReference>THM183</PageReference>
+    <PageReference>THM184-187</PageReference>
+    <SeeAlso>Syntactic Magic</SeeAlso>
+    <Child ReferenceText="example">
+      <PageReference>THM186-187</PageReference>
+      <PageReference>THM253</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Virginity">
+    <PageReference>THM57</PageReference>
+    <PageReference>THM88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Virility ritual">
+    <PageReference>THM164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visible magical gifts">
+    <PageReference>THM25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vision of Luck ritual">
+    <PageReference>THM152</PageReference>
+    <PageReference>THM155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vitality ritual">
+    <PageReference>THM150</PageReference>
+    <PageReference>THM158</PageReference>
+    <PageReference>THM163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Void College">
+    <PageReference>THM47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voodoo dolls">
+    <PageReference>THM89</PageReference>
+    <PageReference>THM139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vulnerability disadvantage">
+    <PageReference>THM22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ward ritual">
+    <PageReference>THM158-159</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warrior’s Blessing ritual">
+    <PageReference>THM150-151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water (material)">
+    <PageReference>THM244</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weakness disadvantage">
+    <PageReference>THM22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weaknesses to attacks">
+    <PageReference>THM22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Blessing ritual">
+    <PageReference>THM155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon-form modifiers">
+    <PageReference>THM119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Spirit spell">
+    <PageReference>THM116-117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weatherworking ritual">
+    <PageReference>THM144</PageReference>
+    <PageReference>THM156-157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weight affected modifiers">
+    <PageReference>THM243</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whole-language symbol magic">
+    <PageReference>THM177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild Mana Generator advantage">
+    <PageReference>THM61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild Talent">
+    <PageReference>THM56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Will-based magic">
+    <PageReference>THM29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Willpower and ability">
+    <PageReference>THM16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Windfall ritual">
+    <PageReference>THM155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wisdom of the Ancient Seers setting">
+    <PageReference>THM235-238</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wood College">
+    <PageReference>THM47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Word of Power advantage">
+    <PageReference>THM179</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Words as power">
+    <PageReference>THM14</PageReference>
+    <PageReference>THM178-179</PageReference>
+    <SeeAlso>Languages</SeeAlso>
+    <SeeAlso>Names</SeeAlso>
+    <SeeAlso>Symbolic Lexicons</SeeAlso>
+    <SeeAlso>and Syntactic Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Words for magic">
+    <PageReference>THM8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Work Raw Magic ritual">
+    <PageReference>THM229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Working magic">
+    <Child ReferenceText="reasons for ability in">
+      <PageReference>THM15-18</PageReference>
+      <PageReference>THM219-220</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="World-Spanning enhancement">
+    <PageReference>THM200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zodiacal correspondences">
+    <PageReference>THM85</PageReference>
+    <PageReference>THM247</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

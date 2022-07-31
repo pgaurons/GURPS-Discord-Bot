@@ -1,0 +1,1168 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Acrobatic Feints perk">
+    <PageReference>DF11:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>DF11:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventurers’ Bond power-up">
+    <PageReference>DF11:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adversity Casting power-up">
+    <PageReference>DF11:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air-infused">
+    <PageReference>DF11:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alarum song">
+    <PageReference>DF11:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies advantage">
+    <PageReference>DF11:28</PageReference>
+    <PageReference>DF11:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allure Talent">
+    <PageReference>DF11:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate Forms">
+    <Child ReferenceText="as powerups">
+      <PageReference>DF11:23</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>DF11:24</PageReference>
+      <PageReference>DF11:25</PageReference>
+      <PageReference>DF11:27</PageReference>
+      <PageReference>DF11:30</PageReference>
+      <PageReference>DF11:33</PageReference>
+      <PageReference>DF11:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ancient writings">
+    <PageReference>DF11:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Friend Talent">
+    <PageReference>DF11:18</PageReference>
+    <PageReference>DF11:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Applied Wisdom perk">
+    <PageReference>DF11:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area Spell Mastery perk">
+    <PageReference>DF11:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor Familiarity perk">
+    <PageReference>DF11:30</PageReference>
+    <PageReference>DF11:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor Mastery power-up">
+    <PageReference>DF11:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artifact Lore power-up">
+    <PageReference>DF11:17</PageReference>
+    <PageReference>DF11:20</PageReference>
+    <PageReference>DF11:28</PageReference>
+    <PageReference>DF11:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificers">
+    <PageReference>DF11:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <PageReference>DF11:5</PageReference>
+    <Child ReferenceText="IQ">
+      <PageReference>DF11:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Backstabber power-up">
+    <PageReference>DF11:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Baneful Song modifiers package">
+    <PageReference>DF11:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbarians">
+    <PageReference>DF11:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bardic Talent">
+    <PageReference>DF11:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bard-Lore power-up">
+    <PageReference>DF11:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bards">
+    <PageReference>DF11:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Becoming the Dragon powerup">
+    <PageReference>DF11:39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beneficial Song modifiers package">
+    <PageReference>DF11:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blessed advantage">
+    <PageReference>DF11:28</PageReference>
+    <PageReference>DF11:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood Harming perk">
+    <PageReference>DF11:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood Healing perk">
+    <PageReference>DF11:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Born War Leader Talent">
+    <PageReference>DF11:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Botte Segrete power-up">
+    <PageReference>DF11:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bow Fencer power-up">
+    <PageReference>DF11:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brave perk">
+    <PageReference>DF11:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Call of the Deep power-up">
+    <PageReference>DF11:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Call of the Flame power-up">
+    <PageReference>DF11:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Call of the Soil power-up">
+    <PageReference>DF11:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Call of the Wind power-up">
+    <PageReference>DF11:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caster power-ups">
+    <PageReference>DF11:13-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cat-folk">
+    <PageReference>DF11:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Celestials">
+    <PageReference>DF11:38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chandelier Leap">
+    <PageReference>DF11:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Character creation">
+    <PageReference>DF11:7</PageReference>
+    <PageReference>DF11:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characteristics">
+    <PageReference>DF11:4-7</PageReference>
+    <Child ReferenceText="Per">
+      <PageReference>DF11:32</PageReference>
+    </Child>
+    <Child ReferenceText="secondary">
+      <PageReference>DF11:5</PageReference>
+    </Child>
+    <Child ReferenceText="Will">
+      <PageReference>DF11:21</PageReference>
+      <PageReference>DF11:24</PageReference>
+      <PageReference>DF11:28</PageReference>
+      <PageReference>DF11:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Charisma advantage">
+    <PageReference>DF11:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claim to Hospitality advantage">
+    <PageReference>DF11:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleaving Strike power-up">
+    <PageReference>DF11:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerics">
+    <PageReference>DF11:21-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close to Heaven Talent">
+    <PageReference>DF11:22</PageReference>
+    <PageReference>DF11:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close to Hell Talent">
+    <PageReference>DF11:24</PageReference>
+    <PageReference>DF11:27</PageReference>
+    <PageReference>DF11:30</PageReference>
+    <PageReference>DF11:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close to the Earth Talent">
+    <PageReference>DF11:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coleopterans">
+    <PageReference>DF11:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Haberdashery perk">
+    <PageReference>DF11:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Medic power-up">
+    <PageReference>DF11:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Perks">
+    <PageReference>DF11:11-12</PageReference>
+    <PageReference>DF11:18-19</PageReference>
+    <PageReference>DF11:30</PageReference>
+    <PageReference>DF11:33-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Pole-Vaulting perk">
+    <PageReference>DF11:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat power-ups">
+    <PageReference>DF11:10-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combination power-ups">
+    <PageReference>DF11:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corpse Smart perk">
+    <PageReference>DF11:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corpse-eaters">
+    <PageReference>DF11:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost">
+    <PageReference>DF11:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coup de Jarnac power-up">
+    <PageReference>DF11:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Craftiness Talent">
+    <PageReference>DF11:20</PageReference>
+    <PageReference>DF11:32</PageReference>
+    <PageReference>DF11:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Resistance advantage">
+    <PageReference>DF11:18</PageReference>
+    <PageReference>DF11:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark Karma perk">
+    <PageReference>DF11:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark ones">
+    <PageReference>DF11:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Day Sight power-up">
+    <PageReference>DF11:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dead Arm perk">
+    <PageReference>DF11:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonologists">
+    <PageReference>DF11:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dirge song">
+    <PageReference>DF11:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dirty Fighting perk">
+    <PageReference>DF11:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dismissive Wave power-up">
+    <PageReference>DF11:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doodad perk">
+    <PageReference>DF11:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doom power-up">
+    <PageReference>DF11:27</PageReference>
+    <PageReference>DF11:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Double-Shot power-up">
+    <PageReference>DF11:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragon-blooded">
+    <PageReference>DF11:39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druids">
+    <PageReference>DF11:24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drunken Fighting perk">
+    <PageReference>DF11:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual Ready perk">
+    <PageReference>DF11:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeon Artificer Talent">
+    <PageReference>DF11:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarves">
+    <PageReference>DF11:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth-infused">
+    <PageReference>DF11:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder’s Blessing power-up">
+    <PageReference>DF11:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder-Spawn">
+    <PageReference>DF11:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental Gifts perk">
+    <PageReference>DF11:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental Storm modifiers package">
+    <PageReference>DF11:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elementalists">
+    <PageReference>DF11:25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elves">
+    <PageReference>DF11:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Embrace Inner Squid power-up">
+    <PageReference>DF11:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy Reserve advantage">
+    <PageReference>DF11:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancements">
+    <PageReference>DF11:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment Bond perk">
+    <PageReference>DF11:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evil Clerics">
+    <PageReference>DF11:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eye of the Storm perk">
+    <PageReference>DF11:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faerie folk">
+    <PageReference>DF11:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faith Is My Shield power-up">
+    <PageReference>DF11:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Familiar power-up">
+    <PageReference>DF11:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Far-Casting perk">
+    <PageReference>DF11:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Filter perk">
+    <PageReference>DF11:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Finishing Move perk">
+    <PageReference>DF11:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire-infused">
+    <PageReference>DF11:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flagellant’s Blessing perk">
+    <PageReference>DF11:22</PageReference>
+    <PageReference>DF11:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flourish perk">
+    <PageReference>DF11:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Focused Exorcist perk">
+    <PageReference>DF11:22</PageReference>
+    <PageReference>DF11:24</PageReference>
+    <PageReference>DF11:27</PageReference>
+    <PageReference>DF11:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Focused Fury perk">
+    <PageReference>DF11:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Follow-Through perk">
+    <PageReference>DF11:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forgiven power-up">
+    <PageReference>DF11:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foul Limb power-up">
+    <PageReference>DF11:30-31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Friendly Undergrowth perk">
+    <PageReference>DF11:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gargoyles">
+    <PageReference>DF11:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="General power-ups">
+    <PageReference>DF11:10-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost Blaster power-up">
+    <PageReference>DF11:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghoul Arm power-up">
+    <PageReference>DF11:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gift of Chaos perk">
+    <PageReference>DF11:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gizmos advantage">
+    <PageReference>DF11:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gnomes">
+    <PageReference>DF11:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goblin-kin">
+    <PageReference>DF11:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great Prayer power-up">
+    <PageReference>DF11:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great Rage power-up">
+    <PageReference>DF11:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>DF11:4</PageReference>
+    <PageReference>DF11:6</PageReference>
+    <PageReference>DF11:7</PageReference>
+    <PageReference>DF11:9</PageReference>
+    <PageReference>DF11:10</PageReference>
+    <PageReference>DF11:29</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>DF11:3</PageReference>
+      <PageReference>DF11:4</PageReference>
+      <PageReference>DF11:6</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DF11:3</PageReference>
+      <PageReference>DF11:4</PageReference>
+      <PageReference>DF11:6-8</PageReference>
+      <PageReference>DF11:10</PageReference>
+      <PageReference>DF11:17</PageReference>
+      <PageReference>DF11:28</PageReference>
+      <PageReference>DF11:37</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DF11:4</PageReference>
+      <PageReference>DF11:6</PageReference>
+      <PageReference>DF11:7</PageReference>
+      <PageReference>DF11:16</PageReference>
+      <PageReference>DF11:18</PageReference>
+      <PageReference>DF11:20</PageReference>
+      <PageReference>DF11:22</PageReference>
+      <PageReference>DF11:25</PageReference>
+      <PageReference>DF11:28</PageReference>
+      <PageReference>DF11:29</PageReference>
+      <PageReference>DF11:33</PageReference>
+      <PageReference>DF11:36-38</PageReference>
+      <PageReference>DF11:40</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 10: Taverns">
+      <PageReference>DF11:16</PageReference>
+      <PageReference>DF11:28</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DF11:11</PageReference>
+      <PageReference>DF11:12</PageReference>
+      <PageReference>DF11:16</PageReference>
+      <PageReference>DF11:17</PageReference>
+      <PageReference>DF11:21</PageReference>
+      <PageReference>DF11:22</PageReference>
+      <PageReference>DF11:35</PageReference>
+      <PageReference>DF11:36</PageReference>
+      <PageReference>DF11:38</PageReference>
+      <PageReference>DF11:42</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF11:3</PageReference>
+      <PageReference>DF11:7</PageReference>
+      <PageReference>DF11:16-19</PageReference>
+      <PageReference>DF11:21</PageReference>
+      <PageReference>DF11:22</PageReference>
+      <PageReference>DF11:24</PageReference>
+      <PageReference>DF11:27-29</PageReference>
+      <PageReference>DF11:32</PageReference>
+      <PageReference>DF11:34-36</PageReference>
+      <PageReference>DF11:40</PageReference>
+      <PageReference>DF11:42</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DF11:8</PageReference>
+      <PageReference>DF11:17</PageReference>
+      <PageReference>DF11:31</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 5: Allies">
+      <PageReference>DF11:12</PageReference>
+      <PageReference>DF11:14</PageReference>
+      <PageReference>DF11:16</PageReference>
+      <PageReference>DF11:23-25</PageReference>
+      <PageReference>DF11:28</PageReference>
+      <PageReference>DF11:36</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 6: 40 Artifacts">
+      <PageReference>DF11:6</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 7: Clerics">
+      <PageReference>DF11:6</PageReference>
+      <PageReference>DF11:8</PageReference>
+      <PageReference>DF11:16</PageReference>
+      <PageReference>DF11:21</PageReference>
+      <PageReference>DF11:22</PageReference>
+      <PageReference>DF11:24</PageReference>
+      <PageReference>DF11:27</PageReference>
+      <PageReference>DF11:28</PageReference>
+      <PageReference>DF11:36</PageReference>
+      <PageReference>DF11:38</PageReference>
+      <PageReference>DF11:40-43</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 8: Treasure Tables">
+      <PageReference>DF11:3</PageReference>
+      <PageReference>DF11:6</PageReference>
+      <PageReference>DF11:16</PageReference>
+      <PageReference>DF11:18</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 9: Summoners">
+      <PageReference>DF11:12</PageReference>
+      <PageReference>DF11:16</PageReference>
+      <PageReference>DF11:23-25</PageReference>
+      <PageReference>DF11:27</PageReference>
+      <PageReference>DF11:30</PageReference>
+      <PageReference>DF11:33</PageReference>
+      <PageReference>DF11:34</PageReference>
+      <PageReference>DF11:36</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>DF11:9</PageReference>
+      <PageReference>DF11:15</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>DF11:3</PageReference>
+      <PageReference>DF11:9</PageReference>
+      <PageReference>DF11:11</PageReference>
+      <PageReference>DF11:13</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>DF11:3</PageReference>
+      <PageReference>DF11:6</PageReference>
+      <PageReference>DF11:9</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups">
+      <PageReference>DF11:9</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>DF11:3</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>DF11:3</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>DF11:3</PageReference>
+      <PageReference>DF11:9</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Magical Styles">
+      <PageReference>DF11:3</PageReference>
+      <PageReference>DF11:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Halflings">
+    <PageReference>DF11:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hand of Death power-up">
+    <PageReference>DF11:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healer Talent">
+    <PageReference>DF11:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hellfire power-up">
+    <PageReference>DF11:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hero power-up">
+    <PageReference>DF11:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heroic Lifts power-up">
+    <PageReference>DF11:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High Manual Dexterity advantage">
+    <PageReference>DF11:17</PageReference>
+    <PageReference>DF11:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Higher Purpose advantage">
+    <PageReference>DF11:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy warriors">
+    <PageReference>DF11:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Huge Subjects perk">
+    <PageReference>DF11:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Huge Weapons perk">
+    <PageReference>DF11:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvisation power-up">
+    <PageReference>DF11:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inextinguishable Power powerup">
+    <PageReference>DF11:26</PageReference>
+    <PageReference>DF11:36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infernals">
+    <PageReference>DF11:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inner Light power-up">
+    <PageReference>DF11:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Innkeepers">
+    <PageReference>DF11:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IQ attribute">
+    <PageReference>DF11:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron Hands perk">
+    <PageReference>DF11:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Items as power-ups">
+    <PageReference>DF11:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jack of All Trades Talent">
+    <PageReference>DF11:28</PageReference>
+    <PageReference>DF11:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumper advantage">
+    <PageReference>DF11:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Karma Bank perk">
+    <PageReference>DF11:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kindle perk">
+    <PageReference>DF11:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knights">
+    <PageReference>DF11:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lesser Lichdom perk">
+    <PageReference>DF11:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Life-Force Burn perk">
+    <PageReference>DF11:24</PageReference>
+    <PageReference>DF11:27</PageReference>
+    <PageReference>DF11:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light Walk skill">
+    <PageReference>DF11:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitations on buying">
+    <PageReference>DF11:7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lizard men">
+    <PageReference>DF11:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Longhorn power-up">
+    <PageReference>DF11:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery advantage">
+    <PageReference>DF11:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Perks">
+    <PageReference>DF11:14-15</PageReference>
+    <PageReference>DF11:22</PageReference>
+    <PageReference>DF11:24-27</PageReference>
+    <PageReference>DF11:31</PageReference>
+    <PageReference>DF11:33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical Bolt power-up">
+    <PageReference>DF11:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical Lawyer perk">
+    <PageReference>DF11:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical Stability power-up">
+    <PageReference>DF11:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial artists">
+    <PageReference>DF11:29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master at Disarms power-up">
+    <PageReference>DF11:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Material power-ups">
+    <PageReference>DF11:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee Spell Mastery perk">
+    <PageReference>DF11:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minotaurs">
+    <PageReference>DF11:42-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missile Spell Mastery perk">
+    <PageReference>DF11:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mortal Foe power-up">
+    <PageReference>DF11:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mr">
+    <Child ReferenceText="Smash power-up">
+      <PageReference>DF11:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical Ability Talent">
+    <PageReference>DF11:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromancers">
+    <PageReference>DF11:30-31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New Realm power-up">
+    <PageReference>DF11:22-23</PageReference>
+    <PageReference>DF11:25</PageReference>
+    <PageReference>DF11:27</PageReference>
+    <PageReference>DF11:28</PageReference>
+    <PageReference>DF11:33</PageReference>
+    <PageReference>DF11:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nondetection power-up">
+    <PageReference>DF11:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Not Without My Weapon power-up">
+    <PageReference>DF11:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ogres">
+    <PageReference>DF11:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One of Us power-up">
+    <PageReference>DF11:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oracle (Scholarly) advantage">
+    <PageReference>DF11:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outdoorsman Talent">
+    <PageReference>DF11:18</PageReference>
+    <PageReference>DF11:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pack Rat perk">
+    <PageReference>DF11:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paean song">
+    <PageReference>DF11:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peace Treaty power-up">
+    <PageReference>DF11:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pebbles perk">
+    <PageReference>DF11:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Per characteristic">
+    <PageReference>DF11:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perfect Recovery power-up">
+    <PageReference>DF11:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <Child ReferenceText="new">
+      <PageReference>DF11:11-12</PageReference>
+      <PageReference>DF11:14-15</PageReference>
+      <PageReference>DF11:17-19</PageReference>
+      <PageReference>DF11:22</PageReference>
+      <PageReference>DF11:24-28</PageReference>
+      <PageReference>DF11:30</PageReference>
+      <PageReference>DF11:31</PageReference>
+      <PageReference>DF11:33-36</PageReference>
+      <PageReference>DF11:38</PageReference>
+      <PageReference>DF11:40</PageReference>
+    </Child>
+    <Child ReferenceText="as power-ups">
+      <PageReference>DF11:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Permeation advantage">
+    <PageReference>DF11:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pestilent Arm perk">
+    <PageReference>DF11:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Piecemeal Knowledge perk">
+    <PageReference>DF11:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Potion Implant perk">
+    <PageReference>DF11:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Casting perk">
+    <PageReference>DF11:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Grappling perk">
+    <PageReference>DF11:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Investiture advantage">
+    <PageReference>DF11:21</PageReference>
+    <PageReference>DF11:24</PageReference>
+    <PageReference>DF11:27</PageReference>
+    <PageReference>DF11:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Reincarnate power-up">
+    <PageReference>DF11:26</PageReference>
+    <PageReference>DF11:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power-ups">
+    <Child ReferenceText="defining">
+      <PageReference>DF11:4-7</PageReference>
+    </Child>
+    <Child ReferenceText="designing">
+      <PageReference>DF11:9</PageReference>
+      <PageReference>DF11:37</PageReference>
+    </Child>
+    <Child ReferenceText="lists">
+      <PageReference>DF11:10-43</PageReference>
+    </Child>
+    <Child ReferenceText="naming">
+      <PageReference>DF11:4</PageReference>
+    </Child>
+    <Child ReferenceText="offensive">
+      <PageReference>DF11:25</PageReference>
+    </Child>
+    <Child ReferenceText="terms">
+      <PageReference>DF11:4-7</PageReference>
+    </Child>
+    <Child ReferenceText="warning about">
+      <PageReference>DF11:4</PageReference>
+    </Child>
+    <Child ReferenceText="buying">
+      <PageReference>DF11:7-9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Prerequisites">
+    <PageReference>DF11:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Professional power-ups">
+    <PageReference>DF11:17-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Protection from Evil/Good spell">
+    <PageReference>DF11:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic Guidance perk">
+    <PageReference>DF11:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quests">
+    <PageReference>DF11:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Sheathe perk">
+    <PageReference>DF11:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Shot power-up">
+    <PageReference>DF11:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Racial maxima table">
+    <PageReference>DF11:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Racial power-ups">
+    <PageReference>DF11:38-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ragnar’s Breath power-up">
+    <PageReference>DF11:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reach Mastery perk">
+    <PageReference>DF11:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction bonuses">
+    <PageReference>DF11:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reincarnation power-up">
+    <PageReference>DF11:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requirements">
+    <PageReference>DF11:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant advantage">
+    <Child ReferenceText="to Metabolic Hazards">
+      <PageReference>DF11:40</PageReference>
+      <PageReference>DF11:42</PageReference>
+    </Child>
+    <Child ReferenceText="to Poison">
+      <PageReference>DF11:28</PageReference>
+    </Child>
+    <Child ReferenceText="to Death Effects">
+      <PageReference>DF11:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Retribution power-up">
+    <PageReference>DF11:23</PageReference>
+    <PageReference>DF11:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rinse perk">
+    <PageReference>DF11:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rule of 17 perk">
+    <PageReference>DF11:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Run and Hit power-up">
+    <PageReference>DF11:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrificial Parry perk">
+    <PageReference>DF11:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scholars">
+    <PageReference>DF11:31-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scouts">
+    <PageReference>DF11:32-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seafarer power-up">
+    <PageReference>DF11:19</PageReference>
+    <PageReference>DF11:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secondary characteristics">
+    <PageReference>DF11:5</PageReference>
+    <Child ReferenceText="Per">
+      <PageReference>DF11:32</PageReference>
+    </Child>
+    <Child ReferenceText="Will">
+      <PageReference>DF11:21</PageReference>
+      <PageReference>DF11:24</PageReference>
+      <PageReference>DF11:28</PageReference>
+      <PageReference>DF11:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret power-ups">
+    <PageReference>DF11:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret Teleportation Spell">
+    <PageReference>DF11:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense Evil/Good spell">
+    <PageReference>DF11:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensitive Touch advantage">
+    <PageReference>DF11:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serendipity advantage">
+    <PageReference>DF11:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seven Secret Kicks">
+    <PageReference>DF11:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shamans">
+    <PageReference>DF11:33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shapechangers">
+    <PageReference>DF11:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sheer Speed perk">
+    <PageReference>DF11:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shield Mastery power-up">
+    <PageReference>DF11:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shield of Faith power-up">
+    <PageReference>DF11:23-24</PageReference>
+    <PageReference>DF11:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shield-Wall Training perk">
+    <PageReference>DF11:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signature Gear advantage">
+    <PageReference>DF11:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Siren Song">
+    <PageReference>DF11:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayer Swing at Neck power-up">
+    <PageReference>DF11:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayer Swing at Skull power-up">
+    <PageReference>DF11:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayer Thrust to Eye power-up">
+    <PageReference>DF11:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayer Thrust to Vitals powerup">
+    <PageReference>DF11:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayer Training power-up">
+    <PageReference>DF11:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smooth Operator Talent">
+    <PageReference>DF11:20</PageReference>
+    <PageReference>DF11:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Songs">
+    <PageReference>DF11:20-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sources">
+    <PageReference>DF11:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specialized T wo-Weapon Fighting power-up">
+    <PageReference>DF11:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Hardiness perk">
+    <PageReference>DF11:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Resistance perk">
+    <PageReference>DF11:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell-Archery spell">
+    <PageReference>DF11:15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <PageReference>DF11:7</PageReference>
+    <Child ReferenceText="new">
+      <PageReference>DF11:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spellsmith power-up">
+    <PageReference>DF11:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Item perk">
+    <PageReference>DF11:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit-Talker Talent">
+    <PageReference>DF11:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spot Weakness perk">
+    <PageReference>DF11:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stacking power-ups 16" />
+  <IndexReference ReferenceText="Starting with power-ups">
+    <PageReference>DF11:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Storm of Air power-up">
+    <PageReference>DF11:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Storm of Earth power-up">
+    <PageReference>DF11:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Storm of Fire power-up">
+    <PageReference>DF11:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Storm of Water power-up">
+    <PageReference>DF11:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Storms">
+    <PageReference>DF11:26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Street-Smart Talent">
+    <PageReference>DF11:21</PageReference>
+    <PageReference>DF11:28</PageReference>
+    <PageReference>DF11:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Striker advantage">
+    <PageReference>DF11:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Striking ST advantage">
+    <PageReference>DF11:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strongbow perk">
+    <PageReference>DF11:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sure Grasp power-up">
+    <PageReference>DF11:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swashbucklers">
+    <PageReference>DF11:34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tainted Touch perk">
+    <PageReference>DF11:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents, new">
+    <PageReference>DF11:19-22</PageReference>
+    <PageReference>DF11:24</PageReference>
+    <PageReference>DF11:25</PageReference>
+    <PageReference>DF11:28</PageReference>
+    <PageReference>DF11:34</PageReference>
+    <PageReference>DF11:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Team Player power-up">
+    <PageReference>DF11:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <PageReference>DF11:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature Tolerance advantage">
+    <PageReference>DF11:38</PageReference>
+    <PageReference>DF11:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates, new">
+    <PageReference>DF11:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="The Look power-up">
+    <PageReference>DF11:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thieves">
+    <PageReference>DF11:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trademark Move perk">
+    <PageReference>DF11:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Training">
+    <Child ReferenceText="special">
+      <PageReference>DF11:9</PageReference>
+    </Child>
+    <Child ReferenceText="fees">
+      <PageReference>DF11:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Traits">
+    <PageReference>DF11:4-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trap Sense power-up">
+    <PageReference>DF11:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trial by Fire power-up">
+    <PageReference>DF11:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Triumph song">
+    <PageReference>DF11:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trolls">
+    <PageReference>DF11:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-Weapon Fighting powerup">
+    <PageReference>DF11:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unholy as Hell power-up">
+    <PageReference>DF11:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unholy warriors">
+    <PageReference>DF11:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uninterrupted Flurry power-up">
+    <PageReference>DF11:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unique Technique perk">
+    <PageReference>DF11:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background (Artifact) advantage">
+    <PageReference>DF11:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Utility power-ups">
+    <PageReference>DF11:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampirize power-up">
+    <PageReference>DF11:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Venomous Tongue perk">
+    <PageReference>DF11:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Very Rapid Healing advantage">
+    <PageReference>DF11:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warning song">
+    <PageReference>DF11:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water-infused">
+    <PageReference>DF11:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth advantage">
+    <PageReference>DF11:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild Talent advantage">
+    <PageReference>DF11:24</PageReference>
+    <PageReference>DF11:26</PageReference>
+    <PageReference>DF11:27</PageReference>
+    <PageReference>DF11:30</PageReference>
+    <PageReference>DF11:32</PageReference>
+    <PageReference>DF11:33</PageReference>
+    <PageReference>DF11:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildmen">
+    <PageReference>DF11:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Will characteristic">
+    <PageReference>DF11:21</PageReference>
+    <PageReference>DF11:24</PageReference>
+    <PageReference>DF11:28</PageReference>
+    <PageReference>DF11:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wishes">
+    <PageReference>DF11:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizards">
+    <PageReference>DF11:36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Workbooks">
+    <PageReference>DF11:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wraith Arm power-up">
+    <PageReference>DF11:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombie Arm power-up">
+    <PageReference>DF11:31</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

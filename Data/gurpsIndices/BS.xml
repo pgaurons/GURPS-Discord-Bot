@@ -1,0 +1,2321 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Acid swamps">
+    <PageReference>BS220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adrien Dorilis">
+    <PageReference>BS145-146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ah">
+    <PageReference>BS153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Al-Ab’ra">
+    <PageReference>BS125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Al-Abyad">
+    <PageReference>BS125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Al-Haz">
+    <PageReference>BS120-128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Al-Wazif">
+    <PageReference>BS129-137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemists’ Guild">
+    <PageReference>BS51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy">
+    <PageReference>BS23</PageReference>
+    <PageReference>BS28</PageReference>
+    <PageReference>BS153</PageReference>
+    <Child ReferenceText="alchemist characters">
+      <PageReference>BS206</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>BS186</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alcohol">
+    <PageReference>BS68</PageReference>
+    <PageReference>BS118</PageReference>
+    <PageReference>BS124</PageReference>
+    <PageReference>BS125</PageReference>
+    <PageReference>BS142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alhallabad">
+    <PageReference>BS128</PageReference>
+    <PageReference>BS129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aliar">
+    <PageReference>BS140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alimar">
+    <PageReference>BS141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate Identity advantage">
+    <PageReference>BS183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amalric ibn-John at-Ten-Tiri">
+    <PageReference>BS142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amnesia disadvantage">
+    <PageReference>BS185</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="An’Fo’Tama monks">
+    <PageReference>BS80</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Anglish language">
+    <PageReference>BS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Handling skill">
+    <PageReference>BS224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <PageReference>BS218-229</PageReference>
+    <Child ReferenceText="intelligent">
+      <PageReference>BS194</PageReference>
+    </Child>
+    <Child ReferenceText="PCs">
+      <PageReference>BS222</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ansonne">
+    <PageReference>BS105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anthemius Crivelli">
+    <PageReference>BS140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arabic language">
+    <PageReference>BS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aralaise language">
+    <PageReference>BS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Araterre">
+    <PageReference>BS12-13</PageReference>
+    <PageReference>BS31</PageReference>
+    <PageReference>BS47</PageReference>
+    <PageReference>BS103-108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Architecture">
+    <PageReference>BS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arenas">
+    <PageReference>BS87</PageReference>
+    <PageReference>BS96-97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armsmen’s Guild">
+    <PageReference>BS51</PageReference>
+    <PageReference>BS90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arnod de Sauvons">
+    <PageReference>BS105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artifacts">
+    <PageReference>BS23</PageReference>
+    <PageReference>BS26</PageReference>
+    <SeeAlso>Relics</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Artisan template">
+    <PageReference>BS211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arvey">
+    <PageReference>BS98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="As-Siyassi">
+    <PageReference>BS133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ascended Ones">
+    <SeeAlso>Djinn</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Assassin template">
+    <PageReference>BS202-203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assassins’ Guild">
+    <PageReference>BS51</PageReference>
+    <PageReference>BS72</PageReference>
+    <PageReference>BS147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Asteroids">
+    <PageReference>BS6</PageReference>
+    <SeeAlso>Meteorites</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Astronomy">
+    <PageReference>BS6</PageReference>
+    <Child ReferenceText="skill">
+      <PageReference>BS186</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Autheuil">
+    <PageReference>BS134</PageReference>
+    <PageReference>BS135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Azer">
+    <PageReference>BS96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balikites">
+    <PageReference>BS72-73</PageReference>
+    <PageReference>BS128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banestorm">
+    <PageReference>BS5</PageReference>
+    <PageReference>BS7-8</PageReference>
+    <PageReference>BS12</PageReference>
+    <PageReference>BS125</PageReference>
+    <PageReference>BS158</PageReference>
+    <PageReference>BS179</PageReference>
+    <PageReference>BS180</PageReference>
+    <PageReference>BS234</PageReference>
+    <PageReference>BS235</PageReference>
+    <Child ReferenceText="spells">
+      <PageReference>BS25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bannock">
+    <PageReference>BS136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bard template">
+    <PageReference>BS203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bard-Wizard lens">
+    <PageReference>BS204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bardic colleges">
+    <PageReference>BS53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basilisks">
+    <PageReference>BS219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle Wizard template">
+    <PageReference>BS204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bears">
+    <PageReference>BS219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beggar template">
+    <PageReference>BS211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Benedictines">
+    <PageReference>BS106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bilit Island">
+    <PageReference>BS78</PageReference>
+    <PageReference>BS108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blacksheep">
+    <PageReference>BS229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blackwoods">
+    <PageReference>BS16</PageReference>
+    <PageReference>BS18</PageReference>
+    <PageReference>BS98-99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blainthir VII">
+    <PageReference>BS162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blind Lars">
+    <PageReference>BS172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blueshoal River">
+    <PageReference>BS137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blythe">
+    <PageReference>BS118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bounty Hunter template">
+    <PageReference>BS204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bronwyn of Durham">
+    <PageReference>BS116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brothers of Mercury">
+    <PageReference>BS101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buddhism">
+    <PageReference>BS79</PageReference>
+    <PageReference>BS80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bulgaren">
+    <PageReference>BS164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bushwolves">
+    <PageReference>BS219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caithness">
+    <PageReference>BS13</PageReference>
+    <PageReference>BS14</PageReference>
+    <PageReference>BS36</PageReference>
+    <PageReference>BS47</PageReference>
+    <PageReference>BS109-119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caius of Minder">
+    <PageReference>BS143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Calder">
+    <PageReference>BS141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Calendar">
+    <PageReference>BS5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camels">
+    <PageReference>BS228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <PageReference>BS230-237</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cantors">
+    <PageReference>BS75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cardiel">
+    <PageReference>BS13</PageReference>
+    <PageReference>BS47</PageReference>
+    <PageReference>BS137-148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carrick">
+    <PageReference>BS115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carrier pigeons">
+    <PageReference>BS229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Castle Defiant">
+    <PageReference>BS14</PageReference>
+    <PageReference>BS164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catherine “la Noire, ” 107" />
+  <IndexReference ReferenceText="Catholicism">
+    <SeeAlso>Christian Church</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cats">
+    <PageReference>BS108</PageReference>
+    <PageReference>BS218</PageReference>
+    <PageReference>BS229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cattle">
+    <PageReference>BS219</PageReference>
+    <PageReference>BS229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caustiguses">
+    <PageReference>BS220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Centaurs">
+    <PageReference>BS22</PageReference>
+    <PageReference>BS142</PageReference>
+    <PageReference>BS167</PageReference>
+    <Child ReferenceText="religion">
+      <PageReference>BS83</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS188</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Channeling advantage">
+    <PageReference>BS183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <PageReference>BS182-217</PageReference>
+    <PageReference>BS235</PageReference>
+    <Child ReferenceText="playing yourself">
+      <PageReference>BS236</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Charlatan template">
+    <PageReference>BS204-205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemistry skill">
+    <PageReference>BS186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chinatown">
+    <PageReference>BS148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chivalry">
+    <SeeAlso>Knights</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Chocolate">
+    <PageReference>BS108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Christian Church">
+    <PageReference>BS10</PageReference>
+    <PageReference>BS13</PageReference>
+    <PageReference>BS57-65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Christianity">
+    <SeeAlso>Christian Church</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Church">
+    <SeeAlso>Christian Church</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cities">
+    <SeeAlso>Ruins</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Citizens">
+    <PageReference>BS49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="City guards">
+    <PageReference>BS49</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS217</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="City of the Dead">
+    <PageReference>BS97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claudius Maskill">
+    <PageReference>BS94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical Investment advantage">
+    <PageReference>BS67</PageReference>
+    <PageReference>BS75</PageReference>
+    <PageReference>BS79</PageReference>
+    <PageReference>BS183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor disadvantage">
+    <PageReference>BS41</PageReference>
+    <PageReference>BS185-186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coins">
+    <PageReference>BS44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Comic fantasy">
+    <PageReference>BS232</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Company of Adventurers">
+    <PageReference>BS146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Company of Merchants">
+    <PageReference>BS146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conall VI">
+    <PageReference>BS16</PageReference>
+    <PageReference>BS110-111</PageReference>
+    <PageReference>BS114</PageReference>
+    <SeeAlso>Caithness</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Conspiracies">
+    <SeeAlso>Secret Societies</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Constantinians">
+    <PageReference>BS65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Control Rating">
+    <PageReference>BS84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost of living">
+    <SeeAlso>Wealth</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cottars">
+    <PageReference>BS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Courtier template">
+    <PageReference>BS205-206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Craine">
+    <PageReference>BS98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crazy Ghalib">
+    <PageReference>BS125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Creatures">
+    <SeeAlso>Animals</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Crime">
+    <SeeAlso>Law</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminal guilds">
+    <PageReference>BS51</PageReference>
+    <PageReference>BS147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crusades">
+    <PageReference>BS9</PageReference>
+    <PageReference>BS66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cults">
+    <SeeAlso>Secret Societies</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Familiarity advantage">
+    <PageReference>BS183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curia">
+    <PageReference>BS61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="D’baajori">
+    <PageReference>BS219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dance">
+    <PageReference>BS35-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark Elves">
+    <PageReference>BS6</PageReference>
+    <PageReference>BS7</PageReference>
+    <PageReference>BS18</PageReference>
+    <Child ReferenceText="religion">
+      <PageReference>BS81</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS191</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark fantasy">
+    <PageReference>BS231-232</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deer">
+    <PageReference>BS218-219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deerwood">
+    <PageReference>BS115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defenders of the Shaded Woodlands">
+    <SeeAlso>Dark Elves</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Dekamera">
+    <PageReference>BS97</PageReference>
+    <PageReference>BS134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demons">
+    <PageReference>BS53</PageReference>
+    <PageReference>BS57</PageReference>
+    <PageReference>BS77</PageReference>
+    <PageReference>BS92</PageReference>
+    <PageReference>BS186</PageReference>
+    <PageReference>BS220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deneral of Mershall">
+    <PageReference>BS116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Denton">
+    <PageReference>BS117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dervishes">
+    <PageReference>BS67</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect Banestorm spell">
+    <PageReference>BS25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diophrates XII">
+    <PageReference>BS86</PageReference>
+    <PageReference>BS89</PageReference>
+    <PageReference>BS92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disciplines of mysticism">
+    <SeeAlso>Mysticism</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Diseases">
+    <PageReference>BS32</PageReference>
+    <PageReference>BS127</PageReference>
+    <Child ReferenceText="magical">
+      <PageReference>BS28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Djinn and Djinn Lands">
+    <PageReference>BS120</PageReference>
+    <PageReference>BS125</PageReference>
+    <PageReference>BS174-178</PageReference>
+    <Child ReferenceText="Ascended One template">
+      <PageReference>BS188</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dogs">
+    <PageReference>BS229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dolphins">
+    <PageReference>BS180</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS189</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Donlis">
+    <PageReference>BS117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragons">
+    <PageReference>BS20</PageReference>
+    <PageReference>BS31</PageReference>
+    <PageReference>BS97</PageReference>
+    <PageReference>BS108</PageReference>
+    <PageReference>BS119</PageReference>
+    <PageReference>BS145-146</PageReference>
+    <PageReference>BS153</PageReference>
+    <PageReference>BS226-228</PageReference>
+    <Child ReferenceText="meta-trait">
+      <PageReference>BS227</PageReference>
+    </Child>
+    <Child ReferenceText="as PCs">
+      <PageReference>BS228</PageReference>
+    </Child>
+    <Child ReferenceText="religion">
+      <PageReference>BS83</PageReference>
+    </Child>
+    <Child ReferenceText="templates">
+      <PageReference>BS227-228</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drift Abbey">
+    <PageReference>BS13</PageReference>
+    <PageReference>BS105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Durham">
+    <PageReference>BS116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Durinann II">
+    <PageReference>BS162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarves">
+    <PageReference>BS17</PageReference>
+    <PageReference>BS18</PageReference>
+    <PageReference>BS100</PageReference>
+    <SeeAlso>Zarak</SeeAlso>
+    <Child ReferenceText="arts">
+      <PageReference>BS36</PageReference>
+    </Child>
+    <Child ReferenceText="in human society">
+      <PageReference>BS39</PageReference>
+    </Child>
+    <Child ReferenceText="outcast">
+      <PageReference>BS14</PageReference>
+      <PageReference>BS160</PageReference>
+      <PageReference>BS166</PageReference>
+    </Child>
+    <Child ReferenceText="religion">
+      <PageReference>BS81</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS189</PageReference>
+    </Child>
+    <Child ReferenceText="women">
+      <PageReference>BS158</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarvish language">
+    <PageReference>BS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eagles">
+    <Child ReferenceText="great">
+      <PageReference>BS194</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth">
+    <PageReference>BS16</PageReference>
+    <PageReference>BS186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="East Tredroy">
+    <PageReference>BS143-144</PageReference>
+    <PageReference>BS146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Economics">
+    <PageReference>BS44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ekarron III">
+    <PageReference>BS161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ekhans">
+    <PageReference>BS97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elves">
+    <PageReference>BS18-19</PageReference>
+    <PageReference>BS119</PageReference>
+    <SeeAlso>Dark Elves</SeeAlso>
+    <SeeAlso>Djinn</SeeAlso>
+    <SeeAlso>Half-Elves</SeeAlso>
+    <SeeAlso>Sea Elves</SeeAlso>
+    <Child ReferenceText="arts">
+      <PageReference>BS35</PageReference>
+    </Child>
+    <Child ReferenceText="High Council">
+      <PageReference>BS6</PageReference>
+      <PageReference>BS19</PageReference>
+    </Child>
+    <Child ReferenceText="in human society">
+      <PageReference>BS39</PageReference>
+    </Child>
+    <Child ReferenceText="religion">
+      <PageReference>BS81</PageReference>
+    </Child>
+    <Child ReferenceText="ruined cities">
+      <PageReference>BS174</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS190</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elvish language">
+    <PageReference>BS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emperor">
+    <SeeAlso>Diophrates XII</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ental Island">
+    <PageReference>BS103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Entertainer template">
+    <PageReference>BS206-207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Epic fantasy">
+    <PageReference>BS232</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eternal">
+    <PageReference>BS83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exorcism skill">
+    <PageReference>BS186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eyes of Heaven">
+    <PageReference>BS155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Falcons">
+    <PageReference>BS148</PageReference>
+    <PageReference>BS229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faramon of Aliar">
+    <PageReference>BS140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fealty">
+    <PageReference>BS45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fencing skill">
+    <PageReference>BS104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ferrier">
+    <PageReference>BS118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feudalism">
+    <PageReference>BS45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firuz">
+    <PageReference>BS127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fordham">
+    <PageReference>BS116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Franciscans">
+    <PageReference>BS62</PageReference>
+    <PageReference>BS63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Freelance Wizard template">
+    <PageReference>BS207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Friedrichites">
+    <PageReference>BS61</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Frontier Wars">
+    <PageReference>BS16</PageReference>
+    <PageReference>BS136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gabrook">
+    <PageReference>BS7</PageReference>
+    <PageReference>BS21</PageReference>
+    <PageReference>BS82</PageReference>
+    <PageReference>BS192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gambler template">
+    <PageReference>BS211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gargoyles">
+    <PageReference>BS190</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS190</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Geb’al-Din">
+    <PageReference>BS66</PageReference>
+    <PageReference>BS124</PageReference>
+    <PageReference>BS126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gebel Thamad">
+    <PageReference>BS134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gebel al-Hikmah 120">
+    <PageReference>BS126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genetics">
+    <PageReference>BS29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghazi orders">
+    <PageReference>BS70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghouls">
+    <PageReference>BS28</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS200</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant spiders">
+    <PageReference>BS220-221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Giants">
+    <PageReference>BS22</PageReference>
+    <PageReference>BS167</PageReference>
+    <PageReference>BS169</PageReference>
+    <Child ReferenceText="religion">
+      <PageReference>BS83</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS191</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ginnargrim III">
+    <PageReference>BS162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gnomes">
+    <PageReference>BS18</PageReference>
+    <Child ReferenceText="in human society">
+      <PageReference>BS39</PageReference>
+    </Child>
+    <Child ReferenceText="religion">
+      <PageReference>BS82</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS192</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Goblins">
+    <PageReference>BS20</PageReference>
+    <PageReference>BS98</PageReference>
+    <PageReference>BS100</PageReference>
+    <Child ReferenceText="arts">
+      <PageReference>BS37</PageReference>
+    </Child>
+    <Child ReferenceText="in human society">
+      <PageReference>BS39</PageReference>
+    </Child>
+    <Child ReferenceText="names">
+      <PageReference>BS20</PageReference>
+      <PageReference>BS88</PageReference>
+    </Child>
+    <Child ReferenceText="religion">
+      <PageReference>BS82</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS192</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Good Neighbor advantage">
+    <PageReference>BS184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Government">
+    <PageReference>BS45-49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great Desert">
+    <PageReference>BS173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great Eagles">
+    <PageReference>BS194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great Forest">
+    <PageReference>BS120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great Games">
+    <PageReference>BS132</PageReference>
+    <PageReference>BS133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greco-Roman cults">
+    <PageReference>BS77-78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gryphons">
+    <PageReference>BS115</PageReference>
+    <PageReference>BS221</PageReference>
+    <PageReference>BS224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guilds">
+    <PageReference>BS50-51</PageReference>
+    <PageReference>BS146-147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunpowder">
+    <PageReference>BS12</PageReference>
+    <PageReference>BS26</PageReference>
+    <PageReference>BS30-32</PageReference>
+    <PageReference>BS53</PageReference>
+    <PageReference>BS233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Dragons">
+    <PageReference>BS227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Fantasy">
+    <PageReference>BS4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Fantasy Adventures">
+    <PageReference>BS4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Fantasy: Harkwood">
+    <PageReference>BS4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Fantasy: Tredroy">
+    <PageReference>BS4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Infinite Worlds">
+    <PageReference>BS14</PageReference>
+    <PageReference>BS236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Magic">
+    <PageReference>BS23</PageReference>
+    <PageReference>BS25</PageReference>
+    <PageReference>BS236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hadaton">
+    <PageReference>BS141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Half-elves">
+    <PageReference>BS39</PageReference>
+    <PageReference>BS191</PageReference>
+    <PageReference>BS200</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS191</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Half-orcs">
+    <PageReference>BS197</PageReference>
+    <PageReference>BS200</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS197</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Halflings">
+    <PageReference>BS22</PageReference>
+    <Child ReferenceText="in human society">
+      <PageReference>BS39</PageReference>
+    </Child>
+    <Child ReferenceText="religion">
+      <PageReference>BS83</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS192-193</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hardings">
+    <PageReference>BS229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Harkwood">
+    <PageReference>BS118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Harpies">
+    <PageReference>BS221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hashish">
+    <PageReference>BS72</PageReference>
+    <PageReference>BS125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hashishin">
+    <PageReference>BS72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healer template">
+    <PageReference>BS208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heavenking">
+    <PageReference>BS80</PageReference>
+    <PageReference>BS149</PageReference>
+    <PageReference>BS155-157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hellsharks">
+    <PageReference>BS221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heolford">
+    <PageReference>BS168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heraldry skill">
+    <PageReference>BS41</PageReference>
+    <PageReference>BS186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heresy">
+    <PageReference>BS60-61</PageReference>
+    <PageReference>BS68</PageReference>
+    <PageReference>BS71</PageReference>
+    <PageReference>BS94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden Lore (Earth) skill">
+    <PageReference>BS186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidelban">
+    <PageReference>BS93-94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High TL advantage">
+    <PageReference>BS183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High fantasy">
+    <PageReference>BS230-231</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High war">
+    <PageReference>BS152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hinduism">
+    <PageReference>BS78-79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hippogriffs">
+    <PageReference>BS221</PageReference>
+    <PageReference>BS224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hisham ash-Sharib">
+    <PageReference>BS132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hobgoblins">
+    <PageReference>BS21</PageReference>
+    <Child ReferenceText="religion">
+      <PageReference>BS83</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS193</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy orders">
+    <PageReference>BS61-65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horses">
+    <PageReference>BS229</PageReference>
+    <Child ReferenceText="noble">
+      <PageReference>BS194</PageReference>
+    </Child>
+    <Child ReferenceText="pegasi">
+      <PageReference>BS224</PageReference>
+    </Child>
+    <Child ReferenceText="unicorns">
+      <PageReference>BS225-226</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hospitallers">
+    <PageReference>BS42</PageReference>
+    <PageReference>BS61</PageReference>
+    <PageReference>BS62</PageReference>
+    <PageReference>BS99</PageReference>
+    <PageReference>BS100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="House of Oak">
+    <PageReference>BS115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunt Tower">
+    <PageReference>BS94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hybrid animals">
+    <PageReference>BS224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hydras">
+    <PageReference>BS221-222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyrnan">
+    <PageReference>BS98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Identify Newcomer spell">
+    <PageReference>BS25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illiteracy disadvantage">
+    <PageReference>BS185</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Indulgences">
+    <PageReference>BS60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inheritance">
+    <PageReference>BS59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insect Men">
+    <PageReference>BS162</PageReference>
+    <PageReference>BS192</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS192</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intolerance disadvantage">
+    <PageReference>BS185</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Islam">
+    <PageReference>BS65-73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Isle Entelle">
+    <PageReference>BS103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jesuits">
+    <PageReference>BS64</PageReference>
+    <PageReference>BS96</PageReference>
+    <PageReference>BS103</PageReference>
+    <Child ReferenceText="lens">
+      <PageReference>BS215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jewels">
+    <PageReference>BS158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jews">
+    <PageReference>BS9</PageReference>
+    <PageReference>BS33</PageReference>
+    <PageReference>BS123</PageReference>
+    <SeeAlso>Judaism</SeeAlso>
+    <Child ReferenceText="characters">
+      <PageReference>BS74</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jihads">
+    <PageReference>BS12</PageReference>
+    <PageReference>BS13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jordan Siegebreaker">
+    <PageReference>BS63</PageReference>
+    <PageReference>BS92</PageReference>
+    <PageReference>BS93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Judaism">
+    <PageReference>BS73-75</PageReference>
+    <PageReference>BS147</PageReference>
+    <SeeAlso>Jews</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Julnari dervishes">
+    <PageReference>BS67</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumper advantage">
+    <PageReference>BS183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kethalos">
+    <PageReference>BS96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kharijites">
+    <PageReference>BS71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kinkaku">
+    <PageReference>BS154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knights and knighthood">
+    <PageReference>BS40-41</PageReference>
+    <PageReference>BS42</PageReference>
+    <PageReference>BS45</PageReference>
+    <PageReference>BS70-71</PageReference>
+    <Child ReferenceText="female knights">
+      <PageReference>BS40</PageReference>
+      <PageReference>BS112</PageReference>
+    </Child>
+    <Child ReferenceText="Knight-Errant template">
+      <PageReference>BS208-209</PageReference>
+    </Child>
+    <Child ReferenceText="lenses">
+      <PageReference>BS209</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kobolds">
+    <PageReference>BS21</PageReference>
+    <Child ReferenceText="religion">
+      <PageReference>BS82</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS193</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kosher">
+    <PageReference>BS75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Krakens">
+    <PageReference>BS223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laborer template">
+    <PageReference>BS211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ladino language">
+    <PageReference>BS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Latin language">
+    <PageReference>BS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Languages">
+    <PageReference>BS33</PageReference>
+    <PageReference>BS183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Law">
+    <PageReference>BS34</PageReference>
+    <PageReference>BS44</PageReference>
+    <PageReference>BS87</PageReference>
+    <Child ReferenceText="Al-Haz">
+      <PageReference>BS124-125</PageReference>
+    </Child>
+    <Child ReferenceText="Al-Wazif">
+      <PageReference>BS132</PageReference>
+    </Child>
+    <Child ReferenceText="canon">
+      <PageReference>BS58-60</PageReference>
+    </Child>
+    <Child ReferenceText="Cardiel">
+      <PageReference>BS139-140</PageReference>
+    </Child>
+    <Child ReferenceText="Dwarven">
+      <PageReference>BS160</PageReference>
+    </Child>
+    <Child ReferenceText="Islamic">
+      <PageReference>BS67-69</PageReference>
+      <PageReference>BS124-125</PageReference>
+    </Child>
+    <Child ReferenceText="Judaic">
+      <PageReference>BS74-75</PageReference>
+    </Child>
+    <Child ReferenceText="Northman">
+      <PageReference>BS171</PageReference>
+    </Child>
+    <Child ReferenceText="Orcish">
+      <PageReference>BS165</PageReference>
+    </Child>
+    <Child ReferenceText="Sahudese">
+      <PageReference>BS152-153</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Legal Enforcement Powers advantage">
+    <PageReference>BS45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legions">
+    <PageReference>BS47</PageReference>
+    <PageReference>BS87</PageReference>
+    <PageReference>BS96</PageReference>
+    <PageReference>BS139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lightbush">
+    <PageReference>BS94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Literature">
+    <PageReference>BS36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loren’dil">
+    <PageReference>BS7</PageReference>
+    <PageReference>BS22</PageReference>
+    <PageReference>BS83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low TL disadvantage">
+    <PageReference>BS185</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low fantasy">
+    <PageReference>BS231</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low war">
+    <PageReference>BS152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lycanthropy">
+    <SeeAlso>Were-Creatures</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Maelstrom">
+    <PageReference>BS125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery">
+    <PageReference>BS23-24</PageReference>
+    <Child ReferenceText="advantage">
+      <PageReference>BS183</PageReference>
+    </Child>
+    <Child ReferenceText="genetics">
+      <PageReference>BS29</PageReference>
+    </Child>
+    <Child ReferenceText="in nonhumans">
+      <PageReference>BS24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mages’ Guilds">
+    <PageReference>BS51</PageReference>
+    <PageReference>BS140</PageReference>
+    <PageReference>BS146-147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mages’ War">
+    <PageReference>BS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mages">
+    <PageReference>BS23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <PageReference>BS8</PageReference>
+    <PageReference>BS16</PageReference>
+    <PageReference>BS23</PageReference>
+    <PageReference>BS28-29</PageReference>
+    <PageReference>BS124</PageReference>
+    <PageReference>BS131</PageReference>
+    <PageReference>BS139</PageReference>
+    <PageReference>BS152</PageReference>
+    <PageReference>BS160</PageReference>
+    <PageReference>BS165</PageReference>
+    <PageReference>BS170</PageReference>
+    <PageReference>BS236</PageReference>
+    <Child ReferenceText="cults">
+      <PageReference>BS78</PageReference>
+    </Child>
+    <Child ReferenceText="diseases">
+      <PageReference>BS28</PageReference>
+    </Child>
+    <Child ReferenceText="on Earth">
+      <PageReference>BS16</PageReference>
+    </Child>
+    <Child ReferenceText="items">
+      <SeeAlso>Artifacts</SeeAlso>
+    </Child>
+    <Child ReferenceText="necromancy">
+      <PageReference>BS65</PageReference>
+    </Child>
+    <Child ReferenceText="and religion">
+      <PageReference>BS28</PageReference>
+    </Child>
+    <Child ReferenceText="and science">
+      <PageReference>BS28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mamoun al-Mansur">
+    <PageReference>BS123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana">
+    <PageReference>BS6</PageReference>
+    <PageReference>BS23</PageReference>
+    <Child ReferenceText="fluctuating">
+      <PageReference>BS24</PageReference>
+    </Child>
+    <Child ReferenceText="mana levels">
+      <PageReference>BS24</PageReference>
+      <PageReference>BS176</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Manites">
+    <PageReference>BS94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Map key">
+    <PageReference>BS86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marriage">
+    <PageReference>BS58-59</PageReference>
+    <PageReference>BS68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exotic Martial Artist template">
+    <PageReference>BS209</PageReference>
+    <PageReference>BS210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master Merchant job description">
+    <PageReference>BS211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medicine">
+    <PageReference>BS32</PageReference>
+    <SeeAlso>Diseases</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Medium advantage">
+    <PageReference>BS183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medusas">
+    <PageReference>BS194</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS194</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="City of Megalos">
+    <PageReference>BS9</PageReference>
+    <PageReference>BS85-102</PageReference>
+    <PageReference>BS89-93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mehan">
+    <PageReference>BS94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mercenaries’ Guild">
+    <PageReference>BS168</PageReference>
+    <PageReference>BS146</PageReference>
+    <Child ReferenceText="Mercenary Captain job description">
+      <PageReference>BS210</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS209-210</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchant template">
+    <PageReference>BS210-211</PageReference>
+    <Child ReferenceText="Master Merchant job description">
+      <PageReference>BS211</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchants">
+    <PageReference>BS40</PageReference>
+    <SeeAlso>Trade</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Merfolk">
+    <PageReference>BS22</PageReference>
+    <PageReference>BS180-181</PageReference>
+    <Child ReferenceText="religion">
+      <PageReference>BS83</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS195</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mershall">
+    <PageReference>BS115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meteorites">
+    <PageReference>BS25</PageReference>
+    <PageReference>BS26</PageReference>
+    <PageReference>BS112-113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Michaelites">
+    <PageReference>BS64</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS211-212</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Milkfish">
+    <PageReference>BS229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Min">
+    <PageReference>BS97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minder">
+    <PageReference>BS142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ministry of Serendipity">
+    <PageReference>BS26</PageReference>
+    <PageReference>BS30</PageReference>
+    <PageReference>BS88-89</PageReference>
+    <PageReference>BS97</PageReference>
+    <Child ReferenceText="agents">
+      <PageReference>BS205</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Minotaurs">
+    <PageReference>BS22</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS196</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Missionaries">
+    <PageReference>BS214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Money">
+    <PageReference>BS44</PageReference>
+    <PageReference>BS185</PageReference>
+    <PageReference>BS187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Moneylending">
+    <PageReference>BS59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monks">
+    <PageReference>BS61</PageReference>
+    <PageReference>BS80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <PageReference>BS219-228</PageReference>
+    <Child ReferenceText="monster races">
+      <PageReference>BS197</PageReference>
+      <PageReference>BS200-202</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Moon">
+    <PageReference>BS6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Morkagast">
+    <PageReference>BS162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mosques">
+    <PageReference>BS67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Music">
+    <PageReference>BS34-36</PageReference>
+    <PageReference>BS53-54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Muslim lands">
+    <SeeAlso>Al-Haz</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Myrgan">
+    <PageReference>BS96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mystery cults">
+    <PageReference>BS53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mystics and mysticism">
+    <PageReference>BS23</PageReference>
+    <PageReference>BS26</PageReference>
+    <PageReference>BS27</PageReference>
+    <PageReference>BS67</PageReference>
+    <PageReference>BS80</PageReference>
+    <Child ReferenceText="lenses">
+      <PageReference>BS213</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS212</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Myth parallels">
+    <PageReference>BS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Names">
+    <Child ReferenceText="Aralaise">
+      <PageReference>BS106</PageReference>
+    </Child>
+    <Child ReferenceText="Caithness">
+      <PageReference>BS112</PageReference>
+    </Child>
+    <Child ReferenceText="Cardiel">
+      <PageReference>BS139</PageReference>
+    </Child>
+    <Child ReferenceText="Megalan">
+      <PageReference>BS88</PageReference>
+    </Child>
+    <Child ReferenceText="Muslim">
+      <PageReference>BS122</PageReference>
+    </Child>
+    <Child ReferenceText="Northman">
+      <PageReference>BS169</PageReference>
+    </Child>
+    <Child ReferenceText="Sahudese">
+      <PageReference>BS150-151</PageReference>
+    </Child>
+    <Child ReferenceText="nonhuman">
+      <PageReference>BS20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural Philosophy skill">
+    <PageReference>BS186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromancy">
+    <PageReference>BS65</PageReference>
+    <PageReference>BS97</PageReference>
+    <PageReference>BS230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New Jerusalem">
+    <PageReference>BS99</PageReference>
+    <PageReference>BS100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Niall of Fordham">
+    <PageReference>BS117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nightstalkers">
+    <PageReference>BS223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja">
+    <PageReference>BS153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nobility">
+    <PageReference>BS41-42</PageReference>
+    <PageReference>BS45</PageReference>
+    <PageReference>BS88</PageReference>
+    <PageReference>BS150</PageReference>
+    <Child ReferenceText="purchased">
+      <PageReference>BS46</PageReference>
+    </Child>
+    <Child ReferenceText="titles and fiefdoms">
+      <PageReference>BS46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Noble Horses">
+    <PageReference>BS194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nomad Lands">
+    <PageReference>BS167-172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nomads">
+    <PageReference>BS128</PageReference>
+    <PageReference>BS167-172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Norse cults">
+    <PageReference>BS78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="North Tredroy">
+    <PageReference>BS134</PageReference>
+    <PageReference>BS144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Northern Barbarian template">
+    <PageReference>BS212-213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Northern Marches of Megalos">
+    <PageReference>BS94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Northland language">
+    <PageReference>BS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nuns">
+    <PageReference>BS61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nyodo">
+    <PageReference>BS153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oakwood">
+    <PageReference>BS118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oaths">
+    <PageReference>BS59</PageReference>
+    <PageReference>BS68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oceans">
+    <PageReference>BS178-180</PageReference>
+    <SeeAlso>Maelstrom</SeeAlso>
+    <SeeAlso>Pirates</SeeAlso>
+    <SeeAlso>Ships</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Octopus folk">
+    <PageReference>BS196</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS196</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ogres">
+    <PageReference>BS20</PageReference>
+    <Child ReferenceText="religion">
+      <PageReference>BS82</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS196</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Old Religion">
+    <SeeAlso>Paganism</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Olokun">
+    <PageReference>BS7</PageReference>
+    <PageReference>BS22</PageReference>
+    <PageReference>BS83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Olybrians">
+    <PageReference>BS62-63</PageReference>
+    <PageReference>BS214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orclands">
+    <PageReference>BS163-167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orcs">
+    <PageReference>BS14</PageReference>
+    <PageReference>BS19-20</PageReference>
+    <SeeAlso>Half-Orcs</SeeAlso>
+    <SeeAlso>Orclands</SeeAlso>
+    <Child ReferenceText="religion">
+      <PageReference>BS82</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS196</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Orcslayer">
+    <PageReference>BS4</PageReference>
+    <SeeAlso>Peredur of Durham</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of Friars Minor (Franciscans)">
+    <PageReference>BS63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of Friedrich">
+    <PageReference>BS62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of Poor Knights of Christ and the Temple of Solomon">
+    <SeeAlso>Templars</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of St">
+    <Child ReferenceText="Benedict">
+      <PageReference>BS106</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of St">
+    <Child ReferenceText="Alyce">
+      <PageReference>BS118</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of St">
+    <Child ReferenceText="George of the Dragon">
+      <PageReference>BS42</PageReference>
+      <PageReference>BS118</PageReference>
+      <PageReference>BS119</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of St">
+    <Child ReferenceText="Michael Olybrius of Serrun">
+      <SeeAlso>Olybrians</SeeAlso>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of the Archangel Michael">
+    <SeeAlso>Michaelites</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of the Hospital of St" />
+  <IndexReference ReferenceText="John of Jerusalem">
+    <SeeAlso>Hospitallers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of the Knights of the Stone">
+    <PageReference>BS42</PageReference>
+    <PageReference>BS115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of the Pegasus">
+    <PageReference>BS70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Owls">
+    <Child ReferenceText="wise">
+      <PageReference>BS194</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pagans and paganism">
+    <PageReference>BS53</PageReference>
+    <PageReference>BS76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Painting">
+    <PageReference>BS37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paladins">
+    <PageReference>BS223-224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parallel worlds">
+    <PageReference>BS6</PageReference>
+    <PageReference>BS14</PageReference>
+    <PageReference>BS168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patron advantage">
+    <PageReference>BS183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peasant Hero template">
+    <PageReference>BS214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peasants">
+    <PageReference>BS38-39</PageReference>
+    <PageReference>BS206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pegasi">
+    <PageReference>BS224</PageReference>
+    <Child ReferenceText="Order of the Pegasus">
+      <PageReference>BS70</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Penetentines">
+    <PageReference>BS94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peredur of Durham">
+    <PageReference>BS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Photius">
+    <PageReference>BS118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pilgrim’s Plague">
+    <PageReference>BS127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pilgrimages">
+    <PageReference>BS59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pillars of Heaven">
+    <PageReference>BS136-137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pirates">
+    <PageReference>BS47</PageReference>
+    <PageReference>BS97</PageReference>
+    <PageReference>BS98</PageReference>
+    <PageReference>BS107</PageReference>
+    <PageReference>BS179</PageReference>
+    <PageReference>BS182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plague">
+    <PageReference>BS127</PageReference>
+    <SeeAlso>Disease</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Plaguebane spell">
+    <PageReference>BS127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Population">
+    <PageReference>BS84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Investiture advantage">
+    <PageReference>BS183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powerstones">
+    <PageReference>BS23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Practicals">
+    <PageReference>BS146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Priest template">
+    <PageReference>BS211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Priest-Wizard lenses">
+    <PageReference>BS215</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS214-215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Priests">
+    <PageReference>BS61</PageReference>
+    <PageReference>BS206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Printing">
+    <PageReference>BS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Protestantism">
+    <PageReference>BS12-13</PageReference>
+    <PageReference>BS55</PageReference>
+    <PageReference>BS61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic powers">
+    <PageReference>BS183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Qazr as-Sawh">
+    <PageReference>BS136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quartedec">
+    <PageReference>BS100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rabbis">
+    <PageReference>BS75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rank advantage">
+    <PageReference>BS184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Raphael">
+    <PageReference>BS100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Redhall">
+    <PageReference>BS116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reeks">
+    <PageReference>BS224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Relics">
+    <PageReference>BS59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Religion">
+    <PageReference>BS56-83</PageReference>
+    <Child ReferenceText="and magic">
+      <PageReference>BS28</PageReference>
+    </Child>
+    <Child ReferenceText="nonhuman">
+      <PageReference>BS81-83</PageReference>
+    </Child>
+    <Child ReferenceText="Northman">
+      <PageReference>BS170</PageReference>
+    </Child>
+    <Child ReferenceText="Religious Rank advantage">
+      <PageReference>BS184</PageReference>
+    </Child>
+    <Child ReferenceText="Sahudese">
+      <PageReference>BS80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reptile men">
+    <PageReference>BS21</PageReference>
+    <PageReference>BS118</PageReference>
+    <PageReference>BS119</PageReference>
+    <PageReference>BS124</PageReference>
+    <PageReference>BS221</PageReference>
+    <Child ReferenceText="religion">
+      <PageReference>BS82</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS197</PageReference>
+    </Child>
+    <Child ReferenceText="True Dragons">
+      <PageReference>BS90</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reputation advantage">
+    <PageReference>BS184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ring Islands">
+    <PageReference>BS107-108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="River Conn">
+    <PageReference>BS137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rogue template">
+    <PageReference>BS216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruins">
+    <PageReference>BS134-135</PageReference>
+    <PageReference>BS174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sa’Azraq">
+    <PageReference>BS134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sahud">
+    <PageReference>BS32</PageReference>
+    <PageReference>BS49</PageReference>
+    <PageReference>BS96</PageReference>
+    <PageReference>BS148-157</PageReference>
+    <PageReference>BS234</PageReference>
+    <Child ReferenceText="religion">
+      <PageReference>BS80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sahudese languge">
+    <PageReference>BS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sailors">
+    <PageReference>BS215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saints">
+    <PageReference>BS60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sargasso">
+    <PageReference>BS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sauvons">
+    <PageReference>BS105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saywell of Alimar">
+    <PageReference>BS141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Science">
+    <PageReference>BS30-32</PageReference>
+    <SeeAlso>Technology</SeeAlso>
+    <Child ReferenceText="and magic">
+      <PageReference>BS28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sculpture">
+    <PageReference>BS37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sea Elves">
+    <PageReference>BS19</PageReference>
+    <PageReference>BS179-180</PageReference>
+    <Child ReferenceText="religion">
+      <PageReference>BS81</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS198</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sea monsters">
+    <SeeAlso>Monsters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret societies">
+    <PageReference>BS52-55</PageReference>
+    <PageReference>BS72-73</PageReference>
+    <PageReference>BS77-78</PageReference>
+    <PageReference>BS94</PageReference>
+    <PageReference>BS128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Semi-Literacy disadvantage">
+    <PageReference>BS185</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serfs">
+    <PageReference>BS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serrun">
+    <PageReference>BS97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shakespeare">
+    <PageReference>BS37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shamans">
+    <PageReference>BS170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shaniyabad">
+    <PageReference>BS133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shari’a">
+    <SeeAlso>Law</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shark men">
+    <PageReference>BS23</PageReference>
+    <PageReference>BS181</PageReference>
+    <Child ReferenceText="religion">
+      <PageReference>BS83</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BS198</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shi’ites">
+    <PageReference>BS70</PageReference>
+    <PageReference>BS120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shinto">
+    <PageReference>BS80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ships">
+    <PageReference>BS31</PageReference>
+    <PageReference>BS47</PageReference>
+    <PageReference>BS97</PageReference>
+    <PageReference>BS104</PageReference>
+    <PageReference>BS105</PageReference>
+    <PageReference>BS125</PageReference>
+    <PageReference>BS139</PageReference>
+    <PageReference>BS167</PageReference>
+    <SeeAlso>Oceans</SeeAlso>
+    <SeeAlso>Sailors</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sho’joor">
+    <PageReference>BS98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signature Gear advantage">
+    <PageReference>BS184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silver Hand">
+    <PageReference>BS110</PageReference>
+    <PageReference>BS115</PageReference>
+    <Child ReferenceText="lens">
+      <PageReference>BS217</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Simon Menelaus">
+    <PageReference>BS9</PageReference>
+    <PageReference>BS26</PageReference>
+    <PageReference>BS36</PageReference>
+    <PageReference>BS85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Simonton">
+    <PageReference>BS119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skaldic Immunity advantage">
+    <PageReference>BS54</PageReference>
+    <PageReference>BS171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skalds">
+    <PageReference>BS171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skill tech levels">
+    <PageReference>BS186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slavery">
+    <PageReference>BS42-43</PageReference>
+    <PageReference>BS59-60</PageReference>
+    <PageReference>BS68</PageReference>
+    <PageReference>BS87</PageReference>
+    <PageReference>BS113</PageReference>
+    <PageReference>BS122</PageReference>
+    <PageReference>BS144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snatcher advantage">
+    <PageReference>BS184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Regard advantage">
+    <PageReference>BS184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma disadvantage">
+    <PageReference>BS185</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social status">
+    <PageReference>BS38</PageReference>
+    <PageReference>BS187</PageReference>
+    <Child ReferenceText="Caithness">
+      <PageReference>BS111</PageReference>
+    </Child>
+    <Child ReferenceText="Cardiel">
+      <PageReference>BS139</PageReference>
+    </Child>
+    <Child ReferenceText="Dwarven">
+      <PageReference>BS159</PageReference>
+    </Child>
+    <Child ReferenceText="Megalan">
+      <PageReference>BS87</PageReference>
+    </Child>
+    <Child ReferenceText="Muslim">
+      <PageReference>BS40</PageReference>
+      <PageReference>BS121</PageReference>
+      <PageReference>BS122</PageReference>
+      <PageReference>BS130</PageReference>
+    </Child>
+    <Child ReferenceText="Northman">
+      <PageReference>BS169</PageReference>
+    </Child>
+    <Child ReferenceText="Orcish">
+      <PageReference>BS165</PageReference>
+    </Child>
+    <Child ReferenceText="Sahudese">
+      <PageReference>BS150-151</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Society of Jesus">
+    <SeeAlso>Jesuits</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Solginyarl">
+    <PageReference>BS162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Souls">
+    <PageReference>BS57</PageReference>
+    <PageReference>BS65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Southern Plains">
+    <PageReference>BS173-174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Southlands of Megalos">
+    <PageReference>BS97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Southwestern wilderness">
+    <PageReference>BS173-178</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells available on Yrth">
+    <PageReference>BS25-26</PageReference>
+    <PageReference>BS127</PageReference>
+    <SeeAlso>Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sphinxes">
+    <PageReference>BS198</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS198-199</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spices">
+    <PageReference>BS103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spiders">
+    <Child ReferenceText="giant">
+      <PageReference>BS220-221</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spies">
+    <PageReference>BS55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Empathy advantage">
+    <PageReference>BS184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirits">
+    <PageReference>BS8</PageReference>
+    <PageReference>BS9</PageReference>
+    <PageReference>BS57</PageReference>
+    <PageReference>BS77</PageReference>
+    <PageReference>BS151-152</PageReference>
+    <PageReference>BS170</PageReference>
+    <PageReference>BS199</PageReference>
+    <PageReference>BS234</PageReference>
+    <Child ReferenceText="Spring Spirit template">
+      <PageReference>BS199</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Status">
+    <SeeAlso>Social Status</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sterling">
+    <PageReference>BS118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Striders">
+    <PageReference>BS224-225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sufis">
+    <PageReference>BS70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sunnis">
+    <PageReference>BS69</PageReference>
+    <PageReference>BS129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swamp thrimminies">
+    <PageReference>BS219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swashbuckler template">
+    <PageReference>BS215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sword and sorcery">
+    <PageReference>BS231</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tacitus">
+    <PageReference>BS116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <PageReference>BS184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taveon of Dekamera">
+    <PageReference>BS134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech Levels">
+    <PageReference>BS30</PageReference>
+    <PageReference>BS105</PageReference>
+    <PageReference>BS164</PageReference>
+    <Child ReferenceText="Skill tech levels">
+      <PageReference>BS186</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <PageReference>BS203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technology">
+    <PageReference>BS30-32</PageReference>
+    <PageReference>BS88-89</PageReference>
+    <PageReference>BS105</PageReference>
+    <PageReference>BS161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templars">
+    <PageReference>BS42</PageReference>
+    <PageReference>BS63</PageReference>
+    <PageReference>BS96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <PageReference>BS188-217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ten-Tiri">
+    <PageReference>BS142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teridar">
+    <PageReference>BS96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thaumatology">
+    <PageReference>BS29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Theater">
+    <PageReference>BS34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Theology">
+    <SeeAlso>Religion</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Thieves’ Guild">
+    <PageReference>BS51</PageReference>
+    <PageReference>BS101</PageReference>
+    <PageReference>BS147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thomasites">
+    <PageReference>BS64</PageReference>
+    <Child ReferenceText="lens">
+      <PageReference>BS215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thransiravst">
+    <PageReference>BS163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thulin X">
+    <PageReference>BS163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Timeline">
+    <PageReference>BS9</PageReference>
+    <PageReference>BS11</PageReference>
+    <PageReference>BS15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Towns">
+    <PageReference>BS49-51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trade">
+    <PageReference>BS40</PageReference>
+    <PageReference>BS49</PageReference>
+    <PageReference>BS103</PageReference>
+    <PageReference>BS108</PageReference>
+    <PageReference>BS125</PageReference>
+    <PageReference>BS133</PageReference>
+    <PageReference>BS134</PageReference>
+    <PageReference>BS137</PageReference>
+    <PageReference>BS141</PageReference>
+    <PageReference>BS147</PageReference>
+    <PageReference>BS149</PageReference>
+    <PageReference>BS156-157</PageReference>
+    <PageReference>BS168</PageReference>
+    <SeeAlso>Pirates</SeeAlso>
+    <SeeAlso>Ships</SeeAlso>
+    <SeeAlso>Transportation</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Trained by a Master advantage">
+    <PageReference>BS184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transportation">
+    <PageReference>BS32</PageReference>
+    <PageReference>BS97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tredroy">
+    <PageReference>BS34</PageReference>
+    <PageReference>BS56</PageReference>
+    <PageReference>BS142-148</PageReference>
+    <PageReference>BS234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treetippers">
+    <PageReference>BS225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tribalism">
+    <PageReference>BS47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trolls">
+    <PageReference>BS199</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS199-200</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="True Dragon Legion">
+    <PageReference>BS90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Faith advantage">
+    <PageReference>BS27</PageReference>
+    <PageReference>BS184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tsushuo">
+    <PageReference>BS154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Underground engineers">
+    <PageReference>BS30</PageReference>
+    <PageReference>BS54-55</PageReference>
+    <PageReference>BS116</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unicorns">
+    <PageReference>BS225-226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background advantage">
+    <PageReference>BS184-185</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Urban Rogue template">
+    <PageReference>BS216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Usury">
+    <PageReference>BS59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uulinn">
+    <PageReference>BS154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampire bat">
+    <PageReference>BS219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampires and vampirism">
+    <PageReference>BS28</PageReference>
+    <PageReference>BS95</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>BS201-202</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vermin">
+    <PageReference>BS219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Villeins">
+    <PageReference>BS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wallace">
+    <PageReference>BS118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warriors of the Quill">
+    <PageReference>BS71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Watchman template">
+    <PageReference>BS217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth advantage">
+    <PageReference>BS185</PageReference>
+    <PageReference>BS187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Were-creatures">
+    <PageReference>BS28</PageReference>
+    <PageReference>BS29</PageReference>
+    <PageReference>BS170</PageReference>
+    <PageReference>BS171</PageReference>
+    <Child ReferenceText="templates">
+      <PageReference>BS200-201</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="West Tredroy">
+    <PageReference>BS128</PageReference>
+    <PageReference>BS144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Westlands of Megalos">
+    <PageReference>BS98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild boars">
+    <PageReference>BS219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wise Owls">
+    <PageReference>BS194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizard templates">
+    <PageReference>BS204</PageReference>
+    <PageReference>BS207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizards in Black">
+    <PageReference>BS89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wolves">
+    <PageReference>BS219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Woodsman template">
+    <PageReference>BS217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Woolens">
+    <PageReference>BS229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wyverns">
+    <PageReference>BS226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yarohito">
+    <PageReference>BS154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yibyorak">
+    <PageReference>BS100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ytarria">
+    <PageReference>BS4</PageReference>
+    <PageReference>BS84-181</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zarak">
+    <PageReference>BS18</PageReference>
+    <PageReference>BS149</PageReference>
+    <PageReference>BS157-163</PageReference>
+    <SeeAlso>Dwarves</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Zehan">
+    <PageReference>BS98</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

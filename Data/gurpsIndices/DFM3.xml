@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Acid">
+    <Child ReferenceText="phoenix">
+      <PageReference>DFM3:18</PageReference>
+    </Child>
+    <Child ReferenceText="ants">
+      <PageReference>DFM3:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Amorphous Stone meta-trait">
+    <PageReference>DFM3:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <Child ReferenceText="giant">
+      <PageReference>DFM3:10</PageReference>
+    </Child>
+    <Child ReferenceText="dire">
+      <PageReference>DFM3:5</PageReference>
+      <PageReference>DFM3:6</PageReference>
+      <PageReference>DFM3:17</PageReference>
+      <PageReference>DFM3:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ants">
+    <Child ReferenceText="giant">
+      <PageReference>DFM3:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Army ants">
+    <PageReference>DFM3:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basilisks">
+    <PageReference>DFM3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bestial manticores">
+    <PageReference>DFM3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caustic blossoms">
+    <PageReference>DFM3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <SeeAlso>Monsters</SeeAlso>
+    <Child ReferenceText="replacing">
+      <PageReference>DFM3:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cockatrices">
+    <PageReference>DFM3:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Control Lava Lizard spell">
+    <PageReference>DFM3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crusher blossoms">
+    <PageReference>DFM3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death phoenix">
+    <PageReference>DFM3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dire animals">
+    <PageReference>DFM3:5</PageReference>
+    <PageReference>DFM3:6</PageReference>
+    <PageReference>DFM3:10</PageReference>
+    <PageReference>DFM3:17</PageReference>
+    <PageReference>DFM3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doppelgangers">
+    <PageReference>DFM3:7-8</PageReference>
+    <Child ReferenceText="detecting">
+      <PageReference>DFM3:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dryads">
+    <PageReference>DFM3:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder Things">
+    <PageReference>DFM3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elementals">
+    <PageReference>DFM3:12</PageReference>
+    <PageReference>DFM3:18</PageReference>
+    <PageReference>DFM3:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancement">
+    <Child ReferenceText="new">
+      <PageReference>DFM3:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Eros blossoms">
+    <PageReference>DFM3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faeries">
+    <PageReference>DFM3:7-9</PageReference>
+    <PageReference>DFM3:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Falling">
+    <Child ReferenceText="into monsters">
+      <PageReference>DFM3:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fighting">
+    <Child ReferenceText="with eyes averted">
+      <PageReference>DFM3:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire ants">
+    <PageReference>DFM3:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flame ants">
+    <PageReference>DFM3:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying prefix">
+    <PageReference>DFM3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frost phoenix">
+    <PageReference>DFM3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Furious prefix">
+    <PageReference>DFM3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>DFM3:4</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>DFM3:22</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DFM3:3</PageReference>
+      <PageReference>DFM3:18</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DFM3:9</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DFM3:3</PageReference>
+      <PageReference>DFM3:4</PageReference>
+      <PageReference>DFM3:8</PageReference>
+      <PageReference>DFM3:13</PageReference>
+      <PageReference>DFM3:22</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 7: Clerics">
+      <PageReference>DFM3:23</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 8: Treasure Tables">
+      <PageReference>DFM3:19</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 11: Power-Ups">
+      <PageReference>DFM3:8</PageReference>
+      <PageReference>DFM3:17</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 14: Psi">
+      <PageReference>DFM3:7</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 15: Henchmen">
+      <PageReference>DFM3:8</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 16: Wilderness Adventures">
+      <PageReference>DFM3:4</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Adventure 1: Mirror of the Fire Demon">
+      <PageReference>DFM3:11</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Monsters 1">
+      <PageReference>DFM3:5</PageReference>
+      <PageReference>DFM3:8</PageReference>
+      <PageReference>DFM3:15</PageReference>
+      <PageReference>DFM3:17</PageReference>
+      <PageReference>DFM3:19</PageReference>
+      <PageReference>DFM3:20</PageReference>
+      <PageReference>DFM3:22</PageReference>
+      <PageReference>DFM3:23</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Monsters 2: Icky Goo">
+      <PageReference>DFM3:4</PageReference>
+      <PageReference>DFM3:7</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>DFM3:5</PageReference>
+      <PageReference>DFM3:15</PageReference>
+      <PageReference>DFM3:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Harpies">
+    <PageReference>DFM3:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy prefix">
+    <PageReference>DFM3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hybrids">
+    <PageReference>DFM3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hydra rot worm">
+    <PageReference>DFM3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lava lizards">
+    <PageReference>DFM3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lightning phoenix">
+    <PageReference>DFM3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Living pits">
+    <PageReference>DFM3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lizards">
+    <Child ReferenceText="lava">
+      <PageReference>DFM3:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mage-eater blossoms">
+    <PageReference>DFM3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manticores">
+    <PageReference>DFM3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medusas">
+    <PageReference>DFM3:15</PageReference>
+    <Child ReferenceText="variants">
+      <PageReference>DFM3:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Meld enhancement">
+    <PageReference>DFM3:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-traits">
+    <Child ReferenceText="new">
+      <PageReference>DFM3:21-23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Meteoric manticores">
+    <PageReference>DFM3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <Child ReferenceText="new general traits">
+      <PageReference>DFM3:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="reading stats">
+      <PageReference>DFM3:4</PageReference>
+    </Child>
+    <Child ReferenceText="trait notes">
+      <PageReference>DFM3:4</PageReference>
+    </Child>
+    <Child ReferenceText="classes">
+      <PageReference>DFM3:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Morph advantage">
+    <PageReference>DFM3:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mundane">
+    <Child ReferenceText="monsters classed as">
+      <PageReference>DFM3:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Myrmecoleon">
+    <PageReference>DFM3:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Octopus blossoms">
+    <PageReference>DFM3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phase">
+    <Child ReferenceText="prefix">
+      <PageReference>DFM3:17</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>DFM3:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Phase serpents">
+    <PageReference>DFM3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phoenix">
+    <PageReference>DFM3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pits">
+    <Child ReferenceText="living">
+      <PageReference>DFM3:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Plant meta-trait">
+    <PageReference>DFM3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plants">
+    <Child ReferenceText="monsters classed as">
+      <PageReference>DFM3:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Prefixes">
+    <Child ReferenceText="new">
+      <PageReference>DFM3:17</PageReference>
+      <PageReference>DFM3:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Replacing characters">
+    <PageReference>DFM3:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rock trolls">
+    <PageReference>DFM3:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rot wormingers">
+    <PageReference>DFM3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rot worms">
+    <PageReference>DFM3:20</PageReference>
+    <Child ReferenceText="giant">
+      <PageReference>DFM3:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sea blossoms">
+    <PageReference>DFM3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serpents">
+    <Child ReferenceText="phase">
+      <PageReference>DFM3:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadow Being meta-trait">
+    <PageReference>DFM3:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadow warriors">
+    <PageReference>DFM3:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sirens">
+    <PageReference>DFM3:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <Child ReferenceText="new">
+      <PageReference>DFM3:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Summon Lava Lizard spell">
+    <PageReference>DFM3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treasure">
+    <Child ReferenceText="tips">
+      <PageReference>DFM3:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trolls">
+    <Child ReferenceText="rock">
+      <PageReference>DFM3:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead">
+    <PageReference>DFM3:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unkillable advantage">
+    <Child ReferenceText="suggested">
+      <PageReference>DFM3:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Venom blossoms">
+    <PageReference>DFM3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vermiform medusas">
+    <PageReference>DFM3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vulnerability disadvantage">
+    <Child ReferenceText="suggested">
+      <PageReference>DFM3:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weakness disadvantage">
+    <Child ReferenceText="suggested">
+      <PageReference>DFM3:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Winged manticores">
+    <PageReference>DFM3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizard manticores">
+    <PageReference>DFM3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wormingers">
+    <PageReference>DFM3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Worms">
+    <Child ReferenceText="rot">
+      <PageReference>DFM3:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombie ants">
+    <PageReference>DFM3:10</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

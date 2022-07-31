@@ -1,0 +1,4586 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="3D">
+    <Child ReferenceText="media walls">
+      <PageReference>UT52</PageReference>
+    </Child>
+    <Child ReferenceText="cameras">
+      <PageReference>UT51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ablative foam">
+    <PageReference>UT187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accelerated reflexes">
+    <PageReference>UT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Access control">
+    <PageReference>UT150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accessory perk">
+    <PageReference>UT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accessory rails">
+    <PageReference>UT150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Active electromagnetic sensor arrays">
+    <PageReference>UT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Active flesh masks">
+    <PageReference>UT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Active sensors">
+    <PageReference>UT63-66</PageReference>
+    <Child ReferenceText="modes">
+      <PageReference>UT63</PageReference>
+    </Child>
+    <Child ReferenceText="targeting with">
+      <PageReference>UT150</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Addiction disadvantage">
+    <PageReference>UT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adhesives">
+    <PageReference>UT83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adjustable force screen variant">
+    <PageReference>UT191</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aegis nanobots">
+    <PageReference>UT206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerosol weapons">
+    <PageReference>UT134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerostat swarmbots">
+    <PageReference>UT36</PageReference>
+    <PageReference>UT70-71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AESA">
+    <PageReference>UT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ages of technology">
+    <PageReference>UT6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AI">
+    <SeeAlso>Artificial Intelligences</SeeAlso>
+    <Child ReferenceText="tutors">
+      <PageReference>UT59</PageReference>
+    </Child>
+    <Child ReferenceText="meta-trait">
+      <PageReference>UT29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Air cars">
+    <PageReference>UT225</PageReference>
+    <PageReference>UT226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air guns">
+    <PageReference>UT139-140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air masks">
+    <PageReference>UT176</PageReference>
+    <PageReference>UT177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air supplies for protective gear">
+    <PageReference>UT171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air tanks">
+    <PageReference>UT176-177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air tubes">
+    <PageReference>UT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Airships">
+    <PageReference>UT223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies advantage">
+    <PageReference>UT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammunition">
+    <SeeAlso>Warheads</SeeAlso>
+    <Child ReferenceText="conventional">
+      <PageReference>UT139</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Amnesia disadvantage">
+    <PageReference>UT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amplifier thrones">
+    <PageReference>UT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Analgine">
+    <PageReference>UT205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Androids">
+    <SeeAlso>Robots</SeeAlso>
+    <Child ReferenceText="domestic">
+      <PageReference>UT70</PageReference>
+    </Child>
+    <Child ReferenceText="general purpose">
+      <PageReference>UT41</PageReference>
+    </Child>
+    <Child ReferenceText="combat">
+      <PageReference>UT167</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal control devices">
+    <PageReference>UT108-110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-armor weapons">
+    <Child ReferenceText="conventional">
+      <PageReference>UT136</PageReference>
+      <PageReference>UT138</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Antigrav hammocks">
+    <PageReference>UT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antimatter">
+    <Child ReferenceText="generators">
+      <PageReference>UT20</PageReference>
+    </Child>
+    <Child ReferenceText="storage field">
+      <PageReference>UT82</PageReference>
+    </Child>
+    <Child ReferenceText="trap">
+      <PageReference>UT81-82</PageReference>
+    </Child>
+    <Child ReferenceText="warheads">
+      <PageReference>UT156-157</PageReference>
+    </Child>
+    <Child ReferenceText="explosive">
+      <PageReference>UT88</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Antiparticle beam weapons">
+    <PageReference>UT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antiques and legality">
+    <PageReference>UT14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antirad">
+    <PageReference>UT205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-tangler aerosols">
+    <PageReference>UT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-theft devices">
+    <PageReference>UT150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-toxin kits">
+    <PageReference>UT196</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="APDS">
+    <PageReference>UT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="APEP">
+    <PageReference>UT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="APHC">
+    <PageReference>UT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="APHD">
+    <PageReference>UT156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="APHEX">
+    <PageReference>UT152-153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aquasleds">
+    <PageReference>UT228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor materials">
+    <PageReference>UT170-171</PageReference>
+    <SeeAlso>Body Armor</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor-piercing warheads">
+    <PageReference>UT152-153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor-piercing hyperdense darts">
+    <PageReference>UT156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armored doors">
+    <PageReference>UT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armored shades">
+    <PageReference>UT176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificial gills">
+    <PageReference>UT177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificial gravity">
+    <SeeAlso>Contragravity</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificial intelligences">
+    <PageReference>UT23</PageReference>
+    <PageReference>UT25</PageReference>
+    <SeeAlso>AI</SeeAlso>
+    <SeeAlso>Digital Intelligences</SeeAlso>
+    <SeeAlso>Machine Intelligence Lenses</SeeAlso>
+    <Child ReferenceText="controlling and reprogramming">
+      <PageReference>UT35</PageReference>
+    </Child>
+    <Child ReferenceText="hacking">
+      <PageReference>UT35</PageReference>
+    </Child>
+    <Child ReferenceText="as hardware">
+      <PageReference>UT23</PageReference>
+    </Child>
+    <Child ReferenceText="involuntary reprogramming">
+      <PageReference>UT35</PageReference>
+    </Child>
+    <Child ReferenceText="masters of">
+      <PageReference>UT35</PageReference>
+    </Child>
+    <Child ReferenceText="physical access">
+      <PageReference>UT35</PageReference>
+    </Child>
+    <Child ReferenceText="purchasing software">
+      <PageReference>UT29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ascepaline">
+    <PageReference>UT205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assault boots">
+    <PageReference>UT173</PageReference>
+    <Child ReferenceText="hiking">
+      <PageReference>UT173</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Assault grav-beamers">
+    <PageReference>UT129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assembler goo">
+    <PageReference>UT85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Asteroid hives">
+    <PageReference>UT71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attaché cases">
+    <PageReference>UT38</PageReference>
+    <PageReference>UT97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ATVs">
+    <PageReference>UT224-225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Augmented reality">
+    <PageReference>UT53</PageReference>
+    <PageReference>UT56-57</PageReference>
+    <Child ReferenceText="hardware required">
+      <PageReference>UT56</PageReference>
+    </Child>
+    <Child ReferenceText="programs">
+      <PageReference>UT56-57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Autograpnels">
+    <PageReference>UT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Autokitchens">
+    <PageReference>UT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Automaton meta-trait">
+    <PageReference>UT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Automeds">
+    <PageReference>UT196-197</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Axes">
+    <Child ReferenceText="morph">
+      <PageReference>UT83</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Backup brains">
+    <PageReference>UT218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ballistic armor">
+    <PageReference>UT172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ballistic liners">
+    <PageReference>UT223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bandage">
+    <Child ReferenceText="spray">
+      <PageReference>UT197</PageReference>
+    </Child>
+    <Child ReferenceText="diagnostic smart">
+      <PageReference>UT199</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Barrier screens">
+    <PageReference>UT191</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barriers">
+    <PageReference>UT101-104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battlesuits">
+    <PageReference>UT182-186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beam weapons">
+    <PageReference>UT113-133</PageReference>
+    <Child ReferenceText="options for">
+      <PageReference>UT132-133</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Beamed audio sound systems">
+    <PageReference>UT108-109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beamed power">
+    <PageReference>UT21</PageReference>
+    <PageReference>UT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beanstalk elevators">
+    <SeeAlso>Space Elevators</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bernal spheres">
+    <PageReference>UT71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Binoculars">
+    <PageReference>UT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biochemical">
+    <Child ReferenceText="weapons">
+      <PageReference>UT159-162</PageReference>
+    </Child>
+    <Child ReferenceText="warheads">
+      <PageReference>UT153</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Biofabrication">
+    <PageReference>UT204</PageReference>
+    <PageReference>UT208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biogenesis">
+    <PageReference>UT206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biological operating system implants">
+    <PageReference>UT217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biomedical">
+    <Child ReferenceText="nanomachines">
+      <PageReference>UT205-206</PageReference>
+    </Child>
+    <Child ReferenceText="sensors">
+      <PageReference>UT187</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>UT196-206</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Biometric">
+    <Child ReferenceText="scanlocks">
+      <PageReference>UT104</PageReference>
+    </Child>
+    <Child ReferenceText="scanners">
+      <PageReference>UT104</PageReference>
+    </Child>
+    <Child ReferenceText="cracker tools">
+      <PageReference>UT95</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Biomimetic swimsuits">
+    <PageReference>UT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biomonitors">
+    <PageReference>UT197</PageReference>
+    <PageReference>UT199</PageReference>
+    <Child ReferenceText="implants">
+      <PageReference>UT208-209</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Biomorphic lenses">
+    <PageReference>UT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bionic">
+    <Child ReferenceText="ears">
+      <PageReference>UT209</PageReference>
+    </Child>
+    <Child ReferenceText="eyes">
+      <PageReference>UT209</PageReference>
+    </Child>
+    <Child ReferenceText="hands">
+      <PageReference>UT209</PageReference>
+    </Child>
+    <Child ReferenceText="legs">
+      <PageReference>UT209-210</PageReference>
+    </Child>
+    <Child ReferenceText="organ transplants">
+      <PageReference>UT210</PageReference>
+    </Child>
+    <Child ReferenceText="vital organs">
+      <PageReference>UT210</PageReference>
+    </Child>
+    <Child ReferenceText="voiceboxes">
+      <PageReference>UT210</PageReference>
+    </Child>
+    <Child ReferenceText="arms">
+      <PageReference>UT209</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioplas">
+    <Child ReferenceText="contact lenses">
+      <PageReference>UT38</PageReference>
+    </Child>
+    <Child ReferenceText="pressure tents">
+      <PageReference>UT77</PageReference>
+    </Child>
+    <Child ReferenceText="skin">
+      <PageReference>UT212</PageReference>
+    </Child>
+    <Child ReferenceText="smart">
+      <PageReference>UT170-171</PageReference>
+    </Child>
+    <Child ReferenceText="swimsuits">
+      <PageReference>UT39</PageReference>
+    </Child>
+    <Child ReferenceText="transparent">
+      <PageReference>UT174</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>UT174</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioplastic">
+    <SeeAlso>Bioplas</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Biopresence software">
+    <PageReference>UT109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biosuits">
+    <Child ReferenceText="space">
+      <PageReference>UT179</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Biotech">
+    <Child ReferenceText="houses">
+      <PageReference>UT72</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>UT206</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>UT204</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Black hole">
+    <Child ReferenceText="communicators">
+      <PageReference>UT46</PageReference>
+    </Child>
+    <Child ReferenceText="moving">
+      <PageReference>UT79</PageReference>
+    </Child>
+    <Child ReferenceText="artificial">
+      <PageReference>UT79</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Black markets">
+    <PageReference>UT13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Black ops robots">
+    <PageReference>UT110-111</PageReference>
+    <SeeAlso>Bush Robots</SeeAlso>
+    <SeeAlso>Combat Androids</SeeAlso>
+    <SeeAlso>Scout Robots</SeeAlso>
+    <SeeAlso>Warbots</SeeAlso>
+    <SeeAlso>Nursebots</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Blades">
+    <PageReference>UT163-164</PageReference>
+    <PageReference>UT166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blast foam">
+    <PageReference>UT87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blasters">
+    <PageReference>UT123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blueprints">
+    <PageReference>UT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body armor">
+    <PageReference>UT170-174</PageReference>
+    <Child ReferenceText="ablative">
+      <PageReference>UT173</PageReference>
+      <PageReference>UT174</PageReference>
+    </Child>
+    <Child ReferenceText="ablative nanoplas">
+      <PageReference>UT173</PageReference>
+      <PageReference>UT174</PageReference>
+    </Child>
+    <Child ReferenceText="beamadaptive">
+      <PageReference>UT190</PageReference>
+    </Child>
+    <Child ReferenceText="coverage">
+      <PageReference>UT175</PageReference>
+    </Child>
+    <Child ReferenceText="laser-resistant">
+      <PageReference>UT173-174</PageReference>
+    </Child>
+    <Child ReferenceText="living metal">
+      <PageReference>UT190</PageReference>
+    </Child>
+    <Child ReferenceText="reflec">
+      <PageReference>UT173</PageReference>
+      <PageReference>UT174</PageReference>
+    </Child>
+    <Child ReferenceText="retroreflective">
+      <PageReference>UT173</PageReference>
+      <PageReference>UT174</PageReference>
+    </Child>
+    <Child ReferenceText="rigid">
+      <PageReference>UT176</PageReference>
+    </Child>
+    <Child ReferenceText="styles">
+      <PageReference>UT171-172</PageReference>
+    </Child>
+    <Child ReferenceText="tailoring">
+      <PageReference>UT174-175</PageReference>
+    </Child>
+    <Child ReferenceText="without faceplates">
+      <PageReference>UT187</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Body modifications">
+    <PageReference>UT208-215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bodyguards">
+    <PageReference>UT190</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bodysculpting">
+    <PageReference>UT206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bomb implants">
+    <PageReference>UT210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Book readers">
+    <PageReference>UT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boosted">
+    <Child ReferenceText="reflexes">
+      <PageReference>UT210</PageReference>
+    </Child>
+    <Child ReferenceText="hearts">
+      <PageReference>UT210</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="BOS implants">
+    <PageReference>UT217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brain implants">
+    <PageReference>UT215-218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brainlocks">
+    <PageReference>UT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brainscanners">
+    <PageReference>UT203-204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Braintaps">
+    <PageReference>UT58</PageReference>
+    <PageReference>UT215</PageReference>
+    <Child ReferenceText="jacks">
+      <PageReference>UT219</PageReference>
+    </Child>
+    <Child ReferenceText="wireless">
+      <PageReference>UT219</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brainwashing devices">
+    <PageReference>UT108-110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brainwipe machines">
+    <PageReference>UT109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breathing gear">
+    <PageReference>UT176-177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brilliant weapons">
+    <PageReference>UT146</PageReference>
+    <PageReference>UT168-169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Broadcast power">
+    <PageReference>UT21</PageReference>
+    <PageReference>UT37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bug">
+    <Child ReferenceText="stompers">
+      <PageReference>UT106</PageReference>
+    </Child>
+    <Child ReferenceText="detectors">
+      <PageReference>UT106</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bughunter swarms">
+    <PageReference>UT106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burglary equipment">
+    <PageReference>UT95-96</PageReference>
+    <SeeAlso>Explosives</SeeAlso>
+    <SeeAlso>Laser Torches</SeeAlso>
+    <SeeAlso>Plasma Torches</SeeAlso>
+    <SeeAlso>Sonic Probes</SeeAlso>
+    <SeeAlso>Tool Kits</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Burrow darts">
+    <PageReference>UT155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bush robots">
+    <PageReference>UT86</PageReference>
+    <PageReference>UT203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buying equipment">
+    <PageReference>UT13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buzz fabric">
+    <PageReference>UT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cable jacks">
+    <PageReference>UT42-43</PageReference>
+    <SeeAlso>Neural Jacks</SeeAlso>
+    <SeeAlso>Neural Interfaces</SeeAlso>
+    <SeeAlso>Networks</SeeAlso>
+    <Child ReferenceText="advantage">
+      <PageReference>UT31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cages">
+    <PageReference>UT75-76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camcorders and cameras">
+    <PageReference>UT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camouflage">
+    <PageReference>UT98-99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaign equipment list">
+    <PageReference>UT11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camping gear">
+    <PageReference>UT75-77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannibal">
+    <Child ReferenceText="swarms">
+      <PageReference>UT169</PageReference>
+    </Child>
+    <Child ReferenceText="nanokits">
+      <PageReference>UT98</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannon">
+    <Child ReferenceText="conventional">
+      <PageReference>UT136</PageReference>
+      <PageReference>UT138</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Canteens">
+    <PageReference>UT75</PageReference>
+    <PageReference>UT76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Causality communicators">
+    <PageReference>UT45-46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="CAW">
+    <PageReference>UT136</PageReference>
+    <PageReference>UT138</PageReference>
+    <Child ReferenceText="Gauss">
+      <PageReference>UT141</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cellular communicators">
+    <PageReference>UT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="CG flyer swarmbots">
+    <PageReference>UT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chameleon">
+    <Child ReferenceText="cloak">
+      <PageReference>UT99</PageReference>
+    </Child>
+    <Child ReferenceText="net">
+      <PageReference>UT99</PageReference>
+    </Child>
+    <Child ReferenceText="surface">
+      <PageReference>UT98-99</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>UT29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Charged particle beam weapons">
+    <PageReference>UT123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cheap equipment modification">
+    <PageReference>UT15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemscanners">
+    <PageReference>UT64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemsniffers">
+    <PageReference>UT61-62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chip slots">
+    <PageReference>UT216</PageReference>
+    <Child ReferenceText="advantage">
+      <PageReference>UT30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chrysalis machines">
+    <PageReference>UT201-202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clamshell armor">
+    <PageReference>UT176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleaning">
+    <Child ReferenceText="swarms">
+      <PageReference>UT69-70</PageReference>
+    </Child>
+    <Child ReferenceText="gel">
+      <PageReference>UT38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Climate control for protective gear">
+    <PageReference>UT171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clinical mind transference equipment">
+    <PageReference>UT221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloaking force screen variant">
+    <PageReference>UT192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloning">
+    <PageReference>UT206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close assault weapons">
+    <PageReference>UT136</PageReference>
+    <PageReference>UT138</PageReference>
+    <Child ReferenceText="Gauss">
+      <PageReference>UT141</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <PageReference>UT38-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cognitive enhancement">
+    <PageReference>UT217-218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coilguns">
+    <PageReference>UT141-143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Com taps">
+    <PageReference>UT105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <Child ReferenceText="armor">
+      <PageReference>UT179-180</PageReference>
+      <PageReference>UT183</PageReference>
+      <PageReference>UT186</PageReference>
+    </Child>
+    <Child ReferenceText="robots">
+      <PageReference>UT167-169</PageReference>
+    </Child>
+    <Child ReferenceText="suits">
+      <PageReference>UT178</PageReference>
+    </Child>
+    <Child ReferenceText="walkers">
+      <PageReference>UT182-183</PageReference>
+      <PageReference>UT186</PageReference>
+    </Child>
+    <Child ReferenceText="androids">
+      <PageReference>UT167</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combination">
+    <Child ReferenceText="sensors">
+      <PageReference>UT66</PageReference>
+    </Child>
+    <Child ReferenceText="gadgets">
+      <PageReference>UT16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Communication">
+    <PageReference>UT42-50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Communicators">
+    <PageReference>UT43-46</PageReference>
+    <SeeAlso>Encryption</SeeAlso>
+    <Child ReferenceText="with different ranges">
+      <PageReference>UT43</PageReference>
+    </Child>
+    <Child ReferenceText="standard sizes">
+      <PageReference>UT43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Compact computer modification">
+    <PageReference>UT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer">
+    <PageReference>UT21-26</PageReference>
+    <SeeAlso>Computing</SeeAlso>
+    <SeeAlso>Robots</SeeAlso>
+    <SeeAlso>Software</SeeAlso>
+    <Child ReferenceText="clothing">
+      <PageReference>UT39</PageReference>
+    </Child>
+    <Child ReferenceText="Complexity Rating">
+      <PageReference>UT21-22</PageReference>
+    </Child>
+    <Child ReferenceText="customizing hardware">
+      <PageReference>UT23</PageReference>
+    </Child>
+    <Child ReferenceText="implants">
+      <PageReference>UT215-216</PageReference>
+    </Child>
+    <Child ReferenceText="in biological shells">
+      <PageReference>UT220</PageReference>
+    </Child>
+    <Child ReferenceText="models">
+      <PageReference>UT22-23</PageReference>
+    </Child>
+    <Child ReferenceText="monitoring gear">
+      <PageReference>UT100</PageReference>
+    </Child>
+    <Child ReferenceText="pills">
+      <PageReference>UT105-106</PageReference>
+    </Child>
+    <Child ReferenceText="quantum">
+      <PageReference>UT23</PageReference>
+      <PageReference>UT47</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>UT216</PageReference>
+    </Child>
+    <Child ReferenceText="terminals">
+      <PageReference>UT23-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer Brain advantage">
+    <PageReference>UT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer intrusion equipment">
+    <PageReference>UT100</PageReference>
+    <SeeAlso>Encryption</SeeAlso>
+    <SeeAlso>Quantum Computers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer Programming skill">
+    <PageReference>UT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computing">
+    <Child ReferenceText="ubiquitous">
+      <PageReference>UT25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Construction">
+    <SeeAlso>Housing</SeeAlso>
+    <Child ReferenceText="materials">
+      <PageReference>UT80-89</PageReference>
+    </Child>
+    <Child ReferenceText="swarms">
+      <PageReference>UT86-87</PageReference>
+    </Child>
+    <Child ReferenceText="foam">
+      <PageReference>UT83</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Consumer goods">
+    <PageReference>UT38-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact poisons">
+    <PageReference>UT161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Containers">
+    <PageReference>UT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contragravity">
+    <PageReference>UT223</PageReference>
+    <SeeAlso>Gravity Control</SeeAlso>
+    <Child ReferenceText="belts">
+      <PageReference>UT231</PageReference>
+    </Child>
+    <Child ReferenceText="flyer swarmbots">
+      <PageReference>UT36</PageReference>
+    </Child>
+    <Child ReferenceText="modules">
+      <PageReference>UT75</PageReference>
+    </Child>
+    <Child ReferenceText="platforms">
+      <PageReference>UT229</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Contragravity buildings">
+    <SeeAlso>Castles in the Air</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Conversion beam weapons">
+    <PageReference>UT131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic freeways">
+    <PageReference>UT234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic power cells">
+    <PageReference>UT19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Counterfeiting equipment">
+    <PageReference>UT96-97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Counter-surveillance devices">
+    <PageReference>UT106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crash kit">
+    <PageReference>UT198</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crashwebs">
+    <PageReference>UT224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crawler swarmbots">
+    <PageReference>UT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crediline">
+    <PageReference>UT205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crew stations">
+    <PageReference>UT24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Critical repair nano">
+    <PageReference>UT206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="CTS">
+    <Child ReferenceText="cufftape">
+      <PageReference>UT107</PageReference>
+    </Child>
+    <Child ReferenceText="149 Cuffs">
+      <PageReference>UT107</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutting wire">
+    <PageReference>UT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cyber claws">
+    <PageReference>UT210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cyberhair">
+    <PageReference>UT212-213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cybernetics">
+    <PageReference>UT207-219</PageReference>
+    <Child ReferenceText="detecting and removing">
+      <PageReference>UT208</PageReference>
+    </Child>
+    <Child ReferenceText="powering">
+      <PageReference>UT208</PageReference>
+    </Child>
+    <Child ReferenceText="installation procedure">
+      <PageReference>UT207-208</PageReference>
+    </Child>
+    <Child ReferenceText="remote-controlled">
+      <PageReference>UT215</PageReference>
+    </Child>
+    <Child ReferenceText="repairing">
+      <PageReference>UT208</PageReference>
+    </Child>
+    <Child ReferenceText="second-hand">
+      <PageReference>UT208</PageReference>
+    </Child>
+    <Child ReferenceText="social effects">
+      <PageReference>UT207</PageReference>
+    </Child>
+    <Child ReferenceText="uplift">
+      <PageReference>UT218-219</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cybersuits">
+    <PageReference>UT184-185</PageReference>
+    <PageReference>UT186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cybervoders">
+    <PageReference>UT210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cybervox">
+    <PageReference>UT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cyborgs">
+    <PageReference>UT27</PageReference>
+    <PageReference>UT29</PageReference>
+    <SeeAlso>Machines as Characters</SeeAlso>
+    <Child ReferenceText="food paste">
+      <PageReference>UT73</PageReference>
+    </Child>
+    <Child ReferenceText="total brain transplants">
+      <PageReference>UT219</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Data">
+    <Child ReferenceText="dots">
+      <PageReference>UT51</PageReference>
+    </Child>
+    <Child ReferenceText="havens">
+      <PageReference>UT50</PageReference>
+    </Child>
+    <Child ReferenceText="players">
+      <PageReference>UT51</PageReference>
+    </Child>
+    <Child ReferenceText="storage computer modification">
+      <PageReference>UT23</PageReference>
+    </Child>
+    <Child ReferenceText="banks">
+      <PageReference>UT51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Databases">
+    <PageReference>UT26</PageReference>
+    <PageReference>UT54-55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Datachips">
+    <PageReference>UT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Datapads">
+    <PageReference>UT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dazzle weapons">
+    <Child ReferenceText="113 Death beams">
+      <PageReference>UT132</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Debt disadvantage">
+    <PageReference>UT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deception ECM">
+    <PageReference>UT99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deceptive">
+    <Child ReferenceText="sonar jammers">
+      <PageReference>UT99</PageReference>
+    </Child>
+    <Child ReferenceText="radar jammers">
+      <PageReference>UT99</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Decontamination swarms">
+    <PageReference>UT87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Decryption programs">
+    <PageReference>UT47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dedicated artificial intelligences">
+    <PageReference>UT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defense">
+    <Child ReferenceText="systems">
+      <PageReference>UT187-190</PageReference>
+    </Child>
+    <Child ReferenceText="globes">
+      <PageReference>UT102</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Deflector shield cities">
+    <PageReference>UT72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defoliator swarms">
+    <PageReference>UT87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delusions disadvantage">
+    <PageReference>UT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demolitions">
+    <PageReference>UT88-89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dependents disadvantage">
+    <PageReference>UT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Depilatory cream">
+    <PageReference>UT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Desert environment systems">
+    <PageReference>UT189</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Desert environmental suits">
+    <PageReference>UT177</PageReference>
+    <PageReference>UT178</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Devourer swarms">
+    <PageReference>UT169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diagnostic">
+    <Child ReferenceText="computers">
+      <PageReference>UT151</PageReference>
+    </Child>
+    <Child ReferenceText="probes">
+      <PageReference>UT197</PageReference>
+    </Child>
+    <Child ReferenceText="sensors">
+      <PageReference>UT197</PageReference>
+    </Child>
+    <Child ReferenceText="webs">
+      <PageReference>UT197</PageReference>
+    </Child>
+    <Child ReferenceText="beds">
+      <PageReference>UT197</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Digital cameras">
+    <PageReference>UT51</PageReference>
+    <SeeAlso>Passive Sensors</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Digital data storage media">
+    <PageReference>UT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Digital intelligences">
+    <PageReference>UT26</PageReference>
+    <SeeAlso>Artificial Intelligences</SeeAlso>
+    <SeeAlso>Machine Intelligence Lenses</SeeAlso>
+    <SeeAlso>Mind Emulation</SeeAlso>
+    <SeeAlso>Uploading Minds</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Digital mind">
+    <Child ReferenceText="implanted">
+      <PageReference>UT215</PageReference>
+      <PageReference>UT216</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Digital shampoo">
+    <PageReference>UT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dimension travel">
+    <PageReference>UT234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dimensional interfaces">
+    <PageReference>UT73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Direct neural interfaces">
+    <PageReference>UT48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Directional Sound advantage">
+    <PageReference>UT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disassembler">
+    <Child ReferenceText="swarms">
+      <PageReference>UT169</PageReference>
+    </Child>
+    <Child ReferenceText="nanoglop">
+      <PageReference>UT161</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Discriminatory Senses advantage">
+    <PageReference>UT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disguised equipment modification">
+    <PageReference>UT15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disguises">
+    <PageReference>UT97-98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disintegrators">
+    <PageReference>UT130</PageReference>
+    <Child ReferenceText="field">
+      <PageReference>UT103</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Displacers">
+    <PageReference>UT131</PageReference>
+    <PageReference>UT132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distortion chips">
+    <PageReference>UT99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distortion field belts">
+    <PageReference>UT99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diver propulsion systems">
+    <PageReference>UT228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Document fabricators">
+    <PageReference>UT96-97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Domed cities">
+    <PageReference>UT71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dominator nano">
+    <PageReference>UT162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Downloading minds">
+    <PageReference>UT220-221</PageReference>
+    <SeeAlso>Replicators</SeeAlso>
+    <SeeAlso>Uploading Minds</SeeAlso>
+    <Child ReferenceText="replicator based">
+      <PageReference>UT221</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Downloading nanosurgery">
+    <PageReference>UT221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dream">
+    <Child ReferenceText="teachers">
+      <PageReference>UT59</PageReference>
+    </Child>
+    <Child ReferenceText="nets">
+      <PageReference>UT103</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dreamgames">
+    <PageReference>UT55</PageReference>
+    <Child ReferenceText="addiction to">
+      <PageReference>UT55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drones">
+    <PageReference>UT26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drop capsules">
+    <PageReference>UT232</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drugs">
+    <PageReference>UT204-206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drysuits">
+    <PageReference>UT177</PageReference>
+    <PageReference>UT178</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="D-tags">
+    <PageReference>UT151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dust swarmbots">
+    <PageReference>UT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duty disadvantage">
+    <PageReference>UT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dynamic cars">
+    <PageReference>UT225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dynamic holotech">
+    <PageReference>UT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dyson">
+    <Child ReferenceText="classic spheres">
+      <PageReference>UT72</PageReference>
+    </Child>
+    <Child ReferenceText="rigid spheres">
+      <PageReference>UT72</PageReference>
+    </Child>
+    <Child ReferenceText="trees">
+      <PageReference>UT71</PageReference>
+    </Child>
+    <Child ReferenceText="bubble">
+      <PageReference>UT72</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ecstasy machines">
+    <PageReference>UT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Education">
+    <PageReference>UT51-59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electrolasers">
+    <PageReference>UT119-120</PageReference>
+    <Child ReferenceText="fences">
+      <PageReference>UT101</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Electromagnetic">
+    <Child ReferenceText="guns">
+      <PageReference>UT141-143</PageReference>
+    </Child>
+    <Child ReferenceText="ammunition">
+      <PageReference>UT143</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>UT187</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronic countermeasures">
+    <PageReference>UT98-100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronic ecstasy">
+    <PageReference>UT40</PageReference>
+    <PageReference>UT121-122</PageReference>
+    <PageReference>UT165-166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronic support measures">
+    <PageReference>UT62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronic thumbs">
+    <PageReference>UT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronics Repair skill">
+    <PageReference>UT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electro-optical">
+    <Child ReferenceText="surveillance cameras">
+      <PageReference>UT60</PageReference>
+    </Child>
+    <Child ReferenceText="binoculars">
+      <PageReference>UT60</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Electrothermal-chemical weapons">
+    <PageReference>UT139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="EMA">
+    <PageReference>UT187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emergency support units">
+    <PageReference>UT197-198</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="EMP">
+    <Child ReferenceText="warheads">
+      <PageReference>UT157</PageReference>
+    </Child>
+    <Child ReferenceText="guns">
+      <PageReference>UT121</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Encryption">
+    <PageReference>UT46-47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemies disadvantage">
+    <PageReference>UT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy">
+    <Child ReferenceText="collection">
+      <PageReference>UT20-21</PageReference>
+    </Child>
+    <Child ReferenceText="force screen variant">
+      <PageReference>UT192</PageReference>
+    </Child>
+    <Child ReferenceText="warheads">
+      <PageReference>UT157-159</PageReference>
+    </Child>
+    <Child ReferenceText="cloth">
+      <PageReference>UT174</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Engineer skill">
+    <PageReference>UT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Entangled message particles">
+    <PageReference>UT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Entertainment">
+    <PageReference>UT40-41</PageReference>
+    <SeeAlso>Cybervox</SeeAlso>
+    <SeeAlso>Dreamgames</SeeAlso>
+    <SeeAlso>Electronic Ecstasy</SeeAlso>
+    <SeeAlso>Holoventure</SeeAlso>
+    <SeeAlso>Media Players</SeeAlso>
+    <SeeAlso>Psychosonic Instruments</SeeAlso>
+    <SeeAlso>Sensies</SeeAlso>
+    <Child ReferenceText="consoles">
+      <PageReference>UT51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Envirobags">
+    <PageReference>UT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Environmental">
+    <Child ReferenceText="suits">
+      <PageReference>UT176-181</PageReference>
+    </Child>
+    <Child ReferenceText="tech">
+      <PageReference>UT77-79</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>UT176-181</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment control">
+    <PageReference>UT11-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment statistics format">
+    <PageReference>UT16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eraser weapons">
+    <PageReference>UT132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ESM">
+    <PageReference>UT62</PageReference>
+    <PageReference>UT188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ESP">
+    <PageReference>UT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ESU">
+    <PageReference>UT197-198</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ETC">
+    <PageReference>UT139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ETS">
+    <PageReference>UT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Euphoria machines">
+    <PageReference>UT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exofield belts">
+    <PageReference>UT181</PageReference>
+    <PageReference>UT182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exophase field generators">
+    <PageReference>UT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exoskeletons">
+    <PageReference>UT181-182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exotic power cells">
+    <PageReference>UT18</PageReference>
+    <PageReference>UT19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expedition">
+    <Child ReferenceText="suits">
+      <PageReference>UT178</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>UT74-80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Expendable jammer warheads">
+    <PageReference>UT157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expensive equipment modification">
+    <PageReference>UT15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exploration robots">
+    <PageReference>UT79-80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explorer swarms">
+    <PageReference>UT80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosive collars">
+    <PageReference>UT107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosives">
+    <PageReference>UT88-89</PageReference>
+    <SeeAlso>Warheads</SeeAlso>
+    <Child ReferenceText="scanner">
+      <PageReference>UT104</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Extensible sensor pods">
+    <PageReference>UT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="External power">
+    <PageReference>UT20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Life advantage">
+    <PageReference>UT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extractors">
+    <PageReference>UT110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eyes">
+    <Child ReferenceText="thermal imaging">
+      <PageReference>UT214</PageReference>
+    </Child>
+    <Child ReferenceText="bionic">
+      <PageReference>UT209</PageReference>
+      <PageReference>UT215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fabricators">
+    <PageReference>UT90-91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Factory production lines">
+    <PageReference>UT89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast computer modification">
+    <PageReference>UT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feedstock pipes">
+    <PageReference>UT93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fences">
+    <PageReference>UT102-103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Field-jacketed beam weapons option">
+    <PageReference>UT133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Filter">
+    <Child ReferenceText="masks">
+      <PageReference>UT177</PageReference>
+    </Child>
+    <Child ReferenceText="skin">
+      <PageReference>UT177</PageReference>
+    </Child>
+    <Child ReferenceText="implants">
+      <PageReference>UT210</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Filtration canteens">
+    <PageReference>UT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Finger paws">
+    <PageReference>UT218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire extinguishers">
+    <PageReference>UT87</PageReference>
+    <PageReference>UT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearm accessories">
+    <PageReference>UT149-152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firefly swarms">
+    <PageReference>UT74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firefoam">
+    <PageReference>UT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="First aid kits">
+    <PageReference>UT198</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fission generators">
+    <PageReference>UT20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flamers (plasma)">
+    <PageReference>UT127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flare warheads">
+    <PageReference>UT153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flashlights">
+    <PageReference>UT74</PageReference>
+    <PageReference>UT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flatcams">
+    <PageReference>UT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flesh pockets">
+    <PageReference>UT210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flexible houses">
+    <PageReference>UT71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flexible (printed) computers">
+    <PageReference>UT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flier swarmbots">
+    <PageReference>UT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flight advantage">
+    <PageReference>UT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flight packs">
+    <PageReference>UT230-231</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Floater chairs">
+    <PageReference>UT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Floater missiles">
+    <PageReference>UT168-169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Floating furniture">
+    <PageReference>UT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fluid projectors">
+    <PageReference>UT134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying cars">
+    <PageReference>UT225-226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foams">
+    <PageReference>UT77</PageReference>
+    <PageReference>UT83</PageReference>
+    <PageReference>UT87</PageReference>
+    <PageReference>UT160-161</PageReference>
+    <PageReference>UT187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <PageReference>UT73-74</PageReference>
+    <Child ReferenceText="factories">
+      <PageReference>UT70</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Force">
+    <Child ReferenceText="blades">
+      <PageReference>UT166</PageReference>
+    </Child>
+    <Child ReferenceText="glaives">
+      <PageReference>UT166</PageReference>
+    </Child>
+    <Child ReferenceText="swords">
+      <PageReference>UT166</PageReference>
+    </Child>
+    <Child ReferenceText="wards">
+      <PageReference>UT193</PageReference>
+    </Child>
+    <Child ReferenceText="warheads">
+      <PageReference>UT158</PageReference>
+    </Child>
+    <Child ReferenceText="whips">
+      <PageReference>UT166</PageReference>
+    </Child>
+    <Child ReferenceText="beams">
+      <PageReference>UT128-129</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Force fields">
+    <PageReference>UT190-195</PageReference>
+    <Child ReferenceText="houses">
+      <PageReference>UT72</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Force screens and shields">
+    <PageReference>UT190-193</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forensic swarms">
+    <PageReference>UT107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forensics equipment">
+    <PageReference>UT106-107</PageReference>
+    <SeeAlso>Chemsniffers</SeeAlso>
+    <SeeAlso>Laboratories</SeeAlso>
+    <SeeAlso>Medscanner</SeeAlso>
+    <SeeAlso>Timescanners</SeeAlso>
+    <SeeAlso>Ultrascanners</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Forgery equipment">
+    <PageReference>UT96-97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fragwire">
+    <PageReference>UT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FTL">
+    <Child ReferenceText="computer modification">
+      <PageReference>UT23</PageReference>
+    </Child>
+    <Child ReferenceText="radios">
+      <PageReference>UT46</PageReference>
+    </Child>
+    <Child ReferenceText="beam weapons option">
+      <PageReference>UT133</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fuel cells">
+    <PageReference>UT18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Furry biomorphic lens">
+    <PageReference>UT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fusion">
+    <Child ReferenceText="guns">
+      <PageReference>UT127</PageReference>
+      <PageReference>UT128</PageReference>
+    </Child>
+    <Child ReferenceText="generators">
+      <PageReference>UT20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadget control">
+    <PageReference>UT11-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gamma-ray laser torches">
+    <PageReference>UT85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gases used in combat">
+    <PageReference>UT159-160</PageReference>
+    <SeeAlso>Biochemical Warheads</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Gauss guns">
+    <PageReference>UT141-143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gecko">
+    <Child ReferenceText="gear">
+      <PageReference>UT96</PageReference>
+    </Child>
+    <Child ReferenceText="adhesive">
+      <PageReference>UT83</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Generators">
+    <PageReference>UT20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genius computer modification">
+    <PageReference>UT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genius missiles">
+    <PageReference>UT168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost particle beam weapons">
+    <PageReference>UT131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost programs">
+    <PageReference>UT220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gill">
+    <Child ReferenceText="suits">
+      <PageReference>UT178</PageReference>
+    </Child>
+    <Child ReferenceText="implants">
+      <PageReference>UT213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Glare-resistant protective gear">
+    <PageReference>UT171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Global positioning system receiver">
+    <PageReference>UT74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glow sticks">
+    <PageReference>UT74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goggles">
+    <PageReference>UT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GPS receivers">
+    <PageReference>UT74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grasers">
+    <PageReference>UT118</PageReference>
+    <Child ReferenceText="fences">
+      <PageReference>UT102</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grav">
+    <Child ReferenceText="guns">
+      <PageReference>UT143</PageReference>
+    </Child>
+    <Child ReferenceText="hammers">
+      <PageReference>UT84</PageReference>
+    </Child>
+    <Child ReferenceText="jeeps">
+      <PageReference>UT226</PageReference>
+    </Child>
+    <Child ReferenceText="platforms">
+      <PageReference>UT229-230</PageReference>
+    </Child>
+    <Child ReferenceText="rams">
+      <PageReference>UT84</PageReference>
+    </Child>
+    <Child ReferenceText="speeders">
+      <PageReference>UT226</PageReference>
+    </Child>
+    <Child ReferenceText="bikes">
+      <PageReference>UT230</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravitic">
+    <Child ReferenceText="screwdrivers">
+      <PageReference>UT85</PageReference>
+    </Child>
+    <Child ReferenceText="tools">
+      <PageReference>UT85</PageReference>
+    </Child>
+    <Child ReferenceText="waldos">
+      <PageReference>UT85</PageReference>
+    </Child>
+    <Child ReferenceText="compensators">
+      <PageReference>UT152</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravitic focus beam weapons option">
+    <PageReference>UT133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Graviton beam weapons">
+    <PageReference>UT129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravity">
+    <Child ReferenceText="control">
+      <PageReference>UT78-79</PageReference>
+    </Child>
+    <Child ReferenceText="gradient crossing">
+      <PageReference>UT79</PageReference>
+    </Child>
+    <Child ReferenceText="mats">
+      <PageReference>UT79</PageReference>
+    </Child>
+    <Child ReferenceText="plates">
+      <PageReference>UT78</PageReference>
+    </Child>
+    <Child ReferenceText="screen chambers">
+      <PageReference>UT78-79</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>UT128-129</PageReference>
+    </Child>
+    <Child ReferenceText="webs">
+      <PageReference>UT103</PageReference>
+    </Child>
+    <Child ReferenceText="cloaks">
+      <PageReference>UT231</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravity-Ripple Comm advantage">
+    <PageReference>UT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravity-ripple communicators">
+    <PageReference>UT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravpacks">
+    <PageReference>UT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravscanners">
+    <PageReference>UT63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gremlin swarms">
+    <PageReference>UT169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grenade launchers">
+    <PageReference>UT136</PageReference>
+    <PageReference>UT138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grenades">
+    <PageReference>UT146-147</PageReference>
+    <SeeAlso>Warheads</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Gripboots">
+    <PageReference>UT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grooming and style items">
+    <PageReference>UT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grooming spray">
+    <PageReference>UT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Growth tanks">
+    <PageReference>UT204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="G-tubes">
+    <PageReference>UT223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns">
+    <SeeAlso>Warheads</SeeAlso>
+    <Child ReferenceText="conventional">
+      <PageReference>UT135-147</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <Child ReferenceText="High-Tech">
+      <PageReference>UT135</PageReference>
+    </Child>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>UT4</PageReference>
+      <PageReference>UT10</PageReference>
+      <PageReference>UT205</PageReference>
+      <PageReference>UT206</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GUT bug sweepers">
+    <PageReference>UT106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gyrobalance">
+    <PageReference>UT210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gyrocs">
+    <PageReference>UT144-145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hammocks">
+    <Child ReferenceText="antigrav">
+      <PageReference>UT70</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hand thrusters">
+    <PageReference>UT231</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hardened computer modification">
+    <PageReference>UT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hardsuits">
+    <PageReference>UT179</PageReference>
+    <PageReference>UT180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Harvester swarms">
+    <PageReference>UT87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HE warheads">
+    <PageReference>UT153-154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Head-Up Display">
+    <PageReference>UT24</PageReference>
+    <PageReference>UT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hearing protection for protective gear">
+    <PageReference>UT171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heatsuits">
+    <PageReference>UT177</PageReference>
+    <PageReference>UT178</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heavy lifting gear">
+    <PageReference>UT87-88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HEC warheads">
+    <PageReference>UT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helipacks">
+    <PageReference>UT230</PageReference>
+    <PageReference>UT231</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helmets">
+    <PageReference>UT176</PageReference>
+    <PageReference>UT180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HEMP warheads">
+    <PageReference>UT155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HEX suits">
+    <PageReference>UT184</PageReference>
+    <PageReference>UT186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hibernation chambers">
+    <PageReference>UT198</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden cybernetic compartments">
+    <PageReference>UT210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High-capacity computer modification">
+    <PageReference>UT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High-energy explosives">
+    <PageReference>UT88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High explosive warheads">
+    <PageReference>UT153-155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hive implants">
+    <PageReference>UT213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hollow-point warheads">
+    <PageReference>UT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holobelts">
+    <PageReference>UT98</PageReference>
+    <Child ReferenceText="holo-distort belts">
+      <PageReference>UT99</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Holofields">
+    <PageReference>UT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HoloPaper">
+    <PageReference>UT97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holoprojection">
+    <PageReference>UT24</PageReference>
+    <PageReference>UT40</PageReference>
+    <PageReference>UT52</PageReference>
+    <PageReference>UT53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holoventure">
+    <PageReference>UT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holsters">
+    <PageReference>UT151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Homing beacons">
+    <PageReference>UT105</PageReference>
+    <Child ReferenceText="couriers">
+      <PageReference>UT50</PageReference>
+    </Child>
+    <Child ReferenceText="projectiles">
+      <PageReference>UT146</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hopper swarmbots">
+    <PageReference>UT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hostile environment exosuits">
+    <PageReference>UT184</PageReference>
+    <PageReference>UT186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hotshots">
+    <PageReference>UT133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Housebots">
+    <PageReference>UT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Housing">
+    <PageReference>UT71-73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hover jeeps">
+    <PageReference>UT227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hover platforms">
+    <PageReference>UT230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hoverbikes">
+    <PageReference>UT230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hovercarts">
+    <PageReference>UT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hovercraft">
+    <PageReference>UT227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HP warheads">
+    <PageReference>UT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HUD">
+    <PageReference>UT24</PageReference>
+    <Child ReferenceText="link">
+      <PageReference>UT149</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunter missiles">
+    <PageReference>UT168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hydrophones">
+    <PageReference>UT62-63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HyMRI scanners">
+    <PageReference>UT198</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypercore">
+    <PageReference>UT156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperdense blades">
+    <PageReference>UT164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperspectral">
+    <Child ReferenceText="imaging sensors">
+      <PageReference>UT61</PageReference>
+    </Child>
+    <Child ReferenceText="eyes">
+      <PageReference>UT215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperstim">
+    <PageReference>UT205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypertime fields">
+    <PageReference>UT195</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypnogogic beams">
+    <PageReference>UT132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypo">
+    <PageReference>UT197</PageReference>
+    <PageReference>UT199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ice guns">
+    <PageReference>UT140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IFF">
+    <Child ReferenceText="interrogators">
+      <PageReference>UT151</PageReference>
+    </Child>
+    <Child ReferenceText="comms">
+      <PageReference>UT188</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Imaging radar">
+    <PageReference>UT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imaging sensor arrays">
+    <PageReference>UT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IML">
+    <PageReference>UT145</PageReference>
+    <PageReference>UT146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immune machines">
+    <PageReference>UT205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Implant">
+    <SeeAlso>ds</SeeAlso>
+    <SeeAlso>202</SeeAlso>
+    <Child ReferenceText="computers">
+      <PageReference>UT215</PageReference>
+    </Child>
+    <Child ReferenceText="radios">
+      <PageReference>UT211</PageReference>
+    </Child>
+    <Child ReferenceText="video comms">
+      <PageReference>UT211</PageReference>
+    </Child>
+    <Child ReferenceText="nets">
+      <PageReference>UT204</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Implosion">
+    <Child ReferenceText="warheads">
+      <PageReference>UT158</PageReference>
+    </Child>
+    <Child ReferenceText="beams">
+      <PageReference>UT129</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Imprint circuits">
+    <PageReference>UT38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incarnation of digital minds">
+    <PageReference>UT221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Indomitable advantage">
+    <PageReference>UT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Industrial">
+    <Child ReferenceText="megaprojects">
+      <PageReference>UT79</PageReference>
+    </Child>
+    <Child ReferenceText="water knives">
+      <PageReference>UT81</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>UT89-94</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Inertial navigation">
+    <PageReference>UT74-75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infantry missile launchers">
+    <PageReference>UT145</PageReference>
+    <PageReference>UT146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infiltration equipment">
+    <PageReference>UT95-96</PageReference>
+    <SeeAlso>Diver Propulsion</SeeAlso>
+    <SeeAlso>Flight Packs</SeeAlso>
+    <SeeAlso>Stealth Drop Capsules</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Infrared">
+    <Child ReferenceText="imaging sensors">
+      <PageReference>UT60-61</PageReference>
+    </Child>
+    <Child ReferenceText="cloaking">
+      <PageReference>UT99</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Instaskill nano">
+    <PageReference>UT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Instructor kits">
+    <PageReference>UT81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Integrating equipment">
+    <PageReference>UT15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intelligence (IQ) attribute">
+    <PageReference>UT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intelligent houses">
+    <PageReference>UT71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interactive holoprojection">
+    <PageReference>UT53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interfaces">
+    <PageReference>UT42-50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interrogation devices">
+    <PageReference>UT108-110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interstellar projectors">
+    <PageReference>UT235</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intestinal recyclers">
+    <PageReference>UT213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invisibility surfaces">
+    <PageReference>UT100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IR communicators">
+    <PageReference>UT43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jet pack">
+    <Child ReferenceText="underwater">
+      <PageReference>UT228</PageReference>
+    </Child>
+    <Child ReferenceText="nuclear">
+      <PageReference>UT231</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Karatands">
+    <PageReference>UT163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Keyboard bugs">
+    <PageReference>UT100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kinetic force screen variant">
+    <PageReference>UT192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kinetic stun setting for gravity weapons">
+    <PageReference>UT128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kitchen foodfacs">
+    <PageReference>UT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knives">
+    <PageReference>UT163-164</PageReference>
+    <PageReference>UT166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laboratories">
+    <PageReference>UT66-67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ladar">
+    <PageReference>UT64</PageReference>
+    <Child ReferenceText="military">
+      <PageReference>UT114</PageReference>
+    </Child>
+    <Child ReferenceText="smartskin">
+      <PageReference>UT64</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Laser">
+    <PageReference>UT113-119</PageReference>
+    <Child ReferenceText="chemscanners">
+      <PageReference>UT64</PageReference>
+    </Child>
+    <Child ReferenceText="communicators">
+      <PageReference>UT44</PageReference>
+    </Child>
+    <Child ReferenceText="fences">
+      <PageReference>UT101-102</PageReference>
+    </Child>
+    <Child ReferenceText="sights">
+      <PageReference>UT149</PageReference>
+    </Child>
+    <Child ReferenceText="torches">
+      <PageReference>UT80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="238 INDEX INDEX 239 Launchers">
+    <SeeAlso>Warheads</SeeAlso>
+    <Child ReferenceText="conventional">
+      <PageReference>UT135-147</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Learning aids">
+    <PageReference>UT56-57</PageReference>
+    <PageReference>UT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legality and antiques">
+    <PageReference>UT14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lie detection devices">
+    <PageReference>UT106-107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Life support for vehicles">
+    <PageReference>UT224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Life">
+    <Child ReferenceText="pods">
+      <PageReference>UT232</PageReference>
+    </Child>
+    <Child ReferenceText="support fields">
+      <PageReference>UT194</PageReference>
+    </Child>
+    <Child ReferenceText="jackets">
+      <PageReference>UT188</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lift tubes">
+    <PageReference>UT223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light support weapons">
+    <PageReference>UT136</PageReference>
+    <PageReference>UT138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lights">
+    <PageReference>UT74</PageReference>
+    <PageReference>UT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limpet mines">
+    <PageReference>UT147</PageReference>
+    <Child ReferenceText="dispensers">
+      <PageReference>UT163</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Linking equipment">
+    <PageReference>UT15-16</PageReference>
+    <SeeAlso>Cable Jacks</SeeAlso>
+    <SeeAlso>Communicators</SeeAlso>
+    <SeeAlso>Neural Interfaces</SeeAlso>
+    <SeeAlso>Optical Cables</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Liquid-propellant slugthrowers">
+    <PageReference>UT139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Liquids">
+    <PageReference>UT160-161</PageReference>
+    <SeeAlso>Biochemical Warheads</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Living flesh biomorphic lens">
+    <PageReference>UT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Living metal">
+    <PageReference>UT171</PageReference>
+    <Child ReferenceText="skin">
+      <PageReference>UT215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Living suitspray">
+    <PageReference>UT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Load-bearing equipment">
+    <PageReference>UT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locks">
+    <Child ReferenceText="electronic">
+      <PageReference>UT102</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lockpicks">
+    <PageReference>UT95-96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low-res mind copy">
+    <PageReference>UT220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="LSW">
+    <PageReference>UT136</PageReference>
+    <PageReference>UT138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Machine guns">
+    <Child ReferenceText="conventional">
+      <PageReference>UT136</PageReference>
+      <PageReference>UT138</PageReference>
+      <PageReference>UT139</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Machine intelligence lenses">
+    <PageReference>UT27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Machine meta-trait">
+    <PageReference>UT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Machines as characters">
+    <PageReference>UT27-35</PageReference>
+    <SeeAlso>Artificial Intelligences</SeeAlso>
+    <SeeAlso>Digital Intelligences</SeeAlso>
+    <SeeAlso>Robots</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Macrohabitats">
+    <PageReference>UT71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MAD">
+    <PageReference>UT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mag-lev trains">
+    <PageReference>UT223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnetized plates for protective gear">
+    <PageReference>UT187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mail delivery">
+    <PageReference>UT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maintenance of equipment">
+    <PageReference>UT14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mannequin biomorphic lens">
+    <PageReference>UT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manufacturing equipment">
+    <PageReference>UT89-94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mask spray">
+    <PageReference>UT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mass-drivers">
+    <PageReference>UT141-143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mass media">
+    <PageReference>UT58-59</PageReference>
+    <SeeAlso>Augmented Reality</SeeAlso>
+    <SeeAlso>Holoprojectors</SeeAlso>
+    <SeeAlso>Media</SeeAlso>
+    <SeeAlso>Virtual Reality</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Massage swarms">
+    <PageReference>UT41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Matter transmission">
+    <PageReference>UT50</PageReference>
+    <PageReference>UT233-235</PageReference>
+    <Child ReferenceText="booths">
+      <PageReference>UT233</PageReference>
+    </Child>
+    <Child ReferenceText="interceptors">
+      <PageReference>UT103-104</PageReference>
+    </Child>
+    <Child ReferenceText="vaults">
+      <PageReference>UT102</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="MEA">
+    <PageReference>UT160-161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meal pack">
+    <PageReference>UT73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mechanic skill">
+    <PageReference>UT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Media">
+    <PageReference>UT51-59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical">
+    <Child ReferenceText="gear">
+      <PageReference>UT196-202</PageReference>
+    </Child>
+    <Child ReferenceText="help table">
+      <PageReference>UT199</PageReference>
+    </Child>
+    <Child ReferenceText="robots">
+      <PageReference>UT202-203</PageReference>
+    </Child>
+    <Child ReferenceText="supplies">
+      <PageReference>UT199</PageReference>
+    </Child>
+    <Child ReferenceText="beds">
+      <PageReference>UT199</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Medscanners">
+    <PageReference>UT200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Megacomputers">
+    <PageReference>UT22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee weapons">
+    <PageReference>UT162-166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Memory">
+    <Child ReferenceText="batons">
+      <PageReference>UT154</PageReference>
+    </Child>
+    <Child ReferenceText="flesh">
+      <PageReference>UT211</PageReference>
+    </Child>
+    <Child ReferenceText="materials">
+      <PageReference>UT90</PageReference>
+    </Child>
+    <Child ReferenceText="scans">
+      <PageReference>UT100</PageReference>
+    </Child>
+    <Child ReferenceText="augmentation">
+      <PageReference>UT56</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Memory-beta">
+    <PageReference>UT205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Memswear">
+    <PageReference>UT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental translators">
+    <PageReference>UT48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Message bombs">
+    <PageReference>UT109</PageReference>
+    <PageReference>UT159</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Messenger pills">
+    <PageReference>UT106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metabolic nanoweapons">
+    <PageReference>UT161-162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metal embrittlement agent">
+    <PageReference>UT160-161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metamorphosis">
+    <PageReference>UT206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Micro-antimatter warheads">
+    <PageReference>UT156-157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microbots">
+    <SeeAlso>Swarmbots</SeeAlso>
+    <Child ReferenceText="swarms">
+      <PageReference>UT35</PageReference>
+    </Child>
+    <Child ReferenceText="arteries">
+      <PageReference>UT189</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Micro-manipulator tool benches">
+    <PageReference>UT82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Micromissiles">
+    <PageReference>UT144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microphones">
+    <Child ReferenceText="laser">
+      <PageReference>UT105</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Microplanes">
+    <PageReference>UT230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microwave">
+    <Child ReferenceText="disrupters">
+      <PageReference>UT121</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>UT120-121</PageReference>
+    </Child>
+    <Child ReferenceText="area denial">
+      <PageReference>UT120</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind disrupters">
+    <PageReference>UT132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind emulation">
+    <PageReference>UT29</PageReference>
+    <PageReference>UT220</PageReference>
+    <SeeAlso>Digital Intelligences</SeeAlso>
+    <SeeAlso>Machine Intelligence Lenses</SeeAlso>
+    <Child ReferenceText="backup storage and">
+      <PageReference>UT220</PageReference>
+    </Child>
+    <Child ReferenceText="ghost comps">
+      <PageReference>UT220</PageReference>
+    </Child>
+    <Child ReferenceText="multiple copies and">
+      <PageReference>UT220</PageReference>
+    </Child>
+    <Child ReferenceText="programs">
+      <PageReference>UT220</PageReference>
+    </Child>
+    <Child ReferenceText="robot bodies and">
+      <PageReference>UT220</PageReference>
+    </Child>
+    <Child ReferenceText="templates">
+      <PageReference>UT220</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind probes">
+    <PageReference>UT110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind voyages">
+    <PageReference>UT235</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mindrippers">
+    <PageReference>UT122</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mines">
+    <PageReference>UT101-104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minifacs">
+    <PageReference>UT90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minigates">
+    <PageReference>UT234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mininukes">
+    <PageReference>UT156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minisubs">
+    <PageReference>UT228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missiles">
+    <SeeAlso>Warheads</SeeAlso>
+    <Child ReferenceText="conventional">
+      <PageReference>UT145-146</PageReference>
+      <PageReference>UT135-147</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="MLAWS">
+    <PageReference>UT145</PageReference>
+    <PageReference>UT146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modifying equipment">
+    <PageReference>UT15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modular Abilities advantage">
+    <PageReference>UT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modular cages">
+    <PageReference>UT75-76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Molecular bonders">
+    <PageReference>UT84-85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Molecular glue">
+    <PageReference>UT83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monochain warheads">
+    <PageReference>UT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monowire">
+    <PageReference>UT82</PageReference>
+    <Child ReferenceText="blades">
+      <PageReference>UT163</PageReference>
+    </Child>
+    <Child ReferenceText="fence">
+      <PageReference>UT103</PageReference>
+    </Child>
+    <Child ReferenceText="switchblades">
+      <PageReference>UT163-164</PageReference>
+    </Child>
+    <Child ReferenceText="whips">
+      <PageReference>UT163</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Morph axes">
+    <PageReference>UT83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Morphazine">
+    <PageReference>UT205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Morphwear">
+    <PageReference>UT189</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mortars">
+    <Child ReferenceText="conventional">
+      <PageReference>UT136</PageReference>
+      <PageReference>UT138</PageReference>
+      <PageReference>UT139</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="MT booths">
+    <PageReference>UT233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MT interceptors">
+    <PageReference>UT103-104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-media walls">
+    <PageReference>UT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-mode radar">
+    <PageReference>UT64-65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple light anti-armor weapon systems">
+    <PageReference>UT145</PageReference>
+    <PageReference>UT146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multispectral bug sweepers">
+    <PageReference>UT106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Musk spray">
+    <PageReference>UT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nail guns">
+    <PageReference>UT82-83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanobots">
+    <PageReference>UT59</PageReference>
+    <PageReference>UT69</PageReference>
+    <PageReference>UT83-85</PageReference>
+    <PageReference>UT91-93</PageReference>
+    <PageReference>UT98</PageReference>
+    <PageReference>UT105</PageReference>
+    <PageReference>UT161-162</PageReference>
+    <PageReference>UT200-201</PageReference>
+    <PageReference>UT204-206</PageReference>
+    <PageReference>UT221</PageReference>
+    <PageReference>UT35</PageReference>
+    <SeeAlso>Swarmbots</SeeAlso>
+    <SeeAlso>Utility Fog</SeeAlso>
+    <Child ReferenceText="self-replicating">
+      <PageReference>UT92</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanobugs">
+    <PageReference>UT105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanoburn">
+    <PageReference>UT161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanocleansers">
+    <PageReference>UT69</PageReference>
+    <Child ReferenceText="industrial">
+      <PageReference>UT83</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanofactories">
+    <PageReference>UT91-93</PageReference>
+    <PageReference>UT204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanoglop">
+    <PageReference>UT161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanomachines">
+    <SeeAlso>Nanobots</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanomist">
+    <PageReference>UT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanomorph">
+    <PageReference>UT111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanostasis">
+    <PageReference>UT200-201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanosuits">
+    <PageReference>UT185</PageReference>
+    <PageReference>UT186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanothorn blades">
+    <PageReference>UT164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanotracers">
+    <PageReference>UT161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanoweave">
+    <PageReference>UT172</PageReference>
+    <PageReference>UT175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nasal filter plugs">
+    <PageReference>UT188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Navigation instruments">
+    <PageReference>UT74-75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NBC kits">
+    <PageReference>UT224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Near miss indicators">
+    <PageReference>UT188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Needlers">
+    <PageReference>UT139-143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nerve guns, 121-122 Nerve, gas">
+    <PageReference>UT160</PageReference>
+    <Child ReferenceText="poison">
+      <PageReference>UT161</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Networks">
+    <PageReference>UT49-50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neural">
+    <Child ReferenceText="inhibitors">
+      <PageReference>UT201</PageReference>
+    </Child>
+    <Child ReferenceText="jacks">
+      <PageReference>UT217</PageReference>
+    </Child>
+    <Child ReferenceText="pacifiers">
+      <PageReference>UT108</PageReference>
+    </Child>
+    <Child ReferenceText="programmers">
+      <PageReference>UT109-110</PageReference>
+    </Child>
+    <Child ReferenceText="uplift">
+      <PageReference>UT218-219</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>UT121-122</PageReference>
+    </Child>
+    <Child ReferenceText="communicators">
+      <PageReference>UT46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neural disrupters">
+    <PageReference>UT40</PageReference>
+    <PageReference>UT121-122</PageReference>
+    <Child ReferenceText="fields">
+      <PageReference>UT103</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neural induction">
+    <Child ReferenceText="helmets">
+      <PageReference>UT49</PageReference>
+    </Child>
+    <Child ReferenceText="pads">
+      <PageReference>UT49</PageReference>
+    </Child>
+    <Child ReferenceText="fields">
+      <PageReference>UT49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neural input">
+    <Child ReferenceText="pads">
+      <PageReference>UT48</PageReference>
+    </Child>
+    <Child ReferenceText="receivers">
+      <PageReference>UT48</PageReference>
+    </Child>
+    <Child ReferenceText="headsets">
+      <PageReference>UT48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neural interfaces">
+    <PageReference>UT48-49</PageReference>
+    <PageReference>UT216-217</PageReference>
+    <SeeAlso>Brainlocks</SeeAlso>
+    <SeeAlso>Cybernetics</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Neurocomms">
+    <PageReference>UT46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neurogloves">
+    <PageReference>UT165</PageReference>
+    <PageReference>UT166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neurolashes">
+    <PageReference>UT165-166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neuronic restraints">
+    <PageReference>UT108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neurostimulators">
+    <PageReference>UT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neurotherapy implants">
+    <PageReference>UT217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neutrino Comm advantage">
+    <PageReference>UT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neutrino communicators">
+    <PageReference>UT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night shades">
+    <PageReference>UT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night vision optics">
+    <PageReference>UT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NMI">
+    <PageReference>UT188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Sense of Humor disadvantage">
+    <PageReference>UT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonhumans">
+    <Child ReferenceText="gear for">
+      <PageReference>UT116</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nuclear">
+    <Child ReferenceText="fields">
+      <PageReference>UT193</PageReference>
+    </Child>
+    <Child ReferenceText="jammers">
+      <PageReference>UT193</PageReference>
+    </Child>
+    <Child ReferenceText="projectors">
+      <PageReference>UT193</PageReference>
+    </Child>
+    <Child ReferenceText="warheads">
+      <PageReference>UT156-157</PageReference>
+    </Child>
+    <Child ReferenceText="dampers">
+      <PageReference>UT193</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nuclear-biological-chemical kits">
+    <PageReference>UT224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nucleonic beam weapons">
+    <PageReference>UT130-131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nursebots">
+    <PageReference>UT202-203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="O’Neill cylinders">
+    <PageReference>UT71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Odor synthesizers">
+    <PageReference>UT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Omni-blasters">
+    <PageReference>UT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-time pads">
+    <PageReference>UT47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Opaque force screen variant">
+    <PageReference>UT192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Optical cable">
+    <PageReference>UT43</PageReference>
+    <SeeAlso>Networks</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Overheating beam weapons">
+    <PageReference>UT133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pacifism disadvantage">
+    <PageReference>UT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paint carbines">
+    <PageReference>UT139</PageReference>
+    <PageReference>UT140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Painter swarms">
+    <PageReference>UT87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paralysis gas">
+    <PageReference>UT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paramedical swarms">
+    <PageReference>UT201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paranoia disadvantage">
+    <PageReference>UT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parasite seeds">
+    <PageReference>UT162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Particle accelerators">
+    <PageReference>UT122-124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Passive electromagnetic sensor arrays">
+    <PageReference>UT61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Passive sensors">
+    <Child ReferenceText="configurations for visual">
+      <PageReference>UT60</PageReference>
+    </Child>
+    <Child ReferenceText="visual">
+      <PageReference>UT60-61</PageReference>
+    </Child>
+    <Child ReferenceText="indirect">
+      <PageReference>UT61-63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrons advantage">
+    <PageReference>UT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="PDW">
+    <PageReference>UT135</PageReference>
+    <Child ReferenceText="Gauss">
+      <PageReference>UT141</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Penlights">
+    <PageReference>UT74</PageReference>
+    <PageReference>UT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Permeable force screen variant">
+    <PageReference>UT192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal defense weapons">
+    <PageReference>UT135</PageReference>
+    <Child ReferenceText="Gauss">
+      <PageReference>UT141</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal gear">
+    <PageReference>UT38-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Personality implants">
+    <PageReference>UT218</PageReference>
+    <Child ReferenceText="overlays">
+      <PageReference>UT221</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="PESA">
+    <PageReference>UT61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pesticide swarms">
+    <PageReference>UT87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Petbots">
+    <PageReference>UT41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phantom places">
+    <PageReference>UT72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pheromone spray">
+    <PageReference>UT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Physician’s equipment">
+    <PageReference>UT199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pistols">
+    <Child ReferenceText="conventional">
+      <PageReference>UT135</PageReference>
+      <PageReference>UT137</PageReference>
+      <PageReference>UT139</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pitons">
+    <PageReference>UT76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planetary brains">
+    <PageReference>UT79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planetary networks">
+    <PageReference>UT49-50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planetary travel">
+    <PageReference>UT222-223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plasma">
+    <Child ReferenceText="guns">
+      <PageReference>UT127-128</PageReference>
+    </Child>
+    <Child ReferenceText="torches">
+      <PageReference>UT80</PageReference>
+    </Child>
+    <Child ReferenceText="warheads">
+      <PageReference>UT158</PageReference>
+    </Child>
+    <Child ReferenceText="explosive">
+      <PageReference>UT88</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Plastex B">
+    <PageReference>UT88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plasti-skin">
+    <PageReference>UT198-199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Play swarms">
+    <PageReference>UT41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Playback devices">
+    <PageReference>UT51-53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pneumohypos">
+    <PageReference>UT199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pocket analyzers">
+    <PageReference>UT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pocket medics">
+    <PageReference>UT200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pocket packs">
+    <PageReference>UT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pocket universes">
+    <PageReference>UT73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pocketcams">
+    <PageReference>UT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisons">
+    <PageReference>UT161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pollinator swarms">
+    <PageReference>UT87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Polyskin">
+    <PageReference>UT213-214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Portacams">
+    <PageReference>UT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Portal scanners">
+    <PageReference>UT104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power">
+    <Child ReferenceText="civilization and">
+      <PageReference>UT21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power cells">
+    <PageReference>UT18-20</PageReference>
+    <PageReference>UT36-37</PageReference>
+    <Child ReferenceText="exploding">
+      <PageReference>UT19</PageReference>
+    </Child>
+    <Child ReferenceText="flexible">
+      <PageReference>UT19</PageReference>
+    </Child>
+    <Child ReferenceText="jury-rigging">
+      <PageReference>UT19</PageReference>
+    </Child>
+    <Child ReferenceText="nonrechargeable">
+      <PageReference>UT19</PageReference>
+    </Child>
+    <Child ReferenceText="replacing">
+      <PageReference>UT19</PageReference>
+    </Child>
+    <Child ReferenceText="sizes">
+      <PageReference>UT19</PageReference>
+    </Child>
+    <Child ReferenceText="superscience">
+      <PageReference>UT133</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power dampers">
+    <PageReference>UT108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power sleeves">
+    <PageReference>UT181</PageReference>
+    <PageReference>UT182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power supplies">
+    <PageReference>UT18-21</PageReference>
+    <PageReference>UT36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power tools">
+    <PageReference>UT81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powered suits">
+    <PageReference>UT181-186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powering equipment">
+    <PageReference>UT15</PageReference>
+    <PageReference>UT18-20</PageReference>
+    <PageReference>UT36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Preloaded barrels">
+    <PageReference>UT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressor beams">
+    <PageReference>UT88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure boxes">
+    <PageReference>UT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure tents">
+    <PageReference>UT76-77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressurized protective gear">
+    <PageReference>UT171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Printed computer modification">
+    <PageReference>UT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Privacy fields">
+    <PageReference>UT106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Private realities">
+    <PageReference>UT55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Programmable">
+    <Child ReferenceText="wallets">
+      <PageReference>UT97</PageReference>
+    </Child>
+    <Child ReferenceText="perfumes">
+      <PageReference>UT52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Protective">
+    <Child ReferenceText="suits">
+      <PageReference>UT178</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>UT171-181</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Provisions dispensers">
+    <PageReference>UT187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Proximity detonation">
+    <PageReference>UT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi amplifiers">
+    <PageReference>UT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi-bombs">
+    <PageReference>UT158-159</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic">
+    <Child ReferenceText="shields">
+      <PageReference>UT188</PageReference>
+    </Child>
+    <Child ReferenceText="neutralizers">
+      <PageReference>UT132</PageReference>
+    </Child>
+    <Child ReferenceText="beam weapons">
+      <PageReference>UT132</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psych implants">
+    <PageReference>UT217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychiatric equipment">
+    <PageReference>UT203-204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychology skill">
+    <PageReference>UT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychosonic instruments">
+    <PageReference>UT41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pulsars">
+    <PageReference>UT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pulse carbines">
+    <PageReference>UT121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Puppet implants">
+    <PageReference>UT218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Purge drug">
+    <PageReference>UT205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quantum computers">
+    <PageReference>UT23</PageReference>
+    <PageReference>UT47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quickheal">
+    <PageReference>UT206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rad counters">
+    <PageReference>UT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radar">
+    <PageReference>UT64-65</PageReference>
+    <PageReference>UT99-100</PageReference>
+    <PageReference>UT188</PageReference>
+    <Child ReferenceText="stealth">
+      <PageReference>UT100</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Radar/laser detectors">
+    <PageReference>UT188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiant prism cloud">
+    <PageReference>UT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation badges">
+    <PageReference>UT188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation PF for protective gear">
+    <PageReference>UT171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radio communicators">
+    <PageReference>UT44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radscanners">
+    <PageReference>UT63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Railguns">
+    <PageReference>UT141-143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Razortape">
+    <PageReference>UT107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reactionless missiles">
+    <PageReference>UT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reactive armor paste">
+    <PageReference>UT189</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realistic flesh biomorphic lens">
+    <PageReference>UT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reality disruption beam weapons">
+    <PageReference>UT131-132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reality stabilizers">
+    <PageReference>UT194-195</PageReference>
+    <SeeAlso>Stasis Disrupters</SeeAlso>
+    <SeeAlso>Stasis Keys</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Reality-stabilized force screen variant">
+    <PageReference>UT192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Receive-only communicators">
+    <PageReference>UT46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recognition grips">
+    <PageReference>UT150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recording devices">
+    <PageReference>UT51-53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recreational swarms">
+    <PageReference>UT41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regeneration">
+    <Child ReferenceText="rays">
+      <PageReference>UT202</PageReference>
+    </Child>
+    <Child ReferenceText="tanks">
+      <PageReference>UT201</PageReference>
+    </Child>
+    <Child ReferenceText="nano">
+      <PageReference>UT206</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Regenerators">
+    <PageReference>UT202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rejuvenation tanks">
+    <PageReference>UT201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remote-controlled weapons">
+    <PageReference>UT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repair">
+    <Child ReferenceText="swarms">
+      <PageReference>UT87</PageReference>
+    </Child>
+    <Child ReferenceText="nanopaste">
+      <PageReference>UT84</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Repairing equipment">
+    <PageReference>UT14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Replicators">
+    <PageReference>UT92</PageReference>
+    <PageReference>UT93-94</PageReference>
+    <PageReference>UT204</PageReference>
+    <SeeAlso>Uploading Minds</SeeAlso>
+    <Child ReferenceText="nanoglop">
+      <PageReference>UT161</PageReference>
+    </Child>
+    <Child ReferenceText="software">
+      <PageReference>UT94</PageReference>
+    </Child>
+    <Child ReferenceText="templates">
+      <PageReference>UT94</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reputation advantage">
+    <PageReference>UT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rescue">
+    <Child ReferenceText="gear">
+      <PageReference>UT87-88</PageReference>
+    </Child>
+    <Child ReferenceText="bubbles">
+      <PageReference>UT77-78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Respirators">
+    <PageReference>UT177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Respirocytes">
+    <PageReference>UT206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Responsive beds">
+    <PageReference>UT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Responsive fabric">
+    <PageReference>UT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restraint devices">
+    <PageReference>UT107-108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="RF bug detectors">
+    <PageReference>UT106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rifles">
+    <Child ReferenceText="conventional">
+      <PageReference>UT135-136</PageReference>
+      <PageReference>UT137</PageReference>
+      <PageReference>UT139</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ringworlds">
+    <PageReference>UT72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Riot">
+    <SeeAlso>Construction Foam</SeeAlso>
+    <SeeAlso>Construction Swarms</SeeAlso>
+    <SeeAlso>Force Wards</SeeAlso>
+    <SeeAlso>Force Shields</SeeAlso>
+    <SeeAlso>Microwave Area Denial</SeeAlso>
+    <SeeAlso>Neurolash</SeeAlso>
+    <SeeAlso>Sonic Nauseators</SeeAlso>
+    <SeeAlso>Stun Wands</SeeAlso>
+    <SeeAlso>Warbler Warheads</SeeAlso>
+    <Child ReferenceText="gas">
+      <PageReference>UT159</PageReference>
+    </Child>
+    <Child ReferenceText="shields">
+      <PageReference>UT188</PageReference>
+    </Child>
+    <Child ReferenceText="control devices">
+      <PageReference>UT107-108</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ripsnakes">
+    <PageReference>UT214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robobugs">
+    <PageReference>UT111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robofacs">
+    <PageReference>UT90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robotic production lines">
+    <PageReference>UT90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robots">
+    <PageReference>UT26-27</PageReference>
+    <PageReference>UT41</PageReference>
+    <PageReference>UT59</PageReference>
+    <PageReference>UT69</PageReference>
+    <PageReference>UT79-80</PageReference>
+    <PageReference>UT82</PageReference>
+    <PageReference>UT85-87</PageReference>
+    <PageReference>UT90-92</PageReference>
+    <PageReference>UT110-111</PageReference>
+    <PageReference>UT167-169</PageReference>
+    <PageReference>UT202-203</PageReference>
+    <SeeAlso>Android</SeeAlso>
+    <SeeAlso>Digital Intelligences</SeeAlso>
+    <SeeAlso>Machine Intelligence Lenses</SeeAlso>
+    <SeeAlso>Machines as Characters</SeeAlso>
+    <SeeAlso>Microbots</SeeAlso>
+    <SeeAlso>Nanobots</SeeAlso>
+    <SeeAlso>Swarmbots</SeeAlso>
+    <Child ReferenceText="damage and injury">
+      <PageReference>UT34</PageReference>
+    </Child>
+    <Child ReferenceText="game effects of machine intelligence">
+      <PageReference>UT34</PageReference>
+    </Child>
+    <Child ReferenceText="mind emulation and">
+      <PageReference>UT220</PageReference>
+    </Child>
+    <Child ReferenceText="purchasing bodies">
+      <PageReference>UT29</PageReference>
+    </Child>
+    <Child ReferenceText="renting">
+      <PageReference>UT26</PageReference>
+    </Child>
+    <Child ReferenceText="social interaction">
+      <PageReference>UT34</PageReference>
+    </Child>
+    <Child ReferenceText="society and">
+      <PageReference>UT33</PageReference>
+    </Child>
+    <Child ReferenceText="using in combat or other action situations">
+      <PageReference>UT34-35</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>UT168-169</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rocket">
+    <PageReference>UT145-146</PageReference>
+    <Child ReferenceText="pitons">
+      <PageReference>UT76</PageReference>
+    </Child>
+    <Child ReferenceText="strikers">
+      <PageReference>UT163</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rope">
+    <PageReference>UT76-77</PageReference>
+    <PageReference>UT81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rugged equipment modification">
+    <PageReference>UT15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sabotage equipment">
+    <PageReference>UT95-96</PageReference>
+    <SeeAlso>Explosives</SeeAlso>
+    <SeeAlso>Gremlin Swarms</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Safari robots">
+    <PageReference>UT79-80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Safes">
+    <PageReference>UT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Salvage">
+    <Child ReferenceText="robots">
+      <PageReference>UT79-80</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>UT87-88</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Saucer grenades">
+    <PageReference>UT147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scanlocks">
+    <PageReference>UT104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scanning nets">
+    <PageReference>UT204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scanning Sense advantage">
+    <PageReference>UT30-31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scent">
+    <SeeAlso>Programmable Perfume</SeeAlso>
+    <Child ReferenceText="synthesizers">
+      <PageReference>UT52</PageReference>
+    </Child>
+    <Child ReferenceText="masking">
+      <PageReference>UT100</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scientific equipment">
+    <PageReference>UT66-67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scout robots">
+    <PageReference>UT80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scramblers">
+    <PageReference>UT121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sculpted body biomorphic lens">
+    <PageReference>UT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sealed protective gear">
+    <PageReference>UT171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Search hydrophones">
+    <PageReference>UT63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Search radar">
+    <PageReference>UT64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Searchlights">
+    <PageReference>UT74</PageReference>
+    <PageReference>UT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Second skin">
+    <PageReference>UT181</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret disadvantage">
+    <PageReference>UT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secure encryption">
+    <PageReference>UT47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Security">
+    <PageReference>UT101-105</PageReference>
+    <SeeAlso>Encryption</SeeAlso>
+    <Child ReferenceText="scanners">
+      <PageReference>UT104-105</PageReference>
+    </Child>
+    <Child ReferenceText="swarms">
+      <PageReference>UT104-105</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="SEFOP">
+    <PageReference>UT154-155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-driving vehicles">
+    <PageReference>UT223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Semi-sculpted body biomorphic lens">
+    <PageReference>UT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense of Duty disadvantage">
+    <PageReference>UT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensies">
+    <PageReference>UT57-58</PageReference>
+    <SeeAlso>Braintap</SeeAlso>
+    <Child ReferenceText="transceiver implants">
+      <PageReference>UT217</PageReference>
+    </Child>
+    <Child ReferenceText="uplink">
+      <PageReference>UT58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensor turret">
+    <Child ReferenceText="tactical">
+      <PageReference>UT66</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensor">
+    <Child ReferenceText="periscopes">
+      <PageReference>UT66</PageReference>
+    </Child>
+    <Child ReferenceText="turrets">
+      <PageReference>UT66</PageReference>
+    </Child>
+    <Child ReferenceText="wire">
+      <PageReference>UT102</PageReference>
+    </Child>
+    <Child ReferenceText="gloves">
+      <PageReference>UT67</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensors">
+    <PageReference>UT60-66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensory">
+    <Child ReferenceText="deprivation tank">
+      <PageReference>UT108</PageReference>
+    </Child>
+    <Child ReferenceText="control restraints">
+      <PageReference>UT108</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sentry swarms">
+    <PageReference>UT169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Servomounts">
+    <PageReference>UT151-152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sexmorph">
+    <PageReference>UT214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shaped charge warheads">
+    <PageReference>UT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shape-memory disguises">
+    <PageReference>UT97</PageReference>
+  </IndexReference>
+<IndexReference ReferenceText="Shock clubs">
+    <PageReference>UT164-165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shotguns, conventional">
+    <PageReference>UT136</PageReference>
+    <PageReference>UT138</PageReference>
+    <PageReference>UT139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shotshells">
+    <PageReference>UT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shrike nano">
+    <PageReference>UT162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shuriken">
+    <PageReference>UT169</PageReference>
+    <PageReference>UT166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silvertongue implants">
+    <PageReference>UT210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Size Modifier">
+    <Child ReferenceText="adjusting for">
+      <PageReference>UT16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skeleton">
+    <Child ReferenceText="reinforced">
+      <PageReference>UT214</PageReference>
+    </Child>
+    <Child ReferenceText="hyperdense">
+      <PageReference>UT214</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skin">
+    <PageReference>UT177</PageReference>
+    <PageReference>UT181</PageReference>
+    <PageReference>UT198-199</PageReference>
+    <PageReference>UT212-215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skinsuits">
+    <PageReference>UT178</PageReference>
+    <PageReference>UT179</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleep">
+    <Child ReferenceText="poison">
+      <PageReference>UT161</PageReference>
+    </Child>
+    <Child ReferenceText="sets">
+      <PageReference>UT69</PageReference>
+    </Child>
+    <Child ReferenceText="gas">
+      <PageReference>UT159</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleeve displays">
+    <PageReference>UT24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slickskin">
+    <PageReference>UT214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slicksuit spray">
+    <PageReference>UT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slidewalks">
+    <PageReference>UT222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slipspray">
+    <PageReference>UT83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slow computer modification">
+    <PageReference>UT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SM">
+    <PageReference>UT16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Small arms">
+    <Child ReferenceText="conventional">
+      <PageReference>UT135-139</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smart blindfolds">
+    <PageReference>UT108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smart brushes">
+    <PageReference>UT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smart cars">
+    <PageReference>UT225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smart diagnostics">
+    <PageReference>UT56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smart explosively forged projectile">
+    <PageReference>UT154-155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smart grenades">
+    <PageReference>UT109</PageReference>
+    <PageReference>UT146-147</PageReference>
+    <Child ReferenceText="options">
+      <PageReference>UT147</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smart hairspray">
+    <PageReference>UT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smart pitons">
+    <PageReference>UT76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smart rope">
+    <PageReference>UT76-77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smart shuriken">
+    <PageReference>UT169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smart tattoos">
+    <PageReference>UT211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smartcloak">
+    <PageReference>UT189-190</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smartgrips">
+    <PageReference>UT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smartgun electronics">
+    <PageReference>UT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smartsuit options">
+    <PageReference>UT189-190</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smoke cloud">
+    <PageReference>UT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smuggling">
+    <PageReference>UT97-98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sniper mirrors">
+    <PageReference>UT151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma disadvantage">
+    <PageReference>UT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Software">
+    <PageReference>UT24-26</PageReference>
+    <PageReference>UT37</PageReference>
+    <PageReference>UT51-52</PageReference>
+    <PageReference>UT55-57</PageReference>
+    <PageReference>UT94</PageReference>
+    <PageReference>UT106-107</PageReference>
+    <PageReference>UT109</PageReference>
+    <PageReference>UT149-150</PageReference>
+    <SeeAlso>Artificial Intelligences</SeeAlso>
+    <SeeAlso>Augmented Reality</SeeAlso>
+    <SeeAlso>Computers</SeeAlso>
+    <SeeAlso>Downloading Minds</SeeAlso>
+    <SeeAlso>Encryption</SeeAlso>
+    <SeeAlso>Machine Intelligence Lenses</SeeAlso>
+    <SeeAlso>Mind Emulation</SeeAlso>
+    <SeeAlso>Sensies</SeeAlso>
+    <SeeAlso>Translator</SeeAlso>
+    <SeeAlso>Uploading Minds</SeeAlso>
+    <SeeAlso>Virtual Education</SeeAlso>
+    <SeeAlso>Virtual Reality</SeeAlso>
+    <Child ReferenceText="cost">
+      <PageReference>UT24-25</PageReference>
+    </Child>
+    <Child ReferenceText="tools">
+      <PageReference>UT25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Solar">
+    <Child ReferenceText="paint">
+      <PageReference>UT21</PageReference>
+    </Child>
+    <Child ReferenceText="panels">
+      <PageReference>UT20-21</PageReference>
+    </Child>
+    <Child ReferenceText="satellites">
+      <PageReference>UT21</PageReference>
+    </Child>
+    <Child ReferenceText="cells for swarmbots">
+      <PageReference>UT36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sonar">
+    <PageReference>UT65</PageReference>
+    <Child ReferenceText="communicators">
+      <PageReference>UT44-45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sonar Comm advantage">
+    <PageReference>UT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sonic">
+    <Child ReferenceText="nauseators">
+      <PageReference>UT125</PageReference>
+    </Child>
+    <Child ReferenceText="probes">
+      <PageReference>UT84</PageReference>
+    </Child>
+    <Child ReferenceText="projectors">
+      <PageReference>UT52</PageReference>
+    </Child>
+    <Child ReferenceText="screamers">
+      <PageReference>UT125</PageReference>
+    </Child>
+    <Child ReferenceText="screens">
+      <PageReference>UT96</PageReference>
+    </Child>
+    <Child ReferenceText="shower heads">
+      <PageReference>UT70</PageReference>
+    </Child>
+    <Child ReferenceText="shuriken">
+      <PageReference>UT166</PageReference>
+    </Child>
+    <Child ReferenceText="stunners">
+      <PageReference>UT125</PageReference>
+      <PageReference>UT126</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>UT124-126</PageReference>
+    </Child>
+    <Child ReferenceText="barriers">
+      <PageReference>UT102</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sonic communicators">
+    <PageReference>UT45</PageReference>
+    <PageReference>UT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soothe drug">
+    <PageReference>UT205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sound detectors">
+    <PageReference>UT62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Space">
+    <Child ReferenceText="elevators">
+      <PageReference>UT224</PageReference>
+    </Child>
+    <Child ReferenceText="habitats">
+      <PageReference>UT71</PageReference>
+    </Child>
+    <Child ReferenceText="swarmbots">
+      <PageReference>UT36</PageReference>
+    </Child>
+    <Child ReferenceText="travel">
+      <PageReference>UT223-224</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>UT179-180</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spider cages">
+    <PageReference>UT76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Splat pitons">
+    <PageReference>UT76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Splatter nano">
+    <PageReference>UT162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Split Tech Level rule">
+    <PageReference>UT8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sprays">
+    <PageReference>UT134</PageReference>
+    <Child ReferenceText="cans">
+      <PageReference>UT134</PageReference>
+    </Child>
+    <Child ReferenceText="canisters">
+      <PageReference>UT102</PageReference>
+    </Child>
+    <Child ReferenceText="tanks">
+      <PageReference>UT134</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="SQUID">
+    <PageReference>UT100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stanford torus">
+    <PageReference>UT71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Star gates">
+    <PageReference>UT234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Star habitats">
+    <PageReference>UT72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starlifting">
+    <PageReference>UT79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starmaking">
+    <PageReference>UT79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stasis">
+    <Child ReferenceText="chambers">
+      <PageReference>UT108</PageReference>
+      <PageReference>UT194</PageReference>
+    </Child>
+    <Child ReferenceText="cubes">
+      <PageReference>UT194</PageReference>
+    </Child>
+    <Child ReferenceText="disrupters">
+      <PageReference>UT96</PageReference>
+    </Child>
+    <Child ReferenceText="grids">
+      <PageReference>UT194</PageReference>
+    </Child>
+    <Child ReferenceText="keys">
+      <PageReference>UT96</PageReference>
+    </Child>
+    <Child ReferenceText="switchblades">
+      <PageReference>UT164</PageReference>
+    </Child>
+    <Child ReferenceText="warheads">
+      <PageReference>UT159</PageReference>
+    </Child>
+    <Child ReferenceText="webs">
+      <PageReference>UT193-194</PageReference>
+    </Child>
+    <Child ReferenceText="belts">
+      <PageReference>UT194</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stealth">
+    <Child ReferenceText="luggage">
+      <PageReference>UT97</PageReference>
+    </Child>
+    <Child ReferenceText="capsules">
+      <PageReference>UT232</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stellar midwifery">
+    <PageReference>UT79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stinger">
+    <Child ReferenceText="swarms">
+      <PageReference>UT169</PageReference>
+    </Child>
+    <Child ReferenceText="implants">
+      <PageReference>UT211-212</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stingray warheads">
+    <PageReference>UT156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Striker missiles">
+    <PageReference>UT168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strobe warheads">
+    <PageReference>UT157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stun sticks">
+    <PageReference>UT164-165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stun wands">
+    <PageReference>UT164-165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Styling equipment modification">
+    <PageReference>UT15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subdermal armor">
+    <PageReference>UT211</PageReference>
+    <Child ReferenceText="monocrys">
+      <PageReference>UT215</PageReference>
+    </Child>
+    <Child ReferenceText="nanoweave">
+      <PageReference>UT213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Submachine guns">
+    <Child ReferenceText="conventional">
+      <PageReference>UT135</PageReference>
+      <PageReference>UT137</PageReference>
+      <PageReference>UT139</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Suborbital express mail">
+    <PageReference>UT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suit docs">
+    <PageReference>UT199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suit patches">
+    <PageReference>UT188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suitcase docs">
+    <PageReference>UT201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suitspray">
+    <PageReference>UT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superconducting quantum interference devices">
+    <PageReference>UT100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superconductor loops">
+    <PageReference>UT18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superfine blades">
+    <PageReference>UT163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surgical equipment">
+    <PageReference>UT199-200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surveillance">
+    <SeeAlso>Active Sensors</SeeAlso>
+    <SeeAlso>Digital Cameras</SeeAlso>
+    <SeeAlso>Passive Sensors</SeeAlso>
+    <Child ReferenceText="devices">
+      <PageReference>UT105-106</PageReference>
+    </Child>
+    <Child ReferenceText="dust">
+      <PageReference>UT106</PageReference>
+    </Child>
+    <Child ReferenceText="sensors">
+      <PageReference>UT104</PageReference>
+    </Child>
+    <Child ReferenceText="swarms">
+      <PageReference>UT106</PageReference>
+    </Child>
+    <Child ReferenceText="worms">
+      <PageReference>UT105</PageReference>
+    </Child>
+    <Child ReferenceText="cameras">
+      <PageReference>UT60</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival">
+    <Child ReferenceText="gear">
+      <PageReference>UT75-77</PageReference>
+    </Child>
+    <Child ReferenceText="modules">
+      <PageReference>UT77</PageReference>
+    </Child>
+    <Child ReferenceText="rations">
+      <PageReference>UT73</PageReference>
+    </Child>
+    <Child ReferenceText="suits">
+      <PageReference>UT177-178</PageReference>
+    </Child>
+    <Child ReferenceText="watches">
+      <PageReference>UT77</PageReference>
+    </Child>
+    <Child ReferenceText="cocoons">
+      <PageReference>UT78</PageReference>
+    </Child>
+    <Child ReferenceText="foodfacs">
+      <PageReference>UT70</PageReference>
+    </Child>
+    <Child ReferenceText="foam">
+      <PageReference>UT77</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Swarm warheads">
+    <PageReference>UT156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swarmbots">
+    <PageReference>UT35-37</PageReference>
+    <PageReference>UT40-41</PageReference>
+    <PageReference>UT69-71</PageReference>
+    <PageReference>UT74</PageReference>
+    <PageReference>UT80</PageReference>
+    <PageReference>UT86-87</PageReference>
+    <PageReference>UT104-107</PageReference>
+    <PageReference>UT169</PageReference>
+    <PageReference>UT201</PageReference>
+    <SeeAlso>Microbots</SeeAlso>
+    <SeeAlso>Nanobot</SeeAlso>
+    <SeeAlso>Utility Fog</SeeAlso>
+    <SeeAlso>specific types of swarms</SeeAlso>
+    <Child ReferenceText="chassis">
+      <PageReference>UT35-36</PageReference>
+    </Child>
+    <Child ReferenceText="combat">
+      <PageReference>UT37</PageReference>
+    </Child>
+    <Child ReferenceText="disguise">
+      <PageReference>UT36</PageReference>
+    </Child>
+    <Child ReferenceText="fighting swarms">
+      <PageReference>UT37</PageReference>
+    </Child>
+    <Child ReferenceText="hives">
+      <PageReference>UT37</PageReference>
+      <PageReference>UT213</PageReference>
+    </Child>
+    <Child ReferenceText="multi-function">
+      <PageReference>UT37</PageReference>
+    </Child>
+    <Child ReferenceText="multiple swarms">
+      <PageReference>UT37</PageReference>
+    </Child>
+    <Child ReferenceText="operation">
+      <PageReference>UT37</PageReference>
+    </Child>
+    <Child ReferenceText="power supplies">
+      <PageReference>UT36-37</PageReference>
+    </Child>
+    <Child ReferenceText="statistics table">
+      <PageReference>UT37</PageReference>
+    </Child>
+    <Child ReferenceText="type table">
+      <PageReference>UT37</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>UT37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Swarmwear">
+    <PageReference>UT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swimmer swarmbots">
+    <PageReference>UT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swimwear">
+    <PageReference>UT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Switchblades">
+    <PageReference>UT163-164</PageReference>
+    <PageReference>UT166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Synthetic organs biomorphic lens">
+    <PageReference>UT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tachyon shotguns">
+    <PageReference>UT131</PageReference>
+    <PageReference>UT132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TacNet">
+    <PageReference>UT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tacsuits">
+    <PageReference>UT178</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactical missile launchers">
+    <PageReference>UT145</PageReference>
+    <PageReference>UT146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactical programs">
+    <PageReference>UT149-150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactical radar">
+    <PageReference>UT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taggants">
+    <PageReference>UT89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tanglers">
+    <PageReference>UT139</PageReference>
+    <PageReference>UT140</PageReference>
+    <Child ReferenceText="warheads">
+      <PageReference>UT155</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tanks">
+    <PageReference>UT226-227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Targeting scopes">
+    <PageReference>UT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Targeting systems">
+    <PageReference>UT149-150</PageReference>
+    <Child ReferenceText="tactical program">
+      <PageReference>UT149-150</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tau-shields">
+    <PageReference>UT195</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teaching aids">
+    <PageReference>UT56-57</PageReference>
+    <PageReference>UT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech Level">
+    <PageReference>UT8</PageReference>
+    <PageReference>UT7</PageReference>
+    <SeeAlso>Ages of Technology</SeeAlso>
+    <Child ReferenceText="typical armor by">
+      <PageReference>UT186</PageReference>
+    </Child>
+    <Child ReferenceText="typical weapons by">
+      <PageReference>UT148</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techbots">
+    <PageReference>UT85-86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technological progression">
+    <PageReference>UT8</PageReference>
+    <Child ReferenceText="start dates">
+      <PageReference>UT8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Technology paths">
+    <PageReference>UT8-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telecommunication advantage">
+    <PageReference>UT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telegates">
+    <PageReference>UT233-234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telepathic barriers">
+    <PageReference>UT188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teleport">
+    <Child ReferenceText="projectors">
+      <PageReference>UT234-235</PageReference>
+    </Child>
+    <Child ReferenceText="beacons">
+      <PageReference>UT235</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Televiewers">
+    <PageReference>UT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tents">
+    <PageReference>UT76-77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terahertz radar">
+    <PageReference>UT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terminals (computer)">
+    <Child ReferenceText="23-24 Terminator swarms">
+      <PageReference>UT169</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Terraforming">
+    <PageReference>UT78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Test kits">
+    <PageReference>UT197</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thermal imaging sensors">
+    <PageReference>UT60-61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thermobaric warheads">
+    <PageReference>UT155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thought processors">
+    <PageReference>UT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Threat protection">
+    <PageReference>UT171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrown weapons">
+    <PageReference>UT162-166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thruster packs">
+    <PageReference>UT231</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tilt-rotor transports">
+    <PageReference>UT229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time">
+    <Child ReferenceText="viewers">
+      <PageReference>UT67</PageReference>
+    </Child>
+    <Child ReferenceText="travel">
+      <PageReference>UT234</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Timescanners">
+    <PageReference>UT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tissue engineering">
+    <PageReference>UT206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TML">
+    <PageReference>UT145</PageReference>
+    <PageReference>UT146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tools">
+    <PageReference>UT80-85</PageReference>
+    <Child ReferenceText="tool kits">
+      <PageReference>UT82</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Torpine">
+    <PageReference>UT206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracking devices">
+    <PageReference>UT105-106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tractor beams">
+    <PageReference>UT88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tractor-pressor beams">
+    <PageReference>UT87-88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Training robots">
+    <PageReference>UT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transcontinental tunnels">
+    <PageReference>UT223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Translators">
+    <PageReference>UT47-48</PageReference>
+    <Child ReferenceText="levels of comprehension">
+      <PageReference>UT48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Transmit-only communicators">
+    <PageReference>UT46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transponder rings">
+    <PageReference>UT150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps">
+    <PageReference>UT101-104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trauma maintenance">
+    <PageReference>UT189</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="T-ray portal scanners">
+    <PageReference>UT104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="T-Ray Vision Scanning Sense advantage">
+    <PageReference>UT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tripods">
+    <PageReference>UT151</PageReference>
+    <Child ReferenceText="zappers">
+      <PageReference>UT119</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="UAW">
+    <PageReference>UT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="UGL">
+    <PageReference>UT136</PageReference>
+    <PageReference>UT138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultrascan portals">
+    <PageReference>UT104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultrascanners">
+    <PageReference>UT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Umbrella fields and shields">
+    <PageReference>UT194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Underbarrel grenade launchers">
+    <PageReference>UT136</PageReference>
+    <PageReference>UT138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal assemblers">
+    <PageReference>UT85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal tools">
+    <PageReference>UT85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal translator programs">
+    <PageReference>UT48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unlimited technology">
+    <PageReference>UT8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uploading minds">
+    <PageReference>UT219-220</PageReference>
+    <SeeAlso>Downloading Minds</SeeAlso>
+    <SeeAlso>Mind Emulation</SeeAlso>
+    <SeeAlso>Replicators</SeeAlso>
+    <Child ReferenceText="backup brain and">
+      <PageReference>UT220</PageReference>
+    </Child>
+    <Child ReferenceText="campaign effects of">
+      <PageReference>UT221</PageReference>
+    </Child>
+    <Child ReferenceText="dead person and">
+      <PageReference>UT219</PageReference>
+    </Child>
+    <Child ReferenceText="destructive">
+      <PageReference>UT219</PageReference>
+    </Child>
+    <Child ReferenceText="nondestructive">
+      <PageReference>UT219</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Urban assault weapons">
+    <PageReference>UT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Utility fog">
+    <PageReference>UT70-71</PageReference>
+    <Child ReferenceText="houses">
+      <PageReference>UT72</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Utility vertol">
+    <PageReference>UT229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vacc suits">
+    <PageReference>UT178-179</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vacuum support for protective gear">
+    <PageReference>UT171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vapor">
+    <Child ReferenceText="collectors">
+      <PageReference>UT76</PageReference>
+    </Child>
+    <Child ReferenceText="canteens">
+      <PageReference>UT76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Variant races">
+    <PageReference>UT206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Varicloth">
+    <PageReference>UT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Variskin">
+    <PageReference>UT213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vatfacs">
+    <PageReference>UT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vaults">
+    <PageReference>UT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <PageReference>UT224-235</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Velocity force screen variant">
+    <PageReference>UT192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Veridicator">
+    <Child ReferenceText="neural">
+      <PageReference>UT107</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Verifier software">
+    <PageReference>UT106-107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Very-low-res mind copy">
+    <PageReference>UT220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vests">
+    <Child ReferenceText="tactical">
+      <PageReference>UT173</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vibroblades">
+    <PageReference>UT164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Video and sensory augmented reality processing">
+    <PageReference>UT56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Video">
+    <Child ReferenceText="glasses">
+      <PageReference>UT60</PageReference>
+    </Child>
+    <Child ReferenceText="suitpray">
+      <PageReference>UT39</PageReference>
+    </Child>
+    <Child ReferenceText="walls">
+      <PageReference>UT51</PageReference>
+    </Child>
+    <Child ReferenceText="contacts">
+      <PageReference>UT60</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Viper gyrocs">
+    <PageReference>UT144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Virtual education">
+    <PageReference>UT56-57</PageReference>
+    <PageReference>UT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Virtual reality">
+    <PageReference>UT53-57</PageReference>
+    <PageReference>UT59</PageReference>
+    <PageReference>UT54-55</PageReference>
+    <SeeAlso>Augmented Reality</SeeAlso>
+    <Child ReferenceText="gloves">
+      <PageReference>UT54</PageReference>
+    </Child>
+    <Child ReferenceText="imagery database size table">
+      <PageReference>UT55</PageReference>
+    </Child>
+    <Child ReferenceText="manager">
+      <PageReference>UT54</PageReference>
+    </Child>
+    <Child ReferenceText="packaged characters and settings">
+      <PageReference>UT55</PageReference>
+    </Child>
+    <Child ReferenceText="suits">
+      <PageReference>UT54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Virtual tutors">
+    <PageReference>UT56-57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visors">
+    <PageReference>UT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voice masks">
+    <PageReference>UT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voice processors">
+    <PageReference>UT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voiceboxes">
+    <PageReference>UT210</PageReference>
+    <PageReference>UT218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Von Neumann machines">
+    <PageReference>UT92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vortex ring projectors">
+    <PageReference>UT134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vortex warheads">
+    <PageReference>UT159</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="VR">
+    <SeeAlso>Virtual Reality</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="VRP">
+    <PageReference>UT134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warbler warheads">
+    <PageReference>UT157-158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warbots">
+    <PageReference>UT167-168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warheads">
+    <PageReference>UT152-159</PageReference>
+    <PageReference>UT152-156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warsuits">
+    <PageReference>UT185-186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Waste-relief system">
+    <PageReference>UT187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water knives">
+    <PageReference>UT81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Watercraft">
+    <PageReference>UT223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon cybernetic mounts">
+    <PageReference>UT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon harnesses">
+    <PageReference>UT150-151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weather control satellites">
+    <PageReference>UT79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wire fences">
+    <PageReference>UT102-103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Word processing software">
+    <PageReference>UT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Worker robots">
+    <PageReference>UT85-87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Worker swarms">
+    <PageReference>UT86-87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Workshop">
+    <PageReference>UT82</PageReference>
+    <Child ReferenceText="robotic">
+      <PageReference>UT82</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Worldscaping">
+    <PageReference>UT78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wristwatches">
+    <PageReference>UT66</PageReference>
+    <PageReference>UT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="X-ray laser torches">
+    <PageReference>UT85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="X-ray scanners">
+    <PageReference>UT104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zap gloves">
+    <PageReference>UT165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zero-G">
+    <Child ReferenceText="worksuits">
+      <PageReference>UT183</PageReference>
+      <PageReference>UT186</PageReference>
+    </Child>
+    <Child ReferenceText="thrusters">
+      <PageReference>UT231</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

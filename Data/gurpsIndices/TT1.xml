@@ -1,0 +1,850 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Accessibility limitation">
+    <PageReference>TT1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <SeeAlso>Traits</SeeAlso>
+    <Child ReferenceText="choices">
+      <PageReference>TT1:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="limits">
+      <PageReference>TT1:7</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>TT1:30</PageReference>
+    </Child>
+    <Child ReferenceText="niche suggestions">
+      <PageReference>TT1:43-45</PageReference>
+    </Child>
+    <Child ReferenceText="required">
+      <PageReference>TT1:10-11</PageReference>
+    </Child>
+    <Child ReferenceText="template-optimal">
+      <PageReference>TT1:29-30</PageReference>
+    </Child>
+    <Child ReferenceText="challenge suggestions">
+      <PageReference>TT1:36-42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Challenges</SeeAlso>
+    <Child ReferenceText="perceptions and">
+      <PageReference>TT1:16</PageReference>
+    </Child>
+    <Child ReferenceText="matching traits to challenges">
+      <PageReference>TT1:35-42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <SeeAlso>Traits</SeeAlso>
+    <Child ReferenceText="choices">
+      <PageReference>TT1:22</PageReference>
+    </Child>
+    <Child ReferenceText="improvement choices">
+      <PageReference>TT1:23</PageReference>
+    </Child>
+    <Child ReferenceText="levels">
+      <PageReference>TT1:9</PageReference>
+    </Child>
+    <Child ReferenceText="reduction choices">
+      <PageReference>TT1:23</PageReference>
+    </Child>
+    <Child ReferenceText="required">
+      <PageReference>TT1:9-10</PageReference>
+    </Child>
+    <Child ReferenceText="challenge suggestions">
+      <PageReference>TT1:36-42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Boring templates">
+    <PageReference>TT1:19</PageReference>
+    <PageReference>TT1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Challenges">
+    <SeeAlso>Adventures</SeeAlso>
+    <Child ReferenceText="categories">
+      <PageReference>TT1:35-42</PageReference>
+    </Child>
+    <Child ReferenceText="Combat">
+      <PageReference>TT1:36</PageReference>
+      <PageReference>TT1:43</PageReference>
+    </Child>
+    <Child ReferenceText="combinations">
+      <PageReference>TT1:43</PageReference>
+    </Child>
+    <Child ReferenceText="Communications">
+      <PageReference>TT1:36</PageReference>
+      <PageReference>TT1:43</PageReference>
+    </Child>
+    <Child ReferenceText="Crafting">
+      <PageReference>TT1:36</PageReference>
+      <PageReference>TT1:43</PageReference>
+    </Child>
+    <Child ReferenceText="Deceit">
+      <PageReference>TT1:36</PageReference>
+      <PageReference>TT1:43</PageReference>
+    </Child>
+    <Child ReferenceText="Detective Work">
+      <PageReference>TT1:36-37</PageReference>
+      <PageReference>TT1:43</PageReference>
+    </Child>
+    <Child ReferenceText="Esoterica">
+      <PageReference>TT1:37</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Establishment">
+      <PageReference>TT1:37</PageReference>
+    </Child>
+    <Child ReferenceText="Exploration">
+      <PageReference>TT1:37</PageReference>
+      <PageReference>TT1:43</PageReference>
+    </Child>
+    <Child ReferenceText="Inventing">
+      <PageReference>TT1:37-38</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="kinds of">
+      <PageReference>TT1:42</PageReference>
+    </Child>
+    <Child ReferenceText="matching to niches">
+      <PageReference>TT1:42-45</PageReference>
+    </Child>
+    <Child ReferenceText="matching traits to">
+      <PageReference>TT1:35-42</PageReference>
+    </Child>
+    <Child ReferenceText="Medicine">
+      <PageReference>TT1:38</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Military">
+      <PageReference>TT1:38</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Mobility">
+      <PageReference>TT1:38</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Money">
+      <PageReference>TT1:38-39</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Nautical">
+      <PageReference>TT1:39</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Outdoors">
+      <PageReference>TT1:39</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Performing">
+      <PageReference>TT1:39</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Plants">
+      <PageReference>TT1:39</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Research">
+      <PageReference>TT1:39-40</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Sabotage">
+      <PageReference>TT1:40</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Science">
+      <PageReference>TT1:40</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Security">
+      <PageReference>TT1:40</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Sneaking">
+      <PageReference>TT1:40</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering">
+      <PageReference>TT1:40-41</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Social Sciences">
+      <PageReference>TT1:41</PageReference>
+      <PageReference>TT1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Space">
+      <PageReference>TT1:41</PageReference>
+      <PageReference>TT1:45</PageReference>
+    </Child>
+    <Child ReferenceText="splitting up">
+      <PageReference>TT1:42-45</PageReference>
+    </Child>
+    <Child ReferenceText="Stealing">
+      <PageReference>TT1:41</PageReference>
+      <PageReference>TT1:45</PageReference>
+    </Child>
+    <Child ReferenceText="Streets">
+      <PageReference>TT1:41</PageReference>
+      <PageReference>TT1:45</PageReference>
+    </Child>
+    <Child ReferenceText="Technical Means">
+      <PageReference>TT1:41</PageReference>
+      <PageReference>TT1:45</PageReference>
+    </Child>
+    <Child ReferenceText="Transportation">
+      <PageReference>TT1:42</PageReference>
+      <PageReference>TT1:45</PageReference>
+    </Child>
+    <Child ReferenceText="Animals">
+      <PageReference>TT1:36</PageReference>
+      <PageReference>TT1:43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <SeeAlso>Traits</SeeAlso>
+    <SeeAlso>specific types of traits</SeeAlso>
+    <Child ReferenceText="choices for">
+      <PageReference>TT1:6</PageReference>
+      <PageReference>TT1:10</PageReference>
+      <PageReference>TT1:22-27</PageReference>
+    </Child>
+    <Child ReferenceText="improvement">
+      <PageReference>TT1:15</PageReference>
+      <PageReference>TT1:32-33</PageReference>
+    </Child>
+    <Child ReferenceText="reasons to use templates">
+      <PageReference>TT1:7</PageReference>
+    </Child>
+    <Child ReferenceText="recommending concepts">
+      <PageReference>TT1:7</PageReference>
+    </Child>
+    <Child ReferenceText="requiring templates">
+      <PageReference>TT1:5</PageReference>
+      <PageReference>TT1:6</PageReference>
+    </Child>
+    <Child ReferenceText="template types">
+      <PageReference>TT1:4-5</PageReference>
+    </Child>
+    <Child ReferenceText="types of concepts">
+      <PageReference>TT1:4-5</PageReference>
+    </Child>
+    <Child ReferenceText="boring">
+      <PageReference>TT1:19</PageReference>
+      <PageReference>TT1:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cheap tricks">
+    <PageReference>TT1:19</PageReference>
+    <PageReference>TT1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Commando team example">
+    <PageReference>TT1:45-46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic enhancement">
+    <PageReference>TT1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural templates">
+    <SeeAlso>Design</SeeAlso>
+    <Child ReferenceText="defined">
+      <PageReference>TT1:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Customization notes">
+    <Child ReferenceText="format">
+      <PageReference>TT1:33</PageReference>
+    </Child>
+    <Child ReferenceText="design and">
+      <PageReference>TT1:14-15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Design">
+    <SeeAlso>Lenses</SeeAlso>
+    <SeeAlso>Niches</SeeAlso>
+    <SeeAlso>Sets</SeeAlso>
+    <SeeAlso>Traits</SeeAlso>
+    <Child ReferenceText="consistency in">
+      <PageReference>TT1:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="copy and paste">
+      <PageReference>TT1:19</PageReference>
+    </Child>
+    <Child ReferenceText="cost">
+      <PageReference>TT1:8</PageReference>
+      <PageReference>TT1:20</PageReference>
+      <PageReference>TT1:33</PageReference>
+    </Child>
+    <Child ReferenceText="customization notes">
+      <PageReference>TT1:14-15</PageReference>
+      <PageReference>TT1:20</PageReference>
+    </Child>
+    <Child ReferenceText="description">
+      <PageReference>TT1:8</PageReference>
+      <PageReference>TT1:15</PageReference>
+      <PageReference>TT1:20</PageReference>
+      <PageReference>TT1:21</PageReference>
+      <PageReference>TT1:33</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>TT1:33-34</PageReference>
+      <PageReference>TT1:45-46</PageReference>
+    </Child>
+    <Child ReferenceText="flexibility">
+      <PageReference>TT1:6</PageReference>
+      <PageReference>TT1:10</PageReference>
+      <PageReference>TT1:20</PageReference>
+      <PageReference>TT1:22-27</PageReference>
+    </Child>
+    <Child ReferenceText="individual templates">
+      <PageReference>TT1:8-15</PageReference>
+    </Child>
+    <Child ReferenceText="matching expertise to templates">
+      <PageReference>TT1:18</PageReference>
+    </Child>
+    <Child ReferenceText="math checking">
+      <PageReference>TT1:14</PageReference>
+      <PageReference>TT1:20</PageReference>
+    </Child>
+    <Child ReferenceText="modular templates">
+      <PageReference>TT1:21</PageReference>
+    </Child>
+    <Child ReferenceText="NPCs">
+      <PageReference>TT1:12</PageReference>
+    </Child>
+    <Child ReferenceText="optimization">
+      <PageReference>TT1:13-14</PageReference>
+      <PageReference>TT1:20</PageReference>
+    </Child>
+    <Child ReferenceText="player experience and">
+      <PageReference>TT1:14</PageReference>
+      <PageReference>TT1:20</PageReference>
+    </Child>
+    <Child ReferenceText="scope">
+      <PageReference>TT1:6</PageReference>
+    </Child>
+    <Child ReferenceText="template format">
+      <PageReference>TT1:33</PageReference>
+    </Child>
+    <Child ReferenceText="“three Ss, ” 17-18" />
+    <Child ReferenceText="concept">
+      <PageReference>TT1:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <SeeAlso>Traits</SeeAlso>
+    <Child ReferenceText="choices">
+      <PageReference>TT1:23</PageReference>
+    </Child>
+    <Child ReferenceText="limit">
+      <PageReference>TT1:7</PageReference>
+      <PageReference>TT1:11</PageReference>
+      <PageReference>TT1:23</PageReference>
+    </Child>
+    <Child ReferenceText="required">
+      <PageReference>TT1:11</PageReference>
+    </Child>
+    <Child ReferenceText="challenge suggestions">
+      <PageReference>TT1:35-42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dramatic templates">
+    <SeeAlso>Design</SeeAlso>
+    <Child ReferenceText="defined">
+      <PageReference>TT1:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Everyman traits">
+    <PageReference>TT1:17</PageReference>
+    <PageReference>TT1:19-20</PageReference>
+    <SeeAlso>Traits</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Generalists">
+    <Child ReferenceText="template for">
+      <PageReference>TT1:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>TT1:3-5</PageReference>
+    <PageReference>TT1:7</PageReference>
+    <PageReference>TT1:14</PageReference>
+    <PageReference>TT1:16</PageReference>
+    <PageReference>TT1:18</PageReference>
+    <PageReference>TT1:20</PageReference>
+    <PageReference>TT1:22</PageReference>
+    <PageReference>TT1:23</PageReference>
+    <PageReference>TT1:29</PageReference>
+    <PageReference>TT1:32</PageReference>
+    <PageReference>TT1:33</PageReference>
+    <Child ReferenceText="Action">
+      <PageReference>TT1:3</PageReference>
+      <PageReference>TT1:7</PageReference>
+      <PageReference>TT1:9</PageReference>
+      <PageReference>TT1:16</PageReference>
+      <PageReference>TT1:26</PageReference>
+      <PageReference>TT1:29-31</PageReference>
+    </Child>
+    <Child ReferenceText="Banestorm">
+      <PageReference>TT1:26</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>TT1:3</PageReference>
+      <PageReference>TT1:7</PageReference>
+      <PageReference>TT1:10</PageReference>
+      <PageReference>TT1:16</PageReference>
+      <PageReference>TT1:22</PageReference>
+      <PageReference>TT1:29</PageReference>
+      <PageReference>TT1:33</PageReference>
+      <PageReference>TT1:35</PageReference>
+    </Child>
+    <Child ReferenceText="Black Ops">
+      <PageReference>TT1:3</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>TT1:3</PageReference>
+      <PageReference>TT1:7</PageReference>
+      <PageReference>TT1:16</PageReference>
+      <PageReference>TT1:20</PageReference>
+      <PageReference>TT1:27-30</PageReference>
+      <PageReference>TT1:33</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 15: Henchmen">
+      <PageReference>TT1:26</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>TT1:27</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>TT1:16</PageReference>
+    </Child>
+    <Child ReferenceText="Gun Fu">
+      <PageReference>TT1:16</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>TT1:9</PageReference>
+      <PageReference>TT1:20</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>TT1:7</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>TT1:7</PageReference>
+      <PageReference>TT1:13</PageReference>
+      <PageReference>TT1:16</PageReference>
+      <PageReference>TT1:19</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters">
+      <PageReference>TT1:3</PageReference>
+      <PageReference>TT1:7</PageReference>
+      <PageReference>TT1:9</PageReference>
+      <PageReference>TT1:16</PageReference>
+      <PageReference>TT1:29</PageReference>
+      <PageReference>TT1:31</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 1: Imbuements">
+      <PageReference>TT1:24</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>TT1:30</PageReference>
+      <PageReference>TT1:31</PageReference>
+    </Child>
+    <Child ReferenceText="PowerUps 3: Talents">
+      <PageReference>TT1:10</PageReference>
+      <PageReference>TT1:29</PageReference>
+      <PageReference>TT1:30</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 4: Enhancements">
+      <PageReference>TT1:30</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 5: Impulse Buys">
+      <PageReference>TT1:31</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>TT1:7</PageReference>
+      <PageReference>TT1:28</PageReference>
+      <PageReference>TT1:30</PageReference>
+      <PageReference>TT1:31</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>TT1:24</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering">
+      <PageReference>TT1:16</PageReference>
+    </Child>
+    <Child ReferenceText="Tactical Shooting">
+      <PageReference>TT1:16</PageReference>
+      <PageReference>TT1:19</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Magical Styles">
+      <PageReference>TT1:13</PageReference>
+      <PageReference>TT1:19</PageReference>
+    </Child>
+    <Child ReferenceText="Wizards">
+      <PageReference>TT1:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Higher Purpose advantage">
+    <PageReference>TT1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jack of all trades">
+    <Child ReferenceText="template for">
+      <PageReference>TT1:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <SeeAlso>Design</SeeAlso>
+    <Child ReferenceText="character improvement and">
+      <PageReference>TT1:32</PageReference>
+    </Child>
+    <Child ReferenceText="designing">
+      <PageReference>TT1:25-27</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>TT1:25</PageReference>
+    </Child>
+    <Child ReferenceText="exclusive">
+      <PageReference>TT1:27</PageReference>
+    </Child>
+    <Child ReferenceText="format">
+      <PageReference>TT1:33</PageReference>
+    </Child>
+    <Child ReferenceText="general">
+      <PageReference>TT1:26</PageReference>
+    </Child>
+    <Child ReferenceText="reasons to use">
+      <PageReference>TT1:25</PageReference>
+    </Child>
+    <Child ReferenceText="sets and">
+      <PageReference>TT1:25-26</PageReference>
+    </Child>
+    <Child ReferenceText="stackable">
+      <PageReference>TT1:27</PageReference>
+    </Child>
+    <Child ReferenceText="template-specific">
+      <PageReference>TT1:25</PageReference>
+    </Child>
+    <Child ReferenceText="variant">
+      <PageReference>TT1:26</PageReference>
+    </Child>
+    <Child ReferenceText="add-on">
+      <PageReference>TT1:26-27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited templates">
+    <SeeAlso>Design</SeeAlso>
+    <Child ReferenceText="defined">
+      <PageReference>TT1:6</PageReference>
+    </Child>
+    <Child ReferenceText="cost of">
+      <PageReference>TT1:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mandatory templates">
+    <SeeAlso>Design</SeeAlso>
+    <Child ReferenceText="defined">
+      <PageReference>TT1:6</PageReference>
+      <PageReference>TT1:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Modifiers">
+    <PageReference>TT1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Niches">
+    <Child ReferenceText="determining">
+      <PageReference>TT1:35-42</PageReference>
+    </Child>
+    <Child ReferenceText="example team">
+      <PageReference>TT1:45-46</PageReference>
+    </Child>
+    <Child ReferenceText="generalist">
+      <PageReference>TT1:17</PageReference>
+    </Child>
+    <Child ReferenceText="matching challenges to">
+      <PageReference>TT1:42-43</PageReference>
+    </Child>
+    <Child ReferenceText="protecting">
+      <PageReference>TT1:7</PageReference>
+      <PageReference>TT1:18-19</PageReference>
+    </Child>
+    <Child ReferenceText="design overview">
+      <PageReference>TT1:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="NPC templates">
+    <PageReference>TT1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occupational templates">
+    <SeeAlso>Design</SeeAlso>
+    <Child ReferenceText="defined">
+      <PageReference>TT1:4-5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Optional templates">
+    <SeeAlso>Design</SeeAlso>
+    <Child ReferenceText="defined">
+      <PageReference>TT1:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pact limitation">
+    <PageReference>TT1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>TT1:13</PageReference>
+    <PageReference>TT1:24</PageReference>
+    <PageReference>TT1:30</PageReference>
+    <SeeAlso>Traits</SeeAlso>
+    <Child ReferenceText="challenge suggestions">
+      <PageReference>TT1:36-41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Players">
+    <Child ReferenceText="mixed choices">
+      <PageReference>TT1:24-25</PageReference>
+    </Child>
+    <Child ReferenceText="perceptions">
+      <PageReference>TT1:16</PageReference>
+    </Child>
+    <Child ReferenceText="freedom">
+      <PageReference>TT1:6</PageReference>
+      <PageReference>TT1:10</PageReference>
+      <PageReference>TT1:22-27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power level">
+    <PageReference>TT1:7</PageReference>
+    <PageReference>TT1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power-ups">
+    <PageReference>TT1:32</PageReference>
+    <Child ReferenceText="format">
+      <PageReference>TT1:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <PageReference>TT1:13</PageReference>
+    <PageReference>TT1:31-32</PageReference>
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Traits</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Prescriptive templates">
+    <SeeAlso>Design</SeeAlso>
+    <Child ReferenceText="defined">
+      <PageReference>TT1:6</PageReference>
+    </Child>
+    <Child ReferenceText="cost of">
+      <PageReference>TT1:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Secondary characteristics">
+    <SeeAlso>Traits</SeeAlso>
+    <Child ReferenceText="choices">
+      <PageReference>TT1:22</PageReference>
+    </Child>
+    <Child ReferenceText="reduction choices">
+      <PageReference>TT1:23</PageReference>
+    </Child>
+    <Child ReferenceText="required">
+      <PageReference>TT1:10</PageReference>
+    </Child>
+    <Child ReferenceText="challenge suggestions">
+      <PageReference>TT1:36-40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sets">
+    <SeeAlso>Design</SeeAlso>
+    <SeeAlso>Niches</SeeAlso>
+    <Child ReferenceText="character improvement">
+      <PageReference>TT1:15</PageReference>
+    </Child>
+    <Child ReferenceText="consistency in">
+      <PageReference>TT1:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="defined">
+      <PageReference>TT1:15</PageReference>
+    </Child>
+    <Child ReferenceText="defining roles and backgrounds">
+      <PageReference>TT1:15</PageReference>
+    </Child>
+    <Child ReferenceText="description">
+      <PageReference>TT1:21</PageReference>
+    </Child>
+    <Child ReferenceText="designing">
+      <PageReference>TT1:15-21</PageReference>
+    </Child>
+    <Child ReferenceText="distributing traits">
+      <PageReference>TT1:17-20</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>TT1:45-46</PageReference>
+    </Child>
+    <Child ReferenceText="generalists in">
+      <PageReference>TT1:17</PageReference>
+    </Child>
+    <Child ReferenceText="key traits">
+      <PageReference>TT1:16-17</PageReference>
+    </Child>
+    <Child ReferenceText="lenses for">
+      <PageReference>TT1:25-26</PageReference>
+    </Child>
+    <Child ReferenceText="multiple">
+      <PageReference>TT1:15</PageReference>
+    </Child>
+    <Child ReferenceText="boring templates in">
+      <PageReference>TT1:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <SeeAlso>Traits</SeeAlso>
+    <SeeAlso>Wildcard Skills</SeeAlso>
+    <Child ReferenceText="choices">
+      <PageReference>TT1:24</PageReference>
+    </Child>
+    <Child ReferenceText="format">
+      <PageReference>TT1:13</PageReference>
+    </Child>
+    <Child ReferenceText="levels">
+      <PageReference>TT1:12-13</PageReference>
+    </Child>
+    <Child ReferenceText="niche suggestions">
+      <PageReference>TT1:43-45</PageReference>
+    </Child>
+    <Child ReferenceText="required">
+      <PageReference>TT1:11-13</PageReference>
+    </Child>
+    <Child ReferenceText="template tiers">
+      <PageReference>TT1:13</PageReference>
+    </Child>
+    <Child ReferenceText="format">
+      <PageReference>TT1:33</PageReference>
+    </Child>
+    <Child ReferenceText="challenge suggestions">
+      <PageReference>TT1:36-42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Soldier template">
+    <PageReference>TT1:33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special abilities">
+    <PageReference>TT1:7</PageReference>
+    <PageReference>TT1:13</PageReference>
+    <PageReference>TT1:24</PageReference>
+    <PageReference>TT1:31-32</PageReference>
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Skills</SeeAlso>
+    <SeeAlso>Traits</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Special-case templates">
+    <SeeAlso>Design</SeeAlso>
+    <Child ReferenceText="defined">
+      <PageReference>TT1:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <PageReference>TT1:13</PageReference>
+    <PageReference>TT1:24</PageReference>
+    <Child ReferenceText="combined challenges">
+      <PageReference>TT1:43</PageReference>
+    </Child>
+    <Child ReferenceText="skill levels">
+      <PageReference>TT1:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <PageReference>TT1:10</PageReference>
+    <PageReference>TT1:29-30</PageReference>
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Traits</SeeAlso>
+    <Child ReferenceText="power">
+      <PageReference>TT1:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <PageReference>TT1:13</PageReference>
+    <PageReference>TT1:24</PageReference>
+    <SeeAlso>Traits</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="“Three Ss, ” 17-18" />
+  <IndexReference ReferenceText="Traits">
+    <SeeAlso>specific types of traits</SeeAlso>
+    <Child ReferenceText="choices">
+      <PageReference>TT1:6</PageReference>
+      <PageReference>TT1:10</PageReference>
+      <PageReference>TT1:22-27</PageReference>
+    </Child>
+    <Child ReferenceText="distributing">
+      <PageReference>TT1:7</PageReference>
+      <PageReference>TT1:17-20</PageReference>
+    </Child>
+    <Child ReferenceText="everyman">
+      <PageReference>TT1:17</PageReference>
+      <PageReference>TT1:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="fair distribution">
+      <PageReference>TT1:19</PageReference>
+    </Child>
+    <Child ReferenceText="format">
+      <PageReference>TT1:33</PageReference>
+    </Child>
+    <Child ReferenceText="hidden">
+      <PageReference>TT1:27-29</PageReference>
+    </Child>
+    <Child ReferenceText="implied taboo">
+      <PageReference>TT1:28-29</PageReference>
+    </Child>
+    <Child ReferenceText="improvement">
+      <PageReference>TT1:32-33</PageReference>
+    </Child>
+    <Child ReferenceText="key">
+      <PageReference>TT1:16-17</PageReference>
+    </Child>
+    <Child ReferenceText="limits">
+      <PageReference>TT1:7</PageReference>
+    </Child>
+    <Child ReferenceText="matching to templates">
+      <PageReference>TT1:18</PageReference>
+    </Child>
+    <Child ReferenceText="mixed choices">
+      <PageReference>TT1:24-25</PageReference>
+    </Child>
+    <Child ReferenceText="niches and">
+      <PageReference>TT1:18</PageReference>
+      <PageReference>TT1:43-45</PageReference>
+    </Child>
+    <Child ReferenceText="no discounts">
+      <PageReference>TT1:9</PageReference>
+    </Child>
+    <Child ReferenceText="overlap of">
+      <PageReference>TT1:18</PageReference>
+    </Child>
+    <Child ReferenceText="perceptions of possible">
+      <PageReference>TT1:16</PageReference>
+    </Child>
+    <Child ReferenceText="permitted">
+      <PageReference>TT1:7</PageReference>
+    </Child>
+    <Child ReferenceText="required">
+      <PageReference>TT1:7</PageReference>
+      <PageReference>TT1:9-13</PageReference>
+      <PageReference>TT1:20</PageReference>
+    </Child>
+    <Child ReferenceText="template-optimal">
+      <PageReference>TT1:29-32</PageReference>
+    </Child>
+    <Child ReferenceText="challenge suggestions">
+      <PageReference>TT1:35-42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background advantage">
+    <Child ReferenceText="zerocost">
+      <PageReference>TT1:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard skills">
+    <PageReference>TT1:13</PageReference>
+    <PageReference>TT1:24</PageReference>
+    <PageReference>TT1:30-31</PageReference>
+    <SeeAlso>Skills</SeeAlso>
+    <SeeAlso>Traits</SeeAlso>
+    <Child ReferenceText="format">
+      <PageReference>TT1:33</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

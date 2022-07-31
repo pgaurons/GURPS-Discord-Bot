@@ -1,0 +1,556 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Advantages, developing">
+    <PageReference>DF5:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air element">
+    <PageReference>DF5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies">
+    <Child ReferenceText="death of">
+      <PageReference>DF5:5</PageReference>
+      <PageReference>DF5:12</PageReference>
+      <PageReference>DF5:20</PageReference>
+    </Child>
+    <Child ReferenceText="druidic">
+      <PageReference>DF5:5-11</PageReference>
+    </Child>
+    <Child ReferenceText="holy">
+      <PageReference>DF5:12-19</PageReference>
+    </Child>
+    <Child ReferenceText="animals">
+      <PageReference>DF5:6-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ally advantage cost">
+    <PageReference>DF5:5</PageReference>
+    <PageReference>DF5:12</PageReference>
+    <PageReference>DF5:20</PageReference>
+    <SeeAlso>specific animal allies and specific familiars</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ally point value and development">
+    <PageReference>DF5:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ally reactions">
+    <PageReference>DF5:5</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>DF5:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ally statistics, 3 Alternate Form advantage">
+    <PageReference>DF5:8</PageReference>
+    <PageReference>DF5:21</PageReference>
+    <SeeAlso>Animal Allies</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Anaconda Allies">
+    <PageReference>DF5:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal">
+    <Child ReferenceText="familiars">
+      <PageReference>DF5:21-25</PageReference>
+    </Child>
+    <Child ReferenceText="Allies">
+      <PageReference>DF5:6-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Ally meta-trait">
+    <PageReference>DF5:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Handling skill">
+    <PageReference>DF5:4</PageReference>
+    <PageReference>DF5:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance roll">
+    <PageReference>DF5:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <PageReference>DF5:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aware enhancement">
+    <PageReference>DF5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Awe advantage">
+    <PageReference>DF5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bat familiars">
+    <PageReference>DF5:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bear Allies">
+    <PageReference>DF5:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beauty element">
+    <PageReference>DF5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boar Allies">
+    <PageReference>DF5:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Disease Alternate Form">
+    <PageReference>DF5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burrower perk">
+    <PageReference>DF5:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camouflage advantage, limited">
+    <PageReference>DF5:8</PageReference>
+    <PageReference>DF5:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cat">
+    <Child ReferenceText="familiars">
+      <PageReference>DF5:22</PageReference>
+    </Child>
+    <Child ReferenceText="Allies">
+      <PageReference>DF5:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Celestial steeds">
+    <PageReference>DF5:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Channeling enhancements, new">
+    <PageReference>DF5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chaos element">
+    <PageReference>DF5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cheetah lens">
+    <PageReference>DF5:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chimp familiars">
+    <PageReference>DF5:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Class of character, new">
+    <PageReference>DF5:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Converting stats to racial templates">
+    <PageReference>DF5:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corpse-Smart perk">
+    <PageReference>DF5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Create Visible Light advantage">
+    <PageReference>DF5:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Darkness element">
+    <PageReference>DF5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death element">
+    <PageReference>DF5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deception element">
+    <PageReference>DF5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages, developing">
+    <PageReference>DF5:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disease element">
+    <PageReference>DF5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine elements">
+    <PageReference>DF5:13-19</PageReference>
+    <Child ReferenceText="cost">
+      <PageReference>DF5:13</PageReference>
+    </Child>
+    <Child ReferenceText="developing">
+      <PageReference>DF5:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine servitors">
+    <Child ReferenceText="template">
+      <PageReference>DF5:12-13</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>DF5:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dog familiars">
+    <PageReference>DF5:22-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drains Familiar limitation">
+    <PageReference>DF5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druidic Allies">
+    <PageReference>DF5:5-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eagle Allies, giant">
+    <PageReference>DF5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth element">
+    <PageReference>DF5:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental Allies">
+    <PageReference>DF5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elements">
+    <SeeAlso>Divine Elements and specific elements</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy Reserve advantage">
+    <PageReference>DF5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancements, new">
+    <PageReference>DF5:14</PageReference>
+    <PageReference>DF5:15</PageReference>
+    <PageReference>DF5:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evil element">
+    <PageReference>DF5:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Familiar meta-trait">
+    <PageReference>DF5:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Familiars">
+    <SeeAlso>specific familiars</SeeAlso>
+    <Child ReferenceText="common">
+      <PageReference>DF5:21-29</PageReference>
+    </Child>
+    <Child ReferenceText="traits granted by">
+      <PageReference>DF5:20</PageReference>
+    </Child>
+    <Child ReferenceText="adapting templates">
+      <PageReference>DF5:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fantastic creatures">
+    <PageReference>DF5:25-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fear element">
+    <PageReference>DF5:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ferret familiars">
+    <PageReference>DF5:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire element">
+    <PageReference>DF5:16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Getting a familiar">
+    <PageReference>DF5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant">
+    <Child ReferenceText="spiders">
+      <PageReference>DF5:25</PageReference>
+    </Child>
+    <Child ReferenceText="eagles">
+      <PageReference>DF5:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Good element">
+    <PageReference>DF5:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gorilla Allies">
+    <PageReference>DF5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Granted by Familiar limitation">
+    <PageReference>DF5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Granted traits from familiars">
+    <PageReference>DF5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great cat Allies">
+    <PageReference>DF5:7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Basic Set">
+    <PageReference>DF5:3</PageReference>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DF5:3</PageReference>
+      <PageReference>DF5:21</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DF5:3</PageReference>
+      <PageReference>DF5:5</PageReference>
+      <PageReference>DF5:12</PageReference>
+      <PageReference>DF5:13</PageReference>
+      <PageReference>DF5:19</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DF5:3</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF5:4</PageReference>
+      <PageReference>DF5:8</PageReference>
+      <PageReference>DF5:20</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>DF5:4</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>DF5:3</PageReference>
+      <PageReference>DF5:14</PageReference>
+      <PageReference>DF5:15</PageReference>
+      <PageReference>DF5:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hawk familiars">
+    <PageReference>DF5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hellhound familiars">
+    <PageReference>DF5:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy Allies">
+    <PageReference>DF5:12-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy hounds">
+    <PageReference>DF5:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy Might">
+    <PageReference>DF5:3</PageReference>
+    <PageReference>DF5:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horrific lens">
+    <PageReference>DF5:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hounds">
+    <Child ReferenceText="holy">
+      <PageReference>DF5:13</PageReference>
+    </Child>
+    <Child ReferenceText="Allies">
+      <PageReference>DF5:8-9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ice Weasel familiars">
+    <PageReference>DF5:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion advantage">
+    <PageReference>DF5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imp familiars">
+    <PageReference>DF5:26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infiltration enhancement">
+    <PageReference>DF5:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury Tolerance advantage for swarms">
+    <PageReference>DF5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insect swarm Allies">
+    <PageReference>DF5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kangaroo Allies">
+    <PageReference>DF5:9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kraken Allies">
+    <PageReference>DF5:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <PageReference>DF5:8</PageReference>
+    <PageReference>DF5:9</PageReference>
+    <PageReference>DF5:11</PageReference>
+    <PageReference>DF5:13</PageReference>
+    <PageReference>DF5:21</PageReference>
+    <PageReference>DF5:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Life element">
+    <PageReference>DF5:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light element">
+    <PageReference>DF5:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited Camouflage advantage">
+    <PageReference>DF5:8</PageReference>
+    <PageReference>DF5:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lion lens">
+    <PageReference>DF5:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Macaw familiars">
+    <PageReference>DF5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manifestation enhancement">
+    <PageReference>DF5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medium enhancements, new">
+    <PageReference>DF5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-traits, new">
+    <PageReference>DF5:5</PageReference>
+    <PageReference>DF5:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minor lens">
+    <PageReference>DF5:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monkey familiars">
+    <PageReference>DF5:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Musk perk">
+    <PageReference>DF5:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural lens">
+    <PageReference>DF5:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nature element">
+    <PageReference>DF5:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nature spirit Allies">
+    <PageReference>DF5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonhuman shapeshifters">
+    <PageReference>DF5:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonsummonable lens">
+    <PageReference>DF5:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orangutan familiars">
+    <PageReference>DF5:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Order element">
+    <PageReference>DF5:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Others enhancement">
+    <PageReference>DF5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Others Only enhancement">
+    <PageReference>DF5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Owl familiars">
+    <PageReference>DF5:23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Panther Allies">
+    <PageReference>DF5:7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parrot familiars">
+    <PageReference>DF5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peace element">
+    <PageReference>DF5:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks, developing">
+    <PageReference>DF5:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quirks, developing">
+    <PageReference>DF5:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rabbit familiars">
+    <PageReference>DF5:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Racial templates, conversion to">
+    <PageReference>DF5:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rat familiars">
+    <PageReference>DF5:24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Raven familiars">
+    <PageReference>DF5:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recommended GURPS books">
+    <PageReference>DF5:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Redundant skills between elements">
+    <PageReference>DF5:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious Ritual skill">
+    <PageReference>DF5:7</PageReference>
+    <PageReference>DF5:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Salamander familiars">
+    <PageReference>DF5:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secondary characteristics">
+    <PageReference>DF5:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Servitor of Caduceus">
+    <PageReference>DF5:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Servitor of Good class">
+    <PageReference>DF5:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shapeshifting spell">
+    <PageReference>DF5:8</PageReference>
+    <PageReference>DF5:21</PageReference>
+    <SeeAlso>Animal Allies</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shared Thoughts lens">
+    <PageReference>DF5:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shark Allies">
+    <PageReference>DF5:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shield-Wall Training perk">
+    <PageReference>DF5:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoulder dragon familiars">
+    <PageReference>DF5:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="redundant between elements">
+      <PageReference>DF5:16</PageReference>
+    </Child>
+    <Child ReferenceText="developing">
+      <PageReference>DF5:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skunk lens">
+    <PageReference>DF5:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma (Infernal) disadvantage">
+    <PageReference>DF5:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spider familiars, giant">
+    <PageReference>DF5:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stallion Allies">
+    <PageReference>DF5:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steeds">
+    <Child ReferenceText="celestial">
+      <PageReference>DF5:13</PageReference>
+    </Child>
+    <Child ReferenceText="Allies">
+      <PageReference>DF5:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Swarm (for Injury Tolerance)">
+    <PageReference>DF5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sylph familiars">
+    <PageReference>DF5:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talus familiars">
+    <PageReference>DF5:28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telepathic">
+    <PageReference>DF5:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiger lens">
+    <PageReference>DF5:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Timber wolf lens">
+    <PageReference>DF5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traits granted by familiars">
+    <PageReference>DF5:20</PageReference>
+    <SeeAlso>specific familiars</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel element">
+    <PageReference>DF5:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="T weaking familiars">
+    <PageReference>DF5:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Undine familiars">
+    <PageReference>DF5:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unholy lens">
+    <PageReference>DF5:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unholy Might">
+    <PageReference>DF5:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal enhancement">
+    <PageReference>DF5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Viper familiars">
+    <PageReference>DF5:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="War element">
+    <PageReference>DF5:18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water element">
+    <PageReference>DF5:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Winged lens">
+    <PageReference>DF5:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wisdom element">
+    <PageReference>DF5:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wolverine Allies">
+    <PageReference>DF5:11</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

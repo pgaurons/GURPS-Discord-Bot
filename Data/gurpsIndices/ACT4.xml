@@ -1,0 +1,959 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="3D Spatial Sense advantage">
+    <Child ReferenceText="bonus from">
+      <PageReference>ACT4:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Absolute Direction advantage">
+    <Child ReferenceText="trading up">
+      <PageReference>ACT4:29</PageReference>
+    </Child>
+    <Child ReferenceText="bonus from">
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Academics skill set">
+    <PageReference>ACT4:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="bonuses to skills">
+      <PageReference>ACT4:15</PageReference>
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+    <Child ReferenceText="Higher Purpose">
+      <PageReference>ACT4:34</PageReference>
+    </Child>
+    <Child ReferenceText="limits">
+      <PageReference>ACT4:29-30</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>ACT4:32</PageReference>
+      <PageReference>ACT4:34</PageReference>
+    </Child>
+    <Child ReferenceText="optimal">
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+    <Child ReferenceText="potential mandatory">
+      <PageReference>ACT4:9</PageReference>
+    </Child>
+    <Child ReferenceText="trading up, 29-30 see also Perks" />
+    <Child ReferenceText="adding social">
+      <PageReference>ACT4:33-34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Airborne School skill set">
+    <PageReference>ACT4:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies advantage">
+    <Child ReferenceText="sidekick">
+      <PageReference>ACT4:8</PageReference>
+    </Child>
+    <Child ReferenceText="GM decisions">
+      <PageReference>ACT4:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Amphibious Operations skill set">
+    <PageReference>ACT4:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance advantage">
+    <Child ReferenceText="bonus from">
+      <PageReference>ACT4:15</PageReference>
+    </Child>
+    <Child ReferenceText="allowed levels">
+      <PageReference>ACT4:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Area Security skill set">
+    <PageReference>ACT4:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armory skill set">
+    <PageReference>ACT4:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <Child ReferenceText="optimal">
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+    <Child ReferenceText="caps">
+      <PageReference>ACT4:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic Action Template (BAT)">
+    <PageReference>ACT4:4-7</PageReference>
+    <SeeAlso>Skill Sets</SeeAlso>
+    <SeeAlso>Slush Fund</SeeAlso>
+    <Child ReferenceText="alternate starting">
+      <PageReference>ACT4:9</PageReference>
+    </Child>
+    <Child ReferenceText="alternate power levels">
+      <PageReference>ACT4:5</PageReference>
+    </Child>
+    <Child ReferenceText="buying traits on">
+      <PageReference>ACT4:31</PageReference>
+    </Child>
+    <Child ReferenceText="potential mandatory traits">
+      <PageReference>ACT4:8-9</PageReference>
+    </Child>
+    <Child ReferenceText="replacement physical traits">
+      <PageReference>ACT4:7</PageReference>
+    </Child>
+    <Child ReferenceText="unsuitable traits">
+      <PageReference>ACT4:7-8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bon Vivant skill set">
+    <PageReference>ACT4:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Booby Traps skill set">
+    <PageReference>ACT4:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buddy Bond advantage">
+    <PageReference>ACT4:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bugging skill set">
+    <PageReference>ACT4:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bushwhacker skill set">
+    <PageReference>ACT4:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Businessperson skill set">
+    <PageReference>ACT4:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Car Thief skill set">
+    <PageReference>ACT4:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cat power-up">
+    <PageReference>ACT4:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Character creation">
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Attributes</SeeAlso>
+    <SeeAlso>Basic Action Template</SeeAlso>
+    <SeeAlso>Disadvantages</SeeAlso>
+    <SeeAlso>Perks</SeeAlso>
+    <SeeAlso>Skill Sets</SeeAlso>
+    <SeeAlso>Skills</SeeAlso>
+    <SeeAlso>Slush Fund</SeeAlso>
+    <Child ReferenceText="backgrounds">
+      <PageReference>ACT4:32-33</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Action Template">
+      <PageReference>ACT4:4-7</PageReference>
+    </Child>
+    <Child ReferenceText="buying optional traits">
+      <PageReference>ACT4:32</PageReference>
+    </Child>
+    <Child ReferenceText="buying traits on the BAT">
+      <PageReference>ACT4:31</PageReference>
+    </Child>
+    <Child ReferenceText="buying up traits on character sheets">
+      <PageReference>ACT4:32</PageReference>
+    </Child>
+    <Child ReferenceText="checking trait levels">
+      <PageReference>ACT4:28-30</PageReference>
+    </Child>
+    <Child ReferenceText="checklist">
+      <PageReference>ACT4:4</PageReference>
+    </Child>
+    <Child ReferenceText="choosing perks">
+      <PageReference>ACT4:33</PageReference>
+    </Child>
+    <Child ReferenceText="choosing quirks">
+      <PageReference>ACT4:28</PageReference>
+    </Child>
+    <Child ReferenceText="compatibility">
+      <PageReference>ACT4:34</PageReference>
+    </Child>
+    <Child ReferenceText="designing NPCs">
+      <PageReference>ACT4:8</PageReference>
+    </Child>
+    <Child ReferenceText="generalists">
+      <PageReference>ACT4:32</PageReference>
+    </Child>
+    <Child ReferenceText="GM decisions">
+      <PageReference>ACT4:7-9</PageReference>
+      <PageReference>ACT4:29</PageReference>
+    </Child>
+    <Child ReferenceText="higher power level">
+      <PageReference>ACT4:26</PageReference>
+    </Child>
+    <Child ReferenceText="leveling  up">
+      <PageReference>ACT4:26</PageReference>
+    </Child>
+    <Child ReferenceText="negative-total options">
+      <PageReference>ACT4:31</PageReference>
+    </Child>
+    <Child ReferenceText="non-Action campaign decisions">
+      <PageReference>ACT4:7</PageReference>
+      <PageReference>ACT4:10</PageReference>
+      <PageReference>ACT4:24</PageReference>
+      <PageReference>ACT4:29</PageReference>
+    </Child>
+    <Child ReferenceText="optimizing traits">
+      <PageReference>ACT4:30-31</PageReference>
+    </Child>
+    <Child ReferenceText="potential mandatory traits">
+      <PageReference>ACT4:8-9</PageReference>
+    </Child>
+    <Child ReferenceText="power levels">
+      <PageReference>ACT4:5</PageReference>
+      <PageReference>ACT4:26</PageReference>
+    </Child>
+    <Child ReferenceText="secondary characteristic caps">
+      <PageReference>ACT4:28</PageReference>
+    </Child>
+    <Child ReferenceText="sidelines">
+      <PageReference>ACT4:33</PageReference>
+    </Child>
+    <Child ReferenceText="skill sets">
+      <PageReference>ACT4:10-24</PageReference>
+    </Child>
+    <Child ReferenceText="social advantages">
+      <PageReference>ACT4:33-34</PageReference>
+    </Child>
+    <Child ReferenceText="spending  the Slush Fund">
+      <PageReference>ACT4:31-34</PageReference>
+    </Child>
+    <Child ReferenceText="trait limits">
+      <PageReference>ACT4:28-30</PageReference>
+    </Child>
+    <Child ReferenceText="unsuitable traits">
+      <PageReference>ACT4:7-8</PageReference>
+    </Child>
+    <Child ReferenceText="attribute caps">
+      <PageReference>ACT4:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cheaper Gear perk">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemical Safety skill set">
+    <PageReference>ACT4:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Civilian Crewman (sailor) skill set">
+    <PageReference>ACT4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Civilian Pilot skill set">
+    <PageReference>ACT4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleaning skill set">
+    <PageReference>ACT4:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Climber skill set">
+    <PageReference>ACT4:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close-Quarters Battle skill set">
+    <PageReference>ACT4:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Reflexes advantage">
+    <Child ReferenceText="bonus from">
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Command skill set">
+    <PageReference>ACT4:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Communications skill set">
+    <PageReference>ACT4:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer Intrusion skill set">
+    <PageReference>ACT4:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer Operation skill">
+    <Child ReferenceText="swapping">
+      <PageReference>ACT4:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Conspiracies skill set">
+    <PageReference>ACT4:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Construction skill set">
+    <PageReference>ACT4:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact Group advantage">
+    <PageReference>ACT4:9</PageReference>
+    <PageReference>ACT4:33</PageReference>
+    <Child ReferenceText="optimizing">
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts advantage">
+    <Child ReferenceText="optimizing">
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Countersurveillance skill set">
+    <PageReference>ACT4:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cowboy skill set">
+    <PageReference>ACT4:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminal Past skill set">
+    <PageReference>ACT4:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Adaptability advantage">
+    <Child ReferenceText="converting to">
+      <PageReference>ACT4:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Familiarity advantage">
+    <Child ReferenceText="optimizing">
+      <PageReference>ACT4:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dabbler perk">
+    <PageReference>ACT4:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demolitions skill set">
+    <PageReference>ACT4:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Desert Training skill set">
+    <PageReference>ACT4:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detective Work skill set">
+    <PageReference>ACT4:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <Child ReferenceText="potential mandatory">
+      <PageReference>ACT4:8-9</PageReference>
+    </Child>
+    <Child ReferenceText="suitable enemy">
+      <PageReference>ACT4:28</PageReference>
+    </Child>
+    <Child ReferenceText="unsuitable mental">
+      <PageReference>ACT4:8</PageReference>
+    </Child>
+    <Child ReferenceText="unsuitable physical">
+      <PageReference>ACT4:7</PageReference>
+    </Child>
+    <Child ReferenceText="choosing quirks">
+      <PageReference>ACT4:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disease Control skill set">
+    <PageReference>ACT4:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doctor skill set">
+    <PageReference>ACT4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Driving skill">
+    <Child ReferenceText="optimizing">
+      <PageReference>ACT4:31</PageReference>
+    </Child>
+    <Child ReferenceText="swapping">
+      <PageReference>ACT4:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Duty disadvantage">
+    <PageReference>ACT4:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eidetic Memory advantage">
+    <Child ReferenceText="trading up">
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronic Surveillance skill set">
+    <PageReference>ACT4:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronics skill set">
+    <PageReference>ACT4:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Empathy advantage">
+    <Child ReferenceText="bonus from">
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+    <Child ReferenceText="allowed levels">
+      <PageReference>ACT4:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemies">
+    <Child ReferenceText="designing">
+      <PageReference>ACT4:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment Bond perk">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Escape and Evasion skill set">
+    <PageReference>ACT4:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosive Ordnance Disposal (EOD) skill set">
+    <PageReference>ACT4:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosives skill">
+    <Child ReferenceText="optimizing">
+      <PageReference>ACT4:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Life power-up">
+    <PageReference>ACT4:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extras (NPCs)">
+    <Child ReferenceText="designing">
+      <PageReference>ACT4:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fearlessness advantage">
+    <Child ReferenceText="trading up">
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Femme Fatale skill set">
+    <PageReference>ACT4:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fireman skill set">
+    <PageReference>ACT4:15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fixer skill set">
+    <PageReference>ACT4:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flexibility advantage">
+    <Child ReferenceText="bonus from">
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+    <Child ReferenceText="allowed levels">
+      <PageReference>ACT4:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flight School skill sets">
+    <PageReference>ACT4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forensics skill set">
+    <PageReference>ACT4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forest Training skill set">
+    <PageReference>ACT4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteer power-ups">
+    <PageReference>ACT4:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goon skill set">
+    <PageReference>ACT4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunner skill">
+    <Child ReferenceText="optimizing">
+      <PageReference>ACT4:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns skill">
+    <Child ReferenceText="optimizing">
+      <PageReference>ACT4:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunslinger power-up">
+    <PageReference>ACT4:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Action">
+    <PageReference>ACT4:3-5</PageReference>
+    <PageReference>ACT4:7</PageReference>
+    <PageReference>ACT4:8</PageReference>
+    <PageReference>ACT4:12</PageReference>
+    <PageReference>ACT4:13</PageReference>
+    <PageReference>ACT4:16-21</PageReference>
+    <PageReference>ACT4:23-25</PageReference>
+    <PageReference>ACT4:27-34</PageReference>
+    <Child ReferenceText="Action 1: Heroes">
+      <PageReference>ACT4:3-5</PageReference>
+      <PageReference>ACT4:7-12</PageReference>
+      <PageReference>ACT4:14</PageReference>
+      <PageReference>ACT4:15</PageReference>
+      <PageReference>ACT4:17</PageReference>
+      <PageReference>ACT4:18</PageReference>
+      <PageReference>ACT4:23</PageReference>
+      <PageReference>ACT4:29-31</PageReference>
+      <PageReference>ACT4:33</PageReference>
+      <PageReference>ACT4:34</PageReference>
+    </Child>
+    <Child ReferenceText="Action 2: Exploits">
+      <PageReference>ACT4:3</PageReference>
+      <PageReference>ACT4:8</PageReference>
+      <PageReference>ACT4:13</PageReference>
+      <PageReference>ACT4:17</PageReference>
+      <PageReference>ACT4:18</PageReference>
+      <PageReference>ACT4:20-22</PageReference>
+      <PageReference>ACT4:24</PageReference>
+      <PageReference>ACT4:25</PageReference>
+      <PageReference>ACT4:27</PageReference>
+      <PageReference>ACT4:34</PageReference>
+    </Child>
+    <Child ReferenceText="Action 3: Furious Fists">
+      <PageReference>ACT4:3</PageReference>
+      <PageReference>ACT4:10</PageReference>
+      <PageReference>ACT4:19</PageReference>
+      <PageReference>ACT4:23</PageReference>
+      <PageReference>ACT4:26</PageReference>
+      <PageReference>ACT4:27</PageReference>
+      <PageReference>ACT4:29</PageReference>
+      <PageReference>ACT4:30</PageReference>
+      <PageReference>ACT4:33</PageReference>
+      <PageReference>ACT4:34</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>ACT4:4</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>ACT4:3</PageReference>
+      <PageReference>ACT4:23</PageReference>
+      <PageReference>ACT4:33</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 3: Talents">
+      <PageReference>ACT4:29</PageReference>
+    </Child>
+    <Child ReferenceText="PowerUps 6: Quirks">
+      <PageReference>ACT4:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="H4xx0r power-up">
+    <PageReference>ACT4:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heavy Weapons skill set">
+    <PageReference>ACT4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Higher Purpose advantage">
+    <PageReference>ACT4:34</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>ACT4:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hostile Extraction skill set">
+    <PageReference>ACT4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Huge Weapons perk">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illicit Entry skill set">
+    <PageReference>ACT4:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impersonation skill set">
+    <PageReference>ACT4:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infantry Training skill set">
+    <PageReference>ACT4:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intelligence skill set">
+    <PageReference>ACT4:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interrogation skill set">
+    <PageReference>ACT4:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jack of All Trades advantage">
+    <PageReference>ACT4:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Journalism skill set">
+    <PageReference>ACT4:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jungle Training skill set">
+    <PageReference>ACT4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Just That Good power-up">
+    <PageReference>ACT4:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Language trait">
+    <Child ReferenceText="optimizing">
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Language Talent advantage">
+    <Child ReferenceText="converting to">
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Law enforcement officers">
+    <Child ReferenceText="potential mandatory traits">
+      <PageReference>ACT4:7-9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Law Enforcement skill set">
+    <PageReference>ACT4:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses, BAT-equivalent">
+    <SeeAlso>Skill Sets</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Linguist skill set">
+    <PageReference>ACT4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Local Expert skill set">
+    <PageReference>ACT4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luck advantage">
+    <Child ReferenceText="allowed levels">
+      <PageReference>ACT4:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial Arts skill sets">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial-Arts Master power-ups">
+    <PageReference>ACT4:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master (Armed) power-up">
+    <PageReference>ACT4:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master (Ninja) power-up">
+    <PageReference>ACT4:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master (Unarmed) power-up">
+    <PageReference>ACT4:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mastermind skill set">
+    <PageReference>ACT4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medic skill set">
+    <PageReference>ACT4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medicine skill sets">
+    <PageReference>ACT4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military Crewman (sailor) skill set">
+    <PageReference>ACT4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military Pilot skill set">
+    <PageReference>ACT4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mountain Training skill set">
+    <PageReference>ACT4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naval Training perk">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Negotiator skill set">
+    <PageReference>ACT4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NPCs">
+    <Child ReferenceText="GM decisions">
+      <PageReference>ACT4:29</PageReference>
+    </Child>
+    <Child ReferenceText="designing">
+      <PageReference>ACT4:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nuclear Disposal skill set">
+    <PageReference>ACT4:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obsolete Weapons skill set">
+    <PageReference>ACT4:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Old Salt perk">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parkour skill set">
+    <PageReference>ACT4:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perfect Balance advantage">
+    <Child ReferenceText="bonus from">
+      <PageReference>ACT4:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <Child ReferenceText="limits">
+      <PageReference>ACT4:29</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>ACT4:23</PageReference>
+      <PageReference>ACT4:33</PageReference>
+    </Child>
+    <Child ReferenceText="buying">
+      <PageReference>ACT4:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal Security skill set">
+    <PageReference>ACT4:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Physical Training skill set">
+    <PageReference>ACT4:19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pilot skill sets">
+    <PageReference>ACT4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Piloting skill">
+    <Child ReferenceText="optimizing">
+      <PageReference>ACT4:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pistolero skill set">
+    <PageReference>ACT4:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power levels">
+    <Child ReferenceText="higher">
+      <PageReference>ACT4:26</PageReference>
+    </Child>
+    <Child ReferenceText="alternate">
+      <PageReference>ACT4:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power-ups">
+    <PageReference>ACT4:24</PageReference>
+    <Child ReferenceText="as level-ups">
+      <PageReference>ACT4:26</PageReference>
+    </Child>
+    <Child ReferenceText="doubling up">
+      <PageReference>ACT4:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Precautions perk">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psy-Ops skill set">
+    <PageReference>ACT4:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid #3/53: Action">
+    <PageReference>ACT4:3</PageReference>
+    <SeeAlso>GURPS</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Quirks">
+    <Child ReferenceText="choosing">
+      <PageReference>ACT4:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rank advantage">
+    <PageReference>ACT4:9</PageReference>
+    <PageReference>ACT4:33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recon skill set">
+    <PageReference>ACT4:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Records Falsification skill set">
+    <PageReference>ACT4:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repairman skill set">
+    <PageReference>ACT4:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Researcher skill set">
+    <PageReference>ACT4:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistance skill set">
+    <PageReference>ACT4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robust Hearing perk">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robust Vision perk">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sabotage skill set">
+    <PageReference>ACT4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Safecracking skill set">
+    <PageReference>ACT4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sailor skill sets">
+    <PageReference>ACT4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sartorial Integrity perk">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scientist skill set">
+    <PageReference>ACT4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secondary characteristics">
+    <Child ReferenceText="caps">
+      <PageReference>ACT4:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Security Systems skill set">
+    <PageReference>ACT4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-Defense skill set">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense of Duty Disadvantage">
+    <PageReference>ACT4:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensitive advantage">
+    <Child ReferenceText="bonus from">
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+    <Child ReferenceText="allowed levels">
+      <PageReference>ACT4:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sidekicks">
+    <Child ReferenceText="GM permission">
+      <PageReference>ACT4:29</PageReference>
+    </Child>
+    <Child ReferenceText="power level">
+      <PageReference>ACT4:5</PageReference>
+    </Child>
+    <Child ReferenceText="designing">
+      <PageReference>ACT4:5</PageReference>
+      <PageReference>ACT4:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Silent Killing skill set">
+    <PageReference>ACT4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skill sets">
+    <PageReference>ACT4:10-24</PageReference>
+    <SeeAlso>Basic Action Template</SeeAlso>
+    <SeeAlso>Slush Fund</SeeAlso>
+    <Child ReferenceText="as level-ups">
+      <PageReference>ACT4:26</PageReference>
+    </Child>
+    <Child ReferenceText="as origin inspiration">
+      <PageReference>ACT4:10</PageReference>
+    </Child>
+    <Child ReferenceText="as suggestions">
+      <PageReference>ACT4:19</PageReference>
+    </Child>
+    <Child ReferenceText="cost">
+      <PageReference>ACT4:10</PageReference>
+    </Child>
+    <Child ReferenceText="doubling up">
+      <PageReference>ACT4:11</PageReference>
+    </Child>
+    <Child ReferenceText="explained">
+      <PageReference>ACT4:10</PageReference>
+    </Child>
+    <Child ReferenceText="sideline">
+      <PageReference>ACT4:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="bonuses from advantages">
+      <PageReference>ACT4:15</PageReference>
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+    <Child ReferenceText="optimal">
+      <PageReference>ACT4:31</PageReference>
+    </Child>
+    <Child ReferenceText="round levels">
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+    <Child ReferenceText="sideline">
+      <PageReference>ACT4:33</PageReference>
+    </Child>
+    <Child ReferenceText="swapping">
+      <PageReference>ACT4:33</PageReference>
+    </Child>
+    <Child ReferenceText="Talents replacing">
+      <PageReference>ACT4:30-31</PageReference>
+    </Child>
+    <Child ReferenceText="background">
+      <PageReference>ACT4:32-33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slush Fund">
+    <SeeAlso>Basic Action Template</SeeAlso>
+    <SeeAlso>Skill Sets</SeeAlso>
+    <Child ReferenceText="Higher Purpose and">
+      <PageReference>ACT4:34</PageReference>
+    </Child>
+    <Child ReferenceText="perks and">
+      <PageReference>ACT4:33</PageReference>
+    </Child>
+    <Child ReferenceText="quirks and">
+      <PageReference>ACT4:28</PageReference>
+    </Child>
+    <Child ReferenceText="social advantages, and">
+      <PageReference>ACT4:33-34</PageReference>
+    </Child>
+    <Child ReferenceText="spending">
+      <PageReference>ACT4:31</PageReference>
+    </Child>
+    <Child ReferenceText="explained">
+      <PageReference>ACT4:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sniper School skill set">
+    <PageReference>ACT4:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Engineering skill set">
+    <PageReference>ACT4:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soldering-Gun Slinger">
+    <PageReference>ACT4:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soldiers">
+    <Child ReferenceText="potential mandatory traits">
+      <PageReference>ACT4:7-9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Special Agent power-up">
+    <PageReference>ACT4:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special Exercises perk">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spin Doctor skill set">
+    <PageReference>ACT4:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super Luck power-up">
+    <PageReference>ACT4:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sure-Footed perk">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surveillance skill set">
+    <PageReference>ACT4:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival skill set">
+    <PageReference>ACT4:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Survivor power-up">
+    <PageReference>ACT4:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactical Driving skill set">
+    <PageReference>ACT4:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <Child ReferenceText="replacing skills with">
+      <PageReference>ACT4:30-31</PageReference>
+    </Child>
+    <Child ReferenceText="optimal">
+      <PageReference>ACT4:30-31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <Child ReferenceText="optimal">
+      <PageReference>ACT4:30</PageReference>
+      <PageReference>ACT4:31</PageReference>
+    </Child>
+    <Child ReferenceText="maximum levels">
+      <PageReference>ACT4:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <SeeAlso>Basic Action Template</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Theft skill set">
+    <PageReference>ACT4:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toxicology skill set">
+    <PageReference>ACT4:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traceur power-up">
+    <PageReference>ACT4:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tradecraft skill set">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transporter power-up">
+    <PageReference>ACT4:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultimate Repairman power-up">
+    <PageReference>ACT4:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unarmed Combat skill set">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Undercover skill set">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Underwater Operations skill set">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Upside-Down perk">
+    <PageReference>ACT4:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Urban Assault skill set">
+    <PageReference>ACT4:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voice advantage">
+    <Child ReferenceText="bonus from">
+      <PageReference>ACT4:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Winter Operations skill set">
+    <PageReference>ACT4:24</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

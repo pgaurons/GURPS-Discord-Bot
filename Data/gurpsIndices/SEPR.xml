@@ -1,0 +1,572 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Academic Rank advantage">
+    <PageReference>SEPR8</PageReference>
+    <Child ReferenceText="requirements">
+      <PageReference>SEPR7</PageReference>
+    </Child>
+    <Child ReferenceText="specific assistance examples">
+      <PageReference>SEPR15</PageReference>
+      <PageReference>SEPR18-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Administrative Rank advantage">
+    <PageReference>SEPR8</PageReference>
+    <Child ReferenceText="requirements">
+      <PageReference>SEPR7</PageReference>
+    </Child>
+    <Child ReferenceText="specific assistance examples">
+      <PageReference>SEPR14-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <SeeAlso>Patron Advantage</SeeAlso>
+    <SeeAlso>Rank Advantage</SeeAlso>
+    <Child ReferenceText="Rank requirements">
+      <PageReference>SEPR7</PageReference>
+      <PageReference>SEPR9</PageReference>
+    </Child>
+    <Child ReferenceText="assistance modifiers">
+      <PageReference>SEPR9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Assistance Examples</SeeAlso>
+    <Child ReferenceText="Rank requirements as sources of">
+      <PageReference>SEPR12</PageReference>
+    </Child>
+    <Child ReferenceText="high Rank and">
+      <PageReference>SEPR8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Assistance examples">
+    <Child ReferenceText="bailout">
+      <PageReference>SEPR17</PageReference>
+    </Child>
+    <Child ReferenceText="bribe">
+      <PageReference>SEPR14</PageReference>
+    </Child>
+    <Child ReferenceText="broad requests">
+      <PageReference>SEPR14</PageReference>
+    </Child>
+    <Child ReferenceText="buying transactions">
+      <PageReference>SEPR18</PageReference>
+    </Child>
+    <Child ReferenceText="cash">
+      <PageReference>SEPR16</PageReference>
+    </Child>
+    <Child ReferenceText="cavalry">
+      <PageReference>SEPR19</PageReference>
+    </Child>
+    <Child ReferenceText="consultation">
+      <PageReference>SEPR15</PageReference>
+    </Child>
+    <Child ReferenceText="cover-up">
+      <PageReference>SEPR14</PageReference>
+    </Child>
+    <Child ReferenceText="covert activity">
+      <PageReference>SEPR14-15</PageReference>
+    </Child>
+    <Child ReferenceText="disappearance">
+      <PageReference>SEPR14</PageReference>
+    </Child>
+    <Child ReferenceText="entry clearance">
+      <PageReference>SEPR13</PageReference>
+    </Child>
+    <Child ReferenceText="evacuation">
+      <PageReference>SEPR17</PageReference>
+    </Child>
+    <Child ReferenceText="extraction">
+      <PageReference>SEPR14-15</PageReference>
+    </Child>
+    <Child ReferenceText="facilities">
+      <PageReference>SEPR18-19</PageReference>
+    </Child>
+    <Child ReferenceText="false ID">
+      <PageReference>SEPR14</PageReference>
+    </Child>
+    <Child ReferenceText="files">
+      <PageReference>SEPR15</PageReference>
+    </Child>
+    <Child ReferenceText="fire support">
+      <PageReference>SEPR19</PageReference>
+    </Child>
+    <Child ReferenceText="funding">
+      <PageReference>SEPR16</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>SEPR16</PageReference>
+    </Child>
+    <Child ReferenceText="hireling">
+      <PageReference>SEPR18</PageReference>
+    </Child>
+    <Child ReferenceText="hush money">
+      <PageReference>SEPR14</PageReference>
+    </Child>
+    <Child ReferenceText="information">
+      <PageReference>SEPR15-16</PageReference>
+    </Child>
+    <Child ReferenceText="insertion">
+      <PageReference>SEPR14-15</PageReference>
+    </Child>
+    <Child ReferenceText="introduction">
+      <PageReference>SEPR18</PageReference>
+    </Child>
+    <Child ReferenceText="invitation">
+      <PageReference>SEPR18</PageReference>
+    </Child>
+    <Child ReferenceText="job">
+      <PageReference>SEPR18</PageReference>
+    </Child>
+    <Child ReferenceText="license">
+      <PageReference>SEPR13</PageReference>
+    </Child>
+    <Child ReferenceText="material aid">
+      <PageReference>SEPR16</PageReference>
+    </Child>
+    <Child ReferenceText="muscle">
+      <PageReference>SEPR19</PageReference>
+    </Child>
+    <Child ReferenceText="Rank type and">
+      <PageReference>SEPR13</PageReference>
+    </Child>
+    <Child ReferenceText="records search">
+      <PageReference>SEPR15-16</PageReference>
+    </Child>
+    <Child ReferenceText="rescue">
+      <PageReference>SEPR17</PageReference>
+    </Child>
+    <Child ReferenceText="safe house">
+      <PageReference>SEPR15</PageReference>
+    </Child>
+    <Child ReferenceText="sales transactions">
+      <PageReference>SEPR18</PageReference>
+    </Child>
+    <Child ReferenceText="service">
+      <PageReference>SEPR18</PageReference>
+    </Child>
+    <Child ReferenceText="shipping">
+      <PageReference>SEPR19</PageReference>
+    </Child>
+    <Child ReferenceText="social privilege">
+      <PageReference>SEPR18</PageReference>
+    </Child>
+    <Child ReferenceText="specialists">
+      <PageReference>SEPR19</PageReference>
+    </Child>
+    <Child ReferenceText="supernatural aid">
+      <PageReference>SEPR17</PageReference>
+    </Child>
+    <Child ReferenceText="technical assistance">
+      <PageReference>SEPR18-19</PageReference>
+    </Child>
+    <Child ReferenceText="technical means">
+      <PageReference>SEPR15</PageReference>
+    </Child>
+    <Child ReferenceText="transportation">
+      <PageReference>SEPR19</PageReference>
+    </Child>
+    <Child ReferenceText="travel">
+      <PageReference>SEPR19</PageReference>
+    </Child>
+    <Child ReferenceText="treatment">
+      <PageReference>SEPR17</PageReference>
+    </Child>
+    <Child ReferenceText="unspecified">
+      <PageReference>SEPR15</PageReference>
+    </Child>
+    <Child ReferenceText="violence">
+      <PageReference>SEPR19</PageReference>
+    </Child>
+    <Child ReferenceText="warrant">
+      <PageReference>SEPR14</PageReference>
+    </Child>
+    <Child ReferenceText="authorization">
+      <PageReference>SEPR13-14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Assistance modifiers">
+    <Child ReferenceText="general">
+      <PageReference>SEPR9-11</PageReference>
+    </Child>
+    <Child ReferenceText="repeated requests">
+      <PageReference>SEPR10-12</PageReference>
+      <PageReference>SEPR14</PageReference>
+    </Child>
+    <Child ReferenceText="situation">
+      <PageReference>SEPR10</PageReference>
+    </Child>
+    <Child ReferenceText="special">
+      <PageReference>SEPR11-12</PageReference>
+    </Child>
+    <Child ReferenceText="specific requests">
+      <PageReference>SEPR13-19</PageReference>
+    </Child>
+    <Child ReferenceText="type of assistance">
+      <PageReference>SEPR11</PageReference>
+    </Child>
+    <Child ReferenceText="character abilities">
+      <PageReference>SEPR10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Assistance rolls (ARs)">
+    <Child ReferenceText="appropriate requests">
+      <PageReference>SEPR10</PageReference>
+      <PageReference>SEPR12</PageReference>
+    </Child>
+    <Child ReferenceText="as complementary skill rolls">
+      <PageReference>SEPR14</PageReference>
+    </Child>
+    <Child ReferenceText="based on Patron only">
+      <PageReference>SEPR12</PageReference>
+    </Child>
+    <Child ReferenceText="buying success and">
+      <PageReference>SEPR10</PageReference>
+      <PageReference>SEPR11</PageReference>
+    </Child>
+    <Child ReferenceText="by leaders">
+      <PageReference>SEPR12</PageReference>
+      <PageReference>SEPR19</PageReference>
+    </Child>
+    <Child ReferenceText="character knowledge of">
+      <PageReference>SEPR9</PageReference>
+    </Child>
+    <Child ReferenceText="contacting organization">
+      <PageReference>SEPR9</PageReference>
+    </Child>
+    <Child ReferenceText="Courtesy Rank and">
+      <PageReference>SEPR9</PageReference>
+    </Child>
+    <Child ReferenceText="determining base value">
+      <PageReference>SEPR5-7</PageReference>
+    </Child>
+    <Child ReferenceText="duration of effects">
+      <PageReference>SEPR9</PageReference>
+    </Child>
+    <Child ReferenceText="effective Rank and">
+      <PageReference>SEPR12</PageReference>
+    </Child>
+    <Child ReferenceText="effects">
+      <PageReference>SEPR9</PageReference>
+    </Child>
+    <Child ReferenceText="failure">
+      <PageReference>SEPR11</PageReference>
+    </Child>
+    <Child ReferenceText="group">
+      <PageReference>SEPR11</PageReference>
+    </Child>
+    <Child ReferenceText="guaranteed">
+      <PageReference>SEPR12</PageReference>
+    </Child>
+    <Child ReferenceText="high Rank and">
+      <PageReference>SEPR8</PageReference>
+    </Child>
+    <Child ReferenceText="inappropriate requests">
+      <PageReference>SEPR10</PageReference>
+      <PageReference>SEPR11</PageReference>
+    </Child>
+    <Child ReferenceText="mixed group">
+      <PageReference>SEPR11</PageReference>
+    </Child>
+    <Child ReferenceText="NPCs and">
+      <PageReference>SEPR12</PageReference>
+    </Child>
+    <Child ReferenceText="petitioner’s standing">
+      <PageReference>SEPR9</PageReference>
+    </Child>
+    <Child ReferenceText="preauthorized">
+      <PageReference>SEPR12</PageReference>
+    </Child>
+    <Child ReferenceText="repeated requests">
+      <PageReference>SEPR10-12</PageReference>
+      <PageReference>SEPR14</PageReference>
+    </Child>
+    <Child ReferenceText="special circumstances">
+      <PageReference>SEPR11-12</PageReference>
+    </Child>
+    <Child ReferenceText="substituting actual Patron">
+      <PageReference>SEPR12</PageReference>
+    </Child>
+    <Child ReferenceText="success">
+      <PageReference>SEPR11</PageReference>
+    </Child>
+    <Child ReferenceText="unmodified">
+      <PageReference>SEPR15</PageReference>
+    </Child>
+    <Child ReferenceText="value table">
+      <PageReference>SEPR6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Capricious Assistance limitation">
+    <PageReference>SEPR5</PageReference>
+    <PageReference>SEPR15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claim to Hospitality advantage">
+    <PageReference>SEPR7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical Investment advantage">
+    <PageReference>SEPR7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Courtesy Rank advantage">
+    <PageReference>SEPR9</PageReference>
+    <PageReference>SEPR18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <Child ReferenceText="Rank requirements">
+      <PageReference>SEPR7-8</PageReference>
+    </Child>
+    <Child ReferenceText="assistance modifiers">
+      <PageReference>SEPR9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Duty disadvantage">
+    <PageReference>SEPR7-9</PageReference>
+    <PageReference>SEPR12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feudal Rank advantage">
+    <PageReference>SEPR8</PageReference>
+    <Child ReferenceText="requirements">
+      <PageReference>SEPR7</PageReference>
+    </Child>
+    <Child ReferenceText="specific assistance examples">
+      <PageReference>SEPR16-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Guild Rank advantage">
+    <PageReference>SEPR8</PageReference>
+    <Child ReferenceText="requirements">
+      <PageReference>SEPR7</PageReference>
+    </Child>
+    <Child ReferenceText="specific assistance examples">
+      <PageReference>SEPR13-18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>SEPR4</PageReference>
+    <Child ReferenceText="Action">
+      <PageReference>SEPR4-6</PageReference>
+      <PageReference>SEPR8</PageReference>
+    </Child>
+    <Child ReferenceText="Action 1: Heroes">
+      <PageReference>SEPR3</PageReference>
+    </Child>
+    <Child ReferenceText="Action 2: Exploits">
+      <PageReference>SEPR3</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>SEPR3</PageReference>
+      <PageReference>SEPR12</PageReference>
+    </Child>
+    <Child ReferenceText="Powers: Divine Favor">
+      <PageReference>SEPR17</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering">
+      <PageReference>SEPR3-5</PageReference>
+      <PageReference>SEPR8</PageReference>
+      <PageReference>SEPR11</PageReference>
+      <PageReference>SEPR12</PageReference>
+      <PageReference>SEPR18</PageReference>
+      <PageReference>SEPR19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Impulsiveness disadvantage">
+    <PageReference>SEPR9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intelligence Rank advantage">
+    <PageReference>SEPR8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legal Enforcement Powers advantage">
+    <PageReference>SEPR7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legal Immunity advantage">
+    <PageReference>SEPR7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitation">
+    <Child ReferenceText="new">
+      <PageReference>SEPR5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical Rank advantage">
+    <PageReference>SEPR8</PageReference>
+    <Child ReferenceText="effect on Rank cost">
+      <PageReference>SEPR5</PageReference>
+    </Child>
+    <Child ReferenceText="requirements">
+      <PageReference>SEPR7</PageReference>
+    </Child>
+    <Child ReferenceText="specific assistance examples">
+      <PageReference>SEPR15-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchant Rank advantage">
+    <PageReference>SEPR8</PageReference>
+    <Child ReferenceText="requirements">
+      <PageReference>SEPR7</PageReference>
+    </Child>
+    <Child ReferenceText="specific assistance examples">
+      <PageReference>SEPR14-16</PageReference>
+      <PageReference>SEPR18-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Military Rank advantage">
+    <PageReference>SEPR8</PageReference>
+    <Child ReferenceText="group assistance and">
+      <PageReference>SEPR11</PageReference>
+    </Child>
+    <Child ReferenceText="requirements">
+      <PageReference>SEPR7</PageReference>
+    </Child>
+    <Child ReferenceText="specific assistance examples">
+      <PageReference>SEPR13-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Organizations">
+    <Child ReferenceText="example">
+      <PageReference>SEPR4</PageReference>
+    </Child>
+    <Child ReferenceText="Patron value">
+      <PageReference>SEPR4</PageReference>
+      <PageReference>SEPR13</PageReference>
+    </Child>
+    <Child ReferenceText="accessibility">
+      <PageReference>SEPR9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Organized Crime Rank advantage">
+    <PageReference>SEPR8</PageReference>
+    <Child ReferenceText="requirements">
+      <PageReference>SEPR7</PageReference>
+    </Child>
+    <Child ReferenceText="specific assistance examples">
+      <PageReference>SEPR14-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Patron advantage">
+    <Child ReferenceText="hypothetical values">
+      <PageReference>SEPR4</PageReference>
+    </Child>
+    <Child ReferenceText="organization examples">
+      <PageReference>SEPR4</PageReference>
+    </Child>
+    <Child ReferenceText="Rank-cost table">
+      <PageReference>SEPR5</PageReference>
+    </Child>
+    <Child ReferenceText="assistance roll table">
+      <PageReference>SEPR6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Police Rank advantage">
+    <PageReference>SEPR8</PageReference>
+    <Child ReferenceText="requirements">
+      <PageReference>SEPR7</PageReference>
+    </Child>
+    <Child ReferenceText="specific assistance examples">
+      <PageReference>SEPR13-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Political Rank advantage">
+    <PageReference>SEPR8</PageReference>
+    <Child ReferenceText="example scope">
+      <PageReference>SEPR5</PageReference>
+    </Child>
+    <Child ReferenceText="requirements">
+      <PageReference>SEPR7</PageReference>
+    </Child>
+    <Child ReferenceText="specific assistance examples">
+      <PageReference>SEPR14</PageReference>
+      <PageReference>SEPR16-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rank advantage">
+    <SeeAlso>Assistance Roll</SeeAlso>
+    <Child ReferenceText="cap">
+      <PageReference>SEPR8</PageReference>
+    </Child>
+    <Child ReferenceText="cost tables">
+      <PageReference>SEPR5</PageReference>
+      <PageReference>SEPR6</PageReference>
+    </Child>
+    <Child ReferenceText="determining cost">
+      <PageReference>SEPR5</PageReference>
+    </Child>
+    <Child ReferenceText="effects of high">
+      <PageReference>SEPR8</PageReference>
+    </Child>
+    <Child ReferenceText="list">
+      <PageReference>SEPR8</PageReference>
+    </Child>
+    <Child ReferenceText="Patroncost table">
+      <PageReference>SEPR5</PageReference>
+    </Child>
+    <Child ReferenceText="prerequisites">
+      <PageReference>SEPR7-8</PageReference>
+    </Child>
+    <Child ReferenceText="relevant enhancements">
+      <PageReference>SEPR5</PageReference>
+    </Child>
+    <Child ReferenceText="relevant limitations">
+      <PageReference>SEPR5</PageReference>
+    </Child>
+    <Child ReferenceText="requirements">
+      <PageReference>SEPR7-9</PageReference>
+      <PageReference>SEPR12</PageReference>
+    </Child>
+    <Child ReferenceText="assistance roll table">
+      <PageReference>SEPR6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious Rank advantage">
+    <PageReference>SEPR8</PageReference>
+    <Child ReferenceText="effect on Rank cost">
+      <PageReference>SEPR5</PageReference>
+    </Child>
+    <Child ReferenceText="requirements">
+      <PageReference>SEPR7</PageReference>
+    </Child>
+    <Child ReferenceText="specific assistance examples">
+      <PageReference>SEPR14-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Security Rank advantage">
+    <PageReference>SEPR8</PageReference>
+    <Child ReferenceText="requirements">
+      <PageReference>SEPR7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Servant Rank advantage">
+    <PageReference>SEPR8</PageReference>
+    <Child ReferenceText="specific assistance examples">
+      <PageReference>SEPR16</PageReference>
+      <PageReference>SEPR18-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Regard advantage">
+    <PageReference>SEPR7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="assistance rolls">
+      <PageReference>SEPR6</PageReference>
+    </Child>
+    <Child ReferenceText="cash">
+      <PageReference>SEPR16</PageReference>
+    </Child>
+    <Child ReferenceText="funding">
+      <PageReference>SEPR16</PageReference>
+    </Child>
+    <Child ReferenceText="patron-to-rank">
+      <PageReference>SEPR5</PageReference>
+    </Child>
+    <Child ReferenceText="rank-to-patron">
+      <PageReference>SEPR5</PageReference>
+    </Child>
+    <Child ReferenceText="assistance roll bonus">
+      <PageReference>SEPR14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tenure advantage">
+    <PageReference>SEPR7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background advantage">
+    <PageReference>SEPR7</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

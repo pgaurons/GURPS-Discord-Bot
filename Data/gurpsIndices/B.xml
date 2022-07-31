@@ -1,0 +1,3703 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Acceleration">
+    <SeeAlso>Gravity</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Accents">
+    <PageReference>B24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acid">
+    <PageReference>B428</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatic dodge">
+    <PageReference>B375</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Active Defense Modifiers Table">
+    <PageReference>B548</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Active defenses">
+    <PageReference>B326</PageReference>
+    <PageReference>B363</PageReference>
+    <PageReference>B374</PageReference>
+    <Child ReferenceText="modifiers table">
+      <PageReference>B548</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>B32</PageReference>
+    <Child ReferenceText="always on">
+      <PageReference>B34</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic">
+      <PageReference>B33</PageReference>
+    </Child>
+    <Child ReferenceText="exotic">
+      <PageReference>B32</PageReference>
+      <PageReference>B34</PageReference>
+    </Child>
+    <Child ReferenceText="in templates">
+      <PageReference>B447</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>B34</PageReference>
+    </Child>
+    <Child ReferenceText="mental">
+      <PageReference>B32</PageReference>
+    </Child>
+    <Child ReferenceText="mundane">
+      <PageReference>B32</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>B117-118</PageReference>
+    </Child>
+    <Child ReferenceText="learnable">
+      <PageReference>B294</PageReference>
+    </Child>
+    <Child ReferenceText="list">
+      <PageReference>B297</PageReference>
+    </Child>
+    <Child ReferenceText="physical">
+      <PageReference>B34</PageReference>
+    </Child>
+    <Child ReferenceText="potential">
+      <PageReference>B33</PageReference>
+    </Child>
+    <Child ReferenceText="Schrödinger’s">
+      <PageReference>B33</PageReference>
+    </Child>
+    <Child ReferenceText="secret">
+      <PageReference>B33</PageReference>
+    </Child>
+    <Child ReferenceText="social">
+      <PageReference>B32</PageReference>
+    </Child>
+    <Child ReferenceText="switchable">
+      <PageReference>B34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <Child ReferenceText="finale">
+      <PageReference>B503</PageReference>
+    </Child>
+    <Child ReferenceText="pre-packaged">
+      <PageReference>B495</PageReference>
+    </Child>
+    <Child ReferenceText="writing your own">
+      <PageReference>B500-504</PageReference>
+    </Child>
+    <Child ReferenceText="e23">
+      <PageReference>B494</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adversary">
+    <PageReference>B493</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Afflictions">
+    <PageReference>B35</PageReference>
+    <PageReference>B416</PageReference>
+    <PageReference>B428</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Age">
+    <PageReference>B20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aging">
+    <PageReference>B53</PageReference>
+    <PageReference>B66</PageReference>
+    <PageReference>B95</PageReference>
+    <PageReference>B153</PageReference>
+    <PageReference>B154</PageReference>
+    <PageReference>B444</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aim maneuver">
+    <PageReference>B58</PageReference>
+    <PageReference>B324</PageReference>
+    <PageReference>B364</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aimed fire">
+    <PageReference>B372</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air spells">
+    <PageReference>B242</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aircraft">
+    <PageReference>B466</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>B465</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alcohol">
+    <PageReference>B122</PageReference>
+    <PageReference>B439-440</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alien artifacts">
+    <PageReference>B478</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies">
+    <PageReference>B36</PageReference>
+    <Child ReferenceText="ally groups">
+      <PageReference>B37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Attack maneuver">
+    <PageReference>B54</PageReference>
+    <PageReference>B324</PageReference>
+    <PageReference>B365</PageReference>
+    <PageReference>B385</PageReference>
+    <Child ReferenceText="after being grappled">
+      <PageReference>B371</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Defense maneuver">
+    <PageReference>B324</PageReference>
+    <PageReference>B366</PageReference>
+    <PageReference>B385</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ally groups">
+    <PageReference>B37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate worlds">
+    <PageReference>B64</PageReference>
+    <PageReference>B160</PageReference>
+    <SeeAlso>Crossworld Travel</SeeAlso>
+    <SeeAlso>Infinite Worlds Campaign</SeeAlso>
+    <Child ReferenceText="travel">
+      <PageReference>B189</PageReference>
+      <PageReference>B190</PageReference>
+    </Child>
+    <Child ReferenceText="Centrum">
+      <PageReference>B541-542</PageReference>
+      <PageReference>B545-546</PageReference>
+    </Child>
+    <Child ReferenceText="classes">
+      <PageReference>B526</PageReference>
+    </Child>
+    <Child ReferenceText="close parallels">
+      <PageReference>B526</PageReference>
+    </Child>
+    <Child ReferenceText="Coventry">
+      <PageReference>B540</PageReference>
+    </Child>
+    <Child ReferenceText="echoes">
+      <PageReference>B546</PageReference>
+    </Child>
+    <Child ReferenceText="hell parallels">
+      <PageReference>B528</PageReference>
+    </Child>
+    <Child ReferenceText="myth parallels">
+      <PageReference>B527</PageReference>
+    </Child>
+    <Child ReferenceText="Reich-5">
+      <PageReference>B543</PageReference>
+    </Child>
+    <Child ReferenceText="weird parallels">
+      <PageReference>B527</PageReference>
+      <PageReference>B535</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternative attacks">
+    <PageReference>B61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Always on">
+    <Child ReferenceText="advantages">
+      <PageReference>B34</PageReference>
+      <PageReference>B482</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammunition">
+    <PageReference>B278</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anarchy">
+    <PageReference>B509</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <PageReference>B40</PageReference>
+    <PageReference>B87</PageReference>
+    <PageReference>B90</PageReference>
+    <PageReference>B137</PageReference>
+    <PageReference>B175</PageReference>
+    <PageReference>B187</PageReference>
+    <PageReference>B210</PageReference>
+    <PageReference>B211</PageReference>
+    <PageReference>B217</PageReference>
+    <PageReference>B223</PageReference>
+    <PageReference>B225</PageReference>
+    <PageReference>B226</PageReference>
+    <PageReference>B228</PageReference>
+    <PageReference>B395</PageReference>
+    <PageReference>B455-460</PageReference>
+    <SeeAlso>Mounted Combat</SeeAlso>
+    <Child ReferenceText="in combat">
+      <PageReference>B461</PageReference>
+    </Child>
+    <Child ReferenceText="individualizing">
+      <PageReference>B457</PageReference>
+    </Child>
+    <Child ReferenceText="draft">
+      <PageReference>B459</PageReference>
+    </Child>
+    <Child ReferenceText="pets">
+      <PageReference>B458-459</PageReference>
+    </Child>
+    <Child ReferenceText="riding">
+      <PageReference>B459</PageReference>
+    </Child>
+    <Child ReferenceText="trained">
+      <PageReference>B458-459</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Apes">
+    <PageReference>B455</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance">
+    <PageReference>B21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arc of vision">
+    <PageReference>B389</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area class">
+    <PageReference>B176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area maps">
+    <PageReference>B491</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area spells">
+    <PageReference>B239</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area-effect attacks">
+    <PageReference>B413</PageReference>
+    <Child ReferenceText="scatter">
+      <PageReference>B414</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Arm lock">
+    <PageReference>B370</PageReference>
+    <PageReference>B403</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor divisors">
+    <PageReference>B378</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>B110</PageReference>
+    <PageReference>B282-286</PageReference>
+    <Child ReferenceText="changing posture in armor">
+      <PageReference>B395</PageReference>
+    </Child>
+    <Child ReferenceText="combining and layering">
+      <PageReference>B286</PageReference>
+    </Child>
+    <Child ReferenceText="flexible armor and blunt trauma">
+      <PageReference>B379</PageReference>
+    </Child>
+    <Child ReferenceText="wearing, donning, and removing">
+      <PageReference>B286</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Arrows, flaming">
+    <PageReference>B410</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artifacts">
+    <Child ReferenceText="futuristic and alien">
+      <PageReference>B478</PageReference>
+      <PageReference>B240</PageReference>
+      <PageReference>B480-483</PageReference>
+    </Child>
+    <Child ReferenceText="anachronistic">
+      <PageReference>B478</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificial intelligences">
+    <PageReference>B528</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Atmospheres">
+    <Child ReferenceText="vacuum">
+      <PageReference>B437</PageReference>
+    </Child>
+    <Child ReferenceText="hazardous">
+      <PageReference>B429</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Atmospheric pressure">
+    <PageReference>B429</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attack maneuver">
+    <PageReference>B325</PageReference>
+    <PageReference>B365</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attack roll">
+    <PageReference>B369</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attacks">
+    <PageReference>B326</PageReference>
+    <PageReference>B369</PageReference>
+    <Child ReferenceText="alternative">
+      <PageReference>B61</PageReference>
+    </Child>
+    <Child ReferenceText="after being grappled">
+      <PageReference>B371</PageReference>
+    </Child>
+    <Child ReferenceText="Deceptive Attack">
+      <PageReference>B369</PageReference>
+    </Child>
+    <Child ReferenceText="dual-weapon">
+      <PageReference>B417</PageReference>
+    </Child>
+    <Child ReferenceText="from above">
+      <PageReference>B402</PageReference>
+    </Child>
+    <Child ReferenceText="in tactical combat">
+      <PageReference>B388</PageReference>
+    </Child>
+    <Child ReferenceText="innate">
+      <PageReference>B51</PageReference>
+    </Child>
+    <Child ReferenceText="linked effects">
+      <PageReference>B381</PageReference>
+    </Child>
+    <Child ReferenceText="modified">
+      <PageReference>B114</PageReference>
+    </Child>
+    <Child ReferenceText="runaround">
+      <PageReference>B391</PageReference>
+    </Child>
+    <Child ReferenceText="surprise">
+      <PageReference>B393</PageReference>
+    </Child>
+    <Child ReferenceText="swarm">
+      <PageReference>B461</PageReference>
+    </Child>
+    <Child ReferenceText="without damage">
+      <PageReference>B381</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <SeeAlso>Basic Attributes</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Automatic weapons">
+    <PageReference>B408</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banestorms">
+    <PageReference>B533</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Baron Janos Telkozep">
+    <Child ReferenceText="illustration">
+      <PageReference>B290</PageReference>
+    </Child>
+    <Child ReferenceText="character sheet">
+      <PageReference>B312-313</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic attributes">
+    <PageReference>B14</PageReference>
+    <Child ReferenceText="in templates">
+      <PageReference>B447</PageReference>
+    </Child>
+    <Child ReferenceText="improving">
+      <PageReference>B290</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic Lift">
+    <PageReference>B15</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>B17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic Move">
+    <PageReference>B17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic Speed">
+    <PageReference>B17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basilisks">
+    <PageReference>B460</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bats">
+    <PageReference>B461</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle maps">
+    <PageReference>B239</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battlesuits">
+    <PageReference>B192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bears">
+    <PageReference>B456</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bees">
+    <PageReference>B461</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bends, the">
+    <PageReference>B435</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biotech tech levels">
+    <PageReference>B512</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bipods">
+    <PageReference>B412</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="BL">
+    <SeeAlso>Basic Lift</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bleeding">
+    <PageReference>B68</PageReference>
+    <PageReference>B420</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Block">
+    <PageReference>B51</PageReference>
+    <PageReference>B324</PageReference>
+    <PageReference>B327</PageReference>
+    <Child ReferenceText="in tactical combat">
+      <PageReference>B390</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Blocking spells">
+    <PageReference>B241</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blunt trauma">
+    <PageReference>B379</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boars">
+    <PageReference>B458</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body Control spells">
+    <PageReference>B244</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body modification">
+    <PageReference>B294</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bolas">
+    <PageReference>B410</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bounty hunters">
+    <PageReference>B539</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Break Free">
+    <PageReference>B370</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breakdowns">
+    <PageReference>B485</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breaking a weapon">
+    <PageReference>B401</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breathing">
+    <PageReference>B49</PageReference>
+    <PageReference>B55</PageReference>
+    <PageReference>B63</PageReference>
+    <PageReference>B68</PageReference>
+    <PageReference>B108</PageReference>
+    <Child ReferenceText="holding your breath">
+      <PageReference>B351</PageReference>
+    </Child>
+    <Child ReferenceText="smothering a foe">
+      <PageReference>B401</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Build">
+    <PageReference>B18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bulletproof nudity">
+    <PageReference>B417</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="C-31">
+    <Child ReferenceText="illustrations">
+      <PageReference>B264</PageReference>
+      <PageReference>B549</PageReference>
+    </Child>
+    <Child ReferenceText="character sheet">
+      <PageReference>B307-309</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cabal, the">
+    <PageReference>B543</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camels">
+    <PageReference>B459</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <PageReference>B486-489</PageReference>
+    <SeeAlso>Game Worlds</SeeAlso>
+    <Child ReferenceText="cinematic">
+      <PageReference>B488</PageReference>
+    </Child>
+    <Child ReferenceText="continuing">
+      <PageReference>B504</PageReference>
+    </Child>
+    <Child ReferenceText="planning form">
+      <PageReference>B567</PageReference>
+    </Child>
+    <Child ReferenceText="power level">
+      <PageReference>B10</PageReference>
+      <PageReference>B486</PageReference>
+    </Child>
+    <Child ReferenceText="shared campaigns">
+      <PageReference>B504</PageReference>
+    </Child>
+    <Child ReferenceText="travel between campaigns">
+      <PageReference>B504</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Camping and survival gear">
+    <PageReference>B288</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannon fodder">
+    <PageReference>B417</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caster (of spells)">
+    <PageReference>B236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catching things">
+    <PageReference>B355</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cats">
+    <PageReference>B456</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Centrum">
+    <PageReference>B541-542</PageReference>
+    <PageReference>B545-546</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Century scale damage">
+    <PageReference>B470</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ceremonial magic">
+    <PageReference>B237</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Change Posture maneuver">
+    <PageReference>B325</PageReference>
+    <PageReference>B364</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Character classes, no such thing">
+    <PageReference>B259</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Character points">
+    <PageReference>B10</PageReference>
+    <PageReference>B119</PageReference>
+    <PageReference>B258</PageReference>
+    <PageReference>B290</PageReference>
+    <Child ReferenceText="awarding bonus points">
+      <PageReference>B498</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <PageReference>B7</PageReference>
+    <Child ReferenceText="concept">
+      <PageReference>B11</PageReference>
+    </Child>
+    <Child ReferenceText="creation">
+      <PageReference>B9</PageReference>
+      <PageReference>B10</PageReference>
+      <PageReference>B258</PageReference>
+    </Child>
+    <Child ReferenceText="development">
+      <PageReference>B290</PageReference>
+      <PageReference>B499</PageReference>
+    </Child>
+    <Child ReferenceText="origins">
+      <PageReference>B33</PageReference>
+    </Child>
+    <Child ReferenceText="sheet">
+      <PageReference>B13</PageReference>
+      <PageReference>B335-336</PageReference>
+    </Child>
+    <Child ReferenceText="stories">
+      <PageReference>B12</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>B12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi">
+    <PageReference>B33</PageReference>
+    <PageReference>B93</PageReference>
+    <PageReference>B192</PageReference>
+    <PageReference>B214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Children">
+    <PageReference>B20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chimpanzees">
+    <PageReference>B456</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Choke hold">
+    <PageReference>B371</PageReference>
+    <PageReference>B404</PageReference>
+    <SeeAlso>Suffocation</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cinematic advantages">
+    <PageReference>B33</PageReference>
+    <Child ReferenceText="campaigns">
+      <PageReference>B488</PageReference>
+    </Child>
+    <Child ReferenceText="characters">
+      <PageReference>B489</PageReference>
+    </Child>
+    <Child ReferenceText="combat">
+      <PageReference>B417</PageReference>
+    </Child>
+    <Child ReferenceText="explosions">
+      <PageReference>B417</PageReference>
+    </Child>
+    <Child ReferenceText="knockback">
+      <PageReference>B417</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical magic">
+    <PageReference>B77</PageReference>
+    <PageReference>B242</PageReference>
+    <Child ReferenceText="spells">
+      <PageReference>B77</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Climbing">
+    <PageReference>B89</PageReference>
+    <PageReference>B349</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloaks">
+    <PageReference>B404</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close combat">
+    <PageReference>B391</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <PageReference>B265</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cold">
+    <PageReference>B430</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Collisions">
+    <PageReference>B430</PageReference>
+    <Child ReferenceText="whiplash">
+      <PageReference>B432</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Coma">
+    <PageReference>B429</PageReference>
+    <SeeAlso>Unconsciousness</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Lite">
+    <PageReference>B324</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat maps">
+    <PageReference>B384</PageReference>
+    <PageReference>B492</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <PageReference>B9</PageReference>
+    <PageReference>B362-417</PageReference>
+    <Child ReferenceText="at different levels">
+      <PageReference>B402</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic">
+      <PageReference>B417</PageReference>
+    </Child>
+    <Child ReferenceText="maneuvers">
+      <PageReference>B324</PageReference>
+    </Child>
+    <Child ReferenceText="table of combat modifiers">
+      <PageReference>B547</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>B230</PageReference>
+    </Child>
+    <Child ReferenceText="turn sequence">
+      <PageReference>B324</PageReference>
+      <PageReference>B362</PageReference>
+    </Child>
+    <Child ReferenceText="vehicular">
+      <PageReference>B467-470</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Communication and Empathy spells">
+    <PageReference>B245</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Communications and information gear">
+    <PageReference>B288</PageReference>
+    <PageReference>B471</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Competence">
+    <PageReference>B24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Comprehension rolls">
+    <PageReference>B359</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <PageReference>B48</PageReference>
+    <PageReference>B51</PageReference>
+    <PageReference>B55</PageReference>
+    <PageReference>B69</PageReference>
+    <PageReference>B71</PageReference>
+    <PageReference>B76</PageReference>
+    <PageReference>B100</PageReference>
+    <PageReference>B124</PageReference>
+    <PageReference>B184</PageReference>
+    <PageReference>B472</PageReference>
+    <Child ReferenceText="artificial intelligence">
+      <PageReference>B528</PageReference>
+    </Child>
+    <Child ReferenceText="complexity">
+      <PageReference>B472</PageReference>
+    </Child>
+    <Child ReferenceText="software">
+      <PageReference>B472</PageReference>
+    </Child>
+    <Child ReferenceText="virtual reality worlds">
+      <PageReference>B520</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Concentrate maneuver">
+    <PageReference>B325</PageReference>
+    <PageReference>B366</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cone attacks">
+    <PageReference>B413</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conspiracies">
+    <SeeAlso>Illuminati</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts">
+    <PageReference>B31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contagion">
+    <PageReference>B443</PageReference>
+    <SeeAlso>Disease</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Contests">
+    <PageReference>B348</PageReference>
+    <Child ReferenceText="quick">
+      <PageReference>B348</PageReference>
+    </Child>
+    <Child ReferenceText="regular">
+      <PageReference>B349</PageReference>
+    </Child>
+    <Child ReferenceText="resistance rolls">
+      <PageReference>B348</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Control Rating">
+    <PageReference>B506</PageReference>
+    <SeeAlso>Legality Class</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Conventions of play">
+    <PageReference>B9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Copper">
+    <SeeAlso>Wealth</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic powers">
+    <PageReference>B33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost of living">
+    <PageReference>B265</PageReference>
+    <PageReference>B516</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coventry">
+    <PageReference>B540</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cover DR Table">
+    <PageReference>B377</PageReference>
+    <PageReference>B407</PageReference>
+    <PageReference>B559</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crippling">
+    <PageReference>B59</PageReference>
+    <PageReference>B420-423</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Critical failure, spells">
+    <PageReference>B236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Critical Head Blow Table">
+    <PageReference>B556</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Critical Hit Table">
+    <PageReference>B556</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Critical hits">
+    <PageReference>B381</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>B556</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unarmed Critical Miss Table">
+    <PageReference>B556</PageReference>
+    <PageReference>B557</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Critical misses">
+    <PageReference>B381</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>B556-557</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Critical success">
+    <PageReference>B347</PageReference>
+    <Child ReferenceText="on defense">
+      <PageReference>B381</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossbows">
+    <PageReference>B410</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crosstime bandits">
+    <PageReference>B542</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossworld campaigns">
+    <PageReference>B519-522</PageReference>
+    <SeeAlso>Infinite Worlds Campaign</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossworld travel">
+    <PageReference>B514</PageReference>
+    <PageReference>B519-522</PageReference>
+    <Child ReferenceText="Infinite Worlds campaign background">
+      <PageReference>B523-546</PageReference>
+    </Child>
+    <Child ReferenceText="instant wealth">
+      <PageReference>B514</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crouching">
+    <PageReference>B368</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultures">
+    <PageReference>B23</PageReference>
+    <PageReference>B505-508</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Customizing rules">
+    <PageReference>B486</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dai Blackthorn">
+    <PageReference>B12</PageReference>
+    <PageReference>B18</PageReference>
+    <PageReference>B22</PageReference>
+    <PageReference>B116</PageReference>
+    <PageReference>B162</PageReference>
+    <PageReference>B164</PageReference>
+    <PageReference>B227</PageReference>
+    <Child ReferenceText="character sheet">
+      <PageReference>B310-311</PageReference>
+    </Child>
+    <Child ReferenceText="illustrations">
+      <PageReference>B32</PageReference>
+      <PageReference>B418</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Resistance">
+    <PageReference>B378</PageReference>
+    <Child ReferenceText="HP and DR of Structures Table">
+      <PageReference>B558</PageReference>
+    </Child>
+    <Child ReferenceText="Cover DR Table">
+      <PageReference>B559</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Table">
+    <PageReference>B15</PageReference>
+    <PageReference>B327</PageReference>
+    <PageReference>B377</PageReference>
+    <PageReference>B16</PageReference>
+    <Child ReferenceText="by animals">
+      <PageReference>B461</PageReference>
+    </Child>
+    <Child ReferenceText="damage rolls">
+      <PageReference>B9</PageReference>
+      <PageReference>B378</PageReference>
+    </Child>
+    <Child ReferenceText="scaling">
+      <PageReference>B470</PageReference>
+    </Child>
+    <Child ReferenceText="to objects">
+      <PageReference>B483-485</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Darkness">
+    <PageReference>B47</PageReference>
+    <PageReference>B60</PageReference>
+    <PageReference>B71</PageReference>
+    <PageReference>B394</PageReference>
+    <Child ReferenceText="spells">
+      <PageReference>B249</PageReference>
+    </Child>
+    <Child ReferenceText="torches">
+      <PageReference>B394</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="David Pulver">
+    <PageReference>B6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dead worlds">
+    <PageReference>B527</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dealing with players">
+    <PageReference>B493</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death">
+    <PageReference>B296</PageReference>
+    <PageReference>B423</PageReference>
+    <Child ReferenceText="dying actions">
+      <PageReference>B423</PageReference>
+    </Child>
+    <Child ReferenceText="instant death">
+      <PageReference>B423</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Decade scale damage">
+    <PageReference>B470</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deceptive attack">
+    <PageReference>B369</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deer">
+    <PageReference>B457</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defaults">
+    <PageReference>B344</PageReference>
+    <Child ReferenceText="double">
+      <PageReference>B173</PageReference>
+      <PageReference>B232</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>B173</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>B229</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Defending">
+    <PageReference>B326</PageReference>
+    <PageReference>B374</PageReference>
+    <Child ReferenceText="in tactical combat">
+      <PageReference>B390</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Defenses">
+    <PageReference>B46</PageReference>
+    <Child ReferenceText="enhanced">
+      <PageReference>B51</PageReference>
+    </Child>
+    <Child ReferenceText="limited">
+      <PageReference>B46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dehydration">
+    <PageReference>B426</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demolition">
+    <PageReference>B415</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Depressants">
+    <PageReference>B441</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Design skills">
+    <PageReference>B190</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dexterity">
+    <PageReference>B15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dice">
+    <PageReference>B8</PageReference>
+    <PageReference>B9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Digging">
+    <PageReference>B350</PageReference>
+    <PageReference>B357</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dimensional highways">
+    <PageReference>B534</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dirty tricks">
+    <PageReference>B405</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>B11</PageReference>
+    <PageReference>B119</PageReference>
+    <Child ReferenceText="buying off">
+      <PageReference>B121</PageReference>
+      <PageReference>B291</PageReference>
+    </Child>
+    <Child ReferenceText="disadvantage limit">
+      <PageReference>B11</PageReference>
+    </Child>
+    <Child ReferenceText="good">
+      <PageReference>B119</PageReference>
+    </Child>
+    <Child ReferenceText="exotic">
+      <PageReference>B120</PageReference>
+    </Child>
+    <Child ReferenceText="in templates">
+      <PageReference>B447</PageReference>
+    </Child>
+    <Child ReferenceText="list">
+      <PageReference>B299</PageReference>
+    </Child>
+    <Child ReferenceText="mental">
+      <PageReference>B120</PageReference>
+    </Child>
+    <Child ReferenceText="mundane">
+      <PageReference>B120</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>B162</PageReference>
+    </Child>
+    <Child ReferenceText="physical">
+      <PageReference>B120</PageReference>
+    </Child>
+    <Child ReferenceText="secret">
+      <PageReference>B120</PageReference>
+    </Child>
+    <Child ReferenceText="social">
+      <PageReference>B120</PageReference>
+    </Child>
+    <Child ReferenceText="self-imposed">
+      <PageReference>B121</PageReference>
+    </Child>
+    <Child ReferenceText="supernatural">
+      <PageReference>B120</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disease">
+    <PageReference>B442-444</PageReference>
+    <Child ReferenceText="worldwide">
+      <PageReference>B528</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dive for cover">
+    <PageReference>B377</PageReference>
+    <PageReference>B407</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine origins">
+    <PageReference>B33</PageReference>
+    <SeeAlso>Gods</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Dmg">
+    <SeeAlso>Damage</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Do Nothing maneuver">
+    <PageReference>B325</PageReference>
+    <PageReference>B364</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dodge">
+    <PageReference>B17</PageReference>
+    <PageReference>B51</PageReference>
+    <PageReference>B324</PageReference>
+    <PageReference>B327</PageReference>
+    <PageReference>B374</PageReference>
+    <Child ReferenceText="and drop">
+      <PageReference>B377</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dogs">
+    <PageReference>B457</PageReference>
+    <PageReference>B458</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Donkeys">
+    <PageReference>B459</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Double defaults">
+    <Child ReferenceText="not allowed for skills">
+      <PageReference>B173</PageReference>
+    </Child>
+    <Child ReferenceText="allowed for techniques">
+      <PageReference>B229</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="DR">
+    <SeeAlso>Damage Resistance</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragging things">
+    <PageReference>B353</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragon template">
+    <PageReference>B261</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dropping prone">
+    <PageReference>B374</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drugs">
+    <PageReference>B122</PageReference>
+    <PageReference>B130</PageReference>
+    <PageReference>B440</PageReference>
+    <Child ReferenceText="Eraser">
+      <PageReference>B540</PageReference>
+    </Child>
+    <Child ReferenceText="overdose">
+      <PageReference>B441</PageReference>
+    </Child>
+    <Child ReferenceText="ultra-tech">
+      <PageReference>B425</PageReference>
+    </Child>
+    <Child ReferenceText="withdrawal">
+      <PageReference>B440</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual-weapon attacks">
+    <PageReference>B417</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeons">
+    <PageReference>B501</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarf template">
+    <PageReference>B261</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="DX">
+    <SeeAlso>Dexterity</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Dying actions">
+    <PageReference>B423</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="e23 scenario warehouse">
+    <PageReference>B494</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth spells">
+    <PageReference>B245</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Echo timelines">
+    <PageReference>B546</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Economics">
+    <PageReference>B514</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elbow strike">
+    <PageReference>B404</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elderly characters">
+    <PageReference>B20</PageReference>
+    <SeeAlso>Age</SeeAlso>
+    <SeeAlso>Aging</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Electricity">
+    <PageReference>B432-433</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronics">
+    <PageReference>B471</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental meta-traits">
+    <PageReference>B262</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elephants">
+    <PageReference>B460</PageReference>
+    <Child ReferenceText="pink">
+      <PageReference>B440</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchantment">
+    <PageReference>B480-483</PageReference>
+    <Child ReferenceText="spells">
+      <PageReference>B245</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Encounters">
+    <PageReference>B502</PageReference>
+    <Child ReferenceText="sample encounter table">
+      <PageReference>B503</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Encumbrance">
+    <PageReference>B17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced defenses">
+    <PageReference>B51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancements">
+    <PageReference>B101-102</PageReference>
+    <Child ReferenceText="limited">
+      <PageReference>B111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Equestrian gear">
+    <PageReference>B289</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <PageReference>B264-289</PageReference>
+    <Child ReferenceText="modifying success rolls">
+      <PageReference>B345</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Eraser drug">
+    <PageReference>B540</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evading">
+    <PageReference>B368</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evaluate maneuver">
+    <PageReference>B325</PageReference>
+    <PageReference>B364</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exotic advantages">
+    <PageReference>B32</PageReference>
+    <PageReference>B34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exotic disadvantages">
+    <PageReference>B120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosions">
+    <PageReference>B414-415</PageReference>
+    <Child ReferenceText="cinematic">
+      <PageReference>B417</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra effort">
+    <PageReference>B356</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Facing (in combat)">
+    <PageReference>B385</PageReference>
+    <PageReference>B386</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Falcons">
+    <PageReference>B457</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Falling">
+    <PageReference>B430-431</PageReference>
+    <Child ReferenceText="damage from falling objects">
+      <PageReference>B431</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fallout">
+    <PageReference>B435</PageReference>
+    <SeeAlso>Radiation</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Familiars">
+    <PageReference>B38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue">
+    <PageReference>B16</PageReference>
+    <PageReference>B328</PageReference>
+    <PageReference>B426</PageReference>
+    <Child ReferenceText="fatigue points">
+      <PageReference>B16</PageReference>
+    </Child>
+    <Child ReferenceText="recovering">
+      <PageReference>B427</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Feint maneuver">
+    <PageReference>B325</PageReference>
+    <PageReference>B365</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Felinoid template">
+    <PageReference>B261</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fencing weapons">
+    <PageReference>B404</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire">
+    <PageReference>B61</PageReference>
+    <Child ReferenceText="burning things">
+      <PageReference>B433</PageReference>
+      <PageReference>B434</PageReference>
+    </Child>
+    <Child ReferenceText="damage">
+      <PageReference>B433</PageReference>
+    </Child>
+    <Child ReferenceText="flaming arrows">
+      <PageReference>B410</PageReference>
+    </Child>
+    <Child ReferenceText="incendiary weapons">
+      <PageReference>B277</PageReference>
+      <PageReference>B411</PageReference>
+      <PageReference>B433</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>B246</PageReference>
+    </Child>
+    <Child ReferenceText="tight-beam burning attacks">
+      <PageReference>B399</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearms">
+    <PageReference>B278-281</PageReference>
+    <Child ReferenceText="accessories">
+      <PageReference>B289</PageReference>
+      <PageReference>B411</PageReference>
+    </Child>
+    <Child ReferenceText="aim">
+      <PageReference>B364</PageReference>
+    </Child>
+    <Child ReferenceText="automatic">
+      <PageReference>B408</PageReference>
+    </Child>
+    <Child ReferenceText="bracing">
+      <PageReference>B364</PageReference>
+    </Child>
+    <Child ReferenceText="firing upward and downward">
+      <PageReference>B407</PageReference>
+    </Child>
+    <Child ReferenceText="malfunction">
+      <PageReference>B382</PageReference>
+      <PageReference>B407</PageReference>
+    </Child>
+    <Child ReferenceText="quality">
+      <PageReference>B280</PageReference>
+    </Child>
+    <Child ReferenceText="rapid fire">
+      <PageReference>B408</PageReference>
+    </Child>
+    <Child ReferenceText="shotguns">
+      <PageReference>B409</PageReference>
+    </Child>
+    <Child ReferenceText="suppression fire">
+      <PageReference>B409</PageReference>
+    </Child>
+    <Child ReferenceText="ultra-tech">
+      <PageReference>B280</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Firing upward and downward">
+    <PageReference>B407</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="First aid">
+    <PageReference>B424</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flails">
+    <PageReference>B405</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flame">
+    <SeeAlso>Fire</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Flaming arrows">
+    <PageReference>B410</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flashlights">
+    <PageReference>B394</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flesh wounds">
+    <PageReference>B417</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flight">
+    <PageReference>B56</PageReference>
+    <PageReference>B354</PageReference>
+    <Child ReferenceText="flying combat">
+      <PageReference>B398</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fnord, you’re not cleared for that" />
+  <IndexReference ReferenceText="Follow-up damage">
+    <PageReference>B381</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <PageReference>B95</PageReference>
+    <PageReference>B139</PageReference>
+    <PageReference>B159</PageReference>
+    <PageReference>B160</PageReference>
+    <PageReference>B265</PageReference>
+    <Child ReferenceText="foraging">
+      <PageReference>B427</PageReference>
+    </Child>
+    <Child ReferenceText="starvation">
+      <PageReference>B426</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="FP">
+    <SeeAlso>Fatigue Points</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Fragmentation damage">
+    <PageReference>B414</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Free actions">
+    <PageReference>B363</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Friends and foes">
+    <PageReference>B31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fright Checks">
+    <PageReference>B55</PageReference>
+    <PageReference>B93</PageReference>
+    <PageReference>B95</PageReference>
+    <PageReference>B121</PageReference>
+    <PageReference>B360</PageReference>
+    <Child ReferenceText="Fright Check Table">
+      <PageReference>B360-361</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteering">
+    <SeeAlso>Gadgets</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgets">
+    <PageReference>B56-58</PageReference>
+    <PageReference>B473-477</PageReference>
+    <PageReference>B479</PageReference>
+    <Child ReferenceText="limitations">
+      <PageReference>B116</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Game balance">
+    <PageReference>B11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Game Mastering">
+    <PageReference>B486-504</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Game preparation">
+    <PageReference>B490</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Game worlds">
+    <PageReference>B505-522</PageReference>
+    <Child ReferenceText="economics">
+      <PageReference>B514</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Garrotes">
+    <PageReference>B405</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gate spells">
+    <PageReference>B247</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gerbils">
+    <PageReference>B113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="G-Increment">
+    <PageReference>B350</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glossary">
+    <PageReference>B563-565</PageReference>
+    <Child ReferenceText="arms and armor">
+      <PageReference>B268</PageReference>
+    </Child>
+    <Child ReferenceText="basic terms">
+      <PageReference>B7</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>B234</PageReference>
+    </Child>
+    <Child ReferenceText="Infinite Worlds">
+      <PageReference>B524</PageReference>
+    </Child>
+    <Child ReferenceText="psionics">
+      <PageReference>B254</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GM Control Sheet">
+    <PageReference>B490</PageReference>
+    <PageReference>B568</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gods">
+    <PageReference>B33</PageReference>
+    <PageReference>B40</PageReference>
+    <PageReference>B59</PageReference>
+    <PageReference>B76</PageReference>
+    <PageReference>B113</PageReference>
+    <PageReference>B132</PageReference>
+    <PageReference>B143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gold">
+    <SeeAlso>Wealth</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Gorillas">
+    <PageReference>B456</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Government types">
+    <PageReference>B509-510</PageReference>
+    <SeeAlso>Laws</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Grabbing and grappling">
+    <PageReference>B370</PageReference>
+    <Child ReferenceText="and hit location">
+      <PageReference>B400</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravity">
+    <PageReference>B60</PageReference>
+    <PageReference>B350</PageReference>
+    <PageReference>B434</PageReference>
+    <Child ReferenceText="different gravity">
+      <PageReference>B350</PageReference>
+    </Child>
+    <Child ReferenceText="home gravity">
+      <PageReference>B17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grenades">
+    <PageReference>B277</PageReference>
+    <PageReference>B410</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ground vehicles">
+    <PageReference>B466</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>B464</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gryphons">
+    <PageReference>B460</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guided weapons">
+    <PageReference>B412</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hallucinations">
+    <PageReference>B429</PageReference>
+    <PageReference>B440</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hallucinogens">
+    <PageReference>B440</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Handedness">
+    <PageReference>B14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Harpoons">
+    <PageReference>B411</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing">
+    <PageReference>B59</PageReference>
+    <PageReference>B79</PageReference>
+    <PageReference>B80</PageReference>
+    <PageReference>B155</PageReference>
+    <PageReference>B160</PageReference>
+    <PageReference>B162</PageReference>
+    <Child ReferenceText="magic">
+      <PageReference>B248</PageReference>
+    </Child>
+    <Child ReferenceText="medical gear">
+      <PageReference>B289</PageReference>
+    </Child>
+    <Child ReferenceText="medical tech levels">
+      <PageReference>B512</PageReference>
+    </Child>
+    <Child ReferenceText="psychic">
+      <PageReference>B256</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Health">
+    <PageReference>B15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hearing">
+    <PageReference>B49</PageReference>
+    <PageReference>B72</PageReference>
+    <PageReference>B89</PageReference>
+    <PageReference>B94</PageReference>
+    <PageReference>B138</PageReference>
+    <PageReference>B358</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heart attacks">
+    <PageReference>B429</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heat">
+    <PageReference>B434</PageReference>
+    <SeeAlso>Fire</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Hell parallels">
+    <PageReference>B528</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heroic Knight template">
+    <PageReference>B448</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hexes">
+    <PageReference>B384</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High-speed movement">
+    <PageReference>B394</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hiking">
+    <PageReference>B351</PageReference>
+    <PageReference>B357</PageReference>
+    <PageReference>B426</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hirelings">
+    <PageReference>B517</PageReference>
+    <PageReference>B518</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit Location Tables">
+    <PageReference>B552-555</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit location">
+    <PageReference>B369</PageReference>
+    <PageReference>B398</PageReference>
+    <Child ReferenceText="and Injury Tolerance">
+      <PageReference>B400</PageReference>
+    </Child>
+    <Child ReferenceText="random">
+      <PageReference>B400</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit points">
+    <PageReference>B16</PageReference>
+    <PageReference>B418-419</PageReference>
+    <SeeAlso>Injuries</SeeAlso>
+    <Child ReferenceText="HP and DR of Structures Table">
+      <PageReference>B558</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Home gravity">
+    <PageReference>B17</PageReference>
+    <SeeAlso>Gravity</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Homing weapons">
+    <PageReference>B412-413</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horses">
+    <PageReference>B459-460</PageReference>
+    <SeeAlso>Mounted Combat</SeeAlso>
+    <SeeAlso>Riding Animals</SeeAlso>
+    <SeeAlso>Weapons (Cavalry)</SeeAlso>
+    <Child ReferenceText="equestrian gear">
+      <PageReference>B289</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="HP and DR of Structures Table">
+    <PageReference>B558</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HP">
+    <SeeAlso>Hit Points</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="HT (Health)">
+    <PageReference>B15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="I-Cops">
+    <PageReference>B536-538</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Identities">
+    <PageReference>B31</PageReference>
+    <PageReference>B39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illuminati">
+    <PageReference>B60</PageReference>
+    <PageReference>B130</PageReference>
+    <PageReference>B193</PageReference>
+    <PageReference>B200</PageReference>
+    <PageReference>B525</PageReference>
+    <Child ReferenceText="the Cabal">
+      <PageReference>B543</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Immunity">
+    <PageReference>B443</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Importance in society">
+    <SeeAlso>Rank</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Incompetence">
+    <PageReference>B24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Index">
+    <PageReference>B329-334</PageReference>
+    <PageReference>B570-575</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infection">
+    <PageReference>B444</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinite ammunition">
+    <PageReference>B417</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinite Worlds campaign background">
+    <PageReference>B523-546</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinity Development">
+    <PageReference>B536</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinity Patrol">
+    <PageReference>B536-538</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinity Unlimited">
+    <PageReference>B524</PageReference>
+    <PageReference>B535-538</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Influence rolls">
+    <PageReference>B359</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Influence skills">
+    <PageReference>B494</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Information spells">
+    <PageReference>B241</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Initiative">
+    <PageReference>B393</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injuries">
+    <PageReference>B327</PageReference>
+    <PageReference>B377</PageReference>
+    <PageReference>B380</PageReference>
+    <PageReference>B418-425</PageReference>
+    <SeeAlso>Crippling</SeeAlso>
+    <SeeAlso>Healing</SeeAlso>
+    <Child ReferenceText="accumulated wounds">
+      <PageReference>B420</PageReference>
+    </Child>
+    <Child ReferenceText="and active defense">
+      <PageReference>B374</PageReference>
+    </Child>
+    <Child ReferenceText="bleeding">
+      <PageReference>B420</PageReference>
+    </Child>
+    <Child ReferenceText="crippling">
+      <PageReference>B420-423</PageReference>
+    </Child>
+    <Child ReferenceText="flesh wounds">
+      <PageReference>B417</PageReference>
+    </Child>
+    <Child ReferenceText="large-area injury">
+      <PageReference>B400</PageReference>
+    </Child>
+    <Child ReferenceText="last wounds">
+      <PageReference>B420</PageReference>
+    </Child>
+    <Child ReferenceText="major wounds">
+      <PageReference>B420</PageReference>
+    </Child>
+    <Child ReferenceText="mortal wounds">
+      <PageReference>B423</PageReference>
+    </Child>
+    <Child ReferenceText="shock">
+      <PageReference>B419</PageReference>
+    </Child>
+    <Child ReferenceText="to objects">
+      <PageReference>B483-485</PageReference>
+    </Child>
+    <Child ReferenceText="to shields">
+      <PageReference>B484</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Instant death">
+    <PageReference>B423</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intelligence">
+    <PageReference>B15</PageReference>
+    <Child ReferenceText="and dirty tricks">
+      <PageReference>B405</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intoxication">
+    <SeeAlso>Alcohol</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Introduction">
+    <PageReference>B5</PageReference>
+    <PageReference>B342</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Investigator template">
+    <PageReference>B259</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iotha, character sheet">
+    <PageReference>B314-315</PageReference>
+    <PageReference>B343</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IQ (Intelligence)">
+    <PageReference>B15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ISWAT">
+    <PageReference>B162</PageReference>
+    <PageReference>B536</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jobs">
+    <PageReference>B292</PageReference>
+    <PageReference>B499</PageReference>
+    <PageReference>B516-518</PageReference>
+    <Child ReferenceText="finding">
+      <PageReference>B518</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumping">
+    <PageReference>B89</PageReference>
+    <PageReference>B203</PageReference>
+    <PageReference>B352</PageReference>
+    <PageReference>B357</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knee strike">
+    <PageReference>B404</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knockback">
+    <PageReference>B378</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knowledge spells">
+    <PageReference>B249</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knowledge">
+    <Child ReferenceText="player vs" />
+    <Child ReferenceText="character">
+      <PageReference>B495</PageReference>
+    </Child>
+    <Child ReferenceText="NPC">
+      <PageReference>B496</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Languages">
+    <PageReference>B23</PageReference>
+    <PageReference>B205</PageReference>
+    <PageReference>B506</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lariats">
+    <PageReference>B411</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lasers">
+    <PageReference>B280</PageReference>
+    <PageReference>B399</PageReference>
+    <SeeAlso>ker heads</SeeAlso>
+    <SeeAlso>412</SeeAlso>
+    <Child ReferenceText="sights">
+      <PageReference>B412</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Last wounds">
+    <PageReference>B420</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Law enforcement">
+    <PageReference>B507</PageReference>
+    <Child ReferenceText="police gear">
+      <PageReference>B289</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Laws">
+    <PageReference>B65</PageReference>
+    <PageReference>B204</PageReference>
+    <PageReference>B506-508</PageReference>
+    <PageReference>B518</PageReference>
+    <Child ReferenceText="punishment">
+      <PageReference>B508</PageReference>
+    </Child>
+    <Child ReferenceText="trials">
+      <PageReference>B507</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="LC">
+    <SeeAlso>Legality Class</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Legality Class">
+    <PageReference>B267</PageReference>
+    <PageReference>B270</PageReference>
+    <PageReference>B507</PageReference>
+    <Child ReferenceText="legality of spells">
+      <PageReference>B507</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lethal strike">
+    <PageReference>B404</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifting">
+    <PageReference>B14</PageReference>
+    <PageReference>B15</PageReference>
+    <PageReference>B65</PageReference>
+    <PageReference>B205</PageReference>
+    <PageReference>B353</PageReference>
+    <PageReference>B357</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light and Darkness spells">
+    <PageReference>B249</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitations">
+    <PageReference>B101</PageReference>
+    <PageReference>B110</PageReference>
+    <Child ReferenceText="gadgets">
+      <PageReference>B116</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited defenses">
+    <PageReference>B46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Linked effects">
+    <PageReference>B381</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lions">
+    <PageReference>B456</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Literacy">
+    <PageReference>B24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Long actions">
+    <PageReference>B383</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Long tasks">
+    <PageReference>B346</PageReference>
+    <PageReference>B499</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Louis d’Antares">
+    <Child ReferenceText="illustrations">
+      <PageReference>B368</PageReference>
+      <PageReference>B422</PageReference>
+      <PageReference>B505</PageReference>
+    </Child>
+    <Child ReferenceText="character sheet">
+      <PageReference>B322-323</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Loyalty">
+    <PageReference>B518-519</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luck">
+    <PageReference>B83</PageReference>
+    <PageReference>B89</PageReference>
+    <PageReference>B160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ludography">
+    <PageReference>B566</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lycanthropy">
+    <SeeAlso>Werewolves</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Machine guns">
+    <PageReference>B281</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Machines">
+    <PageReference>B16</PageReference>
+    <Child ReferenceText="Machine meta-trait">
+      <PageReference>B263</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mage template">
+    <PageReference>B260</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery">
+    <PageReference>B66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Resistance">
+    <PageReference>B67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <PageReference>B66</PageReference>
+    <PageReference>B143</PageReference>
+    <PageReference>B144</PageReference>
+    <PageReference>B150</PageReference>
+    <PageReference>B218</PageReference>
+    <PageReference>B224</PageReference>
+    <PageReference>B225</PageReference>
+    <PageReference>B234-253</PageReference>
+    <Child ReferenceText="advantages">
+      <PageReference>B34</PageReference>
+    </Child>
+    <Child ReferenceText="ceremonial">
+      <PageReference>B237</PageReference>
+    </Child>
+    <Child ReferenceText="clerical">
+      <PageReference>B242</PageReference>
+    </Child>
+    <Child ReferenceText="colleges">
+      <PageReference>B239</PageReference>
+    </Child>
+    <Child ReferenceText="enchanted objects">
+      <PageReference>B240</PageReference>
+      <PageReference>B480-483</PageReference>
+    </Child>
+    <Child ReferenceText="racial">
+      <PageReference>B453</PageReference>
+    </Child>
+    <Child ReferenceText="ritual">
+      <PageReference>B237</PageReference>
+      <PageReference>B242</PageReference>
+    </Child>
+    <Child ReferenceText="staffs">
+      <PageReference>B240</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Major wounds">
+    <PageReference>B420</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Malf">
+    <SeeAlso>Malfunction</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Malfunction">
+    <PageReference>B278</PageReference>
+    <PageReference>B382</PageReference>
+    <PageReference>B407</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana">
+    <PageReference>B235</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maneuvers">
+    <PageReference>B324</PageReference>
+    <PageReference>B363</PageReference>
+    <PageReference>B385</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>B551</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Maps">
+    <PageReference>B384</PageReference>
+    <PageReference>B490-491</PageReference>
+    <Child ReferenceText="mapping by players">
+      <PageReference>B491</PageReference>
+    </Child>
+    <Child ReferenceText="mapping for adventure design">
+      <PageReference>B502</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical care">
+    <PageReference>B424</PageReference>
+    <Child ReferenceText="surgery">
+      <PageReference>B424</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical gear">
+    <PageReference>B289</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medicine tech levels">
+    <PageReference>B512</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee Attack Modifiers Table">
+    <PageReference>B547</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee etiquette">
+    <PageReference>B417</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee spells">
+    <PageReference>B240</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental advantages">
+    <PageReference>B32</PageReference>
+    <Child ReferenceText="disadvantages">
+      <PageReference>B120</PageReference>
+    </Child>
+    <Child ReferenceText="powers">
+      <SeeAlso>Psionics</SeeAlso>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental stun">
+    <PageReference>B420</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentality meta-traits">
+    <PageReference>B263</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-Spells">
+    <PageReference>B250</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-traits">
+    <PageReference>B262</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metric conversions">
+    <PageReference>B9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military">
+    <PageReference>B218</PageReference>
+    <PageReference>B221</PageReference>
+    <PageReference>B222</PageReference>
+    <PageReference>B260</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Control spells">
+    <PageReference>B250</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind reading">
+    <SeeAlso>Telepathy</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind transfer">
+    <PageReference>B296</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miniature figures">
+    <PageReference>B383</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miracle Workers Inc">
+    <Child ReferenceText="">
+      <PageReference>B538</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Missile spells">
+    <PageReference>B240</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missile weapon attacks">
+    <PageReference>B373</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modifiers (to traits)">
+    <PageReference>B101</PageReference>
+    <Child ReferenceText="list">
+      <PageReference>B300</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Molotov cocktails">
+    <PageReference>B411</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Money">
+    <SeeAlso>Wealth</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <PageReference>B460-461</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Morphology meta-traits">
+    <PageReference>B263</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mortal conditions">
+    <PageReference>B429</PageReference>
+    <Child ReferenceText="wounds">
+      <PageReference>B423</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounted combat">
+    <PageReference>B395-398</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Move (character stat)">
+    <PageReference>B52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Move and Attack maneuver">
+    <PageReference>B325</PageReference>
+    <PageReference>B365</PageReference>
+    <PageReference>B385</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Move maneuver">
+    <PageReference>B325</PageReference>
+    <PageReference>B364</PageReference>
+    <PageReference>B385</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Movement and combat">
+    <PageReference>B367</PageReference>
+    <Child ReferenceText="and facing">
+      <PageReference>B386</PageReference>
+    </Child>
+    <Child ReferenceText="high-speed movement">
+      <PageReference>B394</PageReference>
+    </Child>
+    <Child ReferenceText="movement in tactical combat">
+      <PageReference>B386</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Movement points">
+    <PageReference>B386</PageReference>
+    <PageReference>B387</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Movement spells">
+    <PageReference>B251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mules">
+    <PageReference>B459</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-hex figures">
+    <PageReference>B392</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mundane advantages">
+    <PageReference>B32</PageReference>
+    <Child ReferenceText="disadvantages">
+      <PageReference>B120</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mutations">
+    <PageReference>B33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neck Snap attack">
+    <PageReference>B370</PageReference>
+    <PageReference>B404</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromantic spells">
+    <PageReference>B251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nets">
+    <PageReference>B411</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New disadvantages">
+    <PageReference>B162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New inventions">
+    <PageReference>B473</PageReference>
+    <PageReference>B475</PageReference>
+    <SeeAlso>Gadgets</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Nexus portals">
+    <PageReference>B534</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonhumans">
+    <PageReference>B32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Non-player characters">
+    <SeeAlso>NPCs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="NPC Reactions Table">
+    <PageReference>B559-562</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NPC Record Card">
+    <PageReference>B569</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NPCs">
+    <PageReference>B31</PageReference>
+    <PageReference>B493</PageReference>
+    <Child ReferenceText="NPC Reactions Table">
+      <PageReference>B559-562</PageReference>
+    </Child>
+    <Child ReferenceText="NPC Record Card">
+      <PageReference>B569</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Oil flasks">
+    <PageReference>B411</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Omens">
+    <PageReference>B72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Online gaming">
+    <PageReference>B494</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Optics and sensors">
+    <PageReference>B289</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Origins of characters">
+    <PageReference>B33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Overpenetration">
+    <PageReference>B379</PageReference>
+    <PageReference>B408</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Overrun, by multi-hex figures">
+    <PageReference>B392</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oxen">
+    <PageReference>B460</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parachronic Laboratories Inc">
+    <Child ReferenceText="">
+      <PageReference>B538</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Parachronics">
+    <SeeAlso>Infinite Worlds Campaign</SeeAlso>
+    <Child ReferenceText="conveyor">
+      <PageReference>B529</PageReference>
+    </Child>
+    <Child ReferenceText="detector">
+      <PageReference>B532</PageReference>
+    </Child>
+    <Child ReferenceText="disasters">
+      <PageReference>B532</PageReference>
+    </Child>
+    <Child ReferenceText="minor accidents">
+      <PageReference>B531</PageReference>
+    </Child>
+    <Child ReferenceText="paradoxes">
+      <PageReference>B533</PageReference>
+    </Child>
+    <Child ReferenceText="projector">
+      <PageReference>B524</PageReference>
+      <PageReference>B530</PageReference>
+    </Child>
+    <Child ReferenceText="bogus scientific explanation">
+      <PageReference>B530</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Parachronozoids">
+    <PageReference>B544</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parallel worlds">
+    <SeeAlso>Alternate Worlds</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Paralysis">
+    <PageReference>B429</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parry">
+    <PageReference>B51</PageReference>
+    <PageReference>B93</PageReference>
+    <PageReference>B324</PageReference>
+    <PageReference>B327</PageReference>
+    <PageReference>B376</PageReference>
+    <Child ReferenceText="unarmed">
+      <PageReference>B376</PageReference>
+    </Child>
+    <Child ReferenceText="in tactical combat">
+      <PageReference>B390</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Patient status">
+    <PageReference>B421</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrons">
+    <PageReference>B72-73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Penetrating damage">
+    <PageReference>B379</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Penetration modifiers">
+    <PageReference>B378</PageReference>
+    <PageReference>B416</PageReference>
+    <Child ReferenceText="overpenetration">
+      <PageReference>B379</PageReference>
+      <PageReference>B408</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Per">
+    <SeeAlso>Perception</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Perception">
+    <PageReference>B16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>B100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pets">
+    <PageReference>B458-459</PageReference>
+    <SeeAlso>Animals</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Physical advantages">
+    <PageReference>B32</PageReference>
+    <Child ReferenceText="disadvantages">
+      <PageReference>B120</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Physical feats">
+    <PageReference>B349</PageReference>
+    <Child ReferenceText="extra effort">
+      <PageReference>B356</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Picking things up">
+    <PageReference>B383</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Picks">
+    <PageReference>B405</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pinning (in combat)">
+    <PageReference>B370</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planet types">
+    <PageReference>B180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plants">
+    <PageReference>B75</PageReference>
+    <PageReference>B87</PageReference>
+    <PageReference>B90</PageReference>
+    <PageReference>B142</PageReference>
+    <PageReference>B197</PageReference>
+    <PageReference>B199</PageReference>
+    <PageReference>B211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pocket multiverses">
+    <PageReference>B529</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poison">
+    <PageReference>B62</PageReference>
+    <PageReference>B437-439</PageReference>
+    <Child ReferenceText="treatment">
+      <PageReference>B439</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Police gear">
+    <PageReference>B289</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pop-up attacks">
+    <PageReference>B390</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Postures">
+    <PageReference>B367</PageReference>
+    <Child ReferenceText="changing posture in armor">
+      <PageReference>B395</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>B551</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Potential advantages">
+    <PageReference>B33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power level for campaigns">
+    <PageReference>B10</PageReference>
+    <PageReference>B486</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power tech levels">
+    <PageReference>B512</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Preparing for play">
+    <PageReference>B490</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prerequisites">
+    <Child ReferenceText="spells">
+      <PageReference>B235</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>B229</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>B169</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure">
+    <Child ReferenceText="the bends">
+      <PageReference>B435</PageReference>
+    </Child>
+    <Child ReferenceText="water">
+      <PageReference>B435</PageReference>
+    </Child>
+    <Child ReferenceText="atmospheric">
+      <PageReference>B429</PageReference>
+      <PageReference>B435</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Privilege">
+    <PageReference>B30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Professor William Headley">
+    <Child ReferenceText="illustrations">
+      <PageReference>B234</PageReference>
+      <PageReference>B486</PageReference>
+    </Child>
+    <Child ReferenceText="character sheet">
+      <PageReference>B318-319</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Protection and Warning spells">
+    <PageReference>B252</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi powers">
+    <SeeAlso>Psionics</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionics">
+    <PageReference>B71</PageReference>
+    <PageReference>B78</PageReference>
+    <PageReference>B150</PageReference>
+    <PageReference>B254-257</PageReference>
+    <Child ReferenceText="Antipsi">
+      <PageReference>B255</PageReference>
+    </Child>
+    <Child ReferenceText="ESP">
+      <PageReference>B255</PageReference>
+    </Child>
+    <Child ReferenceText="learning">
+      <PageReference>B294</PageReference>
+    </Child>
+    <Child ReferenceText="new powers">
+      <PageReference>B257</PageReference>
+    </Child>
+    <Child ReferenceText="pside effects">
+      <PageReference>B255</PageReference>
+    </Child>
+    <Child ReferenceText="Psychic Healing">
+      <PageReference>B256</PageReference>
+    </Child>
+    <Child ReferenceText="Psychokinesis">
+      <PageReference>B256</PageReference>
+    </Child>
+    <Child ReferenceText="Telepathy">
+      <PageReference>B257</PageReference>
+    </Child>
+    <Child ReferenceText="Teleportation">
+      <PageReference>B257</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychological warfare">
+    <PageReference>B359</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pulling things">
+    <PageReference>B353</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Punishment, legal">
+    <PageReference>B508</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid Magazine">
+    <PageReference>B494</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick contests">
+    <PageReference>B348</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick learning under pressure">
+    <PageReference>B292</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Start rules">
+    <PageReference>B8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quirks">
+    <PageReference>B162</PageReference>
+    <Child ReferenceText="racial">
+      <PageReference>B452</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation">
+    <PageReference>B80</PageReference>
+    <PageReference>B105</PageReference>
+    <PageReference>B192</PageReference>
+    <PageReference>B435</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged attacks">
+    <PageReference>B327</PageReference>
+    <PageReference>B372</PageReference>
+    <Child ReferenceText="half damage range">
+      <PageReference>B378</PageReference>
+    </Child>
+    <Child ReferenceText="hitting the wrong target">
+      <PageReference>B389</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers table">
+      <PageReference>B548</PageReference>
+    </Child>
+    <Child ReferenceText="opportunity fire">
+      <PageReference>B390</PageReference>
+    </Child>
+    <Child ReferenceText="overshooting">
+      <PageReference>B390</PageReference>
+    </Child>
+    <Child ReferenceText="pop-up attacks">
+      <PageReference>B390</PageReference>
+    </Child>
+    <Child ReferenceText="shooting blind">
+      <PageReference>B389</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged Combat Modifiers Table">
+    <PageReference>B548</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rank">
+    <PageReference>B29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid fire">
+    <PageReference>B373</PageReference>
+    <PageReference>B408</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Strike">
+    <PageReference>B54</PageReference>
+    <PageReference>B93</PageReference>
+    <PageReference>B370</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rate of Fire">
+    <PageReference>B270</PageReference>
+    <PageReference>B373</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rats">
+    <PageReference>B461</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rattlesnakes">
+    <PageReference>B458</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rcl">
+    <SeeAlso>Recoil</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction rolls">
+    <PageReference>B8</PageReference>
+    <PageReference>B494-495</PageReference>
+    <PageReference>B559-562</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reading">
+    <PageReference>B134</PageReference>
+    <SeeAlso>Literacy</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ready maneuver">
+    <PageReference>B325</PageReference>
+    <PageReference>B366</PageReference>
+    <PageReference>B382</PageReference>
+    <PageReference>B385</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ready weapons">
+    <PageReference>B369</PageReference>
+    <Child ReferenceText="readying">
+      <PageReference>B382</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Realism">
+    <PageReference>B11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reality Liberation Force">
+    <PageReference>B543</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reality quakes">
+    <PageReference>B534</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recoil">
+    <PageReference>B271</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recovery">
+    <PageReference>B328</PageReference>
+    <SeeAlso>Healing</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Recovery">
+    <PageReference>B423-424</PageReference>
+    <Child ReferenceText="from unconsciousness">
+      <PageReference>B423</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Regular spells">
+    <PageReference>B239</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reich-5">
+    <PageReference>B543</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Religion">
+    <PageReference>B30</PageReference>
+    <PageReference>B226</PageReference>
+    <SeeAlso>Gods</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Reloading missile weapons">
+    <PageReference>B373</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repair skills">
+    <PageReference>B190</PageReference>
+    <Child ReferenceText="repairing things">
+      <PageReference>B484</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reputation">
+    <PageReference>B27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resisted spells">
+    <PageReference>B241</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resuscitation">
+    <PageReference>B425</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retreat (in active defense)">
+    <PageReference>B377</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retreating">
+    <PageReference>B391</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual magic">
+    <PageReference>B237</PageReference>
+    <PageReference>B242</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roads">
+    <PageReference>B351</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="RoF (Rate of Fire)">
+    <PageReference>B270</PageReference>
+    <PageReference>B373</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roleplaying">
+    <PageReference>B7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rolling to hit">
+    <PageReference>B369</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Room maps">
+    <PageReference>B492</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rounding">
+    <PageReference>B9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rule of 14">
+    <PageReference>B360</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rule of 16">
+    <PageReference>B349</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rule of 20">
+    <PageReference>B173</PageReference>
+    <PageReference>B344</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rules">
+    <Child ReferenceText="questions">
+      <PageReference>B492</PageReference>
+    </Child>
+    <Child ReferenceText="customizing">
+      <PageReference>B486</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Runaround attacks">
+    <PageReference>B391</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Runes">
+    <PageReference>B224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Running">
+    <PageReference>B354</PageReference>
+    <PageReference>B357</PageReference>
+    <Child ReferenceText="fatigue">
+      <PageReference>B426</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrificial dodge">
+    <PageReference>B375</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sapience">
+    <PageReference>B15</PageReference>
+    <PageReference>B23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scopes">
+    <PageReference>B412</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sean Punch">
+    <PageReference>B6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seasickness">
+    <PageReference>B436</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secondary characteristics">
+    <PageReference>B15</PageReference>
+    <Child ReferenceText="improving">
+      <PageReference>B290</PageReference>
+    </Child>
+    <Child ReferenceText="in templates">
+      <PageReference>B447</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret disadvantages">
+    <PageReference>B120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret identities">
+    <PageReference>B31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-control">
+    <PageReference>B120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Senses">
+    <PageReference>B35</PageReference>
+    <PageReference>B78</PageReference>
+    <Child ReferenceText="sense rolls">
+      <PageReference>B358</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensors">
+    <PageReference>B471</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sentience">
+    <PageReference>B15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharks">
+    <PageReference>B457</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <PageReference>B287</PageReference>
+    <PageReference>B374</PageReference>
+    <Child ReferenceText="damage">
+      <PageReference>B484</PageReference>
+    </Child>
+    <Child ReferenceText="in close combat">
+      <PageReference>B392</PageReference>
+    </Child>
+    <Child ReferenceText="offensive use">
+      <PageReference>B406</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shiftrealms">
+    <PageReference>B534</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shock">
+    <Child ReferenceText="from injury">
+      <PageReference>B419</PageReference>
+    </Child>
+    <Child ReferenceText="electrical">
+      <PageReference>B432-433</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shooting blind">
+    <PageReference>B389</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shotguns">
+    <PageReference>B409</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shove">
+    <PageReference>B372</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sign language">
+    <PageReference>B25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silencers">
+    <PageReference>B412</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silver">
+    <SeeAlso>Wealth</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Size and Speed/Range Table">
+    <PageReference>B550</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Size Modifier">
+    <PageReference>B19</PageReference>
+    <PageReference>B372</PageReference>
+    <Child ReferenceText="and reach">
+      <PageReference>B402</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>B167</PageReference>
+    <PageReference>B174-233</PageReference>
+    <Child ReferenceText="buying">
+      <PageReference>B170</PageReference>
+    </Child>
+    <Child ReferenceText="defaults">
+      <PageReference>B170</PageReference>
+    </Child>
+    <Child ReferenceText="design">
+      <PageReference>B190</PageReference>
+    </Child>
+    <Child ReferenceText="difficulty level">
+      <PageReference>B168</PageReference>
+    </Child>
+    <Child ReferenceText="familiarity">
+      <PageReference>B169</PageReference>
+    </Child>
+    <Child ReferenceText="improving">
+      <PageReference>B170</PageReference>
+      <PageReference>B292</PageReference>
+    </Child>
+    <Child ReferenceText="in templates">
+      <PageReference>B447</PageReference>
+    </Child>
+    <Child ReferenceText="influence">
+      <PageReference>B495</PageReference>
+    </Child>
+    <Child ReferenceText="levels">
+      <PageReference>B171</PageReference>
+    </Child>
+    <Child ReferenceText="list">
+      <PageReference>B301</PageReference>
+    </Child>
+    <Child ReferenceText="maintaining">
+      <PageReference>B294</PageReference>
+    </Child>
+    <Child ReferenceText="physiology modifiers">
+      <PageReference>B181</PageReference>
+    </Child>
+    <Child ReferenceText="prerequisites">
+      <PageReference>B169</PageReference>
+    </Child>
+    <Child ReferenceText="racially learned">
+      <PageReference>B453</PageReference>
+    </Child>
+    <Child ReferenceText="repair">
+      <PageReference>B190</PageReference>
+    </Child>
+    <Child ReferenceText="scope">
+      <PageReference>B176</PageReference>
+    </Child>
+    <Child ReferenceText="specialties">
+      <PageReference>B169</PageReference>
+    </Child>
+    <Child ReferenceText="studying">
+      <PageReference>B292</PageReference>
+      <PageReference>B499</PageReference>
+    </Child>
+    <Child ReferenceText="teachers">
+      <PageReference>B293</PageReference>
+    </Child>
+    <Child ReferenceText="technological">
+      <PageReference>B168</PageReference>
+    </Child>
+    <Child ReferenceText="wildcard">
+      <PageReference>B175</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slam">
+    <PageReference>B371</PageReference>
+    <Child ReferenceText="by multi-hex figures">
+      <PageReference>B392</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slaves">
+    <PageReference>B518</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleep">
+    <PageReference>B50</PageReference>
+    <PageReference>B65</PageReference>
+    <PageReference>B136</PageReference>
+    <PageReference>B140</PageReference>
+    <PageReference>B142</PageReference>
+    <PageReference>B154</PageReference>
+    <PageReference>B155</PageReference>
+    <Child ReferenceText="drowsy">
+      <PageReference>B428</PageReference>
+    </Child>
+    <Child ReferenceText="missed sleep">
+      <PageReference>B426</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="SM">
+    <SeeAlso>Size Modifier</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Smartguns">
+    <PageReference>B278</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smell">
+    <PageReference>B49</PageReference>
+    <PageReference>B243</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snakes">
+    <PageReference>B458</PageReference>
+    <Child ReferenceText="cobra venom">
+      <PageReference>B439</PageReference>
+    </Child>
+    <Child ReferenceText="pythons">
+      <PageReference>B458</PageReference>
+    </Child>
+    <Child ReferenceText="rattlesnakes">
+      <PageReference>B458</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Social advantages">
+    <PageReference>B32</PageReference>
+    <Child ReferenceText="adding and improving">
+      <PageReference>B291</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Social background">
+    <PageReference>B22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social disadvantages">
+    <PageReference>B120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social restraints">
+    <PageReference>B30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Society types">
+    <PageReference>B509-510</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soldier of Fortune template">
+    <PageReference>B260</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sora">
+    <Child ReferenceText="illustrations">
+      <PageReference>B10</PageReference>
+      <PageReference>B258</PageReference>
+      <PageReference>B356</PageReference>
+      <PageReference>B362</PageReference>
+      <PageReference>B375</PageReference>
+      <PageReference>B402</PageReference>
+    </Child>
+    <Child ReferenceText="character sheet">
+      <PageReference>B320-321</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sounds">
+    <SeeAlso>Hearing</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Space sickness">
+    <PageReference>B434</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spacecraft">
+    <PageReference>B466</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>B465</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spacing (in combat)">
+    <PageReference>B368</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special spells">
+    <PageReference>B241</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed/Range Table">
+    <PageReference>B550</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <PageReference>B66</PageReference>
+    <PageReference>B250</PageReference>
+    <SeeAlso>Magic</SeeAlso>
+    <Child ReferenceText="Air">
+      <PageReference>B242</PageReference>
+    </Child>
+    <Child ReferenceText="area">
+      <PageReference>B239</PageReference>
+    </Child>
+    <Child ReferenceText="backfire">
+      <PageReference>B235</PageReference>
+    </Child>
+    <Child ReferenceText="blocking">
+      <PageReference>B241</PageReference>
+    </Child>
+    <Child ReferenceText="Body Control">
+      <PageReference>B244</PageReference>
+    </Child>
+    <Child ReferenceText="caster">
+      <PageReference>B236</PageReference>
+    </Child>
+    <Child ReferenceText="casting">
+      <PageReference>B235-238</PageReference>
+    </Child>
+    <Child ReferenceText="clerical">
+      <PageReference>B77</PageReference>
+    </Child>
+    <Child ReferenceText="Communication and Empathy">
+      <PageReference>B245</PageReference>
+    </Child>
+    <Child ReferenceText="Earth">
+      <PageReference>B245</PageReference>
+    </Child>
+    <Child ReferenceText="Enchantment">
+      <PageReference>B246</PageReference>
+      <PageReference>B480-482</PageReference>
+    </Child>
+    <Child ReferenceText="Fire">
+      <PageReference>B246</PageReference>
+    </Child>
+    <Child ReferenceText="Gate">
+      <PageReference>B247</PageReference>
+    </Child>
+    <Child ReferenceText="Healing">
+      <PageReference>B248</PageReference>
+    </Child>
+    <Child ReferenceText="information">
+      <PageReference>B241</PageReference>
+    </Child>
+    <Child ReferenceText="Knowledge">
+      <PageReference>B249</PageReference>
+    </Child>
+    <Child ReferenceText="legality">
+      <PageReference>B507</PageReference>
+    </Child>
+    <Child ReferenceText="Light and Darkness">
+      <PageReference>B249</PageReference>
+    </Child>
+    <Child ReferenceText="melee">
+      <PageReference>B240</PageReference>
+    </Child>
+    <Child ReferenceText="Mind Control">
+      <PageReference>B250</PageReference>
+    </Child>
+    <Child ReferenceText="missile">
+      <PageReference>B240</PageReference>
+    </Child>
+    <Child ReferenceText="Movement">
+      <PageReference>B251</PageReference>
+    </Child>
+    <Child ReferenceText="list">
+      <PageReference>B304</PageReference>
+    </Child>
+    <Child ReferenceText="Necromantic">
+      <PageReference>B251</PageReference>
+    </Child>
+    <Child ReferenceText="prerequisites">
+      <PageReference>B235</PageReference>
+    </Child>
+    <Child ReferenceText="Protection and Warning">
+      <PageReference>B252</PageReference>
+    </Child>
+    <Child ReferenceText="regular">
+      <PageReference>B239</PageReference>
+    </Child>
+    <Child ReferenceText="resisted">
+      <PageReference>B241</PageReference>
+    </Child>
+    <Child ReferenceText="special">
+      <PageReference>B242</PageReference>
+    </Child>
+    <Child ReferenceText="subject">
+      <PageReference>B236</PageReference>
+    </Child>
+    <Child ReferenceText="Water">
+      <PageReference>B253</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirits">
+    <PageReference>B41</PageReference>
+    <PageReference>B55</PageReference>
+    <PageReference>B68</PageReference>
+    <PageReference>B76</PageReference>
+    <PageReference>B113</PageReference>
+    <PageReference>B193</PageReference>
+    <PageReference>B200</PageReference>
+    <PageReference>B212</PageReference>
+    <Child ReferenceText="spirit advantages">
+      <PageReference>B34</PageReference>
+    </Child>
+    <Child ReferenceText="Spirit meta-trait">
+      <PageReference>B263</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spy gear">
+    <PageReference>B289</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ST">
+    <SeeAlso>Strength</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Staffs">
+    <PageReference>B240</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starvation">
+    <PageReference>B426</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Status">
+    <PageReference>B28</PageReference>
+    <PageReference>B265</PageReference>
+    <PageReference>B516</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Step (in maneuvers)">
+    <PageReference>B368</PageReference>
+    <PageReference>B386</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steve Jackson">
+    <PageReference>B6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stimulants">
+    <PageReference>B440</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strangle">
+    <PageReference>B370</PageReference>
+    <PageReference>B401</PageReference>
+    <PageReference>B404</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strength">
+    <PageReference>B14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Striges">
+    <PageReference>B461</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Striking at weapons">
+    <PageReference>B400</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Structural Damage Table">
+    <PageReference>B558</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Study">
+    <PageReference>B292</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stunning">
+    <PageReference>B35</PageReference>
+    <Child ReferenceText="mental stun">
+      <PageReference>B420</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Subduing a foe">
+    <PageReference>B401</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subject (of spells)">
+    <PageReference>B236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Success rolls">
+    <PageReference>B342</PageReference>
+    <Child ReferenceText="buying success">
+      <PageReference>B347</PageReference>
+    </Child>
+    <Child ReferenceText="critical failure">
+      <PageReference>B348</PageReference>
+    </Child>
+    <Child ReferenceText="critical success">
+      <PageReference>B347</PageReference>
+    </Child>
+    <Child ReferenceText="difficulty">
+      <PageReference>B345</PageReference>
+    </Child>
+    <Child ReferenceText="equipment modifiers">
+      <PageReference>B345</PageReference>
+    </Child>
+    <Child ReferenceText="influencing rolls">
+      <PageReference>B347</PageReference>
+    </Child>
+    <Child ReferenceText="player guidance">
+      <PageReference>B347</PageReference>
+    </Child>
+    <Child ReferenceText="repeated attempts">
+      <PageReference>B348</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Success rolls">
+    <PageReference>B8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suffocation">
+    <PageReference>B428</PageReference>
+    <PageReference>B436</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sunburn">
+    <PageReference>B434</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural advantages">
+    <PageReference>B32</PageReference>
+    <PageReference>B33</PageReference>
+    <PageReference>B34</PageReference>
+    <Child ReferenceText="disadvantages">
+      <PageReference>B120</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Supers">
+    <PageReference>B34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superscience">
+    <PageReference>B513</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suppression fire">
+    <PageReference>B409</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surprise attacks">
+    <PageReference>B393</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swarm attacks">
+    <PageReference>B461</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swimming">
+    <PageReference>B354</PageReference>
+    <PageReference>B357</PageReference>
+    <Child ReferenceText="fatigue">
+      <PageReference>B426</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Swinging damage">
+    <PageReference>B15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Switchable advantages">
+    <PageReference>B34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Table talk">
+    <PageReference>B493</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taboo traits">
+    <PageReference>B261</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Takedown">
+    <PageReference>B370</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taste and smell">
+    <PageReference>B49</PageReference>
+    <PageReference>B358</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech level">
+    <SeeAlso>Technology Levels</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <PageReference>B229</PageReference>
+    <Child ReferenceText="combat">
+      <PageReference>B230</PageReference>
+    </Child>
+    <Child ReferenceText="improving">
+      <PageReference>B292</PageReference>
+    </Child>
+    <Child ReferenceText="list">
+      <PageReference>B304</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Technological skills">
+    <PageReference>B168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technology Levels">
+    <PageReference>B22</PageReference>
+    <PageReference>B99</PageReference>
+    <PageReference>B511-512</PageReference>
+    <Child ReferenceText="and equipment">
+      <PageReference>B27</PageReference>
+    </Child>
+    <Child ReferenceText="and genre">
+      <PageReference>B514</PageReference>
+    </Child>
+    <Child ReferenceText="and starting wealth">
+      <PageReference>B27</PageReference>
+    </Child>
+    <Child ReferenceText="divergent">
+      <PageReference>B513</PageReference>
+    </Child>
+    <Child ReferenceText="superscience">
+      <PageReference>B513</PageReference>
+    </Child>
+    <Child ReferenceText="table of TLs by field">
+      <PageReference>B512</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Teeth">
+    <PageReference>B91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telepathy">
+    <PageReference>B69-71</PageReference>
+    <PageReference>B91</PageReference>
+    <PageReference>B210</PageReference>
+    <PageReference>B245</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature">
+    <PageReference>B9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <PageReference>B258</PageReference>
+    <PageReference>B445-454</PageReference>
+    <Child ReferenceText="cultural">
+      <PageReference>B446</PageReference>
+    </Child>
+    <Child ReferenceText="dramatic">
+      <PageReference>B446</PageReference>
+    </Child>
+    <Child ReferenceText="occupational">
+      <PageReference>B446</PageReference>
+    </Child>
+    <Child ReferenceText="racial">
+      <PageReference>B260</PageReference>
+      <PageReference>B450-454</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Terrain">
+    <PageReference>B351</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thief and spy gear">
+    <PageReference>B289</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throwing things">
+    <PageReference>B355</PageReference>
+    <PageReference>B357</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrown weapon attacks">
+    <PageReference>B373</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrusting damage">
+    <PageReference>B15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tigers">
+    <PageReference>B456</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time Tours, Ltd">
+    <Child ReferenceText="">
+      <PageReference>B539</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Time travel">
+    <PageReference>B64</PageReference>
+    <PageReference>B93</PageReference>
+    <PageReference>B158</PageReference>
+    <PageReference>B189</PageReference>
+    <PageReference>B190</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time Use Sheets">
+    <PageReference>B499</PageReference>
+    <PageReference>B569</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time">
+    <Child ReferenceText="between sessions">
+      <PageReference>B497</PageReference>
+    </Child>
+    <Child ReferenceText="during adventures">
+      <PageReference>B497</PageReference>
+    </Child>
+    <Child ReferenceText="between adventures">
+      <PageReference>B498</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Timeline shifts">
+    <PageReference>B544-546</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TL">
+    <SeeAlso>Technology Level</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="To-hit roll">
+    <PageReference>B326</PageReference>
+    <PageReference>B369</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tools">
+    <PageReference>B289</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Torches">
+    <PageReference>B394</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tragic flaws">
+    <PageReference>B119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trait lists">
+    <PageReference>B297</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traits">
+    <SeeAlso>Character Creation</SeeAlso>
+    <Child ReferenceText="taboo traits">
+      <PageReference>B26</PageReference>
+    </Child>
+    <Child ReferenceText="meta-traits">
+      <PageReference>B262</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trampling">
+    <PageReference>B404</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transformations">
+    <PageReference>B294</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transportation tech levels">
+    <PageReference>B512</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps">
+    <PageReference>B502</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel maps">
+    <PageReference>B491</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trials">
+    <PageReference>B507</PageReference>
+    <Child ReferenceText="punishment">
+      <PageReference>B508</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tripods">
+    <PageReference>B412</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tunnels">
+    <PageReference>B94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turning radius">
+    <PageReference>B394</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TV action violence">
+    <PageReference>B417</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unarmed combat">
+    <PageReference>B370</PageReference>
+    <Child ReferenceText="hurting yourself">
+      <PageReference>B379</PageReference>
+    </Child>
+    <Child ReferenceText="parrying">
+      <PageReference>B376</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unarmed Critical Miss Table">
+    <PageReference>B557</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unconsciousness">
+    <PageReference>B419</PageReference>
+    <PageReference>B423</PageReference>
+    <PageReference>B429</PageReference>
+    <Child ReferenceText="recovery from">
+      <PageReference>B329</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead">
+    <PageReference>B50</PageReference>
+    <SeeAlso>Vampires</SeeAlso>
+    <SeeAlso>Zombies</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="United Nations">
+    <PageReference>B535</PageReference>
+    <PageReference>B538</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Utopia">
+    <PageReference>B510</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vacuum">
+    <PageReference>B437</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampires">
+    <PageReference>B137</PageReference>
+    <PageReference>B212</PageReference>
+    <SeeAlso>Baron Janos Telkozep</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicle Hit Location Table">
+    <PageReference>B554</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicle Occupant Hit Location Table">
+    <PageReference>B555</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <PageReference>B188</PageReference>
+    <PageReference>B214</PageReference>
+    <PageReference>B223</PageReference>
+    <PageReference>B462-470</PageReference>
+    <Child ReferenceText="aircraft">
+      <PageReference>B465</PageReference>
+    </Child>
+    <Child ReferenceText="breakdowns">
+      <PageReference>B485</PageReference>
+    </Child>
+    <Child ReferenceText="combat">
+      <PageReference>B467-470</PageReference>
+    </Child>
+    <Child ReferenceText="control rolls">
+      <PageReference>B466</PageReference>
+    </Child>
+    <Child ReferenceText="damage">
+      <PageReference>B555</PageReference>
+    </Child>
+    <Child ReferenceText="ground vehicles">
+      <PageReference>B464</PageReference>
+    </Child>
+    <Child ReferenceText="hit location">
+      <PageReference>B400</PageReference>
+      <PageReference>B554</PageReference>
+    </Child>
+    <Child ReferenceText="movement">
+      <PageReference>B463</PageReference>
+    </Child>
+    <Child ReferenceText="spacecraft">
+      <PageReference>B465</PageReference>
+    </Child>
+    <Child ReferenceText="vehicular dodge">
+      <PageReference>B375</PageReference>
+    </Child>
+    <Child ReferenceText="watercraft">
+      <PageReference>B464</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Virtual realities">
+    <PageReference>B520</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visibility">
+    <PageReference>B394</PageReference>
+    <SeeAlso>Darkness</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Vision">
+    <PageReference>B92</PageReference>
+    <PageReference>B123</PageReference>
+    <PageReference>B124</PageReference>
+    <PageReference>B144</PageReference>
+    <PageReference>B151</PageReference>
+    <PageReference>B358</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voice">
+    <PageReference>B132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wait maneuver">
+    <PageReference>B325</PageReference>
+    <PageReference>B366</PageReference>
+    <PageReference>B385</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warhorses">
+    <SeeAlso>Horses</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Warrior template">
+    <PageReference>B449</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water spells">
+    <PageReference>B253</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Watercraft">
+    <PageReference>B466</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>B464</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth">
+    <PageReference>B25</PageReference>
+    <PageReference>B26</PageReference>
+    <PageReference>B264</PageReference>
+    <PageReference>B517</PageReference>
+    <Child ReferenceText="and Status">
+      <PageReference>B26</PageReference>
+      <PageReference>B516</PageReference>
+    </Child>
+    <Child ReferenceText="cost of living">
+      <PageReference>B265</PageReference>
+      <PageReference>B516</PageReference>
+    </Child>
+    <Child ReferenceText="economics">
+      <PageReference>B514</PageReference>
+    </Child>
+    <Child ReferenceText="gold and silver">
+      <PageReference>B515</PageReference>
+    </Child>
+    <Child ReferenceText="improving character wealth level">
+      <PageReference>B291</PageReference>
+    </Child>
+    <Child ReferenceText="moving money between worlds">
+      <PageReference>B514</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon and armor tech levels">
+    <PageReference>B512</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>B267-281</PageReference>
+    <Child ReferenceText="accessories">
+      <PageReference>B289</PageReference>
+      <PageReference>B411</PageReference>
+    </Child>
+    <Child ReferenceText="accuracy">
+      <PageReference>B269</PageReference>
+    </Child>
+    <Child ReferenceText="ammunition">
+      <PageReference>B278</PageReference>
+    </Child>
+    <Child ReferenceText="breaking">
+      <PageReference>B401</PageReference>
+      <PageReference>B485</PageReference>
+    </Child>
+    <Child ReferenceText="bulk">
+      <PageReference>B270</PageReference>
+    </Child>
+    <Child ReferenceText="carrying">
+      <PageReference>B287</PageReference>
+    </Child>
+    <Child ReferenceText="cavalry">
+      <PageReference>B397</PageReference>
+    </Child>
+    <Child ReferenceText="cost">
+      <PageReference>B270</PageReference>
+    </Child>
+    <Child ReferenceText="fencing">
+      <PageReference>B404</PageReference>
+    </Child>
+    <Child ReferenceText="firearms">
+      <PageReference>B278-281</PageReference>
+    </Child>
+    <Child ReferenceText="grenades">
+      <PageReference>B277</PageReference>
+    </Child>
+    <Child ReferenceText="heavy">
+      <PageReference>B281</PageReference>
+    </Child>
+    <Child ReferenceText="incendiaries">
+      <PageReference>B277</PageReference>
+    </Child>
+    <Child ReferenceText="infinite cinematic ammunition">
+      <PageReference>B417</PageReference>
+    </Child>
+    <Child ReferenceText="Legality Class">
+      <PageReference>B271</PageReference>
+    </Child>
+    <Child ReferenceText="malfunction">
+      <PageReference>B278</PageReference>
+      <PageReference>B407</PageReference>
+    </Child>
+    <Child ReferenceText="melee">
+      <PageReference>B271-275</PageReference>
+    </Child>
+    <Child ReferenceText="missiles">
+      <PageReference>B281</PageReference>
+    </Child>
+    <Child ReferenceText="parry">
+      <PageReference>B269</PageReference>
+    </Child>
+    <Child ReferenceText="range">
+      <PageReference>B269</PageReference>
+    </Child>
+    <Child ReferenceText="ranged">
+      <PageReference>B275-277</PageReference>
+      <PageReference>B278-281</PageReference>
+    </Child>
+    <Child ReferenceText="rate of fire">
+      <PageReference>B270</PageReference>
+    </Child>
+    <Child ReferenceText="reach">
+      <PageReference>B269</PageReference>
+    </Child>
+    <Child ReferenceText="reach and Size Modifier">
+      <PageReference>B388</PageReference>
+      <PageReference>B402</PageReference>
+    </Child>
+    <Child ReferenceText="recoil">
+      <PageReference>B271</PageReference>
+    </Child>
+    <Child ReferenceText="shots">
+      <PageReference>B270</PageReference>
+    </Child>
+    <Child ReferenceText="smartguns">
+      <PageReference>B278</PageReference>
+    </Child>
+    <Child ReferenceText="strength">
+      <PageReference>B270</PageReference>
+    </Child>
+    <Child ReferenceText="striking at weapons">
+      <PageReference>B400</PageReference>
+    </Child>
+    <Child ReferenceText="thrown">
+      <PageReference>B356</PageReference>
+    </Child>
+    <Child ReferenceText="weight">
+      <PageReference>B270</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weather">
+    <PageReference>B243</PageReference>
+    <PageReference>B351</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weirdness">
+    <PageReference>B161</PageReference>
+    <Child ReferenceText="weird parallel worlds">
+      <PageReference>B527</PageReference>
+    </Child>
+    <Child ReferenceText="weird science">
+      <PageReference>B228</PageReference>
+      <PageReference>B479</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Werewolves">
+    <PageReference>B83</PageReference>
+    <PageReference>B84</PageReference>
+    <PageReference>B137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whiplash">
+    <PageReference>B432</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whips">
+    <PageReference>B406</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="White Star Trading">
+    <PageReference>B524</PageReference>
+    <PageReference>B539</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild swings">
+    <PageReference>B388</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard skills">
+    <PageReference>B175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Will rolls">
+    <PageReference>B16</PageReference>
+    <PageReference>B360</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wolves">
+    <PageReference>B458</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="World-jumpers">
+    <PageReference>B544</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wounding modifier">
+    <PageReference>B379</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wounds">
+    <SeeAlso>Injuries</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrench Limb attack">
+    <PageReference>B370</PageReference>
+    <PageReference>B404</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Xing La">
+    <Child ReferenceText="illustrations">
+      <PageReference>B167</PageReference>
+      <PageReference>B188</PageReference>
+      <PageReference>B418</PageReference>
+      <PageReference>B445</PageReference>
+    </Child>
+    <Child ReferenceText="character sheet">
+      <PageReference>B316-317</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombies">
+    <PageReference>B74</PageReference>
+    <PageReference>B94</PageReference>
+    <PageReference>B252</PageReference>
+    <PageReference>B380</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

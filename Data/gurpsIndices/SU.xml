@@ -1,0 +1,1426 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Achilles’ heel">
+    <PageReference>SU11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobat template">
+    <PageReference>SU41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advanced technology">
+    <PageReference>SU141-142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>SU25-30</PageReference>
+    <PageReference>SU75</PageReference>
+    <Child ReferenceText="Unusual Background">
+      <PageReference>SU75</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventure seeds">
+    <PageReference>SU97-98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy">
+    <PageReference>SU90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alien races">
+    <PageReference>SU142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies">
+    <PageReference>SU19</PageReference>
+    <PageReference>SU64</PageReference>
+    <PageReference>SU88-89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amnesia campaigns">
+    <PageReference>SU96-97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Function power">
+    <PageReference>SU39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animate Life-Forms enhancement">
+    <PageReference>SU28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-hero campaigns">
+    <PageReference>SU15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-powers">
+    <PageReference>SU22</PageReference>
+    <PageReference>SU82</PageReference>
+    <Child ReferenceText="damper cuffs">
+      <PageReference>SU82</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Antithesis">
+    <PageReference>SU70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Apparatus">
+    <PageReference>SU86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance rolls">
+    <Child ReferenceText="multiple rolls as one">
+      <PageReference>SU65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Archetype template">
+    <PageReference>SU41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>SU77-78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assistants">
+    <PageReference>SU65</PageReference>
+    <PageReference>SU86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attacks">
+    <PageReference>SU58-59</PageReference>
+    <SeeAlso>Strength</SeeAlso>
+    <Child ReferenceText="deceptive attack option">
+      <PageReference>SU118</PageReference>
+    </Child>
+    <Child ReferenceText="melee">
+      <PageReference>SU58</PageReference>
+    </Child>
+    <Child ReferenceText="ranged">
+      <PageReference>SU59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <PageReference>SU23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Avoiding detection">
+    <PageReference>SU109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biomorph template">
+    <PageReference>SU42-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blasters">
+    <PageReference>SU43-44</PageReference>
+    <PageReference>SU122</PageReference>
+    <SeeAlso>Attacks</SeeAlso>
+    <Child ReferenceText="template">
+      <PageReference>SU43-44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Breaking things">
+    <PageReference>SU76</PageReference>
+    <PageReference>SU123-125</PageReference>
+    <SeeAlso>Attacks</SeeAlso>
+    <Child ReferenceText="benchmarks">
+      <PageReference>SU124</PageReference>
+    </Child>
+    <Child ReferenceText="planets">
+      <PageReference>SU125</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brick template">
+    <PageReference>SU44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cabal">
+    <PageReference>SU145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <PageReference>SU14-17</PageReference>
+    <PageReference>SU19</PageReference>
+    <PageReference>SU21</PageReference>
+    <PageReference>SU24-25</PageReference>
+    <PageReference>SU84</PageReference>
+    <PageReference>SU96-97</PageReference>
+    <PageReference>SU99-100</PageReference>
+    <PageReference>SU116</PageReference>
+    <PageReference>SU130-131</PageReference>
+    <PageReference>SU133-134</PageReference>
+    <PageReference>SU137-138</PageReference>
+    <PageReference>SU144</PageReference>
+    <SeeAlso>ds</SeeAlso>
+    <SeeAlso>144</SeeAlso>
+    <Child ReferenceText="amnesia">
+      <PageReference>SU96-97</PageReference>
+    </Child>
+    <Child ReferenceText="anti-hero">
+      <PageReference>SU15-16</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic">
+      <PageReference>SU16</PageReference>
+      <PageReference>SU99-100</PageReference>
+      <PageReference>SU116</PageReference>
+    </Child>
+    <Child ReferenceText="classic">
+      <PageReference>SU14</PageReference>
+      <PageReference>SU21</PageReference>
+    </Child>
+    <Child ReferenceText="four-color">
+      <PageReference>SU14</PageReference>
+      <PageReference>SU16</PageReference>
+      <PageReference>SU24</PageReference>
+      <PageReference>SU25</PageReference>
+      <PageReference>SU84</PageReference>
+      <PageReference>SU99</PageReference>
+      <PageReference>SU100</PageReference>
+      <PageReference>SU116-117</PageReference>
+    </Child>
+    <Child ReferenceText="gritty">
+      <PageReference>SU17</PageReference>
+    </Child>
+    <Child ReferenceText="history">
+      <PageReference>SU130-131</PageReference>
+      <PageReference>SU133-134</PageReference>
+      <PageReference>SU137-138</PageReference>
+    </Child>
+    <Child ReferenceText="noir">
+      <PageReference>SU17</PageReference>
+    </Child>
+    <Child ReferenceText="parody">
+      <PageReference>SU15-16</PageReference>
+    </Child>
+    <Child ReferenceText="realistic">
+      <PageReference>SU21</PageReference>
+    </Child>
+    <Child ReferenceText="silly">
+      <PageReference>SU17</PageReference>
+      <PageReference>SU100</PageReference>
+      <PageReference>SU117</PageReference>
+    </Child>
+    <Child ReferenceText="solo">
+      <PageReference>SU19</PageReference>
+    </Child>
+    <Child ReferenceText="speculative">
+      <PageReference>SU17</PageReference>
+    </Child>
+    <Child ReferenceText="weird">
+      <PageReference>SU15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Career length">
+    <PageReference>SU133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catastrophes">
+    <PageReference>SU94-95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Causes">
+    <PageReference>SU8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charisma as talent">
+    <PageReference>SU26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemical powers">
+    <PageReference>SU105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cinematic campaigns">
+    <PageReference>SU16</PageReference>
+    <PageReference>SU99-100</PageReference>
+    <PageReference>SU116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Classic campaigns">
+    <PageReference>SU14</PageReference>
+    <PageReference>SU21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code names">
+    <PageReference>SU9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Codes of Honor disadvantage">
+    <PageReference>SU9</PageReference>
+    <PageReference>SU31</PageReference>
+    <Child ReferenceText="Comics Code">
+      <PageReference>SU31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <PageReference>SU92</PageReference>
+    <PageReference>SU116-119</PageReference>
+    <SeeAlso>Attacks</SeeAlso>
+    <SeeAlso>Breaking things</SeeAlso>
+    <SeeAlso>Defenses</SeeAlso>
+    <Child ReferenceText="campaign rules">
+      <PageReference>SU116-117</PageReference>
+    </Child>
+    <Child ReferenceText="deadliness">
+      <PageReference>SU117-118</PageReference>
+    </Child>
+    <Child ReferenceText="one-man army">
+      <PageReference>SU118-119</PageReference>
+    </Child>
+    <Child ReferenceText="super-strength">
+      <PageReference>SU119</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Comics Code">
+    <PageReference>SU7</PageReference>
+    <PageReference>SU9</PageReference>
+    <PageReference>SU11</PageReference>
+    <PageReference>SU31</PageReference>
+    <PageReference>SU75</PageReference>
+    <PageReference>SU82</PageReference>
+    <PageReference>SU125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Communications gear">
+    <PageReference>SU80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Community">
+    <PageReference>SU21</PageReference>
+    <SeeAlso>Family</SeeAlso>
+    <SeeAlso>Relationships</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Compulsive Rhetoric disadvantage">
+    <PageReference>SU32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <PageReference>SU79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Condition">
+    <Child ReferenceText="itching">
+      <PageReference>SU25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Conspiracies">
+    <PageReference>SU70</PageReference>
+    <PageReference>SU96</PageReference>
+    <Child ReferenceText="good guys">
+      <PageReference>SU70</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts">
+    <PageReference>SU65</PageReference>
+    <PageReference>SU89</PageReference>
+    <PageReference>SU91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Core powers">
+    <PageReference>SU10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Costumes">
+    <PageReference>SU9-10</PageReference>
+    <PageReference>SU77</PageReference>
+    <Child ReferenceText="acquiring">
+      <PageReference>SU77</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cover">
+    <PageReference>SU76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crime statistics">
+    <PageReference>SU91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossovers">
+    <PageReference>SU13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Culture">
+    <PageReference>SU139-141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Reduction advantage">
+    <PageReference>SU122-123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Scale">
+    <PageReference>SU19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damper cuffs">
+    <PageReference>SU82</PageReference>
+    <SeeAlso>Anti-powers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark supers">
+    <PageReference>SU8</PageReference>
+    <PageReference>SU11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death and demographics">
+    <PageReference>SU134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deathtraps">
+    <PageReference>SU93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deceptive attacks">
+    <PageReference>SU118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defenses">
+    <PageReference>SU34</PageReference>
+    <PageReference>SU77-78</PageReference>
+    <PageReference>SU109</PageReference>
+    <PageReference>SU117</PageReference>
+    <PageReference>SU122-123</PageReference>
+    <SeeAlso>Invulnerability</SeeAlso>
+    <Child ReferenceText="against perception">
+      <PageReference>SU109</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>SU77-78</PageReference>
+    </Child>
+    <Child ReferenceText="Damage Reduction">
+      <PageReference>SU122-123</PageReference>
+    </Child>
+    <Child ReferenceText="defense bonus">
+      <PageReference>SU34</PageReference>
+    </Child>
+    <Child ReferenceText="Hard to Kill">
+      <PageReference>SU117</PageReference>
+    </Child>
+    <Child ReferenceText="parrying bullets">
+      <PageReference>SU122</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Demographics">
+    <PageReference>SU131-134</PageReference>
+    <Child ReferenceText="death and">
+      <PageReference>SU134</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dependency disadvantage">
+    <PageReference>SU22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dependents disadvantage">
+    <PageReference>SU67-68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect advantage">
+    <PageReference>SU106</PageReference>
+    <SeeAlso>Perception</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>SU9</PageReference>
+    <PageReference>SU22</PageReference>
+    <PageReference>SU31-33</PageReference>
+    <PageReference>SU67-68</PageReference>
+    <PageReference>SU71</PageReference>
+    <Child ReferenceText="Code of Honor">
+      <PageReference>SU9</PageReference>
+      <PageReference>SU31</PageReference>
+      <PageReference>SU71</PageReference>
+    </Child>
+    <Child ReferenceText="Enemy (Generic Villain)">
+      <PageReference>SU71</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disasters">
+    <PageReference>SU94-95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disguises">
+    <PageReference>SU77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine gear">
+    <PageReference>SU90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Double agents">
+    <PageReference>SU70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dreadnought template">
+    <PageReference>SU45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duplication advantage">
+    <PageReference>SU103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Economic output">
+    <Child ReferenceText="top 12 countries">
+      <PageReference>SU132</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elasticity power">
+    <PageReference>SU39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elements">
+    <PageReference>SU21</PageReference>
+    <PageReference>SU104-106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elixirs">
+    <PageReference>SU90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Empathy alternatives">
+    <PageReference>SU108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchanted items">
+    <PageReference>SU89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemies">
+    <PageReference>SU69-72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancements and limitations">
+    <SeeAlso>modifiers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <PageReference>SU73-90</PageReference>
+    <PageReference>SU106</PageReference>
+    <PageReference>SU120-121</PageReference>
+    <SeeAlso>Breaking things</SeeAlso>
+    <Child ReferenceText="apparatus">
+      <PageReference>SU86</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>SU77-78</PageReference>
+    </Child>
+    <Child ReferenceText="big and improvised weapons">
+      <PageReference>SU120-121</PageReference>
+    </Child>
+    <Child ReferenceText="breaking">
+      <PageReference>SU76</PageReference>
+    </Child>
+    <Child ReferenceText="communication">
+      <PageReference>SU80</PageReference>
+    </Child>
+    <Child ReferenceText="computers">
+      <PageReference>SU79</PageReference>
+    </Child>
+    <Child ReferenceText="costumes">
+      <PageReference>SU77</PageReference>
+    </Child>
+    <Child ReferenceText="extra effort and">
+      <PageReference>SU76</PageReference>
+    </Child>
+    <Child ReferenceText="headquarters">
+      <PageReference>SU85-88</PageReference>
+    </Child>
+    <Child ReferenceText="high TL">
+      <PageReference>SU74</PageReference>
+    </Child>
+    <Child ReferenceText="hybrid">
+      <PageReference>SU74</PageReference>
+      <PageReference>SU81</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>SU89-90</PageReference>
+    </Child>
+    <Child ReferenceText="mechanical hierarchy">
+      <PageReference>SU106</PageReference>
+    </Child>
+    <Child ReferenceText="medical">
+      <PageReference>SU80</PageReference>
+    </Child>
+    <Child ReferenceText="mundane">
+      <PageReference>SU73-74</PageReference>
+      <PageReference>SU81</PageReference>
+    </Child>
+    <Child ReferenceText="one use only">
+      <PageReference>SU74-75</PageReference>
+    </Child>
+    <Child ReferenceText="personal gear">
+      <PageReference>SU79-80</PageReference>
+      <PageReference>SU83</PageReference>
+    </Child>
+    <Child ReferenceText="sensors">
+      <PageReference>SU79</PageReference>
+    </Child>
+    <Child ReferenceText="shields">
+      <PageReference>SU78</PageReference>
+    </Child>
+    <Child ReferenceText="signature gear">
+      <PageReference>SU74</PageReference>
+    </Child>
+    <Child ReferenceText="stealth and intrusion">
+      <PageReference>SU80</PageReference>
+    </Child>
+    <Child ReferenceText="trademark">
+      <PageReference>SU74</PageReference>
+    </Child>
+    <Child ReferenceText="transport">
+      <PageReference>SU83-85</PageReference>
+    </Child>
+    <Child ReferenceText="unique">
+      <PageReference>SU82-83</PageReference>
+    </Child>
+    <Child ReferenceText="Unusual Background and">
+      <PageReference>SU75</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>SU80-82</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Evil twins">
+    <PageReference>SU70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exoskeleta">
+    <PageReference>SU78-79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exploration">
+    <PageReference>SU94-95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exposition">
+    <PageReference>SU92-93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra effort">
+    <PageReference>SU76</PageReference>
+    <PageReference>SU101</PageReference>
+    <SeeAlso>Super effort</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Family">
+    <PageReference>SU21</PageReference>
+    <PageReference>SU67-68</PageReference>
+    <SeeAlso>Relationships</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Feats">
+    <PageReference>SU84</PageReference>
+    <PageReference>SU112-113</PageReference>
+    <Child ReferenceText="points and">
+      <PageReference>SU114</PageReference>
+    </Child>
+    <Child ReferenceText="speed">
+      <PageReference>SU102-103</PageReference>
+    </Child>
+    <Child ReferenceText="strength">
+      <PageReference>SU101</PageReference>
+      <PageReference>SU123-125</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flesh wounds">
+    <PageReference>SU117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Formulaic supers">
+    <PageReference>SU8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Formulaic variants">
+    <PageReference>SU11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Four-color campaigns">
+    <PageReference>SU14</PageReference>
+    <PageReference>SU16</PageReference>
+    <PageReference>SU24</PageReference>
+    <PageReference>SU25</PageReference>
+    <PageReference>SU84</PageReference>
+    <PageReference>SU99</PageReference>
+    <PageReference>SU100</PageReference>
+    <PageReference>SU116-117</PageReference>
+    <Child ReferenceText="magic">
+      <PageReference>SU110-111</PageReference>
+    </Child>
+    <Child ReferenceText="supers">
+      <PageReference>SU14</PageReference>
+      <PageReference>SU16</PageReference>
+      <PageReference>SU84</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Friction powers">
+    <PageReference>SU105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteers">
+    <PageReference>SU111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genre">
+    <PageReference>SU5</PageReference>
+    <PageReference>SU13-14</PageReference>
+    <Child ReferenceText="crossovers">
+      <PageReference>SU13-14</PageReference>
+    </Child>
+    <Child ReferenceText="history of">
+      <PageReference>SU5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gizmos">
+    <PageReference>SU80</PageReference>
+    <PageReference>SU82</PageReference>
+    <PageReference>SU90</PageReference>
+    <PageReference>SU111</PageReference>
+    <Child ReferenceText="weapons as">
+      <PageReference>SU82</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Golden Age">
+    <PageReference>SU7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grimoire enhancement">
+    <PageReference>SU27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gritty campaigns">
+    <PageReference>SU17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard to Kill advantage">
+    <PageReference>SU117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Headquarters">
+    <PageReference>SU85</PageReference>
+    <PageReference>SU87-88</PageReference>
+    <Child ReferenceText="access">
+      <PageReference>SU87</PageReference>
+    </Child>
+    <Child ReferenceText="fortification">
+      <PageReference>SU88</PageReference>
+    </Child>
+    <Child ReferenceText="hidden">
+      <PageReference>SU87-88</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden realms">
+    <PageReference>SU142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden supers">
+    <PageReference>SU15</PageReference>
+    <PageReference>SU70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="History">
+    <PageReference>SU5</PageReference>
+    <PageReference>SU7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improviser template">
+    <PageReference>SU46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="International Super Teams">
+    <PageReference>SU145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invasions">
+    <PageReference>SU95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invention">
+    <PageReference>SU90</PageReference>
+    <PageReference>SU111</PageReference>
+    <Child ReferenceText="spells">
+      <PageReference>SU90</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Investigation">
+    <PageReference>SU94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invulnerability">
+    <PageReference>SU103-104</PageReference>
+    <PageReference>SU122-123</PageReference>
+    <Child ReferenceText="bulletproof">
+      <PageReference>SU122</PageReference>
+    </Child>
+    <Child ReferenceText="dangers">
+      <PageReference>SU103-104</PageReference>
+    </Child>
+    <Child ReferenceText="unkillable">
+      <PageReference>SU123</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Itching condition">
+    <PageReference>SU25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jane’s All the World’s Superhumans">
+    <PageReference>SU129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jobs">
+    <PageReference>SU136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jotunheim">
+    <PageReference>SU145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kinetic template">
+    <PageReference>SU46-47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knockback">
+    <PageReference>SU121</PageReference>
+    <SeeAlso>Attacks</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Latent powers">
+    <PageReference>SU113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Law and supers">
+    <PageReference>SU9</PageReference>
+    <PageReference>SU11-12</PageReference>
+    <PageReference>SU72</PageReference>
+    <PageReference>SU82</PageReference>
+    <PageReference>SU138-139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leagues">
+    <PageReference>SU19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legions">
+    <PageReference>SU20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lost races">
+    <PageReference>SU142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Machine powers">
+    <PageReference>SU105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stage Magician template">
+    <PageReference>SU53-56</PageReference>
+    <PageReference>SU89-90</PageReference>
+    <PageReference>SU110-111</PageReference>
+    <PageReference>SU53-54</PageReference>
+    <Child ReferenceText="comic-book">
+      <PageReference>SU110-111</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>SU89-90</PageReference>
+    </Child>
+    <Child ReferenceText="inventing spells">
+      <PageReference>SU90</PageReference>
+    </Child>
+    <Child ReferenceText="sleight of hand">
+      <PageReference>SU54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Man Plus template">
+    <PageReference>SU47-48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maneuvering">
+    <PageReference>SU102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mania disadvantage">
+    <PageReference>SU33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Masks">
+    <PageReference>SU5</PageReference>
+    <PageReference>SU9-10</PageReference>
+    <PageReference>SU62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Massively Parallel enhancement">
+    <PageReference>SU26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master Mage template">
+    <PageReference>SU54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Masterminds">
+    <PageReference>SU69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical gear">
+    <PageReference>SU80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentors">
+    <PageReference>SU66-67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mercenaries">
+    <PageReference>SU136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mesmerist template">
+    <PageReference>SU48-49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metamorph template">
+    <PageReference>SU49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microworlds">
+    <PageReference>SU142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Millennium Scale damage">
+    <PageReference>SU19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Control advantage">
+    <PageReference>SU110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mobs">
+    <PageReference>SU95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modes">
+    <PageReference>SU16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modifiers">
+    <PageReference>SU23</PageReference>
+    <PageReference>SU26-28</PageReference>
+    <PageReference>SU33-34</PageReference>
+    <PageReference>SU74</PageReference>
+    <Child ReferenceText="Animate Life-Forms">
+      <PageReference>SU28</PageReference>
+    </Child>
+    <Child ReferenceText="Grimoire">
+      <PageReference>SU27</PageReference>
+    </Child>
+    <Child ReferenceText="Massively Parallel">
+      <PageReference>SU26</PageReference>
+    </Child>
+    <Child ReferenceText="Reconfigurable Mechanisms">
+      <PageReference>SU27</PageReference>
+    </Child>
+    <Child ReferenceText="Requires Material Component">
+      <PageReference>SU74</PageReference>
+    </Child>
+    <Child ReferenceText="Spirit Trapping">
+      <PageReference>SU27</PageReference>
+    </Child>
+    <Child ReferenceText="Super Attribute">
+      <PageReference>SU23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Modular abilities">
+    <PageReference>SU27</PageReference>
+    <PageReference>SU111-112</PageReference>
+    <Child ReferenceText="magic">
+      <PageReference>SU111</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>SU112</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Money">
+    <PageReference>SU136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <PageReference>SU96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Motivations">
+    <PageReference>SU59-61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Movies">
+    <PageReference>SU8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mystic template">
+    <PageReference>SU55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Names">
+    <PageReference>SU9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nemesis">
+    <PageReference>SU70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New meta-traits">
+    <PageReference>SU34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New powers">
+    <PageReference>SU39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nightstalker template">
+    <PageReference>SU49-50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Noir campaigns">
+    <PageReference>SU17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Non-human supers">
+    <PageReference>SU6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nuisance rolls">
+    <PageReference>SU100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nuisance villains">
+    <PageReference>SU71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-man army">
+    <PageReference>SU118-119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-use powers">
+    <PageReference>SU112-113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oppression">
+    <PageReference>SU96</PageReference>
+    <PageReference>SU138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ordinary supers">
+    <PageReference>SU12-13</PageReference>
+    <PageReference>SU96-97</PageReference>
+    <PageReference>SU136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Organizations">
+    <PageReference>SU19-20</PageReference>
+    <PageReference>SU64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Origins">
+    <PageReference>SU5-7</PageReference>
+    <PageReference>SU10-12</PageReference>
+    <PageReference>SU15</PageReference>
+    <PageReference>SU21</PageReference>
+    <PageReference>SU66</PageReference>
+    <PageReference>SU129-131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parallel worlds">
+    <PageReference>SU143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parody campaigns">
+    <PageReference>SU15-16</PageReference>
+    <SeeAlso>Silly campaigns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Passive abilities">
+    <PageReference>SU22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patriotism">
+    <PageReference>SU140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrolling">
+    <PageReference>SU91</PageReference>
+    <PageReference>SU107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrons">
+    <PageReference>SU64</PageReference>
+    <PageReference>SU66-67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perception">
+    <PageReference>SU106-109</PageReference>
+    <SeeAlso>Precognition</SeeAlso>
+    <SeeAlso>Telepathy</SeeAlso>
+    <Child ReferenceText="avoiding">
+      <PageReference>SU109</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>SU30-31</PageReference>
+    <PageReference>SU85</PageReference>
+    <PageReference>SU88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pets">
+    <PageReference>SU88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phantom template">
+    <PageReference>SU50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phasing power">
+    <PageReference>SU39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plant Function power">
+    <PageReference>SU40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Playing yourself">
+    <PageReference>SU131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plot complications">
+    <PageReference>SU93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Points">
+    <PageReference>SU18-19</PageReference>
+    <PageReference>SU68</PageReference>
+    <PageReference>SU114</PageReference>
+    <Child ReferenceText="Dependents and Allies">
+      <PageReference>SU68</PageReference>
+    </Child>
+    <Child ReferenceText="spending on feats">
+      <PageReference>SU114</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Popular culture">
+    <PageReference>SU139-140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Population demographics">
+    <PageReference>SU131-133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Population">
+    <Child ReferenceText="top 12 countries">
+      <PageReference>SU132</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Portals">
+    <PageReference>SU85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power level">
+    <PageReference>SU18-19</PageReference>
+    <PageReference>SU138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power modifiers">
+    <PageReference>SU34</PageReference>
+    <SeeAlso>Sources</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Powered armor">
+    <PageReference>SU78-79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <PageReference>SU10-11</PageReference>
+    <PageReference>SU22</PageReference>
+    <PageReference>SU41</PageReference>
+    <PageReference>SU113</PageReference>
+    <Child ReferenceText="latent">
+      <PageReference>SU113</PageReference>
+    </Child>
+    <Child ReferenceText="wildcard">
+      <PageReference>SU41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Precognition">
+    <PageReference>SU108-109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Premises">
+    <PageReference>SU129-130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure powers">
+    <PageReference>SU106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Private lives">
+    <PageReference>SU136-137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Props">
+    <PageReference>SU73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Public relations">
+    <PageReference>SU95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Puzzles">
+    <PageReference>SU92-93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quirks">
+    <PageReference>SU33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Racial templates">
+    <PageReference>SU22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realistic campaigns">
+    <PageReference>SU21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rebellion">
+    <PageReference>SU96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reconfigurable Mechanisms enhancement">
+    <PageReference>SU27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regional distribution">
+    <PageReference>SU132-133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Relationships">
+    <PageReference>SU64</PageReference>
+    <PageReference>SU67</PageReference>
+    <PageReference>SU72</PageReference>
+    <Child ReferenceText="family">
+      <PageReference>SU21</PageReference>
+      <PageReference>SU67-68</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Religion">
+    <PageReference>SU140-141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Renaissance Man template">
+    <PageReference>SU50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retro supers">
+    <PageReference>SU8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rivals">
+    <PageReference>SU72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rogues’ gallery">
+    <PageReference>SU71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roles">
+    <PageReference>SU135-137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Romance">
+    <PageReference>SU68</PageReference>
+    <PageReference>SU72</PageReference>
+    <SeeAlso>Relationships</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Rubberman template">
+    <PageReference>SU51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sabotage">
+    <PageReference>SU111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scanning Sense advantage">
+    <PageReference>SU106</PageReference>
+    <SeeAlso>Perception</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Scenarios">
+    <PageReference>SU91-98</PageReference>
+    <Child ReferenceText="patrolling">
+      <PageReference>SU91-92</PageReference>
+    </Child>
+    <Child ReferenceText="puzzle">
+      <PageReference>SU92-93</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Schemers">
+    <PageReference>SU69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Schools">
+    <PageReference>SU14-15</PageReference>
+    <PageReference>SU21</PageReference>
+    <PageReference>SU66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret identities">
+    <PageReference>SU5</PageReference>
+    <PageReference>SU9</PageReference>
+    <PageReference>SU12</PageReference>
+    <PageReference>SU62</PageReference>
+    <PageReference>SU68</PageReference>
+    <PageReference>SU139</PageReference>
+    <Child ReferenceText="as rival or Patron">
+      <PageReference>SU62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensors">
+    <PageReference>SU79</PageReference>
+    <SeeAlso>Perception</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Setting">
+    <PageReference>SU11</PageReference>
+    <PageReference>SU112</PageReference>
+    <PageReference>SU129-130</PageReference>
+    <PageReference>SU141-144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shaper template">
+    <PageReference>SU51-52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <PageReference>SU78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sidekicks">
+    <PageReference>SU66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sifu template">
+    <PageReference>SU52-53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signature gear">
+    <PageReference>SU55</PageReference>
+    <PageReference>SU80-81</PageReference>
+    <PageReference>SU85</PageReference>
+    <Child ReferenceText="consumable">
+      <PageReference>SU81</PageReference>
+    </Child>
+    <Child ReferenceText="headquarters">
+      <PageReference>SU85</PageReference>
+    </Child>
+    <Child ReferenceText="magic items as">
+      <PageReference>SU55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Silly campaigns">
+    <PageReference>SU17</PageReference>
+    <PageReference>SU100</PageReference>
+    <PageReference>SU117</PageReference>
+    <SeeAlso>Parody campaigns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Silver Age">
+    <PageReference>SU7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>SU23</PageReference>
+    <PageReference>SU34-39</PageReference>
+    <PageReference>SU111</PageReference>
+    <Child ReferenceText="defaults">
+      <PageReference>SU23</PageReference>
+    </Child>
+    <Child ReferenceText="enhancing">
+      <PageReference>SU103</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>SU38-39</PageReference>
+    </Child>
+    <Child ReferenceText="wildcard">
+      <PageReference>SU36-37</PageReference>
+      <PageReference>SU111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleight of hand magic">
+    <PageReference>SU54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Solo campaigns">
+    <PageReference>SU19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sources">
+    <PageReference>SU5-7</PageReference>
+    <PageReference>SU21</PageReference>
+    <PageReference>SU34</PageReference>
+    <PageReference>SU66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speculative campaigns">
+    <PageReference>SU17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed">
+    <PageReference>SU40</PageReference>
+    <PageReference>SU102-103</PageReference>
+    <PageReference>SU107</PageReference>
+    <PageReference>SU126</PageReference>
+    <Child ReferenceText="power">
+      <PageReference>SU40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Speedster template">
+    <PageReference>SU53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <PageReference>SU23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Trapping enhancement">
+    <PageReference>SU27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stage Magician template">
+    <PageReference>SU53-54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stealth and intrusion gear">
+    <PageReference>SU80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strange worlds">
+    <PageReference>SU94-95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Street-level supers">
+    <PageReference>SU12</PageReference>
+    <PageReference>SU14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strength">
+    <PageReference>SU24-25</PageReference>
+    <PageReference>SU35</PageReference>
+    <PageReference>SU101</PageReference>
+    <PageReference>SU113</PageReference>
+    <PageReference>SU119</PageReference>
+    <PageReference>SU121</PageReference>
+    <Child ReferenceText="cinematic skills and">
+      <PageReference>SU35</PageReference>
+    </Child>
+    <Child ReferenceText="godlike">
+      <PageReference>SU113</PageReference>
+    </Child>
+    <Child ReferenceText="mighty blows">
+      <PageReference>SU119</PageReference>
+    </Child>
+    <Child ReferenceText="weapon requirements">
+      <PageReference>SU121</PageReference>
+    </Child>
+    <Child ReferenceText="weight and">
+      <PageReference>SU25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sub-genres">
+    <PageReference>SU14-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super effort">
+    <PageReference>SU24-25</PageReference>
+    <PageReference>SU35</PageReference>
+    <PageReference>SU101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super Throw advantage">
+    <PageReference>SU30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-Abilities table">
+    <PageReference>SU146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supermage templates">
+    <PageReference>SU53-56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superspy template">
+    <PageReference>SU56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supporting cast">
+    <PageReference>SU19-20</PageReference>
+    <PageReference>SU63-72</PageReference>
+    <PageReference>SU86</PageReference>
+    <PageReference>SU88-89</PageReference>
+    <Child ReferenceText="wildcard skills">
+      <PageReference>SU66</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Swinging">
+    <PageReference>SU84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <PageReference>SU23</PageReference>
+    <PageReference>SU103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teams">
+    <PageReference>SU19-20</PageReference>
+    <PageReference>SU64</PageReference>
+    <Child ReferenceText="resources">
+      <PageReference>SU64</PageReference>
+    </Child>
+    <Child ReferenceText="team-ups">
+      <PageReference>SU20</PageReference>
+    </Child>
+    <Child ReferenceText="villains">
+      <PageReference>SU64</PageReference>
+      <PageReference>SU71</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <PageReference>SU38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Techno template">
+    <PageReference>SU56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technology">
+    <PageReference>SU23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telepathy">
+    <PageReference>SU109-110</PageReference>
+    <PageReference>SU126-127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teleportation">
+    <PageReference>SU126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Television">
+    <PageReference>SU8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <PageReference>SU41-57</PageReference>
+    <PageReference>SU59-61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Themes">
+    <PageReference>SU20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throwing">
+    <PageReference>SU30</PageReference>
+    <PageReference>SU121</PageReference>
+    <Child ReferenceText="Super Throw">
+      <PageReference>SU30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Time travel">
+    <PageReference>SU144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trademarks">
+    <PageReference>SU74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Training rooms">
+    <PageReference>SU86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transportation gear">
+    <PageReference>SU83-85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel">
+    <PageReference>SU102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Troupe-style play">
+    <PageReference>SU19-20</PageReference>
+    <PageReference>SU64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultrapower advantage">
+    <PageReference>SU30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultraviolence">
+    <PageReference>SU17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <PageReference>SU84-85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vigilantism">
+    <PageReference>SU9</PageReference>
+    <PageReference>SU12</PageReference>
+    <PageReference>SU72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Villains">
+    <PageReference>SU64</PageReference>
+    <PageReference>SU71</PageReference>
+    <PageReference>SU69-72</PageReference>
+    <PageReference>SU93-94</PageReference>
+    <PageReference>SU96</PageReference>
+    <PageReference>SU135-136</PageReference>
+    <Child ReferenceText="deathtraps">
+      <PageReference>SU93</PageReference>
+    </Child>
+    <Child ReferenceText="final confrontation">
+      <PageReference>SU93-94</PageReference>
+    </Child>
+    <Child ReferenceText="monstrous">
+      <PageReference>SU96</PageReference>
+    </Child>
+    <Child ReferenceText="teams">
+      <PageReference>SU64</PageReference>
+      <PageReference>SU71</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Watchers">
+    <PageReference>SU72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weaknesses">
+    <PageReference>SU11</PageReference>
+    <SeeAlso>Defenses</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>SU80-82</PageReference>
+    <PageReference>SU119-121</PageReference>
+    <SeeAlso>Attacks</SeeAlso>
+    <Child ReferenceText="big and improvised">
+      <PageReference>SU119-121</PageReference>
+    </Child>
+    <Child ReferenceText="gun control">
+      <PageReference>SU82</PageReference>
+    </Child>
+    <Child ReferenceText="mundane">
+      <PageReference>SU81</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weatherworker template">
+    <PageReference>SU57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weight">
+    <PageReference>SU25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weird campaigns">
+    <PageReference>SU15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="What if mode">
+    <PageReference>SU17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild advantages and disadvantages">
+    <PageReference>SU22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard powers">
+    <PageReference>SU41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard skills">
+    <PageReference>SU23</PageReference>
+    <PageReference>SU36-37</PageReference>
+    <PageReference>SU41</PageReference>
+    <PageReference>SU66</PageReference>
+    <PageReference>SU111</PageReference>
+    <Child ReferenceText="supporting cast and">
+      <PageReference>SU66</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Working class supers">
+    <PageReference>SU136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="World-shaking supers">
+    <PageReference>SU14</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

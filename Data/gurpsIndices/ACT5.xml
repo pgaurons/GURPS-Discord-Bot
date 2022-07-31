@@ -1,0 +1,2263 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Adventure ideas">
+    <Child ReferenceText="by character type">
+      <PageReference>ACT5:47-48</PageReference>
+    </Child>
+    <Child ReferenceText="by location">
+      <PageReference>ACT5:44-47</PageReference>
+    </Child>
+    <Child ReferenceText="finding dangers in a scene">
+      <PageReference>ACT5:10-11</PageReference>
+    </Child>
+    <Child ReferenceText="getting victims into peril">
+      <PageReference>ACT5:4-6</PageReference>
+      <PageReference>ACT5:10-11</PageReference>
+      <PageReference>ACT5:38-40</PageReference>
+    </Child>
+    <Child ReferenceText="setting the scene">
+      <PageReference>ACT5:45</PageReference>
+    </Child>
+    <Child ReferenceText="by campaign type">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerials">
+    <Child ReferenceText="firetruck">
+      <PageReference>ACT5:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Afflictions">
+    <Child ReferenceText="disgusting dangers">
+      <PageReference>ACT5:41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Air tanks">
+    <PageReference>ACT5:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Airbags">
+    <PageReference>ACT5:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Airport">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Allergies">
+    <Child ReferenceText="plants">
+      <PageReference>ACT5:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alligators">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <PageReference>ACT5:41-42</PageReference>
+    <SeeAlso>Zoo Dangers</SeeAlso>
+    <Child ReferenceText="experimental">
+      <PageReference>ACT5:28</PageReference>
+      <PageReference>ACT5:29</PageReference>
+    </Child>
+    <Child ReferenceText="tactics">
+      <PageReference>ACT5:42</PageReference>
+    </Child>
+    <Child ReferenceText="venomous">
+      <PageReference>ACT5:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Architecture dangers">
+    <PageReference>ACT5:6-7</PageReference>
+    <PageReference>ACT5:37</PageReference>
+    <Child ReferenceText="locations and">
+      <PageReference>ACT5:44</PageReference>
+      <PageReference>ACT5:46</PageReference>
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:8</PageReference>
+      <PageReference>ACT5:12</PageReference>
+      <PageReference>ACT5:26</PageReference>
+      <PageReference>ACT5:37</PageReference>
+      <PageReference>ACT5:38</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <Child ReferenceText="body">
+      <PageReference>ACT5:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Asphyxiation">
+    <Child ReferenceText="disgusting dangers">
+      <PageReference>ACT5:41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Assassin character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Awls">
+    <PageReference>ACT5:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Axe/Mace skill">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:13</PageReference>
+      <PageReference>ACT5:19</PageReference>
+      <PageReference>ACT5:29</PageReference>
+      <PageReference>ACT5:31</PageReference>
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Axes">
+    <Child ReferenceText="logging">
+      <PageReference>ACT5:29</PageReference>
+    </Child>
+    <Child ReferenceText="rescue">
+      <PageReference>ACT5:35</PageReference>
+    </Child>
+    <Child ReferenceText="fire">
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Backwoods">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad end of town">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="BAD modifiers">
+    <PageReference>ACT5:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balls">
+    <Child ReferenceText="sport">
+      <PageReference>ACT5:31-32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bandages">
+    <PageReference>ACT5:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbells">
+    <PageReference>ACT5:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barrels">
+    <PageReference>ACT5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Baseball">
+    <Child ReferenceText="bats">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+    <Child ReferenceText="balls">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bathtubs">
+    <PageReference>ACT5:15</PageReference>
+    <Child ReferenceText="accidents">
+      <PageReference>ACT5:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bats">
+    <Child ReferenceText="sport">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bears">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Big guy character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Billhooks">
+    <PageReference>ACT5:13</PageReference>
+    <PageReference>ACT5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Billiard">
+    <Child ReferenceText="cues">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+    <Child ReferenceText="balls">
+      <PageReference>ACT5:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Biohazards">
+    <PageReference>ACT5:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blankets">
+    <Child ReferenceText="fire">
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Blenders">
+    <PageReference>ACT5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boat dangers">
+    <PageReference>ACT5:23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body armor">
+    <PageReference>ACT5:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bolt cutters">
+    <PageReference>ACT5:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Booms">
+    <Child ReferenceText="ship">
+      <PageReference>ACT5:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Botanical dangers">
+    <PageReference>ACT5:8</PageReference>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:27</PageReference>
+      <PageReference>ACT5:28</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:45</PageReference>
+      <PageReference>ACT5:46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bottle rockets">
+    <PageReference>ACT5:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bottles">
+    <PageReference>ACT5:9</PageReference>
+    <PageReference>ACT5:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Box cutters">
+    <PageReference>ACT5:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boxing skill">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brawling skill">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:13</PageReference>
+      <PageReference>ACT5:29</PageReference>
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Broadsword skill">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:13</PageReference>
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brotherhood in Blue campaign type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Building (structural) dangers">
+    <PageReference>ACT5:6-7</PageReference>
+    <PageReference>ACT5:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bulls">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cameras">
+    <PageReference>ACT5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <SeeAlso>Adventure Ideas</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Caper campaign type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Captive bolt pistols">
+    <PageReference>ACT5:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Casts">
+    <Child ReferenceText="limb">
+      <PageReference>ACT5:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cattle prods">
+    <PageReference>ACT5:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cauteries">
+    <PageReference>ACT5:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cave-ins">
+    <PageReference>ACT5:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ceilings">
+    <PageReference>ACT5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cement">
+    <Child ReferenceText="for drowning">
+      <PageReference>ACT5:24</PageReference>
+    </Child>
+    <Child ReferenceText="stacks of bags">
+      <PageReference>ACT5:38</PageReference>
+    </Child>
+    <Child ReferenceText="construction">
+      <PageReference>ACT5:38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chainsaws">
+    <PageReference>ACT5:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chandeliers">
+    <PageReference>ACT5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Character types">
+    <Child ReferenceText="appropriate dangers">
+      <PageReference>ACT5:47-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemical dangers">
+    <PageReference>ACT5:9-10</PageReference>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:13</PageReference>
+      <PageReference>ACT5:18</PageReference>
+      <PageReference>ACT5:19</PageReference>
+      <PageReference>ACT5:22</PageReference>
+      <PageReference>ACT5:26</PageReference>
+      <PageReference>ACT5:27</PageReference>
+      <PageReference>ACT5:30</PageReference>
+      <PageReference>ACT5:34</PageReference>
+      <PageReference>ACT5:40</PageReference>
+    </Child>
+    <Child ReferenceText="pathogens">
+      <PageReference>ACT5:28</PageReference>
+    </Child>
+    <Child ReferenceText="pharmacy">
+      <PageReference>ACT5:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="poisons">
+      <PageReference>ACT5:10</PageReference>
+      <PageReference>ACT5:26</PageReference>
+      <PageReference>ACT5:28</PageReference>
+      <PageReference>ACT5:30</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:47</PageReference>
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:45</PageReference>
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chimpanzees">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chisels">
+    <PageReference>ACT5:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chutes">
+    <Child ReferenceText="construction">
+      <PageReference>ACT5:37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleaner character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clubs">
+    <Child ReferenceText="improvised">
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+    <Child ReferenceText="golf">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <Child ReferenceText="finding dangers during">
+      <PageReference>ACT5:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Commandos campaign type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Compactors">
+    <PageReference>ACT5:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Complementary skill bonuses">
+    <PageReference>ACT5:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compost">
+    <PageReference>ACT5:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Construction">
+    <SeeAlso>Architecture Dangers</SeeAlso>
+    <SeeAlso>Worksite Dangers</SeeAlso>
+    <Child ReferenceText="questionable">
+      <PageReference>ACT5:7</PageReference>
+      <PageReference>ACT5:37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Construction explosives">
+    <PageReference>ACT5:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Containers">
+    <PageReference>ACT5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conveyors">
+    <PageReference>ACT5:17-18</PageReference>
+    <PageReference>ACT5:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cougars (mountain lions)">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Country club">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cranes">
+    <PageReference>ACT5:17</PageReference>
+    <PageReference>ACT5:19</PageReference>
+    <PageReference>ACT5:24</PageReference>
+    <PageReference>ACT5:29</PageReference>
+    <PageReference>ACT5:30</PageReference>
+    <PageReference>ACT5:35</PageReference>
+    <PageReference>ACT5:47</PageReference>
+    <PageReference>ACT5:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Creatures">
+    <SeeAlso>Zoo Dangers</SeeAlso>
+    <Child ReferenceText="experimental">
+      <PageReference>ACT5:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cricket">
+    <Child ReferenceText="bats">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+    <Child ReferenceText="balls">
+      <PageReference>ACT5:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crocodiles">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crowbars">
+    <PageReference>ACT5:33</PageReference>
+    <PageReference>ACT5:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crushers">
+    <Child ReferenceText="ore">
+      <PageReference>ACT5:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cues">
+    <Child ReferenceText="pool">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutting dangers">
+    <SeeAlso>Laceration Dangers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage">
+    <SeeAlso>specific dangers and items</SeeAlso>
+    <Child ReferenceText="modifiers">
+      <PageReference>ACT5:4</PageReference>
+    </Child>
+    <Child ReferenceText="inadequate">
+      <PageReference>ACT5:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dangers">
+    <SeeAlso>Adventure Ideas</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Darts">
+    <Child ReferenceText="lawn">
+      <PageReference>ACT5:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Death rays">
+    <PageReference>ACT5:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defibrillators">
+    <PageReference>ACT5:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demolition man character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:47-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Derricks">
+    <PageReference>ACT5:17</PageReference>
+    <PageReference>ACT5:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deviousness and dangers">
+    <PageReference>ACT5:10-11</PageReference>
+    <SeeAlso>Traps</SeeAlso>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:46</PageReference>
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+    <Child ReferenceText="trickery">
+      <PageReference>ACT5:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dignity">
+    <Child ReferenceText="damaging">
+      <PageReference>ACT5:40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Discuses">
+    <PageReference>ACT5:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dishwashers">
+    <PageReference>ACT5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distraction">
+    <Child ReferenceText="causing">
+      <PageReference>ACT5:11</PageReference>
+      <PageReference>ACT5:15</PageReference>
+      <PageReference>ACT5:26</PageReference>
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Diving">
+    <Child ReferenceText="dangers">
+      <PageReference>ACT5:24</PageReference>
+    </Child>
+    <Child ReferenceText="chambers">
+      <PageReference>ACT5:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Docks">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Doors">
+    <PageReference>ACT5:6-7</PageReference>
+    <Child ReferenceText="worksite">
+      <PageReference>ACT5:38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drill presses">
+    <PageReference>ACT5:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drilling">
+    <PageReference>ACT5:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drills">
+    <Child ReferenceText="power">
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Driving dangerously">
+    <PageReference>ACT5:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drowning">
+    <Child ReferenceText="weighing down victim">
+      <PageReference>ACT5:24</PageReference>
+    </Child>
+    <Child ReferenceText="disgusting dangers">
+      <PageReference>ACT5:41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drugs">
+    <PageReference>ACT5:22-23</PageReference>
+    <SeeAlso>Chemical Dangers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Dumbbells">
+    <PageReference>ACT5:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dumpster dangers">
+    <PageReference>ACT5:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ejection seats">
+    <PageReference>ACT5:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electricity dangers">
+    <PageReference>ACT5:12-13</PageReference>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:18</PageReference>
+      <PageReference>ACT5:27</PageReference>
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elephants">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elevators">
+    <PageReference>ACT5:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emergency services gear">
+    <PageReference>ACT5:34</PageReference>
+    <PageReference>ACT5:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Engines">
+    <Child ReferenceText="vehicle">
+      <PageReference>ACT5:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Épées">
+    <PageReference>ACT5:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosives">
+    <Child ReferenceText="construction and mining">
+      <PageReference>ACT5:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Extinguishers">
+    <Child ReferenceText="turbo">
+      <PageReference>ACT5:35</PageReference>
+    </Child>
+    <Child ReferenceText="fire">
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Face man character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fans">
+    <Child ReferenceText="electrical">
+      <PageReference>ACT5:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Farm dangers">
+    <PageReference>ACT5:13-14</PageReference>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:6</PageReference>
+      <PageReference>ACT5:8</PageReference>
+      <PageReference>ACT5:21</PageReference>
+      <PageReference>ACT5:33</PageReference>
+      <PageReference>ACT5:40</PageReference>
+      <PageReference>ACT5:41</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast guy character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fences">
+    <Child ReferenceText="impaling on">
+      <PageReference>ACT5:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Finding dangers">
+    <PageReference>ACT5:10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire engines">
+    <Child ReferenceText="equipment">
+      <PageReference>ACT5:34</PageReference>
+      <PageReference>ACT5:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Firecrackers">
+    <PageReference>ACT5:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fish parts">
+    <PageReference>ACT5:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flamethrowers">
+    <Child ReferenceText="spray-can">
+      <PageReference>ACT5:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flares">
+    <PageReference>ACT5:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Floodlights">
+    <PageReference>ACT5:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Floors">
+    <PageReference>ACT5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flu">
+    <PageReference>ACT5:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foils">
+    <Child ReferenceText="fencing">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <Child ReferenceText="unpleasant">
+      <PageReference>ACT5:41</PageReference>
+    </Child>
+    <Child ReferenceText="processors (appliance)">
+      <PageReference>ACT5:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Forestry hooks">
+    <PageReference>ACT5:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forks">
+    <Child ReferenceText="big (serving)">
+      <PageReference>ACT5:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Freezers">
+    <PageReference>ACT5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Furniture">
+    <PageReference>ACT5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fuses">
+    <Child ReferenceText="lighting">
+      <PageReference>ACT5:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Garbage">
+    <PageReference>ACT5:18-19</PageReference>
+    <SeeAlso>Junk Dangers</SeeAlso>
+    <SeeAlso>Yuck Dangers</SeeAlso>
+    <Child ReferenceText="disposals">
+      <PageReference>ACT5:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>specific items</SeeAlso>
+    <Child ReferenceText="readying">
+      <PageReference>ACT5:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Generic dangers">
+    <PageReference>ACT5:15-16</PageReference>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:16</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gimlets">
+    <PageReference>ACT5:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glass">
+    <Child ReferenceText="windows">
+      <PageReference>ACT5:21</PageReference>
+      <PageReference>ACT5:38</PageReference>
+    </Child>
+    <Child ReferenceText="on floor">
+      <PageReference>ACT5:21-22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Go-bars">
+    <PageReference>ACT5:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gorillas">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Griddles">
+    <PageReference>ACT5:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grinders">
+    <PageReference>ACT5:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns skill">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>ACT5:25</PageReference>
+    <Child ReferenceText="Action">
+      <PageReference>ACT5:3</PageReference>
+      <PageReference>ACT5:8</PageReference>
+      <PageReference>ACT5:12</PageReference>
+      <PageReference>ACT5:15</PageReference>
+      <PageReference>ACT5:23</PageReference>
+      <PageReference>ACT5:25</PageReference>
+      <PageReference>ACT5:30</PageReference>
+      <PageReference>ACT5:36</PageReference>
+      <PageReference>ACT5:41</PageReference>
+      <PageReference>ACT5:43</PageReference>
+    </Child>
+    <Child ReferenceText="Action 1: Heroes">
+      <PageReference>ACT5:5</PageReference>
+      <PageReference>ACT5:10-12</PageReference>
+      <PageReference>ACT5:22</PageReference>
+      <PageReference>ACT5:27</PageReference>
+      <PageReference>ACT5:38</PageReference>
+      <PageReference>ACT5:43</PageReference>
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+    <Child ReferenceText="Action 2: Exploits">
+      <PageReference>ACT5:3-9</PageReference>
+      <PageReference>ACT5:11</PageReference>
+      <PageReference>ACT5:12</PageReference>
+      <PageReference>ACT5:14</PageReference>
+      <PageReference>ACT5:17</PageReference>
+      <PageReference>ACT5:18</PageReference>
+      <PageReference>ACT5:21</PageReference>
+      <PageReference>ACT5:22</PageReference>
+      <PageReference>ACT5:24-26</PageReference>
+      <PageReference>ACT5:28</PageReference>
+      <PageReference>ACT5:30</PageReference>
+      <PageReference>ACT5:32</PageReference>
+      <PageReference>ACT5:35-40</PageReference>
+      <PageReference>ACT5:44</PageReference>
+    </Child>
+    <Child ReferenceText="Action 3: Furious Fists">
+      <PageReference>ACT5:25</PageReference>
+      <PageReference>ACT5:30</PageReference>
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+    <Child ReferenceText="Action 4: Specialists">
+      <PageReference>ACT5:11</PageReference>
+      <PageReference>ACT5:27</PageReference>
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>ACT5:3</PageReference>
+      <PageReference>ACT5:10</PageReference>
+      <PageReference>ACT5:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hacker character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hairdryers">
+    <PageReference>ACT5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hammers">
+    <Child ReferenceText="tool">
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+    <Child ReferenceText="sport">
+      <PageReference>ACT5:31</PageReference>
+      <PageReference>ACT5:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hanger">
+    <Child ReferenceText="wire clothes">
+      <PageReference>ACT5:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hat stands">
+    <PageReference>ACT5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hatchets">
+    <PageReference>ACT5:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hay forks">
+    <PageReference>ACT5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hazards">
+    <SeeAlso>Adventure Ideas</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Heat dangers">
+    <PageReference>ACT5:16</PageReference>
+    <Child ReferenceText="damage at distance">
+      <PageReference>ACT5:16</PageReference>
+    </Child>
+    <Child ReferenceText="kitchen">
+      <PageReference>ACT5:20</PageReference>
+      <PageReference>ACT5:21</PageReference>
+    </Child>
+    <Child ReferenceText="liquids">
+      <PageReference>ACT5:21</PageReference>
+    </Child>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:18</PageReference>
+      <PageReference>ACT5:19</PageReference>
+      <PageReference>ACT5:26</PageReference>
+      <PageReference>ACT5:27</PageReference>
+      <PageReference>ACT5:34</PageReference>
+      <PageReference>ACT5:40</PageReference>
+    </Child>
+    <Child ReferenceText="pipes">
+      <PageReference>ACT5:26</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:46</PageReference>
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heat guns">
+    <PageReference>ACT5:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heights">
+    <PageReference>ACT5:6</PageReference>
+    <PageReference>ACT5:7</PageReference>
+    <PageReference>ACT5:18</PageReference>
+    <PageReference>ACT5:24</PageReference>
+    <PageReference>ACT5:37</PageReference>
+    <Child ReferenceText="falling objects">
+      <PageReference>ACT5:17-18</PageReference>
+      <PageReference>ACT5:38</PageReference>
+    </Child>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:18</PageReference>
+      <PageReference>ACT5:24</PageReference>
+      <PageReference>ACT5:37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hippos">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hockey">
+    <Child ReferenceText="sticks">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+    <Child ReferenceText="pucks">
+      <PageReference>ACT5:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hoes">
+    <PageReference>ACT5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Homes">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Horses">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hoses">
+    <Child ReferenceText="fire">
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hospital">
+    <SeeAlso>Medical Dangers</SeeAlso>
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hotplates">
+    <PageReference>ACT5:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Humiliation">
+    <Child ReferenceText="disgusting dangers">
+      <PageReference>ACT5:40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ice picks">
+    <PageReference>ACT5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illness">
+    <PageReference>ACT5:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Industrial dangers">
+    <PageReference>ACT5:17-18</PageReference>
+    <Child ReferenceText="locations and">
+      <PageReference>ACT5:44</PageReference>
+      <PageReference>ACT5:45</PageReference>
+    </Child>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:9</PageReference>
+      <PageReference>ACT5:12</PageReference>
+      <PageReference>ACT5:16</PageReference>
+      <PageReference>ACT5:18</PageReference>
+      <PageReference>ACT5:26-28</PageReference>
+      <PageReference>ACT5:33</PageReference>
+      <PageReference>ACT5:34</PageReference>
+      <PageReference>ACT5:37</PageReference>
+      <PageReference>ACT5:40</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Industrial wasteland">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Infiltrator character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Investigator character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Irons">
+    <Child ReferenceText="curling">
+      <PageReference>ACT5:15</PageReference>
+    </Child>
+    <Child ReferenceText="tire">
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+    <Child ReferenceText="waffle">
+      <PageReference>ACT5:21</PageReference>
+    </Child>
+    <Child ReferenceText="clothing">
+      <PageReference>ACT5:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="IV stands">
+    <PageReference>ACT5:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jackhammers">
+    <PageReference>ACT5:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jaguars">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Javelins">
+    <Child ReferenceText="sport 31">
+      <PageReference>ACT5:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jaws of life">
+    <PageReference>ACT5:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jet intakes">
+    <PageReference>ACT5:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Judo throw">
+    <Child ReferenceText="into danger">
+      <PageReference>ACT5:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Junk dangers">
+    <PageReference>ACT5:18-19</PageReference>
+    <Child ReferenceText="locations and">
+      <PageReference>ACT5:44</PageReference>
+      <PageReference>ACT5:46</PageReference>
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:37</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Karate skill">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:29</PageReference>
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Killer whales">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Killswitch">
+    <PageReference>ACT5:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kitchen dangers">
+    <PageReference>ACT5:19-21</PageReference>
+    <Child ReferenceText="locations and">
+      <PageReference>ACT5:44</PageReference>
+      <PageReference>ACT5:46</PageReference>
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:16</PageReference>
+      <PageReference>ACT5:27</PageReference>
+    </Child>
+    <Child ReferenceText="sinks">
+      <PageReference>ACT5:15</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:47</PageReference>
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="unpleasant food">
+      <PageReference>ACT5:41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kitchen sinks">
+    <SeeAlso>Kitchend Dangers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Knife skill">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:13</PageReference>
+      <PageReference>ACT5:20</PageReference>
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Knives">
+    <Child ReferenceText="utility">
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+    <Child ReferenceText="kitchen">
+      <PageReference>ACT5:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Knockback">
+    <Child ReferenceText="into danger">
+      <PageReference>ACT5:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Komodo dragons">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laboratories">
+    <PageReference>ACT5:27</PageReference>
+    <SeeAlso>Medical Dangers</SeeAlso>
+    <SeeAlso>Quantum Dangers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Laceration dangers">
+    <PageReference>ACT5:21-22</PageReference>
+    <Child ReferenceText="locations and">
+      <PageReference>ACT5:44</PageReference>
+    </Child>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:18</PageReference>
+      <PageReference>ACT5:22</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:44</PageReference>
+    </Child>
+    <Child ReferenceText="" />
+  </IndexReference>
+  <IndexReference ReferenceText="Ladders">
+    <Child ReferenceText="firetruck">
+      <PageReference>ACT5:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lathes">
+    <PageReference>ACT5:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leopards">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lightning rods">
+    <Child ReferenceText="impaling on">
+      <PageReference>ACT5:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lions">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Liquids">
+    <SeeAlso>Chemical Dangers</SeeAlso>
+    <Child ReferenceText="dangerous">
+      <PageReference>ACT5:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Locations">
+    <Child ReferenceText="dangers">
+      <PageReference>ACT5:44-47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Logging">
+    <PageReference>ACT5:28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MacGuffin">
+    <SeeAlso>Plot Device</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Machetes">
+    <PageReference>ACT5:13</PageReference>
+    <PageReference>ACT5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Machinery">
+    <Child ReferenceText="industrial">
+      <PageReference>ACT5:17</PageReference>
+    </Child>
+    <Child ReferenceText="mining">
+      <PageReference>ACT5:30</PageReference>
+    </Child>
+    <Child ReferenceText="worksite">
+      <PageReference>ACT5:37-38</PageReference>
+    </Child>
+    <Child ReferenceText="farming">
+      <PageReference>ACT5:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnetic resonance imaging scanners (MRI)">
+    <PageReference>ACT5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mallets">
+    <Child ReferenceText="tool">
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+    <Child ReferenceText="ice or meat">
+      <PageReference>ACT5:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Manhandling">
+    <Child ReferenceText="into danger">
+      <PageReference>ACT5:4-5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Manure">
+    <PageReference>ACT5:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marine propellers">
+    <PageReference>ACT5:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Materials">
+    <Child ReferenceText="worksite">
+      <PageReference>ACT5:38</PageReference>
+    </Child>
+    <Child ReferenceText="workshop">
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mauls">
+    <Child ReferenceText="splitting">
+      <PageReference>ACT5:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Medic character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical dangers">
+    <PageReference>ACT5:22-23</PageReference>
+    <Child ReferenceText="hospital specimens">
+      <PageReference>ACT5:41</PageReference>
+    </Child>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:9</PageReference>
+      <PageReference>ACT5:18</PageReference>
+      <PageReference>ACT5:26</PageReference>
+      <PageReference>ACT5:27</PageReference>
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:47</PageReference>
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mercs campaign type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Metal">
+    <Child ReferenceText="electricity and">
+      <PageReference>ACT5:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Microwave ovens">
+    <PageReference>ACT5:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military base">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind-control devices">
+    <PageReference>ACT5:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mining">
+    <PageReference>ACT5:29-30</PageReference>
+    <Child ReferenceText="explosives">
+      <PageReference>ACT5:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mirrors">
+    <PageReference>ACT5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missions">
+    <SeeAlso>Adventure Ideas</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mixers">
+    <PageReference>ACT5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Moorings">
+    <PageReference>ACT5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Movement">
+    <PageReference>ACT5:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nail guns">
+    <PageReference>ACT5:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nails">
+    <Child ReferenceText="big">
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nautical dangers">
+    <PageReference>ACT5:23-24</PageReference>
+    <Child ReferenceText="marine propellers">
+      <PageReference>ACT5:36</PageReference>
+    </Child>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:6</PageReference>
+      <PageReference>ACT5:30</PageReference>
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:46</PageReference>
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Needles">
+    <PageReference>ACT5:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nets">
+    <PageReference>ACT5:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Octopuses">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Offices">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Orangutans">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ordnance dangers">
+    <PageReference>ACT5:25-26</PageReference>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ostriches">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ovens">
+    <PageReference>ACT5:16</PageReference>
+    <PageReference>ACT5:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Overshooting">
+    <Child ReferenceText="into danger">
+      <PageReference>ACT5:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Particle accelerators">
+    <PageReference>ACT5:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pathogens">
+    <PageReference>ACT5:28</PageReference>
+    <SeeAlso>Chemical Dangers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Peaveys">
+    <PageReference>ACT5:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pharmacy dangers">
+    <PageReference>ACT5:22-23</PageReference>
+    <SeeAlso>Chemical Dangers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Pickaxes">
+    <PageReference>ACT5:29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pigs">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pillows">
+    <PageReference>ACT5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pipe dangers">
+    <PageReference>ACT5:26</PageReference>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:16</PageReference>
+      <PageReference>ACT5:18</PageReference>
+      <PageReference>ACT5:40</PageReference>
+    </Child>
+    <Child ReferenceText="sewage">
+      <PageReference>ACT5:41</PageReference>
+    </Child>
+    <Child ReferenceText="stacks">
+      <PageReference>ACT5:30</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pistols">
+    <Child ReferenceText="captive bolt">
+      <PageReference>ACT5:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pitchforks">
+    <PageReference>ACT5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pizza cutters">
+    <PageReference>ACT5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plants">
+    <PageReference>ACT5:8</PageReference>
+    <SeeAlso>Botanical Dangers</SeeAlso>
+    <Child ReferenceText="allergies and">
+      <PageReference>ACT5:8</PageReference>
+    </Child>
+    <Child ReferenceText="irritating">
+      <PageReference>ACT5:8</PageReference>
+    </Child>
+    <Child ReferenceText="prickly">
+      <PageReference>ACT5:8</PageReference>
+    </Child>
+    <Child ReferenceText="thorny">
+      <PageReference>ACT5:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Plot Device">
+    <Child ReferenceText="defined">
+      <PageReference>ACT5:38</PageReference>
+    </Child>
+    <Child ReferenceText="dangers">
+      <PageReference>ACT5:38-40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisons">
+    <PageReference>ACT5:28</PageReference>
+    <SeeAlso>Chemical Dangers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Pool">
+    <Child ReferenceText="cues">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+    <Child ReferenceText="balls">
+      <PageReference>ACT5:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Post-hole diggers">
+    <PageReference>ACT5:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Projectiles">
+    <Child ReferenceText="sports">
+      <PageReference>ACT5:31-32</PageReference>
+    </Child>
+    <Child ReferenceText="improvised thrown">
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Propane tanks">
+    <PageReference>ACT5:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pucks">
+    <Child ReferenceText="hockey">
+      <PageReference>ACT5:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Punches">
+    <Child ReferenceText="tool">
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyrotechnics">
+    <PageReference>ACT5:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quantum dangers">
+    <PageReference>ACT5:27-28</PageReference>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:9</PageReference>
+      <PageReference>ACT5:18</PageReference>
+      <PageReference>ACT5:22</PageReference>
+      <PageReference>ACT5:26</PageReference>
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+    <Child ReferenceText="semi-realistic">
+      <PageReference>ACT5:28</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Gadgeteer advantage">
+    <PageReference>ACT5:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation">
+    <Child ReferenceText="weird">
+      <PageReference>ACT5:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiology">
+    <PageReference>ACT5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rat-tails">
+    <PageReference>ACT5:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ready maneuvers">
+    <Child ReferenceText="to get object">
+      <PageReference>ACT5:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Realistic hazards">
+    <PageReference>ACT5:4</PageReference>
+    <Child ReferenceText="chemicals">
+      <PageReference>ACT5:10</PageReference>
+    </Child>
+    <Child ReferenceText="science">
+      <PageReference>ACT5:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rebar">
+    <PageReference>ACT5:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Refrigerators">
+    <PageReference>ACT5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reservoirs">
+    <PageReference>ACT5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resource extraction dangers">
+    <PageReference>ACT5:28-30</PageReference>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:13</PageReference>
+      <PageReference>ACT5:18</PageReference>
+      <PageReference>ACT5:25</PageReference>
+      <PageReference>ACT5:33</PageReference>
+      <PageReference>ACT5:37</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:45</PageReference>
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rhinoceroses">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robots">
+    <PageReference>ACT5:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rocks">
+    <PageReference>ACT5:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rolling pins">
+    <PageReference>ACT5:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roman candles">
+    <PageReference>ACT5:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ropes">
+    <PageReference>ACT5:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rubble">
+    <PageReference>ACT5:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saber skill">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sabers">
+    <Child ReferenceText="fencing">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Safety">
+    <Child ReferenceText="abusing features">
+      <PageReference>ACT5:34-35</PageReference>
+    </Child>
+    <Child ReferenceText="barriers">
+      <PageReference>ACT5:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sanders">
+    <PageReference>ACT5:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saws">
+    <Child ReferenceText="bone">
+      <PageReference>ACT5:22</PageReference>
+    </Child>
+    <Child ReferenceText="circular">
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+    <Child ReferenceText="tree">
+      <PageReference>ACT5:29</PageReference>
+    </Child>
+    <Child ReferenceText="big">
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scalpels">
+    <PageReference>ACT5:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scenery">
+    <Child ReferenceText="sharp">
+      <PageReference>ACT5:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Science dangers">
+    <SeeAlso>Quantum Dangers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Screwdrivers">
+    <PageReference>ACT5:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrounging skill">
+    <PageReference>ACT5:11</PageReference>
+    <PageReference>ACT5:34</PageReference>
+    <PageReference>ACT5:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sculptures">
+    <Child ReferenceText="impaling on">
+      <PageReference>ACT5:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scythes">
+    <PageReference>ACT5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Search skill">
+    <PageReference>ACT5:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Searchlights">
+    <PageReference>ACT5:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seatbelts">
+    <PageReference>ACT5:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serendipity advantage">
+    <PageReference>ACT5:6</PageReference>
+    <PageReference>ACT5:11</PageReference>
+    <PageReference>ACT5:18</PageReference>
+    <PageReference>ACT5:22</PageReference>
+    <PageReference>ACT5:24-26</PageReference>
+    <PageReference>ACT5:36</PageReference>
+    <PageReference>ACT5:38</PageReference>
+    <PageReference>ACT5:42</PageReference>
+    <PageReference>ACT5:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sewage">
+    <PageReference>ACT5:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharks">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shears">
+    <Child ReferenceText="kitchen">
+      <PageReference>ACT5:20</PageReference>
+    </Child>
+    <Child ReferenceText="garden">
+      <PageReference>ACT5:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shinai">
+    <PageReference>ACT5:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ship dangers">
+    <PageReference>ACT5:23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shipboard Screw-Ups">
+    <PageReference>ACT5:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shooter character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shortsword skill">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:14</PageReference>
+      <PageReference>ACT5:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shots (shot put)">
+    <PageReference>ACT5:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shovels">
+    <PageReference>ACT5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Showers">
+    <Child ReferenceText="emergency">
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shredders">
+    <PageReference>ACT5:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sickles">
+    <PageReference>ACT5:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sinks">
+    <PageReference>ACT5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skewers">
+    <PageReference>ACT5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skillets">
+    <PageReference>ACT5:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slams">
+    <PageReference>ACT5:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sledgehamers">
+    <PageReference>ACT5:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sling blades">
+    <PageReference>ACT5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slippery surfaces">
+    <PageReference>ACT5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Small businesses">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smallsword skill">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:20</PageReference>
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Snakes">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soldering guns">
+    <PageReference>ACT5:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Solid objects">
+    <Child ReferenceText="damage by">
+      <PageReference>ACT5:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spear skill">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:14</PageReference>
+      <PageReference>ACT5:29</PageReference>
+      <PageReference>ACT5:31</PageReference>
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Specimens">
+    <Child ReferenceText="hospital">
+      <PageReference>ACT5:41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spices">
+    <PageReference>ACT5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spikes">
+    <Child ReferenceText="tool">
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sports equipment">
+    <PageReference>ACT5:30-32</PageReference>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:46</PageReference>
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spray-can flamethrowers">
+    <PageReference>ACT5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spurs">
+    <Child ReferenceText="climbing">
+      <PageReference>ACT5:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spy vs">
+    <Child ReferenceText="Spy campaign type, dangers for">
+      <PageReference>ACT5:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Staff skill">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stairs">
+    <Child ReferenceText="rickety">
+      <PageReference>ACT5:7</PageReference>
+    </Child>
+    <Child ReferenceText="falling down">
+      <PageReference>ACT5:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stick">
+    <Child ReferenceText="ice hockey">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stovetop">
+    <PageReference>ACT5:16</PageReference>
+    <PageReference>ACT5:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Structural dangers">
+    <PageReference>ACT5:6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surgical lasers">
+    <PageReference>ACT5:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swarms">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swimming">
+    <PageReference>ACT5:23</PageReference>
+    <PageReference>ACT5:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="chemical effects">
+      <PageReference>ACT5:9-10</PageReference>
+    </Child>
+    <Child ReferenceText="electricity effects">
+      <PageReference>ACT5:12</PageReference>
+    </Child>
+    <Child ReferenceText="farm implements">
+      <PageReference>ACT5:13-14</PageReference>
+    </Child>
+    <Child ReferenceText="garbage">
+      <PageReference>ACT5:18</PageReference>
+    </Child>
+    <Child ReferenceText="glass">
+      <PageReference>ACT5:21</PageReference>
+    </Child>
+    <Child ReferenceText="heat sources">
+      <PageReference>ACT5:16</PageReference>
+    </Child>
+    <Child ReferenceText="kitchen utensils">
+      <PageReference>ACT5:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="logging tools">
+      <PageReference>ACT5:29</PageReference>
+    </Child>
+    <Child ReferenceText="sports gear">
+      <PageReference>ACT5:31</PageReference>
+      <PageReference>ACT5:32</PageReference>
+    </Child>
+    <Child ReferenceText="tools">
+      <PageReference>ACT5:33</PageReference>
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+    <Child ReferenceText="animals">
+      <PageReference>ACT5:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Task Force campaign type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techno-babble">
+    <PageReference>ACT5:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technology dangers">
+    <SeeAlso>Quantum Dangers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Televisions">
+    <PageReference>ACT5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thickets">
+    <PageReference>ACT5:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrown Weapon skills">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tigers">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tire irons">
+    <PageReference>ACT5:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toasters">
+    <PageReference>ACT5:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toilets">
+    <PageReference>ACT5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tool dangers">
+    <PageReference>ACT5:33-34</PageReference>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:13</PageReference>
+      <PageReference>ACT5:16</PageReference>
+      <PageReference>ACT5:28</PageReference>
+      <PageReference>ACT5:35</PageReference>
+      <PageReference>ACT5:37</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:47</PageReference>
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Torches">
+    <Child ReferenceText="tool">
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tourniquets">
+    <PageReference>ACT5:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Towels">
+    <PageReference>ACT5:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Towers">
+    <Child ReferenceText="firetruck">
+      <PageReference>ACT5:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Traceur character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps (“X Marks the Spot”)">
+    <SeeAlso>Deviousness and Dangers</SeeAlso>
+    <Child ReferenceText="luring into">
+      <PageReference>ACT5:39-40</PageReference>
+    </Child>
+    <Child ReferenceText="springing">
+      <PageReference>ACT5:40</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:47</PageReference>
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:45</PageReference>
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+    <Child ReferenceText="basics">
+      <PageReference>ACT5:38-39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trash trucks">
+    <PageReference>ACT5:18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trees">
+    <PageReference>ACT5:28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trickery">
+    <PageReference>ACT5:5</PageReference>
+    <SeeAlso>Deviousness and Dangers</SeeAlso>
+    <SeeAlso>Traps</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Troubleshooters campaign type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tunnels">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-Handed Axe/Mace skill">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:14</PageReference>
+      <PageReference>ACT5:29</PageReference>
+      <PageReference>ACT5:31</PageReference>
+      <PageReference>ACT5:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-Handed Sword skill">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Undergrowth">
+    <PageReference>ACT5:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unsafe safety features">
+    <PageReference>ACT5:34-35</PageReference>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:27</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vacuum cleaners">
+    <PageReference>ACT5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <Child ReferenceText="exploding">
+      <PageReference>ACT5:25</PageReference>
+    </Child>
+    <Child ReferenceText="getting hit by">
+      <PageReference>ACT5:36</PageReference>
+    </Child>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:12</PageReference>
+      <PageReference>ACT5:24</PageReference>
+      <PageReference>ACT5:28</PageReference>
+      <PageReference>ACT5:33</PageReference>
+      <PageReference>ACT5:37</PageReference>
+    </Child>
+    <Child ReferenceText="safety features">
+      <PageReference>ACT5:35</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:45-47</PageReference>
+    </Child>
+    <Child ReferenceText="dangers">
+      <PageReference>ACT5:35-37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vials">
+    <PageReference>ACT5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vigilante Justice campaign type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vines">
+    <Child ReferenceText="strangling">
+      <PageReference>ACT5:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Waffle irons">
+    <PageReference>ACT5:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walls">
+    <PageReference>ACT5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="War Against Terror campaign type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Washing machines">
+    <PageReference>ACT5:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water">
+    <SeeAlso>Nautical Dangers</SeeAlso>
+    <Child ReferenceText="electricity and">
+      <PageReference>ACT5:13</PageReference>
+    </Child>
+    <Child ReferenceText="icy">
+      <PageReference>ACT5:24</PageReference>
+    </Child>
+    <Child ReferenceText="stagnant">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+    <Child ReferenceText="weighing down victim">
+      <PageReference>ACT5:24</PageReference>
+    </Child>
+    <Child ReferenceText="dangers">
+      <PageReference>ACT5:23-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Waves">
+    <PageReference>ACT5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon master character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <SeeAlso>specific dangers</SeeAlso>
+    <Child ReferenceText="readying">
+      <PageReference>ACT5:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wheel man character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Whip skill">
+    <Child ReferenceText="improvised weapons">
+      <PageReference>ACT5:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Winches">
+    <PageReference>ACT5:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Windows">
+    <PageReference>ACT5:21</PageReference>
+    <PageReference>ACT5:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wire rat character type">
+    <Child ReferenceText="dangers for">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wiring">
+    <Child ReferenceText="bare">
+      <PageReference>ACT5:12-13</PageReference>
+    </Child>
+    <Child ReferenceText="bad">
+      <PageReference>ACT5:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wolves">
+    <PageReference>ACT5:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Worksite dangers">
+    <PageReference>ACT5:37-38</PageReference>
+    <Child ReferenceText="locations">
+      <PageReference>ACT5:44</PageReference>
+      <PageReference>ACT5:46</PageReference>
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:12</PageReference>
+      <PageReference>ACT5:18</PageReference>
+      <PageReference>ACT5:25</PageReference>
+      <PageReference>ACT5:28</PageReference>
+      <PageReference>ACT5:33</PageReference>
+      <PageReference>ACT5:34</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrecking balls">
+    <PageReference>ACT5:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrenches">
+    <PageReference>ACT5:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="X-ray machines">
+    <PageReference>ACT5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yuck dangers">
+    <PageReference>ACT5:40-41</PageReference>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:19</PageReference>
+      <PageReference>ACT5:22</PageReference>
+      <PageReference>ACT5:27</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Zoo dangers">
+    <PageReference>ACT5:41-42</PageReference>
+    <Child ReferenceText="experimental animals">
+      <PageReference>ACT5:28</PageReference>
+      <PageReference>ACT5:29</PageReference>
+    </Child>
+    <Child ReferenceText="other dangers and">
+      <PageReference>ACT5:13</PageReference>
+      <PageReference>ACT5:23</PageReference>
+      <PageReference>ACT5:27</PageReference>
+      <PageReference>ACT5:28</PageReference>
+    </Child>
+    <Child ReferenceText="suitable campaign types">
+      <PageReference>ACT5:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="suitable character types">
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+    <Child ReferenceText="suitable locations">
+      <PageReference>ACT5:45</PageReference>
+      <PageReference>ACT5:47</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

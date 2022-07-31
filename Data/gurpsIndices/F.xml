@@ -1,0 +1,2746 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Absolute Direction advantage">
+    <PageReference>F128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Absurdist fantasy">
+    <PageReference>F13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accounting skill">
+    <PageReference>F220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acute Senses advantages">
+    <PageReference>F128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adamant">
+    <PageReference>F22</PageReference>
+    <PageReference>F40</PageReference>
+    <PageReference>F68</PageReference>
+    <PageReference>F192</PageReference>
+    <PageReference>F193</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Addiction disadvantage">
+    <PageReference>F132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>F128-132</PageReference>
+    <PageReference>F219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventure seeds">
+    <PageReference>F175-185</PageReference>
+    <PageReference>F231</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <PageReference>F174-194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Afterworlds">
+    <PageReference>F35</PageReference>
+    <PageReference>F37</PageReference>
+    <PageReference>F40</PageReference>
+    <SeeAlso>Dead</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Agrarian magic">
+    <PageReference>F95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Agriculture">
+    <PageReference>F70</PageReference>
+    <PageReference>F71</PageReference>
+    <PageReference>F93-94</PageReference>
+    <PageReference>F137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air spells">
+    <PageReference>F168-169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air vehicles">
+    <PageReference>F143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy">
+    <PageReference>F152</PageReference>
+    <PageReference>F156</PageReference>
+    <Child ReferenceText="internal">
+      <PageReference>F156</PageReference>
+    </Child>
+    <Child ReferenceText="making gold">
+      <PageReference>F156</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>F18</PageReference>
+      <PageReference>F23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="All-heal">
+    <PageReference>F22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies advantage">
+    <PageReference>F128</PageReference>
+    <PageReference>F132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allure talent">
+    <PageReference>F132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate histories">
+    <PageReference>F12</PageReference>
+    <PageReference>F41</PageReference>
+    <PageReference>F75</PageReference>
+    <PageReference>F78</PageReference>
+    <SeeAlso>Jumper</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Amphisbaena">
+    <PageReference>F211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ancestor worship">
+    <PageReference>F37</PageReference>
+    <PageReference>F90</PageReference>
+    <PageReference>F112</PageReference>
+    <PageReference>F202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Angels">
+    <PageReference>F31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <PageReference>F46</PageReference>
+    <PageReference>F105</PageReference>
+    <PageReference>F211-212</PageReference>
+    <Child ReferenceText="animal languages">
+      <PageReference>F47</PageReference>
+    </Child>
+    <Child ReferenceText="King of Beasts">
+      <PageReference>F47</PageReference>
+    </Child>
+    <Child ReferenceText="mythical beasts in combat">
+      <PageReference>F193</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animistic magic">
+    <PageReference>F19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anthropophagy">
+    <PageReference>F57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ants">
+    <PageReference>F48</PageReference>
+    <PageReference>F109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance">
+    <PageReference>F128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arc campaigns">
+    <PageReference>F15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arcani">
+    <PageReference>F226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archer template">
+    <PageReference>F114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archetypal realms">
+    <PageReference>F36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arctic">
+    <PageReference>F42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area campaigns">
+    <PageReference>F15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area Knowledge skill">
+    <PageReference>F134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aristodoulos">
+    <PageReference>F230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armies">
+    <SeeAlso>Warfare</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>F97</PageReference>
+    <Child ReferenceText="Roman">
+      <PageReference>F223</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armorer job">
+    <PageReference>F138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificer template">
+    <PageReference>F114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ascension">
+    <PageReference>F38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aspected mana">
+    <PageReference>F43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aspidochelon">
+    <PageReference>F211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assassin template">
+    <PageReference>F115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astrological magic">
+    <PageReference>F163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astrology">
+    <PageReference>F210</PageReference>
+    <PageReference>F229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Atlantis">
+    <PageReference>F23</PageReference>
+    <PageReference>F74</PageReference>
+    <PageReference>F77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Automata">
+    <PageReference>F25</PageReference>
+    <PageReference>F66</PageReference>
+    <PageReference>F67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bacchus">
+    <Child ReferenceText="cult of">
+      <PageReference>F205</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bahjam">
+    <PageReference>F226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bandit template">
+    <PageReference>F116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbarian template">
+    <PageReference>F116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bards and bardic gifts">
+    <PageReference>F11</PageReference>
+    <PageReference>F79</PageReference>
+    <PageReference>F99</PageReference>
+    <PageReference>F152</PageReference>
+    <Child ReferenceText="bardic magic">
+      <PageReference>F156</PageReference>
+    </Child>
+    <Child ReferenceText="Bard talent">
+      <PageReference>F132</PageReference>
+    </Child>
+    <Child ReferenceText="Bard template">
+      <PageReference>F117</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Barmaid job">
+    <PageReference>F138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Base and mission campaigns">
+    <PageReference>F15</PageReference>
+    <PageReference>F175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle wizards">
+    <PageReference>F190</PageReference>
+    <Child ReferenceText="Battle Wizard template">
+      <PageReference>F118</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Beast races">
+    <PageReference>F58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beggar “job, ” 139" />
+  <IndexReference ReferenceText="Berdaches">
+    <PageReference>F57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bibliography">
+    <PageReference>F233-237</PageReference>
+    <Child ReferenceText="Roma Arcana">
+      <PageReference>F232</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Biotech">
+    <PageReference>F67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bird of Paradise">
+    <PageReference>F47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Birds">
+    <PageReference>F47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bless Plant spell">
+    <PageReference>F172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blessed advantage">
+    <PageReference>F128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blizzards">
+    <PageReference>F87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood magic">
+    <PageReference>F167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bracing technique">
+    <PageReference>F220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brontes">
+    <PageReference>F55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brontophonos">
+    <PageReference>F227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burdigala">
+    <PageReference>F224-231</PageReference>
+    <Child ReferenceText="arcani">
+      <PageReference>F226</PageReference>
+    </Child>
+    <Child ReferenceText="enemies">
+      <PageReference>F227-231</PageReference>
+    </Child>
+    <Child ReferenceText="map">
+      <PageReference>F225</PageReference>
+    </Child>
+    <Child ReferenceText="schools">
+      <PageReference>F225-226</PageReference>
+    </Child>
+    <Child ReferenceText="temples and cults">
+      <PageReference>F225</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cabal">
+    <PageReference>F12</PageReference>
+    <PageReference>F196</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caesarion">
+    <PageReference>F200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camilla Rufa">
+    <PageReference>F228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <PageReference>F21</PageReference>
+    <PageReference>F29</PageReference>
+    <PageReference>F41</PageReference>
+    <PageReference>F174</PageReference>
+    <Child ReferenceText="character creation">
+      <PageReference>F127</PageReference>
+    </Child>
+    <Child ReferenceText="planning">
+      <PageReference>F4</PageReference>
+    </Child>
+    <Child ReferenceText="style">
+      <PageReference>F16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannibalism">
+    <PageReference>F57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannon">
+    <PageReference>F144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carnivorous plants">
+    <PageReference>F47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Castes">
+    <PageReference>F73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Castle Falkenstein">
+    <PageReference>F9</PageReference>
+    <PageReference>F12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Castles">
+    <PageReference>F100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catastrophes">
+    <PageReference>F83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cave-ins">
+    <PageReference>F86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caves">
+    <PageReference>F42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Centaur template">
+    <PageReference>F105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chaldea">
+    <PageReference>F196</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <PageReference>F213-224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chariot Archery technique">
+    <PageReference>F136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charismatic rulers">
+    <PageReference>F69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi as magic">
+    <PageReference>F157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chimera">
+    <PageReference>F51-52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chlodowic">
+    <PageReference>F228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Christian supernaturalism">
+    <PageReference>F8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Christianity">
+    <Child ReferenceText="in Roma Arcana">
+      <PageReference>F211</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Churches">
+    <PageReference>F101</PageReference>
+    <PageReference>F102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cities">
+    <PageReference>F94</PageReference>
+    <PageReference>F96</PageReference>
+    <PageReference>F138</PageReference>
+    <PageReference>F199</PageReference>
+    <Child ReferenceText="capital">
+      <PageReference>F96</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="City-states">
+    <PageReference>F80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Classics">
+    <PageReference>F233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical Investment">
+    <PageReference>F148</PageReference>
+    <PageReference>F149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor disadvantage">
+    <PageReference>F132</PageReference>
+    <PageReference>F219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Art and Sport skills">
+    <PageReference>F135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Comic books">
+    <PageReference>F8</PageReference>
+    <PageReference>F237</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Common tongue">
+    <PageReference>F14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Communication and Empathy spells">
+    <PageReference>F169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Communism">
+    <PageReference>F70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Complex Illusion spell">
+    <PageReference>F170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compulsive Behavior disadvantage">
+    <PageReference>F219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conan">
+    <PageReference>F7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts advantage">
+    <PageReference>F128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contagion">
+    <Child ReferenceText="Law of">
+      <PageReference>F19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Corporeal Undead meta-traits">
+    <PageReference>F133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Correspondence magic">
+    <PageReference>F160</PageReference>
+    <SeeAlso>Three Laws of Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic forces">
+    <PageReference>F6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost of living">
+    <PageReference>F137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Counting coup">
+    <PageReference>F57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Courtesan template">
+    <PageReference>F214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Courtier job">
+    <PageReference>F139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Courts">
+    <SeeAlso>Kings</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Craft and trade magic">
+    <PageReference>F147</PageReference>
+    <PageReference>F162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminology skill">
+    <PageReference>F135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Critical studies of fantasy">
+    <PageReference>F233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossover campaigns">
+    <PageReference>F9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cults">
+    <PageReference>F205-206</PageReference>
+    <PageReference>F225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cure Disease spell">
+    <PageReference>F170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Current Affairs skill">
+    <PageReference>F135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curses">
+    <PageReference>F54</PageReference>
+    <PageReference>F182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cyberpunk">
+    <PageReference>F9</PageReference>
+    <PageReference>F13</PageReference>
+    <PageReference>F36</PageReference>
+    <PageReference>F67</PageReference>
+    <PageReference>F158</PageReference>
+    <PageReference>F166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark ages">
+    <PageReference>F84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark fantasy">
+    <PageReference>F7</PageReference>
+    <PageReference>F21</PageReference>
+    <PageReference>F46</PageReference>
+    <PageReference>F82</PageReference>
+    <PageReference>F162</PageReference>
+    <PageReference>F179</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dawn ages">
+    <PageReference>F79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dead">
+    <Child ReferenceText="thanatocracy">
+      <PageReference>F69</PageReference>
+    </Child>
+    <Child ReferenceText="the">
+      <PageReference>F37-38</PageReference>
+      <PageReference>F40</PageReference>
+      <PageReference>F230</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Deadlands">
+    <PageReference>F9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death">
+    <SeeAlso>Dead</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Death-aspected mana">
+    <PageReference>F44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Decadence">
+    <PageReference>F81</PageReference>
+    <PageReference>F96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deification">
+    <PageReference>F38</PageReference>
+    <SeeAlso>Gods</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Demons">
+    <PageReference>F32</PageReference>
+    <PageReference>F36</PageReference>
+    <PageReference>F38</PageReference>
+    <PageReference>F148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dependency disadvantage">
+    <PageReference>F132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deserts">
+    <PageReference>F42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Devilfish">
+    <PageReference>F105</PageReference>
+    <Child ReferenceText="magic">
+      <PageReference>F168</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>F105</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Devotion talent">
+    <PageReference>F132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diamond">
+    <PageReference>F22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dinosaurs">
+    <PageReference>F195</PageReference>
+    <PageReference>F212</PageReference>
+    <PageReference>F227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diplomacy">
+    <PageReference>F177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>F132-133</PageReference>
+    <PageReference>F219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disease">
+    <PageReference>F32</PageReference>
+    <PageReference>F88</PageReference>
+    <PageReference>F95</PageReference>
+    <SeeAlso>Medicine</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Disturbances">
+    <PageReference>F85-90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divination">
+    <PageReference>F150</PageReference>
+    <PageReference>F179</PageReference>
+    <PageReference>F203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine punishments">
+    <PageReference>F89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Djinn">
+    <PageReference>F25</PageReference>
+    <PageReference>F30</PageReference>
+    <PageReference>F61</PageReference>
+    <Child ReferenceText="djinn lamp">
+      <PageReference>F25</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>F107</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragons">
+    <PageReference>F56</PageReference>
+    <PageReference>F61</PageReference>
+    <PageReference>F137</PageReference>
+    <PageReference>F176</PageReference>
+    <PageReference>F181</PageReference>
+    <Child ReferenceText="blood">
+      <PageReference>F22</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>F107</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dread disadvantage">
+    <PageReference>F133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dreaming skill">
+    <PageReference>F204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dreamlands">
+    <PageReference>F34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Droughts">
+    <PageReference>F87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druids">
+    <PageReference>F197</PageReference>
+    <PageReference>F208</PageReference>
+    <PageReference>F229</PageReference>
+    <Child ReferenceText="and satire">
+      <PageReference>F209</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drunkenness talent">
+    <PageReference>F205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dryads">
+    <PageReference>F45</PageReference>
+    <PageReference>F49</PageReference>
+    <PageReference>F101</PageReference>
+    <PageReference>F133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duels">
+    <PageReference>F11</PageReference>
+    <PageReference>F146</PageReference>
+    <PageReference>F180</PageReference>
+    <PageReference>F181</PageReference>
+    <PageReference>F187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeons &amp; Dragons">
+    <PageReference>F7</PageReference>
+    <PageReference>F15</PageReference>
+    <PageReference>F63</PageReference>
+    <PageReference>F84</PageReference>
+    <PageReference>F174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeons">
+    <PageReference>F100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duration of magic">
+    <PageReference>F154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarves">
+    <PageReference>F41</PageReference>
+    <PageReference>F56</PageReference>
+    <PageReference>F58</PageReference>
+    <PageReference>F62</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>F107</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth spells">
+    <PageReference>F169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Earthquakes">
+    <PageReference>F86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eidetic Memory advantage">
+    <PageReference>F128</PageReference>
+    <PageReference>F219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elves">
+    <PageReference>F56</PageReference>
+    <PageReference>F58</PageReference>
+    <PageReference>F62</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>F108</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Empires">
+    <PageReference>F73</PageReference>
+    <PageReference>F81</PageReference>
+    <PageReference>F95</PageReference>
+    <PageReference>F96</PageReference>
+    <Child ReferenceText="imperial capitals">
+      <PageReference>F96</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchantment and enchantment spells">
+    <PageReference>F23-25</PageReference>
+    <PageReference>F149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enclaves">
+    <PageReference>F73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="End of the world">
+    <PageReference>F77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Engineer template">
+    <PageReference>F215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enthrallment skill">
+    <PageReference>F135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Epidemics">
+    <PageReference>F88</PageReference>
+    <SeeAlso>Disease</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <PageReference>F140-145</PageReference>
+    <PageReference>F223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Espionage">
+    <PageReference>F9</PageReference>
+    <PageReference>F177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evil">
+    <Child ReferenceText="evil gods">
+      <PageReference>F32</PageReference>
+      <PageReference>F33</PageReference>
+    </Child>
+    <Child ReferenceText="and good">
+      <PageReference>F21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Exhaustion">
+    <PageReference>F82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exotic lands">
+    <PageReference>F8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expert Skill skills">
+    <PageReference>F135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faeries">
+    <PageReference>F56</PageReference>
+    <PageReference>F132</PageReference>
+    <PageReference>F168</PageReference>
+    <Child ReferenceText="realms">
+      <PageReference>F35</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>F108</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Familiars">
+    <PageReference>F26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Famines">
+    <PageReference>F88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fantasy worlds">
+    <PageReference>F10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Farmer job">
+    <PageReference>F139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fear spell">
+    <PageReference>F171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fetishes">
+    <PageReference>F26</PageReference>
+    <PageReference>F128</PageReference>
+    <PageReference>F130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fiction">
+    <PageReference>F234-235</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Films">
+    <PageReference>F236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fires">
+    <PageReference>F88</PageReference>
+    <PageReference>F95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fisherman job">
+    <PageReference>F139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fixed magic">
+    <PageReference>F161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flight spell">
+    <PageReference>F171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Floods">
+    <PageReference>F87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foci">
+    <PageReference>F28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Folklore">
+    <PageReference>F99</PageReference>
+    <PageReference>F233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <PageReference>F99</PageReference>
+    <PageReference>F137</PageReference>
+    <SeeAlso>Agriculture</SeeAlso>
+    <Child ReferenceText="spells">
+      <PageReference>F169</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fools">
+    <PageReference>F11</PageReference>
+    <PageReference>F70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forests">
+    <PageReference>F42</PageReference>
+    <PageReference>F46</PageReference>
+    <Child ReferenceText="forest fires">
+      <PageReference>F88</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Formulaic magic">
+    <PageReference>F148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fortresses">
+    <PageReference>F191-192</PageReference>
+    <PageReference>F198</PageReference>
+    <Child ReferenceText="legionary">
+      <PageReference>F198</PageReference>
+    </Child>
+    <Child ReferenceText="Vauban (star) fortresses">
+      <PageReference>F191-192</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fortune-Telling skill">
+    <PageReference>F135</PageReference>
+    <PageReference>F150</PageReference>
+    <PageReference>F220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fossils">
+    <PageReference>F41</PageReference>
+    <PageReference>F46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frenzy talent">
+    <PageReference>F205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Future fantasy">
+    <PageReference>F10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Games skills">
+    <PageReference>F135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Games">
+    <PageReference>F237</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Garumna">
+    <PageReference>F230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Geneaologies">
+    <PageReference>F90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genres">
+    <PageReference>F6-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Germanic tribes">
+    <PageReference>F196</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghosts">
+    <PageReference>F37</PageReference>
+    <PageReference>F38</PageReference>
+    <PageReference>F40</PageReference>
+    <PageReference>F90</PageReference>
+    <PageReference>F197</PageReference>
+    <Child ReferenceText="lens">
+      <PageReference>F113</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghouls">
+    <PageReference>F58</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>F108</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Giants">
+    <PageReference>F50</PageReference>
+    <PageReference>F51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gladiator template">
+    <PageReference>F215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glamour">
+    <PageReference>F69</PageReference>
+    <PageReference>F168</PageReference>
+    <SeeAlso>Illusion</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Gliders">
+    <PageReference>F104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glorantha">
+    <PageReference>F12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gods">
+    <PageReference>F6</PageReference>
+    <PageReference>F30</PageReference>
+    <PageReference>F31</PageReference>
+    <PageReference>F40</PageReference>
+    <PageReference>F45</PageReference>
+    <PageReference>F57</PageReference>
+    <PageReference>F96</PageReference>
+    <PageReference>F101</PageReference>
+    <PageReference>F102</PageReference>
+    <PageReference>F148</PageReference>
+    <PageReference>F151</PageReference>
+    <PageReference>F164</PageReference>
+    <PageReference>F201</PageReference>
+    <PageReference>F209</PageReference>
+    <Child ReferenceText="divine punishments">
+      <PageReference>F89</PageReference>
+    </Child>
+    <Child ReferenceText="evil gods">
+      <PageReference>F32</PageReference>
+      <PageReference>F33</PageReference>
+    </Child>
+    <Child ReferenceText="offspring of gods">
+      <PageReference>F32</PageReference>
+      <PageReference>F55</PageReference>
+    </Child>
+    <Child ReferenceText="theophagy">
+      <PageReference>F57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gold">
+    <PageReference>F137</PageReference>
+    <PageReference>F156</PageReference>
+    <PageReference>F221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Golems">
+    <PageReference>F25</PageReference>
+    <PageReference>F26</PageReference>
+    <PageReference>F53</PageReference>
+    <PageReference>F72</PageReference>
+    <PageReference>F131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Good and evil">
+    <PageReference>F21</PageReference>
+    <PageReference>F58</PageReference>
+    <PageReference>F194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goodwife talent">
+    <PageReference>F132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Governments">
+    <PageReference>F69-70</PageReference>
+    <PageReference>F95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grace talent">
+    <PageReference>F205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gryphons">
+    <PageReference>F173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guilds">
+    <PageReference>F72</PageReference>
+    <PageReference>F94</PageReference>
+    <PageReference>F130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Third Edition">
+    <PageReference>F237</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Half-breeds">
+    <PageReference>F32</PageReference>
+    <PageReference>F58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Halflings">
+    <PageReference>F61</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>F109</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Half-mortals">
+    <PageReference>F32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hang from Saddle technique">
+    <PageReference>F136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hazardous Materials skill">
+    <PageReference>F135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Head of Orpheus">
+    <PageReference>F28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heal Plant spell">
+    <PageReference>F171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healers and healing">
+    <PageReference>F11</PageReference>
+    <PageReference>F98</PageReference>
+    <PageReference>F176</PageReference>
+    <Child ReferenceText="spells">
+      <PageReference>F169-170</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heaven">
+    <PageReference>F35</PageReference>
+    <PageReference>F76</PageReference>
+    <PageReference>F176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hedge wizards">
+    <PageReference>F102</PageReference>
+    <PageReference>F103</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>F119</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hell">
+    <PageReference>F36</PageReference>
+    <PageReference>F134</PageReference>
+    <PageReference>F175</PageReference>
+    <PageReference>F176</PageReference>
+    <PageReference>F182</PageReference>
+    <PageReference>F202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Herb Lore skill">
+    <PageReference>F18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Herbal magic">
+    <PageReference>F158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Herecine">
+    <PageReference>F47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hide spell">
+    <PageReference>F170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High fantasy">
+    <PageReference>F6</PageReference>
+    <PageReference>F46</PageReference>
+    <PageReference>F79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High magic">
+    <PageReference>F151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hippocampus">
+    <PageReference>F211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="History">
+    <PageReference>F90</PageReference>
+    <Child ReferenceText="historical beliefs about magic">
+      <PageReference>F151</PageReference>
+    </Child>
+    <Child ReferenceText="historical settings">
+      <PageReference>F10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy Man template">
+    <PageReference>F120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy places">
+    <PageReference>F101-102</PageReference>
+    <SeeAlso>Sanctity</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Horror">
+    <PageReference>F8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horses">
+    <PageReference>F105</PageReference>
+    <PageReference>F132</PageReference>
+    <PageReference>F225</PageReference>
+    <Child ReferenceText="superior horse">
+      <PageReference>F105</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunting">
+    <PageReference>F176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hurricanes">
+    <PageReference>F87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hybrids">
+    <PageReference>F51</PageReference>
+    <PageReference>F67</PageReference>
+    <SeeAlso>Half-Breeds</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Identify Plant spell">
+    <PageReference>F171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illuminated fantasy">
+    <PageReference>F13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illuminati">
+    <PageReference>F70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion Disguise spell">
+    <PageReference>F170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion Shell spell">
+    <PageReference>F170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion spells">
+    <PageReference>F170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusions">
+    <PageReference>F20</PageReference>
+    <PageReference>F108</PageReference>
+    <PageReference>F185</PageReference>
+    <SeeAlso>Glamour</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Imp template">
+    <PageReference>F109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impossible environments">
+    <PageReference>F42</PageReference>
+    <PageReference>F68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Income">
+    <PageReference>F138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Independent Income advantage">
+    <PageReference>F140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Industrial magic">
+    <PageReference>F67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infestations">
+    <PageReference>F88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinite Worlds">
+    <PageReference>F195</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinity Patrol">
+    <PageReference>F196</PageReference>
+    <PageReference>F217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Information">
+    <PageReference>F99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inns">
+    <PageReference>F98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insects">
+    <PageReference>F48</PageReference>
+    <PageReference>F53</PageReference>
+    <PageReference>F109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insubstantiality advantage">
+    <PageReference>F128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Internal alchemy">
+    <PageReference>F156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intrinsic magic">
+    <PageReference>F18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Investigations">
+    <PageReference>F179</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invisibility advantage">
+    <PageReference>F129</PageReference>
+    <Child ReferenceText="spell">
+      <PageReference>F170</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Isis">
+    <PageReference>F207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Isolates">
+    <PageReference>F93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jobs">
+    <PageReference>F138-139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumper advantage">
+    <PageReference>F129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jungles">
+    <PageReference>F42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kabbalah">
+    <PageReference>F27</PageReference>
+    <PageReference>F157-158</PageReference>
+    <PageReference>F161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="King of Beasts">
+    <PageReference>F47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kings">
+    <PageReference>F68</PageReference>
+    <PageReference>F70</PageReference>
+    <PageReference>F90</PageReference>
+    <PageReference>F95</PageReference>
+    <PageReference>F100</PageReference>
+    <PageReference>F137</PageReference>
+    <Child ReferenceText="The King’s Two Bodies advantage">
+      <PageReference>F128</PageReference>
+    </Child>
+    <Child ReferenceText="True King template">
+      <PageReference>F125</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Knight template">
+    <PageReference>F121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lackey job">
+    <PageReference>F139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Landslides">
+    <PageReference>F86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Languages">
+    <PageReference>F64</PageReference>
+    <Child ReferenceText="animal">
+      <PageReference>F47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Larvae">
+    <PageReference>F213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Law of Similarity">
+    <PageReference>F44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laws of magic">
+    <PageReference>F19</PageReference>
+    <PageReference>F154</PageReference>
+    <PageReference>F163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laws">
+    <PageReference>F72</PageReference>
+    <PageReference>F74</PageReference>
+    <PageReference>F85</PageReference>
+    <PageReference>F93</PageReference>
+    <PageReference>F100</PageReference>
+    <PageReference>F216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legends">
+    <PageReference>F46</PageReference>
+    <SeeAlso>Mythology</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Legionary template">
+    <PageReference>F216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legions">
+    <Child ReferenceText="Roman">
+      <PageReference>F198</PageReference>
+      <PageReference>F200</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <PageReference>F163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Levitation spell">
+    <PageReference>F171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ley lines">
+    <PageReference>F44-45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Libraries">
+    <PageReference>F99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lich template">
+    <PageReference>F113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light and Darkness spells">
+    <PageReference>F170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light fantasy">
+    <PageReference>F7</PageReference>
+    <PageReference>F46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lighten Burden spell">
+    <PageReference>F171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lilith">
+    <PageReference>F54</PageReference>
+    <PageReference>F132</PageReference>
+    <PageReference>F164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limes">
+    <PageReference>F196</PageReference>
+    <PageReference>F198</PageReference>
+    <PageReference>F204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Linguistics skill">
+    <PageReference>F135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loot">
+    <PageReference>F91</PageReference>
+    <PageReference>F137</PageReference>
+    <PageReference>F140</PageReference>
+    <PageReference>F174</PageReference>
+    <PageReference>F189</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lord of the Rings">
+    <SeeAlso>J</SeeAlso>
+    <Child ReferenceText="R" />
+    <Child ReferenceText="R" />
+    <Child ReferenceText="Tolkien" />
+  </IndexReference>
+  <IndexReference ReferenceText="Low fantasy">
+    <PageReference>F6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low magic">
+    <PageReference>F147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lycanthropes">
+    <PageReference>F49</PageReference>
+    <PageReference>F59</PageReference>
+    <PageReference>F60</PageReference>
+    <PageReference>F111</PageReference>
+    <PageReference>F131</PageReference>
+    <PageReference>F133</PageReference>
+    <PageReference>F180</PageReference>
+    <PageReference>F196</PageReference>
+    <PageReference>F208</PageReference>
+    <Child ReferenceText="Werewolf template">
+      <PageReference>F111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Maenads">
+    <PageReference>F205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery">
+    <PageReference>F18</PageReference>
+    <PageReference>F67</PageReference>
+    <PageReference>F129</PageReference>
+    <PageReference>F130</PageReference>
+    <Child ReferenceText="frequency">
+      <PageReference>F103</PageReference>
+    </Child>
+    <Child ReferenceText="racial">
+      <PageReference>F165</PageReference>
+      <PageReference>F167-168</PageReference>
+    </Child>
+    <Child ReferenceText="special types of magery">
+      <PageReference>F129</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mages in Black">
+    <PageReference>F20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <PageReference>F17</PageReference>
+    <SeeAlso>Alchemy</SeeAlso>
+    <SeeAlso>Enchantment</SeeAlso>
+    <SeeAlso>Runes</SeeAlso>
+    <Child ReferenceText="agrarian">
+      <PageReference>F95</PageReference>
+    </Child>
+    <Child ReferenceText="alchemy as">
+      <PageReference>F156</PageReference>
+    </Child>
+    <Child ReferenceText="alternative and multiple systems">
+      <PageReference>F155-168</PageReference>
+      <PageReference>F172</PageReference>
+    </Child>
+    <Child ReferenceText="animistic">
+      <PageReference>F19</PageReference>
+    </Child>
+    <Child ReferenceText="astrological">
+      <PageReference>F163</PageReference>
+    </Child>
+    <Child ReferenceText="bardic">
+      <PageReference>F156</PageReference>
+    </Child>
+    <Child ReferenceText="chi as">
+      <PageReference>F157</PageReference>
+    </Child>
+    <Child ReferenceText="correspondence">
+      <PageReference>F160</PageReference>
+      <PageReference>F163</PageReference>
+    </Child>
+    <Child ReferenceText="craft">
+      <PageReference>F147</PageReference>
+      <PageReference>F162</PageReference>
+    </Child>
+    <Child ReferenceText="devilfish">
+      <PageReference>F168</PageReference>
+    </Child>
+    <Child ReferenceText="duration">
+      <PageReference>F154</PageReference>
+    </Child>
+    <Child ReferenceText="fixed">
+      <PageReference>F161</PageReference>
+    </Child>
+    <Child ReferenceText="formulaic">
+      <PageReference>F148</PageReference>
+    </Child>
+    <Child ReferenceText="industrial">
+      <PageReference>F67</PageReference>
+    </Child>
+    <Child ReferenceText="intrinsic">
+      <PageReference>F18</PageReference>
+    </Child>
+    <Child ReferenceText="herbal">
+      <PageReference>F158</PageReference>
+    </Child>
+    <Child ReferenceText="high">
+      <PageReference>F151</PageReference>
+    </Child>
+    <Child ReferenceText="historical beliefs">
+      <PageReference>F151</PageReference>
+    </Child>
+    <Child ReferenceText="laws of magic">
+      <PageReference>F19</PageReference>
+    </Child>
+    <Child ReferenceText="low">
+      <PageReference>F147</PageReference>
+    </Child>
+    <Child ReferenceText="meditative">
+      <PageReference>F151</PageReference>
+      <PageReference>F161</PageReference>
+    </Child>
+    <Child ReferenceText="modular">
+      <PageReference>F162</PageReference>
+    </Child>
+    <Child ReferenceText="power levels">
+      <PageReference>F153</PageReference>
+    </Child>
+    <Child ReferenceText="psionics as">
+      <PageReference>F158</PageReference>
+    </Child>
+    <Child ReferenceText="range">
+      <PageReference>F154</PageReference>
+    </Child>
+    <Child ReferenceText="ritualization">
+      <PageReference>F155</PageReference>
+      <PageReference>F158</PageReference>
+    </Child>
+    <Child ReferenceText="sacrificial">
+      <PageReference>F165</PageReference>
+    </Child>
+    <Child ReferenceText="schools">
+      <PageReference>F102</PageReference>
+      <PageReference>F183</PageReference>
+    </Child>
+    <Child ReferenceText="shapeshifting as">
+      <PageReference>F159</PageReference>
+    </Child>
+    <Child ReferenceText="single-spell">
+      <PageReference>F148</PageReference>
+    </Child>
+    <Child ReferenceText="skill levels">
+      <PageReference>F153</PageReference>
+    </Child>
+    <Child ReferenceText="speed">
+      <PageReference>F154</PageReference>
+    </Child>
+    <Child ReferenceText="superpowers as">
+      <PageReference>F159</PageReference>
+    </Child>
+    <Child ReferenceText="systems">
+      <PageReference>F155</PageReference>
+    </Child>
+    <Child ReferenceText="talents as">
+      <PageReference>F159</PageReference>
+    </Child>
+    <Child ReferenceText="theistic">
+      <PageReference>F19</PageReference>
+    </Child>
+    <Child ReferenceText="and technology">
+      <PageReference>F64-67</PageReference>
+    </Child>
+    <Child ReferenceText="trance">
+      <PageReference>F151</PageReference>
+    </Child>
+    <Child ReferenceText="and warfare">
+      <PageReference>F190-194</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical">
+    <SeeAlso>Enchantment</SeeAlso>
+    <Child ReferenceText="attributes">
+      <PageReference>F18</PageReference>
+      <PageReference>F21</PageReference>
+    </Child>
+    <Child ReferenceText="beings">
+      <PageReference>F29</PageReference>
+    </Child>
+    <Child ReferenceText="correspondences">
+      <PageReference>F19</PageReference>
+      <PageReference>F21</PageReference>
+    </Child>
+    <Child ReferenceText="disasters">
+      <PageReference>F89</PageReference>
+    </Child>
+    <Child ReferenceText="energy">
+      <SeeAlso>Mana</SeeAlso>
+    </Child>
+    <Child ReferenceText="items">
+      <PageReference>F131</PageReference>
+    </Child>
+    <Child ReferenceText="landscapes">
+      <PageReference>F41</PageReference>
+    </Child>
+    <Child ReferenceText="networks">
+      <PageReference>F45</PageReference>
+    </Child>
+    <Child ReferenceText="objects">
+      <PageReference>F22-29</PageReference>
+    </Child>
+    <Child ReferenceText="realms">
+      <PageReference>F34-36</PageReference>
+    </Child>
+    <Child ReferenceText="technology">
+      <PageReference>F64-67</PageReference>
+    </Child>
+    <Child ReferenceText="afflictions">
+      <PageReference>F133</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magistrate template">
+    <PageReference>F216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magivores">
+    <PageReference>F48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana">
+    <PageReference>F18</PageReference>
+    <PageReference>F21</PageReference>
+    <PageReference>F30</PageReference>
+    <PageReference>F44</PageReference>
+    <PageReference>F67</PageReference>
+    <PageReference>F71</PageReference>
+    <PageReference>F132</PageReference>
+    <Child ReferenceText="mana basins">
+      <PageReference>F43</PageReference>
+    </Child>
+    <Child ReferenceText="mana levels">
+      <PageReference>F29</PageReference>
+      <PageReference>F101</PageReference>
+    </Child>
+    <Child ReferenceText="mana organs">
+      <PageReference>F22</PageReference>
+      <PageReference>F48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Manorialism and manors">
+    <PageReference>F93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manticores">
+    <PageReference>F48</PageReference>
+    <PageReference>F177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maps">
+    <PageReference>F41</PageReference>
+    <PageReference>F42</PageReference>
+    <PageReference>F91</PageReference>
+    <PageReference>F92</PageReference>
+    <Child ReferenceText="creating">
+      <PageReference>F41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Marine talent">
+    <PageReference>F132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Market villages">
+    <PageReference>F93-94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial arts">
+    <PageReference>F8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master Builder talent">
+    <PageReference>F132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mathematics skill">
+    <PageReference>F220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Matriarchy">
+    <PageReference>F70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Matrilineality">
+    <PageReference>F57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medicine">
+    <SeeAlso>Healers and Healing</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Meditative magic">
+    <PageReference>F151</PageReference>
+    <PageReference>F161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Megalogryphontes">
+    <PageReference>F195</PageReference>
+    <PageReference>F212</PageReference>
+    <PageReference>F227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mercenary job">
+    <PageReference>F139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchant template">
+    <PageReference>F121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-Spells">
+    <PageReference>F170-171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-traits">
+    <PageReference>F133-134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Control spells">
+    <PageReference>F171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind-Sending spell">
+    <PageReference>F169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miracles">
+    <PageReference>F151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mistletoe">
+    <PageReference>F22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mithraea">
+    <PageReference>F199</PageReference>
+    <PageReference>F206-207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mithril">
+    <PageReference>F65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modular Abilities advantage">
+    <PageReference>F130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modular magic">
+    <PageReference>F162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Moly">
+    <PageReference>F23</PageReference>
+    <PageReference>F48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Money">
+    <PageReference>F137</PageReference>
+    <PageReference>F221</PageReference>
+    <SeeAlso>Loot</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <PageReference>F49-52</PageReference>
+    <PageReference>F89</PageReference>
+    <PageReference>F197</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Moral attributes">
+    <PageReference>F46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Motifs">
+    <PageReference>F11</PageReference>
+    <PageReference>F14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mountain ants">
+    <PageReference>F48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mountains">
+    <PageReference>F42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Movement spells">
+    <PageReference>F171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple magic systems">
+    <PageReference>F172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Myrmidons">
+    <PageReference>F109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mysteries">
+    <PageReference>F179</PageReference>
+    <PageReference>F181-182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mystery cults">
+    <PageReference>F205-206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mythic time">
+    <PageReference>F75-76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mythology">
+    <PageReference>F6</PageReference>
+    <PageReference>F46</PageReference>
+    <PageReference>F77</PageReference>
+    <PageReference>F233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Named objects">
+    <PageReference>F26</PageReference>
+    <PageReference>F132</PageReference>
+    <PageReference>F164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Named Possessions perk">
+    <PageReference>F132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Names">
+    <Child ReferenceText="Law of">
+      <PageReference>F19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Naming magical arts">
+    <PageReference>F150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural disasters">
+    <PageReference>F86-87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural laws">
+    <PageReference>F65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New beginnings">
+    <PageReference>F85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night Vision advantage">
+    <PageReference>F130</PageReference>
+    <Child ReferenceText="spell">
+      <PageReference>F170</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="No-Hands Riding technique">
+    <PageReference>F136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonhumans">
+    <PageReference>F14</PageReference>
+    <PageReference>F56</PageReference>
+    <PageReference>F230</PageReference>
+    <SeeAlso>Races</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Nymphs">
+    <PageReference>F45</PageReference>
+    <PageReference>F132</PageReference>
+    <PageReference>F202</PageReference>
+    <PageReference>F213</PageReference>
+    <PageReference>F230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oaths">
+    <PageReference>F70</PageReference>
+    <PageReference>F147</PageReference>
+    <PageReference>F179</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occupational templates">
+    <PageReference>F114</PageReference>
+    <PageReference>F214-219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oceans">
+    <PageReference>F42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Omens">
+    <PageReference>F150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orcs">
+    <PageReference>F56</PageReference>
+    <PageReference>F58</PageReference>
+    <PageReference>F62</PageReference>
+    <PageReference>F177</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>F110</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Orichalcum">
+    <PageReference>F23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orpheus">
+    <Child ReferenceText="head of">
+      <PageReference>F28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Outlaws">
+    <PageReference>F14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oz">
+    <PageReference>F10</PageReference>
+    <PageReference>F42</PageReference>
+    <PageReference>F43</PageReference>
+    <PageReference>F44</PageReference>
+    <PageReference>F46</PageReference>
+    <PageReference>F70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Panthers (mythical)">
+    <PageReference>F49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paranormal romance">
+    <PageReference>F8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parliament of Fowls">
+    <PageReference>F47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parthian Empire">
+    <PageReference>F196</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patron advantage">
+    <PageReference>F130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peasant Adventurer template">
+    <PageReference>F122</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peregrin template">
+    <PageReference>F217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>F132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Persian Empire">
+    <PageReference>F9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Petards">
+    <PageReference>F143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pharmacy skill">
+    <PageReference>F135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Philosopher template">
+    <PageReference>F218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Philosophy">
+    <PageReference>F210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plagues">
+    <PageReference>F88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plains">
+    <PageReference>F42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planes">
+    <Child ReferenceText="other">
+      <PageReference>F12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Planetary spirits">
+    <PageReference>F45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planets">
+    <PageReference>F10</PageReference>
+    <PageReference>F39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plant spells">
+    <PageReference>F171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plants">
+    <PageReference>F46</PageReference>
+    <Child ReferenceText="carnivorous">
+      <PageReference>F47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pocket universes">
+    <PageReference>F36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Point campaigns">
+    <PageReference>F15</PageReference>
+    <PageReference>F175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Point costs">
+    <PageReference>F18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Police procedurals">
+    <PageReference>F9</PageReference>
+    <PageReference>F81</PageReference>
+    <PageReference>F180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Portal fantasy">
+    <PageReference>F13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Possessed creatures">
+    <PageReference>F52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Postumus">
+    <PageReference>F200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Potlatch">
+    <PageReference>F57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power levels">
+    <PageReference>F153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power sources">
+    <PageReference>F65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prayer">
+    <PageReference>F148</PageReference>
+    <PageReference>F149</PageReference>
+    <PageReference>F167</PageReference>
+    <PageReference>F202</PageReference>
+    <PageReference>F203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prices">
+    <SeeAlso>Money</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Priests">
+    <PageReference>F152</PageReference>
+    <Child ReferenceText="Priest job">
+      <PageReference>F139</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Printing press">
+    <PageReference>F100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Projection advantage">
+    <PageReference>F128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prophecy">
+    <PageReference>F75</PageReference>
+    <PageReference>F150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionics">
+    <PageReference>F20</PageReference>
+    <Child ReferenceText="as magic">
+      <PageReference>F158</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Purify Earth spell">
+    <PageReference>F169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Purse cutting technique">
+    <PageReference>F136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid Magazine">
+    <PageReference>F4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick March spell">
+    <PageReference>F171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Races">
+    <PageReference>F56</PageReference>
+    <PageReference>F58</PageReference>
+    <Child ReferenceText="accursed">
+      <PageReference>F59</PageReference>
+    </Child>
+    <Child ReferenceText="beast races">
+      <PageReference>F58</PageReference>
+    </Child>
+    <Child ReferenceText="insect races (wugs)">
+      <PageReference>F59</PageReference>
+    </Child>
+    <Child ReferenceText="player-designed">
+      <PageReference>F113</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Racial magery">
+    <PageReference>F165</PageReference>
+    <PageReference>F167-168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Racial templates">
+    <PageReference>F105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rain spell">
+    <PageReference>F168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Range of magic">
+    <PageReference>F154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rank advantage">
+    <PageReference>F130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapier Wit advantage">
+    <PageReference>F130</PageReference>
+    <PageReference>F209</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rats">
+    <PageReference>F53</PageReference>
+    <PageReference>F180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realism">
+    <PageReference>F16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reciprocity">
+    <PageReference>F57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reincarnation">
+    <PageReference>F37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Relics">
+    <PageReference>F26</PageReference>
+    <PageReference>F91</PageReference>
+    <Child ReferenceText="relic fantasy">
+      <PageReference>F13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Religions">
+    <PageReference>F37-38</PageReference>
+    <PageReference>F72</PageReference>
+    <PageReference>F90</PageReference>
+    <PageReference>F167</PageReference>
+    <Child ReferenceText="Roman">
+      <PageReference>F201</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Resurrection">
+    <PageReference>F37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retrotech">
+    <PageReference>F9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Revenants">
+    <PageReference>F38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reversal of customs">
+    <PageReference>F70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Riddles">
+    <PageReference>F14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Riding skill">
+    <PageReference>F135</PageReference>
+    <PageReference>F136</PageReference>
+    <Child ReferenceText="techniques">
+      <PageReference>F136</PageReference>
+      <PageReference>F220</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual magic">
+    <PageReference>F158</PageReference>
+    <Child ReferenceText="ritualization of magic">
+      <PageReference>F155</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Roma Arcana">
+    <PageReference>F195-232</PageReference>
+    <Child ReferenceText="adventure seeds">
+      <PageReference>F231</PageReference>
+    </Child>
+    <Child ReferenceText="bestiary">
+      <PageReference>F211-212</PageReference>
+    </Child>
+    <Child ReferenceText="bibliography">
+      <PageReference>F232</PageReference>
+    </Child>
+    <Child ReferenceText="and Christianity">
+      <PageReference>F211</PageReference>
+    </Child>
+    <Child ReferenceText="characters">
+      <PageReference>F213-224</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>F223</PageReference>
+    </Child>
+    <Child ReferenceText="ethnic traits">
+      <PageReference>F213</PageReference>
+    </Child>
+    <Child ReferenceText="glossary">
+      <PageReference>F232</PageReference>
+    </Child>
+    <Child ReferenceText="in the multiverse">
+      <PageReference>F196</PageReference>
+    </Child>
+    <Child ReferenceText="monsters">
+      <PageReference>F197</PageReference>
+    </Child>
+    <Child ReferenceText="occupational templates">
+      <PageReference>F214-219</PageReference>
+    </Child>
+    <Child ReferenceText="prayer">
+      <PageReference>F203</PageReference>
+    </Child>
+    <Child ReferenceText="rank">
+      <PageReference>F222</PageReference>
+    </Child>
+    <Child ReferenceText="religions and cults">
+      <PageReference>F201-206</PageReference>
+    </Child>
+    <Child ReferenceText="skin-turners">
+      <PageReference>F208</PageReference>
+    </Child>
+    <Child ReferenceText="sorcery">
+      <PageReference>F207-208</PageReference>
+    </Child>
+    <Child ReferenceText="spirits">
+      <PageReference>F197</PageReference>
+    </Child>
+    <Child ReferenceText="status">
+      <PageReference>F221</PageReference>
+    </Child>
+    <Child ReferenceText="wealth">
+      <PageReference>F221</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>F223</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Roman Empire">
+    <Child ReferenceText="map">
+      <PageReference>F199</PageReference>
+    </Child>
+    <Child ReferenceText="Roma Arcana">
+      <PageReference>F195-232</PageReference>
+    </Child>
+    <Child ReferenceText="fall of">
+      <PageReference>F83</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Romance">
+    <PageReference>F8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rukhs">
+    <PageReference>F50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rulers">
+    <SeeAlso>Governments</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Runes and runic enchantment">
+    <PageReference>F25</PageReference>
+    <PageReference>F68</PageReference>
+    <PageReference>F163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacred places">
+    <PageReference>F149</PageReference>
+    <SeeAlso>Sanctity</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrifices">
+    <PageReference>F7</PageReference>
+    <PageReference>F31</PageReference>
+    <PageReference>F62</PageReference>
+    <PageReference>F165</PageReference>
+    <PageReference>F201</PageReference>
+    <PageReference>F202</PageReference>
+    <Child ReferenceText="sacrificial magic">
+      <PageReference>F165</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sage talent">
+    <PageReference>F132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sanctity">
+    <PageReference>F101-102</PageReference>
+    <PageReference>F148</PageReference>
+    <PageReference>F149</PageReference>
+    <PageReference>F198</PageReference>
+    <PageReference>F204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sandstorms">
+    <PageReference>F87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Satyrs">
+    <PageReference>F212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Savoir-Faire skill">
+    <PageReference>F135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scholar template">
+    <PageReference>F123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Schools">
+    <PageReference>F225</PageReference>
+    <Child ReferenceText="of magic">
+      <PageReference>F102</PageReference>
+      <PageReference>F183</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Science fiction">
+    <PageReference>F40</PageReference>
+    <PageReference>F75</PageReference>
+    <PageReference>F78</PageReference>
+    <SeeAlso>Planets</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Science">
+    <PageReference>F20</PageReference>
+    <PageReference>F100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scope">
+    <PageReference>F15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scribes">
+    <PageReference>F99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scryguard spell">
+    <PageReference>F170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Security Clearance advantage">
+    <PageReference>F130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Selkies">
+    <PageReference>F59</PageReference>
+    <PageReference>F61</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>F110</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense of Duty disadvantage">
+    <PageReference>F133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Services">
+    <PageReference>F97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Settings">
+    <PageReference>F10-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadow Form advantage">
+    <PageReference>F131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadowrun">
+    <PageReference>F7</PageReference>
+    <PageReference>F9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shamanism">
+    <PageReference>F149</PageReference>
+    <PageReference>F152</PageReference>
+    <PageReference>F209</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shape Stone spell">
+    <PageReference>F169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shapeshifting advantage">
+    <PageReference>F131</PageReference>
+    <SeeAlso>Lycanthropy</SeeAlso>
+    <Child ReferenceText="as magic">
+      <PageReference>F159</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shapur">
+    <PageReference>F200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharp Turn technique">
+    <PageReference>F136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ships">
+    <PageReference>F142-145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoot Backward technique">
+    <PageReference>F136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoot Over Mount technique">
+    <PageReference>F136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shore leave adventures">
+    <PageReference>F184-185</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sickness">
+    <SeeAlso>Disease</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sieges">
+    <PageReference>F188</PageReference>
+    <PageReference>F189</PageReference>
+    <SeeAlso>Fortresses</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Signature Gear advantage">
+    <PageReference>F131</PageReference>
+    <PageReference>F132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silence spell">
+    <PageReference>F172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silver">
+    <PageReference>F137</PageReference>
+    <PageReference>F221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Similarity">
+    <Child ReferenceText="Law of">
+      <PageReference>F19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Simple Illusion spell">
+    <PageReference>F170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Single-Minded advantage">
+    <PageReference>F132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Single-spell magic">
+    <PageReference>F148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skeletons">
+    <PageReference>F113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>F134-136</PageReference>
+    <Child ReferenceText="and Size Modifiers">
+      <PageReference>F137</PageReference>
+    </Child>
+    <Child ReferenceText="levels">
+      <PageReference>F153</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skin-turners">
+    <SeeAlso>Lycanthropes</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Slaves">
+    <PageReference>F73</PageReference>
+    <PageReference>F93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayer template">
+    <PageReference>F123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smith job">
+    <PageReference>F139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma disadvantage">
+    <PageReference>F133</PageReference>
+    <PageReference>F219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soothsaying">
+    <PageReference>F150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sorcery">
+    <PageReference>F151</PageReference>
+    <PageReference>F207</PageReference>
+    <Child ReferenceText="sorcerer template">
+      <PageReference>F218</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sound spells">
+    <PageReference>F172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Space fantasy">
+    <SeeAlso>Planets</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spear of Longinus">
+    <PageReference>F28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed of magic">
+    <PageReference>F154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell creation">
+    <PageReference>F167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spellcaster template">
+    <PageReference>F124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spies">
+    <PageReference>F177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirits">
+    <PageReference>F25</PageReference>
+    <PageReference>F30-33</PageReference>
+    <PageReference>F44</PageReference>
+    <PageReference>F101</PageReference>
+    <PageReference>F128</PageReference>
+    <PageReference>F130</PageReference>
+    <PageReference>F132</PageReference>
+    <PageReference>F148</PageReference>
+    <PageReference>F164</PageReference>
+    <Child ReferenceText="ancestral">
+      <PageReference>F112</PageReference>
+      <PageReference>F197</PageReference>
+      <PageReference>F201</PageReference>
+    </Child>
+    <Child ReferenceText="of place">
+      <PageReference>F45</PageReference>
+    </Child>
+    <Child ReferenceText="planetary">
+      <PageReference>F45</PageReference>
+    </Child>
+    <Child ReferenceText="of time">
+      <PageReference>F78</PageReference>
+    </Child>
+    <Child ReferenceText="traits">
+      <PageReference>F134</PageReference>
+    </Child>
+    <Child ReferenceText="spirit worlds">
+      <PageReference>F35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Status">
+    <PageReference>F137</PageReference>
+    <PageReference>F221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steampunk">
+    <PageReference>F9</PageReference>
+    <PageReference>F65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stop Bleeding spell">
+    <PageReference>F169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Striges">
+    <PageReference>F212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subjective magic">
+    <PageReference>F19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subplots">
+    <PageReference>F185</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superheroes">
+    <PageReference>F49</PageReference>
+    <Child ReferenceText="superheroic adventures">
+      <PageReference>F8</PageReference>
+    </Child>
+    <Child ReferenceText="superpowers as magic">
+      <PageReference>F159</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Superior Horse template">
+    <PageReference>F105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural horror">
+    <SeeAlso>Horror</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural">
+    <PageReference>F17</PageReference>
+    <SeeAlso>Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Superpowers">
+    <SeeAlso>Superheroes</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Surgeon template">
+    <PageReference>F219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swamps">
+    <PageReference>F42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swarms">
+    <PageReference>F53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swashbuckling">
+    <PageReference>F9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sword and sorcery">
+    <PageReference>F7</PageReference>
+    <PageReference>F82</PageReference>
+    <PageReference>F176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbol Drawing skill">
+    <PageReference>F220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbols">
+    <SeeAlso>Runes</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Syntactic magic">
+    <PageReference>F163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Systems of magic">
+    <PageReference>F155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talent advantage">
+    <PageReference>F132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents as magic">
+    <PageReference>F160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tattoos">
+    <PageReference>F166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tavernkeeper job">
+    <PageReference>F139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taverns">
+    <PageReference>F14</PageReference>
+    <PageReference>F98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <PageReference>F136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technology">
+    <PageReference>F64-67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tekumel">
+    <PageReference>F64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teleport spell">
+    <PageReference>F171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Television">
+    <PageReference>F236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <Child ReferenceText="racial">
+      <PageReference>F105</PageReference>
+    </Child>
+    <Child ReferenceText="occupational">
+      <PageReference>F114</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Temples">
+    <PageReference>F101</PageReference>
+    <PageReference>F102</PageReference>
+    <PageReference>F225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temporary Enchantment spell">
+    <PageReference>F23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temporary settlements">
+    <PageReference>F95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teratocracy">
+    <PageReference>F69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Test Food spell">
+    <PageReference>F169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Testudo technique">
+    <PageReference>F220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thanatocracy">
+    <PageReference>F69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thaumatocracy">
+    <PageReference>F69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thaumatology">
+    <PageReference>F151</PageReference>
+    <PageReference>F153</PageReference>
+    <PageReference>F167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thaumaturgy">
+    <PageReference>F151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="The Dying Earth">
+    <PageReference>F11</PageReference>
+    <PageReference>F162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="The King’s Two Bodies advantage">
+    <PageReference>F128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Theistic magic">
+    <PageReference>F19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Theocracy">
+    <PageReference>F69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Theophagy">
+    <PageReference>F57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thieves">
+    <PageReference>F177</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>F124</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrown Weapon skills">
+    <PageReference>F136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thunderstones">
+    <PageReference>F28</PageReference>
+    <PageReference>F55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time">
+    <Child ReferenceText="spirits of">
+      <PageReference>F78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tolkien, J">
+    <Child ReferenceText="R" />
+    <Child ReferenceText="R" />
+    <Child ReferenceText="">
+      <PageReference>F10</PageReference>
+      <PageReference>F12</PageReference>
+      <PageReference>F16</PageReference>
+      <PageReference>F58</PageReference>
+      <PageReference>F63</PageReference>
+      <PageReference>F64</PageReference>
+      <PageReference>F65</PageReference>
+      <PageReference>F68</PageReference>
+      <PageReference>F77</PageReference>
+      <PageReference>F125</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tornadoes">
+    <PageReference>F87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Towns">
+    <PageReference>F94</PageReference>
+    <SeeAlso>Cities</SeeAlso>
+    <SeeAlso>Villages</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Trade and craft magic">
+    <PageReference>F162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trance magic">
+    <PageReference>F151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transportation">
+    <PageReference>F98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Triceratops">
+    <PageReference>F195</PageReference>
+    <PageReference>F212</PageReference>
+    <PageReference>F227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trickster gods">
+    <PageReference>F46</PageReference>
+    <PageReference>F152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Troll template">
+    <PageReference>F110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Faith">
+    <PageReference>F148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True King template">
+    <PageReference>F125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True names">
+    <PageReference>F7</PageReference>
+    <PageReference>F14</PageReference>
+    <PageReference>F164</PageReference>
+    <PageReference>F177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tsunamis">
+    <PageReference>F87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead">
+    <PageReference>F133</PageReference>
+    <SeeAlso>Vampires</SeeAlso>
+    <SeeAlso>The Dead</SeeAlso>
+    <Child ReferenceText="templates">
+      <PageReference>F112-113</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unicorns">
+    <PageReference>F49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unique beings">
+    <PageReference>F61</PageReference>
+    <SeeAlso>Monsters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Valerian">
+    <PageReference>F201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampires">
+    <PageReference>F38</PageReference>
+    <PageReference>F56</PageReference>
+    <PageReference>F59</PageReference>
+    <PageReference>F60</PageReference>
+    <PageReference>F62-63</PageReference>
+    <PageReference>F90</PageReference>
+    <PageReference>F132</PageReference>
+    <PageReference>F133</PageReference>
+    <PageReference>F164</PageReference>
+    <PageReference>F167</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>F111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vaulting technique">
+    <PageReference>F220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <PageReference>F141-145</PageReference>
+    <Child ReferenceText="enchanted">
+      <PageReference>F26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vermin">
+    <PageReference>F133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Village Sage template">
+    <PageReference>F125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Villages">
+    <PageReference>F93-94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visions">
+    <PageReference>F14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Volcanoes">
+    <PageReference>F88</PageReference>
+    <PageReference>F101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wainscot fantasy">
+    <PageReference>F13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walk Through Earth spell">
+    <PageReference>F169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wands">
+    <PageReference>F26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wardancer template">
+    <PageReference>F126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warfare">
+    <PageReference>F89</PageReference>
+    <PageReference>F176</PageReference>
+    <PageReference>F186-194</PageReference>
+    <Child ReferenceText="war in heaven">
+      <PageReference>F76</PageReference>
+      <PageReference>F178</PageReference>
+    </Child>
+    <Child ReferenceText="war stories">
+      <PageReference>F9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth">
+    <PageReference>F137</PageReference>
+    <PageReference>F221</PageReference>
+    <SeeAlso>Loot</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Bond perk">
+    <PageReference>F132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>F97</PageReference>
+    <PageReference>F223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wendigo">
+    <PageReference>F52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Werewolves">
+    <SeeAlso>Lycanthropy</SeeAlso>
+    <Child ReferenceText="Werewolf template">
+      <PageReference>F112</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Westerns">
+    <PageReference>F9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whirlpools">
+    <PageReference>F87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wight template">
+    <PageReference>F113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildness talent">
+    <PageReference>F205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizard of Oz">
+    <SeeAlso>Oz</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizard templates">
+    <PageReference>F118</PageReference>
+    <PageReference>F119</PageReference>
+    <PageReference>F123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wolf">
+    <Child ReferenceText="giant">
+      <PageReference>F231</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Women warriors">
+    <PageReference>F14</PageReference>
+    <PageReference>F70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="World War II">
+    <PageReference>F194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Worlds">
+    <PageReference>F10</PageReference>
+    <PageReference>F39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wugs">
+    <PageReference>F59</PageReference>
+    <PageReference>F133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zeitgeists">
+    <PageReference>F78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zenobia">
+    <PageReference>F201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombies">
+    <PageReference>F38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zoroastrianism">
+    <PageReference>F9</PageReference>
+    <PageReference>F21</PageReference>
+    <PageReference>F81</PageReference>
+    <PageReference>F196</PageReference>
+    <PageReference>F201</PageReference>
+    <PageReference>F226</PageReference>
+    <PageReference>F227</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

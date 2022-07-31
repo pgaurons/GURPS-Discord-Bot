@@ -1,0 +1,566 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Alligators">
+    <PageReference>MH3:22-23</PageReference>
+    <Child ReferenceText="hunting tips">
+      <PageReference>MH3:38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Angels">
+    <PageReference>MH3:16-17</PageReference>
+    <Child ReferenceText="hunting tips">
+      <PageReference>MH3:37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-psi">
+    <PageReference>MH3:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral planes">
+    <PageReference>MH3:15</PageReference>
+    <PageReference>MH3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral Projection power">
+    <PageReference>MH3:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Big bad">
+    <SeeAlso>Monsters (Boss-Level)</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bokors">
+    <PageReference>MH3:12</PageReference>
+    <PageReference>MH3:29</PageReference>
+    <PageReference>MH3:30</PageReference>
+    <SeeAlso>Crusaders</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Brick">
+    <Child ReferenceText="fire and">
+      <PageReference>MH3:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chupacabras">
+    <PageReference>MH3:23-24</PageReference>
+    <Child ReferenceText="hunting tips">
+      <PageReference>MH3:38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crusaders">
+    <Child ReferenceText="frequency">
+      <PageReference>MH3:29</PageReference>
+    </Child>
+    <Child ReferenceText="hunting tips">
+      <PageReference>MH3:38</PageReference>
+    </Child>
+    <Child ReferenceText="as enemies">
+      <PageReference>MH3:29-31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cryptids">
+    <PageReference>MH3:23</PageReference>
+    <SeeAlso>Alligators</SeeAlso>
+    <SeeAlso>Chupacabras</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultists">
+    <PageReference>MH3:31-32</PageReference>
+    <SeeAlso>Crusaders</SeeAlso>
+    <Child ReferenceText="casters">
+      <PageReference>MH3:31-32</PageReference>
+    </Child>
+    <Child ReferenceText="frequency">
+      <PageReference>MH3:29</PageReference>
+    </Child>
+    <Child ReferenceText="thugs">
+      <PageReference>MH3:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Reduction (Injury Tolerance)">
+    <PageReference>MH3:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demons">
+    <PageReference>MH3:17-20</PageReference>
+    <Child ReferenceText="abilities">
+      <PageReference>MH3:19</PageReference>
+    </Child>
+    <Child ReferenceText="banishing">
+      <PageReference>MH3:18</PageReference>
+    </Child>
+    <Child ReferenceText="hunting tips">
+      <PageReference>MH3:18</PageReference>
+      <PageReference>MH3:38</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>MH3:17</PageReference>
+    </Child>
+    <Child ReferenceText="summoning">
+      <PageReference>MH3:17</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>MH3:18-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Desecration">
+    <PageReference>MH3:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drywall">
+    <Child ReferenceText="fire and">
+      <PageReference>MH3:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Electrokinesis power">
+    <PageReference>MH3:34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemies">
+    <SeeAlso>Monsters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ethereal Plane">
+    <PageReference>MH3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evil Eye ability">
+    <PageReference>MH3:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Experiments">
+    <Child ReferenceText="frequency">
+      <PageReference>MH3:29</PageReference>
+    </Child>
+    <Child ReferenceText="hunting tips">
+      <PageReference>MH3:33</PageReference>
+      <PageReference>MH3:38</PageReference>
+    </Child>
+    <Child ReferenceText="as enemies">
+      <PageReference>MH3:32-33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Faerie realms">
+    <PageReference>MH3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire">
+    <Child ReferenceText="monsters and">
+      <PageReference>MH3:10</PageReference>
+      <PageReference>MH3:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flamethrowers">
+    <PageReference>MH3:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Friend to Monsters ability">
+    <PageReference>MH3:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fright Checks">
+    <PageReference>MH3:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghosts">
+    <PageReference>MH3:4-6</PageReference>
+    <Child ReferenceText="hunting tips">
+      <PageReference>MH3:37</PageReference>
+    </Child>
+    <Child ReferenceText="supernatural abilities">
+      <PageReference>MH3:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Cabal">
+    <PageReference>MH3:15</PageReference>
+    <Child ReferenceText="Creatures of the Night">
+      <PageReference>MH3:3</PageReference>
+    </Child>
+    <Child ReferenceText="Faerie">
+      <PageReference>MH3:15</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>MH3:3</PageReference>
+    </Child>
+    <Child ReferenceText="In Nomine">
+      <PageReference>MH3:15</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 1: Champions">
+      <PageReference>MH3:3</PageReference>
+      <PageReference>MH3:4</PageReference>
+      <PageReference>MH3:10</PageReference>
+      <PageReference>MH3:16-18</PageReference>
+      <PageReference>MH3:25</PageReference>
+      <PageReference>MH3:26</PageReference>
+      <PageReference>MH3:28-36</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 2: The Mission">
+      <PageReference>MH3:3-5</PageReference>
+      <PageReference>MH3:7</PageReference>
+      <PageReference>MH3:12</PageReference>
+      <PageReference>MH3:13</PageReference>
+      <PageReference>MH3:17</PageReference>
+      <PageReference>MH3:18</PageReference>
+      <PageReference>MH3:22</PageReference>
+      <PageReference>MH3:24</PageReference>
+      <PageReference>MH3:26</PageReference>
+      <PageReference>MH3:28-30</PageReference>
+      <PageReference>MH3:32</PageReference>
+      <PageReference>MH3:33</PageReference>
+      <PageReference>MH3:35-37</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>MH3:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Handout">
+    <PageReference>MH3:37-38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heaven">
+    <PageReference>MH3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hell">
+    <PageReference>MH3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunting tips">
+    <PageReference>MH3:37-38</PageReference>
+    <SeeAlso>specific monsters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="In Nomine">
+    <PageReference>MH3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="In-betweeners">
+    <PageReference>MH3:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inhumans">
+    <SeeAlso>Angels</SeeAlso>
+    <SeeAlso>Demons</SeeAlso>
+    <SeeAlso>Lycanthropes</SeeAlso>
+    <SeeAlso>Vampires</SeeAlso>
+    <Child ReferenceText="PCs">
+      <PageReference>MH3:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury Tolerance advantage">
+    <PageReference>MH3:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Law skill">
+    <PageReference>MH3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lycanthropes">
+    <PageReference>MH3:24-28</PageReference>
+    <Child ReferenceText="adjusting">
+      <PageReference>MH3:26</PageReference>
+    </Child>
+    <Child ReferenceText="human form">
+      <PageReference>MH3:28</PageReference>
+    </Child>
+    <Child ReferenceText="hunting tips">
+      <PageReference>MH3:26</PageReference>
+      <PageReference>MH3:38</PageReference>
+    </Child>
+    <Child ReferenceText="self-control levels">
+      <PageReference>MH3:24-25</PageReference>
+    </Child>
+    <Child ReferenceText="were forms">
+      <PageReference>MH3:26-28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <Child ReferenceText="demons and">
+      <PageReference>MH3:17</PageReference>
+      <PageReference>MH3:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="overcoming">
+      <PageReference>MH3:36</PageReference>
+    </Child>
+    <Child ReferenceText="witches and">
+      <PageReference>MH3:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="cultists and">
+      <PageReference>MH3:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Men In Black (MIB)">
+    <PageReference>MH3:32</PageReference>
+    <SeeAlso>Experiments</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Metal">
+    <Child ReferenceText="fire and">
+      <PageReference>MH3:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Monster Form ability">
+    <PageReference>MH3:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <Child ReferenceText="attack details">
+      <PageReference>MH3:3</PageReference>
+    </Child>
+    <Child ReferenceText="boss-level">
+      <PageReference>MH3:6</PageReference>
+      <PageReference>MH3:7</PageReference>
+      <PageReference>MH3:11</PageReference>
+      <PageReference>MH3:20</PageReference>
+    </Child>
+    <Child ReferenceText="creation">
+      <PageReference>MH3:6-7</PageReference>
+      <PageReference>MH3:9</PageReference>
+      <PageReference>MH3:12</PageReference>
+      <PageReference>MH3:24</PageReference>
+    </Child>
+    <Child ReferenceText="fodder">
+      <PageReference>MH3:13</PageReference>
+      <PageReference>MH3:29</PageReference>
+    </Child>
+    <Child ReferenceText="living-beings motivations">
+      <PageReference>MH3:22-23</PageReference>
+      <PageReference>MH3:26</PageReference>
+    </Child>
+    <Child ReferenceText="murdering">
+      <PageReference>MH3:35</PageReference>
+    </Child>
+    <Child ReferenceText="rogues motivations">
+      <PageReference>MH3:30</PageReference>
+      <PageReference>MH3:32</PageReference>
+      <PageReference>MH3:34</PageReference>
+      <PageReference>MH3:36</PageReference>
+    </Child>
+    <Child ReferenceText="spirit-beings motivations">
+      <PageReference>MH3:16</PageReference>
+      <PageReference>MH3:18</PageReference>
+      <PageReference>MH3:21</PageReference>
+    </Child>
+    <Child ReferenceText="terminology">
+      <PageReference>MH3:3</PageReference>
+    </Child>
+    <Child ReferenceText="undead motivations">
+      <PageReference>MH3:7</PageReference>
+      <PageReference>MH3:10</PageReference>
+      <PageReference>MH3:13</PageReference>
+    </Child>
+    <Child ReferenceText="adjusting">
+      <PageReference>MH3:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mummies">
+    <PageReference>MH3:6-8</PageReference>
+    <Child ReferenceText="curse">
+      <PageReference>MH3:7</PageReference>
+    </Child>
+    <Child ReferenceText="hunting tips">
+      <PageReference>MH3:6-7</PageReference>
+      <PageReference>MH3:37</PageReference>
+    </Child>
+    <Child ReferenceText="locust form">
+      <PageReference>MH3:8</PageReference>
+    </Child>
+    <Child ReferenceText="natural form">
+      <PageReference>MH3:7-8</PageReference>
+    </Child>
+    <Child ReferenceText="scarab form">
+      <PageReference>MH3:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Murder">
+    <PageReference>MH3:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromancers">
+    <PageReference>MH3:30</PageReference>
+    <SeeAlso>Crusaders</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Priests">
+    <SeeAlso>Crusaders</SeeAlso>
+    <Child ReferenceText="Satanic">
+      <PageReference>MH3:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Probability Alteration power">
+    <PageReference>MH3:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psis">
+    <Child ReferenceText="countermeasures">
+      <PageReference>MH3:35</PageReference>
+    </Child>
+    <Child ReferenceText="frequency">
+      <PageReference>MH3:29</PageReference>
+    </Child>
+    <Child ReferenceText="hunting tips">
+      <PageReference>MH3:35</PageReference>
+      <PageReference>MH3:38</PageReference>
+    </Child>
+    <Child ReferenceText="as enemies">
+      <PageReference>MH3:33-35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic abilities">
+    <PageReference>MH3:34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic Vampirism power">
+    <PageReference>MH3:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychotronics">
+    <PageReference>MH3:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rogues">
+    <SeeAlso>Crusaders</SeeAlso>
+    <SeeAlso>Cultists</SeeAlso>
+    <SeeAlso>Experiments</SeeAlso>
+    <SeeAlso>Psis</SeeAlso>
+    <SeeAlso>Witches</SeeAlso>
+    <Child ReferenceText="other">
+      <PageReference>MH3:32</PageReference>
+    </Child>
+    <Child ReferenceText="frequency of">
+      <PageReference>MH3:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrifices">
+    <PageReference>MH3:35-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret societies">
+    <PageReference>MH3:30</PageReference>
+    <PageReference>MH3:32-34</PageReference>
+    <PageReference>MH3:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skin-Changers">
+    <PageReference>MH3:20-21</PageReference>
+    <Child ReferenceText="hunting tips">
+      <PageReference>MH3:20-21</PageReference>
+      <PageReference>MH3:38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spellcasting">
+    <SeeAlso>Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit realms">
+    <PageReference>MH3:15</PageReference>
+    <PageReference>MH3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spread Darkness ability">
+    <PageReference>MH3:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stone">
+    <Child ReferenceText="fire and">
+      <PageReference>MH3:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Summon Demon ability">
+    <PageReference>MH3:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Summon In-Betweener ability">
+    <PageReference>MH3:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-soldiers">
+    <SeeAlso>Experiments</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="file deduction">
+      <PageReference>MH3:33</PageReference>
+    </Child>
+    <Child ReferenceText="Injury Tolerance">
+      <PageReference>MH3:25</PageReference>
+    </Child>
+    <Child ReferenceText="demonic variety">
+      <PageReference>MH3:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Timbers">
+    <Child ReferenceText="fire and">
+      <PageReference>MH3:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tomb guardians">
+    <PageReference>MH3:6</PageReference>
+    <SeeAlso>Mummies</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampires">
+    <PageReference>MH3:8-12</PageReference>
+    <Child ReferenceText="hunting tips">
+      <PageReference>MH3:10</PageReference>
+      <PageReference>MH3:37</PageReference>
+    </Child>
+    <Child ReferenceText="psychic">
+      <PageReference>MH3:35</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>MH3:10-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Voodoo">
+    <Child ReferenceText="zombies">
+      <PageReference>MH3:12</PageReference>
+    </Child>
+    <Child ReferenceText="bokors">
+      <PageReference>MH3:12</PageReference>
+      <PageReference>MH3:29</PageReference>
+      <PageReference>MH3:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wards">
+    <PageReference>MH3:36</PageReference>
+    <SeeAlso>Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Water">
+    <Child ReferenceText="moving through">
+      <PageReference>MH3:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weaknesses">
+    <SeeAlso>specific monsters</SeeAlso>
+    <Child ReferenceText="player knowledge">
+      <PageReference>MH3:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Werebears">
+    <PageReference>MH3:26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Were-eagles">
+    <PageReference>MH3:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weres">
+    <SeeAlso>Lycanthropes</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Weretigers">
+    <PageReference>MH3:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Werewolves">
+    <PageReference>MH3:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“What” deductions">
+    <PageReference>MH3:7</PageReference>
+    <PageReference>MH3:30</PageReference>
+    <PageReference>MH3:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Witches">
+    <Child ReferenceText="frequency">
+      <PageReference>MH3:29</PageReference>
+    </Child>
+    <Child ReferenceText="hunting tips">
+      <PageReference>MH3:36</PageReference>
+      <PageReference>MH3:38</PageReference>
+    </Child>
+    <Child ReferenceText="as enemies">
+      <PageReference>MH3:35-36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wood">
+    <Child ReferenceText="fire and">
+      <PageReference>MH3:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombies">
+    <PageReference>MH3:12-14</PageReference>
+    <Child ReferenceText="cures">
+      <PageReference>MH3:13</PageReference>
+    </Child>
+    <Child ReferenceText="false">
+      <PageReference>MH3:12</PageReference>
+    </Child>
+    <Child ReferenceText="hunting tips">
+      <PageReference>MH3:37</PageReference>
+    </Child>
+    <Child ReferenceText="infection">
+      <PageReference>MH3:12</PageReference>
+    </Child>
+    <Child ReferenceText="mobs">
+      <PageReference>MH3:14</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>MH3:13-14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombification Resistance (ZR) score">
+    <PageReference>MH3:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombify the Dead ability">
+    <PageReference>MH3:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombify the Living ability">
+    <PageReference>MH3:31</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

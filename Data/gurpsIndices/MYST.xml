@@ -1,0 +1,1349 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Accomplices">
+    <PageReference>MYST51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Action scenes">
+    <PageReference>MYST25</PageReference>
+    <PageReference>MYST62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acute Senses advantage">
+    <PageReference>MYST107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adapting plots">
+    <PageReference>MYST59</PageReference>
+    <PageReference>MYST67</PageReference>
+    <PageReference>MYST75</PageReference>
+    <PageReference>MYST83</PageReference>
+    <PageReference>MYST93</PageReference>
+    <PageReference>MYST99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>MYST107</PageReference>
+    <PageReference>MYST108</PageReference>
+    <PageReference>MYST112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adversary">
+    <PageReference>MYST16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alcoholism disadvantage">
+    <PageReference>MYST108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alertness spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alien outlooks">
+    <PageReference>MYST78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies advantage">
+    <PageReference>MYST107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alter Body spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alter Visage spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amateur sleuths">
+    <PageReference>MYST58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Analyze Magic spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anonymity">
+    <PageReference>MYST70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Apportation spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archetypes">
+    <PageReference>MYST18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area Knowledge skill">
+    <PageReference>MYST110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arson">
+    <PageReference>MYST41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Asphyxiation">
+    <PageReference>MYST33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assumptions">
+    <PageReference>MYST48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aura spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Awaken spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Back story">
+    <PageReference>MYST100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Background check">
+    <PageReference>MYST101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ball-of-twine plots">
+    <PageReference>MYST14</PageReference>
+    <PageReference>MYST67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beast-Soother spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Binoculars (TL5+)">
+    <PageReference>MYST113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blackmail">
+    <PageReference>MYST43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blessed advantage">
+    <PageReference>MYST107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood spatters">
+    <PageReference>MYST38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood stains">
+    <PageReference>MYST31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bodies">
+    <Child ReferenceText="disposal of">
+      <PageReference>MYST34</PageReference>
+      <PageReference>MYST77</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Body Armor">
+    <PageReference>MYST113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body language">
+    <PageReference>MYST56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Air spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body">
+    <Child ReferenceText="identifying">
+      <PageReference>MYST37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Body-Reading spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brawling skill">
+    <PageReference>MYST110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bullets">
+    <PageReference>MYST38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bureaucrats">
+    <Child ReferenceText="dealing with">
+      <PageReference>MYST52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Burglary">
+    <PageReference>MYST41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burns">
+    <PageReference>MYST35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cameras (TL5+)">
+    <PageReference>MYST113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <PageReference>MYST13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Casings">
+    <PageReference>MYST38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cause of death">
+    <PageReference>MYST32</PageReference>
+    <PageReference>MYST33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Character involvement">
+    <PageReference>MYST19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chase scene">
+    <PageReference>MYST25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claim to Hospitality advantage">
+    <PageReference>MYST107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clean spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleansing spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerics">
+    <PageReference>MYST83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Closure">
+    <PageReference>MYST96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor (Gentleman P">
+    <Child ReferenceText="I" />
+    <Child ReferenceText=") disadvantage">
+      <PageReference>MYST109</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor (Police) disadvantage">
+    <PageReference>MYST109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor (Private Investigator) disadvantage">
+    <PageReference>MYST109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compel Truth spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer Hacking/TL skill">
+    <PageReference>MYST110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer Operation/TLskill">
+    <PageReference>MYST110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conceal Magic">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Confession">
+    <PageReference>MYST62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Confrontation">
+    <PageReference>MYST27</PageReference>
+    <PageReference>MYST62</PageReference>
+    <PageReference>MYST71</PageReference>
+    <PageReference>MYST78</PageReference>
+    <PageReference>MYST99</PageReference>
+    <Child ReferenceText="magical">
+      <PageReference>MYST86</PageReference>
+    </Child>
+    <Child ReferenceText="monsters">
+      <PageReference>MYST95</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts advantage">
+    <PageReference>MYST107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cop">
+    <PageReference>MYST12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cozy">
+    <PageReference>MYST9</PageReference>
+    <Child ReferenceText="format">
+      <PageReference>MYST22</PageReference>
+    </Child>
+    <Child ReferenceText="plotting">
+      <PageReference>MYST21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Create Warrior">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crime scene">
+    <PageReference>MYST31</PageReference>
+    <Child ReferenceText="equipment">
+      <PageReference>MYST114</PageReference>
+    </Child>
+    <Child ReferenceText="fantasy">
+      <PageReference>MYST83</PageReference>
+    </Child>
+    <Child ReferenceText="horror">
+      <PageReference>MYST93</PageReference>
+    </Child>
+    <Child ReferenceText="low-tech">
+      <PageReference>MYST59</PageReference>
+    </Child>
+    <Child ReferenceText="modern">
+      <PageReference>MYST68</PageReference>
+    </Child>
+    <Child ReferenceText="science fiction">
+      <PageReference>MYST75</PageReference>
+    </Child>
+    <Child ReferenceText="psionic">
+      <PageReference>MYST98</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crimes">
+    <Child ReferenceText="real-life">
+      <PageReference>MYST5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminal spells">
+    <PageReference>MYST90-92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminals">
+    <PageReference>MYST31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminology/TL skill">
+    <PageReference>MYST110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curtain-raiser scene">
+    <PageReference>MYST20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dana Detective Division">
+    <PageReference>MYST96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Daze spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dealing with bureaucrats">
+    <PageReference>MYST52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death">
+    <PageReference>MYST32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Debt disadvantage">
+    <PageReference>MYST109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defense Attorney template">
+    <PageReference>MYST101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defensive sprays">
+    <PageReference>MYST114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Design principles">
+    <PageReference>MYST7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Details">
+    <PageReference>MYST30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect Lies skill">
+    <PageReference>MYST111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect Magic spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect Poison spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detecting lies">
+    <PageReference>MYST55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detective">
+    <Child ReferenceText="untraditional">
+      <PageReference>MYST102</PageReference>
+    </Child>
+    <Child ReferenceText="modern">
+      <PageReference>MYST66</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Devitalize Air">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>MYST16</PageReference>
+    <PageReference>MYST108-110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disposal of bodies">
+    <PageReference>MYST34</PageReference>
+    <PageReference>MYST77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divination spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="DNA">
+    <PageReference>MYST39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Documents">
+    <PageReference>MYST40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Double whammy">
+    <PageReference>MYST27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dramatic forensics, vs">
+    <Child ReferenceText="realistic">
+      <PageReference>MYST33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drawing-room speeches">
+    <PageReference>MYST28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duty (Ethics) disadvantage">
+    <PageReference>MYST109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth Vision spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eccentric genius">
+    <PageReference>MYST12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Echoes of the Past spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electrocution">
+    <PageReference>MYST35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronics Operation/TL skill">
+    <PageReference>MYST111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemies disadvantage">
+    <PageReference>MYST109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <PageReference>MYST113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evidence">
+    <PageReference>MYST31</PageReference>
+    <PageReference>MYST69</PageReference>
+    <PageReference>MYST95</PageReference>
+    <Child ReferenceText="magical trace">
+      <PageReference>MYST84</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Expanded influence and reaction rules">
+    <PageReference>MYST53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expert">
+    <PageReference>MYST94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exposition">
+    <PageReference>MYST76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="False Aura spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="False Memory spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="False Tracks spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fantasy mysteries">
+    <PageReference>MYST82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faux horror">
+    <PageReference>MYST95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Favor advantage">
+    <PageReference>MYST107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fences">
+    <PageReference>MYST42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fight scene">
+    <PageReference>MYST25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fingerprints">
+    <PageReference>MYST31</PageReference>
+    <PageReference>MYST39</PageReference>
+    <PageReference>MYST60</PageReference>
+    <PageReference>MYST70</PageReference>
+    <PageReference>MYST95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire Marshal template">
+    <PageReference>MYST102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearms">
+    <PageReference>MYST115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flashlights">
+    <PageReference>MYST116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forensics">
+    <PageReference>MYST30</PageReference>
+    <PageReference>MYST68</PageReference>
+    <PageReference>MYST69</PageReference>
+    <PageReference>MYST71</PageReference>
+    <PageReference>MYST75</PageReference>
+    <PageReference>MYST85</PageReference>
+    <Child ReferenceText="game mechanics">
+      <PageReference>MYST40</PageReference>
+    </Child>
+    <Child ReferenceText="realistic vs" />
+    <Child ReferenceText="dramatic">
+      <PageReference>MYST33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Forensics/TL skill">
+    <PageReference>MYST111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forgetfulness spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Four-color mysteries">
+    <PageReference>MYST98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genius Detective template">
+    <PageReference>MYST103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Getting people to talk">
+    <PageReference>MYST50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gimmick Story">
+    <Child ReferenceText="The">
+      <PageReference>MYST11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gossip">
+    <PageReference>MYST62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ground rules">
+    <PageReference>MYST5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guild of Secrets">
+    <Child ReferenceText="The">
+      <PageReference>MYST88</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunpowder residue">
+    <PageReference>MYST39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns">
+    <PageReference>MYST115</PageReference>
+    <PageReference>MYST116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns/TL skill">
+    <PageReference>MYST111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hacking">
+    <PageReference>MYST53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Handcuffing technique">
+    <PageReference>MYST112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Handcuffs">
+    <PageReference>MYST116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Handwriting">
+    <PageReference>MYST40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard-Boiled Detective template">
+    <PageReference>MYST103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard-boiled">
+    <PageReference>MYST9</PageReference>
+    <Child ReferenceText="format">
+      <PageReference>MYST22</PageReference>
+    </Child>
+    <Child ReferenceText="plotting">
+      <PageReference>MYST22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heir advantage">
+    <PageReference>MYST108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hide Emotion spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hide Object spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hide Thoughts spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hide spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hiding clues">
+    <PageReference>MYST27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="History spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Homicide">
+    <Child ReferenceText="or Suicide">
+      <PageReference>MYST32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hook">
+    <PageReference>MYST19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horror mysteries">
+    <PageReference>MYST92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hush">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Identify Spell spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Identifying a body">
+    <PageReference>MYST37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion Disguise spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Images of the Past spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imitate Voice spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impression Blocker spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvised magic">
+    <PageReference>MYST83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvised scenes">
+    <PageReference>MYST25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="In at the deep end">
+    <PageReference>MYST20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="In the interrogation room">
+    <PageReference>MYST28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="In the lair at gunpoint">
+    <PageReference>MYST28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Indomitable advantage">
+    <PageReference>MYST108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinite Worlds">
+    <PageReference>MYST78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Influence rules">
+    <PageReference>MYST53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infodump">
+    <PageReference>MYST76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Information management">
+    <PageReference>MYST7</PageReference>
+    <PageReference>MYST8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inquisition">
+    <PageReference>MYST58</PageReference>
+    <PageReference>MYST64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insignificance spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inspiration">
+    <PageReference>MYST5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insurance investigator">
+    <PageReference>MYST41</PageReference>
+    <PageReference>MYST101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interrogation skill">
+    <PageReference>MYST111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interrogation">
+    <PageReference>MYST56</PageReference>
+    <PageReference>MYST65</PageReference>
+    <PageReference>MYST72</PageReference>
+    <PageReference>MYST86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interview scenes">
+    <PageReference>MYST26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intimidating a witness">
+    <PageReference>MYST52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intimidation scene">
+    <PageReference>MYST25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intolerance (Non-cops) disadvantage">
+    <PageReference>MYST109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Investigating Mage template">
+    <PageReference>MYST104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Investigation">
+    <PageReference>MYST69</PageReference>
+    <Child ReferenceText="low-tech">
+      <PageReference>MYST60</PageReference>
+    </Child>
+    <Child ReferenceText="scenes">
+      <PageReference>MYST24</PageReference>
+    </Child>
+    <Child ReferenceText="science fiction">
+      <PageReference>MYST76</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>MYST84</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Investigator spells">
+    <PageReference>MYST89</PageReference>
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Investigators">
+    <Child ReferenceText="fantasy">
+      <PageReference>MYST82</PageReference>
+    </Child>
+    <Child ReferenceText="horror">
+      <PageReference>MYST93</PageReference>
+    </Child>
+    <Child ReferenceText="low-tech">
+      <PageReference>MYST57</PageReference>
+    </Child>
+    <Child ReferenceText="modern">
+      <PageReference>MYST67</PageReference>
+    </Child>
+    <Child ReferenceText="science fiction">
+      <PageReference>MYST75</PageReference>
+    </Child>
+    <Child ReferenceText="psionic">
+      <PageReference>MYST98</PageReference>
+    </Child>
+    <Child ReferenceText="as monsters">
+      <PageReference>MYST94</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Invisibility spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jigsaw-puzzle mysteries">
+    <PageReference>MYST13</PageReference>
+    <PageReference>MYST27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Judge">
+    <PageReference>MYST73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jurisdiction">
+    <PageReference>MYST58</PageReference>
+    <PageReference>MYST67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jury">
+    <PageReference>MYST73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Keen (Sense) spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kidnapping">
+    <PageReference>MYST43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Know Recipe spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Latent evidence">
+    <PageReference>MYST31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Law skill">
+    <PageReference>MYST111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legal Enforcement Powers advantage">
+    <PageReference>MYST108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lie detectors">
+    <PageReference>MYST78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lies">
+    <Child ReferenceText="detecting">
+      <PageReference>MYST55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Liquid Projector skill">
+    <PageReference>MYST111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locked-room mysteries">
+    <PageReference>MYST11</PageReference>
+    <PageReference>MYST74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locksmith">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low-tech mysteries">
+    <PageReference>MYST57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mages">
+    <PageReference>MYST83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mages’ Guild">
+    <PageReference>MYST88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <PageReference>MYST82</PageReference>
+    <Child ReferenceText="improvised">
+      <PageReference>MYST83</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Manipulate">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manner of death">
+    <PageReference>MYST32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mapmaker spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mark of Cain">
+    <PageReference>MYST16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="McGuffin">
+    <PageReference>MYST11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Means">
+    <PageReference>MYST17</PageReference>
+    <PageReference>MYST32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Measurement spell">
+    <PageReference>MYST89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mechanism of death">
+    <PageReference>MYST32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical Examiner template">
+    <PageReference>MYST104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Memorize spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Memory">
+    <PageReference>MYST49</PageReference>
+    <PageReference>MYST50</PageReference>
+    <PageReference>MYST99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Block skill">
+    <PageReference>MYST111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind-Reading spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind-Search spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miranda warning">
+    <PageReference>MYST72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mixed format">
+    <PageReference>MYST15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mobility">
+    <PageReference>MYST70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mock trial">
+    <PageReference>MYST73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modern detective">
+    <PageReference>MYST66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters as investigators">
+    <PageReference>MYST94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Motivation">
+    <PageReference>MYST100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Motive">
+    <PageReference>MYST16</PageReference>
+    <PageReference>MYST32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mysteries">
+    <Child ReferenceText="and characters">
+      <PageReference>MYST11</PageReference>
+    </Child>
+    <Child ReferenceText="fantasy">
+      <PageReference>MYST82</PageReference>
+    </Child>
+    <Child ReferenceText="four-color">
+      <PageReference>MYST98</PageReference>
+    </Child>
+    <Child ReferenceText="horror">
+      <PageReference>MYST92</PageReference>
+    </Child>
+    <Child ReferenceText="low-tech">
+      <PageReference>MYST57</PageReference>
+    </Child>
+    <Child ReferenceText="modern">
+      <PageReference>MYST66</PageReference>
+    </Child>
+    <Child ReferenceText="paranormal">
+      <PageReference>MYST82</PageReference>
+    </Child>
+    <Child ReferenceText="psionic">
+      <PageReference>MYST97</PageReference>
+    </Child>
+    <Child ReferenceText="science fiction">
+      <PageReference>MYST74</PageReference>
+    </Child>
+    <Child ReferenceText="and other adventures">
+      <PageReference>MYST6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neutralize Poison">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No-Smell spell">
+    <PageReference>MYST91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oaths">
+    <PageReference>MYST57</PageReference>
+    <PageReference>MYST63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Observed, vs">
+    <SeeAlso>n</SeeAlso>
+    <SeeAlso>30</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Odor spell">
+    <PageReference>MYST92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Openly approaching a witness">
+    <PageReference>MYST51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Opportunity">
+    <PageReference>MYST17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ordeals">
+    <PageReference>MYST57</PageReference>
+    <PageReference>MYST63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paranormal mysteries">
+    <PageReference>MYST82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path of least resistance">
+    <PageReference>MYST8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perception">
+    <PageReference>MYST46-48</PageReference>
+    <PageReference>MYST99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Persuasion spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pinkerton Agency">
+    <PageReference>MYST73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pistols">
+    <PageReference>MYST115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poison Food spell">
+    <PageReference>MYST92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisoning">
+    <PageReference>MYST35</PageReference>
+    <PageReference>MYST36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Police Detective template">
+    <PageReference>MYST105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Police procedures">
+    <PageReference>MYST31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Police Rank advantage">
+    <PageReference>MYST108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Police">
+    <PageReference>MYST100</PageReference>
+    <PageReference>MYST54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Possession spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Preparation">
+    <PageReference>MYST5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Press">
+    <PageReference>MYST71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Privacy">
+    <PageReference>MYST77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Private eye">
+    <PageReference>MYST12</PageReference>
+    <PageReference>MYST66</PageReference>
+    <PageReference>MYST100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Private Psi template">
+    <PageReference>MYST106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Procedural">
+    <PageReference>MYST10</PageReference>
+    <Child ReferenceText="format">
+      <PageReference>MYST23</PageReference>
+      <PageReference>MYST22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Professional Skill (Firefighting)">
+    <PageReference>MYST112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Professional Skill (Law Enforcement)">
+    <PageReference>MYST112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Props">
+    <PageReference>MYST31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic investigators">
+    <PageReference>MYST98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic mysteries">
+    <PageReference>MYST97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychology skill">
+    <PageReference>MYST112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychoprobes">
+    <PageReference>MYST77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Public Speaking skill">
+    <PageReference>MYST112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Punishment">
+    <PageReference>MYST64</PageReference>
+    <PageReference>MYST73</PageReference>
+    <PageReference>MYST87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Puzzle Story">
+    <Child ReferenceText="The">
+      <PageReference>MYST11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Questioning methods">
+    <PageReference>MYST50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Questioning the dead">
+    <PageReference>MYST85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Race scene">
+    <PageReference>MYST25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Railroading">
+    <PageReference>MYST7</PageReference>
+    <PageReference>MYST8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction rules">
+    <PageReference>MYST53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realistic forensics, vs">
+    <Child ReferenceText="dramatic">
+      <PageReference>MYST33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Real-life crimes">
+    <PageReference>MYST5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recall spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recap">
+    <PageReference>MYST76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reconstruct Spell spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Red herrings">
+    <PageReference>MYST27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remove Aura spell">
+    <PageReference>MYST92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repair spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repel (Animal) spell">
+    <PageReference>MYST92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repetition">
+    <PageReference>MYST45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reputation (Pinkerton Agent) advantage">
+    <PageReference>MYST108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reputation advantage">
+    <PageReference>MYST108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reputation disadvantage">
+    <PageReference>MYST110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Research">
+    <PageReference>MYST94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resolution">
+    <PageReference>MYST29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restore Memory spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Revolvers">
+    <PageReference>MYST115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruin">
+    <PageReference>MYST92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rule of Seven">
+    <PageReference>MYST7</PageReference>
+    <PageReference>MYST18</PageReference>
+    <PageReference>MYST27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruses">
+    <PageReference>MYST52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sanctuary">
+    <PageReference>MYST92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scenes">
+    <PageReference>MYST24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scents of the Past spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Science fiction mysteries">
+    <PageReference>MYST74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scribe spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scryfool spell">
+    <PageReference>MYST92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scryguard spell">
+    <PageReference>MYST92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret disadvantage">
+    <PageReference>MYST110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense Emotion spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense Foes spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense Observation spell">
+    <PageReference>MYST92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense of Duty (Client) disadvantage">
+    <PageReference>MYST110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadowing skill">
+    <PageReference>MYST112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shortcut">
+    <PageReference>MYST15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shotguns">
+    <PageReference>MYST116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Simple Illusion spell">
+    <PageReference>MYST92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Single adventures">
+    <PageReference>MYST13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>MYST110-112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="and spells">
+      <PageReference>MYST86</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="social">
+      <PageReference>MYST56</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skip tracing">
+    <PageReference>MYST46</PageReference>
+    <PageReference>MYST101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slow buildup">
+    <PageReference>MYST20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smart tags">
+    <PageReference>MYST77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social skills">
+    <PageReference>MYST56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma disadvantage">
+    <PageReference>MYST110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soilproof spell">
+    <PageReference>MYST92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sounding guilty">
+    <PageReference>MYST45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sources">
+    <PageReference>MYST69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specialist template">
+    <PageReference>MYST106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specialist">
+    <PageReference>MYST13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spellguard spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <PageReference>MYST89-92</PageReference>
+    <PageReference>MYST86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Advisor advantage">
+    <PageReference>MYST112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sprays">
+    <Child ReferenceText="defensive">
+      <PageReference>MYST114</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stakeout">
+    <PageReference>MYST70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Status advantage">
+    <PageReference>MYST108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Status">
+    <PageReference>MYST58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stirring up trouble">
+    <PageReference>MYST26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suggestion">
+    <PageReference>MYST50</PageReference>
+    <PageReference>MYST92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suicide">
+    <Child ReferenceText="or Homicide">
+      <PageReference>MYST32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Summon Spirit spell">
+    <PageReference>MYST85</PageReference>
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superheroes">
+    <PageReference>MYST98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supporting cast">
+    <PageReference>MYST18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talent advantage">
+    <PageReference>MYST108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talking scenes">
+    <PageReference>MYST26</PageReference>
+    <PageReference>MYST45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tasers">
+    <PageReference>MYST114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tau Station Public Psi-Vestigators">
+    <PageReference>MYST99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <Child ReferenceText="101-107 That Darn Kid template">
+      <PageReference>MYST106</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrashing">
+    <PageReference>MYST7</PageReference>
+    <PageReference>MYST45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thriller">
+    <PageReference>MYST10</PageReference>
+    <Child ReferenceText="format">
+      <PageReference>MYST24</PageReference>
+    </Child>
+    <Child ReferenceText="plotting">
+      <PageReference>MYST23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Time of death">
+    <PageReference>MYST32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time travel">
+    <PageReference>MYST78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Timeline">
+    <PageReference>MYST79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Timeport spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toolmarks">
+    <PageReference>MYST40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Torture">
+    <PageReference>MYST62</PageReference>
+    <PageReference>MYST65</PageReference>
+    <PageReference>MYST87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trace evidence">
+    <PageReference>MYST31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trace spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trace Teleport spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trial">
+    <PageReference>MYST63</PageReference>
+    <PageReference>MYST71</PageReference>
+    <PageReference>MYST72</PageReference>
+    <PageReference>MYST87</PageReference>
+    <Child ReferenceText="by combat">
+      <PageReference>MYST63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trickery">
+    <PageReference>MYST52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Truth devices">
+    <PageReference>MYST77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Truthsayer spell">
+    <PageReference>MYST90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Twelve Notes on Murder, ” 8" />
+  <IndexReference ReferenceText="Twenty Rules for Writing Detective Stories">
+    <PageReference>MYST9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Typecasting">
+    <PageReference>MYST18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Undercover investigation">
+    <PageReference>MYST63</PageReference>
+    <PageReference>MYST74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal Coverage Insurers">
+    <PageReference>MYST79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Untraditional detective">
+    <PageReference>MYST102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Victim">
+    <PageReference>MYST18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Victorian thief-takers">
+    <PageReference>MYST65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vigilante">
+    <PageReference>MYST96</PageReference>
+    <PageReference>MYST99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Villain">
+    <PageReference>MYST16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Villain’s response">
+    <PageReference>MYST29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voices spell">
+    <PageReference>MYST92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walk Through Earth spell">
+    <PageReference>MYST92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth advantage">
+    <PageReference>MYST108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon tables">
+    <PageReference>MYST117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Witness">
+    <PageReference>MYST44</PageReference>
+    <PageReference>MYST46</PageReference>
+    <PageReference>MYST47-49</PageReference>
+    <PageReference>MYST52</PageReference>
+    <PageReference>MYST69</PageReference>
+    <PageReference>MYST95</PageReference>
+    <PageReference>MYST99</PageReference>
+    <Child ReferenceText="dealing with">
+      <PageReference>MYST52</PageReference>
+    </Child>
+    <Child ReferenceText="questioning">
+      <PageReference>MYST61</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Working with police">
+    <PageReference>MYST54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wounds">
+    <PageReference>MYST37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Writers’ advice">
+    <PageReference>MYST8</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

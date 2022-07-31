@@ -1,0 +1,994 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Acrobatic attack">
+    <PageReference>MH2:20</PageReference>
+    <PageReference>MH2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatics skill">
+    <Child ReferenceText="in combat">
+      <PageReference>MH2:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Acting skill">
+    <Child ReferenceText="playing dead">
+      <PageReference>MH2:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>ds</SeeAlso>
+    <SeeAlso>35-37</SeeAlso>
+    <SeeAlso>Campaigns</SeeAlso>
+    <Child ReferenceText="combat">
+      <PageReference>MH2:29-31</PageReference>
+    </Child>
+    <Child ReferenceText="discovery of The Enemy">
+      <PageReference>MH2:4</PageReference>
+    </Child>
+    <Child ReferenceText="fear in">
+      <PageReference>MH2:28-29</PageReference>
+    </Child>
+    <Child ReferenceText="formula">
+      <PageReference>MH2:4</PageReference>
+    </Child>
+    <Child ReferenceText="in media res">
+      <PageReference>MH2:17</PageReference>
+    </Child>
+    <Child ReferenceText="increasing scope">
+      <PageReference>MH2:34</PageReference>
+    </Child>
+    <Child ReferenceText="introduction">
+      <PageReference>MH2:4</PageReference>
+    </Child>
+    <Child ReferenceText="investigation">
+      <PageReference>MH2:5-11</PageReference>
+      <PageReference>MH2:31-32</PageReference>
+    </Child>
+    <Child ReferenceText="making everybody useful">
+      <PageReference>MH2:32</PageReference>
+    </Child>
+    <Child ReferenceText="roleplaying investigations">
+      <PageReference>MH2:10</PageReference>
+    </Child>
+    <Child ReferenceText="time constraints">
+      <PageReference>MH2:10</PageReference>
+      <PageReference>MH2:28</PageReference>
+    </Child>
+    <Child ReferenceText="unwelcome attention">
+      <PageReference>MH2:18</PageReference>
+      <PageReference>MH2:29</PageReference>
+      <PageReference>MH2:32</PageReference>
+    </Child>
+    <Child ReferenceText="atmosphere">
+      <PageReference>MH2:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambushes">
+    <Child ReferenceText="by monsters">
+      <PageReference>MH2:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Antidotes">
+    <PageReference>MH2:23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arm-twisting">
+    <PageReference>MH2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Authorities">
+    <Child ReferenceText="body disposal and">
+      <PageReference>MH2:18</PageReference>
+    </Child>
+    <Child ReferenceText="defining powerful">
+      <PageReference>MH2:34</PageReference>
+    </Child>
+    <Child ReferenceText="attracting attention of">
+      <PageReference>MH2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle plans">
+    <PageReference>MH2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Big bads">
+    <PageReference>MH2:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blade! wildcard skill">
+    <PageReference>MH2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blustering">
+    <PageReference>MH2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bonus points">
+    <Child ReferenceText="uses for">
+      <PageReference>MH2:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Books">
+    <Child ReferenceText="research with">
+      <PageReference>MH2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Breaking and entering">
+    <PageReference>MH2:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bribery">
+    <PageReference>MH2:8</PageReference>
+    <PageReference>MH2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camouflage skill">
+    <PageReference>MH2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <SeeAlso>Adventures</SeeAlso>
+    <Child ReferenceText="defining monsters">
+      <PageReference>MH2:33</PageReference>
+    </Child>
+    <Child ReferenceText="establishing the setting">
+      <PageReference>MH2:33</PageReference>
+    </Child>
+    <Child ReferenceText="mundane organizations in">
+      <PageReference>MH2:34</PageReference>
+    </Child>
+    <Child ReferenceText="player guidance">
+      <PageReference>MH2:27</PageReference>
+    </Child>
+    <Child ReferenceText="plot diagrams">
+      <PageReference>MH2:35</PageReference>
+    </Child>
+    <Child ReferenceText="sample">
+      <PageReference>MH2:35-37</PageReference>
+    </Child>
+    <Child ReferenceText="sample locations">
+      <PageReference>MH2:35-37</PageReference>
+    </Child>
+    <Child ReferenceText="sample organizations">
+      <PageReference>MH2:35-37</PageReference>
+    </Child>
+    <Child ReferenceText="secrets">
+      <PageReference>MH2:33</PageReference>
+    </Child>
+    <Child ReferenceText="supernatural organizations in">
+      <PageReference>MH2:34</PageReference>
+    </Child>
+    <Child ReferenceText="big bads">
+      <PageReference>MH2:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Champions">
+    <SeeAlso>Monster Hunters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Character points">
+    <Child ReferenceText="other uses for">
+      <PageReference>MH2:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <SeeAlso>Monster Hunters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Chasing">
+    <PageReference>MH2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clues">
+    <Child ReferenceText="defined">
+      <PageReference>MH2:5-6</PageReference>
+    </Child>
+    <Child ReferenceText="finding">
+      <PageReference>MH2:6-9</PageReference>
+    </Child>
+    <Child ReferenceText="using in deductions">
+      <PageReference>MH2:9-11</PageReference>
+    </Child>
+    <Child ReferenceText="adventure tips">
+      <PageReference>MH2:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <PageReference>MH2:17</PageReference>
+    <PageReference>MH2:19-22</PageReference>
+    <Child ReferenceText="acrobatic">
+      <PageReference>MH2:20</PageReference>
+    </Child>
+    <Child ReferenceText="aftermath">
+      <PageReference>MH2:17-18</PageReference>
+    </Child>
+    <Child ReferenceText="description bonus">
+      <PageReference>MH2:19</PageReference>
+    </Child>
+    <Child ReferenceText="environment">
+      <PageReference>MH2:30-31</PageReference>
+    </Child>
+    <Child ReferenceText="healing during">
+      <PageReference>MH2:17</PageReference>
+    </Child>
+    <Child ReferenceText="jumping in">
+      <PageReference>MH2:20</PageReference>
+    </Child>
+    <Child ReferenceText="losing">
+      <PageReference>MH2:31</PageReference>
+    </Child>
+    <Child ReferenceText="optional rules used">
+      <PageReference>MH2:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="simplified">
+      <PageReference>MH2:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="situational awareness">
+      <PageReference>MH2:21-22</PageReference>
+    </Child>
+    <Child ReferenceText="starting in middle of">
+      <PageReference>MH2:17</PageReference>
+    </Child>
+    <Child ReferenceText="surprise in">
+      <PageReference>MH2:22</PageReference>
+    </Child>
+    <Child ReferenceText="tips for smart">
+      <PageReference>MH2:21-22</PageReference>
+    </Child>
+    <Child ReferenceText="warrior attacks">
+      <PageReference>MH2:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Commandos">
+    <Child ReferenceText="Gizmos and">
+      <PageReference>MH2:25</PageReference>
+    </Child>
+    <Child ReferenceText="challenging">
+      <PageReference>MH2:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Communication">
+    <Child ReferenceText="silent">
+      <PageReference>MH2:14</PageReference>
+    </Child>
+    <Child ReferenceText="problems with">
+      <PageReference>MH2:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <Child ReferenceText="research with">
+      <PageReference>MH2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Confrontation">
+    <Child ReferenceText="verbal">
+      <PageReference>MH2:14-16</PageReference>
+    </Child>
+    <Child ReferenceText="physical">
+      <PageReference>MH2:16-17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Conspiracies">
+    <PageReference>MH2:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts advantage">
+    <PageReference>MH2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crime scenes">
+    <PageReference>MH2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crusaders">
+    <Child ReferenceText="getting clues">
+      <PageReference>MH2:7</PageReference>
+      <PageReference>MH2:8</PageReference>
+    </Child>
+    <Child ReferenceText="plagues and">
+      <PageReference>MH2:24</PageReference>
+    </Child>
+    <Child ReferenceText="challenging">
+      <PageReference>MH2:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Current Affairs skill">
+    <PageReference>MH2:7-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curses">
+    <PageReference>MH2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Darkness">
+    <PageReference>MH2:30-31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death">
+    <PageReference>MH2:17</PageReference>
+    <Child ReferenceText="feigning">
+      <PageReference>MH2:22</PageReference>
+    </Child>
+    <Child ReferenceText="of monsters">
+      <PageReference>MH2:18</PageReference>
+    </Child>
+    <Child ReferenceText="recovery from">
+      <PageReference>MH2:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Deduction rolls">
+    <PageReference>MH2:5</PageReference>
+    <PageReference>MH2:9-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demolitions">
+    <PageReference>MH2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Destiny points">
+    <Child ReferenceText="uses for">
+      <PageReference>MH2:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Detective! wildcard skill">
+    <PageReference>MH2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dismemberment">
+    <PageReference>MH2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duty disadvantage">
+    <PageReference>MH2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ectocognitive wave detectors (EWDs)">
+    <PageReference>MH2:25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemy, The">
+    <SeeAlso>Monsters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="for detecting phenomena">
+      <PageReference>MH2:25-26</PageReference>
+    </Child>
+    <Child ReferenceText="from monsters">
+      <PageReference>MH2:18</PageReference>
+    </Child>
+    <Child ReferenceText="making new">
+      <PageReference>MH2:24-25</PageReference>
+    </Child>
+    <Child ReferenceText="problems with">
+      <PageReference>MH2:32</PageReference>
+    </Child>
+    <Child ReferenceText="stocking up">
+      <PageReference>MH2:11</PageReference>
+    </Child>
+    <Child ReferenceText="caught without">
+      <PageReference>MH2:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Experiment characters">
+    <SeeAlso>Monsters</SeeAlso>
+    <Child ReferenceText="challenging">
+      <PageReference>MH2:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosives skill">
+    <PageReference>MH2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Extermination for Sale” campaign">
+    <PageReference>MH2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Talk skill">
+    <PageReference>MH2:8</PageReference>
+    <PageReference>MH2:15</PageReference>
+    <PageReference>MH2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue Points">
+    <Child ReferenceText="uses for">
+      <PageReference>MH2:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fear">
+    <Child ReferenceText="adding">
+      <PageReference>MH2:28-29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Feverish Defense">
+    <PageReference>MH2:19</PageReference>
+    <PageReference>MH2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fighting">
+    <SeeAlso>Combat</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="First aid">
+    <PageReference>MH2:17</PageReference>
+    <SeeAlso>Death</SeeAlso>
+    <SeeAlso>Injuries</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Flurry of Blow">
+    <PageReference>MH2:19</PageReference>
+    <PageReference>MH2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying attack">
+    <PageReference>MH2:20</PageReference>
+    <PageReference>MH2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Following">
+    <PageReference>MH2:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forced Entry skill">
+    <PageReference>MH2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fright Checks">
+    <PageReference>MH2:28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteering">
+    <PageReference>MH2:24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghosts">
+    <Child ReferenceText="detecting">
+      <PageReference>MH2:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gizmos advantage">
+    <PageReference>MH2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grimoire sales">
+    <Child ReferenceText="researching">
+      <PageReference>MH2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Guards">
+    <Child ReferenceText="overcoming">
+      <PageReference>MH2:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun! wildcard skill">
+    <PageReference>MH2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunplay">
+    <Child ReferenceText="simplified">
+      <PageReference>MH2:20-21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns">
+    <Child ReferenceText="as melee weapons">
+      <PageReference>MH2:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>MH2:20</PageReference>
+    <PageReference>MH2:31</PageReference>
+    <Child ReferenceText="Action 2: Exploits">
+      <PageReference>MH2:3</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>MH2:19</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>MH2:3</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>MH2:3</PageReference>
+    </Child>
+    <Child ReferenceText="Monsters Hunters 1: Champions">
+      <PageReference>MH2:3</PageReference>
+      <PageReference>MH2:5</PageReference>
+      <PageReference>MH2:7-9</PageReference>
+      <PageReference>MH2:13</PageReference>
+      <PageReference>MH2:14</PageReference>
+      <PageReference>MH2:16-20</PageReference>
+      <PageReference>MH2:23-27</PageReference>
+      <PageReference>MH2:31</PageReference>
+      <PageReference>MH2:32</PageReference>
+      <PageReference>MH2:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing">
+    <SeeAlso>Death</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy ground">
+    <PageReference>MH2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Information sources">
+    <PageReference>MH2:6-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inhuman PCs">
+    <SeeAlso>Monsters</SeeAlso>
+    <Child ReferenceText="challenging">
+      <PageReference>MH2:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Injuries">
+    <PageReference>MH2:17-18</PageReference>
+    <Child ReferenceText="crippling">
+      <PageReference>MH2:17</PageReference>
+    </Child>
+    <Child ReferenceText="miraculous recovery">
+      <PageReference>MH2:20</PageReference>
+      <PageReference>MH2:27</PageReference>
+    </Child>
+    <Child ReferenceText="recovery">
+      <PageReference>MH2:18</PageReference>
+      <PageReference>MH2:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Interactions">
+    <Child ReferenceText="social modifiers">
+      <PageReference>MH2:15</PageReference>
+    </Child>
+    <Child ReferenceText="social">
+      <PageReference>MH2:8-9</PageReference>
+      <PageReference>MH2:15-16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Interrogation skill">
+    <PageReference>MH2:8</PageReference>
+    <PageReference>MH2:9</PageReference>
+    <PageReference>MH2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interviews">
+    <PageReference>MH2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intimidation skill">
+    <PageReference>MH2:9</PageReference>
+    <PageReference>MH2:14</PageReference>
+    <PageReference>MH2:15</PageReference>
+    <PageReference>MH2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invention">
+    <PageReference>MH2:24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inventor! wildcard skill">
+    <PageReference>MH2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumping">
+    <Child ReferenceText="in combat">
+      <PageReference>MH2:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kirlian film">
+    <PageReference>MH2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lairs">
+    <Child ReferenceText="entering">
+      <PageReference>MH2:12-13</PageReference>
+    </Child>
+    <Child ReferenceText="finding">
+      <PageReference>MH2:10-12</PageReference>
+    </Child>
+    <Child ReferenceText="looting">
+      <PageReference>MH2:18</PageReference>
+    </Child>
+    <Child ReferenceText="moving through">
+      <PageReference>MH2:14</PageReference>
+    </Child>
+    <Child ReferenceText="overcoming sentries">
+      <PageReference>MH2:14</PageReference>
+    </Child>
+    <Child ReferenceText="approaching">
+      <PageReference>MH2:13-14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Leadership skill">
+    <PageReference>MH2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light">
+    <PageReference>MH2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Local Guardians” campaign">
+    <PageReference>MH2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lockpicking skill">
+    <PageReference>MH2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loot">
+    <PageReference>MH2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lore! wildcard skill">
+    <PageReference>MH2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <SeeAlso>king clues with</SeeAlso>
+    <SeeAlso>7</SeeAlso>
+    <SeeAlso>32</SeeAlso>
+    <Child ReferenceText="using abilities">
+      <PageReference>MH2:31</PageReference>
+    </Child>
+    <Child ReferenceText="places">
+      <PageReference>MH2:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Manipulation">
+    <Child ReferenceText="people">
+      <PageReference>MH2:8-9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Medic! wildcard skill">
+    <PageReference>MH2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mighty Blows">
+    <PageReference>MH2:19</PageReference>
+    <PageReference>MH2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military">
+    <SeeAlso>Authorities</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mob panic">
+    <PageReference>MH2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monster hunters">
+    <SeeAlso>specific types of monster hunters</SeeAlso>
+    <Child ReferenceText="challenging specific">
+      <PageReference>MH2:32</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>MH2:3</PageReference>
+    </Child>
+    <Child ReferenceText="skill-description bonus">
+      <PageReference>MH2:19</PageReference>
+    </Child>
+    <Child ReferenceText="team formation">
+      <PageReference>MH2:13</PageReference>
+    </Child>
+    <Child ReferenceText="using points">
+      <PageReference>MH2:27</PageReference>
+    </Child>
+    <Child ReferenceText="ambushing">
+      <PageReference>MH2:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <SeeAlso>Lairs</SeeAlso>
+    <Child ReferenceText="becoming">
+      <PageReference>MH2:18</PageReference>
+    </Child>
+    <Child ReferenceText="big bads">
+      <PageReference>MH2:34</PageReference>
+    </Child>
+    <Child ReferenceText="boss">
+      <PageReference>MH2:30</PageReference>
+    </Child>
+    <Child ReferenceText="choosing">
+      <PageReference>MH2:29-30</PageReference>
+    </Child>
+    <Child ReferenceText="defining">
+      <PageReference>MH2:33</PageReference>
+    </Child>
+    <Child ReferenceText="disposing of the bodies">
+      <PageReference>MH2:18</PageReference>
+    </Child>
+    <Child ReferenceText="exploiting weaknesses">
+      <PageReference>MH2:16-17</PageReference>
+    </Child>
+    <Child ReferenceText="extracting information from">
+      <PageReference>MH2:16</PageReference>
+    </Child>
+    <Child ReferenceText="fodder">
+      <PageReference>MH2:30</PageReference>
+    </Child>
+    <Child ReferenceText="foiling plans">
+      <PageReference>MH2:16</PageReference>
+    </Child>
+    <Child ReferenceText="gaining trust of">
+      <PageReference>MH2:16</PageReference>
+    </Child>
+    <Child ReferenceText="goals">
+      <PageReference>MH2:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="identity clues">
+      <PageReference>MH2:10</PageReference>
+    </Child>
+    <Child ReferenceText="in campaigns">
+      <PageReference>MH2:33</PageReference>
+    </Child>
+    <Child ReferenceText="keeping dead">
+      <PageReference>MH2:18</PageReference>
+    </Child>
+    <Child ReferenceText="looting">
+      <PageReference>MH2:18</PageReference>
+    </Child>
+    <Child ReferenceText="motivations">
+      <PageReference>MH2:10</PageReference>
+      <PageReference>MH2:34</PageReference>
+    </Child>
+    <Child ReferenceText="motivations">
+      <PageReference>MH2:10</PageReference>
+    </Child>
+    <Child ReferenceText="organizations">
+      <PageReference>MH2:33-34</PageReference>
+    </Child>
+    <Child ReferenceText="timeline of plans">
+      <PageReference>MH2:10</PageReference>
+    </Child>
+    <Child ReferenceText="tips for dealing with">
+      <PageReference>MH2:15</PageReference>
+    </Child>
+    <Child ReferenceText="underworlds">
+      <PageReference>MH2:9</PageReference>
+      <PageReference>MH2:33</PageReference>
+    </Child>
+    <Child ReferenceText="worthy">
+      <PageReference>MH2:30</PageReference>
+    </Child>
+    <Child ReferenceText="attracting attention of">
+      <PageReference>MH2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Negotiation">
+    <PageReference>MH2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neighbors">
+    <Child ReferenceText="attracting attention of">
+      <PageReference>MH2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Noise">
+    <Child ReferenceText="excessive">
+      <PageReference>MH2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Occultism skill">
+    <PageReference>MH2:8</PageReference>
+    <PageReference>MH2:10</PageReference>
+    <PageReference>MH2:16</PageReference>
+    <PageReference>MH2:23</PageReference>
+    <PageReference>MH2:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parries">
+    <Child ReferenceText="unbalanced">
+      <PageReference>MH2:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Patron advantage">
+    <Child ReferenceText="influence">
+      <PageReference>MH2:26-27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Plagues">
+    <PageReference>MH2:23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Police">
+    <SeeAlso>Authorities</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Posturing">
+    <PageReference>MH2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi PCs">
+    <SeeAlso>Monsters</SeeAlso>
+    <Child ReferenceText="getting clues">
+      <PageReference>MH2:7</PageReference>
+      <PageReference>MH2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Gizmos and">
+      <PageReference>MH2:25</PageReference>
+    </Child>
+    <Child ReferenceText="plagues and">
+      <PageReference>MH2:24</PageReference>
+    </Child>
+    <Child ReferenceText="challenging">
+      <PageReference>MH2:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic phenomena">
+    <Child ReferenceText="detecting">
+      <PageReference>MH2:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pursuit">
+    <PageReference>MH2:11-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Gadgeteer advantage">
+    <PageReference>MH2:24</PageReference>
+    <PageReference>MH2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Range">
+    <Child ReferenceText="table">
+      <PageReference>MH2:21</PageReference>
+    </Child>
+    <Child ReferenceText="simplified">
+      <PageReference>MH2:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid fire">
+    <Child ReferenceText="simplified">
+      <PageReference>MH2:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Recovery">
+    <PageReference>MH2:22</PageReference>
+    <PageReference>MH2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction rolls">
+    <PageReference>MH2:15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Records">
+    <Child ReferenceText="research with">
+      <PageReference>MH2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Research">
+    <PageReference>MH2:6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Research Grant” campaign">
+    <PageReference>MH2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Road Trip” campaign">
+    <PageReference>MH2:36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rogues">
+    <SeeAlso>Monsters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacred places">
+    <PageReference>MH2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sages">
+    <Child ReferenceText="grimoires and">
+      <PageReference>MH2:7</PageReference>
+    </Child>
+    <Child ReferenceText="magic and">
+      <PageReference>MH2:31</PageReference>
+    </Child>
+    <Child ReferenceText="challenging">
+      <PageReference>MH2:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Science! wildcard skill">
+    <PageReference>MH2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sentries">
+    <Child ReferenceText="overcoming">
+      <PageReference>MH2:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="“Shadow Wars” campaign">
+    <PageReference>MH2:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadowing skill">
+    <PageReference>MH2:11</PageReference>
+    <Child ReferenceText="failed">
+      <PageReference>MH2:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="description bonus">
+      <PageReference>MH2:19</PageReference>
+    </Child>
+    <Child ReferenceText="buying successes">
+      <PageReference>MH2:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleuths">
+    <Child ReferenceText="challenging">
+      <PageReference>MH2:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sneaking">
+    <PageReference>MH2:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social engineering">
+    <PageReference>MH2:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spinning attack">
+    <PageReference>MH2:20</PageReference>
+    <PageReference>MH2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stealth skill">
+    <PageReference>MH2:11-14</PageReference>
+    <PageReference>MH2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Streetwise skill">
+    <PageReference>MH2:8</PageReference>
+    <PageReference>MH2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Strike Team” campaign">
+    <PageReference>MH2:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural">
+    <Child ReferenceText="detecting phenomena">
+      <PageReference>MH2:25-26</PageReference>
+    </Child>
+    <Child ReferenceText="insight">
+      <PageReference>MH2:7</PageReference>
+    </Child>
+    <Child ReferenceText="snooping">
+      <PageReference>MH2:32</PageReference>
+    </Child>
+    <Child ReferenceText="afflictions">
+      <PageReference>MH2:17-18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Suppressants">
+    <PageReference>MH2:23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables, bars, wedges, grates, and portcullises">
+    <PageReference>MH2:13</PageReference>
+    <Child ReferenceText="doors and attached hardware">
+      <PageReference>MH2:13</PageReference>
+    </Child>
+    <Child ReferenceText="gadgeteering">
+      <PageReference>MH2:24</PageReference>
+    </Child>
+    <Child ReferenceText="range band">
+      <PageReference>MH2:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talker! wildcard skill">
+    <PageReference>MH2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taunting">
+    <PageReference>MH2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Techies">
+    <Child ReferenceText="inventions by">
+      <PageReference>MH2:24-25</PageReference>
+    </Child>
+    <Child ReferenceText="plagues and">
+      <PageReference>MH2:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="challenging">
+      <PageReference>MH2:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ten-Hut! wildcard skill">
+    <PageReference>MH2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Threats">
+    <Child ReferenceText="to gain information">
+      <PageReference>MH2:15-16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracking skill">
+    <PageReference>MH2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treasure">
+    <PageReference>MH2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Underworlds">
+    <Child ReferenceText="monster">
+      <PageReference>MH2:9</PageReference>
+      <PageReference>MH2:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vaccines">
+    <PageReference>MH2:23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Villains">
+    <SeeAlso>Monsters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Warriors">
+    <Child ReferenceText="challenging">
+      <PageReference>MH2:32</PageReference>
+    </Child>
+    <Child ReferenceText="special attacks">
+      <PageReference>MH2:20</PageReference>
+    </Child>
+    <Child ReferenceText="attacks">
+      <PageReference>MH2:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <Child ReferenceText="improvised">
+      <PageReference>MH2:21</PageReference>
+    </Child>
+    <Child ReferenceText="simplified gunplay">
+      <PageReference>MH2:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="concealed">
+      <PageReference>MH2:13</PageReference>
+      <PageReference>MH2:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weird Science skill">
+    <PageReference>MH2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“What” clues">
+    <PageReference>MH2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“When” clues">
+    <PageReference>MH2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Where” clues">
+    <PageReference>MH2:10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Who” clues">
+    <PageReference>MH2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Why” clues">
+    <PageReference>MH2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard skills">
+    <PageReference>MH2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Witch PCs">
+    <SeeAlso>Monsters</SeeAlso>
+    <Child ReferenceText="grimoires and">
+      <PageReference>MH2:7</PageReference>
+    </Child>
+    <Child ReferenceText="magic and">
+      <PageReference>MH2:31</PageReference>
+    </Child>
+    <Child ReferenceText="challenging">
+      <PageReference>MH2:32</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

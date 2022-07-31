@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Absurd rapiers">
+    <PageReference>FT2:9</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>FT2:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbed weapon modifier">
+    <PageReference>FT2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Broadsword skill">
+    <Child ReferenceText="weapon table">
+      <PageReference>FT2:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaign feel of weapons">
+    <PageReference>FT2:3</PageReference>
+    <PageReference>FT2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost factor (CF)">
+    <PageReference>FT2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diabolical whips">
+    <PageReference>FT2:12-13</PageReference>
+    <Child ReferenceText="enchanted">
+      <PageReference>FT2:13</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>FT2:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Double-Ended Attack Technique">
+    <PageReference>FT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Double-Ended Weapon Training perk">
+    <PageReference>FT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Double-ended weapons">
+    <PageReference>FT2:5</PageReference>
+    <Child ReferenceText="creating other types">
+      <PageReference>FT2:6</PageReference>
+    </Child>
+    <Child ReferenceText="enchanted">
+      <PageReference>FT2:6</PageReference>
+    </Child>
+    <Child ReferenceText="fighting with">
+      <PageReference>FT2:6</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>FT2:6-7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elixirs">
+    <Child ReferenceText="serpent’s fangs and">
+      <PageReference>FT2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchanted weapons">
+    <PageReference>FT2:5</PageReference>
+    <PageReference>FT2:6</PageReference>
+    <PageReference>FT2:8</PageReference>
+    <PageReference>FT2:10-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Full-metal weapons">
+    <PageReference>FT2:4-5</PageReference>
+    <Child ReferenceText="enchanted">
+      <PageReference>FT2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant Sword perk">
+    <PageReference>FT2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant swords">
+    <PageReference>FT2:8-9</PageReference>
+    <Child ReferenceText="creating other types">
+      <PageReference>FT2:8</PageReference>
+    </Child>
+    <Child ReferenceText="enchanted">
+      <PageReference>FT2:8</PageReference>
+    </Child>
+    <Child ReferenceText="lighter">
+      <PageReference>FT2:8</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>FT2:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>FT2:4</PageReference>
+    <PageReference>FT2:9</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>FT2:4</PageReference>
+      <PageReference>FT2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>FT2:3</PageReference>
+      <PageReference>FT2:4</PageReference>
+      <PageReference>FT2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 8: Treasure Tables">
+      <PageReference>FT2:3</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Denizens: Swashbucklers">
+      <PageReference>FT2:3</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech">
+      <PageReference>FT2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 2: Weapons and Warriors">
+      <PageReference>FT2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>FT2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Metal">
+    <Child ReferenceText="types for weapons">
+      <PageReference>FT2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-blades">
+    <PageReference>FT2:10-11</PageReference>
+    <Child ReferenceText="creating other types">
+      <PageReference>FT2:11</PageReference>
+    </Child>
+    <Child ReferenceText="enchanted">
+      <PageReference>FT2:11</PageReference>
+    </Child>
+    <Child ReferenceText="poisoned">
+      <PageReference>FT2:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-Headed Weapon Training perk">
+    <PageReference>FT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <Child ReferenceText="new">
+      <PageReference>FT2:6</PageReference>
+      <PageReference>FT2:8</PageReference>
+      <PageReference>FT2:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisoned weapons">
+    <PageReference>FT2:10</PageReference>
+    <PageReference>FT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Polearm skill">
+    <Child ReferenceText="weapon table">
+      <PageReference>FT2:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid #3/61: Way of the Warrior">
+    <PageReference>FT2:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quicksilver weapon modifier">
+    <PageReference>FT2:12</PageReference>
+    <Child ReferenceText="enchanted">
+      <PageReference>FT2:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Realism of weapons">
+    <PageReference>FT2:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serpent’s fang weapon modifier">
+    <PageReference>FT2:10</PageReference>
+    <Child ReferenceText="elixirs and">
+      <PageReference>FT2:10</PageReference>
+    </Child>
+    <Child ReferenceText="enchanted">
+      <PageReference>FT2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Silver weapon modifier">
+    <PageReference>FT2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spear skill">
+    <Child ReferenceText="weapon table">
+      <PageReference>FT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <SeeAlso>Enchanted Weapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Staff skill">
+    <Child ReferenceText="weapon table">
+      <PageReference>FT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Swords">
+    <SeeAlso>specific types</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech level (TL)">
+    <Child ReferenceText="notes about">
+      <PageReference>FT2:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Technique">
+    <Child ReferenceText="new">
+      <PageReference>FT2:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-Handed Axe/Mace skill">
+    <Child ReferenceText="weapon table">
+      <PageReference>FT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-Handed Flail skill">
+    <Child ReferenceText="weapon table">
+      <PageReference>FT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-Handed Sword skill">
+    <Child ReferenceText="weapon table">
+      <PageReference>FT2:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon modifiers">
+    <Child ReferenceText="quicksilver">
+      <PageReference>FT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="serpent’s fang">
+      <PageReference>FT2:10</PageReference>
+    </Child>
+    <Child ReferenceText="silver">
+      <PageReference>FT2:5</PageReference>
+    </Child>
+    <Child ReferenceText="cost factor">
+      <PageReference>FT2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <SeeAlso>specific types</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Whip skill">
+    <Child ReferenceText="weapon table">
+      <PageReference>FT2:13</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

@@ -1,0 +1,1144 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="0-point races">
+    <PageReference>DF3:10</PageReference>
+    <PageReference>DF3:14</PageReference>
+    <Child ReferenceText="goblin">
+      <PageReference>DF3:10</PageReference>
+    </Child>
+    <Child ReferenceText="halfling">
+      <PageReference>DF3:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="15-point races">
+    <PageReference>DF3:11</PageReference>
+    <PageReference>DF3:16</PageReference>
+    <Child ReferenceText="hobgoblin">
+      <PageReference>DF3:11</PageReference>
+    </Child>
+    <Child ReferenceText="orc">
+      <PageReference>DF3:11</PageReference>
+    </Child>
+    <Child ReferenceText="wildman">
+      <PageReference>DF3:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="20-point races">
+    <PageReference>DF3:5-10</PageReference>
+    <PageReference>DF3:16</PageReference>
+    <Child ReferenceText="corpseeater">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="dark one">
+      <PageReference>DF3:6</PageReference>
+    </Child>
+    <Child ReferenceText="dwarf">
+      <PageReference>DF3:6</PageReference>
+    </Child>
+    <Child ReferenceText="faun">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+    <Child ReferenceText="gnome">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="half-elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="half-orc">
+      <PageReference>DF3:10</PageReference>
+    </Child>
+    <Child ReferenceText="high elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="leprechaun">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="mountain elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="nymph">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="sea elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="shadow elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="troll">
+      <PageReference>DF3:16</PageReference>
+    </Child>
+    <Child ReferenceText="wood elf">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="25-point races">
+    <PageReference>DF3:7</PageReference>
+    <PageReference>DF3:9</PageReference>
+    <Child ReferenceText="gargoyle">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="pixie">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="winged elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="30-point races">
+    <PageReference>DF3:15</PageReference>
+    <Child ReferenceText="dragonblooded">
+      <PageReference>DF3:15</PageReference>
+    </Child>
+    <Child ReferenceText="lizard man">
+      <PageReference>DF3:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="40-point races">
+    <PageReference>DF3:5</PageReference>
+    <PageReference>DF3:14</PageReference>
+    <Child ReferenceText="cat-folk">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="minotaur">
+      <PageReference>DF3:14</PageReference>
+    </Child>
+    <Child ReferenceText="ogre">
+      <PageReference>DF3:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="75-point races">
+    <PageReference>DF3:5</PageReference>
+    <PageReference>DF3:12-13</PageReference>
+    <Child ReferenceText="airinfused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="celestial">
+      <PageReference>DF3:12</PageReference>
+    </Child>
+    <Child ReferenceText="coleopteran">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="earth-infused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="elder-spawn">
+      <PageReference>DF3:12</PageReference>
+    </Child>
+    <Child ReferenceText="fireinfused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="infernal">
+      <PageReference>DF3:12</PageReference>
+    </Child>
+    <Child ReferenceText="water-infused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>DF3:20</PageReference>
+    <PageReference>DF3:39-42</PageReference>
+    <Child ReferenceText="Bard-Song Talent">
+      <PageReference>DF3:20</PageReference>
+    </Child>
+    <Child ReferenceText="Bardic Magery">
+      <PageReference>DF3:20</PageReference>
+    </Child>
+    <Child ReferenceText="Energy Reserve">
+      <PageReference>DF3:39</PageReference>
+    </Child>
+    <Child ReferenceText="Mortal Foe">
+      <PageReference>DF3:40</PageReference>
+    </Child>
+    <Child ReferenceText="TwoWeapon Fighting">
+      <PageReference>DF3:41-42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Air-infused">
+    <PageReference>DF3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy">
+    <PageReference>DF3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance, Hideous">
+    <PageReference>DF3:5</PageReference>
+    <PageReference>DF3:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>DF3:8</PageReference>
+    <PageReference>DF3:14</PageReference>
+    <Child ReferenceText="ogre">
+      <PageReference>DF3:14</PageReference>
+    </Child>
+    <Child ReferenceText="tiny">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Backstabbing, ranged">
+    <PageReference>DF3:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banestorm">
+    <PageReference>DF3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbarian choice races">
+    <PageReference>DF3:5-6</PageReference>
+    <PageReference>DF3:8-12</PageReference>
+    <PageReference>DF3:14-16</PageReference>
+    <Child ReferenceText="corpse-eater">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="dragon-blooded">
+      <PageReference>DF3:15</PageReference>
+    </Child>
+    <Child ReferenceText="half-ogre">
+      <PageReference>DF3:15</PageReference>
+    </Child>
+    <Child ReferenceText="half-orc">
+      <PageReference>DF3:10</PageReference>
+    </Child>
+    <Child ReferenceText="coleopteran">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="dwarf">
+      <PageReference>DF3:6</PageReference>
+    </Child>
+    <Child ReferenceText="faun">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+    <Child ReferenceText="gargoyle">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="goblin">
+      <PageReference>DF3:10</PageReference>
+    </Child>
+    <Child ReferenceText="hobgoblin">
+      <PageReference>DF3:11</PageReference>
+    </Child>
+    <Child ReferenceText="infernal">
+      <PageReference>DF3:12</PageReference>
+    </Child>
+    <Child ReferenceText="lizard man">
+      <PageReference>DF3:15</PageReference>
+    </Child>
+    <Child ReferenceText="minotaur">
+      <PageReference>DF3:14</PageReference>
+    </Child>
+    <Child ReferenceText="ogre">
+      <PageReference>DF3:14</PageReference>
+    </Child>
+    <Child ReferenceText="orc">
+      <PageReference>DF3:11</PageReference>
+    </Child>
+    <Child ReferenceText="wildman">
+      <PageReference>DF3:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbarians">
+    <PageReference>DF3:19-20</PageReference>
+    <PageReference>DF3:38</PageReference>
+    <Child ReferenceText="lenses">
+      <PageReference>DF3:19-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bard choice races">
+    <PageReference>DF3:7-9</PageReference>
+    <Child ReferenceText="faun">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+    <Child ReferenceText="high elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="nymph">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bard-Song Talent">
+    <PageReference>DF3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bardic Magery">
+    <PageReference>DF3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bardic skills">
+    <PageReference>DF3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bards">
+    <PageReference>DF3:20-22</PageReference>
+    <PageReference>DF3:38</PageReference>
+    <Child ReferenceText="lenses">
+      <PageReference>DF3:20-22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Better Power Items">
+    <PageReference>DF3:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Born Biter">
+    <PageReference>DF3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brotherhood of Ghouls">
+    <PageReference>DF3:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Call of the Wild">
+    <PageReference>DF3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaign power level">
+    <PageReference>DF3:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cat-folk">
+    <PageReference>DF3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Celestial Nimbus">
+    <PageReference>DF3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Celestial">
+    <PageReference>DF3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Changing professions">
+    <PageReference>DF3:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi skills">
+    <PageReference>DF3:18</PageReference>
+    <PageReference>DF3:31</PageReference>
+    <Child ReferenceText="with weapons">
+      <PageReference>DF3:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Choice professions">
+    <PageReference>DF3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleric choice races">
+    <PageReference>DF3:6</PageReference>
+    <PageReference>DF3:9</PageReference>
+    <PageReference>DF3:12</PageReference>
+    <Child ReferenceText="elder-spawn">
+      <PageReference>DF3:12</PageReference>
+    </Child>
+    <Child ReferenceText="celestial">
+      <PageReference>DF3:12</PageReference>
+    </Child>
+    <Child ReferenceText="dark one">
+      <PageReference>DF3:6</PageReference>
+    </Child>
+    <Child ReferenceText="dwarf">
+      <PageReference>DF3:6</PageReference>
+    </Child>
+    <Child ReferenceText="gnome">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerics">
+    <PageReference>DF3:22-24</PageReference>
+    <PageReference>DF3:38</PageReference>
+    <Child ReferenceText="evil">
+      <PageReference>DF3:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="evil spells">
+      <PageReference>DF3:24</PageReference>
+    </Child>
+    <Child ReferenceText="lenses">
+      <PageReference>DF3:22-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Coleopteran">
+    <PageReference>DF3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corpse-eater">
+    <PageReference>DF3:5-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark One">
+    <PageReference>DF3:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine Gifts">
+    <PageReference>DF3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragon-blooded">
+    <PageReference>DF3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dread Touch">
+    <PageReference>DF3:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drench">
+    <PageReference>DF3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druid choice races">
+    <PageReference>DF3:6-9</PageReference>
+    <PageReference>DF3:13</PageReference>
+    <Child ReferenceText="earth-infused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="dark one">
+      <PageReference>DF3:6</PageReference>
+    </Child>
+    <Child ReferenceText="faun">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+    <Child ReferenceText="gnome">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="high elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Druids">
+    <PageReference>DF3:18</PageReference>
+    <PageReference>DF3:24-25</PageReference>
+    <PageReference>DF3:38</PageReference>
+    <Child ReferenceText="lenses">
+      <PageReference>DF3:24-25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarf">
+    <PageReference>DF3:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarven Gear">
+    <PageReference>DF3:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth-infused">
+    <PageReference>DF3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder Gift Talent">
+    <PageReference>DF3:6</PageReference>
+    <PageReference>DF3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder things">
+    <PageReference>DF3:6</PageReference>
+    <PageReference>DF3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder-spawn">
+    <PageReference>DF3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental races">
+    <PageReference>DF3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elven Gear">
+    <PageReference>DF3:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elves">
+    <PageReference>DF3:6-8</PageReference>
+    <Child ReferenceText="best-tasting">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy Reserve">
+    <PageReference>DF3:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Esoteric Medicine specialties">
+    <PageReference>DF3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evil">
+    <PageReference>DF3:23-24</PageReference>
+    <PageReference>DF3:27</PageReference>
+    <PageReference>DF3:41</PageReference>
+    <Child ReferenceText="clerics">
+      <PageReference>DF3:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="evil spells">
+      <PageReference>DF3:24</PageReference>
+    </Child>
+    <Child ReferenceText="Unholy Might">
+      <PageReference>DF3:41</PageReference>
+    </Child>
+    <Child ReferenceText="unholy warriors">
+      <PageReference>DF3:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Expenses, training">
+    <PageReference>DF3:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faerie folk">
+    <PageReference>DF3:8-9</PageReference>
+    <Child ReferenceText="gear">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fantasy">
+    <PageReference>DF3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faun">
+    <PageReference>DF3:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire-infused">
+    <PageReference>DF3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flaming Fingers">
+    <PageReference>DF3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flaming Hair">
+    <PageReference>DF3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forbidden templates">
+    <PageReference>DF3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forest Guardian Talent">
+    <PageReference>DF3:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gargoyle">
+    <PageReference>DF3:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <PageReference>DF3:8</PageReference>
+    <PageReference>DF3:14</PageReference>
+    <PageReference>DF3:21</PageReference>
+    <PageReference>DF3:23</PageReference>
+    <Child ReferenceText="boffer arrows">
+      <PageReference>DF3:23</PageReference>
+    </Child>
+    <Child ReferenceText="bow-harp">
+      <PageReference>DF3:21</PageReference>
+    </Child>
+    <Child ReferenceText="ogre">
+      <PageReference>DF3:14</PageReference>
+    </Child>
+    <Child ReferenceText="tiny">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant Weapons">
+    <PageReference>DF3:10</PageReference>
+    <PageReference>DF3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gnomes">
+    <PageReference>DF3:8</PageReference>
+    <PageReference>DF3:10</PageReference>
+    <Child ReferenceText="tiny gear">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Goblin-kin">
+    <PageReference>DF3:10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goblins">
+    <PageReference>DF3:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Half-elves">
+    <PageReference>DF3:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Half-ogres">
+    <PageReference>DF3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Half-orcs">
+    <PageReference>DF3:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Half-spirits">
+    <PageReference>DF3:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Halfling Marksmanship Talent">
+    <PageReference>DF3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Halflings">
+    <PageReference>DF3:14</PageReference>
+    <Child ReferenceText="tiny gear">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Herb Lore">
+    <PageReference>DF3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hobgoblin">
+    <PageReference>DF3:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy warrior choice races">
+    <PageReference>DF3:6</PageReference>
+    <PageReference>DF3:12</PageReference>
+    <Child ReferenceText="celestial">
+      <PageReference>DF3:12</PageReference>
+    </Child>
+    <Child ReferenceText="dwarf">
+      <PageReference>DF3:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy warriors">
+    <PageReference>DF3:25-28</PageReference>
+    <PageReference>DF3:38</PageReference>
+    <PageReference>DF3:41</PageReference>
+    <Child ReferenceText="evil">
+      <PageReference>DF3:27</PageReference>
+    </Child>
+    <Child ReferenceText="lenses">
+      <PageReference>DF3:25-28</PageReference>
+    </Child>
+    <Child ReferenceText="Unholy Might">
+      <PageReference>DF3:41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Improving characters">
+    <PageReference>DF3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infernal Gifts">
+    <PageReference>DF3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infernal">
+    <PageReference>DF3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infused">
+    <PageReference>DF3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knight choice races">
+    <PageReference>DF3:5-6</PageReference>
+    <PageReference>DF3:9-12</PageReference>
+    <PageReference>DF3:14-16</PageReference>
+    <Child ReferenceText="coleopteran">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="corpseeater">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="dragon-blooded">
+      <PageReference>DF3:15</PageReference>
+    </Child>
+    <Child ReferenceText="dwarf">
+      <PageReference>DF3:6</PageReference>
+    </Child>
+    <Child ReferenceText="gargoyle">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="goblin">
+      <PageReference>DF3:10</PageReference>
+    </Child>
+    <Child ReferenceText="half-ogre">
+      <PageReference>DF3:15</PageReference>
+    </Child>
+    <Child ReferenceText="half-orc">
+      <PageReference>DF3:10</PageReference>
+    </Child>
+    <Child ReferenceText="hobgoblin">
+      <PageReference>DF3:11</PageReference>
+    </Child>
+    <Child ReferenceText="infernal">
+      <PageReference>DF3:12</PageReference>
+    </Child>
+    <Child ReferenceText="lizard man">
+      <PageReference>DF3:15</PageReference>
+    </Child>
+    <Child ReferenceText="minotaur">
+      <PageReference>DF3:14</PageReference>
+    </Child>
+    <Child ReferenceText="orc">
+      <PageReference>DF3:11</PageReference>
+    </Child>
+    <Child ReferenceText="wildman">
+      <PageReference>DF3:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Knights">
+    <PageReference>DF3:28-29</PageReference>
+    <PageReference>DF3:39</PageReference>
+    <Child ReferenceText="lenses">
+      <PageReference>DF3:28-29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <PageReference>DF3:17-37</PageReference>
+    <Child ReferenceText="interpreting">
+      <PageReference>DF3:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Leprechaun Charms">
+    <PageReference>DF3:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leprechauns">
+    <PageReference>DF3:9</PageReference>
+    <Child ReferenceText="tiny gear">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Leveling">
+    <PageReference>DF3:38-39</PageReference>
+    <PageReference>DF3:42-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lizard men">
+    <PageReference>DF3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marginal professions">
+    <PageReference>DF3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial artist choice races">
+    <PageReference>DF3:5</PageReference>
+    <PageReference>DF3:8</PageReference>
+    <PageReference>DF3:13</PageReference>
+    <Child ReferenceText="air-infused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="cat-folk">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="fire-infused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="water-infused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="wood elf">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial artists">
+    <PageReference>DF3:29-31</PageReference>
+    <PageReference>DF3:39</PageReference>
+    <Child ReferenceText="lenses">
+      <PageReference>DF3:29-31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Blast">
+    <PageReference>DF3:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minotaurs">
+    <PageReference>DF3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monster races">
+    <PageReference>DF3:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mortal Foe">
+    <PageReference>DF3:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Niche protection">
+    <PageReference>DF3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night-Adapted Vision">
+    <PageReference>DF3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja">
+    <PageReference>DF3:31</PageReference>
+    <PageReference>DF3:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nymphs">
+    <PageReference>DF3:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ogres">
+    <PageReference>DF3:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orcs">
+    <PageReference>DF3:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>DF3:6</PageReference>
+    <PageReference>DF3:9-10</PageReference>
+    <PageReference>DF3:12-14</PageReference>
+    <PageReference>DF3:16</PageReference>
+    <Child ReferenceText="Better Power Items">
+      <PageReference>DF3:6</PageReference>
+    </Child>
+    <Child ReferenceText="Brotherhood of Ghouls">
+      <PageReference>DF3:6</PageReference>
+    </Child>
+    <Child ReferenceText="Call of the Wild">
+      <PageReference>DF3:16</PageReference>
+    </Child>
+    <Child ReferenceText="Celestial Nimbus">
+      <PageReference>DF3:12</PageReference>
+    </Child>
+    <Child ReferenceText="Divine Gifts">
+      <PageReference>DF3:12</PageReference>
+    </Child>
+    <Child ReferenceText="Drench">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="Dwarven Gear">
+      <PageReference>DF3:6</PageReference>
+    </Child>
+    <Child ReferenceText="Elven Gear">
+      <PageReference>DF3:6</PageReference>
+    </Child>
+    <Child ReferenceText="Flaming Fingers">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="Flaming Hair">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="Giant Weapons">
+      <PageReference>DF3:10</PageReference>
+      <PageReference>DF3:14</PageReference>
+    </Child>
+    <Child ReferenceText="Infernal Gifts">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="Leprechaun Charms">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="Pixie Shot">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="Puff of Air">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="Stone Fist">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="Stony">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pickaxe Penchant Talent">
+    <PageReference>DF3:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pixie Shot">
+    <PageReference>DF3:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pixies">
+    <PageReference>DF3:9</PageReference>
+    <Child ReferenceText="tiny gear">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Points, budgeting and">
+    <PageReference>DF3:4-5</PageReference>
+    <PageReference>DF3:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power level">
+    <PageReference>DF3:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <PageReference>DF3:40-41</PageReference>
+    <Child ReferenceText="Psionics">
+      <PageReference>DF3:40-41</PageReference>
+    </Child>
+    <Child ReferenceText="Unholy Might">
+      <PageReference>DF3:41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power-ups">
+    <PageReference>DF3:38-39</PageReference>
+    <PageReference>DF3:42-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Professions, changing">
+    <PageReference>DF3:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionics">
+    <PageReference>DF3:40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Puff of Air">
+    <PageReference>DF3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Races">
+    <PageReference>DF3:4-16</PageReference>
+    <Child ReferenceText="from other books">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="with negative reaction modifiers">
+      <PageReference>DF3:5-7</PageReference>
+      <PageReference>DF3:9-12</PageReference>
+      <PageReference>DF3:14-16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious Ritual specialties">
+    <PageReference>DF3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reptilians">
+    <PageReference>DF3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roles">
+    <PageReference>DF3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scout choice races">
+    <PageReference>DF3:5</PageReference>
+    <PageReference>DF3:7-7</PageReference>
+    <PageReference>DF3:13-16</PageReference>
+    <Child ReferenceText="air-infused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="cat-folk">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="faun">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+    <Child ReferenceText="fire-infused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="halfelf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="halfling">
+      <PageReference>DF3:14</PageReference>
+    </Child>
+    <Child ReferenceText="lizard man">
+      <PageReference>DF3:15</PageReference>
+    </Child>
+    <Child ReferenceText="mountain elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="sea elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="shadow elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="troll">
+      <PageReference>DF3:16</PageReference>
+    </Child>
+    <Child ReferenceText="waterinfused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="wildman">
+      <PageReference>DF3:16</PageReference>
+    </Child>
+    <Child ReferenceText="winged elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="wood elf">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scouts">
+    <PageReference>DF3:31-32</PageReference>
+    <PageReference>DF3:39</PageReference>
+    <Child ReferenceText="lenses">
+      <PageReference>DF3:31-32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>DF3:18</PageReference>
+    <PageReference>DF3:31</PageReference>
+    <Child ReferenceText="bardic">
+      <PageReference>DF3:18</PageReference>
+    </Child>
+    <Child ReferenceText="chi and weapons">
+      <PageReference>DF3:31</PageReference>
+    </Child>
+    <Child ReferenceText="chi">
+      <PageReference>DF3:18</PageReference>
+    </Child>
+    <Child ReferenceText="combining templates and lenses">
+      <PageReference>DF3:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigmas">
+    <PageReference>DF3:6-7</PageReference>
+    <PageReference>DF3:10-12</PageReference>
+    <PageReference>DF3:14-16</PageReference>
+    <Child ReferenceText="Half-Breed">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="Infernal">
+      <PageReference>DF3:12</PageReference>
+    </Child>
+    <Child ReferenceText="Monster">
+      <PageReference>DF3:6</PageReference>
+      <PageReference>DF3:14-16</PageReference>
+    </Child>
+    <Child ReferenceText="Savage">
+      <PageReference>DF3:10</PageReference>
+      <PageReference>DF3:15-16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell-Archery">
+    <PageReference>DF3:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stone Fist">
+    <PageReference>DF3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stony">
+    <PageReference>DF3:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swashbuckler choice races">
+    <PageReference>DF3:5</PageReference>
+    <PageReference>DF3:9</PageReference>
+    <PageReference>DF3:12-13</PageReference>
+    <Child ReferenceText="air-infused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="cat-folk">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="coleopteran">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="corpse-eater">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="fire-infused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="infernal">
+      <PageReference>DF3:12</PageReference>
+    </Child>
+    <Child ReferenceText="leprechaun">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="water-infused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Swashbucklers">
+    <PageReference>DF3:33-34</PageReference>
+    <PageReference>DF3:39</PageReference>
+    <Child ReferenceText="lenses">
+      <PageReference>DF3:33-34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <PageReference>DF3:6-7</PageReference>
+    <PageReference>DF3:10</PageReference>
+    <PageReference>DF3:12</PageReference>
+    <PageReference>DF3:14</PageReference>
+    <Child ReferenceText="Elder Gift">
+      <PageReference>DF3:6</PageReference>
+      <PageReference>DF3:12</PageReference>
+    </Child>
+    <Child ReferenceText="Forest Guardian">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="Halfling Marksmanship">
+      <PageReference>DF3:14</PageReference>
+    </Child>
+    <Child ReferenceText="Pickaxe Penchant">
+      <PageReference>DF3:6</PageReference>
+    </Child>
+    <Child ReferenceText="WidgetWorker">
+      <PageReference>DF3:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <PageReference>DF3:4-5</PageReference>
+    <Child ReferenceText="choice">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="forbidden">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="marginal">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="overlapping">
+      <PageReference>DF3:4-5</PageReference>
+    </Child>
+    <Child ReferenceText="racial">
+      <PageReference>DF3:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Theology specialties">
+    <PageReference>DF3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thief choice races">
+    <PageReference>DF3:5-14</PageReference>
+    <PageReference>DF3:16</PageReference>
+    <Child ReferenceText="airinfused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="cat-folk">
+      <PageReference>DF3:5</PageReference>
+    </Child>
+    <Child ReferenceText="dark one">
+      <PageReference>DF3:6</PageReference>
+    </Child>
+    <Child ReferenceText="earth-infused">
+      <PageReference>DF3:13</PageReference>
+    </Child>
+    <Child ReferenceText="elderspawn">
+      <PageReference>DF3:12</PageReference>
+    </Child>
+    <Child ReferenceText="gnome">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="goblin">
+      <PageReference>DF3:10</PageReference>
+    </Child>
+    <Child ReferenceText="half-orc">
+      <PageReference>DF3:10</PageReference>
+    </Child>
+    <Child ReferenceText="halfling">
+      <PageReference>DF3:14</PageReference>
+    </Child>
+    <Child ReferenceText="leprechaun">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="mountain elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="orc">
+      <PageReference>DF3:11</PageReference>
+    </Child>
+    <Child ReferenceText="pixie">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="shadow elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="troll">
+      <PageReference>DF3:16</PageReference>
+    </Child>
+    <Child ReferenceText="winged elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="wood elf">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thieves">
+    <PageReference>DF3:34-36</PageReference>
+    <PageReference>DF3:39</PageReference>
+    <Child ReferenceText="lenses">
+      <PageReference>DF3:34-36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Training">
+    <PageReference>DF3:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trolls">
+    <PageReference>DF3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-Weapon Fighting">
+    <PageReference>DF3:41-42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unholy Might">
+    <PageReference>DF3:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unholy warriors, 27 Water-infused">
+    <PageReference>DF3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons, tiny">
+    <PageReference>DF3:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Widget-Worker Talent">
+    <PageReference>DF3:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildman">
+    <PageReference>DF3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wings">
+    <PageReference>DF3:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizard choice races">
+    <PageReference>DF3:6-9</PageReference>
+    <PageReference>DF3:12</PageReference>
+    <Child ReferenceText="dark one">
+      <PageReference>DF3:6</PageReference>
+    </Child>
+    <Child ReferenceText="elder-spawn">
+      <PageReference>DF3:12</PageReference>
+    </Child>
+    <Child ReferenceText="gnome">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="half-elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="leprechaun">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="mountain elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="pixie">
+      <PageReference>DF3:9</PageReference>
+    </Child>
+    <Child ReferenceText="sea elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="shadow elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="winged elf">
+      <PageReference>DF3:7</PageReference>
+    </Child>
+    <Child ReferenceText="wood elf">
+      <PageReference>DF3:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizards">
+    <PageReference>DF3:36-37</PageReference>
+    <PageReference>DF3:39</PageReference>
+    <Child ReferenceText="lenses">
+      <PageReference>DF3:36-37</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

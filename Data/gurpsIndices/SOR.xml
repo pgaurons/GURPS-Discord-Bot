@@ -1,0 +1,790 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>SOR4-5</PageReference>
+    <PageReference>SOR11</PageReference>
+    <SeeAlso>Spells</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Air Jet spell">
+    <PageReference>SOR12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy">
+    <PageReference>SOR32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All or Nothing limitation">
+    <PageReference>SOR17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amulets">
+    <PageReference>SOR28</PageReference>
+    <SeeAlso>Enchanted Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Control spell">
+    <PageReference>SOR13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>SOR28</PageReference>
+    <SeeAlso>Enchanted Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Awaken Computer spell">
+    <PageReference>SOR24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blight spell">
+    <PageReference>SOR23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Wood spell">
+    <PageReference>SOR23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bryce the Bold">
+    <PageReference>SOR34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cancel Spells (spell)">
+    <PageReference>SOR20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <Child ReferenceText="jobs">
+      <PageReference>SOR33</PageReference>
+    </Child>
+    <Child ReferenceText="creation">
+      <PageReference>SOR4-5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Circlets">
+    <PageReference>SOR28</PageReference>
+    <SeeAlso>Enchanted Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloak">
+    <PageReference>SOR28</PageReference>
+    <SeeAlso>Enchanted Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Compartmentalized Mind advantage">
+    <PageReference>SOR8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Complex Illusion spell">
+    <PageReference>SOR18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cool spell">
+    <PageReference>SOR26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Create Object spell">
+    <PageReference>SOR18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Creating an Enchanted Item">
+    <PageReference>SOR27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delayed Message spell">
+    <PageReference>SOR24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect Magic spell">
+    <PageReference>SOR19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disintegrate spell">
+    <PageReference>SOR20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dispel Magic spell">
+    <PageReference>SOR21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divination spell">
+    <PageReference>SOR19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Economics">
+    <PageReference>SOR33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elixirs">
+    <PageReference>SOR32</PageReference>
+    <SeeAlso>Enchanted Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchant spell">
+    <PageReference>SOR15</PageReference>
+    <SeeAlso>Enchanted Items</SeeAlso>
+    <Child ReferenceText="under the hood">
+      <PageReference>SOR31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchanted items">
+    <Child ReferenceText="alchemy">
+      <PageReference>SOR32</PageReference>
+    </Child>
+    <Child ReferenceText="alternate costs">
+      <PageReference>SOR31</PageReference>
+    </Child>
+    <Child ReferenceText="assistants">
+      <PageReference>SOR32</PageReference>
+    </Child>
+    <Child ReferenceText="buying">
+      <PageReference>SOR33</PageReference>
+    </Child>
+    <Child ReferenceText="designing">
+      <PageReference>SOR27-32</PageReference>
+    </Child>
+    <Child ReferenceText="economics">
+      <PageReference>SOR33</PageReference>
+    </Child>
+    <Child ReferenceText="enchanting">
+      <PageReference>SOR30-32</PageReference>
+    </Child>
+    <Child ReferenceText="enchantment points">
+      <PageReference>SOR29</PageReference>
+    </Child>
+    <Child ReferenceText="forms">
+      <PageReference>SOR28-29</PageReference>
+      <PageReference>SOR32</PageReference>
+    </Child>
+    <Child ReferenceText="imbuing the power">
+      <PageReference>SOR30-32</PageReference>
+    </Child>
+    <Child ReferenceText="inherent value required">
+      <PageReference>SOR30</PageReference>
+    </Child>
+    <Child ReferenceText="jobs">
+      <PageReference>SOR33</PageReference>
+    </Child>
+    <Child ReferenceText="objects of value">
+      <PageReference>SOR30</PageReference>
+    </Child>
+    <Child ReferenceText="personal sacrifice">
+      <PageReference>SOR30-31</PageReference>
+    </Child>
+    <Child ReferenceText="spectral forging">
+      <PageReference>SOR31</PageReference>
+    </Child>
+    <Child ReferenceText="spell decisions">
+      <PageReference>SOR27-28</PageReference>
+    </Child>
+    <Child ReferenceText="under the hood">
+      <PageReference>SOR29</PageReference>
+      <PageReference>SOR31</PageReference>
+    </Child>
+    <Child ReferenceText="upgrading">
+      <PageReference>SOR32</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>SOR32</PageReference>
+    </Child>
+    <Child ReferenceText="“usually on, ” 27-28" />
+    <Child ReferenceText="Weapon Buffs">
+      <PageReference>SOR28</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>SOR29</PageReference>
+    </Child>
+    <Child ReferenceText="additional details">
+      <PageReference>SOR29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchanter’s assistant job">
+    <PageReference>SOR33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchantment points (EP)">
+    <PageReference>SOR29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flesh to Stone spell">
+    <PageReference>SOR15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gift of Tongues spell">
+    <PageReference>SOR14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grease spell">
+    <PageReference>SOR22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>SOR3</PageReference>
+    <PageReference>SOR4</PageReference>
+    <PageReference>SOR12</PageReference>
+    <PageReference>SOR29</PageReference>
+    <Child ReferenceText="Banestorm">
+      <PageReference>SOR34</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>SOR3</PageReference>
+      <PageReference>SOR12</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>SOR27</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 2: Weapons and Warriors">
+      <PageReference>SOR29</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>SOR3</PageReference>
+      <PageReference>SOR4</PageReference>
+      <PageReference>SOR10</PageReference>
+      <PageReference>SOR12</PageReference>
+      <PageReference>SOR13</PageReference>
+      <PageReference>SOR15</PageReference>
+      <PageReference>SOR23</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>SOR29</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups">
+      <PageReference>SOR3</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 1: Imbuements">
+      <PageReference>SOR11</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 4: Enhancements">
+      <PageReference>SOR31</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 5: Impulse Buys">
+      <PageReference>SOR31</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 8: Limitations">
+      <PageReference>SOR8</PageReference>
+      <PageReference>SOR10</PageReference>
+      <PageReference>SOR11</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>SOR3</PageReference>
+      <PageReference>SOR5</PageReference>
+      <PageReference>SOR7</PageReference>
+      <PageReference>SOR11-13</PageReference>
+      <PageReference>SOR24</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>SOR12</PageReference>
+      <PageReference>SOR31</PageReference>
+    </Child>
+    <Child ReferenceText="Supers">
+      <PageReference>SOR22</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>SOR3</PageReference>
+      <PageReference>SOR31</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Chinese Elemental Powers">
+      <PageReference>SOR12</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Ritual Path Magic">
+      <PageReference>SOR3</PageReference>
+      <PageReference>SOR13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Haircut spell">
+    <PageReference>SOR14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Icy Weapon spell">
+    <PageReference>SOR25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ignite Fire spell">
+    <PageReference>SOR16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imbue advantage">
+    <PageReference>SOR11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imbuements">
+    <PageReference>SOR11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvised magic">
+    <PageReference>SOR6-8</PageReference>
+    <SeeAlso>Spells</SeeAlso>
+    <Child ReferenceText="hardcore">
+      <PageReference>SOR7</PageReference>
+    </Child>
+    <Child ReferenceText="limits">
+      <PageReference>SOR7-8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Inspired Creation spell">
+    <PageReference>SOR20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Items">
+    <SeeAlso>Enchanted Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Jobs">
+    <PageReference>SOR33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lesser Geas">
+    <PageReference>SOR21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light spell">
+    <PageReference>SOR19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitations">
+    <Child ReferenceText="special">
+      <PageReference>SOR4-5</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>SOR13</PageReference>
+      <PageReference>SOR14</PageReference>
+      <PageReference>SOR17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited Colleges limitation">
+    <PageReference>SOR4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited Scope limitation">
+    <PageReference>SOR5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locksmith spell">
+    <PageReference>SOR22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magelock spell">
+    <PageReference>SOR23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic items">
+    <SeeAlso>Enchanted Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Resistance advantage">
+    <PageReference>SOR5</PageReference>
+    <PageReference>SOR9-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical power modifier">
+    <PageReference>SOR13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana">
+    <PageReference>SOR13</PageReference>
+    <PageReference>SOR23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minor Healing spell">
+    <PageReference>SOR17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No-Smell spell">
+    <PageReference>SOR13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occultism skill">
+    <PageReference>SOR5</PageReference>
+    <PageReference>SOR7</PageReference>
+    <PageReference>SOR10</PageReference>
+    <PageReference>SOR11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One Task limitation">
+    <PageReference>SOR14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Penetrating Weapon spell">
+    <PageReference>SOR16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planar Visit spell">
+    <PageReference>SOR16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power modifiers">
+    <Child ReferenceText="new">
+      <PageReference>SOR13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Predict Weather spell">
+    <PageReference>SOR26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Preserve Fuel spell">
+    <PageReference>SOR25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid #3/44: Alternate GURPS II">
+    <PageReference>SOR11</PageReference>
+    <Child ReferenceText="#3/63: Infinite Worlds II">
+      <PageReference>SOR3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Relieve Madness spell">
+    <PageReference>SOR17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remove Curse spell">
+    <PageReference>SOR21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repel Animals spell">
+    <PageReference>SOR14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reverse Missiles spell">
+    <PageReference>SOR24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rings">
+    <PageReference>SOR28</PageReference>
+    <SeeAlso>Enchanted Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Rituals">
+    <SeeAlso>Spells</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Scryguard spell">
+    <PageReference>SOR21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense Life spell">
+    <PageReference>SOR15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shape Fire spell">
+    <PageReference>SOR16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <PageReference>SOR28</PageReference>
+    <SeeAlso>Enchanted Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sorcerous Empowerment (“Sorcery”) advantage">
+    <PageReference>SOR4-5</PageReference>
+    <Child ReferenceText="under the hood">
+      <PageReference>SOR5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sorcery power modifier">
+    <PageReference>SOR13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sorcery Talent">
+    <PageReference>SOR5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell examples by college">
+    <Child ReferenceText="Animal">
+      <PageReference>SOR13-14</PageReference>
+    </Child>
+    <Child ReferenceText="Body Control">
+      <PageReference>SOR14</PageReference>
+    </Child>
+    <Child ReferenceText="Communication and Empathy">
+      <PageReference>SOR14-15</PageReference>
+    </Child>
+    <Child ReferenceText="Earth">
+      <PageReference>SOR15</PageReference>
+    </Child>
+    <Child ReferenceText="Enchantment">
+      <PageReference>SOR15-16</PageReference>
+    </Child>
+    <Child ReferenceText="Fire">
+      <PageReference>SOR16</PageReference>
+    </Child>
+    <Child ReferenceText="Gate">
+      <PageReference>SOR16-17</PageReference>
+    </Child>
+    <Child ReferenceText="Healing">
+      <PageReference>SOR17-18</PageReference>
+    </Child>
+    <Child ReferenceText="Illusion and Creation">
+      <PageReference>SOR18</PageReference>
+    </Child>
+    <Child ReferenceText="Knowledge">
+      <PageReference>SOR19</PageReference>
+    </Child>
+    <Child ReferenceText="Light and Darkness">
+      <PageReference>SOR19-20</PageReference>
+    </Child>
+    <Child ReferenceText="MetaSpells">
+      <PageReference>SOR21</PageReference>
+    </Child>
+    <Child ReferenceText="Making and Breaking">
+      <PageReference>SOR20</PageReference>
+    </Child>
+    <Child ReferenceText="Mind Control">
+      <PageReference>SOR21-22</PageReference>
+    </Child>
+    <Child ReferenceText="Movement">
+      <PageReference>SOR22</PageReference>
+    </Child>
+    <Child ReferenceText="Necromantic">
+      <PageReference>SOR22-23</PageReference>
+    </Child>
+    <Child ReferenceText="Plant">
+      <PageReference>SOR23</PageReference>
+    </Child>
+    <Child ReferenceText="Protection and Warning">
+      <PageReference>SOR23-24</PageReference>
+    </Child>
+    <Child ReferenceText="Sound">
+      <PageReference>SOR24</PageReference>
+    </Child>
+    <Child ReferenceText="Technology">
+      <PageReference>SOR24</PageReference>
+    </Child>
+    <Child ReferenceText="Water">
+      <PageReference>SOR25-26</PageReference>
+    </Child>
+    <Child ReferenceText="Weather">
+      <PageReference>SOR26</PageReference>
+    </Child>
+    <Child ReferenceText="Air">
+      <PageReference>SOR12-13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell examples by keyword">
+    <Child ReferenceText="Buff">
+      <PageReference>SOR13-15</PageReference>
+      <PageReference>SOR20</PageReference>
+      <PageReference>SOR21</PageReference>
+      <PageReference>SOR23</PageReference>
+      <PageReference>SOR24</PageReference>
+    </Child>
+    <Child ReferenceText="Information">
+      <PageReference>SOR15</PageReference>
+      <PageReference>SOR19</PageReference>
+      <PageReference>SOR26</PageReference>
+    </Child>
+    <Child ReferenceText="Jet">
+      <PageReference>SOR12-13</PageReference>
+    </Child>
+    <Child ReferenceText="Missile">
+      <PageReference>SOR19-20</PageReference>
+    </Child>
+    <Child ReferenceText="Obvious">
+      <PageReference>SOR12-13</PageReference>
+      <PageReference>SOR15</PageReference>
+      <PageReference>SOR19-20</PageReference>
+    </Child>
+    <Child ReferenceText="Resisted">
+      <PageReference>SOR13-15</PageReference>
+      <PageReference>SOR17-18</PageReference>
+      <PageReference>SOR20-24</PageReference>
+    </Child>
+    <Child ReferenceText="Weapon Buff">
+      <PageReference>SOR16</PageReference>
+      <PageReference>SOR25</PageReference>
+    </Child>
+    <Child ReferenceText="Area">
+      <PageReference>SOR14</PageReference>
+      <PageReference>SOR17</PageReference>
+      <PageReference>SOR18</PageReference>
+      <PageReference>SOR21-26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <SeeAlso>Enchanted Items</SeeAlso>
+    <SeeAlso>Improvised Magic</SeeAlso>
+    <Child ReferenceText="building attack">
+      <PageReference>SOR10-11</PageReference>
+    </Child>
+    <Child ReferenceText="building">
+      <PageReference>SOR9-11</PageReference>
+    </Child>
+    <Child ReferenceText="casting multiple">
+      <PageReference>SOR8</PageReference>
+    </Child>
+    <Child ReferenceText="casting">
+      <PageReference>SOR5-8</PageReference>
+    </Child>
+    <Child ReferenceText="casting roll">
+      <PageReference>SOR5</PageReference>
+      <PageReference>SOR12</PageReference>
+    </Child>
+    <Child ReferenceText="casting time">
+      <PageReference>SOR6</PageReference>
+      <PageReference>SOR7</PageReference>
+    </Child>
+    <Child ReferenceText="character point cost">
+      <PageReference>SOR5</PageReference>
+      <PageReference>SOR12</PageReference>
+    </Child>
+    <Child ReferenceText="damage-dealing">
+      <PageReference>SOR10</PageReference>
+    </Child>
+    <Child ReferenceText="deprecating">
+      <PageReference>SOR25</PageReference>
+    </Child>
+    <Child ReferenceText="disadvantages in">
+      <PageReference>SOR13</PageReference>
+    </Child>
+    <Child ReferenceText="duration">
+      <PageReference>SOR6</PageReference>
+      <PageReference>SOR8</PageReference>
+      <PageReference>SOR12</PageReference>
+    </Child>
+    <Child ReferenceText="early termination">
+      <PageReference>SOR20</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>SOR12-26</PageReference>
+    </Child>
+    <Child ReferenceText="extra effort">
+      <PageReference>SOR6</PageReference>
+    </Child>
+    <Child ReferenceText="FP cost">
+      <PageReference>SOR5</PageReference>
+      <PageReference>SOR17</PageReference>
+    </Child>
+    <Child ReferenceText="high-fatigue">
+      <PageReference>SOR17</PageReference>
+    </Child>
+    <Child ReferenceText="identifying">
+      <PageReference>SOR10</PageReference>
+      <PageReference>SOR11</PageReference>
+    </Child>
+    <Child ReferenceText="improving">
+      <PageReference>SOR25</PageReference>
+    </Child>
+    <Child ReferenceText="inventing new">
+      <PageReference>SOR13</PageReference>
+    </Child>
+    <Child ReferenceText="keywords">
+      <PageReference>SOR9-11</PageReference>
+    </Child>
+    <Child ReferenceText="known">
+      <PageReference>SOR6</PageReference>
+    </Child>
+    <Child ReferenceText="maintaining">
+      <PageReference>SOR5</PageReference>
+      <PageReference>SOR8</PageReference>
+    </Child>
+    <Child ReferenceText="mana">
+      <PageReference>SOR23</PageReference>
+    </Child>
+    <Child ReferenceText="multiple-advantage">
+      <PageReference>SOR13</PageReference>
+    </Child>
+    <Child ReferenceText="noticing">
+      <PageReference>SOR5</PageReference>
+    </Child>
+    <Child ReferenceText="perks as">
+      <PageReference>SOR13</PageReference>
+    </Child>
+    <Child ReferenceText="reading stats">
+      <PageReference>SOR12</PageReference>
+    </Child>
+    <Child ReferenceText="range">
+      <PageReference>SOR12</PageReference>
+    </Child>
+    <Child ReferenceText="reinvesting points">
+      <PageReference>SOR25</PageReference>
+    </Child>
+    <Child ReferenceText="restrictions">
+      <PageReference>SOR5</PageReference>
+    </Child>
+    <Child ReferenceText="simultaneous">
+      <PageReference>SOR5</PageReference>
+      <PageReference>SOR8</PageReference>
+    </Child>
+    <Child ReferenceText="skills in">
+      <PageReference>SOR13</PageReference>
+    </Child>
+    <Child ReferenceText="SM and">
+      <PageReference>SOR6</PageReference>
+      <PageReference>SOR11</PageReference>
+    </Child>
+    <Child ReferenceText="techniques in">
+      <PageReference>SOR13</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>SOR9-11</PageReference>
+    </Child>
+    <Child ReferenceText="under the hood">
+      <PageReference>SOR5</PageReference>
+      <PageReference>SOR8</PageReference>
+      <PageReference>SOR11</PageReference>
+      <PageReference>SOR29</PageReference>
+      <PageReference>SOR31</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>SOR5</PageReference>
+    </Child>
+    <Child ReferenceText="alternative rituals">
+      <PageReference>SOR7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell types">
+    <SeeAlso>Spell Examples by Keyword</SeeAlso>
+    <Child ReferenceText="Buff">
+      <PageReference>SOR9</PageReference>
+      <PageReference>SOR11</PageReference>
+      <PageReference>SOR27-28</PageReference>
+    </Child>
+    <Child ReferenceText="Information">
+      <PageReference>SOR10</PageReference>
+    </Child>
+    <Child ReferenceText="Jet">
+      <PageReference>SOR10</PageReference>
+    </Child>
+    <Child ReferenceText="Missile">
+      <PageReference>SOR10</PageReference>
+    </Child>
+    <Child ReferenceText="Obvious">
+      <PageReference>SOR5</PageReference>
+      <PageReference>SOR10</PageReference>
+    </Child>
+    <Child ReferenceText="Resisted">
+      <PageReference>SOR10-11</PageReference>
+    </Child>
+    <Child ReferenceText="Weapon Buff">
+      <PageReference>SOR11</PageReference>
+      <PageReference>SOR28</PageReference>
+    </Child>
+    <Child ReferenceText="Area">
+      <PageReference>SOR9</PageReference>
+      <PageReference>SOR11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Staffs">
+    <PageReference>SOR28-29</PageReference>
+    <SeeAlso>Enchanted Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Steal Vitality spell">
+    <PageReference>SOR22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sunbolt spell">
+    <PageReference>SOR19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suspend Time spell">
+    <PageReference>SOR17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="leveled area">
+      <PageReference>SOR9</PageReference>
+    </Child>
+    <Child ReferenceText="wages per enchantment point">
+      <PageReference>SOR33</PageReference>
+    </Child>
+    <Child ReferenceText="inherent value">
+      <PageReference>SOR30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talent">
+    <Child ReferenceText="new">
+      <PageReference>SOR5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tanglefoot spell">
+    <PageReference>SOR14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telekinesis (One Task) advantage">
+    <PageReference>SOR14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terror spell">
+    <PageReference>SOR22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thaumatology skill">
+    <PageReference>SOR5</PageReference>
+    <PageReference>SOR7</PageReference>
+    <PageReference>SOR10</PageReference>
+    <PageReference>SOR11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thunderclap spell">
+    <PageReference>SOR24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiaras">
+    <PageReference>SOR28</PageReference>
+    <SeeAlso>Enchanted Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Turn Zombie spell">
+    <PageReference>SOR22-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Under the hood">
+    <PageReference>SOR5</PageReference>
+    <PageReference>SOR8</PageReference>
+    <PageReference>SOR11</PageReference>
+    <PageReference>SOR29</PageReference>
+    <PageReference>SOR31</PageReference>
+    <Child ReferenceText="explained">
+      <PageReference>SOR3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Walk Through Earth spell">
+    <PageReference>SOR15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wand">
+    <PageReference>SOR29</PageReference>
+    <SeeAlso>Enchanted Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <SeeAlso>Enchanted Items</SeeAlso>
+    <Child ReferenceText="metal">
+      <PageReference>SOR29</PageReference>
+    </Child>
+    <Child ReferenceText="projectile">
+      <PageReference>SOR29</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>SOR16</PageReference>
+      <PageReference>SOR25</PageReference>
+    </Child>
+    <Child ReferenceText="wooden">
+      <PageReference>SOR28</PageReference>
+    </Child>
+    <Child ReferenceText="Buffs">
+      <PageReference>SOR11</PageReference>
+      <PageReference>SOR28</PageReference>
+      <PageReference>SOR29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Whirlpool spell">
+    <PageReference>SOR25</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

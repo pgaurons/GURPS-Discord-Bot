@@ -1,0 +1,308 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>DF1:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventurer">
+    <PageReference>DF1:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alignment">
+    <PageReference>DF1:6-7</PageReference>
+    <PageReference>DF1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>DF1:27-28</PageReference>
+    <PageReference>DF1:30</PageReference>
+    <Child ReferenceText="magical">
+      <PageReference>DF1:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbarian">
+    <PageReference>DF1:4-5</PageReference>
+    <PageReference>DF1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bard">
+    <PageReference>DF1:5-6</PageReference>
+    <PageReference>DF1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bard-Song power">
+    <PageReference>DF1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Born War Leader advantage">
+    <PageReference>DF1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemicals">
+    <PageReference>DF1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi Mastery power">
+    <PageReference>DF1:21-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleric">
+    <PageReference>DF1:6-7</PageReference>
+    <PageReference>DF1:18-19</PageReference>
+    <Child ReferenceText="spells">
+      <PageReference>DF1:6-7</PageReference>
+      <PageReference>DF1:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Concoctions">
+    <PageReference>DF1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost factor">
+    <PageReference>DF1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Countermagic">
+    <PageReference>DF1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Create spells">
+    <PageReference>DF1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delver">
+    <PageReference>DF1:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>DF1:15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragonhide">
+    <PageReference>DF1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druid">
+    <PageReference>DF1:7</PageReference>
+    <PageReference>DF1:18-20</PageReference>
+    <PageReference>DF1:28</PageReference>
+    <Child ReferenceText="gear">
+      <PageReference>DF1:28</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>DF1:7</PageReference>
+      <PageReference>DF1:19-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Druidic Arts power">
+    <PageReference>DF1:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeon crawl">
+    <PageReference>DF1:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeon">
+    <PageReference>DF1:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarven gear">
+    <PageReference>DF1:25-27</PageReference>
+    <Child ReferenceText="armor">
+      <PageReference>DF1:26-27</PageReference>
+    </Child>
+    <Child ReferenceText="rations">
+      <PageReference>DF1:25</PageReference>
+    </Child>
+    <Child ReferenceText="shields">
+      <PageReference>DF1:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Economics">
+    <PageReference>DF1:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elven gear">
+    <PageReference>DF1:25-27</PageReference>
+    <Child ReferenceText="rations">
+      <PageReference>DF1:25</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>DF1:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enlarge spell">
+    <PageReference>DF1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Gear</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <PageReference>DF1:23-30</PageReference>
+    <Child ReferenceText="basic">
+      <PageReference>DF1:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="chemicals">
+      <PageReference>DF1:28</PageReference>
+    </Child>
+    <Child ReferenceText="esoteric">
+      <PageReference>DF1:26</PageReference>
+    </Child>
+    <Child ReferenceText="giants">
+      <PageReference>DF1:27-28</PageReference>
+    </Child>
+    <Child ReferenceText="magical">
+      <PageReference>DF1:29-30</PageReference>
+    </Child>
+    <Child ReferenceText="poisons">
+      <PageReference>DF1:28-29</PageReference>
+    </Child>
+    <Child ReferenceText="special order">
+      <PageReference>DF1:25-26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hack-n-slash">
+    <PageReference>DF1:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hero">
+    <PageReference>DF1:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heroic Archer advantage">
+    <PageReference>DF1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy Might power">
+    <PageReference>DF1:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy warrior">
+    <PageReference>DF1:7-8</PageReference>
+    <PageReference>DF1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incompetence disadvantage">
+    <PageReference>DF1:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invisibility spell">
+    <PageReference>DF1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knight">
+    <PageReference>DF1:8-9</PageReference>
+    <PageReference>DF1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic items">
+    <PageReference>DF1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial artist">
+    <PageReference>DF1:9-10</PageReference>
+    <PageReference>DF1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meteoric gear">
+    <PageReference>DF1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Munchkin">
+    <PageReference>DF1:3</PageReference>
+    <PageReference>DF1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical instruments">
+    <PageReference>DF1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New advantages">
+    <PageReference>DF1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orichalcum gear">
+    <PageReference>DF1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outdoors">
+    <PageReference>DF1:4</PageReference>
+    <PageReference>DF1:7</PageReference>
+    <PageReference>DF1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Points for money">
+    <PageReference>DF1:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisons">
+    <PageReference>DF1:28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Potions">
+    <PageReference>DF1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power items">
+    <PageReference>DF1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <PageReference>DF1:20-22</PageReference>
+    <Child ReferenceText="countermagic">
+      <PageReference>DF1:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scout">
+    <PageReference>DF1:10-11</PageReference>
+    <PageReference>DF1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <PageReference>DF1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signature Gear advantage">
+    <PageReference>DF1:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>DF1:16-18</PageReference>
+    <Child ReferenceText="everyman">
+      <PageReference>DF1:16</PageReference>
+    </Child>
+    <Child ReferenceText="wildcard">
+      <PageReference>DF1:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <PageReference>DF1:19-20</PageReference>
+    <PageReference>DF1:30</PageReference>
+    <Child ReferenceText="changed">
+      <PageReference>DF1:20</PageReference>
+    </Child>
+    <Child ReferenceText="cleric">
+      <PageReference>DF1:6-7</PageReference>
+      <PageReference>DF1:19</PageReference>
+    </Child>
+    <Child ReferenceText="druid">
+      <PageReference>DF1:7</PageReference>
+      <PageReference>DF1:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="magic items and">
+      <PageReference>DF1:30</PageReference>
+    </Child>
+    <Child ReferenceText="template starting spells">
+      <PageReference>DF1:6-7</PageReference>
+      <PageReference>DF1:13</PageReference>
+    </Child>
+    <Child ReferenceText="wizard">
+      <PageReference>DF1:13</PageReference>
+      <PageReference>DF1:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Starting money">
+    <PageReference>DF1:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swashbuckler">
+    <PageReference>DF1:11-12</PageReference>
+    <PageReference>DF1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Template spells">
+    <PageReference>DF1:6-7</PageReference>
+    <PageReference>DF1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <PageReference>DF1:4-13</PageReference>
+    <PageReference>DF1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thief">
+    <PageReference>DF1:12-13</PageReference>
+    <PageReference>DF1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thieves’ armor">
+    <PageReference>DF1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth">
+    <PageReference>DF1:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Bond advantage">
+    <PageReference>DF1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>DF1:26-27</PageReference>
+    <PageReference>DF1:30</PageReference>
+    <Child ReferenceText="magical">
+      <PageReference>DF1:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard skills">
+    <PageReference>DF1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizard">
+    <PageReference>DF1:13-14</PageReference>
+    <PageReference>DF1:18</PageReference>
+    <PageReference>DF1:20</PageReference>
+    <Child ReferenceText="spells">
+      <PageReference>DF1:13</PageReference>
+      <PageReference>DF1:20</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

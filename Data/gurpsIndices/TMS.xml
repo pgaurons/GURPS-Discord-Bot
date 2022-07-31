@@ -1,0 +1,1132 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Academic Rank perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Academic styles">
+    <SeeAlso>Experimental Styles and Theoretical Styles</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Accessory perk">
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adjustable Spell perk">
+    <PageReference>TMS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages required by styles">
+    <PageReference>TMS18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Afflicted Casting perk">
+    <PageReference>TMS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aid cantrip perk">
+    <PageReference>TMS25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air spell theme">
+    <PageReference>TMS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternative prerequisites">
+    <PageReference>TMS5</PageReference>
+    <PageReference>TMS16-18</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>TMS17-18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal spell theme">
+    <PageReference>TMS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Annihilation spell">
+    <PageReference>TMS36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Applied styles">
+    <SeeAlso>Elemental Styles</SeeAlso>
+    <SeeAlso>Folk Styles</SeeAlso>
+    <SeeAlso>Guild Styles</SeeAlso>
+    <SeeAlso>Martial Styles</SeeAlso>
+    <SeeAlso>and Temple Styles</SeeAlso>
+    <Child ReferenceText="skills">
+      <PageReference>TMS4-6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Area Spell Mastery perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armored Casting perk">
+    <PageReference>TMS29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assisting spirits magic and magical styles">
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astrological Ceremonies perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astrology spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attribute Substitution perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes required by styles">
+    <PageReference>TMS18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Augury spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Avatar cantrip perk">
+    <PageReference>TMS25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banishing spirits spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic spells">
+    <PageReference>TMS6</PageReference>
+    <PageReference>TMS8</PageReference>
+    <Child ReferenceText="lists">
+      <PageReference>TMS6</PageReference>
+      <PageReference>TMS8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Better Magic Items perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blessing spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blocking Spell Mastery perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood Magic perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body Control spell theme">
+    <PageReference>TMS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Book magic and magical styles">
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boost Enchantment cantrip perk">
+    <PageReference>TMS25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brute-Force Spell perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buying styles">
+    <PageReference>TMS19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cartomancy spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chains of spells">
+    <Child ReferenceText="short">
+      <PageReference>TMS6-9</PageReference>
+    </Child>
+    <Child ReferenceText="long">
+      <PageReference>TMS10-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Changing prerequisites">
+    <PageReference>TMS16-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Choosing a style’s spells">
+    <PageReference>TMS14-16</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>TMS17-18</PageReference>
+      <PageReference>TMS35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerics and magical styles">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cold spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Ceremony perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Communication spell theme">
+    <PageReference>TMS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Components of styles">
+    <PageReference>TMS4-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Continuous Ritual perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Controlled (Disadvantage) cantrip perk">
+    <PageReference>TMS25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Convenience Casting perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corpse Smart cantrip perk">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Covenant of Rest perk">
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Creation spell theme">
+    <PageReference>TMS8</PageReference>
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crystal-gazing spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cursing spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Darkness spell theme">
+    <PageReference>TMS8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Design notes for the Onyx Path">
+    <PageReference>TMS36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages required by styles">
+    <PageReference>TMS18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dispel magic spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divination spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth spell theme">
+    <PageReference>TMS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ectoplasmic Essence">
+    <PageReference>TMS35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electricity magic spell theme">
+    <PageReference>TMS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental styles">
+    <SeeAlso>Chains of Spells</SeeAlso>
+    <Child ReferenceText="skills">
+      <PageReference>TMS4-5</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>TMS7</PageReference>
+      <PageReference>TMS9</PageReference>
+      <PageReference>TMS11</PageReference>
+      <PageReference>TMS15</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>TMS12-13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elixir Resistance perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Empathy spell theme">
+    <PageReference>TMS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchantment spell theme">
+    <PageReference>TMS7</PageReference>
+    <PageReference>TMS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Spell perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Experimental styles">
+    <SeeAlso>Chains of Spells</SeeAlso>
+    <Child ReferenceText="skills">
+      <PageReference>TMS4</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>TMS6</PageReference>
+      <PageReference>TMS15</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>TMS13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ex-stylists">
+    <PageReference>TMS20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extispicy spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Option perk">
+    <PageReference>TMS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eye of the Storm cantrip perk">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Far-Casting perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast Casting perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fearless Magic perk">
+    <PageReference>TMS29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fifth Circle (Summoner)">
+    <PageReference>TMS34</PageReference>
+    <PageReference>TMS35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Filter cantrip perk">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire spell theme">
+    <PageReference>TMS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="First Circle (Neophyte)">
+    <PageReference>TMS34</PageReference>
+    <PageReference>TMS35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flagellant’s Blessing perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flexible magic and magical styles">
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flexible Ritual perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Folk styles">
+    <SeeAlso>Chains of Spells</SeeAlso>
+    <Child ReferenceText="skills">
+      <PageReference>TMS5</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>TMS6</PageReference>
+      <PageReference>TMS15</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>TMS13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Food spell theme">
+    <PageReference>TMS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fourth Circle (Reanimator)">
+    <PageReference>TMS34</PageReference>
+    <PageReference>TMS35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Friendly Undergrowth cantrip perk">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frightening Side Effects perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gastromancy spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gate Experience cantrip perk">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gate spell theme">
+    <PageReference>TMS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gate-working spell theme">
+    <PageReference>TMS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Geomancy spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glimpse of Hell spell">
+    <PageReference>TMS36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Good with (Animal) cantrip perk">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravekeepers of the Onyx Path">
+    <PageReference>TMS34</PageReference>
+    <PageReference>TMS35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guild Rank perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guild styles">
+    <SeeAlso>Chains of Spells</SeeAlso>
+    <Child ReferenceText="skills">
+      <PageReference>TMS5</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>TMS6</PageReference>
+      <PageReference>TMS7</PageReference>
+      <PageReference>TMS15</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>TMS13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Guilds (definition)">
+    <PageReference>TMS6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>TMS21</PageReference>
+    <PageReference>TMS27</PageReference>
+    <Child ReferenceText="Banestorm">
+      <PageReference>TMS31</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>TMS3</PageReference>
+      <PageReference>TMS14</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>TMS27</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>TMS3</PageReference>
+      <PageReference>TMS9</PageReference>
+      <PageReference>TMS14</PageReference>
+      <PageReference>TMS29</PageReference>
+      <PageReference>TMS30</PageReference>
+      <PageReference>TMS34</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>TMS4</PageReference>
+      <PageReference>TMS27</PageReference>
+      <PageReference>TMS31</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>TMS24</PageReference>
+      <PageReference>TMS27</PageReference>
+      <PageReference>TMS28</PageReference>
+      <PageReference>TMS31</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>TMS3</PageReference>
+      <PageReference>TMS5</PageReference>
+      <PageReference>TMS14</PageReference>
+      <PageReference>TMS16-18</PageReference>
+      <PageReference>TMS21-32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gut of the Dragon cantrip perk">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing spell theme">
+    <PageReference>TMS7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Huge Subjects perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ice magic spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion spell theme">
+    <PageReference>TMS8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immortals of the Onyx Path">
+    <PageReference>TMS34</PageReference>
+    <PageReference>TMS35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immunity to (Specific Hazard) perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvised Items perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvised Magic perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intimidating Curses perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intuitive Cantrip perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS25-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intuitive Illusionist cantrip perk">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IQ prerequisite">
+    <PageReference>TMS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kill Switch perk">
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kindle cantrip perk">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knower of Names perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knowledge spell theme">
+    <PageReference>TMS8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Language advantage">
+    <PageReference>TMS18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lapsed Practitioner perk">
+    <PageReference>TMS20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lecanomancy spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="License perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Life-Force Burn perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light spell theme">
+    <PageReference>TMS8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited Energy Reserve perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Long chains of spells">
+    <PageReference>TMS10-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery advantage as prerequisite">
+    <PageReference>TMS11</PageReference>
+    <PageReference>TMS18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical abilities as prerequisites">
+    <PageReference>TMS18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical Analysis cantrip perk">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical Lawyer perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical School Familiarity perk">
+    <PageReference>TMS20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical Style Adaptation perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical styles">
+    <Child ReferenceText="clerics and">
+      <PageReference>TMS26</PageReference>
+    </Child>
+    <Child ReferenceText="choosing spells for">
+      <PageReference>TMS14-16</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>TMS4</PageReference>
+    </Child>
+    <Child ReferenceText="optional traits">
+      <PageReference>TMS18-19</PageReference>
+    </Child>
+    <Child ReferenceText="other magic systems and">
+      <PageReference>TMS32</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>TMS12-14</PageReference>
+    </Child>
+    <Child ReferenceText="prerequisites">
+      <PageReference>TMS11</PageReference>
+    </Child>
+    <Child ReferenceText="required skills">
+      <PageReference>TMS4-6</PageReference>
+      <PageReference>TMS18-19</PageReference>
+    </Child>
+    <Child ReferenceText="required spells">
+      <PageReference>TMS6-12</PageReference>
+    </Child>
+    <Child ReferenceText="buying">
+      <PageReference>TMS19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical Weapon Bond perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Perks">
+    <PageReference>TMS12-13</PageReference>
+    <PageReference>TMS20-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Making and breaking spell theme">
+    <PageReference>TMS8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana Compensation perk">
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manipulating time and space spell theme">
+    <PageReference>TMS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial styles">
+    <SeeAlso>Chains of Spells</SeeAlso>
+    <Child ReferenceText="skills">
+      <PageReference>TMS6</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>TMS7</PageReference>
+      <PageReference>TMS9-11</PageReference>
+      <PageReference>TMS15</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>TMS13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mass Magician perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee Spell Mastery perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-spells spell theme">
+    <PageReference>TMS8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mighty Spell perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind control spell theme">
+    <PageReference>TMS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minimum IQ prerequisite">
+    <PageReference>TMS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minimum Magery prerequisite">
+    <PageReference>TMS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missile Spell Mastery perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Movement spell theme">
+    <PageReference>TMS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Muffle cantrip perk">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mundane Magic perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mystic Gesture cantrip perk">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mystic’s Stupor perk">
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Named Possession perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naming perks">
+    <PageReference>TMS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromantic spell theme">
+    <PageReference>TMS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neophytes of the Onyx Path">
+    <PageReference>TMS34</PageReference>
+    <PageReference>TMS35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Gestures perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Incantations perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Magic Ingredients perk">
+    <PageReference>TMS29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Numerology spell theme">
+    <PageReference>TMS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obscure True Name perk">
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oneiromancy spell theme">
+    <PageReference>TMS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Onyx Path">
+    <PageReference>TMS34-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Optional traits for styles">
+    <PageReference>TMS18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Other magic systems and magical styles">
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paraphernalia Pro perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path magic and magical styles">
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pebbles cantrip perk">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <Child ReferenceText="new">
+      <PageReference>TMS20-33</PageReference>
+    </Child>
+    <Child ReferenceText="style suggestions">
+      <PageReference>TMS12-14</PageReference>
+    </Child>
+    <Child ReferenceText="naming">
+      <PageReference>TMS21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Permit perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planar travel spell theme">
+    <PageReference>TMS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plant spell theme">
+    <PageReference>TMS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Casting perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers as magic and magical styles">
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Precision Recharger perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prerequisites">
+    <SeeAlso>Basic Spells and Chains of Spells</SeeAlso>
+    <Child ReferenceText="of styles">
+      <PageReference>TMS11</PageReference>
+    </Child>
+    <Child ReferenceText="changing spell">
+      <PageReference>TMS5</PageReference>
+      <PageReference>TMS16-18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Protection spell theme">
+    <PageReference>TMS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic Guidance perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyromancy spell theme">
+    <PageReference>TMS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pysiognomy spell theme">
+    <PageReference>TMS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick and Focused perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reanimators of the Onyx Path">
+    <PageReference>TMS34</PageReference>
+    <PageReference>TMS35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reduced Footprint perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reinforce cantrip perk">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Removing curses spell theme">
+    <PageReference>TMS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requirements of styles">
+    <Child ReferenceText="perks">
+      <PageReference>TMS12-14</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>TMS4-6</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>TMS6-12</PageReference>
+      <PageReference>TMS14-17</PageReference>
+    </Child>
+    <Child ReferenceText="other traits">
+      <PageReference>TMS11</PageReference>
+      <PageReference>TMS18-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant advantage">
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restructuring prerequisites">
+    <PageReference>TMS17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rift to Hell spell">
+    <PageReference>TMS36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rinse cantrip perk">
+    <PageReference>TMS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual magic and magical styles">
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rote Alchemy perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rule of 17 perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rules Exemption perk">
+    <PageReference>TMS29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrificial Blocking Spell perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sanctum perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Screen cantrip perk">
+    <PageReference>TMS27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scroll-Reading (Language) perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secondary characteristics required by styles">
+    <PageReference>TMS18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Second Circle (Gravekeeper)">
+    <PageReference>TMS34</PageReference>
+    <PageReference>TMS35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret Mage perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret material">
+    <Child ReferenceText="perk">
+      <PageReference>TMS24</PageReference>
+    </Child>
+    <Child ReferenceText="as style suggestion">
+      <PageReference>TMS13</PageReference>
+      <PageReference>TMS34</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>TMS35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret Spell perk">
+    <PageReference>TMS12</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS19</PageReference>
+    <Child ReferenceText="definition">
+      <PageReference>TMS30</PageReference>
+    </Child>
+    <Child ReferenceText="as style suggestion">
+      <PageReference>TMS13</PageReference>
+      <PageReference>TMS14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret spells">
+    <PageReference>TMS14</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>TMS36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret Words perk">
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Selecting a style’s spells">
+    <PageReference>TMS14-16</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>TMS17-18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadowkeepers of the Onyx Path">
+    <PageReference>TMS34</PageReference>
+    <PageReference>TMS35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shaman’s Trance perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shifting colleges">
+    <PageReference>TMS17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Short chains of spells">
+    <PageReference>TMS6-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shortcut to Power perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS30-31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sixth Circle (Immortal)">
+    <PageReference>TMS34</PageReference>
+    <PageReference>TMS35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skill-based limits option">
+    <PageReference>TMS5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills required">
+    <Child ReferenceText="by styles">
+      <PageReference>TMS4-6</PageReference>
+      <PageReference>TMS18-19</PageReference>
+    </Child>
+    <Child ReferenceText="by optional rules">
+      <PageReference>TMS5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills to salvage critical failures">
+    <PageReference>TMS5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social advantages as prerequisites">
+    <PageReference>TMS18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sortilege spell theme">
+    <PageReference>TMS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sound spell theme">
+    <PageReference>TMS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spark cantrip perk">
+    <PageReference>TMS27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special Exercises perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speedy Enchantment perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Bond perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Duelist perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Enhancement perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Hardiness perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell lists for styles">
+    <PageReference>TMS14-18</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>TMS35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Resistance perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS31-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <Child ReferenceText="long chains">
+      <PageReference>TMS10-12</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>TMS36</PageReference>
+    </Child>
+    <Child ReferenceText="points in and perks">
+      <PageReference>TMS12</PageReference>
+    </Child>
+    <Child ReferenceText="required by styles">
+      <PageReference>TMS6-12</PageReference>
+    </Child>
+    <Child ReferenceText="short chains">
+      <PageReference>TMS6-9</PageReference>
+    </Child>
+    <Child ReferenceText="basic">
+      <PageReference>TMS6</PageReference>
+      <PageReference>TMS8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell themes">
+    <SeeAlso>Chains of Spells</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Variation perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Contract perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stabilizing Skill perk">
+    <PageReference>TMS5</PageReference>
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Staff Attunement perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Staff Bond perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standard Operating Procedure perk">
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Style prerequisites">
+    <PageReference>TMS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Styles">
+    <SeeAlso>Magical Styles</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Summoners of the Onyx Path">
+    <PageReference>TMS34</PageReference>
+    <PageReference>TMS35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Summoning demons spell theme">
+    <PageReference>TMS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-Sympathy perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbol-casting spell theme">
+    <PageReference>TMS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technological spell theme">
+    <PageReference>TMS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temple styles">
+    <SeeAlso>Chains of Spells</SeeAlso>
+    <Child ReferenceText="skills">
+      <PageReference>TMS6</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>TMS6</PageReference>
+      <PageReference>TMS7</PageReference>
+      <PageReference>TMS10-12</PageReference>
+      <PageReference>TMS16</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>TMS13-14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thaumatological Doublespeak perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Theoretical styles">
+    <SeeAlso>Chains of Spells</SeeAlso>
+    <Child ReferenceText="skills">
+      <PageReference>TMS4</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>TMS6</PageReference>
+      <PageReference>TMS16</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>TMS14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Third Circle (Shadowkeeper)">
+    <PageReference>TMS34</PageReference>
+    <PageReference>TMS35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Threshold-limited magic and magical styles">
+    <PageReference>TMS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time control spell theme">
+    <PageReference>TMS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Waiving prerequisites">
+    <PageReference>TMS16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warning spell theme">
+    <PageReference>TMS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water spell theme">
+    <PageReference>TMS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weather spell theme">
+    <PageReference>TMS9</PageReference>
+    <PageReference>TMS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Willful Casting">
+    <Child ReferenceText="perk">
+      <PageReference>TMS13</PageReference>
+      <PageReference>TMS14</PageReference>
+      <PageReference>TMS33</PageReference>
+    </Child>
+    <Child ReferenceText="cantrip perk">
+      <PageReference>TMS27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizardly Dabbler perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizardly Garb perk">
+    <PageReference>TMS13</PageReference>
+    <PageReference>TMS14</PageReference>
+    <PageReference>TMS33</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

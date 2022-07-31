@@ -1,0 +1,1361 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Achievement">
+    <Child ReferenceText="Status and">
+      <PageReference>SE15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>SE41-43</PageReference>
+    <PageReference>SE52-53</PageReference>
+    <PageReference>SE77</PageReference>
+    <Child ReferenceText="sensory">
+      <PageReference>SE44</PageReference>
+    </Child>
+    <Child ReferenceText="useful in campaigns">
+      <PageReference>SE8-10</PageReference>
+    </Child>
+    <Child ReferenceText="using in adventures">
+      <PageReference>SE7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Campaigns</SeeAlso>
+    <Child ReferenceText="chance encounters">
+      <PageReference>SE7</PageReference>
+    </Child>
+    <Child ReferenceText="finding">
+      <PageReference>SE7</PageReference>
+    </Child>
+    <Child ReferenceText="hooks">
+      <PageReference>SE7</PageReference>
+    </Child>
+    <Child ReferenceText="interaction as plot support">
+      <PageReference>SE7</PageReference>
+    </Child>
+    <Child ReferenceText="scenes and subplots">
+      <PageReference>SE6-7</PageReference>
+    </Child>
+    <Child ReferenceText="social incidents">
+      <PageReference>SE6-7</PageReference>
+    </Child>
+    <Child ReferenceText="using character backgrounds">
+      <PageReference>SE7</PageReference>
+    </Child>
+    <Child ReferenceText="carrying out">
+      <PageReference>SE7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventuring companions">
+    <PageReference>SE42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advertising">
+    <PageReference>SE61-62</PageReference>
+    <SeeAlso>Propaganda Skill</SeeAlso>
+    <Child ReferenceText="search rolls and">
+      <PageReference>SE61</PageReference>
+    </Child>
+    <Child ReferenceText="using with searches">
+      <PageReference>SE22</PageReference>
+      <PageReference>SE23</PageReference>
+      <PageReference>SE46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aid">
+    <Child ReferenceText="results of requesting">
+      <PageReference>SE75</PageReference>
+    </Child>
+    <Child ReferenceText="requesting">
+      <PageReference>SE28</PageReference>
+      <PageReference>SE47</PageReference>
+      <PageReference>SE54</PageReference>
+      <PageReference>SE55</PageReference>
+      <PageReference>SE69</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aliens">
+    <SeeAlso>Foreign Societies</SeeAlso>
+    <SeeAlso>Racial</SeeAlso>
+    <Child ReferenceText="interactions with">
+      <PageReference>SE44</PageReference>
+    </Child>
+    <Child ReferenceText="social perceptions">
+      <PageReference>SE44</PageReference>
+    </Child>
+    <Child ReferenceText="communication">
+      <PageReference>SE44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alliances">
+    <Child ReferenceText="political">
+      <PageReference>SE65-66</PageReference>
+    </Child>
+    <Child ReferenceText="family">
+      <PageReference>SE65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies advantage">
+    <PageReference>SE42</PageReference>
+    <Child ReferenceText="acquiring new">
+      <PageReference>SE41</PageReference>
+    </Child>
+    <Child ReferenceText="adventures and">
+      <PageReference>SE7</PageReference>
+    </Child>
+    <Child ReferenceText="ending the relationship">
+      <PageReference>SE43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Amobarbital">
+    <PageReference>SE55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amusing Social Regard">
+    <PageReference>SE77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anarchy">
+    <PageReference>SE17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Androgynous perk">
+    <PageReference>SE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance">
+    <Child ReferenceText="perks">
+      <PageReference>SE78</PageReference>
+      <PageReference>SE18</PageReference>
+      <PageReference>SE43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Approachability">
+    <Child ReferenceText="judging">
+      <PageReference>SE25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aristocratic">
+    <Child ReferenceText="titles">
+      <PageReference>SE13</PageReference>
+    </Child>
+    <Child ReferenceText="campaigns">
+      <PageReference>SE9-10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ascription">
+    <Child ReferenceText="Status and">
+      <PageReference>SE15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aspected limitation">
+    <PageReference>SE77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Athenian democracy">
+    <PageReference>SE17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Athletic Uniforms Heraldry specialty">
+    <PageReference>SE80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Augmented reality">
+    <Child ReferenceText="interaction using">
+      <PageReference>SE33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Badger con games">
+    <PageReference>SE38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bibliography">
+    <PageReference>SE82-84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blackmail">
+    <PageReference>SE49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bookend stories">
+    <PageReference>SE6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brainwashing">
+    <PageReference>SE55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bribery">
+    <PageReference>SE28</PageReference>
+    <PageReference>SE47-49</PageReference>
+    <Child ReferenceText="advertising budget and">
+      <PageReference>SE22</PageReference>
+      <PageReference>SE23</PageReference>
+    </Child>
+    <Child ReferenceText="gifts as">
+      <PageReference>SE28</PageReference>
+      <PageReference>SE29</PageReference>
+      <PageReference>SE35</PageReference>
+    </Child>
+    <Child ReferenceText="jobs and">
+      <PageReference>SE50</PageReference>
+      <PageReference>SE51</PageReference>
+    </Child>
+    <Child ReferenceText="politics and">
+      <PageReference>SE64</PageReference>
+    </Child>
+    <Child ReferenceText="prisons and">
+      <PageReference>SE55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Buyers">
+    <Child ReferenceText="finding">
+      <PageReference>SE23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <SeeAlso>Adventures</SeeAlso>
+    <Child ReferenceText="level of interactions in">
+      <PageReference>SE5-6</PageReference>
+    </Child>
+    <Child ReferenceText="political focus">
+      <PageReference>SE9</PageReference>
+    </Child>
+    <Child ReferenceText="rewards">
+      <PageReference>SE17</PageReference>
+    </Child>
+    <Child ReferenceText="themes">
+      <PageReference>SE8-10</PageReference>
+    </Child>
+    <Child ReferenceText="tips">
+      <PageReference>SE73</PageReference>
+    </Child>
+    <Child ReferenceText="distancing mechanisms">
+      <PageReference>SE10-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Capture">
+    <Child ReferenceText="by organizations">
+      <PageReference>SE53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Careers">
+    <SeeAlso>Jobs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cartels">
+    <PageReference>SE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caste society">
+    <PageReference>SE17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <Child ReferenceText="recommended traits">
+      <PageReference>SE8</PageReference>
+      <PageReference>SE9</PageReference>
+      <PageReference>SE20</PageReference>
+      <PageReference>SE51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Charisma advantage">
+    <PageReference>SE18</PageReference>
+    <Child ReferenceText="Aspected example">
+      <PageReference>SE77</PageReference>
+    </Child>
+    <Child ReferenceText="bonuses from">
+      <PageReference>SE26</PageReference>
+      <PageReference>SE32</PageReference>
+      <PageReference>SE33</PageReference>
+      <PageReference>SE50</PageReference>
+      <PageReference>SE51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Citizenship perk">
+    <PageReference>SE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claim to Hospitality advantage">
+    <PageReference>SE16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clan society">
+    <PageReference>SE17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Classic Features perk">
+    <PageReference>SE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical Investment advantage">
+    <PageReference>SE16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <Child ReferenceText="styling">
+      <PageReference>SE19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Coats of Arms/Mon Heraldry specialty">
+    <PageReference>SE80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor disadvantage">
+    <PageReference>SE80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colony">
+    <PageReference>SE17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coloration">
+    <Child ReferenceText="impressions and">
+      <PageReference>SE20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <Child ReferenceText="drawing aggression">
+      <PageReference>SE70</PageReference>
+    </Child>
+    <Child ReferenceText="provoking">
+      <PageReference>SE69-70</PageReference>
+    </Child>
+    <Child ReferenceText="reaction rolls">
+      <PageReference>SE68</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>SE69-70</PageReference>
+    </Child>
+    <Child ReferenceText="avoiding">
+      <PageReference>SE70</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Commercial rivalry">
+    <PageReference>SE34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Commercial transactions">
+    <PageReference>SE26-27</PageReference>
+    <PageReference>SE47</PageReference>
+    <Child ReferenceText="reaction results">
+      <PageReference>SE75</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Communities">
+    <Child ReferenceText="finding">
+      <PageReference>SE58-59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Companionship">
+    <Child ReferenceText="finding">
+      <PageReference>SE23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Complementary skills">
+    <PageReference>SE21</PageReference>
+    <PageReference>SE31</PageReference>
+    <PageReference>SE48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <Child ReferenceText="gaining access">
+      <PageReference>SE48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Concealed activities">
+    <Child ReferenceText="finding">
+      <PageReference>SE22-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Confidence games">
+    <PageReference>SE38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Connoisseur skill">
+    <PageReference>SE80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact Group advantage">
+    <PageReference>SE52</PageReference>
+    <PageReference>SE57</PageReference>
+    <PageReference>SE59</PageReference>
+    <PageReference>SE67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts advantage">
+    <PageReference>SE42</PageReference>
+    <PageReference>SE77</PageReference>
+    <Child ReferenceText="adventures and">
+      <PageReference>SE7</PageReference>
+    </Child>
+    <Child ReferenceText="acquiring new">
+      <PageReference>SE41</PageReference>
+    </Child>
+    <Child ReferenceText="bribes and">
+      <PageReference>SE48</PageReference>
+    </Child>
+    <Child ReferenceText="ending the relationship">
+      <PageReference>SE43</PageReference>
+    </Child>
+    <Child ReferenceText="government as">
+      <PageReference>SE67</PageReference>
+    </Child>
+    <Child ReferenceText="informants as">
+      <PageReference>SE23</PageReference>
+    </Child>
+    <Child ReferenceText="middleman as">
+      <PageReference>SE24</PageReference>
+    </Child>
+    <Child ReferenceText="prisons and">
+      <PageReference>SE54</PageReference>
+      <PageReference>SE55</PageReference>
+    </Child>
+    <Child ReferenceText="organization">
+      <PageReference>SE49</PageReference>
+      <PageReference>SE53</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>SE17</PageReference>
+      <PageReference>SE43</PageReference>
+      <PageReference>SE57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Convincing Nod Shtick">
+    <PageReference>SE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corporate Logos Heraldry specialty">
+    <PageReference>SE80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corporate state">
+    <PageReference>SE17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost factor">
+    <Child ReferenceText="clothing">
+      <PageReference>SE19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost of living">
+    <PageReference>SE18-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Courtesy Rank advantage">
+    <PageReference>SE13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Courtesy Title perk">
+    <PageReference>SE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Courtship">
+    <PageReference>SE40-41</PageReference>
+    <SeeAlso>Romance</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Crowds">
+    <SeeAlso>Groups</SeeAlso>
+    <SeeAlso>Households</SeeAlso>
+    <SeeAlso>Mobs</SeeAlso>
+    <SeeAlso>Organizations</SeeAlso>
+    <Child ReferenceText="working">
+      <PageReference>SE60</PageReference>
+    </Child>
+    <Child ReferenceText="mood of">
+      <PageReference>SE56</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Familiarity advantage">
+    <PageReference>SE10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Customs">
+    <Child ReferenceText="foreign">
+      <PageReference>SE7</PageReference>
+      <PageReference>SE10-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutting Out technique">
+    <PageReference>SE81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Debate">
+    <PageReference>SE34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deception">
+    <PageReference>SE36-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Democracy">
+    <PageReference>SE17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dependents disadvantage">
+    <PageReference>SE42</PageReference>
+    <PageReference>SE80</PageReference>
+    <Child ReferenceText="adventures and">
+      <PageReference>SE7</PageReference>
+    </Child>
+    <Child ReferenceText="ending the relationship">
+      <PageReference>SE43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dialectic">
+    <PageReference>SE35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dictatorships">
+    <PageReference>SE17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diplomacy skill">
+    <PageReference>SE30</PageReference>
+    <PageReference>SE65-66</PageReference>
+    <Child ReferenceText="alliances and">
+      <PageReference>SE65</PageReference>
+    </Child>
+    <Child ReferenceText="blackmail and">
+      <PageReference>SE49</PageReference>
+    </Child>
+    <Child ReferenceText="fighting and">
+      <PageReference>SE70</PageReference>
+    </Child>
+    <Child ReferenceText="politics and">
+      <PageReference>SE63</PageReference>
+      <PageReference>SE64</PageReference>
+    </Child>
+    <Child ReferenceText="related perk">
+      <PageReference>SE78</PageReference>
+    </Child>
+    <Child ReferenceText="related wildcard skill">
+      <PageReference>SE81</PageReference>
+    </Child>
+    <Child ReferenceText="using with groups">
+      <PageReference>SE57-59</PageReference>
+    </Child>
+    <Child ReferenceText="using with individuals">
+      <PageReference>SE26</PageReference>
+      <PageReference>SE33</PageReference>
+      <PageReference>SE40</PageReference>
+      <PageReference>SE41</PageReference>
+    </Child>
+    <Child ReferenceText="using with organizations">
+      <PageReference>SE47</PageReference>
+      <PageReference>SE50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>SE80</PageReference>
+    <Child ReferenceText="offensive">
+      <PageReference>SE20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disarming Smile Shtick">
+    <PageReference>SE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disputation">
+    <PageReference>SE34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distancing mechanisms">
+    <PageReference>SE10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distractions">
+    <Child ReferenceText="creating">
+      <PageReference>SE36</PageReference>
+      <PageReference>SE70</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disturbing Voice disadvantage">
+    <PageReference>SE18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drugs">
+    <PageReference>SE55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Easy marks">
+    <PageReference>SE6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Economic rivalry">
+    <PageReference>SE66-67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Employees">
+    <PageReference>SE8</PageReference>
+    <PageReference>SE42</PageReference>
+    <SeeAlso>Organizations</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemies">
+    <Child ReferenceText="ending the relationship">
+      <PageReference>SE43</PageReference>
+    </Child>
+    <Child ReferenceText="internal organizational">
+      <PageReference>SE53</PageReference>
+    </Child>
+    <Child ReferenceText="organizations as">
+      <PageReference>SE53-55</PageReference>
+    </Child>
+    <Child ReferenceText="adventures and">
+      <PageReference>SE7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancement">
+    <Child ReferenceText="new">
+      <PageReference>SE80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Entertainment">
+    <PageReference>SE60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Erotic Art skill">
+    <PageReference>SE29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Espionage">
+    <PageReference>SE49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exotic worlds">
+    <PageReference>SE10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expert Skill">
+    <PageReference>SE80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fake! wildcard skill">
+    <PageReference>SE81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faked credentials">
+    <PageReference>SE39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="False identities">
+    <PageReference>SE37-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Family">
+    <Child ReferenceText="cost of living and">
+      <PageReference>SE20</PageReference>
+    </Child>
+    <Child ReferenceText="alliances">
+      <PageReference>SE65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fashion Sense advantage">
+    <PageReference>SE77</PageReference>
+    <Child ReferenceText="modifiers from">
+      <PageReference>SE29</PageReference>
+      <PageReference>SE39</PageReference>
+      <PageReference>SE61</PageReference>
+      <PageReference>SE80</PageReference>
+    </Child>
+    <Child ReferenceText="related perk">
+      <PageReference>SE78</PageReference>
+    </Child>
+    <Child ReferenceText="searching and">
+      <PageReference>SE23</PageReference>
+    </Child>
+    <Child ReferenceText="styling and">
+      <PageReference>SE19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Talk skill">
+    <PageReference>SE30</PageReference>
+    <Child ReferenceText="alliances and">
+      <PageReference>SE65</PageReference>
+      <PageReference>SE66</PageReference>
+    </Child>
+    <Child ReferenceText="blackmail and">
+      <PageReference>SE49</PageReference>
+    </Child>
+    <Child ReferenceText="con games and">
+      <PageReference>SE38</PageReference>
+    </Child>
+    <Child ReferenceText="distractions and">
+      <PageReference>SE36</PageReference>
+      <PageReference>SE70</PageReference>
+    </Child>
+    <Child ReferenceText="false identities and">
+      <PageReference>SE39</PageReference>
+    </Child>
+    <Child ReferenceText="fighting and">
+      <PageReference>SE69</PageReference>
+      <PageReference>SE70</PageReference>
+    </Child>
+    <Child ReferenceText="intimidation and">
+      <PageReference>SE69</PageReference>
+    </Child>
+    <Child ReferenceText="lies and">
+      <PageReference>SE36</PageReference>
+      <PageReference>SE37</PageReference>
+    </Child>
+    <Child ReferenceText="manipulation and">
+      <PageReference>SE37</PageReference>
+    </Child>
+    <Child ReferenceText="mobs and">
+      <PageReference>SE72</PageReference>
+    </Child>
+    <Child ReferenceText="related perk">
+      <PageReference>SE78</PageReference>
+    </Child>
+    <Child ReferenceText="related wildcard skill">
+      <PageReference>SE81</PageReference>
+    </Child>
+    <Child ReferenceText="using with groups">
+      <PageReference>SE58</PageReference>
+    </Child>
+    <Child ReferenceText="using with individuals">
+      <PageReference>SE25</PageReference>
+      <PageReference>SE26</PageReference>
+      <PageReference>SE33</PageReference>
+      <PageReference>SE35</PageReference>
+      <PageReference>SE41</PageReference>
+    </Child>
+    <Child ReferenceText="using with organizations">
+      <PageReference>SE47</PageReference>
+      <PageReference>SE48</PageReference>
+      <PageReference>SE50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Favor advantage">
+    <Child ReferenceText="as reward">
+      <PageReference>SE17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fearsome Stare Shtick">
+    <PageReference>SE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feudal society">
+    <PageReference>SE17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fighting">
+    <SeeAlso>Combat</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Find the Lady con games">
+    <PageReference>SE38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flunitrazepam">
+    <PageReference>SE55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foreign societies">
+    <PageReference>SE7</PageReference>
+    <PageReference>SE10-11</PageReference>
+    <SeeAlso>Aliens</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Forgettable Face perk">
+    <PageReference>SE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frame stories">
+    <PageReference>SE6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gangster Swagger Shtick">
+    <PageReference>SE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gatekeepers">
+    <PageReference>SE47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Go-betweens">
+    <PageReference>SE24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Going Viral technique">
+    <PageReference>SE81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Good Samaritan con games">
+    <PageReference>SE38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Government">
+    <Child ReferenceText="types">
+      <PageReference>SE17</PageReference>
+    </Child>
+    <Child ReferenceText="offices">
+      <PageReference>SE46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Graffiti Tags Heraldry specialty">
+    <PageReference>SE80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Groups">
+    <SeeAlso>Crowds</SeeAlso>
+    <SeeAlso>Households</SeeAlso>
+    <SeeAlso>Mobs</SeeAlso>
+    <SeeAlso>Organizations</SeeAlso>
+    <Child ReferenceText="indirect influence">
+      <PageReference>SE61-62</PageReference>
+    </Child>
+    <Child ReferenceText="leaderless">
+      <PageReference>SE33</PageReference>
+    </Child>
+    <Child ReferenceText="with a focal performer">
+      <PageReference>SE34</PageReference>
+    </Child>
+    <Child ReferenceText="with formal leadership">
+      <PageReference>SE34</PageReference>
+    </Child>
+    <Child ReferenceText="direct influence">
+      <PageReference>SE59-61</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Guild Rank advantage">
+    <PageReference>SE15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>SE4</PageReference>
+    <PageReference>SE6</PageReference>
+    <PageReference>SE8</PageReference>
+    <PageReference>SE11</PageReference>
+    <PageReference>SE12</PageReference>
+    <PageReference>SE14</PageReference>
+    <PageReference>SE20</PageReference>
+    <PageReference>SE22</PageReference>
+    <PageReference>SE37</PageReference>
+    <PageReference>SE39</PageReference>
+    <PageReference>SE49</PageReference>
+    <PageReference>SE64</PageReference>
+    <PageReference>SE73</PageReference>
+    <SeeAlso>Transhuman Space</SeeAlso>
+    <Child ReferenceText="Action 1: Heroes">
+      <PageReference>SE4</PageReference>
+      <PageReference>SE51</PageReference>
+    </Child>
+    <Child ReferenceText="Action 2: Exploits">
+      <PageReference>SE4</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>SE4</PageReference>
+      <PageReference>SE28</PageReference>
+      <PageReference>SE37</PageReference>
+    </Child>
+    <Child ReferenceText="Caravan to Ein Arris">
+      <PageReference>SE9</PageReference>
+    </Child>
+    <Child ReferenceText="City Stats">
+      <PageReference>SE24</PageReference>
+      <PageReference>SE49</PageReference>
+      <PageReference>SE55</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>SE4</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>SE16</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>SE26</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>SE4</PageReference>
+      <PageReference>SE5</PageReference>
+    </Child>
+    <Child ReferenceText="Infinite Worlds">
+      <PageReference>SE11</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech">
+      <PageReference>SE26</PageReference>
+      <PageReference>SE46</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 1: Philosophers and Kings">
+      <PageReference>SE17</PageReference>
+      <PageReference>SE29</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 3: Daily Life and Economics">
+      <PageReference>SE9</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>SE5</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat">
+      <PageReference>SE64</PageReference>
+    </Child>
+    <Child ReferenceText="Mysteries">
+      <PageReference>SE4</PageReference>
+      <PageReference>SE31</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>SE4</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>SE5</PageReference>
+      <PageReference>SE11</PageReference>
+      <PageReference>SE18</PageReference>
+    </Child>
+    <Child ReferenceText="Space">
+      <PageReference>SE44</PageReference>
+    </Child>
+    <Child ReferenceText="Traveller: Interstellar Wars">
+      <PageReference>SE4</PageReference>
+    </Child>
+    <Child ReferenceText="UltraTech">
+      <PageReference>SE26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Haggling">
+    <PageReference>SE27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hallmarks Heraldry specialty">
+    <PageReference>SE80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hanging-out campaigns">
+    <PageReference>SE10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Haughty Sneer Shtick">
+    <PageReference>SE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Headhunter perk">
+    <PageReference>SE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hecklers">
+    <PageReference>SE60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Height">
+    <Child ReferenceText="impressions and">
+      <PageReference>SE20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Henry VIII">
+    <PageReference>SE13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heraldry skill">
+    <PageReference>SE80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden agendas">
+    <PageReference>SE51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden Lore skill">
+    <PageReference>SE80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden Status perk">
+    <PageReference>SE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hinting technique">
+    <PageReference>SE81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hirelings">
+    <Child ReferenceText="finding">
+      <PageReference>SE22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Households">
+    <Child ReferenceText="finding">
+      <PageReference>SE58-59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Idleness campaigns">
+    <PageReference>SE9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impressions">
+    <Child ReferenceText="traits affecting">
+      <PageReference>SE17-20</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>SE20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Imprisonment">
+    <PageReference>SE54-55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="In the Know perk">
+    <PageReference>SE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Influence power (trait)">
+    <PageReference>SE18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Influence rolls">
+    <PageReference>SE29-32</PageReference>
+    <Child ReferenceText="against PCs">
+      <PageReference>SE32</PageReference>
+    </Child>
+    <Child ReferenceText="competitive">
+      <PageReference>SE34-35</PageReference>
+    </Child>
+    <Child ReferenceText="expanded">
+      <PageReference>SE31</PageReference>
+    </Child>
+    <Child ReferenceText="useless situations">
+      <PageReference>SE31-32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Influence Shticks">
+    <PageReference>SE6</PageReference>
+    <PageReference>SE30</PageReference>
+    <PageReference>SE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Influence skills">
+    <PageReference>SE30</PageReference>
+    <Child ReferenceText="substitutes for">
+      <PageReference>SE31</PageReference>
+    </Child>
+    <Child ReferenceText="used without words">
+      <PageReference>SE30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Informants">
+    <Child ReferenceText="finding">
+      <PageReference>SE23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Information">
+    <Child ReferenceText="requesting">
+      <PageReference>SE28</PageReference>
+      <PageReference>SE46</PageReference>
+      <PageReference>SE47</PageReference>
+      <PageReference>SE49</PageReference>
+      <PageReference>SE52</PageReference>
+      <PageReference>SE54</PageReference>
+      <PageReference>SE57</PageReference>
+    </Child>
+    <Child ReferenceText="results of requesting">
+      <PageReference>SE75-76</PageReference>
+    </Child>
+    <Child ReferenceText="giving">
+      <PageReference>SE28</PageReference>
+      <PageReference>SE47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Inner circles">
+    <Child ReferenceText="getting into">
+      <PageReference>SE59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Insignia and Uniforms Heraldry specialty">
+    <PageReference>SE80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insults">
+    <PageReference>SE35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interactions">
+    <Child ReferenceText="general reactions">
+      <PageReference>SE26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Interrogation">
+    <PageReference>SE53-54</PageReference>
+    <Child ReferenceText="drugs and">
+      <PageReference>SE55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intimidation skill">
+    <PageReference>SE30</PageReference>
+    <PageReference>SE68-69</PageReference>
+    <Child ReferenceText="animals and">
+      <PageReference>SE31</PageReference>
+    </Child>
+    <Child ReferenceText="con games and">
+      <PageReference>SE38</PageReference>
+    </Child>
+    <Child ReferenceText="distractions and">
+      <PageReference>SE36</PageReference>
+      <PageReference>SE70</PageReference>
+    </Child>
+    <Child ReferenceText="economic rivalry and">
+      <PageReference>SE66</PageReference>
+      <PageReference>SE67</PageReference>
+    </Child>
+    <Child ReferenceText="fighting and">
+      <PageReference>SE70</PageReference>
+    </Child>
+    <Child ReferenceText="manipulation and">
+      <PageReference>SE37</PageReference>
+    </Child>
+    <Child ReferenceText="interrogation and">
+      <PageReference>SE53</PageReference>
+      <PageReference>SE54</PageReference>
+    </Child>
+    <Child ReferenceText="mobs and">
+      <PageReference>SE72</PageReference>
+    </Child>
+    <Child ReferenceText="related perks">
+      <PageReference>SE78</PageReference>
+      <PageReference>SE79</PageReference>
+    </Child>
+    <Child ReferenceText="using with individuals">
+      <PageReference>SE33</PageReference>
+      <PageReference>SE40</PageReference>
+      <PageReference>SE41</PageReference>
+    </Child>
+    <Child ReferenceText="using with organizations">
+      <PageReference>SE47</PageReference>
+      <PageReference>SE48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Investors">
+    <Child ReferenceText="finding">
+      <PageReference>SE46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Involuntary relationships">
+    <Child ReferenceText="loyalty">
+      <PageReference>SE39-40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Irony technique">
+    <PageReference>SE81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jobs">
+    <Child ReferenceText="campaigns">
+      <PageReference>SE8-10</PageReference>
+    </Child>
+    <Child ReferenceText="finding">
+      <PageReference>SE22-23</PageReference>
+    </Child>
+    <Child ReferenceText="getting">
+      <PageReference>SE50</PageReference>
+    </Child>
+    <Child ReferenceText="keeping">
+      <PageReference>SE50</PageReference>
+    </Child>
+    <Child ReferenceText="promotion">
+      <PageReference>SE50</PageReference>
+    </Child>
+    <Child ReferenceText="being in charge">
+      <PageReference>SE51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Labor unions">
+    <PageReference>SE67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Largess">
+    <PageReference>SE59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legal Enforcement Powers advantage">
+    <PageReference>SE16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legal Immunity advantage">
+    <PageReference>SE16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legislation">
+    <PageReference>SE64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Liminal period">
+    <PageReference>SE11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitation">
+    <Child ReferenceText="new">
+      <PageReference>SE77</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Looks Good in Uniform perk">
+    <PageReference>SE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loyalty">
+    <PageReference>SE39-40</PageReference>
+    <Child ReferenceText="in play">
+      <PageReference>SE43</PageReference>
+    </Child>
+    <Child ReferenceText="results">
+      <PageReference>SE76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lying">
+    <PageReference>SE36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Macrosocieties">
+    <PageReference>SE11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical Rank advantage">
+    <PageReference>SE15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manipulation">
+    <PageReference>SE37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Masters">
+    <Child ReferenceText="finding">
+      <PageReference>SE41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Media">
+    <Child ReferenceText="sampling">
+      <PageReference>SE58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Memetics">
+    <Child ReferenceText="Expert Skill">
+      <PageReference>SE80</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>SE77</PageReference>
+    </Child>
+    <Child ReferenceText="applied">
+      <PageReference>SE62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mercantile campaigns">
+    <PageReference>SE9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchant skill">
+    <PageReference>SE25</PageReference>
+    <PageReference>SE46</PageReference>
+    <Child ReferenceText="bonuses for">
+      <PageReference>SE27</PageReference>
+    </Child>
+    <Child ReferenceText="commercial transactions">
+      <PageReference>SE23</PageReference>
+      <PageReference>SE31</PageReference>
+      <PageReference>SE34</PageReference>
+      <PageReference>SE47</PageReference>
+      <PageReference>SE66</PageReference>
+    </Child>
+    <Child ReferenceText="haggling">
+      <PageReference>SE27</PageReference>
+    </Child>
+    <Child ReferenceText="prisons and">
+      <PageReference>SE54</PageReference>
+    </Child>
+    <Child ReferenceText="related wildcard skill">
+      <PageReference>SE81</PageReference>
+    </Child>
+    <Child ReferenceText="styling and">
+      <PageReference>SE19</PageReference>
+    </Child>
+    <Child ReferenceText="unions and">
+      <PageReference>SE67</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Middlemen">
+    <PageReference>SE24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military government">
+    <PageReference>SE17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minisocieties">
+    <PageReference>SE11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mobs">
+    <PageReference>SE71-72</PageReference>
+    <Child ReferenceText="action">
+      <PageReference>SE71-72</PageReference>
+    </Child>
+    <Child ReferenceText="enforcing order">
+      <PageReference>SE72</PageReference>
+    </Child>
+    <Child ReferenceText="peacemaking">
+      <PageReference>SE72</PageReference>
+    </Child>
+    <Child ReferenceText="provoking">
+      <PageReference>SE72</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mockery">
+    <PageReference>SE35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monopoly">
+    <Child ReferenceText="economic">
+      <PageReference>SE66-67</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Motives">
+    <Child ReferenceText="determining">
+      <PageReference>SE25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Negotiator! wildcard skill">
+    <PageReference>SE81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Networked perk">
+    <PageReference>SE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonhumans">
+    <SeeAlso>Aliens</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Odious Personal Habit disadvantage">
+    <PageReference>SE80</PageReference>
+    <Child ReferenceText="effects">
+      <PageReference>SE71</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>SE19</PageReference>
+      <PageReference>SE20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Offensive behavior">
+    <PageReference>SE20</PageReference>
+    <SeeAlso>Odious Personal Habit Disadvantage</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Office perk">
+    <PageReference>SE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Opinion polls">
+    <PageReference>SE57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Organizations">
+    <SeeAlso>Jobs</SeeAlso>
+    <Child ReferenceText="finding">
+      <PageReference>SE45-46</PageReference>
+    </Child>
+    <Child ReferenceText="getting in">
+      <PageReference>SE47</PageReference>
+    </Child>
+    <Child ReferenceText="hostile">
+      <PageReference>SE53-55</PageReference>
+    </Child>
+    <Child ReferenceText="influencing">
+      <PageReference>SE47</PageReference>
+    </Child>
+    <Child ReferenceText="internal enemies">
+      <PageReference>SE53</PageReference>
+    </Child>
+    <Child ReferenceText="reaction rolls">
+      <PageReference>SE47</PageReference>
+    </Child>
+    <Child ReferenceText="relationship advantages">
+      <PageReference>SE52-53</PageReference>
+    </Child>
+    <Child ReferenceText="Reputation">
+      <PageReference>SE52</PageReference>
+    </Child>
+    <Child ReferenceText="continuing relationships">
+      <PageReference>SE49-53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Organized Crime Rank advantage">
+    <PageReference>SE15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Panic">
+    <PageReference>SE72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Panopticons">
+    <PageReference>SE53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Party Animal perk">
+    <PageReference>SE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Passing Appearance perk">
+    <PageReference>SE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Passing Complexion perk">
+    <PageReference>SE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Passwords">
+    <Child ReferenceText="getting">
+      <PageReference>SE48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrons advantage">
+    <PageReference>SE41</PageReference>
+    <Child ReferenceText="adventures and">
+      <PageReference>SE7</PageReference>
+    </Child>
+    <Child ReferenceText="acquiring new">
+      <PageReference>SE41</PageReference>
+    </Child>
+    <Child ReferenceText="economic">
+      <PageReference>SE66</PageReference>
+      <PageReference>SE67</PageReference>
+    </Child>
+    <Child ReferenceText="ending the relationship">
+      <PageReference>SE43</PageReference>
+    </Child>
+    <Child ReferenceText="organization">
+      <PageReference>SE52</PageReference>
+      <PageReference>SE53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="People">
+    <Child ReferenceText="learning details about">
+      <PageReference>SE24</PageReference>
+    </Child>
+    <Child ReferenceText="finding">
+      <PageReference>SE22-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>SE77-79</PageReference>
+    <Child ReferenceText="impression">
+      <PageReference>SE20</PageReference>
+    </Child>
+    <Child ReferenceText="social">
+      <PageReference>SE79</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Permit perk">
+    <PageReference>SE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal relationships">
+    <PageReference>SE39-43</PageReference>
+    <Child ReferenceText="abandoned">
+      <PageReference>SE43</PageReference>
+    </Child>
+    <Child ReferenceText="advantages">
+      <PageReference>SE41-43</PageReference>
+    </Child>
+    <Child ReferenceText="building trust">
+      <PageReference>SE40-41</PageReference>
+    </Child>
+    <Child ReferenceText="combined">
+      <PageReference>SE43</PageReference>
+    </Child>
+    <Child ReferenceText="continued">
+      <PageReference>SE43</PageReference>
+    </Child>
+    <Child ReferenceText="determining">
+      <PageReference>SE26</PageReference>
+    </Child>
+    <Child ReferenceText="indirect interaction">
+      <PageReference>SE32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Photogenic perk">
+    <PageReference>SE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Physical features">
+    <Child ReferenceText="impressions and">
+      <PageReference>SE20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Physiology">
+    <Child ReferenceText="effects on interactions">
+      <PageReference>SE44</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

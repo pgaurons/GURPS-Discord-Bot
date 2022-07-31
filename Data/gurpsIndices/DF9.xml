@@ -1,0 +1,1078 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abyss lens">
+    <PageReference>DF9:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accessibility limitation">
+    <PageReference>DF9:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <PageReference>DF9:39-42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air">
+    <Child ReferenceText="spells">
+      <PageReference>DF9:11</PageReference>
+    </Child>
+    <Child ReferenceText="elementals">
+      <PageReference>DF9:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Air Jet">
+    <PageReference>DF9:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ally advantage">
+    <PageReference>DF9:4-5</PageReference>
+    <PageReference>DF9:20</PageReference>
+    <PageReference>DF9:25</PageReference>
+    <PageReference>DF9:38</PageReference>
+    <PageReference>DF9:39</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DF9:8</PageReference>
+      <PageReference>DF9:10</PageReference>
+      <PageReference>DF9:15</PageReference>
+      <PageReference>DF9:17</PageReference>
+      <PageReference>DF9:22</PageReference>
+    </Child>
+    <Child ReferenceText="hordes">
+      <PageReference>DF9:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate elements">
+    <PageReference>DF9:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Angels">
+    <PageReference>DF9:32</PageReference>
+    <PageReference>DF9:33</PageReference>
+    <PageReference>DF9:35</PageReference>
+    <Child ReferenceText="emissaries">
+      <PageReference>DF9:35</PageReference>
+      <PageReference>DF9:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal familiar, phantom">
+    <PageReference>DF9:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal-spirit">
+    <PageReference>DF9:17</PageReference>
+    <PageReference>DF9:21-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Annihilating Touch ability">
+    <PageReference>DF9:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral Plane">
+    <PageReference>DF9:40</PageReference>
+    <PageReference>DF9:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attuned elemental abilities">
+    <PageReference>DF9:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bear lens">
+    <PageReference>DF9:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bird lens">
+    <PageReference>DF9:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bird of fire lens">
+    <PageReference>DF9:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blazing Breath demon option">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burrower perk">
+    <PageReference>DF9:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Celestial PCs">
+    <PageReference>DF9:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chinese elements">
+    <PageReference>DF9:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claim to Hospitality advantage">
+    <PageReference>DF9:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Class of monster">
+    <PageReference>DF9:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloak of Darkness demon option">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor (Shaman’s) advantage">
+    <PageReference>DF9:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coiled spring lens">
+    <PageReference>DF9:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Community leaders">
+    <PageReference>DF9:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conjured enhancement">
+    <PageReference>DF9:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact Group (Local Spirits) advantage">
+    <PageReference>DF9:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmology">
+    <PageReference>DF9:39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Creature of the blade lens">
+    <PageReference>DF9:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Creature of the soil lens">
+    <PageReference>DF9:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Creature statistics">
+    <PageReference>DF9:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark Oracle demon option">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death prophets">
+    <PageReference>DF9:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death-bringers">
+    <PageReference>DF9:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deathliness Talent">
+    <PageReference>DF9:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deathly spells">
+    <PageReference>DF9:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delegating, too much">
+    <PageReference>DF9:38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demon Allies">
+    <PageReference>DF9:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonic Attunement">
+    <PageReference>DF9:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonic Tutor demon option">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonological">
+    <Child ReferenceText="Power">
+      <PageReference>DF9:7-8</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>DF9:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonologist">
+    <Child ReferenceText="template">
+      <PageReference>DF9:5-7</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>DF9:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonology Power Modifier">
+    <PageReference>DF9:7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demons">
+    <PageReference>DF9:8</PageReference>
+    <PageReference>DF9:17</PageReference>
+    <PageReference>DF9:32-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Destructive Touch ability">
+    <PageReference>DF9:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Devilkin">
+    <PageReference>DF9:33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Devotees of primal power">
+    <PageReference>DF9:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Discord lens">
+    <PageReference>DF9:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disdain for Mere Spells demon option">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine Realms">
+    <PageReference>DF9:40</PageReference>
+    <PageReference>DF9:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeons and spirits">
+    <PageReference>DF9:36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth">
+    <Child ReferenceText="spells">
+      <PageReference>DF9:11</PageReference>
+    </Child>
+    <Child ReferenceText="elementals">
+      <PageReference>DF9:27-26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth servant lens">
+    <PageReference>DF9:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth titan lens">
+    <PageReference>DF9:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Echo lens">
+    <PageReference>DF9:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ecologies of spirit worlds">
+    <PageReference>DF9:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental">
+    <Child ReferenceText="perks">
+      <PageReference>DF9:11</PageReference>
+    </Child>
+    <Child ReferenceText="planar travel">
+      <PageReference>DF9:28</PageReference>
+    </Child>
+    <Child ReferenceText="Planes">
+      <PageReference>DF9:40</PageReference>
+      <PageReference>DF9:41</PageReference>
+    </Child>
+    <Child ReferenceText="Power Modifier">
+      <PageReference>DF9:10</PageReference>
+    </Child>
+    <Child ReferenceText="scholars">
+      <PageReference>DF9:10</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>DF9:10-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental Influence Talent">
+    <PageReference>DF9:10</PageReference>
+    <PageReference>DF9:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elementalist">
+    <Child ReferenceText="spells">
+      <PageReference>DF9:11-12</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>DF9:9-10</PageReference>
+    </Child>
+    <Child ReferenceText="infused">
+      <PageReference>DF9:32</PageReference>
+    </Child>
+    <Child ReferenceText="Power">
+      <PageReference>DF9:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elementals">
+    <PageReference>DF9:17</PageReference>
+    <PageReference>DF9:26-32</PageReference>
+    <PageReference>DF9:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elements, alternate">
+    <PageReference>DF9:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ember on the breeze lens">
+    <PageReference>DF9:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Embodied animal-spirits">
+    <PageReference>DF9:21-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emissaries of the gods">
+    <PageReference>DF9:35</PageReference>
+    <PageReference>DF9:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Engineer’s friend lens">
+    <PageReference>DF9:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enigma lens">
+    <PageReference>DF9:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Entangling Ground ability">
+    <PageReference>DF9:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ether">
+    <Child ReferenceText="spells">
+      <PageReference>DF9:12</PageReference>
+    </Child>
+    <Child ReferenceText="elementals">
+      <PageReference>DF9:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ethereal Plane">
+    <PageReference>DF9:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exorcism skill">
+    <PageReference>DF9:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exorcists">
+    <PageReference>DF9:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expert Skill">
+    <PageReference>DF9:10</PageReference>
+    <PageReference>DF9:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feathers perk">
+    <PageReference>DF9:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Finger of Doom ability">
+    <PageReference>DF9:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire">
+    <Child ReferenceText="spells">
+      <PageReference>DF9:11</PageReference>
+    </Child>
+    <Child ReferenceText="elementals">
+      <PageReference>DF9:28-29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Firebolt ability">
+    <PageReference>DF9:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire-hurler lens">
+    <PageReference>DF9:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flaming Spitball demon option">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flight-spirit lens">
+    <PageReference>DF9:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Force of the deeps lens">
+    <PageReference>DF9:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forest giant lens">
+    <PageReference>DF9:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Freelance experts">
+    <PageReference>DF9:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="General elemental abilities">
+    <PageReference>DF9:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genii loci">
+    <PageReference>DF9:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Getting to and from spirit worlds">
+    <PageReference>DF9:40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghosts">
+    <PageReference>DF9:17</PageReference>
+    <PageReference>DF9:21-24</PageReference>
+    <PageReference>DF9:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glowing Sword ability">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guardians">
+    <PageReference>DF9:17</PageReference>
+    <PageReference>DF9:21-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DF9:3</PageReference>
+      <PageReference>DF9:4</PageReference>
+      <PageReference>DF9:10</PageReference>
+      <PageReference>DF9:19</PageReference>
+      <PageReference>DF9:26</PageReference>
+      <PageReference>DF9:34</PageReference>
+      <PageReference>DF9:36</PageReference>
+      <PageReference>DF9:37</PageReference>
+      <PageReference>DF9:39-41</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventures">
+      <PageReference>DF9:3</PageReference>
+      <PageReference>DF9:13</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DF9:18</PageReference>
+      <PageReference>DF9:20</PageReference>
+      <PageReference>DF9:38</PageReference>
+      <PageReference>DF9:42</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF9:33</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DF9:36</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 5: Allies">
+      <PageReference>DF9:3</PageReference>
+      <PageReference>DF9:20</PageReference>
+      <PageReference>DF9:33</PageReference>
+      <PageReference>DF9:35</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 6: 40 Artifacts">
+      <PageReference>DF9:37</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 8: Treasure Tables">
+      <PageReference>DF9:37</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>DF9:3</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>DF9:3</PageReference>
+      <PageReference>DF9:14</PageReference>
+      <PageReference>DF9:20</PageReference>
+      <PageReference>DF9:25</PageReference>
+      <PageReference>DF9:26</PageReference>
+      <PageReference>DF9:34</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>DF9:7</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>DF9:3</PageReference>
+      <PageReference>DF9:5</PageReference>
+    </Child>
+    <Child ReferenceText="PowerUps 2: Perks">
+      <PageReference>DF9:11</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>DF9:3</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>DF9:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Halo of Flame ability">
+    <PageReference>DF9:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hammer Hand perk">
+    <PageReference>DF9:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing process for undead">
+    <PageReference>DF9:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hells">
+    <PageReference>DF9:40</PageReference>
+    <PageReference>DF9:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Herd animal lens">
+    <PageReference>DF9:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hordes of minions">
+    <PageReference>DF9:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horrendous Aspect demon option">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hound of Hell demon option">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Household guardian">
+    <PageReference>DF9:23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Huge bird lens">
+    <PageReference>DF9:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imps">
+    <PageReference>DF9:33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Indian elements">
+    <PageReference>DF9:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infernal PCs">
+    <PageReference>DF9:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infused PCs">
+    <PageReference>DF9:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury Tolerance (Diffuse) advantage">
+    <PageReference>DF9:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insubstantiality advantage">
+    <PageReference>DF9:21</PageReference>
+    <PageReference>DF9:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intangible monsters">
+    <PageReference>DF9:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jagged one lens">
+    <PageReference>DF9:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumper (Spirit) advantage">
+    <PageReference>DF9:5</PageReference>
+    <PageReference>DF9:25</PageReference>
+    <PageReference>DF9:28</PageReference>
+    <PageReference>DF9:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumping flame lens">
+    <PageReference>DF9:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knowing names">
+    <PageReference>DF9:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Land of the Gods">
+    <PageReference>DF9:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lands of the Dead">
+    <PageReference>DF9:40</PageReference>
+    <PageReference>DF9:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <Child ReferenceText="modifying characteristics">
+      <PageReference>DF9:20</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>DF9:22</PageReference>
+      <PageReference>DF9:27-31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lesser ghosts">
+    <PageReference>DF9:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Licensed Exorcist perk">
+    <PageReference>DF9:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lightning Bolt ability">
+    <PageReference>DF9:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lightning creature lens">
+    <PageReference>DF9:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lightning Touch ability">
+    <PageReference>DF9:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Living breeze lens">
+    <PageReference>DF9:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Living inferno lens">
+    <PageReference>DF9:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Living lodestone lens">
+    <PageReference>DF9:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Living tornado lens">
+    <PageReference>DF9:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Living wave lens">
+    <PageReference>DF9:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Local Thunderclap ability">
+    <PageReference>DF9:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lord of the tides lens">
+    <PageReference>DF9:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery advantage">
+    <PageReference>DF9:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical Talents, spells, and powers">
+    <PageReference>DF9:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Major ghosts">
+    <PageReference>DF9:22-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Masters of power">
+    <PageReference>DF9:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Material undead servants">
+    <PageReference>DF9:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Material world and spirits">
+    <PageReference>DF9:21</PageReference>
+    <PageReference>DF9:36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mediums">
+    <PageReference>DF9:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental Mirages ability">
+    <PageReference>DF9:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metal">
+    <Child ReferenceText="spells">
+      <PageReference>DF9:12</PageReference>
+    </Child>
+    <Child ReferenceText="elementals">
+      <PageReference>DF9:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Metal lord lens">
+    <PageReference>DF9:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Methodical evil-slayers">
+    <PageReference>DF9:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind-Wrenching Touch ability">
+    <PageReference>DF9:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miner’s minion lens">
+    <PageReference>DF9:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miniature Firestorm ability">
+    <PageReference>DF9:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minion enhancement">
+    <PageReference>DF9:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minions">
+    <PageReference>DF9:4</PageReference>
+    <PageReference>DF9:14</PageReference>
+    <PageReference>DF9:25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minor flight-spirit lens">
+    <PageReference>DF9:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monster slayers">
+    <PageReference>DF9:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters, encountering">
+    <PageReference>DF9:37</PageReference>
+    <PageReference>DF9:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural Philosophy Expert Skill">
+    <PageReference>DF9:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nature spirits">
+    <PageReference>DF9:21-22</PageReference>
+    <PageReference>DF9:26-32</PageReference>
+    <PageReference>DF9:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromancer template">
+    <PageReference>DF9:12-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromancy Power Modifier">
+    <PageReference>DF9:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromantic">
+    <Child ReferenceText="Power">
+      <PageReference>DF9:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>DF9:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Negotiation with spirits">
+    <PageReference>DF9:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nothingness lens">
+    <PageReference>DF9:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nymphs">
+    <PageReference>DF9:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outer Void">
+    <PageReference>DF9:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Painful Scream ability">
+    <PageReference>DF9:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patron advantage">
+    <PageReference>DF9:17</PageReference>
+    <PageReference>DF9:39</PageReference>
+    <PageReference>DF9:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Petty Curse of Protection ability">
+    <PageReference>DF9:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Petty demons">
+    <PageReference>DF9:17</PageReference>
+    <PageReference>DF9:32-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phantom animals">
+    <PageReference>DF9:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phantom of the forest lens">
+    <PageReference>DF9:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Physical perks">
+    <PageReference>DF9:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planar travel">
+    <PageReference>DF9:5</PageReference>
+    <PageReference>DF9:28</PageReference>
+    <PageReference>DF9:40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plant speaker lens">
+    <PageReference>DF9:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Posthumous adventures">
+    <PageReference>DF9:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Investiture advantage">
+    <PageReference>DF9:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Modifier, new">
+    <PageReference>DF9:7-8</PageReference>
+    <PageReference>DF9:10</PageReference>
+    <PageReference>DF9:15</PageReference>
+    <PageReference>DF9:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power of growth lens">
+    <PageReference>DF9:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power of water lens">
+    <PageReference>DF9:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <Child ReferenceText="new">
+      <PageReference>DF9:7-8</PageReference>
+      <PageReference>DF9:10</PageReference>
+      <PageReference>DF9:15</PageReference>
+    </Child>
+    <Child ReferenceText="and magical Talents">
+      <PageReference>DF9:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Predator lens">
+    <PageReference>DF9:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychopomps">
+    <PageReference>DF9:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pulsation ability">
+    <PageReference>DF9:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recognition of spirits">
+    <PageReference>DF9:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recommended GURPS books">
+    <PageReference>DF9:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regular summonees">
+    <PageReference>DF9:4-5</PageReference>
+    <PageReference>DF9:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Replacing undead servants">
+    <PageReference>DF9:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resonance lens">
+    <PageReference>DF9:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Returning from spirit worlds">
+    <PageReference>DF9:40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rewards on spirit worlds">
+    <PageReference>DF9:41-42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rules, on spirit worlds">
+    <PageReference>DF9:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rules adjustments">
+    <PageReference>DF9:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scorpion Tail demon option">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scouting by spirits">
+    <PageReference>DF9:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensor lens">
+    <PageReference>DF9:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Servants, spirit">
+    <PageReference>DF9:20-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Servitor">
+    <Child ReferenceText="zombie">
+      <PageReference>DF9:26</PageReference>
+    </Child>
+    <Child ReferenceText="skeleton">
+      <PageReference>DF9:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadow Guise demon option">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadowlands">
+    <PageReference>DF9:40</PageReference>
+    <PageReference>DF9:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shamanic">
+    <Child ReferenceText="Allies">
+      <PageReference>DF9:17</PageReference>
+    </Child>
+    <Child ReferenceText="Patrons">
+      <PageReference>DF9:17</PageReference>
+    </Child>
+    <Child ReferenceText="Power">
+      <PageReference>DF9:18-19</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>DF9:19</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>DF9:19</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>DF9:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shamanic Gift (Power Modifier)">
+    <PageReference>DF9:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shamans">
+    <Child ReferenceText="template">
+      <PageReference>DF9:16-17</PageReference>
+    </Child>
+    <Child ReferenceText="infused">
+      <PageReference>DF9:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skeletons">
+    <PageReference>DF9:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayer Swing at Neck advantage">
+    <PageReference>DF9:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayer Thrust to Vitals advantage">
+    <PageReference>DF9:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayer Training advantage">
+    <PageReference>DF9:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slightly harder summonings">
+    <PageReference>DF9:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sound">
+    <Child ReferenceText="spells">
+      <PageReference>DF9:12</PageReference>
+    </Child>
+    <Child ReferenceText="elementals">
+      <PageReference>DF9:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Special rules, on spirit worlds 41" />
+  <IndexReference ReferenceText="Spell">
+    <Child ReferenceText="magical Talents and">
+      <PageReference>DF9:13</PageReference>
+    </Child>
+    <Child ReferenceText="lists">
+      <PageReference>DF9:8</PageReference>
+      <PageReference>DF9:11</PageReference>
+      <PageReference>DF9:12</PageReference>
+      <PageReference>DF9:15</PageReference>
+      <PageReference>DF9:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Badge perk">
+    <PageReference>DF9:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit of the clouds lens">
+    <PageReference>DF9:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit of the forge lens">
+    <PageReference>DF9:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit of the stone lens">
+    <PageReference>DF9:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit-plane monsters">
+    <PageReference>DF9:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Realm">
+    <PageReference>DF9:40</PageReference>
+    <PageReference>DF9:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit-related perks">
+    <PageReference>DF9:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Weapon perk">
+    <PageReference>DF9:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit-world explorers">
+    <PageReference>DF9:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit worlds">
+    <PageReference>DF9:39-42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirits">
+    <Child ReferenceText="as scouts">
+      <PageReference>DF9:39</PageReference>
+    </Child>
+    <Child ReferenceText="as sponsors">
+      <PageReference>DF9:38</PageReference>
+    </Child>
+    <Child ReferenceText="class of monster">
+      <PageReference>DF9:20</PageReference>
+    </Child>
+    <Child ReferenceText="in the dungeon">
+      <PageReference>DF9:21</PageReference>
+      <PageReference>DF9:36-37</PageReference>
+    </Child>
+    <Child ReferenceText="in the material world">
+      <PageReference>DF9:21</PageReference>
+      <PageReference>DF9:36-37</PageReference>
+    </Child>
+    <Child ReferenceText="Wealth and">
+      <PageReference>DF9:20</PageReference>
+    </Child>
+    <Child ReferenceText="as Allies">
+      <PageReference>DF9:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirits of place">
+    <PageReference>DF9:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sponsors of adventures">
+    <PageReference>DF9:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standard demons">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starter megalomaniacs">
+    <PageReference>DF9:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steel-Hard Skin demon option">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stinger Tail ability">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stream spirit lens">
+    <PageReference>DF9:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Summonable Allies variations">
+    <PageReference>DF9:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Summonable enhancement">
+    <PageReference>DF9:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Summonees, regular">
+    <PageReference>DF9:4-5</PageReference>
+    <PageReference>DF9:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Summonings">
+    <PageReference>DF9:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactical negotiation">
+    <PageReference>DF9:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <Child ReferenceText="spells and powers and">
+      <PageReference>DF9:13</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>DF9:8</PageReference>
+      <PageReference>DF9:11</PageReference>
+      <PageReference>DF9:15</PageReference>
+      <PageReference>DF9:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talking rock lens">
+    <PageReference>DF9:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <PageReference>DF9:6-7</PageReference>
+    <PageReference>DF9:9-10</PageReference>
+    <PageReference>DF9:13-14</PageReference>
+    <PageReference>DF9:16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terrifying Scream demon option">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thanatology Expert Skill">
+    <PageReference>DF9:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thunder-child lens">
+    <PageReference>DF9:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tidal Surge ability">
+    <PageReference>DF9:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Totems">
+    <PageReference>DF9:21-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel to and from spirit worlds">
+    <PageReference>DF9:40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treasure on spirit worlds">
+    <PageReference>DF9:41-42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trickery of spirits">
+    <PageReference>DF9:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Names">
+    <PageReference>DF9:8</PageReference>
+    <PageReference>DF9:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Twigling lens">
+    <PageReference>DF9:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead servants">
+    <PageReference>DF9:22-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Urban shamans">
+    <PageReference>DF9:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vine creature lens">
+    <PageReference>DF9:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vine-Tangle ability">
+    <PageReference>DF9:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Void, the">
+    <PageReference>DF9:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Void/sound/ether">
+    <Child ReferenceText="spells">
+      <PageReference>DF9:12</PageReference>
+    </Child>
+    <Child ReferenceText="elementals">
+      <PageReference>DF9:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Walking fog lens">
+    <PageReference>DF9:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walking freakshows">
+    <PageReference>DF9:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walking wall lens">
+    <PageReference>DF9:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warrior of flame lens">
+    <PageReference>DF9:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warrior of Hell demon option">
+    <PageReference>DF9:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water Blast ability">
+    <PageReference>DF9:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water blaster lens">
+    <PageReference>DF9:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water">
+    <Child ReferenceText="spells">
+      <PageReference>DF9:11</PageReference>
+    </Child>
+    <Child ReferenceText="elementals">
+      <PageReference>DF9:30-31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth characteristic">
+    <PageReference>DF9:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whip of Fire ability">
+    <PageReference>DF9:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whirling Fury ability">
+    <PageReference>DF9:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whirlpool lens">
+    <PageReference>DF9:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whirlpool Spin ability">
+    <PageReference>DF9:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild-eyed scholars">
+    <PageReference>DF9:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildfire lens">
+    <PageReference>DF9:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wind">
+    <SeeAlso>Air</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Wood">
+    <Child ReferenceText="spells">
+      <PageReference>DF9:11</PageReference>
+    </Child>
+    <Child ReferenceText="elementals">
+      <PageReference>DF9:31-32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Woodland spirit lens">
+    <PageReference>DF9:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombies">
+    <PageReference>DF9:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombie masters">
+    <PageReference>DF9:14</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

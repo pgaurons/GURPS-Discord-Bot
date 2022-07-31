@@ -1,0 +1,2745 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abilities">
+    <SeeAlso>Disadvantages</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Accuracy enchantment">
+    <PageReference>DFE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acid">
+    <Child ReferenceText="effects of">
+      <PageReference>DFE65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatic Dodge combat option">
+    <PageReference>DFE48</PageReference>
+    <PageReference>DFE58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatics skill">
+    <Child ReferenceText="in combat">
+      <PageReference>DFE58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Actions">
+    <SeeAlso>Combat</SeeAlso>
+    <SeeAlso>Skills</SeeAlso>
+    <Child ReferenceText="exertion">
+      <PageReference>DFE64</PageReference>
+    </Child>
+    <Child ReferenceText="free">
+      <PageReference>DFE29</PageReference>
+    </Child>
+    <Child ReferenceText="long">
+      <PageReference>DFE32</PageReference>
+    </Child>
+    <Child ReferenceText="town examples">
+      <PageReference>DFE13-17</PageReference>
+    </Child>
+    <Child ReferenceText="wilderness examples">
+      <PageReference>DFE17-18</PageReference>
+    </Child>
+    <Child ReferenceText="dungeon examples">
+      <PageReference>DFE18-25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Dungeon Design</SeeAlso>
+    <SeeAlso>Dungeons</SeeAlso>
+    <SeeAlso>Towns</SeeAlso>
+    <SeeAlso>Wilderness</SeeAlso>
+    <Child ReferenceText="additional resources">
+      <PageReference>DFE4</PageReference>
+    </Child>
+    <Child ReferenceText="awards">
+      <PageReference>DFE92</PageReference>
+    </Child>
+    <Child ReferenceText="campaigns">
+      <PageReference>DFE87</PageReference>
+    </Child>
+    <Child ReferenceText="character sheets">
+      <PageReference>DFE81</PageReference>
+    </Child>
+    <Child ReferenceText="combat scenes">
+      <PageReference>DFE26</PageReference>
+    </Child>
+    <Child ReferenceText="dealing with the players">
+      <PageReference>DFE91</PageReference>
+    </Child>
+    <Child ReferenceText="game time">
+      <PageReference>DFE88</PageReference>
+    </Child>
+    <Child ReferenceText="general GMing advice">
+      <PageReference>DFE86</PageReference>
+    </Child>
+    <Child ReferenceText="hints during">
+      <PageReference>DFE90-91</PageReference>
+    </Child>
+    <Child ReferenceText="keeping the heroes alive">
+      <PageReference>DFE89</PageReference>
+    </Child>
+    <Child ReferenceText="making everybody useful">
+      <PageReference>DFE88-89</PageReference>
+    </Child>
+    <Child ReferenceText="pacing">
+      <PageReference>DFE86-87</PageReference>
+    </Child>
+    <Child ReferenceText="phases">
+      <PageReference>DFE87</PageReference>
+    </Child>
+    <Child ReferenceText="planning form">
+      <PageReference>DFE108</PageReference>
+    </Child>
+    <Child ReferenceText="playing the NPCs">
+      <PageReference>DFE90</PageReference>
+    </Child>
+    <Child ReferenceText="preparation for">
+      <PageReference>DFE81</PageReference>
+    </Child>
+    <Child ReferenceText="rules questions">
+      <PageReference>DFE86</PageReference>
+      <PageReference>DFE91</PageReference>
+    </Child>
+    <Child ReferenceText="running">
+      <PageReference>DFE86-91</PageReference>
+    </Child>
+    <Child ReferenceText="sessions">
+      <PageReference>DFE87</PageReference>
+      <PageReference>DFE88</PageReference>
+      <PageReference>DFE92</PageReference>
+    </Child>
+    <Child ReferenceText="alternative rewards">
+      <PageReference>DFE94</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Afflictions">
+    <Child ReferenceText="effects of">
+      <PageReference>DFE57</PageReference>
+      <PageReference>DFE65-66</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Agony condition">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aim maneuver">
+    <PageReference>DFE29-30</PageReference>
+    <PageReference>DFE43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Attack maneuver">
+    <PageReference>DFE30</PageReference>
+    <PageReference>DFE33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Defense maneuver">
+    <PageReference>DFE31</PageReference>
+    <PageReference>DFE33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Always-on items">
+    <PageReference>DFE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambush">
+    <PageReference>DFE26-27</PageReference>
+    <PageReference>DFE38</PageReference>
+    <PageReference>DFE57-58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antiques">
+    <PageReference>DFE74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance rolls">
+    <PageReference>DFE12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arc of vision">
+    <PageReference>DFE42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area effects">
+    <PageReference>DFE45</PageReference>
+    <PageReference>DFE46</PageReference>
+    <PageReference>DFE50</PageReference>
+    <PageReference>DFE53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <Child ReferenceText="crafting">
+      <PageReference>DFE13</PageReference>
+    </Child>
+    <Child ReferenceText="Damage Resistance">
+      <PageReference>DFE52-53</PageReference>
+    </Child>
+    <Child ReferenceText="donning">
+      <PageReference>DFE32</PageReference>
+    </Child>
+    <Child ReferenceText="fixing">
+      <PageReference>DFE15</PageReference>
+    </Child>
+    <Child ReferenceText="grenades">
+      <PageReference>DFE44</PageReference>
+    </Child>
+    <Child ReferenceText="removing">
+      <PageReference>DFE32</PageReference>
+    </Child>
+    <Child ReferenceText="sleeping in">
+      <PageReference>DFE26</PageReference>
+    </Child>
+    <Child ReferenceText="treasure">
+      <PageReference>DFE13</PageReference>
+    </Child>
+    <Child ReferenceText="unarmed attacks against">
+      <PageReference>DFE40</PageReference>
+    </Child>
+    <Child ReferenceText="attacking chinks">
+      <PageReference>DFE37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor divisors">
+    <PageReference>DFE52-53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attack maneuver">
+    <PageReference>DFE30</PageReference>
+    <Child ReferenceText="pop-up attack">
+      <PageReference>DFE42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attack rolls">
+    <PageReference>DFE36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attacks">
+    <PageReference>DFE35-46</PageReference>
+    <SeeAlso>Cloaks</SeeAlso>
+    <SeeAlso>Combat</SeeAlso>
+    <SeeAlso>Damage</SeeAlso>
+    <SeeAlso>Defense</SeeAlso>
+    <SeeAlso>Injury</SeeAlso>
+    <SeeAlso>Hit Locations</SeeAlso>
+    <SeeAlso>Shields</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="area">
+      <PageReference>DFE45</PageReference>
+      <PageReference>DFE46</PageReference>
+      <PageReference>DFE50</PageReference>
+      <PageReference>DFE53</PageReference>
+    </Child>
+    <Child ReferenceText="armor divisor">
+      <PageReference>DFE52-53</PageReference>
+    </Child>
+    <Child ReferenceText="at weapons">
+      <PageReference>DFE37</PageReference>
+    </Child>
+    <Child ReferenceText="chinks in armor">
+      <PageReference>DFE37</PageReference>
+    </Child>
+    <Child ReferenceText="critical hits">
+      <PageReference>DFE7</PageReference>
+      <PageReference>DFE36</PageReference>
+      <PageReference>DFE50</PageReference>
+      <PageReference>DFE100</PageReference>
+    </Child>
+    <Child ReferenceText="critical misses">
+      <PageReference>DFE7</PageReference>
+      <PageReference>DFE36</PageReference>
+      <PageReference>DFE50</PageReference>
+      <PageReference>DFE101</PageReference>
+    </Child>
+    <Child ReferenceText="dual-weapon">
+      <PageReference>DFE36</PageReference>
+    </Child>
+    <Child ReferenceText="facing">
+      <PageReference>DFE38</PageReference>
+    </Child>
+    <Child ReferenceText="from above">
+      <PageReference>DFE38</PageReference>
+    </Child>
+    <Child ReferenceText="from the side and back">
+      <PageReference>DFE47</PageReference>
+    </Child>
+    <Child ReferenceText="hitting the wrong target">
+      <PageReference>DFE43</PageReference>
+    </Child>
+    <Child ReferenceText="into close combat">
+      <PageReference>DFE51</PageReference>
+    </Child>
+    <Child ReferenceText="melee">
+      <PageReference>DFE37-38</PageReference>
+      <PageReference>DFE51</PageReference>
+      <PageReference>DFE95</PageReference>
+    </Child>
+    <Child ReferenceText="poisoned">
+      <PageReference>DFE69</PageReference>
+    </Child>
+    <Child ReferenceText="ranged">
+      <PageReference>DFE41-45</PageReference>
+      <PageReference>DFE51</PageReference>
+      <PageReference>DFE96-98</PageReference>
+    </Child>
+    <Child ReferenceText="resolving">
+      <PageReference>DFE35</PageReference>
+      <PageReference>DFE36</PageReference>
+    </Child>
+    <Child ReferenceText="“runaround, ” 47" />
+    <Child ReferenceText="spreading">
+      <PageReference>DFE45</PageReference>
+      <PageReference>DFE46</PageReference>
+      <PageReference>DFE50</PageReference>
+    </Child>
+    <Child ReferenceText="surprise">
+      <PageReference>DFE26-27</PageReference>
+      <PageReference>DFE47</PageReference>
+    </Child>
+    <Child ReferenceText="taking cover">
+      <PageReference>DFE50</PageReference>
+    </Child>
+    <Child ReferenceText="through an occupied hex">
+      <PageReference>DFE38</PageReference>
+    </Child>
+    <Child ReferenceText="unarmed">
+      <PageReference>DFE38-41</PageReference>
+      <PageReference>DFE51</PageReference>
+      <PageReference>DFE101</PageReference>
+    </Child>
+    <Child ReferenceText="using both hands">
+      <PageReference>DFE36</PageReference>
+    </Child>
+    <Child ReferenceText="using the off hand">
+      <PageReference>DFE36</PageReference>
+    </Child>
+    <Child ReferenceText="without damage">
+      <PageReference>DFE57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <SeeAlso>Skills</SeeAlso>
+    <SeeAlso>Traits</SeeAlso>
+    <Child ReferenceText="temporary penalties">
+      <PageReference>DFE59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Awards">
+    <PageReference>DFE72-79</PageReference>
+    <PageReference>DFE92</PageReference>
+    <PageReference>DFE94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Backstabbing">
+    <PageReference>DFE57-58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balancing">
+    <PageReference>DFE20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bashing">
+    <PageReference>DFE22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bending metal">
+    <PageReference>DFE23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Black market">
+    <PageReference>DFE13</PageReference>
+    <PageReference>DFE14</PageReference>
+    <PageReference>DFE16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blessed items">
+    <PageReference>DFE16</PageReference>
+    <PageReference>DFE24</PageReference>
+    <PageReference>DFE25</PageReference>
+    <PageReference>DFE77</PageReference>
+    <PageReference>DFE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blocking">
+    <PageReference>DFE48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood agent">
+    <PageReference>DFE56</PageReference>
+    <PageReference>DFE69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bluster">
+    <PageReference>DFE58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bolas">
+    <PageReference>DFE44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breath">
+    <Child ReferenceText="holding">
+      <PageReference>DFE21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brewing">
+    <PageReference>DFE13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bridging hazards">
+    <PageReference>DFE22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burning (burn) damage type">
+    <PageReference>DFE53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <PageReference>DFE87</PageReference>
+    <SeeAlso>Adventures</SeeAlso>
+    <SeeAlso>Dungeon Design</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Camping">
+    <PageReference>DFE18</PageReference>
+    <Child ReferenceText="sleeping in armor">
+      <PageReference>DFE26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Casting items">
+    <PageReference>DFE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catching">
+    <PageReference>DFE22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Change Posture maneuver">
+    <PageReference>DFE29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Character advancement">
+    <PageReference>DFE91-94</PageReference>
+    <Child ReferenceText="abilities by profession">
+      <PageReference>DFE93</PageReference>
+    </Child>
+    <Child ReferenceText="supernatural modifications">
+      <PageReference>DFE94</PageReference>
+    </Child>
+    <Child ReferenceText="traits gained in play">
+      <PageReference>DFE94</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Character points">
+    <Child ReferenceText="bonus">
+      <PageReference>DFE92-93</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chests">
+    <SeeAlso>Treasure</SeeAlso>
+    <Child ReferenceText="opening">
+      <PageReference>DFE24</PageReference>
+    </Child>
+    <Child ReferenceText="picking locks">
+      <PageReference>DFE23</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>DFE72</PageReference>
+    </Child>
+    <Child ReferenceText="bashing">
+      <PageReference>DFE22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Choking condition">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Climbing">
+    <PageReference>DFE20</PageReference>
+    <Child ReferenceText="running">
+      <PageReference>DFE21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloaks">
+    <Child ReferenceText="Defense Bonus">
+      <PageReference>DFE47</PageReference>
+      <PageReference>DFE96</PageReference>
+    </Child>
+    <Child ReferenceText="fire and">
+      <PageReference>DFE68</PageReference>
+    </Child>
+    <Child ReferenceText="in combat">
+      <PageReference>DFE30</PageReference>
+      <PageReference>DFE48</PageReference>
+    </Child>
+    <Child ReferenceText="preparing">
+      <PageReference>DFE32</PageReference>
+    </Child>
+    <Child ReferenceText="blocking">
+      <PageReference>DFE48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Coins">
+    <PageReference>DFE16</PageReference>
+    <PageReference>DFE24</PageReference>
+    <PageReference>DFE73</PageReference>
+    <Child ReferenceText="debasing">
+      <PageReference>DFE14</PageReference>
+    </Child>
+    <Child ReferenceText="dredging and mud-larking">
+      <PageReference>DFE14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cold">
+    <SeeAlso>Temperature</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Coma condition">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <SeeAlso>Attacks</SeeAlso>
+    <SeeAlso>Cloaks</SeeAlso>
+    <SeeAlso>Damage</SeeAlso>
+    <SeeAlso>Defense</SeeAlso>
+    <SeeAlso>Injury</SeeAlso>
+    <SeeAlso>Hit Locations</SeeAlso>
+    <SeeAlso>Shields</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="before">
+      <PageReference>DFE26-27</PageReference>
+    </Child>
+    <Child ReferenceText="close">
+      <PageReference>DFE51</PageReference>
+    </Child>
+    <Child ReferenceText="elevation">
+      <PageReference>DFE43</PageReference>
+    </Child>
+    <Child ReferenceText="detecting magic">
+      <PageReference>DFE57</PageReference>
+    </Child>
+    <Child ReferenceText="fatigue from">
+      <PageReference>DFE64</PageReference>
+    </Child>
+    <Child ReferenceText="free actions">
+      <PageReference>DFE29</PageReference>
+    </Child>
+    <Child ReferenceText="healing during">
+      <PageReference>DFE63</PageReference>
+    </Child>
+    <Child ReferenceText="high HT monsters">
+      <PageReference>DFE86</PageReference>
+    </Child>
+    <Child ReferenceText="influencing during">
+      <PageReference>DFE57</PageReference>
+    </Child>
+    <Child ReferenceText="lifting in">
+      <PageReference>DFE22</PageReference>
+    </Child>
+    <Child ReferenceText="maneuvers">
+      <PageReference>DFE28-33</PageReference>
+      <PageReference>DFE98</PageReference>
+    </Child>
+    <Child ReferenceText="maps">
+      <PageReference>DFE27-28</PageReference>
+    </Child>
+    <Child ReferenceText="movement">
+      <PageReference>DFE33-35</PageReference>
+    </Child>
+    <Child ReferenceText="multiple in close combat">
+      <PageReference>DFE51</PageReference>
+    </Child>
+    <Child ReferenceText="noncombat skills in">
+      <PageReference>DFE57-58</PageReference>
+    </Child>
+    <Child ReferenceText="roguish skills">
+      <PageReference>DFE57-58</PageReference>
+    </Child>
+    <Child ReferenceText="setting the scene">
+      <PageReference>DFE26</PageReference>
+    </Child>
+    <Child ReferenceText="tables">
+      <PageReference>DFE95-102</PageReference>
+    </Child>
+    <Child ReferenceText="talking in">
+      <PageReference>DFE29</PageReference>
+      <PageReference>DFE57</PageReference>
+    </Child>
+    <Child ReferenceText="turn sequence">
+      <PageReference>DFE28</PageReference>
+    </Child>
+    <Child ReferenceText="water">
+      <PageReference>DFE21</PageReference>
+    </Child>
+    <Child ReferenceText="at different levels">
+      <PageReference>DFE38</PageReference>
+      <PageReference>DFE47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Concealed crossbow trap">
+    <PageReference>DFE71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concentrate maneuver">
+    <PageReference>DFE31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cone attack">
+    <PageReference>DFE45</PageReference>
+    <PageReference>DFE46</PageReference>
+    <PageReference>DFE50</PageReference>
+    <PageReference>DFE53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact agent">
+    <PageReference>DFE56</PageReference>
+    <PageReference>DFE69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Containers">
+    <SeeAlso>Chests</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Contests">
+    <PageReference>DFE8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corrosion (cor) damage type">
+    <PageReference>DFE53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coughing condition">
+    <PageReference>DFE65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cover">
+    <PageReference>DFE42</PageReference>
+    <PageReference>DFE50</PageReference>
+    <Child ReferenceText="area attacks and">
+      <PageReference>DFE45-46</PageReference>
+    </Child>
+    <Child ReferenceText="Damage Resistance">
+      <PageReference>DFE52</PageReference>
+      <PageReference>DFE53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crafting">
+    <PageReference>DFE13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crippling">
+    <PageReference>DFE55</PageReference>
+    <PageReference>DFE61</PageReference>
+    <Child ReferenceText="condition">
+      <PageReference>DFE65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Critical failure">
+    <Child ReferenceText="critical misses">
+      <PageReference>DFE7</PageReference>
+      <PageReference>DFE36</PageReference>
+      <PageReference>DFE50</PageReference>
+      <PageReference>DFE101</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DFE7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Critical success">
+    <Child ReferenceText="critical hits">
+      <PageReference>DFE7</PageReference>
+      <PageReference>DFE36</PageReference>
+      <PageReference>DFE50</PageReference>
+      <PageReference>DFE100</PageReference>
+    </Child>
+    <Child ReferenceText="defense against">
+      <PageReference>DFE46</PageReference>
+      <PageReference>DFE97</PageReference>
+    </Child>
+    <Child ReferenceText="hit locations">
+      <PageReference>DFE54</PageReference>
+      <PageReference>DFE99</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DFE7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossbows">
+    <PageReference>DFE45</PageReference>
+    <Child ReferenceText="trap">
+      <PageReference>DFE71</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crouching">
+    <PageReference>DFE29</PageReference>
+    <PageReference>DFE35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crusher trap">
+    <PageReference>DFE71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crushing (cr) damage type">
+    <PageReference>DFE53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curses">
+    <PageReference>DFE23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage">
+    <SeeAlso>Fatigue</SeeAlso>
+    <SeeAlso>Hit Locations</SeeAlso>
+    <SeeAlso>Injury</SeeAlso>
+    <Child ReferenceText="rolls">
+      <PageReference>DFE52</PageReference>
+    </Child>
+    <Child ReferenceText="special">
+      <PageReference>DFE56-57</PageReference>
+    </Child>
+    <Child ReferenceText="to objects">
+      <PageReference>DFE55-56</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>DFE53</PageReference>
+    </Child>
+    <Child ReferenceText="follow-ups">
+      <PageReference>DFE56</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Resistance (DR)">
+    <PageReference>DFE52</PageReference>
+    <SeeAlso>Defense</SeeAlso>
+    <Child ReferenceText="armor divisor">
+      <PageReference>DFE52-53</PageReference>
+    </Child>
+    <Child ReferenceText="Breaking Blow">
+      <PageReference>DFE21</PageReference>
+    </Child>
+    <Child ReferenceText="corrosion and">
+      <PageReference>DFE53</PageReference>
+    </Child>
+    <Child ReferenceText="falling and">
+      <PageReference>DFE67</PageReference>
+    </Child>
+    <Child ReferenceText="follow-ups and">
+      <PageReference>DFE56</PageReference>
+    </Child>
+    <Child ReferenceText="large-area attacks">
+      <PageReference>DFE53</PageReference>
+    </Child>
+    <Child ReferenceText="objects">
+      <PageReference>DFE82</PageReference>
+      <PageReference>DFE83</PageReference>
+      <PageReference>DFE102</PageReference>
+    </Child>
+    <Child ReferenceText="penetration and">
+      <PageReference>DFE52-53</PageReference>
+    </Child>
+    <Child ReferenceText="special attacks">
+      <PageReference>DFE56</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Danger Sense advantage">
+    <PageReference>DFE9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Daze condition">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death">
+    <PageReference>DFE60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deceptive Attack combat option">
+    <PageReference>DFE38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defending Weapon/Shield enchantment">
+    <PageReference>DFE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defense">
+    <PageReference>DFE46-50</PageReference>
+    <SeeAlso>Combat</SeeAlso>
+    <SeeAlso>Damage Resistance</SeeAlso>
+    <Child ReferenceText="active options">
+      <PageReference>DFE49-50</PageReference>
+      <PageReference>DFE96-97</PageReference>
+    </Child>
+    <Child ReferenceText="against critical hit">
+      <PageReference>DFE46</PageReference>
+      <PageReference>DFE97</PageReference>
+    </Child>
+    <Child ReferenceText="blocking">
+      <PageReference>DFE48</PageReference>
+    </Child>
+    <Child ReferenceText="close combat">
+      <PageReference>DFE51</PageReference>
+    </Child>
+    <Child ReferenceText="dodging">
+      <PageReference>DFE47-48</PageReference>
+    </Child>
+    <Child ReferenceText="for weapons">
+      <PageReference>DFE47</PageReference>
+    </Child>
+    <Child ReferenceText="injury and">
+      <PageReference>DFE47</PageReference>
+    </Child>
+    <Child ReferenceText="maneuvers and">
+      <PageReference>DFE28</PageReference>
+      <PageReference>DFE98</PageReference>
+    </Child>
+    <Child ReferenceText="parrying">
+      <PageReference>DFE48-49</PageReference>
+    </Child>
+    <Child ReferenceText="stun and">
+      <PageReference>DFE47</PageReference>
+    </Child>
+    <Child ReferenceText="Wait and">
+      <PageReference>DFE33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Defense Bonus (DB)">
+    <PageReference>DFE47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defense rolls">
+    <PageReference>DFE46-47</PageReference>
+    <Child ReferenceText="modifiers">
+      <PageReference>DFE96-97</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Deflect enchantment">
+    <PageReference>DFE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diagrams">
+    <Child ReferenceText="area effect">
+      <PageReference>DFE46</PageReference>
+    </Child>
+    <Child ReferenceText="hit locations">
+      <PageReference>DFE54</PageReference>
+    </Child>
+    <Child ReferenceText="weapon reach">
+      <PageReference>DFE37</PageReference>
+      <PageReference>DFE38</PageReference>
+    </Child>
+    <Child ReferenceText="facing">
+      <PageReference>DFE28</PageReference>
+    </Child>
+    <Child ReferenceText="movement">
+      <PageReference>DFE34</PageReference>
+    </Child>
+    <Child ReferenceText="arc of vision">
+      <PageReference>DFE42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dice rolling">
+    <SeeAlso>Success Rolls</SeeAlso>
+    <Child ReferenceText="deciding who rolls">
+      <PageReference>DFE5</PageReference>
+    </Child>
+    <Child ReferenceText="GM tactics">
+      <PageReference>DFE5</PageReference>
+      <PageReference>DFE12</PageReference>
+    </Child>
+    <Child ReferenceText="as inspiration">
+      <PageReference>DFE12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Diffuse">
+    <PageReference>DFE55</PageReference>
+    <PageReference>DFE102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <Child ReferenceText="buying off">
+      <PageReference>DFE93</PageReference>
+    </Child>
+    <Child ReferenceText="condition">
+      <PageReference>DFE65</PageReference>
+    </Child>
+    <Child ReferenceText="dismemberment">
+      <PageReference>DFE61</PageReference>
+    </Child>
+    <Child ReferenceText="acquired in play">
+      <PageReference>DFE94</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disease">
+    <PageReference>DFE66-67</PageReference>
+    <Child ReferenceText="fatigue recovery">
+      <PageReference>DFE65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dismemberment">
+    <PageReference>DFE61</PageReference>
+    <Child ReferenceText="repairing">
+      <PageReference>DFE62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Diving">
+    <PageReference>DFE20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Do Nothing maneuver">
+    <PageReference>DFE29</PageReference>
+    <PageReference>DFE57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dodging">
+    <PageReference>DFE47-48</PageReference>
+    <Child ReferenceText="and drop">
+      <PageReference>DFE47</PageReference>
+      <PageReference>DFE50</PageReference>
+      <PageReference>DFE97</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Doors">
+    <Child ReferenceText="hidden">
+      <PageReference>DFE19</PageReference>
+      <PageReference>DFE85</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>DFE82</PageReference>
+    </Child>
+    <Child ReferenceText="dungeon design">
+      <PageReference>DFE82</PageReference>
+      <PageReference>DFE85</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drunk condition">
+    <PageReference>DFE65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeon design">
+    <PageReference>DFE80-85</PageReference>
+    <SeeAlso>Adventures</SeeAlso>
+    <Child ReferenceText="archetype">
+      <PageReference>DFE80-81</PageReference>
+    </Child>
+    <Child ReferenceText="area information">
+      <PageReference>DFE82</PageReference>
+    </Child>
+    <Child ReferenceText="encounters">
+      <PageReference>DFE85-86</PageReference>
+    </Child>
+    <Child ReferenceText="entrances">
+      <PageReference>DFE82-83</PageReference>
+      <PageReference>DFE85</PageReference>
+    </Child>
+    <Child ReferenceText="inhabitants">
+      <PageReference>DFE83</PageReference>
+    </Child>
+    <Child ReferenceText="maps">
+      <PageReference>DFE81-82</PageReference>
+    </Child>
+    <Child ReferenceText="nasty surprises">
+      <PageReference>DFE83</PageReference>
+    </Child>
+    <Child ReferenceText="obstacles">
+      <PageReference>DFE83</PageReference>
+    </Child>
+    <Child ReferenceText="secret and concealed doors">
+      <PageReference>DFE85</PageReference>
+    </Child>
+    <Child ReferenceText="set encounters">
+      <PageReference>DFE85</PageReference>
+    </Child>
+    <Child ReferenceText="special features">
+      <PageReference>DFE83</PageReference>
+    </Child>
+    <Child ReferenceText="treasure">
+      <PageReference>DFE85</PageReference>
+    </Child>
+    <Child ReferenceText="wandering monsters">
+      <PageReference>DFE85</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeons">
+    <Child ReferenceText="exploration">
+      <PageReference>DFE18-20</PageReference>
+    </Child>
+    <Child ReferenceText="finding">
+      <PageReference>DFE14</PageReference>
+      <PageReference>DFE15</PageReference>
+    </Child>
+    <Child ReferenceText="light in">
+      <PageReference>DFE19</PageReference>
+    </Child>
+    <Child ReferenceText="looting">
+      <PageReference>DFE24-25</PageReference>
+    </Child>
+    <Child ReferenceText="researching">
+      <PageReference>DFE15</PageReference>
+    </Child>
+    <Child ReferenceText="rumors">
+      <PageReference>DFE15</PageReference>
+    </Child>
+    <Child ReferenceText="stats of features">
+      <PageReference>DFE82-83</PageReference>
+    </Child>
+    <Child ReferenceText="travel to">
+      <PageReference>DFE17-18</PageReference>
+    </Child>
+    <Child ReferenceText="camping">
+      <PageReference>DFE18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ecstasy condition">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Effect rolls">
+    <PageReference>DFE12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchanted items">
+    <PageReference>DFE77-79</PageReference>
+    <Child ReferenceText="defining">
+      <PageReference>DFE79</PageReference>
+    </Child>
+    <Child ReferenceText="sample">
+      <PageReference>DFE78-79</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Armor</SeeAlso>
+    <SeeAlso>Chests</SeeAlso>
+    <SeeAlso>Cloaks</SeeAlso>
+    <SeeAlso>Objects</SeeAlso>
+    <SeeAlso>Shields</SeeAlso>
+    <SeeAlso>Treasure</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="light sources">
+      <PageReference>DFE19</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers to rolls">
+      <PageReference>DFE7</PageReference>
+    </Child>
+    <Child ReferenceText="getting">
+      <PageReference>DFE13-14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Euphoria condition">
+    <PageReference>DFE65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evading">
+    <PageReference>DFE34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evil Runes">
+    <PageReference>DFE23</PageReference>
+    <PageReference>DFE71</PageReference>
+    <PageReference>DFE83</PageReference>
+    <Child ReferenceText="detecting">
+      <PageReference>DFE70</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Exertion">
+    <PageReference>DFE64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosions">
+    <PageReference>DFE45</PageReference>
+    <PageReference>DFE46</PageReference>
+    <PageReference>DFE50</PageReference>
+    <PageReference>DFE53</PageReference>
+    <PageReference>DFE61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra effort">
+    <PageReference>DFE20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Facing">
+    <PageReference>DFE28</PageReference>
+    <PageReference>DFE38</PageReference>
+    <Child ReferenceText="changes">
+      <PageReference>DFE34</PageReference>
+      <PageReference>DFE35</PageReference>
+    </Child>
+    <Child ReferenceText="movement and">
+      <PageReference>DFE34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Failures">
+    <Child ReferenceText="critical misses">
+      <PageReference>DFE7</PageReference>
+      <PageReference>DFE50</PageReference>
+      <PageReference>DFE101</PageReference>
+    </Child>
+    <Child ReferenceText="margin of">
+      <PageReference>DFE7</PageReference>
+    </Child>
+    <Child ReferenceText="critical failure overview">
+      <PageReference>DFE7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Falling">
+    <PageReference>DFE67-68</PageReference>
+    <Child ReferenceText="attacking and">
+      <PageReference>DFE38</PageReference>
+    </Child>
+    <Child ReferenceText="objects">
+      <PageReference>DFE67-68</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue">
+    <PageReference>DFE63-65</PageReference>
+    <Child ReferenceText="cost of actions">
+      <PageReference>DFE64</PageReference>
+    </Child>
+    <Child ReferenceText="damage">
+      <PageReference>DFE53</PageReference>
+    </Child>
+    <Child ReferenceText="effects of accumulated">
+      <PageReference>DFE63-64</PageReference>
+    </Child>
+    <Child ReferenceText="recovering from">
+      <PageReference>DFE64-65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue (fat) damage type">
+    <PageReference>DFE53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feint maneuver">
+    <PageReference>DFE30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Figures">
+    <PageReference>DFE28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire">
+    <SeeAlso>Flame</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Flails">
+    <PageReference>DFE48</PageReference>
+    <PageReference>DFE49</PageReference>
+    <PageReference>DFE97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flame">
+    <PageReference>DFE68</PageReference>
+    <Child ReferenceText="grenades">
+      <PageReference>DFE44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <Child ReferenceText="foraging">
+      <PageReference>DFE18</PageReference>
+    </Child>
+    <Child ReferenceText="missing">
+      <PageReference>DFE17</PageReference>
+    </Child>
+    <Child ReferenceText="poisoned">
+      <PageReference>DFE69</PageReference>
+    </Child>
+    <Child ReferenceText="starving">
+      <PageReference>DFE14</PageReference>
+      <PageReference>DFE65</PageReference>
+    </Child>
+    <Child ReferenceText="cost in town">
+      <PageReference>DFE17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Foraging">
+    <PageReference>DFE18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forcing">
+    <PageReference>DFE22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forms">
+    <Child ReferenceText="GM control">
+      <PageReference>DFE109</PageReference>
+    </Child>
+    <Child ReferenceText="monsters, traps, and diseases/poisons">
+      <PageReference>DFE110</PageReference>
+    </Child>
+    <Child ReferenceText="room record">
+      <PageReference>DFE112</PageReference>
+    </Child>
+    <Child ReferenceText="wandering monsters and random traps">
+      <PageReference>DFE111</PageReference>
+    </Child>
+    <Child ReferenceText="adventure planning">
+      <PageReference>DFE108</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fortify enchantment">
+    <PageReference>DFE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fright Checks">
+    <PageReference>DFE10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frozen runes trap">
+    <PageReference>DFE71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Game Masters">
+    <SeeAlso>Adventures</SeeAlso>
+    <SeeAlso>Dungeon Design</SeeAlso>
+    <Child ReferenceText="overview">
+      <PageReference>DFE80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Garrotes">
+    <PageReference>DFE39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>Armor</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Gems">
+    <PageReference>DFE25</PageReference>
+    <PageReference>DFE74</PageReference>
+    <PageReference>DFE81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost Weapon enchantment">
+    <PageReference>DFE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Graceful Weapon enchantment">
+    <PageReference>DFE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grappling">
+    <PageReference>DFE40-41</PageReference>
+    <Child ReferenceText="breaking free">
+      <PageReference>DFE41</PageReference>
+    </Child>
+    <Child ReferenceText="with cloak">
+      <PageReference>DFE48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grenades">
+    <PageReference>DFE44</PageReference>
+    <PageReference>DFE45-46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunk">
+    <PageReference>DFE23</PageReference>
+    <PageReference>DFE70</PageReference>
+    <PageReference>DFE83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Half Damage (1/2D) range">
+    <PageReference>DFE43</PageReference>
+    <PageReference>DFE52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hallucinating condition">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Harpoons">
+    <PageReference>DFE44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Head blows">
+    <PageReference>DFE54</PageReference>
+    <PageReference>DFE99</PageReference>
+    <PageReference>DFE100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing">
+    <SeeAlso>Fatigue</SeeAlso>
+    <SeeAlso>Recovery</SeeAlso>
+    <Child ReferenceText="brewing potions">
+      <PageReference>DFE13</PageReference>
+    </Child>
+    <Child ReferenceText="cost of">
+      <PageReference>DFE62-63</PageReference>
+    </Child>
+    <Child ReferenceText="effects of">
+      <PageReference>DFE62</PageReference>
+    </Child>
+    <Child ReferenceText="high HP and">
+      <PageReference>DFE62</PageReference>
+    </Child>
+    <Child ReferenceText="natural">
+      <PageReference>DFE62</PageReference>
+    </Child>
+    <Child ReferenceText="nonmagical">
+      <PageReference>DFE63</PageReference>
+    </Child>
+    <Child ReferenceText="potions">
+      <PageReference>DFE62</PageReference>
+      <PageReference>DFE63</PageReference>
+      <PageReference>DFE76</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>DFE62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hearing rolls">
+    <PageReference>DFE9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heart attack condition">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heat">
+    <SeeAlso>Flame</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Hexes">
+    <PageReference>DFE27</PageReference>
+    <Child ReferenceText="entering a foe’s">
+      <PageReference>DFE51</PageReference>
+    </Child>
+    <Child ReferenceText="facing">
+      <PageReference>DFE28</PageReference>
+    </Child>
+    <Child ReferenceText="leaving a foe’s">
+      <PageReference>DFE51</PageReference>
+    </Child>
+    <Child ReferenceText="movement">
+      <PageReference>DFE33-35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hirelings">
+    <PageReference>DFE90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit locations">
+    <Child ReferenceText="critical hit">
+      <PageReference>DFE54</PageReference>
+      <PageReference>DFE99</PageReference>
+    </Child>
+    <Child ReferenceText="diagram">
+      <PageReference>DFE54</PageReference>
+    </Child>
+    <Child ReferenceText="injury and">
+      <PageReference>DFE53-54</PageReference>
+      <PageReference>DFE100</PageReference>
+    </Child>
+    <Child ReferenceText="random">
+      <PageReference>DFE37</PageReference>
+    </Child>
+    <Child ReferenceText="targeting">
+      <PageReference>DFE36-37</PageReference>
+      <PageReference>DFE99-100</PageReference>
+    </Child>
+    <Child ReferenceText="critical head blows">
+      <PageReference>DFE100</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Homogeneous">
+    <PageReference>DFE55</PageReference>
+    <PageReference>DFE102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion-covered pit trap">
+    <PageReference>DFE71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incapacitating conditions">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Influence rolls">
+    <PageReference>DFE10</PageReference>
+    <Child ReferenceText="against PCs">
+      <PageReference>DFE10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Influence skills">
+    <PageReference>DFE12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury">
+    <PageReference>DFE59-63</PageReference>
+    <SeeAlso>Damage</SeeAlso>
+    <SeeAlso>Fatigue</SeeAlso>
+    <SeeAlso>Hit Locations</SeeAlso>
+    <Child ReferenceText="active defenses and">
+      <PageReference>DFE47</PageReference>
+    </Child>
+    <Child ReferenceText="corrosion and">
+      <PageReference>DFE53</PageReference>
+    </Child>
+    <Child ReferenceText="damage type">
+      <PageReference>DFE53</PageReference>
+    </Child>
+    <Child ReferenceText="effects of">
+      <PageReference>DFE54-55</PageReference>
+      <PageReference>DFE59-60</PageReference>
+      <PageReference>DFE100</PageReference>
+    </Child>
+    <Child ReferenceText="hit locations">
+      <PageReference>DFE53-54</PageReference>
+    </Child>
+    <Child ReferenceText="hurting yourself">
+      <PageReference>DFE40</PageReference>
+    </Child>
+    <Child ReferenceText="large-area">
+      <PageReference>DFE53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Interrogations">
+    <PageReference>DFE10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intoxicated condition">
+    <PageReference>DFE65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Irritating conditions">
+    <PageReference>DFE65-66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Itching condition">
+    <PageReference>DFE65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jewelry">
+    <PageReference>DFE74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumping">
+    <PageReference>DFE20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knockback">
+    <PageReference>DFE53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knockdown">
+    <PageReference>DFE60</PageReference>
+    <PageReference>DFE65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kusaris">
+    <PageReference>DFE39</PageReference>
+    <PageReference>DFE48</PageReference>
+    <PageReference>DFE49</PageReference>
+    <PageReference>DFE97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lariats">
+    <PageReference>DFE44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leg-up action">
+    <PageReference>DFE21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifting and shifting action">
+    <PageReference>DFE22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light sources">
+    <PageReference>DFE19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited-use items">
+    <PageReference>DFE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Line of fire">
+    <PageReference>DFE42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locks">
+    <Child ReferenceText="picking">
+      <PageReference>DFE23</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>DFE82</PageReference>
+    </Child>
+    <Child ReferenceText="trapped">
+      <PageReference>DFE24</PageReference>
+    </Child>
+    <Child ReferenceText="forcing">
+      <PageReference>DFE22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Loyal Weapon enchantment">
+    <PageReference>DFE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luxury items">
+    <PageReference>DFE16</PageReference>
+    <PageReference>DFE25</PageReference>
+    <PageReference>DFE74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <Child ReferenceText="items">
+      <PageReference>DFE25</PageReference>
+      <PageReference>DFE76-79</PageReference>
+    </Child>
+    <Child ReferenceText="light spells">
+      <PageReference>DFE19</PageReference>
+    </Child>
+    <Child ReferenceText="origins">
+      <PageReference>DFE77</PageReference>
+    </Child>
+    <Child ReferenceText="recognizing">
+      <PageReference>DFE57</PageReference>
+    </Child>
+    <Child ReferenceText="healing">
+      <PageReference>DFE62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Major wounds">
+    <PageReference>DFE55</PageReference>
+    <PageReference>DFE60</PageReference>
+    <Child ReferenceText="crippling">
+      <PageReference>DFE61</PageReference>
+      <PageReference>DFE100</PageReference>
+    </Child>
+    <Child ReferenceText="critical hit">
+      <PageReference>DFE100</PageReference>
+    </Child>
+    <Child ReferenceText="hit locations and">
+      <PageReference>DFE54</PageReference>
+      <PageReference>DFE99</PageReference>
+      <PageReference>DFE100</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Malediction">
+    <PageReference>DFE56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maneuvers">
+    <PageReference>DFE28-33</PageReference>
+    <Child ReferenceText="free actions">
+      <PageReference>DFE29</PageReference>
+    </Child>
+    <Child ReferenceText="long actions">
+      <PageReference>DFE32</PageReference>
+    </Child>
+    <Child ReferenceText="movement and">
+      <PageReference>DFE33</PageReference>
+      <PageReference>DFE35</PageReference>
+      <PageReference>DFE39</PageReference>
+    </Child>
+    <Child ReferenceText="step and">
+      <PageReference>DFE33</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>DFE98</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Maps">
+    <Child ReferenceText="creating">
+      <PageReference>DFE18</PageReference>
+    </Child>
+    <Child ReferenceText="dungeon design">
+      <PageReference>DFE81-82</PageReference>
+    </Child>
+    <Child ReferenceText="as treasure">
+      <PageReference>DFE76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Marching order">
+    <PageReference>DFE19</PageReference>
+    <PageReference>DFE26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Margins">
+    <Child ReferenceText="of loss">
+      <PageReference>DFE8</PageReference>
+    </Child>
+    <Child ReferenceText="of success">
+      <PageReference>DFE7</PageReference>
+    </Child>
+    <Child ReferenceText="of victory">
+      <PageReference>DFE8</PageReference>
+    </Child>
+    <Child ReferenceText="of failure">
+      <PageReference>DFE7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Meals">
+    <SeeAlso>Food</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee attacks">
+    <PageReference>DFE37-38</PageReference>
+    <PageReference>DFE51</PageReference>
+    <Child ReferenceText="area and spreading">
+      <PageReference>DFE45-46</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>DFE95</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental stun">
+    <PageReference>DFE27</PageReference>
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metalwork">
+    <Child ReferenceText="stats">
+      <PageReference>DFE83</PageReference>
+    </Child>
+    <Child ReferenceText="bending">
+      <PageReference>DFE23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mining ore">
+    <PageReference>DFE25</PageReference>
+    <PageReference>DFE81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <Child ReferenceText="dead bits">
+      <PageReference>DFE24</PageReference>
+    </Child>
+    <Child ReferenceText="defeating">
+      <PageReference>DFE86</PageReference>
+    </Child>
+    <Child ReferenceText="dungeon design">
+      <PageReference>DFE83</PageReference>
+      <PageReference>DFE85-86</PageReference>
+    </Child>
+    <Child ReferenceText="fodder">
+      <PageReference>DFE86</PageReference>
+    </Child>
+    <Child ReferenceText="form">
+      <PageReference>DFE110</PageReference>
+      <PageReference>DFE111</PageReference>
+    </Child>
+    <Child ReferenceText="high HT in combat">
+      <PageReference>DFE86</PageReference>
+    </Child>
+    <Child ReferenceText="parrying">
+      <PageReference>DFE49</PageReference>
+    </Child>
+    <Child ReferenceText="playing">
+      <PageReference>DFE90</PageReference>
+    </Child>
+    <Child ReferenceText="power levels">
+      <PageReference>DFE86</PageReference>
+    </Child>
+    <Child ReferenceText="reactions">
+      <PageReference>DFE11</PageReference>
+    </Child>
+    <Child ReferenceText="worthy">
+      <PageReference>DFE86</PageReference>
+    </Child>
+    <Child ReferenceText="boss">
+      <PageReference>DFE86</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mortal conditions">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mortal wounds">
+    <PageReference>DFE59</PageReference>
+    <PageReference>DFE60</PageReference>
+    <PageReference>DFE66</PageReference>
+    <Child ReferenceText="healing and">
+      <PageReference>DFE62-63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Move and Attack maneuver">
+    <PageReference>DFE30-31</PageReference>
+    <PageReference>DFE33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Move maneuver">
+    <PageReference>DFE29</PageReference>
+    <PageReference>DFE33</PageReference>
+    <Child ReferenceText="sprinting">
+      <PageReference>DFE33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Move secondary characteristic">
+    <PageReference>DFE33</PageReference>
+    <Child ReferenceText="large values">
+      <PageReference>DFE33</PageReference>
+    </Child>
+    <Child ReferenceText="slower condition">
+      <PageReference>DFE66</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Movement">
+    <PageReference>DFE33-35</PageReference>
+    <Child ReferenceText="backward">
+      <PageReference>DFE34</PageReference>
+    </Child>
+    <Child ReferenceText="bad footing">
+      <PageReference>DFE35</PageReference>
+    </Child>
+    <Child ReferenceText="facing and">
+      <PageReference>DFE34</PageReference>
+      <PageReference>DFE35</PageReference>
+    </Child>
+    <Child ReferenceText="forward">
+      <PageReference>DFE34</PageReference>
+      <PageReference>DFE35</PageReference>
+    </Child>
+    <Child ReferenceText="maneuvers and">
+      <PageReference>DFE29-31</PageReference>
+      <PageReference>DFE35</PageReference>
+      <PageReference>DFE98</PageReference>
+    </Child>
+    <Child ReferenceText="marching order">
+      <PageReference>DFE19</PageReference>
+    </Child>
+    <Child ReferenceText="obstructions">
+      <PageReference>DFE35</PageReference>
+    </Child>
+    <Child ReferenceText="point costs">
+      <PageReference>DFE35</PageReference>
+    </Child>
+    <Child ReferenceText="points">
+      <PageReference>DFE33</PageReference>
+      <PageReference>DFE35</PageReference>
+    </Child>
+    <Child ReferenceText="rapid">
+      <PageReference>DFE33</PageReference>
+    </Child>
+    <Child ReferenceText="running away">
+      <PageReference>DFE22</PageReference>
+    </Child>
+    <Child ReferenceText="sideways">
+      <PageReference>DFE34</PageReference>
+    </Child>
+    <Child ReferenceText="slower condition">
+      <PageReference>DFE66</PageReference>
+    </Child>
+    <Child ReferenceText="straight ahead">
+      <PageReference>DFE34</PageReference>
+    </Child>
+    <Child ReferenceText="through other characters">
+      <PageReference>DFE34</PageReference>
+    </Child>
+    <Child ReferenceText="turning">
+      <PageReference>DFE34</PageReference>
+    </Child>
+    <Child ReferenceText="Wait and">
+      <PageReference>DFE33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nasty qualifiers">
+    <PageReference>DFE9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nausea condition">
+    <PageReference>DFE65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nets">
+    <PageReference>DFE45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Non-player characters (NPCs)">
+    <SeeAlso>Monsters</SeeAlso>
+    <Child ReferenceText="playing">
+      <PageReference>DFE90</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Objects">
+    <SeeAlso>Armor</SeeAlso>
+    <SeeAlso>Chests</SeeAlso>
+    <SeeAlso>Cloaks</SeeAlso>
+    <SeeAlso>Doors</SeeAlso>
+    <SeeAlso>Equipment</SeeAlso>
+    <SeeAlso>Shields</SeeAlso>
+    <SeeAlso>Treasure</SeeAlso>
+    <SeeAlso>Walls</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="Damage Resistance">
+      <PageReference>DFE102</PageReference>
+    </Child>
+    <Child ReferenceText="damage to">
+      <PageReference>DFE55-56</PageReference>
+      <PageReference>DFE102</PageReference>
+    </Child>
+    <Child ReferenceText="falling">
+      <PageReference>DFE67-68</PageReference>
+    </Child>
+    <Child ReferenceText="hit points">
+      <PageReference>DFE82-83</PageReference>
+      <PageReference>DFE102</PageReference>
+    </Child>
+    <Child ReferenceText="on fire">
+      <PageReference>DFE68</PageReference>
+    </Child>
+    <Child ReferenceText="poisoned">
+      <PageReference>DFE69</PageReference>
+    </Child>
+    <Child ReferenceText="quality modifiers to rolls">
+      <PageReference>DFE7</PageReference>
+    </Child>
+    <Child ReferenceText="stats of dungeon features">
+      <PageReference>DFE82-83</PageReference>
+    </Child>
+    <Child ReferenceText="as cover">
+      <PageReference>DFE42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Objets d’art">
+    <PageReference>DFE74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Opportunity fire">
+    <PageReference>DFE43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Overruns">
+    <PageReference>DFE34</PageReference>
+    <PageReference>DFE40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pain condition">
+    <PageReference>DFE65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paralysis condition">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parrying">
+    <PageReference>DFE48-49</PageReference>
+    <Child ReferenceText="hurting yourself">
+      <PageReference>DFE40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Penetrating Weapon enchantment">
+    <PageReference>DFE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Petrifaction condition">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Picks">
+    <PageReference>DFE39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Piercing (pi) damage type">
+    <PageReference>DFE53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pin">
+    <PageReference>DFE41</PageReference>
+    <PageReference>DFE51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planes-hopping adventures">
+    <PageReference>DFE84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Playing dead">
+    <PageReference>DFE57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poison">
+    <PageReference>DFE69-70</PageReference>
+    <Child ReferenceText="detecting">
+      <PageReference>DFE23</PageReference>
+      <PageReference>DFE69</PageReference>
+    </Child>
+    <Child ReferenceText="fatigue recovery">
+      <PageReference>DFE65</PageReference>
+    </Child>
+    <Child ReferenceText="grenades">
+      <PageReference>DFE44</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DFE58</PageReference>
+      <PageReference>DFE69</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pop-up attacks">
+    <PageReference>DFE42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Posture">
+    <PageReference>DFE35</PageReference>
+    <PageReference>DFE99</PageReference>
+    <Child ReferenceText="changing">
+      <PageReference>DFE29</PageReference>
+      <PageReference>DFE58</PageReference>
+    </Child>
+    <Child ReferenceText="combat modifiers">
+      <PageReference>DFE95</PageReference>
+      <PageReference>DFE97</PageReference>
+    </Child>
+    <Child ReferenceText="dodge and drop">
+      <PageReference>DFE50</PageReference>
+    </Child>
+    <Child ReferenceText="step and">
+      <PageReference>DFE33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Potions">
+    <PageReference>DFE76</PageReference>
+    <SeeAlso>Grenades</SeeAlso>
+    <Child ReferenceText="aiming thrown">
+      <PageReference>DFE29</PageReference>
+    </Child>
+    <Child ReferenceText="as gunk">
+      <PageReference>DFE23</PageReference>
+    </Child>
+    <Child ReferenceText="brewing">
+      <PageReference>DFE13</PageReference>
+    </Child>
+    <Child ReferenceText="detecting">
+      <PageReference>DFE70</PageReference>
+    </Child>
+    <Child ReferenceText="fatigue recovery">
+      <PageReference>DFE64</PageReference>
+    </Child>
+    <Child ReferenceText="healing">
+      <PageReference>DFE62</PageReference>
+      <PageReference>DFE63</PageReference>
+      <PageReference>DFE76</PageReference>
+    </Child>
+    <Child ReferenceText="identifying">
+      <PageReference>DFE25</PageReference>
+    </Child>
+    <Child ReferenceText="readying">
+      <PageReference>DFE32</PageReference>
+      <PageReference>DFE44</PageReference>
+    </Child>
+    <Child ReferenceText="retching">
+      <PageReference>DFE66</PageReference>
+    </Child>
+    <Child ReferenceText="selling">
+      <PageReference>DFE75</PageReference>
+      <PageReference>DFE76</PageReference>
+    </Child>
+    <Child ReferenceText="special damage">
+      <PageReference>DFE56</PageReference>
+    </Child>
+    <Child ReferenceText="treasure suggestion">
+      <PageReference>DFE72</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pounces">
+    <PageReference>DFE40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Precious metals">
+    <PageReference>DFE73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prisoners">
+    <PageReference>DFE25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Puissance enchantment">
+    <PageReference>DFE79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pull-up action">
+    <PageReference>DFE21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quality modifiers">
+    <PageReference>DFE7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quests">
+    <SeeAlso>Adventures</SeeAlso>
+    <SeeAlso>Dungeon Design</SeeAlso>
+    <SeeAlso>Dungeons</SeeAlso>
+    <Child ReferenceText="getting paid">
+      <PageReference>DFE17</PageReference>
+    </Child>
+    <Child ReferenceText="finding">
+      <PageReference>DFE14</PageReference>
+      <PageReference>DFE15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Contests">
+    <PageReference>DFE8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Range">
+    <PageReference>DFE43</PageReference>
+    <PageReference>DFE97-98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged attacks">
+    <PageReference>DFE41-45</PageReference>
+    <PageReference>DFE51</PageReference>
+    <Child ReferenceText="area and spreading">
+      <PageReference>DFE45-46</PageReference>
+    </Child>
+    <Child ReferenceText="hitting the wrong target">
+      <PageReference>DFE43</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>DFE96-98</PageReference>
+    </Child>
+    <Child ReferenceText="shooting blind">
+      <PageReference>DFE42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Strike combat option">
+    <PageReference>DFE38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reach">
+    <Child ReferenceText="weapon">
+      <PageReference>DFE37-38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction rolls">
+    <PageReference>DFE11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ready maneuver">
+    <PageReference>DFE32</PageReference>
+    <PageReference>DFE36</PageReference>
+    <PageReference>DFE51</PageReference>
+    <Child ReferenceText="long actions">
+      <PageReference>DFE32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Recovery">
+    <PageReference>DFE62-63</PageReference>
+    <SeeAlso>Healing</SeeAlso>
+    <Child ReferenceText="cost of">
+      <PageReference>DFE62-63</PageReference>
+    </Child>
+    <Child ReferenceText="magical">
+      <PageReference>DFE62-63</PageReference>
+    </Child>
+    <Child ReferenceText="natural">
+      <PageReference>DFE62</PageReference>
+    </Child>
+    <Child ReferenceText="nonmagical healing">
+      <PageReference>DFE63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Regular Contests">
+    <PageReference>DFE8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistance rolls">
+    <PageReference>DFE8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Respiratory agent">
+    <PageReference>DFE56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retching condition">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retreat defense option">
+    <PageReference>DFE47</PageReference>
+    <PageReference>DFE50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rule of 16">
+    <PageReference>DFE8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Runes">
+    <Child ReferenceText="detecting">
+      <PageReference>DFE70</PageReference>
+    </Child>
+    <Child ReferenceText="evil">
+      <PageReference>DFE23</PageReference>
+      <PageReference>DFE71</PageReference>
+      <PageReference>DFE83</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Running">
+    <SeeAlso>Movement</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Scatter">
+    <PageReference>DFE45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scouting">
+    <PageReference>DFE19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrolls">
+    <PageReference>DFE76-77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrounging">
+    <PageReference>DFE13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seizure condition">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-control rolls">
+    <PageReference>DFE12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense-based effects">
+    <PageReference>DFE57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense rolls">
+    <PageReference>DFE9</PageReference>
+    <Child ReferenceText="Vision modifiers">
+      <PageReference>DFE97-98</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <Child ReferenceText="blocking">
+      <PageReference>DFE48</PageReference>
+    </Child>
+    <Child ReferenceText="Defense Bonus">
+      <PageReference>DFE47</PageReference>
+      <PageReference>DFE96</PageReference>
+    </Child>
+    <Child ReferenceText="fire and">
+      <PageReference>DFE68</PageReference>
+    </Child>
+    <Child ReferenceText="in combat">
+      <PageReference>DFE30</PageReference>
+      <PageReference>DFE48</PageReference>
+      <PageReference>DFE51</PageReference>
+    </Child>
+    <Child ReferenceText="rush">
+      <PageReference>DFE40</PageReference>
+      <PageReference>DFE48</PageReference>
+    </Child>
+    <Child ReferenceText="preparing">
+      <PageReference>DFE32</PageReference>
+    </Child>
+    <Child ReferenceText="bash">
+      <PageReference>DFE48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shock">
+    <PageReference>DFE55</PageReference>
+    <PageReference>DFE60</PageReference>
+    <Child ReferenceText="high HP and">
+      <PageReference>DFE60</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoplifting">
+    <PageReference>DFE14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoves">
+    <PageReference>DFE22</PageReference>
+    <PageReference>DFE39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signaling">
+    <PageReference>DFE20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Size and speed/range table">
+    <PageReference>DFE97-98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Size Modifier (SM)">
+    <PageReference>DFE36</PageReference>
+    <PageReference>DFE97-98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skidding">
+    <PageReference>DFE21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skill rolls">
+    <SeeAlso>Failures</SeeAlso>
+    <SeeAlso>Success Rolls</SeeAlso>
+    <SeeAlso>Successes</SeeAlso>
+    <Child ReferenceText="rule of 16">
+      <PageReference>DFE8</PageReference>
+    </Child>
+    <Child ReferenceText="complementary">
+      <PageReference>DFE6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <SeeAlso>Attacks</SeeAlso>
+    <SeeAlso>Combat</SeeAlso>
+    <SeeAlso>Defense</SeeAlso>
+    <Child ReferenceText="dungeon usage examples">
+      <PageReference>DFE18-25</PageReference>
+    </Child>
+    <Child ReferenceText="effective">
+      <PageReference>DFE7</PageReference>
+    </Child>
+    <Child ReferenceText="exertion from using">
+      <PageReference>DFE64</PageReference>
+    </Child>
+    <Child ReferenceText="Influence">
+      <PageReference>DFE10</PageReference>
+    </Child>
+    <Child ReferenceText="lower limit">
+      <PageReference>DFE7</PageReference>
+    </Child>
+    <Child ReferenceText="noncombat in battles">
+      <PageReference>DFE57-58</PageReference>
+    </Child>
+    <Child ReferenceText="physical feats">
+      <PageReference>DFE20-23</PageReference>
+    </Child>
+    <Child ReferenceText="rolled by group">
+      <PageReference>DFE6</PageReference>
+    </Child>
+    <Child ReferenceText="temporary penalties">
+      <PageReference>DFE59</PageReference>
+    </Child>
+    <Child ReferenceText="town usage examples">
+      <PageReference>DFE13-17</PageReference>
+    </Child>
+    <Child ReferenceText="using muscle">
+      <PageReference>DFE21-23</PageReference>
+    </Child>
+    <Child ReferenceText="wilderness usage examples">
+      <PageReference>DFE17-18</PageReference>
+    </Child>
+    <Child ReferenceText="base">
+      <PageReference>DFE7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slams">
+    <PageReference>DFE34</PageReference>
+    <PageReference>DFE40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleep">
+    <Child ReferenceText="condition">
+      <PageReference>DFE66</PageReference>
+    </Child>
+    <Child ReferenceText="fatigue recovery">
+      <PageReference>DFE65</PageReference>
+    </Child>
+    <Child ReferenceText="in armor">
+      <PageReference>DFE26</PageReference>
+    </Child>
+    <Child ReferenceText="missed">
+      <PageReference>DFE64</PageReference>
+      <PageReference>DFE65</PageReference>
+    </Child>
+    <Child ReferenceText="camping">
+      <PageReference>DFE18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slow condition">
+    <PageReference>DFE65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slower Move condition">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Small piercing (pi-) damage type">
+    <PageReference>DFE53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sneezing condition">
+    <PageReference>DFE65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speaking from Experience">
+    <PageReference>DFE11</PageReference>
+    <PageReference>DFE17</PageReference>
+    <PageReference>DFE19</PageReference>
+    <PageReference>DFE24</PageReference>
+    <PageReference>DFE25</PageReference>
+    <PageReference>DFE30</PageReference>
+    <PageReference>DFE49</PageReference>
+    <PageReference>DFE52</PageReference>
+    <PageReference>DFE56</PageReference>
+    <PageReference>DFE61</PageReference>
+    <PageReference>DFE66</PageReference>
+    <PageReference>DFE68</PageReference>
+    <PageReference>DFE71</PageReference>
+    <PageReference>DFE87</PageReference>
+    <PageReference>DFE92</PageReference>
+    <PageReference>DFE95</PageReference>
+    <PageReference>DFE97</PageReference>
+    <PageReference>DFE100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed">
+    <Child ReferenceText="table">
+      <PageReference>DFE97-98</PageReference>
+    </Child>
+    <Child ReferenceText="ranged attacks and">
+      <PageReference>DFE43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spellbooks">
+    <PageReference>DFE76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <SeeAlso>Magic</SeeAlso>
+    <Child ReferenceText="light">
+      <PageReference>DFE19</PageReference>
+    </Child>
+    <Child ReferenceText="healing">
+      <PageReference>DFE62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sponsors">
+    <Child ReferenceText="finding">
+      <PageReference>DFE14-15</PageReference>
+    </Child>
+    <Child ReferenceText="adventure awards">
+      <PageReference>DFE92</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sprinting">
+    <PageReference>DFE33</PageReference>
+    <SeeAlso>Movement</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Squeezing">
+    <PageReference>DFE21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starvation">
+    <SeeAlso>Food</SeeAlso>
+    <Child ReferenceText="fatigue recovery">
+      <PageReference>DFE65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stasis condition">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steps">
+    <SeeAlso>Movement</SeeAlso>
+    <Child ReferenceText="movement">
+      <PageReference>DFE33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stop thrust">
+    <PageReference>DFE33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strangling">
+    <PageReference>DFE39</PageReference>
+    <PageReference>DFE41</PageReference>
+    <PageReference>DFE70</PageReference>
+    <SeeAlso>Suffocation</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Stun">
+    <PageReference>DFE55</PageReference>
+    <PageReference>DFE60</PageReference>
+    <Child ReferenceText="mental">
+      <PageReference>DFE27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stunned condition">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Success rolls">
+    <PageReference>DFE5-7</PageReference>
+    <SeeAlso>Failures</SeeAlso>
+    <SeeAlso>Successes</SeeAlso>
+    <Child ReferenceText="complementary skills">
+      <PageReference>DFE6</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>DFE7</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>DFE5-7</PageReference>
+    </Child>
+    <Child ReferenceText="nasty qualifiers">
+      <PageReference>DFE9</PageReference>
+    </Child>
+    <Child ReferenceText="repeated attempts">
+      <PageReference>DFE7</PageReference>
+    </Child>
+    <Child ReferenceText="rule of 16">
+      <PageReference>DFE8</PageReference>
+    </Child>
+    <Child ReferenceText="temporary penalties">
+      <PageReference>DFE59</PageReference>
+    </Child>
+    <Child ReferenceText="time spent">
+      <PageReference>DFE6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Successes">
+    <Child ReferenceText="critical hits">
+      <PageReference>DFE50</PageReference>
+      <PageReference>DFE100</PageReference>
+    </Child>
+    <Child ReferenceText="margin of">
+      <PageReference>DFE7</PageReference>
+    </Child>
+    <Child ReferenceText="critical success overview">
+      <PageReference>DFE7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Suffocation">
+    <PageReference>DFE66</PageReference>
+    <PageReference>DFE70</PageReference>
+    <Child ReferenceText="breathholding">
+      <PageReference>DFE21</PageReference>
+    </Child>
+    <Child ReferenceText="fatigue recovery">
+      <PageReference>DFE65</PageReference>
+    </Child>
+    <Child ReferenceText="strangling">
+      <PageReference>DFE39</PageReference>
+      <PageReference>DFE41</PageReference>
+      <PageReference>DFE70</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>DFE39</PageReference>
+      <PageReference>DFE44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural origins">
+    <PageReference>DFE77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural sense rolls">
+    <PageReference>DFE9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surprise">
+    <PageReference>DFE26-27</PageReference>
+    <PageReference>DFE38</PageReference>
+    <PageReference>DFE57-58</PageReference>
+    <SeeAlso>Traps</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Swimming">
+    <PageReference>DFE21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swinging">
+    <PageReference>DFE21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="crippling injury">
+      <PageReference>DFE61</PageReference>
+    </Child>
+    <Child ReferenceText="critical hits">
+      <PageReference>DFE100</PageReference>
+    </Child>
+    <Child ReferenceText="critical misses">
+      <PageReference>DFE101</PageReference>
+    </Child>
+    <Child ReferenceText="doors">
+      <PageReference>DFE82</PageReference>
+    </Child>
+    <Child ReferenceText="falling damage">
+      <PageReference>DFE67</PageReference>
+    </Child>
+    <Child ReferenceText="Fright Check disadvantage">
+      <PageReference>DFE11</PageReference>
+    </Child>
+    <Child ReferenceText="hit location">
+      <PageReference>DFE99</PageReference>
+    </Child>
+    <Child ReferenceText="maneuvers">
+      <PageReference>DFE98</PageReference>
+    </Child>
+    <Child ReferenceText="melee attack metalwork">
+      <PageReference>DFE83</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>DFE95</PageReference>
+    </Child>
+    <Child ReferenceText="object hit points">
+      <PageReference>DFE102</PageReference>
+    </Child>
+    <Child ReferenceText="on rolls">
+      <PageReference>DFE12</PageReference>
+    </Child>
+    <Child ReferenceText="postures">
+      <PageReference>DFE99</PageReference>
+    </Child>
+    <Child ReferenceText="ranged attack modifiers">
+      <PageReference>DFE96</PageReference>
+    </Child>
+    <Child ReferenceText="reaction">
+      <PageReference>DFE12</PageReference>
+    </Child>
+    <Child ReferenceText="size and speed/range">
+      <PageReference>DFE97</PageReference>
+    </Child>
+    <Child ReferenceText="unarmed critical miss">
+      <PageReference>DFE101</PageReference>
+    </Child>
+    <Child ReferenceText="walls">
+      <PageReference>DFE82</PageReference>
+    </Child>
+    <Child ReferenceText="active defense modifiers">
+      <PageReference>DFE96-97</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Takedowns">
+    <PageReference>DFE41</PageReference>
+    <PageReference>DFE51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Task difficulty modifiers">
+    <PageReference>DFE6</PageReference>
+    <Child ReferenceText="nasty qualifiers">
+      <PageReference>DFE6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tasks">
+    <SeeAlso>Combat</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Taste/Smell rolls">
+    <PageReference>DFE9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taunt">
+    <PageReference>DFE58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teamwork">
+    <PageReference>DFE6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature">
+    <Child ReferenceText="injury from">
+      <PageReference>DFE70</PageReference>
+    </Child>
+    <Child ReferenceText="fatigue recovery">
+      <PageReference>DFE65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Temple">
+    <SeeAlso>Town</SeeAlso>
+    <Child ReferenceText="cost of healing">
+      <PageReference>DFE62-63</PageReference>
+    </Child>
+    <Child ReferenceText="trading goods">
+      <PageReference>DFE16</PageReference>
+    </Child>
+    <Child ReferenceText="answered prayers">
+      <PageReference>DFE91</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Throwing">
+    <PageReference>DFE22</PageReference>
+    <Child ReferenceText="grenades">
+      <PageReference>DFE44</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>DFE43-45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Time">
+    <Child ReferenceText="spent on actions">
+      <PageReference>DFE6</PageReference>
+    </Child>
+    <Child ReferenceText="in game">
+      <PageReference>DFE88</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tipsy condition">
+    <PageReference>DFE65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Torches">
+    <Child ReferenceText="as weapons">
+      <PageReference>DFE36</PageReference>
+      <PageReference>DFE68</PageReference>
+    </Child>
+    <Child ReferenceText="as light">
+      <PageReference>DFE19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Touch rolls">
+    <PageReference>DFE9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Towns">
+    <PageReference>DFE13-17</PageReference>
+    <Child ReferenceText="adventures">
+      <PageReference>DFE84</PageReference>
+    </Child>
+    <Child ReferenceText="extra cash">
+      <PageReference>DFE14</PageReference>
+    </Child>
+    <Child ReferenceText="finding a quest">
+      <PageReference>DFE14</PageReference>
+    </Child>
+    <Child ReferenceText="finding a sponsor">
+      <PageReference>DFE14-15</PageReference>
+    </Child>
+    <Child ReferenceText="getting caught">
+      <PageReference>DFE14</PageReference>
+    </Child>
+    <Child ReferenceText="getting gear">
+      <PageReference>DFE13</PageReference>
+    </Child>
+    <Child ReferenceText="getting paid">
+      <PageReference>DFE17</PageReference>
+    </Child>
+    <Child ReferenceText="selling goods">
+      <PageReference>DFE15-16</PageReference>
+    </Child>
+    <Child ReferenceText="selling scrap">
+      <PageReference>DFE16-17</PageReference>
+    </Child>
+    <Child ReferenceText="selling tales">
+      <PageReference>DFE17</PageReference>
+    </Child>
+    <Child ReferenceText="selling unique items">
+      <PageReference>DFE75</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Toxic (tox) damage type">
+    <PageReference>DFE53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracking">
+    <PageReference>DFE18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Training">
+    <PageReference>DFE93</PageReference>
+    <Child ReferenceText="expenses">
+      <PageReference>DFE93</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Traits">
+    <SeeAlso>Disadvantages</SeeAlso>
+    <SeeAlso>Skills</SeeAlso>
+    <Child ReferenceText="improving">
+      <PageReference>DFE92-93</PageReference>
+    </Child>
+    <Child ReferenceText="adding">
+      <PageReference>DFE92-93</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tramples">
+    <PageReference>DFE34</PageReference>
+    <PageReference>DFE40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps">
+    <Child ReferenceText="designing">
+      <PageReference>DFE70-71</PageReference>
+    </Child>
+    <Child ReferenceText="falling">
+      <PageReference>DFE67-68</PageReference>
+    </Child>
+    <Child ReferenceText="fire">
+      <PageReference>DFE68</PageReference>
+    </Child>
+    <Child ReferenceText="form">
+      <PageReference>DFE110</PageReference>
+      <PageReference>DFE111</PageReference>
+    </Child>
+    <Child ReferenceText="overcoming">
+      <PageReference>DFE23-24</PageReference>
+    </Child>
+    <Child ReferenceText="poison">
+      <PageReference>DFE69</PageReference>
+    </Child>
+    <Child ReferenceText="sample">
+      <PageReference>DFE71</PageReference>
+    </Child>
+    <Child ReferenceText="ambush">
+      <PageReference>DFE58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel">
+    <SeeAlso>Movement</SeeAlso>
+    <Child ReferenceText="fatigue cost">
+      <PageReference>DFE64</PageReference>
+    </Child>
+    <Child ReferenceText="time">
+      <PageReference>DFE17</PageReference>
+      <PageReference>DFE88</PageReference>
+    </Child>
+    <Child ReferenceText="wandering monsters">
+      <PageReference>DFE85</PageReference>
+      <PageReference>DFE88</PageReference>
+    </Child>
+    <Child ReferenceText="adventures">
+      <PageReference>DFE84</PageReference>
+      <PageReference>DFE88</PageReference>
+      <PageReference>DFE89</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Treasure">
+    <SeeAlso>Objects</SeeAlso>
+    <Child ReferenceText="finding">
+      <PageReference>DFE24-25</PageReference>
+    </Child>
+    <Child ReferenceText="identifying">
+      <PageReference>DFE24-25</PageReference>
+    </Child>
+    <Child ReferenceText="keeping">
+      <PageReference>DFE15</PageReference>
+    </Child>
+    <Child ReferenceText="magical">
+      <PageReference>DFE76-79</PageReference>
+    </Child>
+    <Child ReferenceText="naturally occurring money">
+      <PageReference>DFE25</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DFE72</PageReference>
+    </Child>
+    <Child ReferenceText="popular in town">
+      <PageReference>DFE74</PageReference>
+    </Child>
+    <Child ReferenceText="recommendations">
+      <PageReference>DFE88-89</PageReference>
+    </Child>
+    <Child ReferenceText="scrap">
+      <PageReference>DFE16-17</PageReference>
+    </Child>
+    <Child ReferenceText="searching the bodies">
+      <PageReference>DFE24</PageReference>
+    </Child>
+    <Child ReferenceText="selling">
+      <PageReference>DFE15-16</PageReference>
+    </Child>
+    <Child ReferenceText="tips for controlling">
+      <PageReference>DFE72</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>DFE73-79</PageReference>
+    </Child>
+    <Child ReferenceText="useful">
+      <PageReference>DFE75-76</PageReference>
+    </Child>
+    <Child ReferenceText="determining value">
+      <PageReference>DFE25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tricks">
+    <Child ReferenceText="overcoming">
+      <PageReference>DFE23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trip-rope trap">
+    <PageReference>DFE71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tumbling">
+    <PageReference>DFE58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turns">
+    <PageReference>DFE28</PageReference>
+    <Child ReferenceText="slow condition">
+      <PageReference>DFE65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unarmed combat">
+    <PageReference>DFE38-41</PageReference>
+    <Child ReferenceText="critical miss table">
+      <PageReference>DFE101</PageReference>
+    </Child>
+    <Child ReferenceText="hurting yourself">
+      <PageReference>DFE40</PageReference>
+    </Child>
+    <Child ReferenceText="parrying">
+      <PageReference>DFE40</PageReference>
+      <PageReference>DFE49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unconsciousness condition">
+    <PageReference>DFE66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unconsciousness">
+    <Child ReferenceText="recovering from">
+      <PageReference>DFE62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unique items">
+    <PageReference>DFE25</PageReference>
+    <PageReference>DFE79</PageReference>
+    <Child ReferenceText="selling">
+      <PageReference>DFE75</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unliving">
+    <PageReference>DFE55</PageReference>
+    <PageReference>DFE102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vaults">
+    <SeeAlso>Chests</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Very Rapid Healing advantage">
+    <PageReference>DFE62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visibility">
+    <Child ReferenceText="defense and">
+      <PageReference>DFE47</PageReference>
+      <PageReference>DFE96</PageReference>
+    </Child>
+    <Child ReferenceText="attack modifiers">
+      <PageReference>DFE36</PageReference>
+      <PageReference>DFE95</PageReference>
+      <PageReference>DFE96</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vision rolls">
+    <PageReference>DFE9</PageReference>
+    <PageReference>DFE97-98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wait maneuver">
+    <PageReference>DFE32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walls">
+    <Child ReferenceText="stats">
+      <PageReference>DFE82</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Watches">
+    <Child ReferenceText="posting">
+      <PageReference>DFE18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <SeeAlso>Attacks</SeeAlso>
+    <SeeAlso>Combat</SeeAlso>
+    <SeeAlso>Damage</SeeAlso>
+    <SeeAlso>Defense</SeeAlso>
+    <Child ReferenceText="breaking">
+      <PageReference>DFE37</PageReference>
+    </Child>
+    <Child ReferenceText="broken">
+      <PageReference>DFE56</PageReference>
+    </Child>
+    <Child ReferenceText="crafting">
+      <PageReference>DFE13</PageReference>
+    </Child>
+    <Child ReferenceText="damage type">
+      <PageReference>DFE53</PageReference>
+    </Child>
+    <Child ReferenceText="defending">
+      <PageReference>DFE47</PageReference>
+    </Child>
+    <Child ReferenceText="defense limitations">
+      <PageReference>DFE47</PageReference>
+    </Child>
+    <Child ReferenceText="disarming">
+      <PageReference>DFE37</PageReference>
+    </Child>
+    <Child ReferenceText="dual">
+      <PageReference>DFE36</PageReference>
+    </Child>
+    <Child ReferenceText="enchantments">
+      <PageReference>DFE78-79</PageReference>
+    </Child>
+    <Child ReferenceText="for close combat">
+      <PageReference>DFE51</PageReference>
+    </Child>
+    <Child ReferenceText="hidden">
+      <PageReference>DFE58</PageReference>
+    </Child>
+    <Child ReferenceText="improvised">
+      <PageReference>DFE37</PageReference>
+      <PageReference>DFE49</PageReference>
+      <PageReference>DFE95</PageReference>
+      <PageReference>DFE96</PageReference>
+    </Child>
+    <Child ReferenceText="incendiary">
+      <PageReference>DFE68</PageReference>
+    </Child>
+    <Child ReferenceText="missile">
+      <PageReference>DFE45</PageReference>
+    </Child>
+    <Child ReferenceText="natural">
+      <PageReference>DFE36</PageReference>
+    </Child>
+    <Child ReferenceText="parrying">
+      <PageReference>DFE48-49</PageReference>
+    </Child>
+    <Child ReferenceText="poisoned">
+      <PageReference>DFE58</PageReference>
+      <PageReference>DFE69</PageReference>
+    </Child>
+    <Child ReferenceText="reach">
+      <PageReference>DFE37-38</PageReference>
+    </Child>
+    <Child ReferenceText="range">
+      <PageReference>DFE43</PageReference>
+      <PageReference>DFE97-98</PageReference>
+    </Child>
+    <Child ReferenceText="readying">
+      <PageReference>DFE32</PageReference>
+      <PageReference>DFE36</PageReference>
+      <PageReference>DFE51</PageReference>
+    </Child>
+    <Child ReferenceText="special melee">
+      <PageReference>DFE39</PageReference>
+    </Child>
+    <Child ReferenceText="strangling">
+      <PageReference>DFE39</PageReference>
+      <PageReference>DFE44</PageReference>
+    </Child>
+    <Child ReferenceText="traps">
+      <PageReference>DFE70-71</PageReference>
+    </Child>
+    <Child ReferenceText="treasure">
+      <PageReference>DFE25</PageReference>
+      <PageReference>DFE73</PageReference>
+      <PageReference>DFE75</PageReference>
+    </Child>
+    <Child ReferenceText="thrown">
+      <PageReference>DFE43-45</PageReference>
+    </Child>
+    <Child ReferenceText="unwieldy">
+      <PageReference>DFE32</PageReference>
+    </Child>
+    <Child ReferenceText="attacking">
+      <PageReference>DFE37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Whips">
+    <PageReference>DFE39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild Swing combat option">
+    <PageReference>DFE38</PageReference>
+    <PageReference>DFE42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wilderness">
+    <PageReference>DFE17-18</PageReference>
+    <PageReference>DFE84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wish items">
+    <PageReference>DFE78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wounds">
+    <SeeAlso>Damage</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Writings">
+    <PageReference>DFE75</PageReference>
+    <Child ReferenceText="magical">
+      <PageReference>DFE25</PageReference>
+      <PageReference>DFE76-77</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

@@ -1,0 +1,581 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Alchemy">
+    <Child ReferenceText="materials in coins">
+      <PageReference>DFT1:6</PageReference>
+    </Child>
+    <Child ReferenceText="making monster dye">
+      <PageReference>DFT1:15</PageReference>
+    </Child>
+    <Child ReferenceText="determining coin features">
+      <PageReference>DFT1:11-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals motif table">
+    <PageReference>DFT1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <Child ReferenceText="money">
+      <PageReference>DFT1:9</PageReference>
+    </Child>
+    <Child ReferenceText="ethnic cool">
+      <PageReference>DFT1:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Basalt">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basket weave">
+    <PageReference>DFT1:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Billon">
+    <PageReference>DFT1:5</PageReference>
+    <PageReference>DFT1:6</PageReference>
+    <PageReference>DFT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blackjacks">
+    <Child ReferenceText="coin">
+      <PageReference>DFT1:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bone">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brass">
+    <PageReference>DFT1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brocade">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bronze">
+    <PageReference>DFT1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buckles">
+    <PageReference>DFT1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buttons">
+    <PageReference>DFT1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cambric">
+    <PageReference>DFT1:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <Child ReferenceText="using details in">
+      <PageReference>DFT1:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Canvas">
+    <PageReference>DFT1:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chiffon">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloud">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coins">
+    <Child ReferenceText="as power items">
+      <PageReference>DFT1:9</PageReference>
+    </Child>
+    <Child ReferenceText="as weapons">
+      <PageReference>DFT1:10</PageReference>
+    </Child>
+    <Child ReferenceText="benefits of metal">
+      <PageReference>DFT1:12</PageReference>
+    </Child>
+    <Child ReferenceText="big">
+      <PageReference>DFT1:8</PageReference>
+    </Child>
+    <Child ReferenceText="composition">
+      <PageReference>DFT1:4-5</PageReference>
+      <PageReference>DFT1:11</PageReference>
+    </Child>
+    <Child ReferenceText="condition">
+      <PageReference>DFT1:9-10</PageReference>
+    </Child>
+    <Child ReferenceText="counting">
+      <PageReference>DFT1:11-12</PageReference>
+    </Child>
+    <Child ReferenceText="currency systems">
+      <PageReference>DFT1:12</PageReference>
+    </Child>
+    <Child ReferenceText="cursed">
+      <PageReference>DFT1:12</PageReference>
+    </Child>
+    <Child ReferenceText="custom denominations">
+      <PageReference>DFT1:6</PageReference>
+    </Child>
+    <Child ReferenceText="debased">
+      <PageReference>DFT1:5</PageReference>
+    </Child>
+    <Child ReferenceText="decoration">
+      <PageReference>DFT1:10-11</PageReference>
+    </Child>
+    <Child ReferenceText="denominations">
+      <PageReference>DFT1:5-8</PageReference>
+    </Child>
+    <Child ReferenceText="exact weights">
+      <PageReference>DFT1:8</PageReference>
+    </Child>
+    <Child ReferenceText="hoards">
+      <PageReference>DFT1:5</PageReference>
+    </Child>
+    <Child ReferenceText="hollow">
+      <PageReference>DFT1:10</PageReference>
+    </Child>
+    <Child ReferenceText="magical">
+      <PageReference>DFT1:9</PageReference>
+    </Child>
+    <Child ReferenceText="material proportions">
+      <PageReference>DFT1:6</PageReference>
+    </Child>
+    <Child ReferenceText="paper money">
+      <PageReference>DFT1:11</PageReference>
+    </Child>
+    <Child ReferenceText="practical details">
+      <PageReference>DFT1:3</PageReference>
+    </Child>
+    <Child ReferenceText="purity">
+      <PageReference>DFT1:5</PageReference>
+      <PageReference>DFT1:11-12</PageReference>
+    </Child>
+    <Child ReferenceText="shape">
+      <PageReference>DFT1:8</PageReference>
+    </Child>
+    <Child ReferenceText="sharpened">
+      <PageReference>DFT1:10</PageReference>
+    </Child>
+    <Child ReferenceText="size comparisons">
+      <PageReference>DFT1:8</PageReference>
+    </Child>
+    <Child ReferenceText="sizes">
+      <PageReference>DFT1:6-8</PageReference>
+    </Child>
+    <Child ReferenceText="U" />
+    <Child ReferenceText="S" />
+    <Child ReferenceText="sizes">
+      <PageReference>DFT1:8</PageReference>
+    </Child>
+    <Child ReferenceText="value">
+      <PageReference>DFT1:6-7</PageReference>
+    </Child>
+    <Child ReferenceText="weight">
+      <PageReference>DFT1:5-8</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>DFT1:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Colors">
+    <Child ReferenceText="of object">
+      <PageReference>DFT1:15</PageReference>
+    </Child>
+    <Child ReferenceText="monsters">
+      <PageReference>DFT1:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Corduroy">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crinoline">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultures">
+    <SeeAlso>Societies</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Damask">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Darkness">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Double-velvet">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doublehard glass">
+    <PageReference>DFT1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ebony">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electrum">
+    <PageReference>DFT1:5</PageReference>
+    <PageReference>DFT1:6</PageReference>
+    <PageReference>DFT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ethnic cool gear">
+    <PageReference>DFT1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fabrics">
+    <PageReference>DFT1:16-17</PageReference>
+    <Child ReferenceText="fourth-dimensional">
+      <PageReference>DFT1:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fasteners">
+    <PageReference>DFT1:15-16</PageReference>
+    <Child ReferenceText="attacking">
+      <PageReference>DFT1:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flame">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flower petals">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Garments">
+    <Child ReferenceText="fasteners">
+      <PageReference>DFT1:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="fabric">
+      <PageReference>DFT1:16-17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gauze">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <Child ReferenceText="ethnic cool">
+      <PageReference>DFT1:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grogram">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guessing coins">
+    <PageReference>DFT1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>DFT1:6</PageReference>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DFT1:3</PageReference>
+      <PageReference>DFT1:4</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DFT1:11</PageReference>
+      <PageReference>DFT1:15</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DFT1:3</PageReference>
+      <PageReference>DFT1:5</PageReference>
+      <PageReference>DFT1:11</PageReference>
+      <PageReference>DFT1:15</PageReference>
+      <PageReference>DFT1:20</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 6: 40 Artifacts">
+      <PageReference>DFT1:3</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 8: Treasure Tables">
+      <PageReference>DFT1:3-6</PageReference>
+      <PageReference>DFT1:11-13</PageReference>
+      <PageReference>DFT1:15-17</PageReference>
+      <PageReference>DFT1:19</PageReference>
+      <PageReference>DFT1:20</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 11: Power-Ups">
+      <PageReference>DFT1:11</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 13: Loadouts">
+      <PageReference>DFT1:17</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 14: Psis">
+      <PageReference>DFT1:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hell money">
+    <PageReference>DFT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horn">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ice">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Implausible materials">
+    <PageReference>DFT1:17-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ingots">
+    <Child ReferenceText="as money">
+      <PageReference>DFT1:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Insects">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Items motif table">
+    <PageReference>DFT1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jamdani">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laces">
+    <PageReference>DFT1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lamé">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leaves">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lightning">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lucky coins">
+    <PageReference>DFT1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marble">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Materials">
+    <Child ReferenceText="implausible">
+      <PageReference>DFT1:17-19</PageReference>
+    </Child>
+    <Child ReferenceText="fabrics">
+      <PageReference>DFT1:16-17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Measuring weights">
+    <PageReference>DFT1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meteoric iron">
+    <PageReference>DFT1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mist">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Money">
+    <SeeAlso>Coins</SeeAlso>
+    <Child ReferenceText="big">
+      <PageReference>DFT1:8</PageReference>
+    </Child>
+    <Child ReferenceText="currency systems">
+      <PageReference>DFT1:12</PageReference>
+    </Child>
+    <Child ReferenceText="cursed">
+      <PageReference>DFT1:12</PageReference>
+    </Child>
+    <Child ReferenceText="hell">
+      <PageReference>DFT1:11</PageReference>
+    </Child>
+    <Child ReferenceText="paper">
+      <PageReference>DFT1:11</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>DFT1:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <Child ReferenceText="motif table">
+      <PageReference>DFT1:13</PageReference>
+    </Child>
+    <Child ReferenceText="colors">
+      <PageReference>DFT1:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Moonbeams">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Motifs">
+    <PageReference>DFT1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="North Steppe Orcish Hordes">
+    <PageReference>DFT1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Objects motif table">
+    <PageReference>DFT1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orcish Sawtooth Blades">
+    <PageReference>DFT1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Organdy">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Organza">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orichalcum">
+    <PageReference>DFT1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patterns motif table">
+    <PageReference>DFT1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="People motif table">
+    <PageReference>DFT1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pins">
+    <PageReference>DFT1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Places motif table">
+    <PageReference>DFT1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plain weave">
+    <PageReference>DFT1:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pounds (money)">
+    <PageReference>DFT1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Promissory notes">
+    <PageReference>DFT1:11</PageReference>
+    <SeeAlso>Coins</SeeAlso>
+    <SeeAlso>Money</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Quicksilver">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rai">
+    <PageReference>DFT1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Samite">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sandstone">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sateen">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Satin">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scenes motif table">
+    <PageReference>DFT1:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Screams">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sea foam">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shells">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sky">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smoke">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Societies">
+    <Child ReferenceText="sample cultures">
+      <PageReference>DFT1:20</PageReference>
+    </Child>
+    <Child ReferenceText="making history">
+      <PageReference>DFT1:19-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sunlight">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbols motif table">
+    <PageReference>DFT1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="coin condition">
+      <PageReference>DFT1:10</PageReference>
+    </Child>
+    <Child ReferenceText="coin denominations">
+      <PageReference>DFT1:6</PageReference>
+    </Child>
+    <Child ReferenceText="coin shape">
+      <PageReference>DFT1:9</PageReference>
+    </Child>
+    <Child ReferenceText="coin sizes">
+      <PageReference>DFT1:6</PageReference>
+      <PageReference>DFT1:8</PageReference>
+    </Child>
+    <Child ReferenceText="color">
+      <PageReference>DFT1:15</PageReference>
+    </Child>
+    <Child ReferenceText="fabrics">
+      <PageReference>DFT1:16-17</PageReference>
+    </Child>
+    <Child ReferenceText="fasteners">
+      <PageReference>DFT1:16</PageReference>
+    </Child>
+    <Child ReferenceText="implausible materials">
+      <PageReference>DFT1:17-19</PageReference>
+    </Child>
+    <Child ReferenceText="motifs">
+      <PageReference>DFT1:13-15</PageReference>
+    </Child>
+    <Child ReferenceText="U" />
+    <Child ReferenceText="S" />
+    <Child ReferenceText="coin sizes">
+      <PageReference>DFT1:8</PageReference>
+    </Child>
+    <Child ReferenceText="coin composition">
+      <PageReference>DFT1:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Taffeta">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents (money)">
+    <PageReference>DFT1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tears">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teeth">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thorns">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toggles">
+    <PageReference>DFT1:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Translucent City">
+    <PageReference>DFT1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treasure">
+    <SeeAlso>Coins</SeeAlso>
+    <SeeAlso>Colors</SeeAlso>
+    <SeeAlso>Fasteners</SeeAlso>
+    <SeeAlso>Materials</SeeAlso>
+    <Child ReferenceText="practical details">
+      <PageReference>DFT1:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tumbaga">
+    <PageReference>DFT1:5</PageReference>
+    <PageReference>DFT1:6</PageReference>
+    <PageReference>DFT1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Twill">
+    <PageReference>DFT1:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Twins of Felonious Displacement (magical coins)">
+    <PageReference>DFT1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unnatural creatures motif table">
+    <PageReference>DFT1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Velvet">
+    <PageReference>DFT1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water">
+    <PageReference>DFT1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <Child ReferenceText="ethnic cool">
+      <PageReference>DFT1:20</PageReference>
+    </Child>
+    <Child ReferenceText="coin">
+      <PageReference>DFT1:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Yellow Mountain Helmet Level">
+    <PageReference>DFT1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yellow Mountain Kingdom">
+    <PageReference>DFT1:20</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

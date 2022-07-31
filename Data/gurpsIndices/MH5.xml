@@ -1,0 +1,1394 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="High TL">
+      <PageReference>MH5:5</PageReference>
+    </Child>
+    <Child ReferenceText="Immunity to Metabolic Hazards">
+      <PageReference>MH5:29</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>MH5:7</PageReference>
+      <PageReference>MH5:8</PageReference>
+      <PageReference>MH5:18</PageReference>
+      <PageReference>MH5:20</PageReference>
+    </Child>
+    <Child ReferenceText="Talents">
+      <PageReference>MH5:8</PageReference>
+      <PageReference>MH5:11</PageReference>
+      <PageReference>MH5:15</PageReference>
+    </Child>
+    <Child ReferenceText="for technomages">
+      <PageReference>MH5:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Campaigns</SeeAlso>
+    <SeeAlso>Conspiracies</SeeAlso>
+    <Child ReferenceText="Greys">
+      <PageReference>MH5:31</PageReference>
+    </Child>
+    <Child ReferenceText="Insectoids">
+      <PageReference>MH5:33</PageReference>
+    </Child>
+    <Child ReferenceText="Nordics">
+      <PageReference>MH5:36</PageReference>
+    </Child>
+    <Child ReferenceText="Phasites">
+      <PageReference>MH5:38</PageReference>
+    </Child>
+    <Child ReferenceText="Reptoids">
+      <PageReference>MH5:41</PageReference>
+    </Child>
+    <Child ReferenceText="Stalkers">
+      <PageReference>MH5:43</PageReference>
+    </Child>
+    <Child ReferenceText="Devourers">
+      <PageReference>MH5:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy kit">
+    <Child ReferenceText="technomagic">
+      <PageReference>MH5:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alien Bioenhancement power modifier">
+    <PageReference>MH5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alien Psionics">
+    <Child ReferenceText="power">
+      <PageReference>MH5:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aliens">
+    <SeeAlso>Extraterrestrials</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Alphans">
+    <SeeAlso>Reptoids</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Anakim">
+    <SeeAlso>Devourers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Androids">
+    <PageReference>MH5:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Angels">
+    <PageReference>MH5:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aryans">
+    <SeeAlso>Nordics</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Azurites">
+    <SeeAlso>Phasites</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Battery packs">
+    <PageReference>MH5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioengineering">
+    <Child ReferenceText="by Greys">
+      <PageReference>MH5:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Blues">
+    <SeeAlso>Phasites</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Born to Be Wired Talent">
+    <PageReference>MH5:11</PageReference>
+    <PageReference>MH5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brain flu">
+    <PageReference>MH5:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brother template">
+    <PageReference>MH5:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burrowers">
+    <PageReference>MH5:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <SeeAlso>Adventures</SeeAlso>
+    <SeeAlso>Conspiracies</SeeAlso>
+    <Child ReferenceText="general decisions">
+      <PageReference>MH5:3-4</PageReference>
+    </Child>
+    <Child ReferenceText="magic decisions">
+      <PageReference>MH5:3-4</PageReference>
+      <PageReference>MH5:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="monster decisions">
+      <PageReference>MH5:4</PageReference>
+    </Child>
+    <Child ReferenceText="plausible monsters">
+      <PageReference>MH5:47-48</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>MH5:12-13</PageReference>
+    </Child>
+    <Child ReferenceText="alien decisions">
+      <PageReference>MH5:4</PageReference>
+      <PageReference>MH5:24-25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Caseless Electrothermal-Chemical (ETC) weapons">
+    <PageReference>MH5:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Extraterrestrials</SeeAlso>
+    <SeeAlso>Monsters</SeeAlso>
+    <SeeAlso>Skills</SeeAlso>
+    <SeeAlso>Templates</SeeAlso>
+    <Child ReferenceText="magical specialists">
+      <PageReference>MH5:8</PageReference>
+    </Child>
+    <Child ReferenceText="universal changes and issues">
+      <PageReference>MH5:5</PageReference>
+    </Child>
+    <Child ReferenceText="appropriate">
+      <PageReference>MH5:5-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Charms">
+    <Child ReferenceText="transferring">
+      <PageReference>MH5:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chrymorphids">
+    <SeeAlso>Insectoids</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloning">
+    <Child ReferenceText="by Greys">
+      <PageReference>MH5:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor disadvantage">
+    <Child ReferenceText="Hunter’s Code">
+      <PageReference>MH5:43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Complexity">
+    <Child ReferenceText="computer">
+      <PageReference>MH5:20</PageReference>
+      <PageReference>MH5:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer Operation skill">
+    <PageReference>MH5:15</PageReference>
+    <Child ReferenceText="Talent and">
+      <PageReference>MH5:11</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>MH5:17</PageReference>
+      <PageReference>MH5:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer Programming skill">
+    <PageReference>MH5:14</PageReference>
+    <SeeAlso>Scripts</SeeAlso>
+    <Child ReferenceText="Talent and">
+      <PageReference>MH5:11</PageReference>
+    </Child>
+    <Child ReferenceText="software hacking">
+      <PageReference>MH5:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <PageReference>MH5:20</PageReference>
+    <SeeAlso>Equipment</SeeAlso>
+    <SeeAlso>Scripts</SeeAlso>
+    <SeeAlso>Technomagic</SeeAlso>
+    <Child ReferenceText="accessories">
+      <PageReference>MH5:20</PageReference>
+    </Child>
+    <Child ReferenceText="Complexity">
+      <PageReference>MH5:20</PageReference>
+      <PageReference>MH5:21</PageReference>
+    </Child>
+    <Child ReferenceText="exceeding script limits">
+      <PageReference>MH5:17</PageReference>
+    </Child>
+    <Child ReferenceText="perk">
+      <PageReference>MH5:20</PageReference>
+    </Child>
+    <Child ReferenceText="portable storage">
+      <PageReference>MH5:17</PageReference>
+      <PageReference>MH5:18</PageReference>
+      <PageReference>MH5:20</PageReference>
+    </Child>
+    <Child ReferenceText="script limits">
+      <PageReference>MH5:17</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>MH5:11</PageReference>
+    </Child>
+    <Child ReferenceText="tech level and">
+      <PageReference>MH5:21</PageReference>
+    </Child>
+    <Child ReferenceText="technomagic skills">
+      <PageReference>MH5:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="transferring scripts">
+      <PageReference>MH5:17-18</PageReference>
+    </Child>
+    <Child ReferenceText="upgrades">
+      <PageReference>MH5:22</PageReference>
+    </Child>
+    <Child ReferenceText="using devices">
+      <PageReference>MH5:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Conspiracies">
+    <Child ReferenceText="campaigns">
+      <PageReference>MH5:13</PageReference>
+      <PageReference>MH5:24</PageReference>
+      <PageReference>MH5:39</PageReference>
+    </Child>
+    <Child ReferenceText="deducing the truth">
+      <PageReference>MH5:6</PageReference>
+      <PageReference>MH5:39</PageReference>
+    </Child>
+    <Child ReferenceText="Obsession">
+      <PageReference>MH5:6</PageReference>
+    </Child>
+    <Child ReferenceText="information skills">
+      <PageReference>MH5:7</PageReference>
+      <PageReference>MH5:39</PageReference>
+    </Child>
+    <Child ReferenceText="Nordic">
+      <PageReference>MH5:36</PageReference>
+    </Child>
+    <Child ReferenceText="Reptoid">
+      <PageReference>MH5:41</PageReference>
+    </Child>
+    <Child ReferenceText="ruling class and">
+      <PageReference>MH5:13</PageReference>
+    </Child>
+    <Child ReferenceText="androids">
+      <PageReference>MH5:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Contagiousness">
+    <PageReference>MH5:44</PageReference>
+    <SeeAlso>Plagues</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Crusader template">
+    <PageReference>MH5:6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cryptids">
+    <PageReference>MH5:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cybercytes">
+    <PageReference>MH5:45-46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demons">
+    <PageReference>MH5:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Devourers">
+    <PageReference>MH5:26-29</PageReference>
+    <Child ReferenceText="attacks by">
+      <PageReference>MH5:26</PageReference>
+    </Child>
+    <Child ReferenceText="close encounters">
+      <PageReference>MH5:27</PageReference>
+    </Child>
+    <Child ReferenceText="distributed intelligence">
+      <PageReference>MH5:26</PageReference>
+    </Child>
+    <Child ReferenceText="formerly human shell">
+      <PageReference>MH5:27</PageReference>
+    </Child>
+    <Child ReferenceText="size">
+      <PageReference>MH5:26</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>MH5:27-29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Diseases">
+    <SeeAlso>Plagues</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine Curse disadvantage">
+    <Child ReferenceText="changing">
+      <PageReference>MH5:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Draconians">
+    <SeeAlso>Reptoids</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Drugs">
+    <PageReference>MH5:9</PageReference>
+    <PageReference>MH5:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual-casting">
+    <PageReference>MH5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Easy Refill perk">
+    <PageReference>MH5:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronics Repair (Computers) skill">
+    <PageReference>MH5:15</PageReference>
+    <Child ReferenceText="Talent and">
+      <PageReference>MH5:11</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>MH5:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Engineer (Electronics) skill">
+    <PageReference>MH5:15</PageReference>
+    <Child ReferenceText="using">
+      <PageReference>MH5:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Computers</SeeAlso>
+    <SeeAlso>Thaumatological Coding Suite</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="androids">
+      <PageReference>MH5:33</PageReference>
+    </Child>
+    <Child ReferenceText="booby-trapping alien">
+      <PageReference>MH5:44</PageReference>
+    </Child>
+    <Child ReferenceText="burrowing vehicles">
+      <PageReference>MH5:40</PageReference>
+    </Child>
+    <Child ReferenceText="Greys">
+      <PageReference>MH5:30-31</PageReference>
+    </Child>
+    <Child ReferenceText="High TL and">
+      <PageReference>MH5:5</PageReference>
+    </Child>
+    <Child ReferenceText="morphology inducers">
+      <PageReference>MH5:25-26</PageReference>
+    </Child>
+    <Child ReferenceText="psychotronics">
+      <PageReference>MH5:9</PageReference>
+      <PageReference>MH5:30</PageReference>
+    </Child>
+    <Child ReferenceText="Reptoids">
+      <PageReference>MH5:40</PageReference>
+    </Child>
+    <Child ReferenceText="spaceships">
+      <PageReference>MH5:26</PageReference>
+    </Child>
+    <Child ReferenceText="upgrading">
+      <PageReference>MH5:22</PageReference>
+      <PageReference>MH5:44</PageReference>
+    </Child>
+    <Child ReferenceText="alien">
+      <PageReference>MH5:25-26</PageReference>
+      <PageReference>MH5:30-31</PageReference>
+      <PageReference>MH5:40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Esoteric Medicine skill">
+    <PageReference>MH5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ETC weapons">
+    <PageReference>MH5:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Experiment template">
+    <PageReference>MH5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extraterrestrials">
+    <SeeAlso>Devourers</SeeAlso>
+    <SeeAlso>Diseases</SeeAlso>
+    <SeeAlso>Greys</SeeAlso>
+    <SeeAlso>Inhuman Template</SeeAlso>
+    <SeeAlso>Insectoids</SeeAlso>
+    <SeeAlso>Monsters</SeeAlso>
+    <SeeAlso>Nordics</SeeAlso>
+    <SeeAlso>Phasites</SeeAlso>
+    <SeeAlso>Reptoids</SeeAlso>
+    <SeeAlso>Stalkers</SeeAlso>
+    <Child ReferenceText="alternate names">
+      <PageReference>MH5:24</PageReference>
+    </Child>
+    <Child ReferenceText="antipathy">
+      <PageReference>MH5:25</PageReference>
+    </Child>
+    <Child ReferenceText="campaign types">
+      <PageReference>MH5:12-13</PageReference>
+    </Child>
+    <Child ReferenceText="decisions">
+      <PageReference>MH5:4</PageReference>
+      <PageReference>MH5:24-25</PageReference>
+    </Child>
+    <Child ReferenceText="experiment characters and">
+      <PageReference>MH5:7</PageReference>
+    </Child>
+    <Child ReferenceText="homeworlds">
+      <PageReference>MH5:24-25</PageReference>
+    </Child>
+    <Child ReferenceText="individuals">
+      <PageReference>MH5:24</PageReference>
+    </Child>
+    <Child ReferenceText="information skills">
+      <PageReference>MH5:7</PageReference>
+    </Child>
+    <Child ReferenceText="power modifier">
+      <PageReference>MH5:7</PageReference>
+    </Child>
+    <Child ReferenceText="races">
+      <PageReference>MH5:26-44</PageReference>
+    </Child>
+    <Child ReferenceText="Alien Psionics power">
+      <PageReference>MH5:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fae">
+    <PageReference>MH5:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Draw skill">
+    <Child ReferenceText="Device">
+      <PageReference>MH5:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fear extractors">
+    <PageReference>MH5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flash cards">
+    <PageReference>MH5:20</PageReference>
+    <Child ReferenceText="plugging in">
+      <PageReference>MH5:18</PageReference>
+    </Child>
+    <Child ReferenceText="script limit">
+      <PageReference>MH5:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flash drives">
+    <PageReference>MH5:20</PageReference>
+    <Child ReferenceText="plugging in">
+      <PageReference>MH5:18</PageReference>
+    </Child>
+    <Child ReferenceText="script limit">
+      <PageReference>MH5:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>Computers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Geek template">
+    <PageReference>MH5:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gels">
+    <SeeAlso>Devourers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghosts">
+    <PageReference>MH5:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gifted template">
+    <PageReference>MH5:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greys">
+    <PageReference>MH5:29-32</PageReference>
+    <Child ReferenceText="alien antipathy">
+      <PageReference>MH5:25</PageReference>
+    </Child>
+    <Child ReferenceText="close encounters">
+      <PageReference>MH5:31</PageReference>
+    </Child>
+    <Child ReferenceText="inhuman template">
+      <PageReference>MH5:30</PageReference>
+    </Child>
+    <Child ReferenceText="lenses">
+      <PageReference>MH5:31-32</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>MH5:31-32</PageReference>
+    </Child>
+    <Child ReferenceText="technology">
+      <PageReference>MH5:30-31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grimoires">
+    <SeeAlso>Scripts</SeeAlso>
+    <SeeAlso>Technomagic</SeeAlso>
+    <Child ReferenceText="sharing">
+      <PageReference>MH5:21-22</PageReference>
+    </Child>
+    <Child ReferenceText="digital">
+      <PageReference>MH5:21-22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>MH5:30</PageReference>
+    <SeeAlso>Pyramid</SeeAlso>
+    <Child ReferenceText="Basic Set">
+      <PageReference>MH5:4</PageReference>
+    </Child>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>MH5:3</PageReference>
+      <PageReference>MH5:25</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>MH5:21</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>MH5:23</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters">
+      <PageReference>MH5:3</PageReference>
+      <PageReference>MH5:4</PageReference>
+      <PageReference>MH5:6-8</PageReference>
+      <PageReference>MH5:10</PageReference>
+      <PageReference>MH5:13</PageReference>
+      <PageReference>MH5:15</PageReference>
+      <PageReference>MH5:18</PageReference>
+      <PageReference>MH5:21</PageReference>
+      <PageReference>MH5:22</PageReference>
+      <PageReference>MH5:24</PageReference>
+      <PageReference>MH5:40</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 1: Champions">
+      <PageReference>MH5:3-12</PageReference>
+      <PageReference>MH5:14</PageReference>
+      <PageReference>MH5:16</PageReference>
+      <PageReference>MH5:18-22</PageReference>
+      <PageReference>MH5:30</PageReference>
+      <PageReference>MH5:31</PageReference>
+      <PageReference>MH5:36</PageReference>
+      <PageReference>MH5:38</PageReference>
+      <PageReference>MH5:43</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 2: The Mission">
+      <PageReference>MH5:4</PageReference>
+      <PageReference>MH5:7</PageReference>
+      <PageReference>MH5:12</PageReference>
+      <PageReference>MH5:13</PageReference>
+      <PageReference>MH5:32</PageReference>
+      <PageReference>MH5:39</PageReference>
+      <PageReference>MH5:44</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 3: The Enemy">
+      <PageReference>MH5:4</PageReference>
+      <PageReference>MH5:23</PageReference>
+      <PageReference>MH5:24</PageReference>
+      <PageReference>MH5:36</PageReference>
+      <PageReference>MH5:44</PageReference>
+      <PageReference>MH5:46-48</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 4: Sidekicks">
+      <PageReference>MH5:4-6</PageReference>
+      <PageReference>MH5:8</PageReference>
+      <PageReference>MH5:9</PageReference>
+      <PageReference>MH5:11</PageReference>
+    </Child>
+    <Child ReferenceText="Psi-Tech">
+      <PageReference>MH5:3</PageReference>
+      <PageReference>MH5:9</PageReference>
+      <PageReference>MH5:25</PageReference>
+      <PageReference>MH5:30</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>MH5:48</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>MH5:23</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Ritual Path Magic">
+      <PageReference>MH5:4</PageReference>
+      <PageReference>MH5:14</PageReference>
+      <PageReference>MH5:19</PageReference>
+      <PageReference>MH5:22</PageReference>
+    </Child>
+    <Child ReferenceText="Ultra-Tech">
+      <PageReference>MH5:3</PageReference>
+      <PageReference>MH5:21</PageReference>
+      <PageReference>MH5:25</PageReference>
+      <PageReference>MH5:35</PageReference>
+      <PageReference>MH5:44</PageReference>
+      <PageReference>MH5:46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hacking reality">
+    <SeeAlso>Scripts</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Hand-coding">
+    <PageReference>MH5:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hardware">
+    <SeeAlso>Computers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="High TL advantage">
+    <PageReference>MH5:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Human upgrades">
+    <Child ReferenceText="by Greys">
+      <PageReference>MH5:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Husk virus">
+    <PageReference>MH5:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immunity to Metabolic Hazards advantage">
+    <Child ReferenceText="Earth">
+      <PageReference>MH5:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Infections">
+    <SeeAlso>Plagues</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Inhuman template">
+    <PageReference>MH5:8</PageReference>
+    <Child ReferenceText="Greys">
+      <PageReference>MH5:30</PageReference>
+    </Child>
+    <Child ReferenceText="Nordics">
+      <PageReference>MH5:37</PageReference>
+    </Child>
+    <Child ReferenceText="Reptoids">
+      <PageReference>MH5:40</PageReference>
+    </Child>
+    <Child ReferenceText="Stalkers">
+      <PageReference>MH5:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Insectoids">
+    <PageReference>MH5:32-34</PageReference>
+    <Child ReferenceText="baby">
+      <PageReference>MH5:34</PageReference>
+    </Child>
+    <Child ReferenceText="close encounters">
+      <PageReference>MH5:33</PageReference>
+    </Child>
+    <Child ReferenceText="reproduction">
+      <PageReference>MH5:32-33</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>MH5:33-34</PageReference>
+    </Child>
+    <Child ReferenceText="venom">
+      <PageReference>MH5:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intuitive Mathematician advantage">
+    <PageReference>MH5:15</PageReference>
+    <PageReference>MH5:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jargon">
+    <PageReference>MH5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jump beacons">
+    <PageReference>MH5:9</PageReference>
+    <PageReference>MH5:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lemurians">
+    <SeeAlso>Nordics</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <SeeAlso>Templates</SeeAlso>
+    <Child ReferenceText="sage">
+      <PageReference>MH5:10-11</PageReference>
+    </Child>
+    <Child ReferenceText="warrior">
+      <PageReference>MH5:11-12</PageReference>
+    </Child>
+    <Child ReferenceText="changes">
+      <PageReference>MH5:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lightning Calculator advantage">
+    <PageReference>MH5:15</PageReference>
+    <PageReference>MH5:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lycanthropes">
+    <PageReference>MH5:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+    <SeeAlso>Scripts</SeeAlso>
+    <SeeAlso>Technomagic</SeeAlso>
+    <Child ReferenceText="general decisions">
+      <PageReference>MH5:3-4</PageReference>
+      <PageReference>MH5:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="templates">
+      <PageReference>MH5:8-9</PageReference>
+      <PageReference>MH5:11</PageReference>
+      <PageReference>MH5:12</PageReference>
+    </Child>
+    <Child ReferenceText="trait decisions">
+      <PageReference>MH5:5</PageReference>
+    </Child>
+    <Child ReferenceText="dual-casting">
+      <PageReference>MH5:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magician template">
+    <PageReference>MH5:8-9</PageReference>
+    <Child ReferenceText="Path skills">
+      <PageReference>MH5:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Manhunters">
+    <SeeAlso>Stalkers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Martians">
+    <SeeAlso>Greys</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mathematics (Applied) skill">
+    <PageReference>MH5:14</PageReference>
+    <Child ReferenceText="handcoding and">
+      <PageReference>MH5:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Men From Planet X">
+    <SeeAlso>Nordics</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Microbes">
+    <SeeAlso>Plagues</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Microchipping">
+    <Child ReferenceText="by Greys">
+      <PageReference>MH5:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Miscellaneous alien tech (MAT)">
+    <PageReference>MH5:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <SeeAlso>Diseases</SeeAlso>
+    <SeeAlso>Extraterrestrials</SeeAlso>
+    <SeeAlso>Inhuman Template</SeeAlso>
+    <Child ReferenceText="plausible supernatural">
+      <PageReference>MH5:47-48</PageReference>
+    </Child>
+    <Child ReferenceText="unrealistic traits">
+      <PageReference>MH5:48</PageReference>
+    </Child>
+    <Child ReferenceText="decisions">
+      <PageReference>MH5:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Morphology inducers">
+    <PageReference>MH5:25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mummies">
+    <PageReference>MH5:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mysticism power">
+    <PageReference>MH5:6-7</PageReference>
+    <Child ReferenceText="changes to abilities">
+      <PageReference>MH5:6-7</PageReference>
+    </Child>
+    <Child ReferenceText="decisions about">
+      <PageReference>MH5:3</PageReference>
+      <PageReference>MH5:6-7</PageReference>
+      <PageReference>MH5:23</PageReference>
+      <PageReference>MH5:25</PageReference>
+      <PageReference>MH5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nagas">
+    <SeeAlso>Reptoids</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="NBC suits">
+    <PageReference>MH5:10</PageReference>
+    <Child ReferenceText="Insectoid venom and">
+      <PageReference>MH5:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nordics">
+    <PageReference>MH5:34-37</PageReference>
+    <Child ReferenceText="alien antipathy">
+      <PageReference>MH5:25</PageReference>
+    </Child>
+    <Child ReferenceText="close encounters">
+      <PageReference>MH5:36</PageReference>
+    </Child>
+    <Child ReferenceText="conspiracies">
+      <PageReference>MH5:36</PageReference>
+    </Child>
+    <Child ReferenceText="Enthrallment skills">
+      <PageReference>MH5:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="goals and plots">
+      <PageReference>MH5:35</PageReference>
+    </Child>
+    <Child ReferenceText="inhuman template">
+      <PageReference>MH5:37</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>MH5:36-37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Null-field generators">
+    <PageReference>MH5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obsession disadvantage">
+    <Child ReferenceText="new">
+      <PageReference>MH5:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Occult, science vs">
+    <Child ReferenceText="">
+      <PageReference>MH5:3</PageReference>
+      <SeeAlso>Ritual Path Magic</SeeAlso>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Occultism skill">
+    <PageReference>MH5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occultist template">
+    <PageReference>MH5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orions">
+    <SeeAlso>Stalkers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Overclocked perk">
+    <PageReference>MH5:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path skills">
+    <Child ReferenceText="perk">
+      <PageReference>MH5:8</PageReference>
+    </Child>
+    <Child ReferenceText="specializing">
+      <PageReference>MH5:8</PageReference>
+    </Child>
+    <Child ReferenceText="Talents">
+      <PageReference>MH5:8</PageReference>
+    </Child>
+    <Child ReferenceText="Computer Programming skill and">
+      <PageReference>MH5:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="PDA">
+    <PageReference>MH5:20</PageReference>
+    <Child ReferenceText="running scripts on">
+      <PageReference>MH5:17</PageReference>
+      <PageReference>MH5:18</PageReference>
+    </Child>
+    <Child ReferenceText="script limit">
+      <PageReference>MH5:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <Child ReferenceText="new">
+      <PageReference>MH5:7</PageReference>
+      <PageReference>MH5:8</PageReference>
+      <PageReference>MH5:18</PageReference>
+      <PageReference>MH5:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Phasites">
+    <PageReference>MH5:37-38</PageReference>
+    <SeeAlso>ing</SeeAlso>
+    <SeeAlso>37</SeeAlso>
+    <Child ReferenceText="body snatching">
+      <PageReference>MH5:38</PageReference>
+    </Child>
+    <Child ReferenceText="close encounters">
+      <PageReference>MH5:38</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>MH5:38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Physics skill">
+    <PageReference>MH5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Places of power">
+    <PageReference>MH5:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plagues">
+    <PageReference>MH5:44-46</PageReference>
+    <Child ReferenceText="creating new">
+      <PageReference>MH5:45</PageReference>
+    </Child>
+    <Child ReferenceText="dealing with">
+      <PageReference>MH5:44-45</PageReference>
+    </Child>
+    <Child ReferenceText="decisions">
+      <PageReference>MH5:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power modifiers">
+    <Child ReferenceText="new">
+      <PageReference>MH5:7</PageReference>
+      <PageReference>MH5:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <Child ReferenceText="new">
+      <PageReference>MH5:7</PageReference>
+      <PageReference>MH5:9</PageReference>
+    </Child>
+    <Child ReferenceText="decisions">
+      <PageReference>MH5:3</PageReference>
+      <PageReference>MH5:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi-impeder helmet">
+    <PageReference>MH5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi-tech">
+    <SeeAlso>Psychotronics</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi template">
+    <PageReference>MH5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychoportation">
+    <PageReference>MH5:9</PageReference>
+    <PageReference>MH5:30-31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychoportive beacons">
+    <PageReference>MH5:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychotronics">
+    <PageReference>MH5:9</PageReference>
+    <PageReference>MH5:30</PageReference>
+    <SeeAlso>Equipment</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid">
+    <Child ReferenceText="#3/66: The Laws of Magic">
+      <PageReference>MH5:8</PageReference>
+      <PageReference>MH5:23</PageReference>
+    </Child>
+    <Child ReferenceText="#3/45: Monsters">
+      <PageReference>MH5:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Sheathe perk">
+    <Child ReferenceText="Device">
+      <PageReference>MH5:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reptoids">
+    <PageReference>MH5:39-41</PageReference>
+    <Child ReferenceText="alien antipathy">
+      <PageReference>MH5:25</PageReference>
+    </Child>
+    <Child ReferenceText="burrowing vehicles">
+      <PageReference>MH5:40</PageReference>
+    </Child>
+    <Child ReferenceText="close encounters">
+      <PageReference>MH5:41</PageReference>
+    </Child>
+    <Child ReferenceText="inhuman template">
+      <PageReference>MH5:41</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>MH5:40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reticulans">
+    <SeeAlso>Greys</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual Path magic">
+    <SeeAlso>Magic</SeeAlso>
+    <SeeAlso>Technomagic</SeeAlso>
+    <Child ReferenceText="different systems affecting">
+      <PageReference>MH5:22</PageReference>
+    </Child>
+    <Child ReferenceText="Path skills">
+      <PageReference>MH5:8</PageReference>
+    </Child>
+    <Child ReferenceText="places of power">
+      <PageReference>MH5:18</PageReference>
+    </Child>
+    <Child ReferenceText="specialists">
+      <PageReference>MH5:8</PageReference>
+    </Child>
+    <Child ReferenceText="Talents">
+      <PageReference>MH5:8</PageReference>
+    </Child>
+    <Child ReferenceText="technomagic vs" />
+    <Child ReferenceText="">
+      <PageReference>MH5:3-4</PageReference>
+      <PageReference>MH5:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="charm transfer">
+      <PageReference>MH5:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rituals">
+    <SeeAlso>Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Rogue humans">
+    <PageReference>MH5:4</PageReference>
+    <PageReference>MH5:48</PageReference>
+    <Child ReferenceText="brain flu and">
+      <PageReference>MH5:45</PageReference>
+    </Child>
+    <Child ReferenceText="decisions">
+      <PageReference>MH5:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sage template">
+    <PageReference>MH5:9-11</PageReference>
+    <Child ReferenceText="handy">
+      <PageReference>MH5:10</PageReference>
+    </Child>
+    <Child ReferenceText="holy">
+      <PageReference>MH5:10</PageReference>
+    </Child>
+    <Child ReferenceText="Path skills">
+      <PageReference>MH5:8</PageReference>
+    </Child>
+    <Child ReferenceText="slayer">
+      <PageReference>MH5:10</PageReference>
+    </Child>
+    <Child ReferenceText="techno">
+      <PageReference>MH5:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sauroids">
+    <SeeAlso>Greys</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Science, occult vs">
+    <SeeAlso>Equipment</SeeAlso>
+    <SeeAlso>Technomagic</SeeAlso>
+    <Child ReferenceText="">
+      <PageReference>MH5:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scripts">
+    <SeeAlso>Computers</SeeAlso>
+    <SeeAlso>Magic</SeeAlso>
+    <SeeAlso>Technomagic</SeeAlso>
+    <SeeAlso>Thaumatological Coding Suite</SeeAlso>
+    <Child ReferenceText="conditional">
+      <PageReference>MH5:16-17</PageReference>
+      <PageReference>MH5:19</PageReference>
+      <PageReference>MH5:23</PageReference>
+    </Child>
+    <Child ReferenceText="different systems affecting">
+      <PageReference>MH5:22</PageReference>
+    </Child>
+    <Child ReferenceText="hand-coding">
+      <PageReference>MH5:19</PageReference>
+    </Child>
+    <Child ReferenceText="interactive">
+      <PageReference>MH5:17</PageReference>
+    </Child>
+    <Child ReferenceText="limits on">
+      <PageReference>MH5:17-18</PageReference>
+    </Child>
+    <Child ReferenceText="nonadepts and">
+      <PageReference>MH5:16</PageReference>
+      <PageReference>MH5:18</PageReference>
+    </Child>
+    <Child ReferenceText="on-the-fly">
+      <PageReference>MH5:18</PageReference>
+    </Child>
+    <Child ReferenceText="places of power and">
+      <PageReference>MH5:18</PageReference>
+    </Child>
+    <Child ReferenceText="programmed">
+      <PageReference>MH5:16-18</PageReference>
+    </Child>
+    <Child ReferenceText="programming">
+      <PageReference>MH5:16</PageReference>
+    </Child>
+    <Child ReferenceText="realistic timing">
+      <PageReference>MH5:18</PageReference>
+    </Child>
+    <Child ReferenceText="reusing">
+      <PageReference>MH5:17</PageReference>
+    </Child>
+    <Child ReferenceText="running">
+      <PageReference>MH5:16-17</PageReference>
+    </Child>
+    <Child ReferenceText="software requirements">
+      <PageReference>MH5:16</PageReference>
+      <PageReference>MH5:21</PageReference>
+    </Child>
+    <Child ReferenceText="transferring">
+      <PageReference>MH5:17-18</PageReference>
+    </Child>
+    <Child ReferenceText="computer requirements">
+      <PageReference>MH5:16</PageReference>
+      <PageReference>MH5:17</PageReference>
+      <PageReference>MH5:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sirians">
+    <SeeAlso>Insectoids</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="conspiracyrelated">
+      <PageReference>MH5:39</PageReference>
+    </Child>
+    <Child ReferenceText="for technomages">
+      <PageReference>MH5:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="information">
+      <PageReference>MH5:7</PageReference>
+    </Child>
+    <Child ReferenceText="Path">
+      <PageReference>MH5:8</PageReference>
+    </Child>
+    <Child ReferenceText="changes to existing">
+      <PageReference>MH5:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skin-changers">
+    <PageReference>MH5:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smartphones">
+    <PageReference>MH5:20</PageReference>
+    <Child ReferenceText="running scripts on">
+      <PageReference>MH5:17</PageReference>
+      <PageReference>MH5:18</PageReference>
+    </Child>
+    <Child ReferenceText="script limit">
+      <PageReference>MH5:17</PageReference>
+    </Child>
+    <Child ReferenceText="starting equipment">
+      <PageReference>MH5:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Scripture perk">
+    <PageReference>MH5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Software">
+    <SeeAlso>Scripts</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spaceships">
+    <Child ReferenceText="alien">
+      <PageReference>MH5:26</PageReference>
+      <PageReference>MH5:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed Enthrallment technique">
+    <PageReference>MH5:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <SeeAlso>Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit beings">
+    <PageReference>MH5:47-49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stalkers">
+    <PageReference>MH5:41-43</PageReference>
+    <Child ReferenceText="close encounters">
+      <PageReference>MH5:43</PageReference>
+    </Child>
+    <Child ReferenceText="Hunter’s Code">
+      <PageReference>MH5:43</PageReference>
+    </Child>
+    <Child ReferenceText="inhuman template">
+      <PageReference>MH5:42</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>MH5:43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Superfine weapons">
+    <PageReference>MH5:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural">
+    <SeeAlso>Occult</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="shared grimoire">
+      <PageReference>MH5:22</PageReference>
+    </Child>
+    <Child ReferenceText="computer">
+      <PageReference>MH5:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <PageReference>MH5:8</PageReference>
+    <PageReference>MH5:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech levels (TL)">
+    <PageReference>MH5:5</PageReference>
+    <PageReference>MH5:21</PageReference>
+    <Child ReferenceText="places of power and">
+      <PageReference>MH5:18</PageReference>
+    </Child>
+    <Child ReferenceText="technomagic and">
+      <PageReference>MH5:21</PageReference>
+    </Child>
+    <Child ReferenceText="upgrading equipment">
+      <PageReference>MH5:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techie template">
+    <PageReference>MH5:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Techno-alchemy">
+    <PageReference>MH5:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technology">
+    <SeeAlso>Computers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Technomagic">
+    <SeeAlso>Computers</SeeAlso>
+    <SeeAlso>Magic</SeeAlso>
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+    <SeeAlso>Rituals</SeeAlso>
+    <SeeAlso>Scripts</SeeAlso>
+    <SeeAlso>Thaumatological Coding Suite</SeeAlso>
+    <Child ReferenceText="elixirs">
+      <PageReference>MH5:19</PageReference>
+    </Child>
+    <Child ReferenceText="jargon">
+      <PageReference>MH5:15</PageReference>
+    </Child>
+    <Child ReferenceText="Path skills">
+      <PageReference>MH5:8</PageReference>
+    </Child>
+    <Child ReferenceText="places of power">
+      <PageReference>MH5:18</PageReference>
+    </Child>
+    <Child ReferenceText="Ritual Path magic vs" />
+    <Child ReferenceText="">
+      <PageReference>MH5:3-4</PageReference>
+      <PageReference>MH5:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>MH5:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="specialists">
+      <PageReference>MH5:8</PageReference>
+    </Child>
+    <Child ReferenceText="Talents">
+      <PageReference>MH5:8</PageReference>
+      <PageReference>MH5:11</PageReference>
+    </Child>
+    <Child ReferenceText="tech level and">
+      <PageReference>MH5:21</PageReference>
+    </Child>
+    <Child ReferenceText="template variants">
+      <PageReference>MH5:8-9</PageReference>
+      <PageReference>MH5:11</PageReference>
+      <PageReference>MH5:12</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>MH5:15-19</PageReference>
+    </Child>
+    <Child ReferenceText="advantages">
+      <PageReference>MH5:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Technomagician template">
+    <PageReference>MH5:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technomancer template">
+    <PageReference>MH5:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technosage lens">
+    <PageReference>MH5:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <Child ReferenceText="lens changes">
+      <PageReference>MH5:6</PageReference>
+    </Child>
+    <Child ReferenceText="changes">
+      <PageReference>MH5:6-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ten-qu-Hish">
+    <SeeAlso>Stalkers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Thaumatological coding suite (TCS)">
+    <PageReference>MH5:16</PageReference>
+    <PageReference>MH5:18</PageReference>
+    <PageReference>MH5:21-22</PageReference>
+    <SeeAlso>Scripts</SeeAlso>
+    <SeeAlso>Technomagic</SeeAlso>
+    <Child ReferenceText="grimoires">
+      <PageReference>MH5:21-22</PageReference>
+    </Child>
+    <Child ReferenceText="modifying and hacking">
+      <PageReference>MH5:22</PageReference>
+    </Child>
+    <Child ReferenceText="tech level and">
+      <PageReference>MH5:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thaumatology skill">
+    <PageReference>MH5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Theology skill">
+    <PageReference>MH5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trance drug">
+    <PageReference>MH5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ufology skill">
+    <PageReference>MH5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ulterrans">
+    <SeeAlso>Phasites</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead">
+    <PageReference>MH5:47</PageReference>
+    <SeeAlso>Zombies</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background advantage">
+    <Child ReferenceText="DualCaster">
+      <PageReference>MH5:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampires">
+    <PageReference>MH5:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Venom zombie">
+    <PageReference>MH5:34</PageReference>
+    <Child ReferenceText="creating">
+      <PageReference>MH5:32-33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Venusians">
+    <SeeAlso>Phasites</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Vibroblade weapons">
+    <PageReference>MH5:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warrior template">
+    <PageReference>MH5:11-12</PageReference>
+    <Child ReferenceText="focused">
+      <PageReference>MH5:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <SeeAlso>Equipment</SeeAlso>
+    <Child ReferenceText="Ghost">
+      <PageReference>MH5:9</PageReference>
+    </Child>
+    <Child ReferenceText="options">
+      <PageReference>MH5:35</PageReference>
+    </Child>
+    <Child ReferenceText="psychotronic">
+      <PageReference>MH5:9</PageReference>
+    </Child>
+    <Child ReferenceText="upgrading">
+      <PageReference>MH5:44</PageReference>
+    </Child>
+    <Child ReferenceText="booby-trapping alien">
+      <PageReference>MH5:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="White Noise drug">
+    <PageReference>MH5:35</PageReference>
+    <Child ReferenceText="adventures">
+      <PageReference>MH5:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Witch">
+    <PageReference>MH5:12</PageReference>
+    <Child ReferenceText="Path skills">
+      <PageReference>MH5:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Xists">
+    <SeeAlso>Nordics</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombies">
+    <PageReference>MH5:47</PageReference>
+    <Child ReferenceText="husk">
+      <PageReference>MH5:46</PageReference>
+    </Child>
+    <Child ReferenceText="venom">
+      <PageReference>MH5:32-34</PageReference>
+    </Child>
+    <Child ReferenceText="White Noise">
+      <PageReference>MH5:36</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

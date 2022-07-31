@@ -1,0 +1,1729 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abyss">
+    <PageReference>DF16:29</PageReference>
+    <PageReference>DF16:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accurizers">
+    <PageReference>DF16:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acid swamps">
+    <PageReference>DF16:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Exploration</SeeAlso>
+    <SeeAlso>Travel</SeeAlso>
+    <Child ReferenceText="bushwhacked">
+      <PageReference>DF16:48</PageReference>
+    </Child>
+    <Child ReferenceText="campaign advice">
+      <PageReference>DF16:47</PageReference>
+      <PageReference>DF16:50</PageReference>
+    </Child>
+    <Child ReferenceText="challenge decisions">
+      <PageReference>DF16:53-55</PageReference>
+    </Child>
+    <Child ReferenceText="hedge maze">
+      <PageReference>DF16:48-49</PageReference>
+    </Child>
+    <Child ReferenceText="maps for">
+      <PageReference>DF16:52-53</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DF16:46</PageReference>
+    </Child>
+    <Child ReferenceText="setting creation">
+      <PageReference>DF16:50-53</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>DF16:46-50</PageReference>
+    </Child>
+    <Child ReferenceText="weirdness">
+      <PageReference>DF16:57</PageReference>
+    </Child>
+    <Child ReferenceText="wilderness in dungeons">
+      <PageReference>DF16:57</PageReference>
+    </Child>
+    <Child ReferenceText="accidental">
+      <PageReference>DF16:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerial">
+    <Child ReferenceText="combat">
+      <PageReference>DF16:41</PageReference>
+    </Child>
+    <Child ReferenceText="divine servitors">
+      <PageReference>DF16:15</PageReference>
+    </Child>
+    <Child ReferenceText="elementals">
+      <PageReference>DF16:14</PageReference>
+    </Child>
+    <Child ReferenceText="information gathering">
+      <PageReference>DF16:26</PageReference>
+      <PageReference>DF16:27</PageReference>
+    </Child>
+    <Child ReferenceText="nonhuman characters">
+      <PageReference>DF16:9</PageReference>
+    </Child>
+    <Child ReferenceText="scouting and mapping">
+      <PageReference>DF16:26</PageReference>
+      <PageReference>DF16:27</PageReference>
+    </Child>
+    <Child ReferenceText="sneaking and">
+      <PageReference>DF16:26</PageReference>
+    </Child>
+    <Child ReferenceText="transport">
+      <PageReference>DF16:21</PageReference>
+    </Child>
+    <Child ReferenceText="visibility">
+      <PageReference>DF16:26</PageReference>
+      <PageReference>DF16:39</PageReference>
+    </Child>
+    <Child ReferenceText="animals">
+      <PageReference>DF16:13</PageReference>
+      <PageReference>DF16:56</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Affronts">
+    <PageReference>DF16:43</PageReference>
+    <PageReference>DF16:55</PageReference>
+    <PageReference>DF16:56</PageReference>
+    <SeeAlso>Despoiling Nature</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies advantage">
+    <PageReference>DF16:10</PageReference>
+    <Child ReferenceText="animals">
+      <PageReference>DF16:12-14</PageReference>
+    </Child>
+    <Child ReferenceText="familiars">
+      <PageReference>DF16:13-14</PageReference>
+    </Child>
+    <Child ReferenceText="henchmen">
+      <PageReference>DF16:10-12</PageReference>
+    </Child>
+    <Child ReferenceText="spirits">
+      <PageReference>DF16:14-15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambushes">
+    <PageReference>DF16:37-38</PageReference>
+    <Child ReferenceText="detecting">
+      <PageReference>DF16:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <SeeAlso>Mounts</SeeAlso>
+    <Child ReferenceText="as loot">
+      <PageReference>DF16:44</PageReference>
+    </Child>
+    <Child ReferenceText="combat">
+      <PageReference>DF16:41-42</PageReference>
+    </Child>
+    <Child ReferenceText="divine">
+      <PageReference>DF16:15</PageReference>
+    </Child>
+    <Child ReferenceText="embodied spirit">
+      <PageReference>DF16:14</PageReference>
+    </Child>
+    <Child ReferenceText="familiars">
+      <PageReference>DF16:13-14</PageReference>
+    </Child>
+    <Child ReferenceText="food for">
+      <PageReference>DF16:44</PageReference>
+    </Child>
+    <Child ReferenceText="in adventures">
+      <PageReference>DF16:12</PageReference>
+    </Child>
+    <Child ReferenceText="killing">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="mundane Allies">
+      <PageReference>DF16:13</PageReference>
+    </Child>
+    <Child ReferenceText="sneaking and">
+      <PageReference>DF16:26</PageReference>
+    </Child>
+    <Child ReferenceText="stampede">
+      <PageReference>DF16:33</PageReference>
+      <PageReference>DF16:36</PageReference>
+    </Child>
+    <Child ReferenceText="swarms">
+      <PageReference>DF16:34</PageReference>
+      <PageReference>DF16:36</PageReference>
+    </Child>
+    <Child ReferenceText="vehicles and">
+      <PageReference>DF16:19</PageReference>
+      <PageReference>DF16:21</PageReference>
+    </Child>
+    <Child ReferenceText="wandering monsters">
+      <PageReference>DF16:56</PageReference>
+    </Child>
+    <Child ReferenceText="winged">
+      <PageReference>DF16:21</PageReference>
+    </Child>
+    <Child ReferenceText="as foes">
+      <PageReference>DF16:56</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Antidotes">
+    <PageReference>DF16:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archers, as outdoorsmen">
+    <PageReference>DF16:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arctic terrain">
+    <PageReference>DF16:22</PageReference>
+    <SeeAlso>Camping</SeeAlso>
+    <SeeAlso>Cold</SeeAlso>
+    <SeeAlso>Flows</SeeAlso>
+    <SeeAlso>Ice</SeeAlso>
+    <SeeAlso>Terrain</SeeAlso>
+    <SeeAlso>Travel</SeeAlso>
+    <SeeAlso>Weather</SeeAlso>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:16</PageReference>
+      <PageReference>DF16:18</PageReference>
+      <PageReference>DF16:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Area Knowledge skill">
+    <PageReference>DF16:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arrows">
+    <Child ReferenceText="makeshift">
+      <PageReference>DF16:45</PageReference>
+    </Child>
+    <Child ReferenceText="fire">
+      <PageReference>DF16:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificers, as outdoorsmen">
+    <PageReference>DF16:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assassins, as outdoorsmen">
+    <PageReference>DF16:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Avalanches">
+    <SeeAlso>Flows</SeeAlso>
+    <Child ReferenceText="Backstabbing">
+      <PageReference>DF16:40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad footing">
+    <PageReference>DF16:38</PageReference>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:16</PageReference>
+      <PageReference>DF16:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bagpipes">
+    <PageReference>DF16:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balancing stunts">
+    <PageReference>DF16:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbarians, as outdoorsmen">
+    <PageReference>DF16:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bards, as outdoorsmen">
+    <PageReference>DF16:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beach">
+    <PageReference>DF16:22</PageReference>
+    <SeeAlso>Camping</SeeAlso>
+    <SeeAlso>Heat</SeeAlso>
+    <SeeAlso>Terrain</SeeAlso>
+    <SeeAlso>Travel</SeeAlso>
+    <SeeAlso>Weather</SeeAlso>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Beasts">
+    <SeeAlso>Animals</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Blinds, elven">
+    <PageReference>DF16:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boats">
+    <PageReference>DF16:19</PageReference>
+    <PageReference>DF16:22</PageReference>
+    <SeeAlso>Travel</SeeAlso>
+    <Child ReferenceText="hazards">
+      <PageReference>DF16:29</PageReference>
+      <PageReference>DF16:32</PageReference>
+      <PageReference>DF16:33</PageReference>
+    </Child>
+    <Child ReferenceText="shipwrecked">
+      <PageReference>DF16:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bow traps">
+    <PageReference>DF16:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Branches, spiked">
+    <PageReference>DF16:37</PageReference>
+    <SeeAlso>Trees</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bugs">
+    <PageReference>DF16:34</PageReference>
+    <PageReference>DF16:36</PageReference>
+    <PageReference>DF16:40</PageReference>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:16</PageReference>
+      <PageReference>DF16:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <SeeAlso>Adventures</SeeAlso>
+    <Child ReferenceText="tips">
+      <PageReference>DF16:47</PageReference>
+    </Child>
+    <Child ReferenceText="sandbox">
+      <PageReference>DF16:50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Camping">
+    <PageReference>DF16:24-25</PageReference>
+    <Child ReferenceText="gear">
+      <PageReference>DF16:16-18</PageReference>
+    </Child>
+    <Child ReferenceText="vehicles and">
+      <PageReference>DF16:25</PageReference>
+    </Child>
+    <Child ReferenceText="watches">
+      <PageReference>DF16:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Celestial steeds">
+    <PageReference>DF16:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <Child ReferenceText="lenses">
+      <PageReference>DF16:5</PageReference>
+    </Child>
+    <Child ReferenceText="new template">
+      <PageReference>DF16:11-12</PageReference>
+    </Child>
+    <Child ReferenceText="nonhuman">
+      <PageReference>DF16:9</PageReference>
+    </Child>
+    <Child ReferenceText="sickness">
+      <PageReference>DF16:23</PageReference>
+    </Child>
+    <Child ReferenceText="wilderness training">
+      <PageReference>DF16:5</PageReference>
+    </Child>
+    <Child ReferenceText="as outdoorsmen">
+      <PageReference>DF16:4-10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerics">
+    <Child ReferenceText="despoiling and">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="as outdoorsmen">
+      <PageReference>DF16:5-6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cliffs">
+    <SeeAlso>Mountains</SeeAlso>
+    <Child ReferenceText="combat on">
+      <PageReference>DF16:39</PageReference>
+    </Child>
+    <Child ReferenceText="movement on">
+      <PageReference>DF16:29</PageReference>
+      <PageReference>DF16:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Climates, harsh">
+    <PageReference>DF16:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Climbing skill">
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:17</PageReference>
+      <PageReference>DF16:18</PageReference>
+    </Child>
+    <Child ReferenceText="challenges">
+      <PageReference>DF16:29</PageReference>
+      <PageReference>DF16:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothes">
+    <PageReference>DF16:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clotheslines, elven">
+    <PageReference>DF16:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cold">
+    <SeeAlso>Artic</SeeAlso>
+    <SeeAlso>Ice</SeeAlso>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:16</PageReference>
+    </Child>
+    <Child ReferenceText="shelter">
+      <PageReference>DF16:25</PageReference>
+    </Child>
+    <Child ReferenceText="effects of">
+      <PageReference>DF16:30</PageReference>
+      <PageReference>DF16:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <PageReference>DF16:38-42</PageReference>
+    <Child ReferenceText="adventure tips">
+      <PageReference>DF16:55-57</PageReference>
+    </Child>
+    <Child ReferenceText="aerial">
+      <PageReference>DF16:41</PageReference>
+    </Child>
+    <Child ReferenceText="cover">
+      <PageReference>DF16:40</PageReference>
+    </Child>
+    <Child ReferenceText="despoiling by">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="encounter suggestions">
+      <PageReference>DF16:56-57</PageReference>
+    </Child>
+    <Child ReferenceText="environment">
+      <PageReference>DF16:38-39</PageReference>
+      <PageReference>DF16:55</PageReference>
+    </Child>
+    <Child ReferenceText="foe suggestions">
+      <PageReference>DF16:56</PageReference>
+    </Child>
+    <Child ReferenceText="high ground">
+      <PageReference>DF16:39</PageReference>
+    </Child>
+    <Child ReferenceText="mounted">
+      <PageReference>DF16:41-42</PageReference>
+    </Child>
+    <Child ReferenceText="outdoor skills and">
+      <PageReference>DF16:40-41</PageReference>
+    </Child>
+    <Child ReferenceText="traps and">
+      <PageReference>DF16:40-41</PageReference>
+    </Child>
+    <Child ReferenceText="tree tricks">
+      <PageReference>DF16:39-40</PageReference>
+    </Child>
+    <Child ReferenceText="visibility during">
+      <PageReference>DF16:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossing gaps">
+    <PageReference>DF16:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultists, as outdoorsmen">
+    <PageReference>DF16:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Danger Sense advantage">
+    <PageReference>DF16:32</PageReference>
+    <PageReference>DF16:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dangers">
+    <Child ReferenceText="in combat">
+      <PageReference>DF16:40-41</PageReference>
+    </Child>
+    <Child ReferenceText="intensified">
+      <PageReference>DF16:31</PageReference>
+    </Child>
+    <Child ReferenceText="natural">
+      <PageReference>DF16:30-35</PageReference>
+      <PageReference>DF16:53-55</PageReference>
+    </Child>
+    <Child ReferenceText="risk assessment">
+      <PageReference>DF16:54</PageReference>
+    </Child>
+    <Child ReferenceText="deliberate">
+      <PageReference>DF16:35-38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Deadfalls">
+    <PageReference>DF16:36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonologists">
+    <Child ReferenceText="despoiling and">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="as outdoorsmen">
+      <PageReference>DF16:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Desert">
+    <PageReference>DF16:22</PageReference>
+    <PageReference>DF16:43</PageReference>
+    <SeeAlso>Camping</SeeAlso>
+    <SeeAlso>Heat</SeeAlso>
+    <SeeAlso>Terrain</SeeAlso>
+    <SeeAlso>Travel</SeeAlso>
+    <SeeAlso>Weather</SeeAlso>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:16</PageReference>
+      <PageReference>DF16:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Despoiling nature">
+    <PageReference>DF16:14</PageReference>
+    <PageReference>DF16:15</PageReference>
+    <Child ReferenceText="adventures and">
+      <PageReference>DF16:49</PageReference>
+      <PageReference>DF16:55</PageReference>
+      <PageReference>DF16:56</PageReference>
+    </Child>
+    <Child ReferenceText="effects of">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="nature’s strength and">
+      <PageReference>DF16:53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Detours">
+    <PageReference>DF16:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disasters">
+    <SeeAlso>Dangers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Disease">
+    <PageReference>DF16:34</PageReference>
+    <PageReference>DF16:44</PageReference>
+    <PageReference>DF16:54-55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine servitors">
+    <PageReference>DF16:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doom cleats">
+    <PageReference>DF16:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druids">
+    <Child ReferenceText="as outdoorsmen">
+      <PageReference>DF16:6</PageReference>
+    </Child>
+    <Child ReferenceText="cultists and">
+      <PageReference>DF16:10</PageReference>
+    </Child>
+    <Child ReferenceText="despoilers and">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="healing herbs and">
+      <PageReference>DF16:44-45</PageReference>
+    </Child>
+    <Child ReferenceText="initiate">
+      <PageReference>DF16:10</PageReference>
+    </Child>
+    <Child ReferenceText="nature’s strength and">
+      <PageReference>DF16:53</PageReference>
+    </Child>
+    <Child ReferenceText="spirit Allies">
+      <PageReference>DF16:14</PageReference>
+    </Child>
+    <Child ReferenceText="animal companions">
+      <PageReference>DF16:12</PageReference>
+      <PageReference>DF16:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elementalists">
+    <Child ReferenceText="despoiling and">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="as outdoorsmen">
+      <PageReference>DF16:6-7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elementals">
+    <PageReference>DF16:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elves">
+    <PageReference>DF16:9</PageReference>
+    <Child ReferenceText="tree tricks">
+      <PageReference>DF16:39-40</PageReference>
+      <PageReference>DF16:37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Environment">
+    <SeeAlso>Nature</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <PageReference>DF16:15-19</PageReference>
+    <SeeAlso>Mounts</SeeAlso>
+    <SeeAlso>Vehicles</SeeAlso>
+    <Child ReferenceText="field engineering">
+      <PageReference>DF16:17</PageReference>
+      <PageReference>DF16:33</PageReference>
+    </Child>
+    <Child ReferenceText="foraging">
+      <PageReference>DF16:33</PageReference>
+      <PageReference>DF16:42-44</PageReference>
+    </Child>
+    <Child ReferenceText="loot">
+      <PageReference>DF16:44</PageReference>
+    </Child>
+    <Child ReferenceText="naturally occurring">
+      <PageReference>DF16:44-45</PageReference>
+    </Child>
+    <Child ReferenceText="selecting">
+      <PageReference>DF16:15</PageReference>
+    </Child>
+    <Child ReferenceText="travel and">
+      <PageReference>DF16:18</PageReference>
+      <PageReference>DF16:23-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Exploration">
+    <PageReference>DF16:25-29</PageReference>
+    <Child ReferenceText="adventures">
+      <PageReference>DF16:49-50</PageReference>
+    </Child>
+    <Child ReferenceText="unknown regions">
+      <PageReference>DF16:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Face paint">
+    <PageReference>DF16:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Falling">
+    <Child ReferenceText="trees">
+      <PageReference>DF16:32</PageReference>
+      <PageReference>DF16:35</PageReference>
+    </Child>
+    <Child ReferenceText="rocks">
+      <PageReference>DF16:32</PageReference>
+      <PageReference>DF16:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Familiars">
+    <PageReference>DF16:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue">
+    <Child ReferenceText="travel">
+      <PageReference>DF16:23</PageReference>
+      <PageReference>DF16:24</PageReference>
+    </Child>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:17</PageReference>
+    </Child>
+    <Child ReferenceText="camping">
+      <PageReference>DF16:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Field engineering">
+    <PageReference>DF16:33</PageReference>
+    <PageReference>DF16:43</PageReference>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire">
+    <Child ReferenceText="despoiling with">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="elementals">
+      <PageReference>DF16:15</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>DF16:16</PageReference>
+      <PageReference>DF16:17</PageReference>
+    </Child>
+    <Child ReferenceText="signaling">
+      <PageReference>DF16:28</PageReference>
+    </Child>
+    <Child ReferenceText="trap">
+      <PageReference>DF16:35</PageReference>
+    </Child>
+    <Child ReferenceText="as challenge">
+      <PageReference>DF16:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flows (lava/mud/snow/rock)">
+    <PageReference>DF16:32-33</PageReference>
+    <PageReference>DF16:35-36</PageReference>
+    <Child ReferenceText="gear for starting">
+      <PageReference>DF16:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying">
+    <SeeAlso>Aerial</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying carpets">
+    <PageReference>DF16:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fogs, magical">
+    <PageReference>DF16:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:16</PageReference>
+      <PageReference>DF16:17</PageReference>
+    </Child>
+    <Child ReferenceText="foraging">
+      <PageReference>DF16:22</PageReference>
+      <PageReference>DF16:42-43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Footwear">
+    <PageReference>DF16:16</PageReference>
+    <PageReference>DF16:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foraging">
+    <PageReference>DF16:42-44</PageReference>
+    <Child ReferenceText="despoiling and">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="loot">
+      <PageReference>DF16:44-45</PageReference>
+    </Child>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:16</PageReference>
+      <PageReference>DF16:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Garments">
+    <PageReference>DF16:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>Equipment</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Gods">
+    <PageReference>DF16:6</PageReference>
+    <PageReference>DF16:43</PageReference>
+    <PageReference>DF16:53</PageReference>
+    <SeeAlso>Clerics</SeeAlso>
+    <SeeAlso>Druids</SeeAlso>
+    <SeeAlso>Holy Warriors</SeeAlso>
+    <Child ReferenceText="divine elements">
+      <PageReference>DF16:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Basic Set">
+    <PageReference>DF16:3</PageReference>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DF16:3</PageReference>
+      <PageReference>DF16:12</PageReference>
+      <PageReference>DF16:33</PageReference>
+      <PageReference>DF16:34</PageReference>
+      <PageReference>DF16:41</PageReference>
+      <PageReference>DF16:50</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DF16:3-10</PageReference>
+      <PageReference>DF16:15</PageReference>
+      <PageReference>DF16:16</PageReference>
+      <PageReference>DF16:18</PageReference>
+      <PageReference>DF16:45</PageReference>
+      <PageReference>DF16:53</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DF16:3</PageReference>
+      <PageReference>DF16:5</PageReference>
+      <PageReference>DF16:20</PageReference>
+      <PageReference>DF16:22</PageReference>
+      <PageReference>DF16:24</PageReference>
+      <PageReference>DF16:25</PageReference>
+      <PageReference>DF16:27-29</PageReference>
+      <PageReference>DF16:31-34</PageReference>
+      <PageReference>DF16:36</PageReference>
+      <PageReference>DF16:38-44</PageReference>
+      <PageReference>DF16:46-48</PageReference>
+      <PageReference>DF16:52</PageReference>
+      <PageReference>DF16:54-56</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF16:5</PageReference>
+      <PageReference>DF16:9</PageReference>
+      <PageReference>DF16:47</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DF16:4</PageReference>
+      <PageReference>DF16:8</PageReference>
+      <PageReference>DF16:16</PageReference>
+      <PageReference>DF16:23</PageReference>
+      <PageReference>DF16:27</PageReference>
+      <PageReference>DF16:53</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 5: Allies">
+      <PageReference>DF16:7</PageReference>
+      <PageReference>DF16:10</PageReference>
+      <PageReference>DF16:13</PageReference>
+      <PageReference>DF16:15</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 7: Clerics">
+      <PageReference>DF16:6</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 8: Treasure Tables">
+      <PageReference>DF16:17</PageReference>
+      <PageReference>DF16:28</PageReference>
+      <PageReference>DF16:44</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 9: Summoners">
+      <PageReference>DF16:6</PageReference>
+      <PageReference>DF16:8-10</PageReference>
+      <PageReference>DF16:14</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 10: Taverns">
+      <PageReference>DF16:7</PageReference>
+      <PageReference>DF16:50</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 11: Power-Ups">
+      <PageReference>DF16:5</PageReference>
+      <PageReference>DF16:7</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 12: Ninja">
+      <PageReference>DF16:8</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 13: Loadouts">
+      <PageReference>DF16:16</PageReference>
+      <PageReference>DF16:24</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 14: Psi">
+      <PageReference>DF16:7</PageReference>
+      <PageReference>DF16:8</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 15: Henchmen">
+      <PageReference>DF16:7</PageReference>
+      <PageReference>DF16:10</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Adventure 1: Mirror of the Fire Demon">
+      <PageReference>DF16:50</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Monsters 1">
+      <PageReference>DF16:50</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>DF16:3</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech">
+      <PageReference>DF16:3</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 3: Daily Life and Economics">
+      <PageReference>DF16:3</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 3: Talents">
+      <PageReference>DF16:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing">
+    <Child ReferenceText="herbs">
+      <PageReference>DF16:44</PageReference>
+    </Child>
+    <Child ReferenceText="disease">
+      <PageReference>DF16:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heat">
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:17</PageReference>
+    </Child>
+    <Child ReferenceText="effects of">
+      <PageReference>DF16:24</PageReference>
+      <PageReference>DF16:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Henchmen">
+    <PageReference>DF16:10-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Herbs, healing">
+    <PageReference>DF16:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hoisting stunts">
+    <PageReference>DF16:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy folk">
+    <PageReference>DF16:6</PageReference>
+    <SeeAlso>Clerics</SeeAlso>
+    <SeeAlso>Druids</SeeAlso>
+    <SeeAlso>Holy Warriors</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy hounds">
+    <PageReference>DF16:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy warriors">
+    <Child ReferenceText="as outdoorsmen">
+      <PageReference>DF16:6</PageReference>
+      <PageReference>DF16:7</PageReference>
+    </Child>
+    <Child ReferenceText="Allies of">
+      <PageReference>DF16:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Horses">
+    <SeeAlso>Animals</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ice">
+    <SeeAlso>Artic</SeeAlso>
+    <SeeAlso>Cold</SeeAlso>
+    <Child ReferenceText="skidding">
+      <PageReference>DF16:29</PageReference>
+    </Child>
+    <Child ReferenceText="thin">
+      <PageReference>DF16:34</PageReference>
+      <PageReference>DF16:40</PageReference>
+    </Child>
+    <Child ReferenceText="boats">
+      <PageReference>DF16:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Igloos">
+    <PageReference>DF16:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Information gathering">
+    <PageReference>DF16:20</PageReference>
+    <PageReference>DF16:26</PageReference>
+    <PageReference>DF16:27</PageReference>
+    <SeeAlso>Maps</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Initiates, as outdoorsmen">
+    <PageReference>DF16:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury">
+    <SeeAlso>Healing</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Innkeepers, as outdoorsmen">
+    <PageReference>DF16:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insects">
+    <SeeAlso>Bugs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Island">
+    <PageReference>DF16:22</PageReference>
+    <SeeAlso>Camping</SeeAlso>
+    <SeeAlso>Heat</SeeAlso>
+    <SeeAlso>Terrain</SeeAlso>
+    <SeeAlso>Travel</SeeAlso>
+    <SeeAlso>Weather</SeeAlso>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jungle">
+    <PageReference>DF16:22</PageReference>
+    <SeeAlso>Bugs</SeeAlso>
+    <SeeAlso>Camping</SeeAlso>
+    <SeeAlso>Heat</SeeAlso>
+    <SeeAlso>Terrain</SeeAlso>
+    <SeeAlso>Travel</SeeAlso>
+    <SeeAlso>Weather</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Kites">
+    <PageReference>DF16:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knights, as outdoorsmen">
+    <PageReference>DF16:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knives, gnomish army">
+    <PageReference>DF16:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laborers, as outdoorsmen">
+    <PageReference>DF16:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lantern balloons">
+    <PageReference>DF16:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lava flows">
+    <SeeAlso>Flows</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <Child ReferenceText="special">
+      <PageReference>DF16:5</PageReference>
+    </Child>
+    <Child ReferenceText="appropriate">
+      <PageReference>DF16:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lightning strikes">
+    <PageReference>DF16:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loot, naturally occurring">
+    <PageReference>DF16:44</PageReference>
+    <SeeAlso>Equipment</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Machetes">
+    <PageReference>DF16:17</PageReference>
+    <PageReference>DF16:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <Child ReferenceText="casting under cover">
+      <PageReference>DF16:40</PageReference>
+    </Child>
+    <Child ReferenceText="causing flows">
+      <PageReference>DF16:32</PageReference>
+      <PageReference>DF16:35</PageReference>
+    </Child>
+    <Child ReferenceText="character spell suggestions">
+      <PageReference>DF16:5-10</PageReference>
+    </Child>
+    <Child ReferenceText="climate and">
+      <PageReference>DF16:30</PageReference>
+    </Child>
+    <Child ReferenceText="despoiling">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="familiars">
+      <PageReference>DF16:13-14</PageReference>
+    </Child>
+    <Child ReferenceText="fog">
+      <PageReference>DF16:26</PageReference>
+    </Child>
+    <Child ReferenceText="garments">
+      <PageReference>DF16:16</PageReference>
+    </Child>
+    <Child ReferenceText="henchmen">
+      <PageReference>DF16:10</PageReference>
+    </Child>
+    <Child ReferenceText="hiding tracks">
+      <PageReference>DF16:28</PageReference>
+    </Child>
+    <Child ReferenceText="sickness and">
+      <PageReference>DF16:23</PageReference>
+    </Child>
+    <Child ReferenceText="signaling">
+      <PageReference>DF16:29</PageReference>
+    </Child>
+    <Child ReferenceText="starvation and">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="tiredness and">
+      <PageReference>DF16:23</PageReference>
+    </Child>
+    <Child ReferenceText="to stay on course">
+      <PageReference>DF16:26</PageReference>
+    </Child>
+    <Child ReferenceText="transportation">
+      <PageReference>DF16:21</PageReference>
+    </Child>
+    <Child ReferenceText="weather and">
+      <PageReference>DF16:30-31</PageReference>
+    </Child>
+    <Child ReferenceText="camping and">
+      <PageReference>DF16:24</PageReference>
+      <PageReference>DF16:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Manuals">
+    <PageReference>DF16:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maps">
+    <PageReference>DF16:16</PageReference>
+    <Child ReferenceText="adventures to create">
+      <PageReference>DF16:49-50</PageReference>
+    </Child>
+    <Child ReferenceText="aerial characters and">
+      <PageReference>DF16:27</PageReference>
+    </Child>
+    <Child ReferenceText="creating">
+      <PageReference>DF16:26</PageReference>
+      <PageReference>DF16:27</PageReference>
+    </Child>
+    <Child ReferenceText="for players">
+      <PageReference>DF16:53</PageReference>
+    </Child>
+    <Child ReferenceText="for the GM">
+      <PageReference>DF16:52-53</PageReference>
+    </Child>
+    <Child ReferenceText="selling">
+      <PageReference>DF16:27</PageReference>
+    </Child>
+    <Child ReferenceText="travel and">
+      <PageReference>DF16:23</PageReference>
+    </Child>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:17</PageReference>
+      <PageReference>DF16:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial artists, as outdoorsmen">
+    <PageReference>DF16:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentalists, as outdoorsmen">
+    <PageReference>DF16:7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters, wandering">
+    <PageReference>DF16:29</PageReference>
+    <PageReference>DF16:34</PageReference>
+    <PageReference>DF16:56</PageReference>
+    <SeeAlso>Animals</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mountains">
+    <PageReference>DF16:22</PageReference>
+    <SeeAlso>Camping</SeeAlso>
+    <SeeAlso>Rocks</SeeAlso>
+    <Child ReferenceText="climbing">
+      <PageReference>DF16:29</PageReference>
+      <PageReference>DF16:32</PageReference>
+    </Child>
+    <Child ReferenceText="combat on">
+      <PageReference>DF16:38</PageReference>
+      <PageReference>DF16:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounts">
+    <PageReference>DF16:18-19</PageReference>
+    <PageReference>DF16:21</PageReference>
+    <SeeAlso>Animals</SeeAlso>
+    <Child ReferenceText="gear">
+      <PageReference>DF16:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mudflows">
+    <SeeAlso>Flows</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Native guide template">
+    <PageReference>DF16:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nature">
+    <Child ReferenceText="despoiling">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="divine element">
+      <PageReference>DF16:15</PageReference>
+    </Child>
+    <Child ReferenceText="foraging in">
+      <PageReference>DF16:42-45</PageReference>
+    </Child>
+    <Child ReferenceText="priests of">
+      <PageReference>DF16:6</PageReference>
+    </Child>
+    <Child ReferenceText="strength">
+      <PageReference>DF16:53</PageReference>
+    </Child>
+    <Child ReferenceText="dangers of">
+      <PageReference>DF16:30-35</PageReference>
+      <PageReference>DF16:53-55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromancers">
+    <Child ReferenceText="despoiling and">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="as outdoorsmen">
+      <PageReference>DF16:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja, as outdoorsmen">
+    <PageReference>DF16:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Noise">
+    <Child ReferenceText="for signaling">
+      <PageReference>DF16:28</PageReference>
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:17</PageReference>
+    </Child>
+    <Child ReferenceText="causing flows">
+      <PageReference>DF16:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonhumans">
+    <PageReference>DF16:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obstacles">
+    <SeeAlso>Dangers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Patron advantage">
+    <PageReference>DF16:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pets">
+    <SeeAlso>Animals</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Pits">
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:17</PageReference>
+    </Child>
+    <Child ReferenceText="covered">
+      <PageReference>DF16:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Plains">
+    <PageReference>DF16:22</PageReference>
+    <SeeAlso>Camping</SeeAlso>
+    <SeeAlso>Travel</SeeAlso>
+    <SeeAlso>Terrain</SeeAlso>
+    <SeeAlso>Travel</SeeAlso>
+    <SeeAlso>Weather</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Plants">
+    <SeeAlso>Trees</SeeAlso>
+    <Child ReferenceText="as foes">
+      <PageReference>DF16:56</PageReference>
+    </Child>
+    <Child ReferenceText="as loot">
+      <PageReference>DF16:44-45</PageReference>
+    </Child>
+    <Child ReferenceText="despoiling">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="spiked branches">
+      <PageReference>DF16:37</PageReference>
+    </Child>
+    <Child ReferenceText="stinging">
+      <PageReference>DF16:33</PageReference>
+      <PageReference>DF16:40</PageReference>
+    </Child>
+    <Child ReferenceText="as cover">
+      <PageReference>DF16:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisons">
+    <PageReference>DF16:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Potions">
+    <Child ReferenceText="selling">
+      <PageReference>DF16:44-45</PageReference>
+    </Child>
+    <Child ReferenceText="foraging for">
+      <PageReference>DF16:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Priests, as outdoorsmen">
+    <PageReference>DF16:11</PageReference>
+    <SeeAlso>Druid</SeeAlso>
+    <SeeAlso>Cleric</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Quicksand">
+    <PageReference>DF16:33</PageReference>
+    <PageReference>DF16:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rain of frogs">
+    <PageReference>DF16:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regions">
+    <SeeAlso>Maps</SeeAlso>
+    <SeeAlso>Travel</SeeAlso>
+    <Child ReferenceText="information gathering">
+      <PageReference>DF16:20</PageReference>
+      <PageReference>DF16:26</PageReference>
+      <PageReference>DF16:27</PageReference>
+    </Child>
+    <Child ReferenceText="intensifying obstacles">
+      <PageReference>DF16:31</PageReference>
+    </Child>
+    <Child ReferenceText="unknown">
+      <PageReference>DF16:20</PageReference>
+      <PageReference>DF16:27</PageReference>
+    </Child>
+    <Child ReferenceText="cursed">
+      <PageReference>DF16:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Riding gear">
+    <PageReference>DF16:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rocks">
+    <SeeAlso>Mountains</SeeAlso>
+    <Child ReferenceText="flow">
+      <PageReference>DF16:32-33</PageReference>
+      <PageReference>DF16:35</PageReference>
+    </Child>
+    <Child ReferenceText="falling">
+      <PageReference>DF16:32</PageReference>
+      <PageReference>DF16:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rockslides">
+    <SeeAlso>Flows</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ropes">
+    <PageReference>DF16:17</PageReference>
+    <Child ReferenceText="using">
+      <PageReference>DF16:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sages">
+    <Child ReferenceText="supplies">
+      <PageReference>DF16:16</PageReference>
+    </Child>
+    <Child ReferenceText="as outdoorsmen">
+      <PageReference>DF16:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sandshoes">
+    <PageReference>DF16:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scholars">
+    <Child ReferenceText="supplies">
+      <PageReference>DF16:16</PageReference>
+    </Child>
+    <Child ReferenceText="as outdoorsmen">
+      <PageReference>DF16:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scouting">
+    <PageReference>DF16:25-27</PageReference>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scouts, as outdoorsmen">
+    <PageReference>DF16:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Settings">
+    <SeeAlso>Adventures</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shamans">
+    <Child ReferenceText="despoiling and">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="spirits and">
+      <PageReference>DF16:14</PageReference>
+    </Child>
+    <Child ReferenceText="as outdoorsmen">
+      <PageReference>DF16:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shelters">
+    <PageReference>DF16:18</PageReference>
+    <PageReference>DF16:24-25</PageReference>
+    <SeeAlso>Camping</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Signaling">
+    <PageReference>DF16:28</PageReference>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:16</PageReference>
+      <PageReference>DF16:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sinkholes">
+    <PageReference>DF16:33</PageReference>
+    <PageReference>DF16:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sites, camping">
+    <PageReference>DF16:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Size Modifier (SM)">
+    <Child ReferenceText="shelters and">
+      <PageReference>DF16:25</PageReference>
+    </Child>
+    <Child ReferenceText="signaling and">
+      <PageReference>DF16:28</PageReference>
+    </Child>
+    <Child ReferenceText="sneaking and">
+      <PageReference>DF16:25-26</PageReference>
+    </Child>
+    <Child ReferenceText="vehicle occupancy and">
+      <PageReference>DF16:19</PageReference>
+    </Child>
+    <Child ReferenceText="camping and">
+      <PageReference>DF16:24-25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skates">
+    <PageReference>DF16:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skidding stunts">
+    <PageReference>DF16:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skis">
+    <PageReference>DF16:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sledges">
+    <PageReference>DF16:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smoke, for signaling">
+    <PageReference>DF16:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snares, spring">
+    <PageReference>DF16:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sneaking">
+    <PageReference>DF16:25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snow">
+    <SeeAlso>Artic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Snowshoes">
+    <PageReference>DF16:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <SeeAlso>Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirits">
+    <PageReference>DF16:14-15</PageReference>
+    <SeeAlso>Shamans</SeeAlso>
+    <Child ReferenceText="place">
+      <PageReference>DF16:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stampedes">
+    <PageReference>DF16:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starvation">
+    <PageReference>DF16:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stones">
+    <SeeAlso>Mountains</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Stunts">
+    <PageReference>DF16:28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sunburn">
+    <PageReference>DF16:30</PageReference>
+    <SeeAlso>Heat</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival gear">
+    <PageReference>DF16:16-18</PageReference>
+    <SeeAlso>Equipment</SeeAlso>
+    <Child ReferenceText="shelters">
+      <PageReference>DF16:18</PageReference>
+      <PageReference>DF16:24-25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival skill, new specialties">
+    <PageReference>DF16:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swampland">
+    <PageReference>DF16:22</PageReference>
+    <PageReference>DF16:31</PageReference>
+    <SeeAlso>Bugs</SeeAlso>
+    <SeeAlso>Camping</SeeAlso>
+    <SeeAlso>Terrain</SeeAlso>
+    <SeeAlso>Travel</SeeAlso>
+    <SeeAlso>Weather</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Swarms">
+    <PageReference>DF16:34</PageReference>
+    <PageReference>DF16:36</PageReference>
+    <SeeAlso>Bugs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Swashbucklers, as outdoorsmen">
+    <PageReference>DF16:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swimming skill, challenges">
+    <PageReference>DF16:29</PageReference>
+    <PageReference>DF16:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swinging stunts">
+    <PageReference>DF16:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="makeshift weapons">
+      <PageReference>DF16:45</PageReference>
+    </Child>
+    <Child ReferenceText="mounts">
+      <PageReference>DF16:18</PageReference>
+    </Child>
+    <Child ReferenceText="vehicles">
+      <PageReference>DF16:19</PageReference>
+    </Child>
+    <Child ReferenceText="weather">
+      <PageReference>DF16:30</PageReference>
+    </Child>
+    <Child ReferenceText="machete">
+      <PageReference>DF16:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tents">
+    <PageReference>DF16:18</PageReference>
+    <PageReference>DF16:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terrain">
+    <SeeAlso>Mountains</SeeAlso>
+    <SeeAlso>Regions</SeeAlso>
+    <SeeAlso>Travel</SeeAlso>
+    <Child ReferenceText="aerial scouting and">
+      <PageReference>DF16:27</PageReference>
+    </Child>
+    <Child ReferenceText="camping and">
+      <PageReference>DF16:24-25</PageReference>
+    </Child>
+    <Child ReferenceText="climate and">
+      <PageReference>DF16:30</PageReference>
+    </Child>
+    <Child ReferenceText="combat and">
+      <PageReference>DF16:38-39</PageReference>
+    </Child>
+    <Child ReferenceText="cover and">
+      <PageReference>DF16:39</PageReference>
+    </Child>
+    <Child ReferenceText="disasters and">
+      <PageReference>DF16:32-35</PageReference>
+    </Child>
+    <Child ReferenceText="exceptional">
+      <PageReference>DF16:22</PageReference>
+    </Child>
+    <Child ReferenceText="foraging and">
+      <PageReference>DF16:22</PageReference>
+      <PageReference>DF16:33</PageReference>
+      <PageReference>DF16:42-44</PageReference>
+    </Child>
+    <Child ReferenceText="information gathering">
+      <PageReference>DF16:26</PageReference>
+    </Child>
+    <Child ReferenceText="mixed">
+      <PageReference>DF16:22</PageReference>
+    </Child>
+    <Child ReferenceText="obstacle suggestions">
+      <PageReference>DF16:31-32</PageReference>
+    </Child>
+    <Child ReferenceText="travel fatigue and">
+      <PageReference>DF16:24</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>DF16:22</PageReference>
+    </Child>
+    <Child ReferenceText="vehicles and">
+      <PageReference>DF16:18</PageReference>
+    </Child>
+    <Child ReferenceText="weather and">
+      <PageReference>DF16:30</PageReference>
+    </Child>
+    <Child ReferenceText="adventure maps">
+      <PageReference>DF16:52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thieves, as outdoorsmen">
+    <PageReference>DF16:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tool kits">
+    <PageReference>DF16:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tornadoes">
+    <PageReference>DF16:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracking">
+    <PageReference>DF16:22</PageReference>
+    <PageReference>DF16:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transportation">
+    <PageReference>DF16:18-19</PageReference>
+    <PageReference>DF16:21-22</PageReference>
+    <SeeAlso>Boats</SeeAlso>
+    <SeeAlso>Travel</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps">
+    <PageReference>DF16:36-37</PageReference>
+    <Child ReferenceText="detecting">
+      <PageReference>DF16:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel">
+    <SeeAlso>Boats</SeeAlso>
+    <SeeAlso>Maps</SeeAlso>
+    <SeeAlso>Regions</SeeAlso>
+    <Child ReferenceText="arrangements">
+      <PageReference>DF16:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="carrying equipment and">
+      <PageReference>DF16:18</PageReference>
+      <PageReference>DF16:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="climate">
+      <PageReference>DF16:30</PageReference>
+    </Child>
+    <Child ReferenceText="daily distance">
+      <PageReference>DF16:23</PageReference>
+    </Child>
+    <Child ReferenceText="daily time">
+      <PageReference>DF16:23</PageReference>
+    </Child>
+    <Child ReferenceText="despoiling by">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="detours">
+      <PageReference>DF16:35</PageReference>
+    </Child>
+    <Child ReferenceText="factors affecting">
+      <PageReference>DF16:15</PageReference>
+      <PageReference>DF16:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="fatigue">
+      <PageReference>DF16:23</PageReference>
+      <PageReference>DF16:24</PageReference>
+    </Child>
+    <Child ReferenceText="getting lost">
+      <PageReference>DF16:26</PageReference>
+      <PageReference>DF16:48</PageReference>
+      <PageReference>DF16:55</PageReference>
+    </Child>
+    <Child ReferenceText="getting separated">
+      <PageReference>DF16:26</PageReference>
+    </Child>
+    <Child ReferenceText="guides">
+      <PageReference>DF16:22</PageReference>
+    </Child>
+    <Child ReferenceText="intensifying threats">
+      <PageReference>DF16:31</PageReference>
+    </Child>
+    <Child ReferenceText="modes of">
+      <PageReference>DF16:18-19</PageReference>
+      <PageReference>DF16:21-22</PageReference>
+    </Child>
+    <Child ReferenceText="muscle-powered">
+      <PageReference>DF16:23</PageReference>
+    </Child>
+    <Child ReferenceText="natural threats">
+      <PageReference>DF16:30</PageReference>
+    </Child>
+    <Child ReferenceText="obstacle">
+      <PageReference>DF16:31-32</PageReference>
+    </Child>
+    <Child ReferenceText="on beasts">
+      <PageReference>DF16:18-19</PageReference>
+      <PageReference>DF16:21</PageReference>
+    </Child>
+    <Child ReferenceText="on foot">
+      <PageReference>DF16:21</PageReference>
+    </Child>
+    <Child ReferenceText="planning">
+      <PageReference>DF16:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="route maps">
+      <PageReference>DF16:53</PageReference>
+    </Child>
+    <Child ReferenceText="shipwrecked">
+      <PageReference>DF16:48</PageReference>
+    </Child>
+    <Child ReferenceText="shortcuts">
+      <PageReference>DF16:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="sickness and">
+      <PageReference>DF16:23</PageReference>
+    </Child>
+    <Child ReferenceText="speed of">
+      <PageReference>DF16:22</PageReference>
+      <PageReference>DF16:23</PageReference>
+    </Child>
+    <Child ReferenceText="terrain">
+      <PageReference>DF16:22</PageReference>
+      <PageReference>DF16:26</PageReference>
+    </Child>
+    <Child ReferenceText="to unknown regions">
+      <PageReference>DF16:20</PageReference>
+    </Child>
+    <Child ReferenceText="transportation">
+      <PageReference>DF16:18-19</PageReference>
+      <PageReference>DF16:21-22</PageReference>
+    </Child>
+    <Child ReferenceText="transportation efficiency">
+      <PageReference>DF16:22</PageReference>
+    </Child>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:16</PageReference>
+      <PageReference>DF16:17</PageReference>
+    </Child>
+    <Child ReferenceText="using maps">
+      <PageReference>DF16:16</PageReference>
+      <PageReference>DF16:23</PageReference>
+      <PageReference>DF16:27</PageReference>
+    </Child>
+    <Child ReferenceText="weather conditions">
+      <PageReference>DF16:30-31</PageReference>
+    </Child>
+    <Child ReferenceText="weirdness and">
+      <PageReference>DF16:57</PageReference>
+    </Child>
+    <Child ReferenceText="adventures">
+      <PageReference>DF16:46-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Travois">
+    <PageReference>DF16:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treasure, naturally occurring">
+    <PageReference>DF16:44</PageReference>
+    <SeeAlso>Equipment</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Treasure-hunters, as outdoorsmen">
+    <PageReference>DF16:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trees">
+    <SeeAlso>Plants</SeeAlso>
+    <Child ReferenceText="despoiling">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="falling">
+      <PageReference>DF16:32</PageReference>
+      <PageReference>DF16:35</PageReference>
+    </Child>
+    <Child ReferenceText="spiked branches">
+      <PageReference>DF16:37</PageReference>
+    </Child>
+    <Child ReferenceText="combat and">
+      <PageReference>DF16:39-40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <PageReference>DF16:19</PageReference>
+    <PageReference>DF16:21-22</PageReference>
+    <SeeAlso>Boats</SeeAlso>
+    <SeeAlso>Footwear</SeeAlso>
+    <SeeAlso>Mounts</SeeAlso>
+    <SeeAlso>Travel</SeeAlso>
+    <Child ReferenceText="as shelters">
+      <PageReference>DF16:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Volcanoes">
+    <PageReference>DF16:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walking huts">
+    <PageReference>DF16:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water">
+    <SeeAlso>Boats</SeeAlso>
+    <Child ReferenceText="hazards">
+      <PageReference>DF16:29</PageReference>
+      <PageReference>DF16:32</PageReference>
+    </Child>
+    <Child ReferenceText="supplies">
+      <PageReference>DF16:16</PageReference>
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="useful gear">
+      <PageReference>DF16:16</PageReference>
+    </Child>
+    <Child ReferenceText="waves">
+      <PageReference>DF16:33</PageReference>
+    </Child>
+    <Child ReferenceText="despoiling and">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>DF16:16</PageReference>
+    <PageReference>DF16:17</PageReference>
+    <Child ReferenceText="choosing">
+      <PageReference>DF16:15</PageReference>
+    </Child>
+    <Child ReferenceText="makeshift">
+      <PageReference>DF16:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weather">
+    <Child ReferenceText="disasters">
+      <PageReference>DF16:32-35</PageReference>
+    </Child>
+    <Child ReferenceText="nasty">
+      <PageReference>DF16:30-31</PageReference>
+    </Child>
+    <Child ReferenceText="combat and">
+      <PageReference>DF16:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wilderness-Trained lens">
+    <PageReference>DF16:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizards">
+    <Child ReferenceText="despoiling and">
+      <PageReference>DF16:43</PageReference>
+    </Child>
+    <Child ReferenceText="familiars">
+      <PageReference>DF16:13-14</PageReference>
+    </Child>
+    <Child ReferenceText="as outdoorsmen">
+      <PageReference>DF16:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Woodlands">
+    <PageReference>DF16:22</PageReference>
+    <SeeAlso>Camping</SeeAlso>
+    <SeeAlso>Heat</SeeAlso>
+    <SeeAlso>Terrain</SeeAlso>
+    <SeeAlso>Travel</SeeAlso>
+    <SeeAlso>Weather</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Yurts">
+    <PageReference>DF16:18</PageReference>
+    <PageReference>DF16:24</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

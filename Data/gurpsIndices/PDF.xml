@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Blessed variations">
+    <PageReference>PDF8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blessings">
+    <Child ReferenceText="minor">
+      <PageReference>PDF8-10</PageReference>
+    </Child>
+    <Child ReferenceText="major">
+      <PageReference>PDF10-13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Confidence miracle">
+    <PageReference>PDF8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Consecrate Ground miracle">
+    <PageReference>PDF12</PageReference>
+    <Child ReferenceText="enhanced">
+      <PageReference>PDF14-15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Control advantage">
+    <PageReference>PDF16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Covenant of Faith perk">
+    <PageReference>PDF8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Covenant of Rest perk">
+    <PageReference>PDF8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <Child ReferenceText="required">
+      <PageReference>PDF4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine Favor advantage">
+    <PageReference>PDF4</PageReference>
+    <PageReference>PDF15</PageReference>
+    <Child ReferenceText="modifiers">
+      <PageReference>PDF5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine Guidance miracle">
+    <PageReference>PDF10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine power modifier">
+    <PageReference>PDF4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eclipse miracle">
+    <PageReference>PDF15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feed the Masses miracle">
+    <PageReference>PDF8-9</PageReference>
+    <Child ReferenceText="enhanced">
+      <PageReference>PDF12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Final Rest miracle">
+    <PageReference>PDF8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fireproof miracle">
+    <PageReference>PDF9</PageReference>
+    <Child ReferenceText="enhanced">
+      <PageReference>PDF11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flesh Wounds miracle">
+    <PageReference>PDF9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Font advantage">
+    <PageReference>PDF8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost Shirt miracle">
+    <PageReference>PDF10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost Weapon advantage">
+    <PageReference>PDF8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gods">
+    <Child ReferenceText="good">
+      <PageReference>PDF12</PageReference>
+    </Child>
+    <Child ReferenceText="number of">
+      <PageReference>PDF11</PageReference>
+    </Child>
+    <Child ReferenceText="evil">
+      <PageReference>PDF12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Golems">
+    <Child ReferenceText="miracle">
+      <PageReference>PDF13-14</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>PDF14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>PDF3</PageReference>
+    <Child ReferenceText="Fantasy">
+      <PageReference>PDF8</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>PDF3</PageReference>
+      <PageReference>PDF4</PageReference>
+      <PageReference>PDF9</PageReference>
+      <PageReference>PDF11</PageReference>
+      <PageReference>PDF16</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>PDF5</PageReference>
+      <PageReference>PDF12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="High Pain Threshold advantage">
+    <PageReference>PDF10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy Glory miracle">
+    <PageReference>PDF11-12</PageReference>
+    <Child ReferenceText="enhanced">
+      <PageReference>PDF15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy Touch miracle">
+    <PageReference>PDF8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immunity to Pain advantage">
+    <PageReference>PDF10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Last Rites advantage">
+    <PageReference>PDF8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lay on Hands miracle">
+    <PageReference>PDF11</PageReference>
+    <Child ReferenceText="enhanced">
+      <PageReference>PDF15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Luck advantage">
+    <PageReference>PDF4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miracles">
+    <SeeAlso>Prayers</SeeAlso>
+    <Child ReferenceText="enhanced">
+      <PageReference>PDF11-15</PageReference>
+    </Child>
+    <Child ReferenceText="miraculous">
+      <PageReference>PDF13-15</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>PDF17</PageReference>
+    </Child>
+    <Child ReferenceText="worldshaking">
+      <PageReference>PDF15-16</PageReference>
+    </Child>
+    <Child ReferenceText="blessing">
+      <PageReference>PDF8-13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Miraculous power">
+    <PageReference>PDF13-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monotheism">
+    <PageReference>PDF11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural Phenomena enhancement">
+    <PageReference>PDF16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paragons">
+    <Child ReferenceText="important traits">
+      <PageReference>PDF4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Part the Sea miracle">
+    <PageReference>PDF16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Petition rolls">
+    <PageReference>PDF4</PageReference>
+    <Child ReferenceText="modifiers">
+      <PageReference>PDF5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Plague of Insects miracle">
+    <PageReference>PDF15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Polytheism">
+    <PageReference>PDF11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Investiture advantage">
+    <PageReference>PDF7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power modifier">
+    <PageReference>PDF4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powerful Conviction miracle">
+    <PageReference>PDF8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prayers">
+    <SeeAlso>Miracles</SeeAlso>
+    <Child ReferenceText="behavior and">
+      <PageReference>PDF4</PageReference>
+      <PageReference>PDF6</PageReference>
+    </Child>
+    <Child ReferenceText="general">
+      <PageReference>PDF5</PageReference>
+    </Child>
+    <Child ReferenceText="high value">
+      <PageReference>PDF15</PageReference>
+    </Child>
+    <Child ReferenceText="learned">
+      <PageReference>PDF6</PageReference>
+      <PageReference>PDF9</PageReference>
+    </Child>
+    <Child ReferenceText="learned cost">
+      <PageReference>PDF6</PageReference>
+      <PageReference>PDF7</PageReference>
+    </Child>
+    <Child ReferenceText="learning enhanced">
+      <PageReference>PDF6</PageReference>
+    </Child>
+    <Child ReferenceText="new learned">
+      <PageReference>PDF9</PageReference>
+    </Child>
+    <Child ReferenceText="specific">
+      <PageReference>PDF6</PageReference>
+    </Child>
+    <Child ReferenceText="asking for enhanced">
+      <PageReference>PDF6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Protection From Evil miracle">
+    <PageReference>PDF8</PageReference>
+    <Child ReferenceText="enhanced">
+      <PageReference>PDF11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid magazine">
+    <PageReference>PDF3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rainmaker miracle">
+    <PageReference>PDF13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Raise Dead miracle">
+    <PageReference>PDF13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction rolls">
+    <PageReference>PDF4</PageReference>
+    <Child ReferenceText="modifiers">
+      <PageReference>PDF5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious Rank advantage">
+    <PageReference>PDF7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant to Pain advantage">
+    <PageReference>PDF10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resurrection miracle">
+    <PageReference>PDF16</PageReference>
+    <Child ReferenceText="lesser">
+      <PageReference>PDF13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense True Evil miracle">
+    <PageReference>PDF11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sermonize miracle">
+    <PageReference>PDF9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smite miracle">
+    <PageReference>PDF12</PageReference>
+    <Child ReferenceText="enhanced">
+      <PageReference>PDF14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Weapon miracle">
+    <PageReference>PDF10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stoicism miracle">
+    <PageReference>PDF10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Table">
+    <Child ReferenceText="miracles">
+      <PageReference>PDF17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Traveler’s Blessing miracle">
+    <PageReference>PDF10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walk on the Water miracle">
+    <PageReference>PDF10-11</PageReference>
+    <Child ReferenceText="enhanced">
+      <PageReference>PDF13</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

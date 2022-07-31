@@ -1,0 +1,466 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Alchemical artifact origin">
+    <PageReference>DF6:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anointing Oil">
+    <PageReference>DF6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arctic Blade">
+    <PageReference>DF6:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>DF6:5-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arrow of Negation">
+    <PageReference>DF6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arrow-Stopping Shirt">
+    <PageReference>DF6:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ash spirit">
+    <PageReference>DF6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astonishing Wrestling Oil">
+    <PageReference>DF6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astounding Alchemy Apron">
+    <PageReference>DF6:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banishment Spheres">
+    <PageReference>DF6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barrier of the Boar">
+    <PageReference>DF6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beast Slayer’s Tassels">
+    <PageReference>DF6:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Belts">
+    <PageReference>DF6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blade-Blunting Blouse">
+    <PageReference>DF6:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blades">
+    <PageReference>DF6:11-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blue Spheres">
+    <PageReference>DF6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bow of Su">
+    <PageReference>DF6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bracers of Force">
+    <PageReference>DF6:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breeches">
+    <PageReference>DF6:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Candles">
+    <PageReference>DF6:18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloaks">
+    <PageReference>DF6:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <PageReference>DF6:5-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conjuring Candle">
+    <PageReference>DF6:18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corselets">
+    <PageReference>DF6:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic artifact origin">
+    <PageReference>DF6:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crazy Anti-Garrote Collar">
+    <PageReference>DF6:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crazy Arms">
+    <PageReference>DF6:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crazy Legs">
+    <PageReference>DF6:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crematory Urn">
+    <PageReference>DF6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crests for helmet">
+    <PageReference>DF6:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curiously Cushioned Chemise">
+    <PageReference>DF6:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death’s Reaper">
+    <PageReference>DF6:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demon Vessel">
+    <PageReference>DF6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonhealer">
+    <PageReference>DF6:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonhunter’s Gem">
+    <PageReference>DF6:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonhunter’s Helm">
+    <PageReference>DF6:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonhunter’s Tassels">
+    <PageReference>DF6:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonic cloud">
+    <PageReference>DF6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demons">
+    <PageReference>DF6:4</PageReference>
+    <PageReference>DF6:6</PageReference>
+    <PageReference>DF6:10</PageReference>
+    <PageReference>DF6:12-14</PageReference>
+    <PageReference>DF6:16</PageReference>
+    <PageReference>DF6:19-22</PageReference>
+    <SeeAlso>Spirits</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Discotechnic Trousers">
+    <PageReference>DF6:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine artifact origin">
+    <PageReference>DF6:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druidic artifact origin">
+    <PageReference>DF6:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eight-Sword Belt">
+    <PageReference>DF6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental Jug">
+    <PageReference>DF6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elven cloak">
+    <PageReference>DF6:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expendables">
+    <PageReference>DF6:18-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire Fife">
+    <PageReference>DF6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flaming Blade">
+    <PageReference>DF6:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flashing Sunblade">
+    <PageReference>DF6:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flasks">
+    <PageReference>DF6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Golden">
+    <Child ReferenceText="Helmet Crest">
+      <PageReference>DF6:6</PageReference>
+    </Child>
+    <Child ReferenceText="Spurs">
+      <PageReference>DF6:6</PageReference>
+    </Child>
+    <Child ReferenceText="Epaulets">
+      <PageReference>DF6:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grandfather’s Sash">
+    <PageReference>DF6:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Green Spheres">
+    <PageReference>DF6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns">
+    <PageReference>DF6:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Basic Set">
+    <PageReference>DF6:3</PageReference>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DF6:3</PageReference>
+      <PageReference>DF6:5</PageReference>
+      <PageReference>DF6:6</PageReference>
+      <PageReference>DF6:8</PageReference>
+      <PageReference>DF6:9</PageReference>
+      <PageReference>DF6:10</PageReference>
+      <PageReference>DF6:12</PageReference>
+      <PageReference>DF6:18-21</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DF6:3</PageReference>
+      <PageReference>DF6:6</PageReference>
+      <PageReference>DF6:7</PageReference>
+      <PageReference>DF6:9</PageReference>
+      <PageReference>DF6:10</PageReference>
+      <PageReference>DF6:13</PageReference>
+      <PageReference>DF6:14</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF6:3</PageReference>
+      <PageReference>DF6:8</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DF6:16</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 5: Allies">
+      <PageReference>DF6:4</PageReference>
+      <PageReference>DF6:22</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>DF6:3</PageReference>
+      <PageReference>DF6:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Headgear">
+    <PageReference>DF6:6-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helm of the Rat">
+    <PageReference>DF6:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helm of Vipers">
+    <PageReference>DF6:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hooded Robe of Protection">
+    <PageReference>DF6:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunter’s Helms">
+    <PageReference>DF6:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improbability Spheres">
+    <PageReference>DF6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Instant Workshop">
+    <PageReference>DF6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jewels of Utshepit">
+    <PageReference>DF6:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knives">
+    <PageReference>DF6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Less-than-ultimate items">
+    <PageReference>DF6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limits on artifacts">
+    <PageReference>DF6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lucky Seven Necklace">
+    <PageReference>DF6:19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maaukepu’s Mask">
+    <PageReference>DF6:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical artifact origin">
+    <PageReference>DF6:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Masks">
+    <PageReference>DF6:8</PageReference>
+    <PageReference>DF6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master Thief’s Mail">
+    <PageReference>DF6:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Materials artifact origin">
+    <PageReference>DF6:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maul of Minos">
+    <PageReference>DF6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mythic Corselet">
+    <PageReference>DF6:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naming items">
+    <PageReference>DF6:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necklaces">
+    <PageReference>DF6:19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necros’ Finger">
+    <PageReference>DF6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nightfang">
+    <PageReference>DF6:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nightmantle">
+    <PageReference>DF6:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nightwraith">
+    <PageReference>DF6:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Normalization Spheres">
+    <PageReference>DF6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nymph’s Oil">
+    <PageReference>DF6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oils">
+    <PageReference>DF6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-Sword Belt">
+    <PageReference>DF6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orange Spheres">
+    <PageReference>DF6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orichalcum Spring Gun">
+    <PageReference>DF6:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pants">
+    <PageReference>DF6:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peshkali Shield">
+    <PageReference>DF6:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Preta Whistle">
+    <PageReference>DF6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Price, problems">
+    <PageReference>DF6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Purple Spheres">
+    <PageReference>DF6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Racial artifact origin">
+    <PageReference>DF6:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapier of Ruinas">
+    <PageReference>DF6:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reading item entries">
+    <PageReference>DF6:3-4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Red Spheres">
+    <PageReference>DF6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Redoubt of the Ram">
+    <PageReference>DF6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Release Spheres">
+    <PageReference>DF6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robes">
+    <PageReference>DF6:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sashes">
+    <PageReference>DF6:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scarab of Sentchtemt">
+    <PageReference>DF6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scroll of Arcane Defense">
+    <PageReference>DF6:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scroll of Calling">
+    <PageReference>DF6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrolls">
+    <PageReference>DF6:20-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seven-Sword Belt">
+    <PageReference>DF6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadowblade">
+    <PageReference>DF6:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <PageReference>DF6:8-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shirts">
+    <PageReference>DF6:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Six-Sword Belt">
+    <PageReference>DF6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sling of Su">
+    <PageReference>DF6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spatial limits on artifacts">
+    <PageReference>DF6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spheres of Weirdness">
+    <PageReference>DF6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit artifact origin">
+    <PageReference>DF6:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Flasks">
+    <PageReference>DF6:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Knife">
+    <PageReference>DF6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirits">
+    <PageReference>DF6:4</PageReference>
+    <PageReference>DF6:10</PageReference>
+    <PageReference>DF6:13-17</PageReference>
+    <PageReference>DF6:19</PageReference>
+    <PageReference>DF6:20</PageReference>
+    <PageReference>DF6:22</PageReference>
+    <SeeAlso>Demons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spring guns">
+    <PageReference>DF6:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Staff Sling of Su">
+    <PageReference>DF6:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Storm Blade">
+    <PageReference>DF6:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suggested origins">
+    <PageReference>DF6:3-4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sun Armor">
+    <PageReference>DF6:9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sunblade">
+    <PageReference>DF6:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swords">
+    <PageReference>DF6:11-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tassels">
+    <PageReference>DF6:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teleportation Spheres">
+    <PageReference>DF6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temporal limits on artifacts">
+    <PageReference>DF6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thieves’ Oil">
+    <PageReference>DF6:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Topsy-Turvey Spheres">
+    <PageReference>DF6:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trousers">
+    <PageReference>DF6:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-Sword Belt">
+    <PageReference>DF6:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visage of the God">
+    <PageReference>DF6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wand of the Summoner">
+    <PageReference>DF6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ward of the Wolf">
+    <PageReference>DF6:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>DF6:11-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wood Whistle">
+    <PageReference>DF6:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Workshops">
+    <PageReference>DF6:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yellow Spheres">
+    <PageReference>DF6:21</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

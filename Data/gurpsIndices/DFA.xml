@@ -1,0 +1,2384 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Acc (Accuracy) weapon trait">
+    <PageReference>DFA97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="maximum level">
+      <PageReference>DFA46</PageReference>
+    </Child>
+    <Child ReferenceText="overlapping racial">
+      <PageReference>DFA42</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DFA4</PageReference>
+      <PageReference>DFA8</PageReference>
+      <PageReference>DFA13</PageReference>
+      <PageReference>DFA42</PageReference>
+      <PageReference>DFA46</PageReference>
+    </Child>
+    <Child ReferenceText="skills and">
+      <PageReference>DFA71</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DFA47</PageReference>
+    </Child>
+    <Child ReferenceText="descriptions">
+      <PageReference>DFA46-54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventure-wear">
+    <PageReference>DFA112</PageReference>
+    <SeeAlso>Armor</SeeAlso>
+    <SeeAlso>Clothing</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammunition">
+    <PageReference>DFA104</PageReference>
+    <PageReference>DFA105</PageReference>
+    <Child ReferenceText="reloading">
+      <PageReference>DFA97</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Amulets">
+    <PageReference>DFA118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arc of vision">
+    <PageReference>DFA52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>DFA108-110</PageReference>
+    <Child ReferenceText="customizing">
+      <PageReference>DFA109-110</PageReference>
+    </Child>
+    <Child ReferenceText="donning">
+      <PageReference>DFA110</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>DFA117-118</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>DFA110</PageReference>
+    </Child>
+    <Child ReferenceText="removing">
+      <PageReference>DFA110</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <Child ReferenceText="basic range">
+      <PageReference>DFA8</PageReference>
+    </Child>
+    <Child ReferenceText="controlling">
+      <PageReference>DFA69</PageReference>
+    </Child>
+    <Child ReferenceText="descriptions">
+      <PageReference>DFA8-9</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DFA4</PageReference>
+      <PageReference>DFA7</PageReference>
+      <PageReference>DFA8</PageReference>
+    </Child>
+    <Child ReferenceText="using  skills with other">
+      <PageReference>DFA71</PageReference>
+    </Child>
+    <Child ReferenceText="average score">
+      <PageReference>DFA8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Balanced modifier">
+    <PageReference>DFA106</PageReference>
+    <PageReference>DFA107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbarian template">
+    <PageReference>DFA15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bard template">
+    <PageReference>DFA16-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bard-Song power">
+    <PageReference>DFA17-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic Lift (BL) secondary characteristic">
+    <PageReference>DFA9-10</PageReference>
+    <Child ReferenceText="encumbrance and">
+      <PageReference>DFA11</PageReference>
+      <PageReference>DFA12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic Move secondary characteristic">
+    <PageReference>DFA11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic Speed secondary characteristic">
+    <PageReference>DFA11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bow-harp modifier">
+    <PageReference>DFA106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bulk weapon stat">
+    <PageReference>DFA98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camping gear">
+    <PageReference>DFA111-113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cat-folk template">
+    <PageReference>DFA43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Character points">
+    <Child ReferenceText="overview">
+      <PageReference>DFA4</PageReference>
+      <PageReference>DFA47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Attributes</SeeAlso>
+    <SeeAlso>Disadvantages</SeeAlso>
+    <SeeAlso>Professional Templates</SeeAlso>
+    <SeeAlso>Racial Templates</SeeAlso>
+    <SeeAlso>Secondary Characteristics</SeeAlso>
+    <SeeAlso>Skills</SeeAlso>
+    <SeeAlso>trait indexes</SeeAlso>
+    <Child ReferenceText="cost of living">
+      <PageReference>DFA96</PageReference>
+    </Child>
+    <Child ReferenceText="custom professions">
+      <PageReference>DFA14</PageReference>
+    </Child>
+    <Child ReferenceText="designating leader">
+      <PageReference>DFA13</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>DFA119</PageReference>
+      <PageReference>DFA120</PageReference>
+    </Child>
+    <Child ReferenceText="handedness">
+      <PageReference>DFA8</PageReference>
+      <PageReference>DFA47</PageReference>
+    </Child>
+    <Child ReferenceText="height">
+      <PageReference>DFA8</PageReference>
+      <PageReference>DFA12</PageReference>
+    </Child>
+    <Child ReferenceText="niche protection">
+      <PageReference>DFA14</PageReference>
+    </Child>
+    <Child ReferenceText="starting clothing">
+      <PageReference>DFA110</PageReference>
+    </Child>
+    <Child ReferenceText="starting language">
+      <PageReference>DFA9</PageReference>
+    </Child>
+    <Child ReferenceText="starting money">
+      <PageReference>DFA54</PageReference>
+      <PageReference>DFA67</PageReference>
+      <PageReference>DFA95</PageReference>
+      <PageReference>DFA96</PageReference>
+    </Child>
+    <Child ReferenceText="starting points">
+      <PageReference>DFA7</PageReference>
+    </Child>
+    <Child ReferenceText="team creation">
+      <PageReference>DFA13</PageReference>
+    </Child>
+    <Child ReferenceText="trait overview">
+      <PageReference>DFA7-8</PageReference>
+    </Child>
+    <Child ReferenceText="weight">
+      <PageReference>DFA8</PageReference>
+      <PageReference>DFA64</PageReference>
+      <PageReference>DFA66</PageReference>
+    </Child>
+    <Child ReferenceText="cosmetic details">
+      <PageReference>DFA8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemicals">
+    <PageReference>DFA114-115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi Mastery power">
+    <PageReference>DFA30-31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleric template">
+    <PageReference>DFA19-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Climber’s modifier">
+    <PageReference>DFA106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <PageReference>DFA110</PageReference>
+    <SeeAlso>Armor</SeeAlso>
+    <SeeAlso>Gear</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Coinage">
+    <PageReference>DFA95</PageReference>
+    <SeeAlso>Money</SeeAlso>
+    <Child ReferenceText="$ and">
+      <PageReference>DFA95</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <Child ReferenceText="skills">
+      <PageReference>DFA73-75</PageReference>
+      <PageReference>DFA79-83</PageReference>
+      <PageReference>DFA88</PageReference>
+      <PageReference>DFA91-94</PageReference>
+    </Child>
+    <Child ReferenceText="accessories">
+      <PageReference>DFA111</PageReference>
+      <PageReference>DFA113</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Concoctions">
+    <PageReference>DFA114-116</PageReference>
+    <SeeAlso>Potions</SeeAlso>
+    <Child ReferenceText="belt">
+      <PageReference>DFA112</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Containers">
+    <PageReference>DFA111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost factor (CF)">
+    <PageReference>DFA106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost of living">
+    <PageReference>DFA96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost weapon stat">
+    <PageReference>DFA98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Covert ops gear">
+    <PageReference>DFA113-114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage (Dmg) secondary characteristic">
+    <PageReference>DFA9</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>DFA10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Resistance (DR)">
+    <Child ReferenceText="advantages">
+      <PageReference>DFA16</PageReference>
+      <PageReference>DFA24</PageReference>
+      <PageReference>DFA31</PageReference>
+      <PageReference>DFA44</PageReference>
+      <PageReference>DFA45</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>DFA118</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>DFA108</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage weapon stat">
+    <PageReference>DFA97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defaults">
+    <Child ReferenceText="skill">
+      <PageReference>DFA69</PageReference>
+      <PageReference>DFA71</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Defense Bonus (DB)">
+    <Child ReferenceText="shields">
+      <PageReference>DFA107</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>DFA118</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dexterity (DX) attribute">
+    <PageReference>DFA8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dice (d)">
+    <PageReference>DFA4</PageReference>
+    <PageReference>DFA5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Difficulty">
+    <Child ReferenceText="skill use">
+      <PageReference>DFA69</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <Child ReferenceText="choosing">
+      <PageReference>DFA56</PageReference>
+    </Child>
+    <Child ReferenceText="conflicting">
+      <PageReference>DFA32</PageReference>
+    </Child>
+    <Child ReferenceText="dagger marked">
+      <PageReference>DFA55</PageReference>
+    </Child>
+    <Child ReferenceText="descriptions">
+      <PageReference>DFA56-68</PageReference>
+    </Child>
+    <Child ReferenceText="limit">
+      <PageReference>DFA56</PageReference>
+    </Child>
+    <Child ReferenceText="not using">
+      <PageReference>DFA58</PageReference>
+    </Child>
+    <Child ReferenceText="overlapping effects">
+      <PageReference>DFA65</PageReference>
+    </Child>
+    <Child ReferenceText="overlapping racial">
+      <PageReference>DFA42</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DFA4</PageReference>
+      <PageReference>DFA8</PageReference>
+      <PageReference>DFA13</PageReference>
+      <PageReference>DFA42</PageReference>
+      <PageReference>DFA55</PageReference>
+    </Child>
+    <Child ReferenceText="severe physical">
+      <PageReference>DFA55</PageReference>
+    </Child>
+    <Child ReferenceText="asterisk marked">
+      <PageReference>DFA55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dodge secondary characteristic">
+    <PageReference>DFA11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragonhide modifier">
+    <PageReference>DFA110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druid template">
+    <PageReference>DFA22-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druidic Arts power">
+    <PageReference>DFA23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeon fantasy">
+    <Child ReferenceText="terms">
+      <PageReference>DFA4</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DFA3-5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarf template">
+    <PageReference>DFA43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarven modifier">
+    <PageReference>DFA106</PageReference>
+    <PageReference>DFA107</PageReference>
+    <PageReference>DFA110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elf template">
+    <PageReference>DFA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elven modifier">
+    <PageReference>DFA106</PageReference>
+    <PageReference>DFA110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Encumbrance">
+    <PageReference>DFA12</PageReference>
+    <Child ReferenceText="tables">
+      <PageReference>DFA11</PageReference>
+      <PageReference>DFA12</PageReference>
+    </Child>
+    <Child ReferenceText="traits affected">
+      <PageReference>DFA12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Gear</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Esoteric supplies">
+    <PageReference>DFA114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exorcism">
+    <PageReference>DFA22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue Points (FP) secondary characteristic">
+    <PageReference>DFA10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fine modifier">
+    <PageReference>DFA106</PageReference>
+    <PageReference>DFA107</PageReference>
+    <PageReference>DFA110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <PageReference>DFA96</PageReference>
+    <PageReference>DFA113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>Ammunition</SeeAlso>
+    <SeeAlso>Armor</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <SeeAlso>Shields</SeeAlso>
+    <Child ReferenceText="basics">
+      <PageReference>DFA110-112</PageReference>
+    </Child>
+    <Child ReferenceText="buying">
+      <PageReference>DFA95-96</PageReference>
+    </Child>
+    <Child ReferenceText="clothing">
+      <PageReference>DFA110</PageReference>
+    </Child>
+    <Child ReferenceText="designating Signature">
+      <PageReference>DFA95-96</PageReference>
+    </Child>
+    <Child ReferenceText="magic items">
+      <PageReference>DFA116-118</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DFA110</PageReference>
+    </Child>
+    <Child ReferenceText="prices">
+      <PageReference>DFA95</PageReference>
+    </Child>
+    <Child ReferenceText="selling">
+      <PageReference>DFA95-96</PageReference>
+    </Child>
+    <Child ReferenceText="special orders">
+      <PageReference>DFA112-114</PageReference>
+    </Child>
+    <Child ReferenceText="basic equipment for skills">
+      <PageReference>DFA110</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant-spider silk modifier">
+    <PageReference>DFA110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glossary">
+    <PageReference>DFA4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gnome template">
+    <PageReference>DFA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <Child ReferenceText="overview">
+      <PageReference>DFA6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Half-elf template">
+    <PageReference>DFA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Half-ogre template">
+    <PageReference>DFA44-45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Half-orc template">
+    <PageReference>DFA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Halfling template">
+    <PageReference>DFA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hardware">
+    <Child ReferenceText="dungeoneering">
+      <PageReference>DFA111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing">
+    <Child ReferenceText="gear">
+      <PageReference>DFA111</PageReference>
+      <PageReference>DFA114</PageReference>
+    </Child>
+    <Child ReferenceText="gem">
+      <PageReference>DFA118</PageReference>
+    </Child>
+    <Child ReferenceText="potions">
+      <PageReference>DFA116</PageReference>
+      <PageReference>DFA117</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>DFA22</PageReference>
+      <PageReference>DFA25</PageReference>
+      <PageReference>DFA32</PageReference>
+      <PageReference>DFA76</PageReference>
+      <PageReference>DFA90</PageReference>
+      <PageReference>DFA94</PageReference>
+    </Child>
+    <Child ReferenceText="spell list">
+      <PageReference>DFA20</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>DFA21</PageReference>
+      <PageReference>DFA31</PageReference>
+      <PageReference>DFA50</PageReference>
+      <PageReference>DFA52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Health (HT) attribute">
+    <PageReference>DFA9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hex">
+    <Child ReferenceText="definition">
+      <PageReference>DFA4</PageReference>
+      <PageReference>DFA6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit Points (HP) secondary characteristic">
+    <PageReference>DFA10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy Might power">
+    <PageReference>DFA20-22</PageReference>
+    <PageReference>DFA26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy warrior template">
+    <PageReference>DFA25-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intelligence (IQ) attribute">
+    <PageReference>DFA8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knight template">
+    <PageReference>DFA27-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kzaash">
+    <Child ReferenceText="Grükuk">
+      <PageReference>DFA119</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Languages">
+    <PageReference>DFA9</PageReference>
+    <PageReference>DFA51</PageReference>
+    <Child ReferenceText="obscure">
+      <PageReference>DFA9</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>DFA9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Light sources">
+    <PageReference>DFA111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic items">
+    <PageReference>DFA116-118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial artist template">
+    <PageReference>DFA29-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Math">
+    <Child ReferenceText="measurement units">
+      <PageReference>DFA6</PageReference>
+    </Child>
+    <Child ReferenceText="rounding">
+      <PageReference>DFA6</PageReference>
+    </Child>
+    <Child ReferenceText="in the game">
+      <PageReference>DFA5-6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Measurements">
+    <Child ReferenceText="game">
+      <PageReference>DFA6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical gear">
+    <PageReference>DFA111</PageReference>
+    <SeeAlso>Healing</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Meteoric modifier">
+    <PageReference>DFA106</PageReference>
+    <PageReference>DFA107</PageReference>
+    <PageReference>DFA110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mirrored modifier">
+    <PageReference>DFA107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modifiers">
+    <Child ReferenceText="definition">
+      <PageReference>DFA4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Money">
+    <Child ReferenceText="extra">
+      <PageReference>DFA95</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>DFA54</PageReference>
+      <PageReference>DFA67</PageReference>
+      <PageReference>DFA95</PageReference>
+      <PageReference>DFA96</PageReference>
+    </Child>
+    <Child ReferenceText="coins">
+      <PageReference>DFA95</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Move">
+    <Child ReferenceText="Basic">
+      <PageReference>DFA11-12</PageReference>
+    </Child>
+    <Child ReferenceText="encumbrance and">
+      <PageReference>DFA11</PageReference>
+      <PageReference>DFA12</PageReference>
+    </Child>
+    <Child ReferenceText="Water">
+      <PageReference>DFA12</PageReference>
+    </Child>
+    <Child ReferenceText="Air">
+      <PageReference>DFA12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical instruments">
+    <PageReference>DFA112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural preparations">
+    <PageReference>DFA115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Optics">
+    <PageReference>DFA114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orichalcum modifier">
+    <PageReference>DFA106</PageReference>
+    <PageReference>DFA107</PageReference>
+    <PageReference>DFA110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ornate modifier">
+    <PageReference>DFA106</PageReference>
+    <PageReference>DFA107</PageReference>
+    <PageReference>DFA110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parry weapon stat">
+    <PageReference>DFA97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perception (Per) secondary characteristic">
+    <PageReference>DFA10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisons">
+    <PageReference>DFA115-116</PageReference>
+    <Child ReferenceText="skill">
+      <PageReference>DFA85-86</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Potions">
+    <PageReference>DFA116-117</PageReference>
+    <SeeAlso>Concoctions</SeeAlso>
+    <Child ReferenceText="belt">
+      <PageReference>DFA112</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power items">
+    <PageReference>DFA115</PageReference>
+    <Child ReferenceText="recharging">
+      <PageReference>DFA115</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Prerequisites">
+    <Child ReferenceText="skills">
+      <PageReference>DFA4</PageReference>
+      <PageReference>DFA69</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Professional templates">
+    <Child ReferenceText="descriptions">
+      <PageReference>DFA15-41</PageReference>
+    </Child>
+    <Child ReferenceText="list">
+      <PageReference>DFA13</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DFA7</PageReference>
+      <PageReference>DFA13</PageReference>
+    </Child>
+    <Child ReferenceText="understanding">
+      <PageReference>DFA13-14</PageReference>
+    </Child>
+    <Child ReferenceText="customizing">
+      <PageReference>DFA14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Projectiles">
+    <SeeAlso>Ammunition</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Contest">
+    <Child ReferenceText="definition">
+      <PageReference>DFA6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Quirks">
+    <PageReference>DFA14</PageReference>
+    <PageReference>DFA68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Racial templates">
+    <Child ReferenceText="descriptions">
+      <PageReference>DFA43-45</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DFA42</PageReference>
+    </Child>
+    <Child ReferenceText="understanding">
+      <PageReference>DFA42</PageReference>
+    </Child>
+    <Child ReferenceText="buying">
+      <PageReference>DFA42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Range weapon stat">
+    <PageReference>DFA97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reach weapon stat">
+    <PageReference>DFA97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction roll">
+    <Child ReferenceText="definition">
+      <PageReference>DFA4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Roleplaying">
+    <Child ReferenceText="overview">
+      <PageReference>DFA3</PageReference>
+    </Child>
+    <Child ReferenceText="terms">
+      <PageReference>DFA4</PageReference>
+    </Child>
+    <Child ReferenceText="game contents">
+      <PageReference>DFA5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rounding">
+    <PageReference>DFA6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rules terms">
+    <PageReference>DFA4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sapience">
+    <PageReference>DFA9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scholarly gear">
+    <PageReference>DFA114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scout template">
+    <PageReference>DFA34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrolls">
+    <PageReference>DFA117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secondary characteristics">
+    <Child ReferenceText="overview">
+      <PageReference>DFA7</PageReference>
+      <PageReference>DFA9</PageReference>
+    </Child>
+    <Child ReferenceText="descriptions">
+      <PageReference>DFA9-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Security gear">
+    <PageReference>DFA113-114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-control rolls">
+    <PageReference>DFA55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sentience">
+    <PageReference>DFA9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <PageReference>DFA107</PageReference>
+    <Child ReferenceText="skill">
+      <PageReference>DFA88-89</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shots weapon stat">
+    <PageReference>DFA97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silver modifier">
+    <PageReference>DFA106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Size Modifier (SM) secondary characteristic">
+    <PageReference>DFA12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="advantages and">
+      <PageReference>DFA71</PageReference>
+    </Child>
+    <Child ReferenceText="base">
+      <PageReference>DFA70-71</PageReference>
+    </Child>
+    <Child ReferenceText="buying">
+      <PageReference>DFA69-70</PageReference>
+    </Child>
+    <Child ReferenceText="chi">
+      <PageReference>DFA31-34</PageReference>
+    </Child>
+    <Child ReferenceText="combat">
+      <PageReference>DFA73-75</PageReference>
+      <PageReference>DFA79-83</PageReference>
+      <PageReference>DFA88</PageReference>
+      <PageReference>DFA91-94</PageReference>
+    </Child>
+    <Child ReferenceText="controlling attribute">
+      <PageReference>DFA69</PageReference>
+    </Child>
+    <Child ReferenceText="dagger marked">
+      <PageReference>DFA72</PageReference>
+    </Child>
+    <Child ReferenceText="defaults">
+      <PageReference>DFA69</PageReference>
+      <PageReference>DFA71</PageReference>
+    </Child>
+    <Child ReferenceText="descriptions">
+      <PageReference>DFA72-94</PageReference>
+    </Child>
+    <Child ReferenceText="difficulty">
+      <PageReference>DFA69</PageReference>
+    </Child>
+    <Child ReferenceText="druidic">
+      <PageReference>DFA24-25</PageReference>
+    </Child>
+    <Child ReferenceText="effective">
+      <PageReference>DFA70-71</PageReference>
+    </Child>
+    <Child ReferenceText="holy">
+      <PageReference>DFA22</PageReference>
+      <PageReference>DFA27</PageReference>
+    </Child>
+    <Child ReferenceText="improving">
+      <PageReference>DFA70</PageReference>
+    </Child>
+    <Child ReferenceText="key">
+      <PageReference>DFA82</PageReference>
+    </Child>
+    <Child ReferenceText="modifying list">
+      <PageReference>DFA93</PageReference>
+    </Child>
+    <Child ReferenceText="other attributes and">
+      <PageReference>DFA71</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DFA4</PageReference>
+      <PageReference>DFA8</PageReference>
+    </Child>
+    <Child ReferenceText="picking">
+      <PageReference>DFA72</PageReference>
+    </Child>
+    <Child ReferenceText="prerequisites">
+      <PageReference>DFA4</PageReference>
+      <PageReference>DFA69</PageReference>
+    </Child>
+    <Child ReferenceText="removing">
+      <PageReference>DFA93</PageReference>
+    </Child>
+    <Child ReferenceText="specialties">
+      <PageReference>DFA72</PageReference>
+    </Child>
+    <Child ReferenceText="understanding">
+      <PageReference>DFA69</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>DFA70-71</PageReference>
+    </Child>
+    <Child ReferenceText="adding">
+      <PageReference>DFA93</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Speaking from Experience">
+    <PageReference>DFA17</PageReference>
+    <PageReference>DFA23</PageReference>
+    <PageReference>DFA26</PageReference>
+    <PageReference>DFA29</PageReference>
+    <PageReference>DFA37</PageReference>
+    <PageReference>DFA42</PageReference>
+    <PageReference>DFA48</PageReference>
+    <PageReference>DFA54</PageReference>
+    <PageReference>DFA57</PageReference>
+    <PageReference>DFA62</PageReference>
+    <PageReference>DFA70</PageReference>
+    <PageReference>DFA74</PageReference>
+    <PageReference>DFA76</PageReference>
+    <PageReference>DFA80</PageReference>
+    <PageReference>DFA84</PageReference>
+    <PageReference>DFA90</PageReference>
+    <PageReference>DFA107</PageReference>
+    <PageReference>DFA113</PageReference>
+    <PageReference>DFA117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specialties">
+    <Child ReferenceText="skill">
+      <PageReference>DFA72</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed">
+    <SeeAlso>Basic Speed</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spellcasting overview">
+    <PageReference>DFA8</PageReference>
+    <Child ReferenceText="bardic">
+      <PageReference>DFA19</PageReference>
+    </Child>
+    <Child ReferenceText="clerical">
+      <PageReference>DFA19-21</PageReference>
+    </Child>
+    <Child ReferenceText="druidic">
+      <PageReference>DFA23</PageReference>
+      <PageReference>DFA24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spiked modifier">
+    <PageReference>DFA110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ST (Strength) weapon stat">
+    <PageReference>DFA98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strength (ST) attribute">
+    <PageReference>DFA8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Success rolls">
+    <Child ReferenceText="overview">
+      <PageReference>DFA4</PageReference>
+      <PageReference>DFA5</PageReference>
+      <PageReference>DFA70</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival gear">
+    <PageReference>DFA111-113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swashbuckler template">
+    <PageReference>DFA36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="Basic Lift and encumbrance">
+      <PageReference>DFA11</PageReference>
+    </Child>
+    <Child ReferenceText="damage">
+      <PageReference>DFA10</PageReference>
+    </Child>
+    <Child ReferenceText="encumbrance and move">
+      <PageReference>DFA11</PageReference>
+    </Child>
+    <Child ReferenceText="magic weapons and armor">
+      <PageReference>DFA117</PageReference>
+    </Child>
+    <Child ReferenceText="melee weapons">
+      <PageReference>DFA98</PageReference>
+    </Child>
+    <Child ReferenceText="power items">
+      <PageReference>DFA115</PageReference>
+    </Child>
+    <Child ReferenceText="probability of success">
+      <PageReference>DFA70</PageReference>
+    </Child>
+    <Child ReferenceText="ranged weapons">
+      <PageReference>DFA103</PageReference>
+    </Child>
+    <Child ReferenceText="scroll">
+      <PageReference>DFA117</PageReference>
+    </Child>
+    <Child ReferenceText="self-control number">
+      <PageReference>DFA55</PageReference>
+    </Child>
+    <Child ReferenceText="shield">
+      <PageReference>DFA107</PageReference>
+    </Child>
+    <Child ReferenceText="Size Modifier">
+      <PageReference>DFA12</PageReference>
+    </Child>
+    <Child ReferenceText="skill cost">
+      <PageReference>DFA70</PageReference>
+    </Child>
+    <Child ReferenceText="Wealth">
+      <PageReference>DFA96</PageReference>
+    </Child>
+    <Child ReferenceText="weapon damage types">
+      <PageReference>DFA97</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>DFA108</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <SeeAlso>Professional Templates</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Thief template">
+    <PageReference>DFA38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thieves’ modifier">
+    <PageReference>DFA110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tools">
+    <PageReference>DFA112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Town">
+    <Child ReferenceText="gear and">
+      <PageReference>DFA96</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Traits">
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Attributes</SeeAlso>
+    <SeeAlso>Disadvantages</SeeAlso>
+    <SeeAlso>Secondary Characteristics</SeeAlso>
+    <SeeAlso>Skills</SeeAlso>
+    <SeeAlso>trait indexes</SeeAlso>
+    <Child ReferenceText="definition">
+      <PageReference>DFA4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Turn">
+    <Child ReferenceText="definition">
+      <PageReference>DFA4</PageReference>
+      <PageReference>DFA6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Units">
+    <Child ReferenceText="measurement">
+      <PageReference>DFA6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Very fine modifier">
+    <PageReference>DFA106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>DFA96-106</PageReference>
+    <SeeAlso>Ammunition</SeeAlso>
+    <SeeAlso>Gear</SeeAlso>
+    <SeeAlso>specific skills in Skills Index</SeeAlso>
+    <Child ReferenceText="choosing">
+      <PageReference>DFA96</PageReference>
+    </Child>
+    <Child ReferenceText="designating Signature">
+      <PageReference>DFA95-95</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>DFA117-118</PageReference>
+    </Child>
+    <Child ReferenceText="melee list">
+      <PageReference>DFA98-103</PageReference>
+    </Child>
+    <Child ReferenceText="melee skills">
+      <PageReference>DFA77</PageReference>
+      <PageReference>DFA80-82</PageReference>
+      <PageReference>DFA88-89</PageReference>
+      <PageReference>DFA93-94</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>DFA106</PageReference>
+    </Child>
+    <Child ReferenceText="ranged skills">
+      <PageReference>DFA73</PageReference>
+      <PageReference>DFA80</PageReference>
+      <PageReference>DFA83</PageReference>
+      <PageReference>DFA84</PageReference>
+      <PageReference>DFA91-92</PageReference>
+    </Child>
+    <Child ReferenceText="stat explanation">
+      <PageReference>DFA96</PageReference>
+    </Child>
+    <Child ReferenceText="useful at default DX">
+      <PageReference>DFA99</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weight weapon stat">
+    <PageReference>DFA98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Will secondary characteristic">
+    <PageReference>DFA10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizard template">
+    <PageReference>DFA40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Writing equipment">
+    <PageReference>DFA112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombani">
+    <Child ReferenceText="Francesco">
+      <PageReference>DFA120</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Absolute Direction">
+    <PageReference>DFA46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acute">
+    <Child ReferenceText="Senses">
+      <PageReference>DFA46-47</PageReference>
+    </Child>
+    <Child ReferenceText="Taste and Smell">
+      <PageReference>DFA46</PageReference>
+    </Child>
+    <Child ReferenceText="Touch">
+      <PageReference>DFA46</PageReference>
+    </Child>
+    <Child ReferenceText="Vision">
+      <PageReference>DFA47</PageReference>
+    </Child>
+    <Child ReferenceText="Hearing">
+      <PageReference>DFA46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambidexterity">
+    <PageReference>DFA47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Empathy">
+    <PageReference>DFA47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Friend">
+    <PageReference>DFA47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance">
+    <PageReference>DFA47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor Familiarity">
+    <PageReference>DFA37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor Mastery">
+    <PageReference>DFA28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bardic Talent">
+    <PageReference>DFA17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beast Flight">
+    <PageReference>DFA24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Born Entertainer">
+    <PageReference>DFA47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Born War-Leader">
+    <PageReference>DFA47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catfall">
+    <PageReference>DFA39</PageReference>
+    <PageReference>DFA43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charisma">
+    <PageReference>DFA48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi Talent">
+    <PageReference>DFA30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical Investment">
+    <PageReference>DFA22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Reflexes">
+    <PageReference>DFA48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contingency Casting">
+    <PageReference>DFA20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Control Animal">
+    <PageReference>DFA24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Adaptability">
+    <PageReference>DFA48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Danger Sense">
+    <PageReference>DFA48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Daredevil">
+    <PageReference>DFA37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect">
+    <Child ReferenceText="Good">
+      <PageReference>DFA26</PageReference>
+    </Child>
+    <Child ReferenceText="Evil">
+      <PageReference>DFA20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Discriminatory Smell">
+    <PageReference>DFA16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine">
+    <Child ReferenceText="Omens">
+      <PageReference>DFA20</PageReference>
+    </Child>
+    <Child ReferenceText="Guidance">
+      <PageReference>DFA20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Double-Jointed">
+    <PageReference>DFA49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragon Skin">
+    <PageReference>DFA31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarven Gear">
+    <PageReference>DFA43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eidetic Memory">
+    <PageReference>DFA48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elven Gear">
+    <PageReference>DFA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Empathy">
+    <PageReference>DFA48</PageReference>
+    <Child ReferenceText="Animal">
+      <PageReference>DFA47</PageReference>
+    </Child>
+    <Child ReferenceText="Plant">
+      <PageReference>DFA24</PageReference>
+    </Child>
+    <Child ReferenceText="Spirit">
+      <PageReference>DFA53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy Reserve">
+    <PageReference>DFA48-49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Block, Dodge, or Parry">
+    <PageReference>DFA49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Time Sense">
+    <PageReference>DFA37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Every One’s a Critical">
+    <PageReference>DFA37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expert Backstabbing">
+    <PageReference>DFA39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Attack">
+    <PageReference>DFA49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extraordinary Luck">
+    <PageReference>DFA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faith Healing">
+    <PageReference>DFA21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fearlessness">
+    <PageReference>DFA49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fit">
+    <PageReference>DFA49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flexibility">
+    <PageReference>DFA49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forest Guardian">
+    <PageReference>DFA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gizmos">
+    <PageReference>DFA39</PageReference>
+    <PageReference>DFA41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great Void">
+    <PageReference>DFA37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Green Thumb">
+    <PageReference>DFA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Halfling Marksmanship">
+    <PageReference>DFA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard to Kill">
+    <PageReference>DFA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard to Subdue">
+    <PageReference>DFA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healer">
+    <PageReference>DFA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heroic">
+    <Child ReferenceText="Grace">
+      <PageReference>DFA26</PageReference>
+    </Child>
+    <Child ReferenceText="Might">
+      <PageReference>DFA26</PageReference>
+    </Child>
+    <Child ReferenceText="Vitality">
+      <PageReference>DFA26</PageReference>
+    </Child>
+    <Child ReferenceText="Feats">
+      <PageReference>DFA26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heroic Archer">
+    <PageReference>DFA35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High Manual Dexterity">
+    <PageReference>DFA39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High Pain Threshold">
+    <PageReference>DFA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Higher Purpose">
+    <PageReference>DFA27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holiness">
+    <PageReference>DFA26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Honest Face">
+    <PageReference>DFA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improved Magic Resistance">
+    <PageReference>DFA41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intuition">
+    <PageReference>DFA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Language Talent">
+    <PageReference>DFA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifting ST">
+    <PageReference>DFA16</PageReference>
+    <PageReference>DFA43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luck">
+    <PageReference>DFA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery">
+    <PageReference>DFA41</PageReference>
+    <PageReference>DFA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Resistance">
+    <PageReference>DFA51</PageReference>
+    <Child ReferenceText="Improved">
+      <PageReference>DFA41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mantis Strike">
+    <PageReference>DFA31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Shield">
+    <PageReference>DFA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-Aim">
+    <PageReference>DFA35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nature’s Shield">
+    <PageReference>DFA24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night Vision">
+    <PageReference>DFA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outdoorsman">
+    <PageReference>DFA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Penetrating Voice">
+    <PageReference>DFA52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perfect Balance">
+    <PageReference>DFA52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peripheral Vision">
+    <PageReference>DFA52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Photographic Memory">
+    <PageReference>DFA48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pickaxe Penchant">
+    <PageReference>DFA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plant Empathy">
+    <PageReference>DFA24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Investiture">
+    <PageReference>DFA20</PageReference>
+    <PageReference>DFA23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rallying Cry">
+    <PageReference>DFA28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Healing">
+    <PageReference>DFA52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapier Wit">
+    <PageReference>DFA37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recovery">
+    <PageReference>DFA52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regeneration">
+    <PageReference>DFA31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resist Evil">
+    <PageReference>DFA27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant">
+    <Child ReferenceText="to Poison">
+      <PageReference>DFA52</PageReference>
+    </Child>
+    <Child ReferenceText="to Disease">
+      <PageReference>DFA52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rest in Pieces">
+    <PageReference>DFA27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ridiculous Luck">
+    <PageReference>DFA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrificial">
+    <Child ReferenceText="Parry">
+      <PageReference>DFA29</PageReference>
+    </Child>
+    <Child ReferenceText="Block">
+      <PageReference>DFA28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensitive Touch">
+    <PageReference>DFA39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serendipity">
+    <PageReference>DFA52-53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seven Secret Kicks">
+    <PageReference>DFA31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharp Claws">
+    <PageReference>DFA43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharp Teeth">
+    <PageReference>DFA43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shield Mastery">
+    <PageReference>DFA29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shield-Wall Training">
+    <PageReference>DFA29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signature Gear">
+    <PageReference>DFA53</PageReference>
+    <PageReference>DFA95-96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silence">
+    <PageReference>DFA35</PageReference>
+    <PageReference>DFA39</PageReference>
+    <PageReference>DFA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Song">
+    <Child ReferenceText="of Echoes">
+      <PageReference>DFA18</PageReference>
+    </Child>
+    <Child ReferenceText="of Humiliation">
+      <PageReference>DFA18</PageReference>
+    </Child>
+    <Child ReferenceText="of Sending">
+      <PageReference>DFA18</PageReference>
+    </Child>
+    <Child ReferenceText="of Terror">
+      <PageReference>DFA18</PageReference>
+    </Child>
+    <Child ReferenceText="of the Wild">
+      <PageReference>DFA18</PageReference>
+    </Child>
+    <Child ReferenceText="of Command">
+      <PageReference>DFA18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Speak">
+    <Child ReferenceText="with Plants">
+      <PageReference>DFA24</PageReference>
+    </Child>
+    <Child ReferenceText="with Animals">
+      <PageReference>DFA24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spider Climb">
+    <PageReference>DFA31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Empathy">
+    <PageReference>DFA53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Springing Attack">
+    <PageReference>DFA37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Striking ST">
+    <PageReference>DFA53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strongbow">
+    <PageReference>DFA35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telescopic Vision">
+    <PageReference>DFA35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature Tolerance">
+    <PageReference>DFA16</PageReference>
+    <PageReference>DFA43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiger Sprint">
+    <PageReference>DFA31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tough Skin">
+    <PageReference>DFA16</PageReference>
+    <PageReference>DFA44</PageReference>
+    <PageReference>DFA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trademark Move">
+    <PageReference>DFA53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trained by a Master">
+    <PageReference>DFA31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turning">
+    <PageReference>DFA21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unarmed Master">
+    <PageReference>DFA31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unfazeable">
+    <PageReference>DFA53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uninterrupted Flurry">
+    <PageReference>DFA31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Very Fit">
+    <PageReference>DFA49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Very Rapid Healing">
+    <PageReference>DFA52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voice">
+    <PageReference>DFA54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth">
+    <PageReference>DFA54</PageReference>
+    <PageReference>DFA96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Bond">
+    <PageReference>DFA54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Master">
+    <PageReference>DFA54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Widget-Worker">
+    <PageReference>DFA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild Magic">
+    <PageReference>DFA41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild Talent">
+    <PageReference>DFA54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Absent-Mindedness">
+    <PageReference>DFA56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance">
+    <PageReference>DFA56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad Temper">
+    <PageReference>DFA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Berserk">
+    <PageReference>DFA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blindness">
+    <PageReference>DFA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bloodlust">
+    <PageReference>DFA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bully">
+    <PageReference>DFA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Callous">
+    <PageReference>DFA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charitable">
+    <PageReference>DFA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chummy">
+    <PageReference>DFA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clueless">
+    <PageReference>DFA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor">
+    <PageReference>DFA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Paralysis">
+    <PageReference>DFA58-59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compulsive Behavior">
+    <PageReference>DFA59</PageReference>
+    <Child ReferenceText="Gambling">
+      <PageReference>DFA59</PageReference>
+    </Child>
+    <Child ReferenceText="Generosity">
+      <PageReference>DFA59</PageReference>
+    </Child>
+    <Child ReferenceText="Lying">
+      <PageReference>DFA59</PageReference>
+    </Child>
+    <Child ReferenceText="Spending">
+      <PageReference>DFA59</PageReference>
+    </Child>
+    <Child ReferenceText="Vowing">
+      <PageReference>DFA59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cowardice">
+    <PageReference>DFA59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curious">
+    <PageReference>DFA59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disciplines of Faith">
+    <PageReference>DFA59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Easy to Read">
+    <PageReference>DFA60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fanaticism">
+    <PageReference>DFA60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fat">
+    <PageReference>DFA64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frightens Animals">
+    <PageReference>DFA60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gluttony">
+    <PageReference>DFA60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greed">
+    <PageReference>DFA60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gregarious">
+    <PageReference>DFA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gullibility">
+    <PageReference>DFA61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ham-Fisted">
+    <PageReference>DFA61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard of Hearing">
+    <PageReference>DFA61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Honesty">
+    <PageReference>DFA61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illiteracy">
+    <PageReference>DFA9</PageReference>
+    <PageReference>DFA61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impulsiveness">
+    <PageReference>DFA61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intolerance">
+    <PageReference>DFA61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jealousy">
+    <PageReference>DFA61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kleptomania">
+    <PageReference>DFA62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Klutz">
+    <PageReference>DFA62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lame">
+    <PageReference>DFA62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laziness">
+    <PageReference>DFA62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lecherousness">
+    <PageReference>DFA62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loner">
+    <PageReference>DFA63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low Pain Threshold">
+    <PageReference>DFA63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miserliness">
+    <PageReference>DFA63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nervous Stomach">
+    <PageReference>DFA63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Sense of Humor">
+    <PageReference>DFA63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oblivious">
+    <PageReference>DFA63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obsession">
+    <PageReference>DFA63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Odious Personal Habit">
+    <PageReference>DFA63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One">
+    <Child ReferenceText="Eye">
+      <PageReference>DFA63-64</PageReference>
+    </Child>
+    <Child ReferenceText="Hand">
+      <PageReference>DFA64</PageReference>
+    </Child>
+    <Child ReferenceText="Arm">
+      <PageReference>DFA63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Overconfidence">
+    <PageReference>DFA64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Overweight">
+    <PageReference>DFA64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paranoia">
+    <PageReference>DFA64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phobia">
+    <PageReference>DFA64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Post-Combat Shakes">
+    <PageReference>DFA65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyromania">
+    <PageReference>DFA65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quirks">
+    <PageReference>DFA68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Selfless">
+    <PageReference>DFA65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense of Duty">
+    <PageReference>DFA65-66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Short Attention Span">
+    <PageReference>DFA66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skinny">
+    <PageReference>DFA66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma">
+    <PageReference>DFA66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stubbornness">
+    <PageReference>DFA66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Total Klutz">
+    <PageReference>DFA62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trickster">
+    <PageReference>DFA66-67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Truthfulness">
+    <PageReference>DFA67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unfit">
+    <PageReference>DFA67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unnatural Features">
+    <PageReference>DFA67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Very Unfit">
+    <PageReference>DFA67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vow">
+    <PageReference>DFA67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth">
+    <PageReference>DFA67</PageReference>
+    <PageReference>DFA96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weirdness Magnet">
+    <PageReference>DFA67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wounded">
+    <PageReference>DFA67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Xenophilia">
+    <PageReference>DFA68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatics">
+    <PageReference>DFA72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acting">
+    <PageReference>DFA72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy">
+    <PageReference>DFA72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Handling">
+    <PageReference>DFA72-73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armory">
+    <PageReference>DFA73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Autohypnosis">
+    <PageReference>DFA31-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Axe/Mace">
+    <PageReference>DFA81</PageReference>
+    <SeeAlso>Two-Handed Axe/Mace</SeeAlso>
+    <Child ReferenceText="examples">
+      <PageReference>DFA98</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Blind Fighting">
+    <PageReference>DFA32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blowpipe">
+    <PageReference>DFA83</PageReference>
+    <PageReference>DFA97</PageReference>
+    <Child ReferenceText="ammunition">
+      <PageReference>DFA104</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>DFA103</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Boating">
+    <PageReference>DFA73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body Control">
+    <PageReference>DFA32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body Sense">
+    <PageReference>DFA73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bolas">
+    <PageReference>DFA73</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA103</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bow">
+    <PageReference>DFA83</PageReference>
+    <PageReference>DFA97</PageReference>
+    <Child ReferenceText="ammunition">
+      <PageReference>DFA104</PageReference>
+      <PageReference>DFA105</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>DFA104</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Boxing">
+    <PageReference>DFA93</PageReference>
+    <Child ReferenceText="weapon examples">
+      <PageReference>DFA99</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brawling">
+    <PageReference>DFA93-94</PageReference>
+    <Child ReferenceText="weapon examples">
+      <PageReference>DFA99</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Breaking Blow">
+    <PageReference>DFA32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breath Control">
+    <PageReference>DFA32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Broadsword">
+    <PageReference>DFA81</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA99</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Camouflage">
+    <PageReference>DFA73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carousing">
+    <PageReference>DFA73-74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cartography">
+    <PageReference>DFA74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Climbing">
+    <PageReference>DFA74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloak">
+    <PageReference>DFA74</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA107</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat skills">
+    <PageReference>DFA73-75</PageReference>
+    <PageReference>DFA79-83</PageReference>
+    <PageReference>DFA88</PageReference>
+    <PageReference>DFA91-94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Connoisseur">
+    <PageReference>DFA74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Counterfeiting">
+    <PageReference>DFA74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossbow">
+    <PageReference>DFA83</PageReference>
+    <PageReference>DFA97</PageReference>
+    <Child ReferenceText="ammunition">
+      <PageReference>DFA104</PageReference>
+      <PageReference>DFA105</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>DFA104</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Current Affairs">
+    <PageReference>DFA74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dancing">
+    <PageReference>DFA75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect Lies">
+    <PageReference>DFA75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diagnosis">
+    <PageReference>DFA75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diplomacy">
+    <PageReference>DFA75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disguise">
+    <PageReference>DFA75</PageReference>
+    <Child ReferenceText="Animals">
+      <PageReference>DFA75</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Escape">
+    <PageReference>DFA75-76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Esoteric Medicine">
+    <PageReference>DFA22</PageReference>
+    <PageReference>DFA25</PageReference>
+    <PageReference>DFA32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Draw">
+    <PageReference>DFA76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Talk">
+    <PageReference>DFA76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Filch">
+    <PageReference>DFA76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="First Aid">
+    <PageReference>DFA76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fishing">
+    <PageReference>DFA76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flail">
+    <PageReference>DFA81</PageReference>
+    <SeeAlso>Two-Handed Flail</SeeAlso>
+    <Child ReferenceText="examples">
+      <PageReference>DFA99</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Forced Entry">
+    <PageReference>DFA77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forgery">
+    <PageReference>DFA77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gambling">
+    <PageReference>DFA77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Garrote">
+    <PageReference>DFA77</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA99</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gesture">
+    <PageReference>DFA77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hazardous Materials">
+    <PageReference>DFA77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heraldry">
+    <PageReference>DFA77-78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Herb Lore">
+    <PageReference>DFA25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden Lore">
+    <PageReference>DFA78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hiking">
+    <PageReference>DFA78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holdout">
+    <PageReference>DFA78-79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immovable Stance">
+    <PageReference>DFA32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Innate Attack">
+    <PageReference>DFA79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interrogation">
+    <PageReference>DFA79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intimidation">
+    <PageReference>DFA79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jitte/Sai">
+    <PageReference>DFA81</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA99</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Judo">
+    <PageReference>DFA92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumping">
+    <PageReference>DFA79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Karate">
+    <PageReference>DFA94</PageReference>
+    <Child ReferenceText="weapon examples">
+      <PageReference>DFA99</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kiai">
+    <PageReference>DFA32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knife">
+    <PageReference>DFA81</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA100</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Knot-Tying">
+    <PageReference>DFA79-80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kusari">
+    <PageReference>DFA82</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA100</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lasso">
+    <PageReference>DFA80</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA104</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Leadership">
+    <PageReference>DFA80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifting">
+    <PageReference>DFA80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light Walk">
+    <PageReference>DFA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lip Reading">
+    <PageReference>DFA80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lockpicking">
+    <PageReference>DFA80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-Handed Axe/Mace">
+    <SeeAlso>Axe/Mace</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Main-Gauche">
+    <PageReference>DFA81</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA100</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Meditation">
+    <PageReference>DFA80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee weapon skills">
+    <PageReference>DFA80-82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental Strength">
+    <PageReference>DFA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchant">
+    <PageReference>DFA82-83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mimicry">
+    <PageReference>DFA83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Block">
+    <PageReference>DFA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missile weapon skills">
+    <PageReference>DFA83</PageReference>
+    <PageReference>DFA97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical Composition">
+    <PageReference>DFA83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical Instrument">
+    <PageReference>DFA83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naturalist">
+    <PageReference>DFA83-84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Navigation">
+    <PageReference>DFA84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Net">
+    <PageReference>DFA84</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA104</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Observation">
+    <PageReference>DFA84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occultism">
+    <PageReference>DFA84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Panhandling">
+    <PageReference>DFA84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parry Missile Weapons">
+    <PageReference>DFA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Performance">
+    <PageReference>DFA84-85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pharmacy">
+    <PageReference>DFA85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Physiology">
+    <PageReference>DFA85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pickpocket">
+    <PageReference>DFA85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poetry">
+    <PageReference>DFA85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisons">
+    <PageReference>DFA85-86</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA115-116</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Polearm">
+    <PageReference>DFA81</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA101</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Blow">
+    <PageReference>DFA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure Points">
+    <PageReference>DFA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Propaganda">
+    <PageReference>DFA86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prospecting">
+    <PageReference>DFA86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychology">
+    <PageReference>DFA86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Public Speaking">
+    <PageReference>DFA86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Push">
+    <PageReference>DFA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapier">
+    <PageReference>DFA81</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA101</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious Ritual">
+    <PageReference>DFA86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Research">
+    <PageReference>DFA86-87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Riding">
+    <PageReference>DFA87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Running">
+    <PageReference>DFA87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saber">
+    <PageReference>DFA81</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA101</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sai">
+    <SeeAlso>Jitte/Sai</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Savoir-Faire">
+    <PageReference>DFA87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrounging">
+    <PageReference>DFA88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seamanship">
+    <PageReference>DFA88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Search">
+    <PageReference>DFA88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sex Appeal">
+    <PageReference>DFA88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadowing">
+    <PageReference>DFA88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shield">
+    <PageReference>DFA88-89</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA101</PageReference>
+      <PageReference>DFA107</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shortsword">
+    <PageReference>DFA81</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA101</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Singing">
+    <PageReference>DFA89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skiing">
+    <PageReference>DFA89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleight of Hand">
+    <PageReference>DFA89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sling">
+    <PageReference>DFA83</PageReference>
+    <Child ReferenceText="ammunition">
+      <PageReference>DFA104</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>DFA104</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smallsword">
+    <PageReference>DFA81</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA102</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smuggling">
+    <PageReference>DFA89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spear">
+    <PageReference>DFA81</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA102</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spear Thrower">
+    <PageReference>DFA83</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA104</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed-Reading">
+    <PageReference>DFA89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Staff">
+    <PageReference>DFA81</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA102</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stealth">
+    <PageReference>DFA89-90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strategy">
+    <PageReference>DFA90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Streetwise">
+    <PageReference>DFA90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sumo Wrestling">
+    <PageReference>DFA92-93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surgery">
+    <PageReference>DFA90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival">
+    <PageReference>DFA90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swimming">
+    <PageReference>DFA90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sword skills">
+    <PageReference>DFA81-82</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA99-103</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactics">
+    <PageReference>DFA91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teaching">
+    <PageReference>DFA91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thaumatology">
+    <PageReference>DFA91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Theology">
+    <PageReference>DFA91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throwing">
+    <PageReference>DFA91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throwing Art">
+    <PageReference>DFA34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrown Weapon">
+    <PageReference>DFA91-92</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA105</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tonfa">
+    <PageReference>DFA81</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA102</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracking">
+    <PageReference>DFA92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps">
+    <PageReference>DFA92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-Handed Axe/Mace">
+    <PageReference>DFA81</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA102</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-Handed Flail">
+    <Child ReferenceText="81 examples">
+      <PageReference>DFA102</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-Handed Sword">
+    <PageReference>DFA82</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA103</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unarmed">
+    <Child ReferenceText="striking skills">
+      <PageReference>DFA93</PageReference>
+    </Child>
+    <Child ReferenceText="grappling skills">
+      <PageReference>DFA92</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Urban Survival">
+    <PageReference>DFA94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ventriloquism">
+    <PageReference>DFA94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Veterinary">
+    <PageReference>DFA94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weather Sense">
+    <PageReference>DFA94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whip">
+    <PageReference>DFA82</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFA103</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrestling">
+    <PageReference>DFA93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Writing">
+    <PageReference>DFA94</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

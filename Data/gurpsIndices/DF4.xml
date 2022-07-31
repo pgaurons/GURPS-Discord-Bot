@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>DF4:4</PageReference>
+    <PageReference>DF4:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area Knowledge advantage">
+    <PageReference>DF4:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificers">
+    <PageReference>DF4:4-7</PageReference>
+    <PageReference>DF4:12</PageReference>
+    <Child ReferenceText="advantages">
+      <PageReference>DF4:4</PageReference>
+    </Child>
+    <Child ReferenceText="lens">
+      <PageReference>DF4:7</PageReference>
+    </Child>
+    <Child ReferenceText="tools">
+      <PageReference>DF4:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Book-Learned Wisdom advantage">
+    <PageReference>DF4:4</PageReference>
+    <PageReference>DF4:8</PageReference>
+    <Child ReferenceText="Gizmos and">
+      <PageReference>DF4:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Charged scroll">
+    <PageReference>DF4:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Common knowledge">
+    <PageReference>DF4:13-14</PageReference>
+    <SeeAlso>Writings</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Consumables">
+    <PageReference>DF4:4</PageReference>
+    <PageReference>DF4:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curators">
+    <PageReference>DF4:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeon Artificer talent">
+    <PageReference>DF4:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarven writing">
+    <PageReference>DF4:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Engineer (Gadgets)">
+    <PageReference>DF4:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Engineers">
+    <PageReference>DF4:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment Bond perk">
+    <PageReference>DF4:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Esoteric knowledge">
+    <PageReference>DF4:13</PageReference>
+    <SeeAlso>Writings</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Faerie writing">
+    <PageReference>DF4:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgets">
+    <PageReference>DF4:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <PageReference>DF4:12-16</PageReference>
+    <Child ReferenceText="scrolls">
+      <PageReference>DF4:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gizmos advantage">
+    <PageReference>DF4:4</PageReference>
+    <PageReference>DF4:7</PageReference>
+    <Child ReferenceText="uses">
+      <PageReference>DF4:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grimoires">
+    <PageReference>DF4:13-14</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>DF4:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Knowledge">
+    <PageReference>DF4:13-14</PageReference>
+    <SeeAlso>Writings</SeeAlso>
+    <Child ReferenceText="common">
+      <PageReference>DF4:14</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>DF4:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <Child ReferenceText="scholar">
+      <PageReference>DF4:9-11</PageReference>
+    </Child>
+    <Child ReferenceText="artificer">
+      <PageReference>DF4:5-7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mad inventors">
+    <PageReference>DF4:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manuals">
+    <PageReference>DF4:13</PageReference>
+    <SeeAlso>Writing</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Maps">
+    <PageReference>DF4:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Media, scrolls">
+    <PageReference>DF4:15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modular abilities">
+    <PageReference>DF4:8</PageReference>
+    <SeeAlso>Writings</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Obscure knowledge">
+    <PageReference>DF4:13</PageReference>
+    <SeeAlso>Writings</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Perk, Equipment Bond">
+    <PageReference>DF4:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Primers">
+    <PageReference>DF4:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Production quality">
+    <PageReference>DF4:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Professors">
+    <PageReference>DF4:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Gadgeteer advantage">
+    <PageReference>DF4:4-5</PageReference>
+    <PageReference>DF4:7</PageReference>
+    <Child ReferenceText="uses">
+      <PageReference>DF4:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scholars">
+    <PageReference>DF4:8-11</PageReference>
+    <Child ReferenceText="advantages">
+      <PageReference>DF4:8</PageReference>
+    </Child>
+    <Child ReferenceText="lens">
+      <PageReference>DF4:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrolls">
+    <PageReference>DF4:14-16</PageReference>
+    <Child ReferenceText="media">
+      <PageReference>DF4:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="on zombies">
+      <PageReference>DF4:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrounging">
+    <PageReference>DF4:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spellbooks">
+    <PageReference>DF4:13-14</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>DF4:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talent, Dungeon Artificer">
+    <PageReference>DF4:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tattooed scrolls">
+    <PageReference>DF4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Textbooks">
+    <PageReference>DF4:13</PageReference>
+    <SeeAlso>Writings</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Theses">
+    <PageReference>DF4:13</PageReference>
+    <SeeAlso>Writings</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps">
+    <PageReference>DF4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal scrolls">
+    <PageReference>DF4:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uses">
+    <PageReference>DF4:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild Talent advantage">
+    <PageReference>DF4:7-8</PageReference>
+    <Child ReferenceText="uses">
+      <PageReference>DF4:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wise men">
+    <PageReference>DF4:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Writings">
+    <PageReference>DF4:13-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombie scrolls">
+    <PageReference>DF4:16</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

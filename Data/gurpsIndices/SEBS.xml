@@ -1,0 +1,1450 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Absent-Mindedness disadvantage">
+    <PageReference>SEBS14</PageReference>
+    <PageReference>SEBS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Academic organizations">
+    <PageReference>SEBS27-31</PageReference>
+    <SeeAlso>Teaching</SeeAlso>
+    <SeeAlso>Teachers</SeeAlso>
+    <SeeAlso>Learning</SeeAlso>
+    <SeeAlso>Learners</SeeAlso>
+    <Child ReferenceText="as cities">
+      <PageReference>SEBS33</PageReference>
+    </Child>
+    <Child ReferenceText="as Contacts">
+      <PageReference>SEBS27</PageReference>
+    </Child>
+    <Child ReferenceText="assistance">
+      <PageReference>SEBS27-28</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>SEBS28</PageReference>
+    </Child>
+    <Child ReferenceText="external communities and">
+      <PageReference>SEBS33</PageReference>
+    </Child>
+    <Child ReferenceText="facilities">
+      <PageReference>SEBS28-29</PageReference>
+    </Child>
+    <Child ReferenceText="funding resources">
+      <PageReference>SEBS29</PageReference>
+    </Child>
+    <Child ReferenceText="hidden">
+      <PageReference>SEBS33</PageReference>
+    </Child>
+    <Child ReferenceText="information resources">
+      <PageReference>SEBS29-30</PageReference>
+    </Child>
+    <Child ReferenceText="internal community">
+      <PageReference>SEBS33</PageReference>
+    </Child>
+    <Child ReferenceText="introductions from">
+      <PageReference>SEBS31</PageReference>
+    </Child>
+    <Child ReferenceText="licenses">
+      <PageReference>SEBS31</PageReference>
+    </Child>
+    <Child ReferenceText="ownership">
+      <PageReference>SEBS32</PageReference>
+    </Child>
+    <Child ReferenceText="Patron value">
+      <PageReference>SEBS27</PageReference>
+    </Child>
+    <Child ReferenceText="price of attending">
+      <PageReference>SEBS27</PageReference>
+    </Child>
+    <Child ReferenceText="private">
+      <PageReference>SEBS29</PageReference>
+    </Child>
+    <Child ReferenceText="Rank in">
+      <PageReference>SEBS27-28</PageReference>
+    </Child>
+    <Child ReferenceText="relationships with other organizations">
+      <PageReference>SEBS32-33</PageReference>
+    </Child>
+    <Child ReferenceText="resources">
+      <PageReference>SEBS28-31</PageReference>
+    </Child>
+    <Child ReferenceText="rivals">
+      <PageReference>SEBS33</PageReference>
+    </Child>
+    <Child ReferenceText="search for">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="searchable archives">
+      <PageReference>SEBS30</PageReference>
+    </Child>
+    <Child ReferenceText="statistics">
+      <PageReference>SEBS27</PageReference>
+    </Child>
+    <Child ReferenceText="technical means">
+      <PageReference>SEBS31</PageReference>
+    </Child>
+    <Child ReferenceText="virtual environments">
+      <PageReference>SEBS30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Accelerated Learning advantage">
+    <PageReference>SEBS13</PageReference>
+    <PageReference>SEBS37</PageReference>
+    <Child ReferenceText="drugs as">
+      <PageReference>SEBS14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Acting skill">
+    <PageReference>SEBS23</PageReference>
+    <Child ReferenceText="using">
+      <PageReference>SEBS26</PageReference>
+      <PageReference>SEBS33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Acute Senses advantage">
+    <PageReference>SEBS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advanced Learning perk">
+    <PageReference>SEBS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="gaining">
+      <PageReference>SEBS11-12</PageReference>
+    </Child>
+    <Child ReferenceText="learners">
+      <PageReference>SEBS13-14</PageReference>
+    </Child>
+    <Child ReferenceText="teachers">
+      <PageReference>SEBS20-21</PageReference>
+    </Child>
+    <Child ReferenceText="gaining physical">
+      <PageReference>SEBS12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Campaigns</SeeAlso>
+    <Child ReferenceText="first day">
+      <PageReference>SEBS7</PageReference>
+    </Child>
+    <Child ReferenceText="initiation">
+      <PageReference>SEBS8</PageReference>
+    </Child>
+    <Child ReferenceText="lessons">
+      <PageReference>SEBS7-8</PageReference>
+    </Child>
+    <Child ReferenceText="tests">
+      <PageReference>SEBS8</PageReference>
+    </Child>
+    <Child ReferenceText="training montages">
+      <PageReference>SEBS19-20</PageReference>
+    </Child>
+    <Child ReferenceText="coercive teaching">
+      <PageReference>SEBS20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Altered Time Rate advantage">
+    <PageReference>SEBS20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambidexterity advantage">
+    <PageReference>SEBS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anabolic steroids">
+    <PageReference>SEBS12</PageReference>
+    <PageReference>SEBS14</PageReference>
+    <PageReference>SEBS37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artist skill">
+    <PageReference>SEBS23</PageReference>
+    <Child ReferenceText="familiarity penalty">
+      <PageReference>SEBS10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attentive quirk">
+    <PageReference>SEBS15</PageReference>
+    <PageReference>SEBS30</PageReference>
+    <PageReference>SEBS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <Child ReferenceText="physical">
+      <PageReference>SEBS12</PageReference>
+    </Child>
+    <Child ReferenceText="point conversion">
+      <PageReference>SEBS10-11</PageReference>
+    </Child>
+    <Child ReferenceText="improving">
+      <PageReference>SEBS10-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Autohypnosis skill">
+    <PageReference>SEBS15-16</PageReference>
+    <Child ReferenceText="using">
+      <PageReference>SEBS30</PageReference>
+      <PageReference>SEBS37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bardic Lore Expert Skill">
+    <PageReference>SEBS23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bibliography">
+    <PageReference>SEBS39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blessed advantage">
+    <PageReference>SEBS20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body training">
+    <PageReference>SEBS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Born Researcher perk">
+    <PageReference>SEBS13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brain Hacking skill">
+    <PageReference>SEBS20</PageReference>
+    <PageReference>SEBS23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brainwashing">
+    <PageReference>SEBS20</PageReference>
+    <Child ReferenceText="skill">
+      <PageReference>SEBS20</PageReference>
+      <PageReference>SEBS23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bully disadvantage">
+    <PageReference>SEBS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Callous disadvantage">
+    <PageReference>SEBS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <PageReference>SEBS34-36</PageReference>
+    <SeeAlso>Adventures</SeeAlso>
+    <Child ReferenceText="point of view">
+      <PageReference>SEBS34-35</PageReference>
+    </Child>
+    <Child ReferenceText="price of instruction">
+      <PageReference>SEBS27</PageReference>
+    </Child>
+    <Child ReferenceText="tropes">
+      <PageReference>SEBS35</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>SEBS36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Can’t Read Music quirk">
+    <PageReference>SEBS15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannot Learn disadvantage">
+    <PageReference>SEBS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charisma advantage">
+    <PageReference>SEBS11</PageReference>
+    <PageReference>SEBS21</PageReference>
+    <Child ReferenceText="technique needing">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Children">
+    <PageReference>SEBS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Classes">
+    <SeeAlso>Teachers</SeeAlso>
+    <SeeAlso>Teaching</SeeAlso>
+    <Child ReferenceText="group study">
+      <PageReference>SEBS31</PageReference>
+    </Child>
+    <Child ReferenceText="loyalty">
+      <PageReference>SEBS26</PageReference>
+    </Child>
+    <Child ReferenceText="online">
+      <PageReference>SEBS32</PageReference>
+    </Child>
+    <Child ReferenceText="realism">
+      <PageReference>SEBS6</PageReference>
+    </Child>
+    <Child ReferenceText="roleplaying the first day">
+      <PageReference>SEBS7</PageReference>
+    </Child>
+    <Child ReferenceText="size of">
+      <PageReference>SEBS17-18</PageReference>
+    </Child>
+    <Child ReferenceText="assistants">
+      <PageReference>SEBS18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Coercive teaching">
+    <PageReference>SEBS20</PageReference>
+    <Child ReferenceText="loyalty">
+      <PageReference>SEBS26</PageReference>
+    </Child>
+    <Child ReferenceText="related traits">
+      <PageReference>SEBS21-23</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cognitive programming">
+    <PageReference>SEBS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="College Incompetence quirk">
+    <PageReference>SEBS15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Reflexes advantage">
+    <PageReference>SEBS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer Operation skill">
+    <PageReference>SEBS16</PageReference>
+    <PageReference>SEBS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts advantage">
+    <Child ReferenceText="complementary skills and">
+      <PageReference>SEBS16</PageReference>
+    </Child>
+    <Child ReferenceText="teachers">
+      <PageReference>SEBS8</PageReference>
+      <PageReference>SEBS29</PageReference>
+    </Child>
+    <Child ReferenceText="academic organizations">
+      <PageReference>SEBS27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Familiarity advantage">
+    <PageReference>SEBS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutting-Edge Training perk">
+    <PageReference>SEBS8</PageReference>
+    <PageReference>SEBS13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deafness disadvantage">
+    <PageReference>SEBS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deep Study perk">
+    <PageReference>SEBS13</PageReference>
+    <PageReference>SEBS21</PageReference>
+    <PageReference>SEBS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delusions disadvantage">
+    <PageReference>SEBS12</PageReference>
+    <PageReference>SEBS22</PageReference>
+    <Child ReferenceText="quirk level">
+      <PageReference>SEBS22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disciple perk">
+    <PageReference>SEBS13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <Child ReferenceText="gained by training montages">
+      <PageReference>SEBS19</PageReference>
+    </Child>
+    <Child ReferenceText="learners">
+      <PageReference>SEBS14-15</PageReference>
+    </Child>
+    <Child ReferenceText="removing">
+      <PageReference>SEBS12</PageReference>
+    </Child>
+    <Child ReferenceText="removing physical">
+      <PageReference>SEBS12</PageReference>
+    </Child>
+    <Child ReferenceText="teachers">
+      <PageReference>SEBS22-23</PageReference>
+    </Child>
+    <Child ReferenceText="adding">
+      <PageReference>SEBS12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disorganized quirk">
+    <PageReference>SEBS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distractible quirk">
+    <PageReference>SEBS22</PageReference>
+    <PageReference>SEBS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disturbing Voice disadvantage">
+    <PageReference>SEBS12</PageReference>
+    <PageReference>SEBS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doesn’t Sleep advantage">
+    <PageReference>SEBS13</PageReference>
+    <PageReference>SEBS30</PageReference>
+    <PageReference>SEBS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dream Rehearsal technique">
+    <PageReference>SEBS16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dream teaching">
+    <PageReference>SEBS30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dreaming skill">
+    <Child ReferenceText="technique">
+      <PageReference>SEBS16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dyslexia disadvantage">
+    <PageReference>SEBS15</PageReference>
+    <PageReference>SEBS37</PageReference>
+    <Child ReferenceText="quirk level">
+      <PageReference>SEBS15</PageReference>
+      <PageReference>SEBS38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Eidetic Memory advantage">
+    <PageReference>SEBS11</PageReference>
+    <PageReference>SEBS13</PageReference>
+    <Child ReferenceText="using">
+      <PageReference>SEBS20</PageReference>
+      <PageReference>SEBS29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Empathy advantage">
+    <PageReference>SEBS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Defenses advantage">
+    <PageReference>SEBS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Time advantage">
+    <PageReference>SEBS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enlightened Teacher advantage">
+    <PageReference>SEBS20</PageReference>
+    <PageReference>SEBS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exercises technique">
+    <PageReference>SEBS24</PageReference>
+    <PageReference>SEBS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expert Skill">
+    <Child ReferenceText="new">
+      <PageReference>SEBS23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Attack advantage">
+    <PageReference>SEBS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fashion Disaster quirk">
+    <PageReference>SEBS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fit advantage">
+    <PageReference>SEBS12</PageReference>
+    <PageReference>SEBS13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Formal instruction">
+    <PageReference>SEBS4-5</PageReference>
+    <PageReference>SEBS17</PageReference>
+    <PageReference>SEBS29</PageReference>
+    <Child ReferenceText="learning times">
+      <PageReference>SEBS4-5</PageReference>
+      <PageReference>SEBS37</PageReference>
+    </Child>
+    <Child ReferenceText="Less Sleep and Doesn’t Sleep and, 13 methods">
+      <PageReference>SEBS31-32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="G-Experience advantage">
+    <PageReference>SEBS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Geas spells">
+    <PageReference>SEBS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gesture skill">
+    <PageReference>SEBS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>SEBS3</PageReference>
+    <PageReference>SEBS4</PageReference>
+    <PageReference>SEBS9</PageReference>
+    <PageReference>SEBS12</PageReference>
+    <PageReference>SEBS14</PageReference>
+    <PageReference>SEBS17</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>SEBS3</PageReference>
+    </Child>
+    <Child ReferenceText="Boardroom and Curia">
+      <PageReference>SEBS27</PageReference>
+      <PageReference>SEBS33</PageReference>
+      <PageReference>SEBS35</PageReference>
+    </Child>
+    <Child ReferenceText="City Stats">
+      <PageReference>SEBS33</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>SEBS23</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>SEBS28</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>SEBS36</PageReference>
+    </Child>
+    <Child ReferenceText="IOU">
+      <PageReference>SEBS40</PageReference>
+    </Child>
+    <Child ReferenceText="Locations: Worminghall">
+      <PageReference>SEBS9</PageReference>
+    </Child>
+    <Child ReferenceText="LowTech">
+      <PageReference>SEBS28</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 1: Philosophers and Kings">
+      <PageReference>SEBS10</PageReference>
+      <PageReference>SEBS15</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>SEBS9</PageReference>
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="Magic Spell Charts">
+      <PageReference>SEBS9</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>SEBS3</PageReference>
+      <PageReference>SEBS8</PageReference>
+      <PageReference>SEBS13</PageReference>
+      <PageReference>SEBS19</PageReference>
+    </Child>
+    <Child ReferenceText="PowerUps 2: Perks">
+      <PageReference>SEBS11</PageReference>
+      <PageReference>SEBS13</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 3: Talents">
+      <PageReference>SEBS23</PageReference>
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 6: Quirks">
+      <PageReference>SEBS15</PageReference>
+      <PageReference>SEBS19</PageReference>
+      <PageReference>SEBS22</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 7: Wildcard Skills">
+      <PageReference>SEBS9</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>SEBS3</PageReference>
+      <PageReference>SEBS13</PageReference>
+      <PageReference>SEBS20</PageReference>
+      <PageReference>SEBS21</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>SEBS13</PageReference>
+      <PageReference>SEBS21</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering">
+      <PageReference>SEBS3</PageReference>
+      <PageReference>SEBS8</PageReference>
+      <PageReference>SEBS13</PageReference>
+      <PageReference>SEBS20</PageReference>
+      <PageReference>SEBS25-27</PageReference>
+      <PageReference>SEBS33</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering: Pulling Rank">
+      <PageReference>SEBS27-29</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Chinese Elemental Powers">
+      <PageReference>SEBS8</PageReference>
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Magical Styles">
+      <PageReference>SEBS12</PageReference>
+    </Child>
+    <Child ReferenceText="Ultra-Tech">
+      <PageReference>SEBS3</PageReference>
+      <PageReference>SEBS28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard of Hearing disadvantage">
+    <PageReference>SEBS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Health (HT) attribute">
+    <Child ReferenceText="point conversion and">
+      <PageReference>SEBS12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="High Pain Threshold advantage">
+    <PageReference>SEBS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High TL advantage">
+    <PageReference>SEBS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Higher Purpose advantage">
+    <PageReference>SEBS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="I Know What You Mean perk">
+    <PageReference>SEBS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion">
+    <Child ReferenceText="spells">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>SEBS21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Inaccessible Idioms quirk">
+    <PageReference>SEBS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incompetence quirk">
+    <PageReference>SEBS15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Influence skills">
+    <PageReference>SEBS24</PageReference>
+    <Child ReferenceText="using">
+      <PageReference>SEBS25-26</PageReference>
+      <PageReference>SEBS33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Initiation">
+    <Child ReferenceText="roleplaying">
+      <PageReference>SEBS8</PageReference>
+      <PageReference>SEBS35</PageReference>
+    </Child>
+    <Child ReferenceText="gaining abilities">
+      <PageReference>SEBS9</PageReference>
+      <PageReference>SEBS20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Innumerate disadvantage">
+    <PageReference>SEBS12</PageReference>
+    <PageReference>SEBS15</PageReference>
+    <Child ReferenceText="children">
+      <PageReference>SEBS11</PageReference>
+    </Child>
+    <Child ReferenceText="quirk level">
+      <PageReference>SEBS15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Instaskill nano">
+    <PageReference>SEBS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Instruction">
+    <SeeAlso>Learning</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Intensive training">
+    <PageReference>SEBS18</PageReference>
+    <PageReference>SEBS19</PageReference>
+    <PageReference>SEBS32</PageReference>
+    <Child ReferenceText="class size">
+      <PageReference>SEBS18</PageReference>
+    </Child>
+    <Child ReferenceText="environments">
+      <PageReference>SEBS30</PageReference>
+      <PageReference>SEBS33</PageReference>
+    </Child>
+    <Child ReferenceText="learning time">
+      <PageReference>SEBS5</PageReference>
+      <PageReference>SEBS37</PageReference>
+    </Child>
+    <Child ReferenceText="relevant traits">
+      <PageReference>SEBS13</PageReference>
+      <PageReference>SEBS15</PageReference>
+    </Child>
+    <Child ReferenceText="study rolls">
+      <PageReference>SEBS5</PageReference>
+      <PageReference>SEBS30</PageReference>
+    </Child>
+    <Child ReferenceText="Teaching skill required">
+      <PageReference>SEBS18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intolerance disadvantage">
+    <PageReference>SEBS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jobs">
+    <Child ReferenceText="learning on">
+      <PageReference>SEBS4</PageReference>
+    </Child>
+    <Child ReferenceText="teaching as">
+      <PageReference>SEBS17-19</PageReference>
+    </Child>
+    <Child ReferenceText="learning as">
+      <PageReference>SEBS5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Language Talent advantage">
+    <PageReference>SEBS11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Languages">
+    <Child ReferenceText="learning">
+      <PageReference>SEBS11</PageReference>
+      <PageReference>SEBS16</PageReference>
+    </Child>
+    <Child ReferenceText="spell">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="effect on learning">
+      <PageReference>SEBS13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Layabout quirk">
+    <PageReference>SEBS15</PageReference>
+    <PageReference>SEBS20</PageReference>
+    <PageReference>SEBS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laziness disadvantage">
+    <PageReference>SEBS15</PageReference>
+    <PageReference>SEBS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Learners">
+    <SeeAlso>Adventures</SeeAlso>
+    <SeeAlso>Campaigns</SeeAlso>
+    <SeeAlso>Formal Instruction</SeeAlso>
+    <SeeAlso>Intensive Training</SeeAlso>
+    <SeeAlso>Self-Study</SeeAlso>
+    <SeeAlso>Study Rolls</SeeAlso>
+    <Child ReferenceText="communities">
+      <PageReference>SEBS33</PageReference>
+    </Child>
+    <Child ReferenceText="disadvantages">
+      <PageReference>SEBS14-15</PageReference>
+    </Child>
+    <Child ReferenceText="interactions with teachers">
+      <PageReference>SEBS25-26</PageReference>
+    </Child>
+    <Child ReferenceText="loyalty">
+      <PageReference>SEBS26</PageReference>
+    </Child>
+    <Child ReferenceText="negotiation">
+      <PageReference>SEBS25-26</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>SEBS13-14</PageReference>
+    </Child>
+    <Child ReferenceText="quirks">
+      <PageReference>SEBS15</PageReference>
+    </Child>
+    <Child ReferenceText="search for teachers">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="search for">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>SEBS15-16</PageReference>
+    </Child>
+    <Child ReferenceText="spells for">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="techniques for">
+      <PageReference>SEBS16</PageReference>
+    </Child>
+    <Child ReferenceText="advantages">
+      <PageReference>SEBS13-14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Learning">
+    <SeeAlso>Adventures</SeeAlso>
+    <SeeAlso>Campaigns</SeeAlso>
+    <SeeAlso>Formal Instruction</SeeAlso>
+    <SeeAlso>Intensive Training</SeeAlso>
+    <SeeAlso>Self-Study</SeeAlso>
+    <SeeAlso>Study Rolls</SeeAlso>
+    <SeeAlso>Teaching</SeeAlso>
+    <Child ReferenceText="artificial enhancements">
+      <PageReference>SEBS7</PageReference>
+      <PageReference>SEBS14</PageReference>
+    </Child>
+    <Child ReferenceText="as character development">
+      <PageReference>SEBS4-7</PageReference>
+    </Child>
+    <Child ReferenceText="as job">
+      <PageReference>SEBS5</PageReference>
+    </Child>
+    <Child ReferenceText="base number of hours gained">
+      <PageReference>SEBS37</PageReference>
+    </Child>
+    <Child ReferenceText="breakthrough">
+      <PageReference>SEBS30</PageReference>
+    </Child>
+    <Child ReferenceText="heroic">
+      <PageReference>SEBS19-20</PageReference>
+    </Child>
+    <Child ReferenceText="hours gained">
+      <PageReference>SEBS4-5</PageReference>
+      <PageReference>SEBS37-38</PageReference>
+    </Child>
+    <Child ReferenceText="information resources and">
+      <PageReference>SEBS29-30</PageReference>
+    </Child>
+    <Child ReferenceText="learnable traits">
+      <PageReference>SEBS8-13</PageReference>
+    </Child>
+    <Child ReferenceText="learning ordeal">
+      <PageReference>SEBS30</PageReference>
+    </Child>
+    <Child ReferenceText="limits on time">
+      <PageReference>SEBS4</PageReference>
+    </Child>
+    <Child ReferenceText="money-based">
+      <PageReference>SEBS7</PageReference>
+    </Child>
+    <Child ReferenceText="multipliers for hours gained">
+      <PageReference>SEBS37</PageReference>
+    </Child>
+    <Child ReferenceText="on the job">
+      <PageReference>SEBS4</PageReference>
+      <PageReference>SEBS9</PageReference>
+    </Child>
+    <Child ReferenceText="points per hour">
+      <PageReference>SEBS4</PageReference>
+    </Child>
+    <Child ReferenceText="points-based">
+      <PageReference>SEBS5-7</PageReference>
+    </Child>
+    <Child ReferenceText="points-based uses">
+      <PageReference>SEBS9</PageReference>
+      <PageReference>SEBS10</PageReference>
+      <PageReference>SEBS13</PageReference>
+      <PageReference>SEBS30</PageReference>
+    </Child>
+    <Child ReferenceText="price of">
+      <PageReference>SEBS27</PageReference>
+    </Child>
+    <Child ReferenceText="realism">
+      <PageReference>SEBS6</PageReference>
+    </Child>
+    <Child ReferenceText="relevant traits">
+      <PageReference>SEBS13-16</PageReference>
+    </Child>
+    <Child ReferenceText="retreats">
+      <PageReference>SEBS30</PageReference>
+    </Child>
+    <Child ReferenceText="table of times and situations">
+      <PageReference>SEBS37-38</PageReference>
+    </Child>
+    <Child ReferenceText="techniques for">
+      <PageReference>SEBS16</PageReference>
+    </Child>
+    <Child ReferenceText="through technology">
+      <PageReference>SEBS7</PageReference>
+      <PageReference>SEBS20</PageReference>
+      <PageReference>SEBS30</PageReference>
+      <PageReference>SEBS32</PageReference>
+    </Child>
+    <Child ReferenceText="timebased">
+      <PageReference>SEBS4-5</PageReference>
+      <PageReference>SEBS10</PageReference>
+      <PageReference>SEBS19</PageReference>
+    </Child>
+    <Child ReferenceText="under stress">
+      <PageReference>SEBS5-7</PageReference>
+    </Child>
+    <Child ReferenceText="workshops">
+      <PageReference>SEBS30</PageReference>
+    </Child>
+    <Child ReferenceText="adjustments for hours gained">
+      <PageReference>SEBS38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Legendary Teaching technique">
+    <PageReference>SEBS24</PageReference>
+    <Child ReferenceText="using">
+      <PageReference>SEBS9</PageReference>
+      <PageReference>SEBS19-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lend Language spell">
+    <PageReference>SEBS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lend Skill spell">
+    <PageReference>SEBS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Less Sleep advantage">
+    <PageReference>SEBS13</PageReference>
+    <PageReference>SEBS30</PageReference>
+    <PageReference>SEBS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Licenses">
+    <PageReference>SEBS31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Linguistics skill">
+    <PageReference>SEBS16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery advantage">
+    <PageReference>SEBS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manuals">
+    <Child ReferenceText="skill use and">
+      <PageReference>SEBS9</PageReference>
+    </Child>
+    <Child ReferenceText="creating">
+      <PageReference>SEBS23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Math-Shy quirk">
+    <PageReference>SEBS12</PageReference>
+    <PageReference>SEBS15</PageReference>
+    <PageReference>SEBS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Memorize spell">
+    <PageReference>SEBS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Memory Palace technique">
+    <PageReference>SEBS16</PageReference>
+    <PageReference>SEBS20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Methodical quirk">
+    <PageReference>SEBS9</PageReference>
+    <PageReference>SEBS19</PageReference>
+    <PageReference>SEBS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mild Dyslexia quirk">
+    <PageReference>SEBS15</PageReference>
+    <PageReference>SEBS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Control advantage">
+    <PageReference>SEBS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Reading">
+    <Child ReferenceText="spell">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>SEBS21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind-Sending spell">
+    <PageReference>SEBS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Networked perk">
+    <PageReference>SEBS13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Non-Iconographic disadvantage">
+    <PageReference>SEBS15</PageReference>
+    <Child ReferenceText="quirk level">
+      <PageReference>SEBS15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nootropics">
+    <PageReference>SEBS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Observation skill">
+    <PageReference>SEBS16</PageReference>
+    <PageReference>SEBS29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Overspecialization quirk">
+    <PageReference>SEBS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pacifism disadvantage">
+    <PageReference>SEBS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <Child ReferenceText="learnable">
+      <PageReference>SEBS12</PageReference>
+    </Child>
+    <Child ReferenceText="learners">
+      <PageReference>SEBS13-14</PageReference>
+    </Child>
+    <Child ReferenceText="teachers">
+      <PageReference>SEBS21</PageReference>
+    </Child>
+    <Child ReferenceText="gaining physical">
+      <PageReference>SEBS12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Poetry skill">
+    <PageReference>SEBS23</PageReference>
+    <Child ReferenceText="technique">
+      <PageReference>SEBS16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Points">
+    <Child ReferenceText="earned through adventures">
+      <PageReference>SEBS5-7</PageReference>
+    </Child>
+    <Child ReferenceText="earned through study">
+      <PageReference>SEBS4-5</PageReference>
+    </Child>
+    <Child ReferenceText="to accelerate learning">
+      <PageReference>SEBS7</PageReference>
+    </Child>
+    <Child ReferenceText="earmarked">
+      <PageReference>SEBS6-7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <PageReference>SEBS13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Propaganda skill">
+    <PageReference>SEBS23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Public Speaking skill">
+    <PageReference>SEBS23</PageReference>
+    <PageReference>SEBS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quirks">
+    <Child ReferenceText="learners">
+      <PageReference>SEBS15</PageReference>
+    </Child>
+    <Child ReferenceText="teachers">
+      <PageReference>SEBS22</PageReference>
+    </Child>
+    <Child ReferenceText="buying off">
+      <PageReference>SEBS12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rank advantage">
+    <PageReference>SEBS27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recall spell">
+    <PageReference>SEBS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rehearsed Role perk">
+    <PageReference>SEBS20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reputation trait">
+    <PageReference>SEBS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Research skill">
+    <PageReference>SEBS16</PageReference>
+    <PageReference>SEBS30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Schools">
+    <SeeAlso>Academic Organizations</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Secondary characteristics">
+    <Child ReferenceText="improving">
+      <PageReference>SEBS10</PageReference>
+      <PageReference>SEBS12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-study">
+    <Child ReferenceText="learning time">
+      <PageReference>SEBS4</PageReference>
+      <PageReference>SEBS5</PageReference>
+      <PageReference>SEBS37</PageReference>
+      <PageReference>SEBS38</PageReference>
+    </Child>
+    <Child ReferenceText="organization resources and">
+      <PageReference>SEBS28-30</PageReference>
+    </Child>
+    <Child ReferenceText="realism">
+      <PageReference>SEBS6</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>SEBS9</PageReference>
+    </Child>
+    <Child ReferenceText="traits affecting">
+      <PageReference>SEBS13</PageReference>
+      <PageReference>SEBS15</PageReference>
+      <PageReference>SEBS16</PageReference>
+    </Child>
+    <Child ReferenceText="language comprehension">
+      <PageReference>SEBS13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense Emotion spell">
+    <PageReference>SEBS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense of Duty disadvantage">
+    <PageReference>SEBS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensitive advantage">
+    <PageReference>SEBS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Short Attention Span">
+    <PageReference>SEBS22-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shyness disadvantage">
+    <PageReference>SEBS23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Single-Minded advantage">
+    <PageReference>SEBS14</PageReference>
+    <PageReference>SEBS30</PageReference>
+    <PageReference>SEBS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <SeeAlso>Influence Skills</SeeAlso>
+    <Child ReferenceText="cinematic">
+      <PageReference>SEBS8</PageReference>
+    </Child>
+    <Child ReferenceText="complementary">
+      <PageReference>SEBS16</PageReference>
+    </Child>
+    <Child ReferenceText="familiarities">
+      <PageReference>SEBS9</PageReference>
+      <PageReference>SEBS10</PageReference>
+    </Child>
+    <Child ReferenceText="fleeting competence">
+      <PageReference>SEBS9</PageReference>
+    </Child>
+    <Child ReferenceText="knowledge">
+      <PageReference>SEBS8</PageReference>
+    </Child>
+    <Child ReferenceText="learnable">
+      <PageReference>SEBS8-9</PageReference>
+    </Child>
+    <Child ReferenceText="learners">
+      <PageReference>SEBS15-16</PageReference>
+    </Child>
+    <Child ReferenceText="physical">
+      <PageReference>SEBS12</PageReference>
+    </Child>
+    <Child ReferenceText="points as learning accelerator">
+      <PageReference>SEBS7</PageReference>
+    </Child>
+    <Child ReferenceText="practical">
+      <PageReference>SEBS8</PageReference>
+    </Child>
+    <Child ReferenceText="realism and learning">
+      <PageReference>SEBS6</PageReference>
+    </Child>
+    <Child ReferenceText="teachers">
+      <PageReference>SEBS23-24</PageReference>
+    </Child>
+    <Child ReferenceText="technological">
+      <PageReference>SEBS8-9</PageReference>
+    </Child>
+    <Child ReferenceText="training montages">
+      <PageReference>SEBS19</PageReference>
+    </Child>
+    <Child ReferenceText="untrained use">
+      <PageReference>SEBS9</PageReference>
+    </Child>
+    <Child ReferenceText="book-learned">
+      <PageReference>SEBS8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smart drugs">
+    <PageReference>SEBS14</PageReference>
+    <PageReference>SEBS37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma (Uneducated) disadvantage">
+    <PageReference>SEBS12</PageReference>
+    <PageReference>SEBS15</PageReference>
+    <Child ReferenceText="children">
+      <PageReference>SEBS11</PageReference>
+    </Child>
+    <Child ReferenceText="related perk">
+      <PageReference>SEBS14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Special Exercises perk">
+    <PageReference>SEBS11</PageReference>
+    <PageReference>SEBS13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <Child ReferenceText="learners">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="teachers">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="learnable">
+      <PageReference>SEBS9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stereotype quirk">
+    <PageReference>SEBS15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Students">
+    <SeeAlso>Learners</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Study rolls">
+    <PageReference>SEBS5</PageReference>
+    <PageReference>SEBS37</PageReference>
+    <Child ReferenceText="body training">
+      <PageReference>SEBS12</PageReference>
+    </Child>
+    <Child ReferenceText="facilities and">
+      <PageReference>SEBS29</PageReference>
+    </Child>
+    <Child ReferenceText="realism">
+      <PageReference>SEBS6</PageReference>
+    </Child>
+    <Child ReferenceText="teaching affecting">
+      <PageReference>SEBS19</PageReference>
+      <PageReference>SEBS22-24</PageReference>
+      <PageReference>SEBS26</PageReference>
+      <PageReference>SEBS27</PageReference>
+    </Child>
+    <Child ReferenceText="traits affecting">
+      <PageReference>SEBS13-16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Study">
+    <SeeAlso>Learning</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbol-Shy quirk">
+    <PageReference>SEBS15</PageReference>
+    <PageReference>SEBS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="funding resources">
+      <PageReference>SEBS29</PageReference>
+    </Child>
+    <Child ReferenceText="learning times and situations">
+      <PageReference>SEBS37-38</PageReference>
+    </Child>
+    <Child ReferenceText="organizational size">
+      <PageReference>SEBS25</PageReference>
+    </Child>
+    <Child ReferenceText="price of instruction">
+      <PageReference>SEBS27</PageReference>
+    </Child>
+    <Child ReferenceText="assistance rolls">
+      <PageReference>SEBS28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents (advantage)">
+    <PageReference>SEBS14</PageReference>
+    <Child ReferenceText="improving">
+      <PageReference>SEBS10-11</PageReference>
+    </Child>
+    <Child ReferenceText="point conversion">
+      <PageReference>SEBS10-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Teachers">
+    <SeeAlso>Academic Organizations</SeeAlso>
+    <SeeAlso>Adventures</SeeAlso>
+    <SeeAlso>Campaigns</SeeAlso>
+    <Child ReferenceText="as Contacts">
+      <PageReference>SEBS7-8</PageReference>
+    </Child>
+    <Child ReferenceText="disadvantages">
+      <PageReference>SEBS22-23</PageReference>
+    </Child>
+    <Child ReferenceText="interactions with learners">
+      <PageReference>SEBS25-26</PageReference>
+    </Child>
+    <Child ReferenceText="loyalty">
+      <PageReference>SEBS26</PageReference>
+    </Child>
+    <Child ReferenceText="negotiation">
+      <PageReference>SEBS25-26</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>SEBS21</PageReference>
+    </Child>
+    <Child ReferenceText="persona, 26 quirks">
+      <PageReference>SEBS22</PageReference>
+    </Child>
+    <Child ReferenceText="search for">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>SEBS23-24</PageReference>
+    </Child>
+    <Child ReferenceText="spells">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="advantages">
+      <PageReference>SEBS20-21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Teaching">
+    <SeeAlso>Academic Organizations</SeeAlso>
+    <SeeAlso>Adventures</SeeAlso>
+    <SeeAlso>Campaigns</SeeAlso>
+    <SeeAlso>Coercive Teaching</SeeAlso>
+    <SeeAlso>Formal Instruction</SeeAlso>
+    <SeeAlso>Intensive Training</SeeAlso>
+    <SeeAlso>Learning</SeeAlso>
+    <SeeAlso>Self-Study</SeeAlso>
+    <Child ReferenceText="as a job">
+      <PageReference>SEBS17-19</PageReference>
+    </Child>
+    <Child ReferenceText="assistants">
+      <PageReference>SEBS18</PageReference>
+    </Child>
+    <Child ReferenceText="class size">
+      <PageReference>SEBS17-18</PageReference>
+    </Child>
+    <Child ReferenceText="classroom">
+      <PageReference>SEBS31</PageReference>
+    </Child>
+    <Child ReferenceText="creating instructional works">
+      <PageReference>SEBS23</PageReference>
+    </Child>
+    <Child ReferenceText="drill">
+      <PageReference>SEBS32</PageReference>
+    </Child>
+    <Child ReferenceText="heroic learning">
+      <PageReference>SEBS19-20</PageReference>
+    </Child>
+    <Child ReferenceText="information resources and">
+      <PageReference>SEBS29-30</PageReference>
+    </Child>
+    <Child ReferenceText="job rolls">
+      <PageReference>SEBS19</PageReference>
+    </Child>
+    <Child ReferenceText="language comprehension">
+      <PageReference>SEBS18</PageReference>
+    </Child>
+    <Child ReferenceText="learning environments">
+      <PageReference>SEBS32</PageReference>
+    </Child>
+    <Child ReferenceText="medium of instruction">
+      <PageReference>SEBS18</PageReference>
+      <PageReference>SEBS23</PageReference>
+      <PageReference>SEBS29-30</PageReference>
+    </Child>
+    <Child ReferenceText="methods">
+      <PageReference>SEBS31-32</PageReference>
+    </Child>
+    <Child ReferenceText="online">
+      <PageReference>SEBS32</PageReference>
+    </Child>
+    <Child ReferenceText="relevant traits">
+      <PageReference>SEBS20-24</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="technological channels">
+      <PageReference>SEBS18-19</PageReference>
+    </Child>
+    <Child ReferenceText="tutoring">
+      <PageReference>SEBS31</PageReference>
+    </Child>
+    <Child ReferenceText="virtual environments">
+      <PageReference>SEBS7</PageReference>
+      <PageReference>SEBS20</PageReference>
+      <PageReference>SEBS30</PageReference>
+    </Child>
+    <Child ReferenceText="apprenticeship">
+      <PageReference>SEBS31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Teaching skill">
+    <Child ReferenceText="class size">
+      <PageReference>SEBS17-18</PageReference>
+    </Child>
+    <Child ReferenceText="Contact for">
+      <PageReference>SEBS27</PageReference>
+    </Child>
+    <Child ReferenceText="critical success">
+      <PageReference>SEBS17</PageReference>
+      <PageReference>SEBS19</PageReference>
+      <PageReference>SEBS20</PageReference>
+      <PageReference>SEBS38</PageReference>
+    </Child>
+    <Child ReferenceText="effective">
+      <PageReference>SEBS17</PageReference>
+      <PageReference>SEBS18</PageReference>
+    </Child>
+    <Child ReferenceText="failure">
+      <PageReference>SEBS18</PageReference>
+    </Child>
+    <Child ReferenceText="for formal instruction">
+      <PageReference>SEBS4</PageReference>
+    </Child>
+    <Child ReferenceText="for intensive teaching">
+      <PageReference>SEBS18</PageReference>
+    </Child>
+    <Child ReferenceText="for training montage">
+      <PageReference>SEBS19-20</PageReference>
+    </Child>
+    <Child ReferenceText="job rolls">
+      <PageReference>SEBS19</PageReference>
+    </Child>
+    <Child ReferenceText="language comprehension">
+      <PageReference>SEBS18</PageReference>
+    </Child>
+    <Child ReferenceText="loyalty affecting">
+      <PageReference>SEBS26</PageReference>
+    </Child>
+    <Child ReferenceText="minimum requirement">
+      <PageReference>SEBS17</PageReference>
+      <PageReference>SEBS18</PageReference>
+    </Child>
+    <Child ReferenceText="price of instruction">
+      <PageReference>SEBS27</PageReference>
+    </Child>
+    <Child ReferenceText="related traits">
+      <PageReference>SEBS20-24</PageReference>
+    </Child>
+    <Child ReferenceText="replacement skills">
+      <PageReference>SEBS23</PageReference>
+    </Child>
+    <Child ReferenceText="resources affecting">
+      <PageReference>SEBS28-30</PageReference>
+    </Child>
+    <Child ReferenceText="spells affecting">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="technological channels">
+      <PageReference>SEBS18-19</PageReference>
+    </Child>
+    <Child ReferenceText="time-based learning and">
+      <PageReference>SEBS17-18</PageReference>
+    </Child>
+    <Child ReferenceText="assistants">
+      <PageReference>SEBS18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <Child ReferenceText="improving">
+      <PageReference>SEBS10</PageReference>
+    </Child>
+    <Child ReferenceText="learners">
+      <PageReference>SEBS16</PageReference>
+    </Child>
+    <Child ReferenceText="teachers">
+      <PageReference>SEBS24</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic">
+      <PageReference>SEBS10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Telecommunication advantage">
+    <PageReference>SEBS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telepathy spell">
+    <PageReference>SEBS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time-Server quirk">
+    <PageReference>SEBS15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trained by a Master advantage">
+    <PageReference>SEBS12</PageReference>
+    <PageReference>SEBS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traits">
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Attributes</SeeAlso>
+    <SeeAlso>Disadvantages</SeeAlso>
+    <SeeAlso>Skills</SeeAlso>
+    <Child ReferenceText="granted">
+      <PageReference>SEBS7</PageReference>
+    </Child>
+    <Child ReferenceText="earmarked points">
+      <PageReference>SEBS6-7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unfazeable advantage">
+    <PageReference>SEBS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unfit disadvantage">
+    <PageReference>SEBS12</PageReference>
+    <PageReference>SEBS15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Versification technique">
+    <PageReference>SEBS16</PageReference>
+    <Child ReferenceText="using">
+      <PageReference>SEBS23</PageReference>
+      <PageReference>SEBS29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Voice advantage">
+    <PageReference>SEBS12</PageReference>
+    <PageReference>SEBS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Master advantage">
+    <PageReference>SEBS12</PageReference>
+    <PageReference>SEBS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard skills">
+    <PageReference>SEBS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wisdom spell">
+    <PageReference>SEBS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Writing skill">
+    <PageReference>SEBS23</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

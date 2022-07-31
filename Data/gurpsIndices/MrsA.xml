@@ -1,0 +1,1766 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abductions">
+    <PageReference>MrsA7</PageReference>
+    <PageReference>MrsA12</PageReference>
+    <Child ReferenceText="campaign ideas">
+      <PageReference>MrsA75-76</PageReference>
+    </Child>
+    <Child ReferenceText="cryo-specimens">
+      <PageReference>MrsA64</PageReference>
+    </Child>
+    <Child ReferenceText="monster men">
+      <PageReference>MrsA16-17</PageReference>
+      <PageReference>MrsA26</PageReference>
+      <PageReference>MrsA37</PageReference>
+    </Child>
+    <Child ReferenceText="projects">
+      <PageReference>MrsA26</PageReference>
+      <PageReference>MrsA27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Accessibility limitation">
+    <PageReference>MrsA55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>MrsA54-57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Campaigns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerospace ﬁghters">
+    <PageReference>MrsA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aliens">
+    <PageReference>MrsA61</PageReference>
+    <SeeAlso>Elorians</SeeAlso>
+    <SeeAlso>Martians</SeeAlso>
+    <SeeAlso>Tiger Corps</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance disadvantage">
+    <PageReference>MrsA59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armed Forces of the Russian Federation">
+    <PageReference>MrsA45-46</PageReference>
+    <SeeAlso>Human Military</SeeAlso>
+    <SeeAlso>Moscow</SeeAlso>
+    <Child ReferenceText="characteristics">
+      <PageReference>MrsA46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <Child ReferenceText="Martian aquatic">
+      <PageReference>MrsA31</PageReference>
+    </Child>
+    <Child ReferenceText="Martian body">
+      <PageReference>MrsA31</PageReference>
+    </Child>
+    <Child ReferenceText="Martian heavy">
+      <PageReference>MrsA31</PageReference>
+    </Child>
+    <Child ReferenceText="Martian stealth">
+      <PageReference>MrsA31-32</PageReference>
+    </Child>
+    <Child ReferenceText="shattering helmets">
+      <PageReference>MrsA31</PageReference>
+    </Child>
+    <Child ReferenceText="human">
+      <PageReference>MrsA49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Astro Mata">
+    <PageReference>MrsA42</PageReference>
+    <SeeAlso>Human Resistance</SeeAlso>
+    <SeeAlso>Novas Vira</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Automatons">
+    <SeeAlso>Robots</SeeAlso>
+    <Child ReferenceText="massive">
+      <PageReference>MrsA33</PageReference>
+      <PageReference>MrsA36-37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Battlesuits">
+    <PageReference>MrsA49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beam Weapons skill">
+    <PageReference>MrsA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beloss Bel">
+    <PageReference>MrsA7</PageReference>
+    <PageReference>MrsA24</PageReference>
+    <PageReference>MrsA86-87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biology skill">
+    <PageReference>MrsA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bionic replacements">
+    <PageReference>MrsA49-50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blaster">
+    <Child ReferenceText="riﬂes">
+      <PageReference>MrsA29</PageReference>
+      <PageReference>MrsA30</PageReference>
+    </Child>
+    <Child ReferenceText="pistols">
+      <PageReference>MrsA29</PageReference>
+      <PageReference>MrsA30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bombs">
+    <Child ReferenceText="Martian">
+      <PageReference>MrsA34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bugs">
+    <Child ReferenceText="biting">
+      <PageReference>MrsA34</PageReference>
+    </Child>
+    <Child ReferenceText="campaign ideas">
+      <PageReference>MrsA89</PageReference>
+    </Child>
+    <Child ReferenceText="control collars">
+      <PageReference>MrsA17</PageReference>
+      <PageReference>MrsA36</PageReference>
+    </Child>
+    <Child ReferenceText="game stats">
+      <PageReference>MrsA34-36</PageReference>
+    </Child>
+    <Child ReferenceText="handler">
+      <PageReference>MrsA9</PageReference>
+      <PageReference>MrsA25</PageReference>
+      <PageReference>MrsA66</PageReference>
+    </Child>
+    <Child ReferenceText="in invasion">
+      <PageReference>MrsA9</PageReference>
+      <PageReference>MrsA14</PageReference>
+      <PageReference>MrsA17</PageReference>
+      <PageReference>MrsA25</PageReference>
+    </Child>
+    <Child ReferenceText="project">
+      <PageReference>MrsA25</PageReference>
+    </Child>
+    <Child ReferenceText="samples">
+      <PageReference>MrsA36</PageReference>
+    </Child>
+    <Child ReferenceText="self-control number">
+      <PageReference>MrsA34</PageReference>
+    </Child>
+    <Child ReferenceText="variations">
+      <PageReference>MrsA36</PageReference>
+    </Child>
+    <Child ReferenceText="attacking control collars">
+      <PageReference>MrsA36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <Child ReferenceText="bugs">
+      <PageReference>MrsA89</PageReference>
+    </Child>
+    <Child ReferenceText="camp">
+      <PageReference>MrsA69-70</PageReference>
+    </Child>
+    <Child ReferenceText="changing timeline">
+      <PageReference>MrsA80-81</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic traits in">
+      <PageReference>MrsA53</PageReference>
+    </Child>
+    <Child ReferenceText="combat scenes">
+      <PageReference>MrsA72</PageReference>
+      <PageReference>MrsA90-91</PageReference>
+    </Child>
+    <Child ReferenceText="darkness">
+      <PageReference>MrsA70</PageReference>
+    </Child>
+    <Child ReferenceText="decisions about">
+      <PageReference>MrsA52-53</PageReference>
+      <PageReference>MrsA70</PageReference>
+    </Child>
+    <Child ReferenceText="features">
+      <PageReference>MrsA69-72</PageReference>
+    </Child>
+    <Child ReferenceText="ﬁxed events">
+      <PageReference>MrsA11</PageReference>
+    </Child>
+    <Child ReferenceText="game-mechanic tips">
+      <PageReference>MrsA72</PageReference>
+      <PageReference>MrsA91</PageReference>
+    </Child>
+    <Child ReferenceText="genres">
+      <PageReference>MrsA69</PageReference>
+    </Child>
+    <Child ReferenceText="gore">
+      <PageReference>MrsA70</PageReference>
+    </Child>
+    <Child ReferenceText="locations">
+      <PageReference>MrsA87-90</PageReference>
+    </Child>
+    <Child ReferenceText="mass combat">
+      <PageReference>MrsA92-93</PageReference>
+    </Child>
+    <Child ReferenceText="measuring time">
+      <PageReference>MrsA85</PageReference>
+    </Child>
+    <Child ReferenceText="meta-rule">
+      <PageReference>MrsA72</PageReference>
+    </Child>
+    <Child ReferenceText="modern examples">
+      <PageReference>MrsA73-80</PageReference>
+    </Child>
+    <Child ReferenceText="paranoia">
+      <PageReference>MrsA75</PageReference>
+    </Child>
+    <Child ReferenceText="power level">
+      <PageReference>MrsA52</PageReference>
+    </Child>
+    <Child ReferenceText="questions about">
+      <PageReference>MrsA52-53</PageReference>
+    </Child>
+    <Child ReferenceText="random scenes">
+      <PageReference>MrsA92</PageReference>
+    </Child>
+    <Child ReferenceText="randomly generated monsters">
+      <PageReference>MrsA36</PageReference>
+      <PageReference>MrsA37</PageReference>
+    </Child>
+    <Child ReferenceText="resources as targets">
+      <PageReference>MrsA87</PageReference>
+    </Child>
+    <Child ReferenceText="scene tips">
+      <PageReference>MrsA69</PageReference>
+      <PageReference>MrsA81-82</PageReference>
+    </Child>
+    <Child ReferenceText="social commentary">
+      <PageReference>MrsA71</PageReference>
+    </Child>
+    <Child ReferenceText="supernatural traits in">
+      <PageReference>MrsA53</PageReference>
+    </Child>
+    <Child ReferenceText="technology in">
+      <PageReference>MrsA71-72</PageReference>
+      <PageReference>MrsA82</PageReference>
+    </Child>
+    <Child ReferenceText="victory">
+      <PageReference>MrsA93</PageReference>
+    </Child>
+    <Child ReferenceText="Atomic Age">
+      <PageReference>MrsA80-82</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Character creation">
+    <SeeAlso>Templates</SeeAlso>
+    <Child ReferenceText="cinematic traits">
+      <PageReference>MrsA53</PageReference>
+    </Child>
+    <Child ReferenceText="general traits">
+      <PageReference>MrsA53-59</PageReference>
+    </Child>
+    <Child ReferenceText="power level">
+      <PageReference>MrsA52</PageReference>
+    </Child>
+    <Child ReferenceText="supernatural traits">
+      <PageReference>MrsA53</PageReference>
+    </Child>
+    <Child ReferenceText="campaign decisions">
+      <PageReference>MrsA52-53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chicago">
+    <PageReference>MrsA12</PageReference>
+    <PageReference>MrsA14</PageReference>
+    <PageReference>MrsA88-89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="China">
+    <SeeAlso>People’s  Liberation Army of China</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Circuit Sense Talent">
+    <PageReference>MrsA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corus">
+    <PageReference>MrsA43</PageReference>
+    <PageReference>MrsA61</PageReference>
+    <PageReference>MrsA84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Craftiness Talent">
+    <PageReference>MrsA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cryo-specimens">
+    <SeeAlso>Abductions</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cybernetics">
+    <PageReference>MrsA43</PageReference>
+    <PageReference>MrsA49-50</PageReference>
+    <Child ReferenceText="advantage">
+      <PageReference>MrsA54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Diggers">
+    <PageReference>MrsA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>MrsA57-58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disruptors">
+    <PageReference>MrsA48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doomsday weapon">
+    <PageReference>MrsA85-86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elorians">
+    <SeeAlso>Tiger Corps</SeeAlso>
+    <Child ReferenceText="language">
+      <PageReference>MrsA56</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>MrsA61</PageReference>
+    </Child>
+    <Child ReferenceText="Corus">
+      <PageReference>MrsA43</PageReference>
+      <PageReference>MrsA61</PageReference>
+      <PageReference>MrsA84</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Energized melee weapons">
+    <PageReference>MrsA30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancement">
+    <Child ReferenceText="new">
+      <PageReference>MrsA58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Armor</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Expert Skill">
+    <Child ReferenceText="new">
+      <PageReference>MrsA58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fighters (Martian ships)">
+    <PageReference>MrsA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flamers">
+    <PageReference>MrsA29</PageReference>
+    <PageReference>MrsA30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Freeze rays">
+    <PageReference>MrsA34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteer advantage">
+    <PageReference>MrsA54-55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteering">
+    <PageReference>MrsA53-54</PageReference>
+    <SeeAlso>Novas Vira</SeeAlso>
+    <Child ReferenceText="relevant traits">
+      <PageReference>MrsA54-55</PageReference>
+      <PageReference>MrsA58</PageReference>
+      <PageReference>MrsA59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gatling guns">
+    <PageReference>MrsA29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunslinger advantage">
+    <PageReference>MrsA55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>MrsA27</PageReference>
+    <PageReference>MrsA28</PageReference>
+    <PageReference>MrsA30</PageReference>
+    <PageReference>MrsA47</PageReference>
+    <PageReference>MrsA48</PageReference>
+    <PageReference>MrsA49</PageReference>
+    <PageReference>MrsA57</PageReference>
+    <PageReference>MrsA61</PageReference>
+    <PageReference>MrsA64</PageReference>
+    <PageReference>MrsA72</PageReference>
+    <PageReference>MrsA82</PageReference>
+    <SeeAlso>Transhuman Space</SeeAlso>
+    <Child ReferenceText="Action">
+      <PageReference>MrsA62</PageReference>
+    </Child>
+    <Child ReferenceText="Atomic Horror">
+      <PageReference>MrsA82</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>MrsA5</PageReference>
+      <PageReference>MrsA47</PageReference>
+      <PageReference>MrsA49</PageReference>
+      <PageReference>MrsA59</PageReference>
+      <PageReference>MrsA61</PageReference>
+      <PageReference>MrsA76</PageReference>
+    </Child>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>MrsA49</PageReference>
+      <PageReference>MrsA61</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy-Tech 1: The Edge of Reality">
+      <PageReference>MrsA28</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>MrsA49</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech">
+      <PageReference>MrsA28</PageReference>
+      <PageReference>MrsA49</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat">
+      <PageReference>MrsA92</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters">
+      <PageReference>MrsA62</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 5: Applied Xenology">
+      <PageReference>MrsA62</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 7: Wildcard Skills">
+      <PageReference>MrsA59</PageReference>
+    </Child>
+    <Child ReferenceText="PsiTech">
+      <PageReference>MrsA49</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering: Pulling Rank">
+      <PageReference>MrsA56</PageReference>
+      <PageReference>MrsA79</PageReference>
+    </Child>
+    <Child ReferenceText="Spaceships">
+      <PageReference>MrsA32</PageReference>
+      <PageReference>MrsA49</PageReference>
+      <PageReference>MrsA76</PageReference>
+    </Child>
+    <Child ReferenceText="Tales of the Solar Patrol">
+      <PageReference>MrsA61</PageReference>
+    </Child>
+    <Child ReferenceText="UltraTech">
+      <PageReference>MrsA5</PageReference>
+      <PageReference>MrsA28</PageReference>
+      <PageReference>MrsA49</PageReference>
+      <PageReference>MrsA50</PageReference>
+      <PageReference>MrsA54</PageReference>
+    </Child>
+    <Child ReferenceText="Zombies">
+      <PageReference>MrsA37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heat rays">
+    <PageReference>MrsA34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helmets">
+    <Child ReferenceText="shattering">
+      <PageReference>MrsA31</PageReference>
+    </Child>
+    <Child ReferenceText="Martian">
+      <PageReference>MrsA30-32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="High TL advantage">
+    <PageReference>MrsA55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Human military">
+    <SeeAlso>Martian Invasion</SeeAlso>
+    <SeeAlso>Novas Vira</SeeAlso>
+    <SeeAlso>Tiger Corps</SeeAlso>
+    <SeeAlso>United Earth Alliance</SeeAlso>
+    <Child ReferenceText="armor">
+      <PageReference>MrsA49</PageReference>
+    </Child>
+    <Child ReferenceText="campaign ideas">
+      <PageReference>MrsA74-76</PageReference>
+      <PageReference>MrsA90</PageReference>
+    </Child>
+    <Child ReferenceText="combatant template">
+      <PageReference>MrsA63-64</PageReference>
+    </Child>
+    <Child ReferenceText="defeated">
+      <PageReference>MrsA18</PageReference>
+      <PageReference>MrsA93</PageReference>
+    </Child>
+    <Child ReferenceText="initial response">
+      <PageReference>MrsA39</PageReference>
+      <PageReference>MrsA40</PageReference>
+    </Child>
+    <Child ReferenceText="invasion considerations">
+      <PageReference>MrsA46</PageReference>
+    </Child>
+    <Child ReferenceText="holdouts">
+      <PageReference>MrsA90</PageReference>
+    </Child>
+    <Child ReferenceText="Martian strongholds">
+      <PageReference>MrsA88-89</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat">
+      <PageReference>MrsA92-93</PageReference>
+    </Child>
+    <Child ReferenceText="naval attacks">
+      <PageReference>MrsA10</PageReference>
+    </Child>
+    <Child ReferenceText="technology upgrades">
+      <PageReference>MrsA12</PageReference>
+      <PageReference>MrsA16</PageReference>
+      <PageReference>MrsA46</PageReference>
+      <PageReference>MrsA92</PageReference>
+    </Child>
+    <Child ReferenceText="vehicles">
+      <PageReference>MrsA50-51</PageReference>
+    </Child>
+    <Child ReferenceText="weaponry">
+      <PageReference>MrsA48</PageReference>
+    </Child>
+    <Child ReferenceText="airbase attacks">
+      <PageReference>MrsA10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Human resistance">
+    <SeeAlso>Martian Invasion</SeeAlso>
+    <SeeAlso>Novas Vira</SeeAlso>
+    <SeeAlso>Tiger Corps</SeeAlso>
+    <SeeAlso>United Earth Alliance</SeeAlso>
+    <Child ReferenceText="campaign ideas">
+      <PageReference>MrsA73-77</PageReference>
+    </Child>
+    <Child ReferenceText="Chicago">
+      <PageReference>MrsA12</PageReference>
+      <PageReference>MrsA14</PageReference>
+      <PageReference>MrsA88-89</PageReference>
+    </Child>
+    <Child ReferenceText="communication">
+      <PageReference>MrsA13-14</PageReference>
+      <PageReference>MrsA46</PageReference>
+      <PageReference>MrsA50</PageReference>
+    </Child>
+    <Child ReferenceText="defeated">
+      <PageReference>MrsA18</PageReference>
+      <PageReference>MrsA93</PageReference>
+      <PageReference>MrsA76-77</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat">
+      <PageReference>MrsA92-93</PageReference>
+    </Child>
+    <Child ReferenceText="Moscow">
+      <PageReference>MrsA87</PageReference>
+    </Child>
+    <Child ReferenceText="overview of civilian">
+      <PageReference>MrsA13-14</PageReference>
+      <PageReference>MrsA46-47</PageReference>
+    </Child>
+    <Child ReferenceText="typical group">
+      <PageReference>MrsA46</PageReference>
+    </Child>
+    <Child ReferenceText="typical objectives">
+      <PageReference>MrsA47</PageReference>
+    </Child>
+    <Child ReferenceText="Astro Mata">
+      <PageReference>MrsA42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Human technology">
+    <SeeAlso>Gadgeteering</SeeAlso>
+    <SeeAlso>Novas Vira</SeeAlso>
+    <Child ReferenceText="GURPS catalogs">
+      <PageReference>MrsA49</PageReference>
+    </Child>
+    <Child ReferenceText="key equipment">
+      <PageReference>MrsA48-51</PageReference>
+    </Child>
+    <Child ReferenceText="reverse-engineered Martian">
+      <PageReference>MrsA16</PageReference>
+    </Child>
+    <Child ReferenceText="spooﬁng Martian sensors">
+      <PageReference>MrsA40</PageReference>
+    </Child>
+    <Child ReferenceText="by tech level">
+      <PageReference>MrsA47-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Humane meta-trait">
+    <PageReference>MrsA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Humans">
+    <SeeAlso>Abductions</SeeAlso>
+    <SeeAlso>Martian Invasion</SeeAlso>
+    <SeeAlso>Novas Vira</SeeAlso>
+    <SeeAlso>United Earth Alliance</SeeAlso>
+    <Child ReferenceText="civilian template">
+      <PageReference>MrsA61-63</PageReference>
+    </Child>
+    <Child ReferenceText="combatant template">
+      <PageReference>MrsA63-64</PageReference>
+    </Child>
+    <Child ReferenceText="government leaders">
+      <PageReference>MrsA8-10</PageReference>
+      <PageReference>MrsA39</PageReference>
+      <PageReference>MrsA41</PageReference>
+      <PageReference>MrsA42</PageReference>
+      <PageReference>MrsA84</PageReference>
+    </Child>
+    <Child ReferenceText="holdouts">
+      <PageReference>MrsA90</PageReference>
+    </Child>
+    <Child ReferenceText="important">
+      <PageReference>MrsA82-84</PageReference>
+    </Child>
+    <Child ReferenceText="Martian strongholds">
+      <PageReference>MrsA87-89</PageReference>
+    </Child>
+    <Child ReferenceText="power plants and resources">
+      <PageReference>MrsA87</PageReference>
+    </Child>
+    <Child ReferenceText="tech template">
+      <PageReference>MrsA64</PageReference>
+    </Child>
+    <Child ReferenceText="templates">
+      <PageReference>MrsA61-65</PageReference>
+    </Child>
+    <Child ReferenceText="vehicles">
+      <PageReference>MrsA50-51</PageReference>
+    </Child>
+    <Child ReferenceText="victory">
+      <PageReference>MrsA93</PageReference>
+    </Child>
+    <Child ReferenceText="weaponry">
+      <PageReference>MrsA48-49</PageReference>
+    </Child>
+    <Child ReferenceText="campaign examples">
+      <PageReference>MrsA73-77</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Imperial Command">
+    <SeeAlso>Interstellar Forces</SeeAlso>
+    <SeeAlso>Martian Invasion</SeeAlso>
+    <SeeAlso>Planetary Forces</SeeAlso>
+    <SeeAlso>Undercover Agents</SeeAlso>
+    <SeeAlso>Stealth Forces</SeeAlso>
+    <Child ReferenceText="grunt example">
+      <PageReference>MrsA31</PageReference>
+    </Child>
+    <Child ReferenceText="structure">
+      <PageReference>MrsA22-24</PageReference>
+    </Child>
+    <Child ReferenceText="generals">
+      <PageReference>MrsA22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Imperial Council">
+    <PageReference>MrsA21</PageReference>
+    <PageReference>MrsA22</PageReference>
+    <SeeAlso>Imperial Command</SeeAlso>
+    <SeeAlso>Martian Invasion</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Insects">
+    <SeeAlso>Bugs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Interstellar Forces">
+    <SeeAlso>Imperial Command</SeeAlso>
+    <SeeAlso>Martian Invasion</SeeAlso>
+    <Child ReferenceText="lenses">
+      <PageReference>MrsA66</PageReference>
+      <PageReference>MrsA67</PageReference>
+    </Child>
+    <Child ReferenceText="structure">
+      <PageReference>MrsA23</PageReference>
+    </Child>
+    <Child ReferenceText="vehicles">
+      <PageReference>MrsA32-33</PageReference>
+    </Child>
+    <Child ReferenceText="campaign ideas">
+      <PageReference>MrsA78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intolerance disadvantage">
+    <PageReference>MrsA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inventing">
+    <SeeAlso>Gadgeteering</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Japan">
+    <SeeAlso>Tokyo</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Jaret">
+    <SeeAlso>Tiger Corps</SeeAlso>
+    <Child ReferenceText="General">
+      <PageReference>MrsA14</PageReference>
+      <PageReference>MrsA40</PageReference>
+      <PageReference>MrsA43</PageReference>
+      <PageReference>MrsA84</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jets">
+    <Child ReferenceText="air force">
+      <PageReference>MrsA50</PageReference>
+      <PageReference>MrsA51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Languages (trait)">
+    <PageReference>MrsA55-56</PageReference>
+    <Child ReferenceText="simplifying">
+      <PageReference>MrsA56</PageReference>
+      <PageReference>MrsA76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Levant Army">
+    <PageReference>MrsA11-12</PageReference>
+    <PageReference>MrsA15</PageReference>
+    <PageReference>MrsA45</PageReference>
+    <SeeAlso>Human Military</SeeAlso>
+    <Child ReferenceText="characteristics">
+      <PageReference>MrsA45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitation">
+    <Child ReferenceText="new">
+      <PageReference>MrsA54</PageReference>
+      <PageReference>MrsA55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="London">
+    <PageReference>MrsA9</PageReference>
+    <PageReference>MrsA11</PageReference>
+    <PageReference>MrsA12</PageReference>
+    <PageReference>MrsA88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Longevity advantage">
+    <PageReference>MrsA56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low TL disadvantage">
+    <PageReference>MrsA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mars Attacks products">
+    <PageReference>MrsA5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martian invasion">
+    <SeeAlso>Abductions</SeeAlso>
+    <SeeAlso>Bugs</SeeAlso>
+    <SeeAlso>Monster Men</SeeAlso>
+    <SeeAlso>Robots</SeeAlso>
+    <Child ReferenceText="1950s and 1960s">
+      <PageReference>MrsA7-8</PageReference>
+    </Child>
+    <Child ReferenceText="after the invasion">
+      <PageReference>MrsA12</PageReference>
+      <PageReference>MrsA18-19</PageReference>
+    </Child>
+    <Child ReferenceText="Atomic-Age campaign ideas">
+      <PageReference>MrsA80-82</PageReference>
+    </Child>
+    <Child ReferenceText="bugs">
+      <PageReference>MrsA9</PageReference>
+      <PageReference>MrsA14</PageReference>
+      <PageReference>MrsA17</PageReference>
+      <PageReference>MrsA25</PageReference>
+    </Child>
+    <Child ReferenceText="command restructured">
+      <PageReference>MrsA16</PageReference>
+    </Child>
+    <Child ReferenceText="early missions">
+      <PageReference>MrsA7-8</PageReference>
+    </Child>
+    <Child ReferenceText="ﬁrst wave">
+      <PageReference>MrsA8-10</PageReference>
+    </Child>
+    <Child ReferenceText="ﬁxed events">
+      <PageReference>MrsA11</PageReference>
+    </Child>
+    <Child ReferenceText="geothermal power source">
+      <PageReference>MrsA11</PageReference>
+      <PageReference>MrsA12</PageReference>
+      <PageReference>MrsA19</PageReference>
+      <PageReference>MrsA27</PageReference>
+    </Child>
+    <Child ReferenceText="government assassinations">
+      <PageReference>MrsA8-9</PageReference>
+      <PageReference>MrsA39</PageReference>
+      <PageReference>MrsA42</PageReference>
+    </Child>
+    <Child ReferenceText="important people">
+      <PageReference>MrsA82-87</PageReference>
+    </Child>
+    <Child ReferenceText="modern campaign ideas">
+      <PageReference>MrsA73-80</PageReference>
+    </Child>
+    <Child ReferenceText="monument attacks">
+      <PageReference>MrsA9</PageReference>
+    </Child>
+    <Child ReferenceText="occupation of Earth">
+      <PageReference>MrsA18</PageReference>
+    </Child>
+    <Child ReferenceText="other solar systems">
+      <PageReference>MrsA21</PageReference>
+    </Child>
+    <Child ReferenceText="plot ideas">
+      <PageReference>MrsA90-93</PageReference>
+    </Child>
+    <Child ReferenceText="reasons for">
+      <PageReference>MrsA8</PageReference>
+    </Child>
+    <Child ReferenceText="robots">
+      <PageReference>MrsA17-18</PageReference>
+      <PageReference>MrsA25-26</PageReference>
+    </Child>
+    <Child ReferenceText="second wave">
+      <PageReference>MrsA10-12</PageReference>
+    </Child>
+    <Child ReferenceText="setting dates">
+      <PageReference>MrsA7</PageReference>
+    </Child>
+    <Child ReferenceText="strongholds">
+      <PageReference>MrsA87-89</PageReference>
+    </Child>
+    <Child ReferenceText="timeline">
+      <PageReference>MrsA7-19</PageReference>
+    </Child>
+    <Child ReferenceText="tipping the scales">
+      <PageReference>MrsA16-18</PageReference>
+    </Child>
+    <Child ReferenceText="victory">
+      <PageReference>MrsA18</PageReference>
+      <PageReference>MrsA93</PageReference>
+      <PageReference>MrsA76-77</PageReference>
+    </Child>
+    <Child ReferenceText="1930s and 1940s">
+      <PageReference>MrsA7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Martian Rank advantage">
+    <PageReference>MrsA56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martian technology">
+    <PageReference>MrsA28-33</PageReference>
+    <SeeAlso>Gadgeteering</SeeAlso>
+    <Child ReferenceText="GURPS catalogs">
+      <PageReference>MrsA49</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>MrsA28-29</PageReference>
+    </Child>
+    <Child ReferenceText="geothermal power source">
+      <PageReference>MrsA11</PageReference>
+      <PageReference>MrsA12</PageReference>
+      <PageReference>MrsA19</PageReference>
+      <PageReference>MrsA27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Martian vehicles">
+    <PageReference>MrsA32</PageReference>
+    <Child ReferenceText="point defense">
+      <PageReference>MrsA35</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>MrsA34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Martian weapons">
+    <Child ReferenceText="under water">
+      <PageReference>MrsA30</PageReference>
+    </Child>
+    <Child ReferenceText="vehicle">
+      <PageReference>MrsA34</PageReference>
+      <PageReference>MrsA35</PageReference>
+    </Child>
+    <Child ReferenceText="small arms">
+      <PageReference>MrsA29-30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Martians">
+    <SeeAlso>Imperial Command</SeeAlso>
+    <SeeAlso>Undercover Agents</SeeAlso>
+    <SeeAlso>Science Division</SeeAlso>
+    <Child ReferenceText="blackmail">
+      <PageReference>MrsA21</PageReference>
+    </Child>
+    <Child ReferenceText="bribery">
+      <PageReference>MrsA21</PageReference>
+    </Child>
+    <Child ReferenceText="campaign ideas">
+      <PageReference>MrsA77-80</PageReference>
+    </Child>
+    <Child ReferenceText="character templates">
+      <PageReference>MrsA65-67</PageReference>
+    </Child>
+    <Child ReferenceText="fascination with women">
+      <PageReference>MrsA8</PageReference>
+      <PageReference>MrsA70</PageReference>
+    </Child>
+    <Child ReferenceText="general (military) template">
+      <PageReference>MrsA67</PageReference>
+    </Child>
+    <Child ReferenceText="generals">
+      <PageReference>MrsA22</PageReference>
+      <PageReference>MrsA85-86</PageReference>
+    </Child>
+    <Child ReferenceText="government structure">
+      <PageReference>MrsA21-22</PageReference>
+    </Child>
+    <Child ReferenceText="High TL">
+      <PageReference>MrsA55</PageReference>
+    </Child>
+    <Child ReferenceText="Humane">
+      <PageReference>MrsA57</PageReference>
+    </Child>
+    <Child ReferenceText="language">
+      <PageReference>MrsA55</PageReference>
+    </Child>
+    <Child ReferenceText="military structure">
+      <PageReference>MrsA22-24</PageReference>
+    </Child>
+    <Child ReferenceText="ofﬁcer template">
+      <PageReference>MrsA66</PageReference>
+    </Child>
+    <Child ReferenceText="PCs as">
+      <PageReference>MrsA28</PageReference>
+    </Child>
+    <Child ReferenceText="personal defense gear">
+      <PageReference>MrsA30-32</PageReference>
+    </Child>
+    <Child ReferenceText="personality">
+      <PageReference>MrsA21</PageReference>
+      <PageReference>MrsA28</PageReference>
+    </Child>
+    <Child ReferenceText="racial templates">
+      <PageReference>MrsA60</PageReference>
+    </Child>
+    <Child ReferenceText="rank">
+      <PageReference>MrsA21</PageReference>
+      <PageReference>MrsA23</PageReference>
+      <PageReference>MrsA56</PageReference>
+    </Child>
+    <Child ReferenceText="sample grunt">
+      <PageReference>MrsA31</PageReference>
+    </Child>
+    <Child ReferenceText="shattering helmets">
+      <PageReference>MrsA31</PageReference>
+    </Child>
+    <Child ReferenceText="society">
+      <PageReference>MrsA21-28</PageReference>
+    </Child>
+    <Child ReferenceText="space exploration">
+      <PageReference>MrsA21</PageReference>
+    </Child>
+    <Child ReferenceText="status">
+      <PageReference>MrsA21</PageReference>
+    </Child>
+    <Child ReferenceText="trooper template">
+      <PageReference>MrsA65-66</PageReference>
+    </Child>
+    <Child ReferenceText="wealth">
+      <PageReference>MrsA21</PageReference>
+      <PageReference>MrsA57</PageReference>
+    </Child>
+    <Child ReferenceText="Achilles’ heel">
+      <PageReference>MrsA60</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-trait">
+    <Child ReferenceText="new">
+      <PageReference>MrsA57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mexico">
+    <PageReference>MrsA11</PageReference>
+    <PageReference>MrsA19</PageReference>
+    <PageReference>MrsA27</PageReference>
+    <PageReference>MrsA89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Middle East">
+    <PageReference>MrsA11-12</PageReference>
+    <Child ReferenceText="campaign idea">
+      <PageReference>MrsA74-75</PageReference>
+    </Child>
+    <Child ReferenceText="Levant Army">
+      <PageReference>MrsA11-12</PageReference>
+      <PageReference>MrsA15</PageReference>
+      <PageReference>MrsA45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind-control beamers">
+    <PageReference>MrsA29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monster men">
+    <PageReference>MrsA16-17</PageReference>
+    <PageReference>MrsA26</PageReference>
+    <PageReference>MrsA37</PageReference>
+    <Child ReferenceText="self-control number">
+      <PageReference>MrsA34</PageReference>
+    </Child>
+    <Child ReferenceText="variations">
+      <PageReference>MrsA37</PageReference>
+    </Child>
+    <Child ReferenceText="zombiﬁed upgrades">
+      <PageReference>MrsA37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Moscow">
+    <PageReference>MrsA45</PageReference>
+    <PageReference>MrsA87</PageReference>
+    <Child ReferenceText="Armed Forces of the Russian Federation">
+      <PageReference>MrsA45-46</PageReference>
+    </Child>
+    <Child ReferenceText="initial invasion">
+      <PageReference>MrsA10-11</PageReference>
+      <PageReference>MrsA28</PageReference>
+    </Child>
+    <Child ReferenceText="humans retaking">
+      <PageReference>MrsA15-16</PageReference>
+    </Child>
+    <Child ReferenceText="Martians retaking">
+      <PageReference>MrsA18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Motherships">
+    <PageReference>MrsA32</PageReference>
+    <PageReference>MrsA33</PageReference>
+    <Child ReferenceText="arming">
+      <PageReference>MrsA32</PageReference>
+    </Child>
+    <Child ReferenceText="point defense system">
+      <PageReference>MrsA35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="New York City">
+    <PageReference>MrsA87-88</PageReference>
+    <Child ReferenceText="bugs">
+      <PageReference>MrsA17</PageReference>
+    </Child>
+    <Child ReferenceText="initial invasion">
+      <PageReference>MrsA9</PageReference>
+      <PageReference>MrsA12</PageReference>
+    </Child>
+    <Child ReferenceText="robots">
+      <PageReference>MrsA26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Novas Vira">
+    <SeeAlso>Gadgeteering</SeeAlso>
+    <SeeAlso>Human Military</SeeAlso>
+    <SeeAlso>Human Resistance</SeeAlso>
+    <SeeAlso>Human Technology</SeeAlso>
+    <SeeAlso>Quentin</SeeAlso>
+    <SeeAlso>Spencer</SeeAlso>
+    <SeeAlso>Tiger Corps</SeeAlso>
+    <SeeAlso>United Earth Alliance</SeeAlso>
+    <SeeAlso>Walters</SeeAlso>
+    <Child ReferenceText="armor">
+      <PageReference>MrsA49</PageReference>
+    </Child>
+    <Child ReferenceText="as Patron">
+      <PageReference>MrsA56</PageReference>
+    </Child>
+    <Child ReferenceText="Astro Mata and">
+      <PageReference>MrsA42</PageReference>
+    </Child>
+    <Child ReferenceText="Atomic Age">
+      <PageReference>MrsA80-82</PageReference>
+    </Child>
+    <Child ReferenceText="before the invasion">
+      <PageReference>MrsA6</PageReference>
+      <PageReference>MrsA7</PageReference>
+      <PageReference>MrsA39-42</PageReference>
+    </Child>
+    <Child ReferenceText="campaign ideas">
+      <PageReference>MrsA73</PageReference>
+      <PageReference>MrsA75</PageReference>
+      <PageReference>MrsA79</PageReference>
+      <PageReference>MrsA89</PageReference>
+    </Child>
+    <Child ReferenceText="character template">
+      <PageReference>MrsA64</PageReference>
+    </Child>
+    <Child ReferenceText="communication">
+      <PageReference>MrsA13-14</PageReference>
+      <PageReference>MrsA43</PageReference>
+      <PageReference>MrsA50</PageReference>
+    </Child>
+    <Child ReferenceText="current mission">
+      <PageReference>MrsA43</PageReference>
+    </Child>
+    <Child ReferenceText="current structure">
+      <PageReference>MrsA42-43</PageReference>
+    </Child>
+    <Child ReferenceText="cybernetics">
+      <PageReference>MrsA49-50</PageReference>
+      <PageReference>MrsA54</PageReference>
+    </Child>
+    <Child ReferenceText="defeated">
+      <PageReference>MrsA18</PageReference>
+    </Child>
+    <Child ReferenceText="during the invasion">
+      <PageReference>MrsA9</PageReference>
+      <PageReference>MrsA15</PageReference>
+      <PageReference>MrsA19</PageReference>
+      <PageReference>MrsA39</PageReference>
+      <PageReference>MrsA40</PageReference>
+      <PageReference>MrsA42</PageReference>
+      <PageReference>MrsA44-45</PageReference>
+    </Child>
+    <Child ReferenceText="headquarters">
+      <PageReference>MrsA42</PageReference>
+      <PageReference>MrsA43</PageReference>
+    </Child>
+    <Child ReferenceText="High TL and">
+      <PageReference>MrsA55</PageReference>
+    </Child>
+    <Child ReferenceText="history">
+      <PageReference>MrsA40-41</PageReference>
+    </Child>
+    <Child ReferenceText="in resistance groups">
+      <PageReference>MrsA46-47</PageReference>
+    </Child>
+    <Child ReferenceText="inventions">
+      <PageReference>MrsA32</PageReference>
+      <PageReference>MrsA47-48</PageReference>
+      <PageReference>MrsA50</PageReference>
+      <PageReference>MrsA71-72</PageReference>
+    </Child>
+    <Child ReferenceText="languages">
+      <PageReference>MrsA55</PageReference>
+    </Child>
+    <Child ReferenceText="lenses">
+      <PageReference>MrsA62</PageReference>
+      <PageReference>MrsA64</PageReference>
+    </Child>
+    <Child ReferenceText="longevity formula">
+      <PageReference>MrsA56</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat">
+      <PageReference>MrsA92</PageReference>
+    </Child>
+    <Child ReferenceText="other militaries and">
+      <PageReference>MrsA46</PageReference>
+    </Child>
+    <Child ReferenceText="PLA and">
+      <PageReference>MrsA44-45</PageReference>
+    </Child>
+    <Child ReferenceText="United States Armed Forces and">
+      <PageReference>MrsA45</PageReference>
+    </Child>
+    <Child ReferenceText="upgrading military">
+      <PageReference>MrsA12</PageReference>
+      <PageReference>MrsA16</PageReference>
+      <PageReference>MrsA46</PageReference>
+      <PageReference>MrsA92</PageReference>
+    </Child>
+    <Child ReferenceText="weaponry">
+      <PageReference>MrsA48-49</PageReference>
+    </Child>
+    <Child ReferenceText="after the invasion">
+      <PageReference>MrsA12</PageReference>
+      <PageReference>MrsA14-15</PageReference>
+      <PageReference>MrsA19</PageReference>
+      <PageReference>MrsA42-43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nuclear weapons">
+    <PageReference>MrsA13</PageReference>
+    <PageReference>MrsA32</PageReference>
+    <Child ReferenceText="damper">
+      <PageReference>MrsA13</PageReference>
+      <PageReference>MrsA32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrons advantage">
+    <PageReference>MrsA56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="People’s Liberation Army of China (PLA)">
+    <PageReference>MrsA44-45</PageReference>
+    <SeeAlso>Human Military</SeeAlso>
+    <Child ReferenceText="characteristics">
+      <PageReference>MrsA45</PageReference>
+    </Child>
+    <Child ReferenceText="in invasion">
+      <PageReference>MrsA14</PageReference>
+      <PageReference>MrsA15</PageReference>
+      <PageReference>MrsA17</PageReference>
+      <PageReference>MrsA90</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Peru">
+    <PageReference>MrsA11</PageReference>
+    <PageReference>MrsA19</PageReference>
+    <PageReference>MrsA27</PageReference>
+    <PageReference>MrsA89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planetary Forces">
+    <SeeAlso>Imperial Command</SeeAlso>
+    <SeeAlso>Martian Invasion</SeeAlso>
+    <Child ReferenceText="structure">
+      <PageReference>MrsA22-23</PageReference>
+    </Child>
+    <Child ReferenceText="templates">
+      <PageReference>MrsA65-67</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>MrsA29</PageReference>
+    </Child>
+    <Child ReferenceText="campaign idea">
+      <PageReference>MrsA78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Point defense systems">
+    <PageReference>MrsA35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Project: Bug">
+    <PageReference>MrsA25</PageReference>
+    <SeeAlso>Bugs</SeeAlso>
+    <Child ReferenceText="campaign idea">
+      <PageReference>MrsA78</PageReference>
+      <PageReference>MrsA90</PageReference>
+    </Child>
+    <Child ReferenceText="in invasion">
+      <PageReference>MrsA9</PageReference>
+      <PageReference>MrsA14</PageReference>
+      <PageReference>MrsA17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Project: Deep Freeze">
+    <PageReference>MrsA7</PageReference>
+    <PageReference>MrsA27</PageReference>
+    <PageReference>MrsA64</PageReference>
+    <SeeAlso>Abductions</SeeAlso>
+    <Child ReferenceText="campaign idea">
+      <PageReference>MrsA75-76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Project: Human Upgrade">
+    <PageReference>MrsA26</PageReference>
+    <SeeAlso>Abductions</SeeAlso>
+    <SeeAlso>Monster Men</SeeAlso>
+    <Child ReferenceText="in invasion">
+      <PageReference>MrsA16-17</PageReference>
+    </Child>
+    <Child ReferenceText="plot idea">
+      <PageReference>MrsA90</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Project: Robot">
+    <PageReference>MrsA25-26</PageReference>
+    <SeeAlso>Robots</SeeAlso>
+    <Child ReferenceText="in invasion">
+      <PageReference>MrsA17-18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Project: Underground">
+    <PageReference>MrsA11</PageReference>
+    <PageReference>MrsA26-27</PageReference>
+    <PageReference>MrsA89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychology skill">
+    <PageReference>MrsA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quentin">
+    <SeeAlso>Novas Vira</SeeAlso>
+    <Child ReferenceText="Astro Mata  and">
+      <PageReference>MrsA42</PageReference>
+    </Child>
+    <Child ReferenceText="communication">
+      <PageReference>MrsA43</PageReference>
+    </Child>
+    <Child ReferenceText="invasion and">
+      <PageReference>MrsA14</PageReference>
+      <PageReference>MrsA42</PageReference>
+    </Child>
+    <Child ReferenceText="Director Gil">
+      <PageReference>MrsA40-41</PageReference>
+      <PageReference>MrsA83</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Range bands (combat)">
+    <PageReference>MrsA72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rank advantage">
+    <PageReference>MrsA56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recommended books">
+    <PageReference>MrsA5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robots">
+    <PageReference>MrsA33</PageReference>
+    <PageReference>MrsA36-37</PageReference>
+    <Child ReferenceText="campaign idea">
+      <PageReference>MrsA78</PageReference>
+    </Child>
+    <Child ReferenceText="in invasion">
+      <PageReference>MrsA17-18</PageReference>
+      <PageReference>MrsA25-26</PageReference>
+      <PageReference>MrsA87-88</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat">
+      <PageReference>MrsA93</PageReference>
+    </Child>
+    <Child ReferenceText="operator">
+      <PageReference>MrsA36</PageReference>
+      <PageReference>MrsA66</PageReference>
+    </Child>
+    <Child ReferenceText="project">
+      <PageReference>MrsA25-26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Russia">
+    <SeeAlso>Moscow</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sana’a">
+    <PageReference>MrsA12</PageReference>
+    <PageReference>MrsA89</PageReference>
+    <Child ReferenceText="retaking">
+      <PageReference>MrsA116</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Satellite">
+    <Child ReferenceText="low-orbit">
+      <PageReference>MrsA13-14</PageReference>
+      <PageReference>MrsA43</PageReference>
+      <PageReference>MrsA46</PageReference>
+      <PageReference>MrsA50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Saucers">
+    <PageReference>MrsA32-33</PageReference>
+    <Child ReferenceText="arming">
+      <PageReference>MrsA32</PageReference>
+    </Child>
+    <Child ReferenceText="point defense system">
+      <PageReference>MrsA35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Science Division">
+    <PageReference>MrsA24-28</PageReference>
+    <SeeAlso>Teed</SeeAlso>
+    <Child ReferenceText="campaign idea">
+      <PageReference>MrsA79-80</PageReference>
+    </Child>
+    <Child ReferenceText="cybernetics">
+      <PageReference>MrsA54</PageReference>
+    </Child>
+    <Child ReferenceText="lenses">
+      <PageReference>MrsA66</PageReference>
+      <PageReference>MrsA67</PageReference>
+    </Child>
+    <Child ReferenceText="major projects">
+      <PageReference>MrsA25-27</PageReference>
+    </Child>
+    <Child ReferenceText="new projects">
+      <PageReference>MrsA27-28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Science Infantry">
+    <PageReference>MrsA16</PageReference>
+    <PageReference>MrsA26</PageReference>
+    <SeeAlso>Project: Robots</SeeAlso>
+    <SeeAlso>Robots</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadow (Tiger Corp member)">
+    <PageReference>MrsA84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shrink rays">
+    <PageReference>MrsA34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>MrsA58-59</PageReference>
+    <Child ReferenceText="information">
+      <PageReference>MrsA62</PageReference>
+    </Child>
+    <Child ReferenceText="tech level and">
+      <PageReference>MrsA53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spaceships">
+    <PageReference>MrsA32-33</PageReference>
+    <PageReference>MrsA35</PageReference>
+    <PageReference>MrsA51</PageReference>
+    <Child ReferenceText="arming">
+      <PageReference>MrsA32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Specialized limitation">
+    <PageReference>MrsA54-55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spencer">
+    <Child ReferenceText="thwarting assassination">
+      <PageReference>MrsA9</PageReference>
+      <PageReference>MrsA10</PageReference>
+      <PageReference>MrsA39</PageReference>
+      <PageReference>MrsA42</PageReference>
+    </Child>
+    <Child ReferenceText="Senator Buck">
+      <PageReference>MrsA8</PageReference>
+      <PageReference>MrsA41</PageReference>
+      <PageReference>MrsA82-83</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Status trait">
+    <PageReference>MrsA56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stealth ﬁeld generators">
+    <PageReference>MrsA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stealth Forces">
+    <SeeAlso>Imperial Command</SeeAlso>
+    <SeeAlso>Martian Invasion</SeeAlso>
+    <Child ReferenceText="early missions">
+      <PageReference>MrsA7</PageReference>
+    </Child>
+    <Child ReferenceText="campaign ideas">
+      <PageReference>MrsA77</PageReference>
+      <PageReference>MrsA91</PageReference>
+    </Child>
+    <Child ReferenceText="lens">
+      <PageReference>MrsA66</PageReference>
+    </Child>
+    <Child ReferenceText="structure">
+      <PageReference>MrsA23-24</PageReference>
+    </Child>
+    <Child ReferenceText="mind-control beamers">
+      <PageReference>MrsA29-30</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>MrsA31-32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stonehenge">
+    <PageReference>MrsA11</PageReference>
+    <PageReference>MrsA12</PageReference>
+    <PageReference>MrsA88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supreme Regent">
+    <PageReference>MrsA21-22</PageReference>
+    <SeeAlso>Imperial Command</SeeAlso>
+    <SeeAlso>Imperial Council</SeeAlso>
+    <SeeAlso>Martian Invasion</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="human vehicular weaponry">
+      <PageReference>MrsA51</PageReference>
+    </Child>
+    <Child ReferenceText="Martian small arms">
+      <PageReference>MrsA30</PageReference>
+    </Child>
+    <Child ReferenceText="Martian vehicle">
+      <PageReference>MrsA33</PageReference>
+    </Child>
+    <Child ReferenceText="Martian vehicular weaponry">
+      <PageReference>MrsA34</PageReference>
+    </Child>
+    <Child ReferenceText="random monsters">
+      <PageReference>MrsA36</PageReference>
+      <PageReference>MrsA37</PageReference>
+    </Child>
+    <Child ReferenceText="random scenes">
+      <PageReference>MrsA92</PageReference>
+    </Child>
+    <Child ReferenceText="human vehicle">
+      <PageReference>MrsA51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talent advantage">
+    <PageReference>MrsA56-57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech level (TL)">
+    <PageReference>MrsA53-54</PageReference>
+    <Child ReferenceText="of equipment">
+      <PageReference>MrsA28-29</PageReference>
+      <PageReference>MrsA47-48</PageReference>
+    </Child>
+    <Child ReferenceText="traits">
+      <PageReference>MrsA55</PageReference>
+      <PageReference>MrsA57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Technology">
+    <SeeAlso>Armor</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Teed">
+    <Child ReferenceText="as Science Division head">
+      <PageReference>MrsA24-25</PageReference>
+    </Child>
+    <Child ReferenceText="invasion efforts">
+      <PageReference>MrsA12</PageReference>
+      <PageReference>MrsA14</PageReference>
+      <PageReference>MrsA16-17</PageReference>
+    </Child>
+    <Child ReferenceText="promotion">
+      <PageReference>MrsA16</PageReference>
+    </Child>
+    <Child ReferenceText="robots and">
+      <PageReference>MrsA26</PageReference>
+    </Child>
+    <Child ReferenceText="tactics">
+      <PageReference>MrsA19</PageReference>
+    </Child>
+    <Child ReferenceText="Tiger Corps and">
+      <PageReference>MrsA43-44</PageReference>
+    </Child>
+    <Child ReferenceText="Anon">
+      <PageReference>MrsA86</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <Child ReferenceText="human character">
+      <PageReference>MrsA61-65</PageReference>
+    </Child>
+    <Child ReferenceText="Martian character">
+      <PageReference>MrsA65-67</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters">
+      <PageReference>MrsA62</PageReference>
+    </Child>
+    <Child ReferenceText="other alien character">
+      <PageReference>MrsA64-65</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>MrsA61</PageReference>
+    </Child>
+    <Child ReferenceText="racial">
+      <PageReference>MrsA59-61</PageReference>
+    </Child>
+    <Child ReferenceText="Action">
+      <PageReference>MrsA62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiger Corps">
+    <PageReference>MrsA43-44</PageReference>
+    <SeeAlso>Human Military</SeeAlso>
+    <SeeAlso>Human Resistance</SeeAlso>
+    <SeeAlso>Novas Vira</SeeAlso>
+    <SeeAlso>United Earth Alliance</SeeAlso>
+    <SeeAlso>Venture</SeeAlso>
+    <Child ReferenceText="armor">
+      <PageReference>MrsA48</PageReference>
+    </Child>
+    <Child ReferenceText="as Patron">
+      <PageReference>MrsA56</PageReference>
+    </Child>
+    <Child ReferenceText="assistance by">
+      <PageReference>MrsA14-15</PageReference>
+      <PageReference>MrsA40</PageReference>
+      <PageReference>MrsA43</PageReference>
+    </Child>
+    <Child ReferenceText="Atomic Age">
+      <PageReference>MrsA82</PageReference>
+    </Child>
+    <Child ReferenceText="campaign ideas">
+      <PageReference>MrsA75</PageReference>
+      <PageReference>MrsA76</PageReference>
+    </Child>
+    <Child ReferenceText="cybernetics">
+      <PageReference>MrsA49-50</PageReference>
+      <PageReference>MrsA54</PageReference>
+    </Child>
+    <Child ReferenceText="General Jaret">
+      <PageReference>MrsA14</PageReference>
+      <PageReference>MrsA40</PageReference>
+      <PageReference>MrsA43</PageReference>
+      <PageReference>MrsA84</PageReference>
+    </Child>
+    <Child ReferenceText="general knowledge">
+      <PageReference>MrsA43</PageReference>
+    </Child>
+    <Child ReferenceText="High TL and">
+      <PageReference>MrsA55</PageReference>
+    </Child>
+    <Child ReferenceText="history">
+      <PageReference>MrsA43-44</PageReference>
+    </Child>
+    <Child ReferenceText="languages">
+      <PageReference>MrsA55</PageReference>
+      <PageReference>MrsA56</PageReference>
+    </Child>
+    <Child ReferenceText="member template">
+      <PageReference>MrsA64-65</PageReference>
+    </Child>
+    <Child ReferenceText="PCs as members">
+      <PageReference>MrsA44</PageReference>
+      <PageReference>MrsA53</PageReference>
+    </Child>
+    <Child ReferenceText="racial templates">
+      <PageReference>MrsA61</PageReference>
+    </Child>
+    <Child ReferenceText="weaponry">
+      <PageReference>MrsA48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Timeline">
+    <SeeAlso>Martian Invasion</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Tokyo">
+    <PageReference>MrsA9</PageReference>
+    <PageReference>MrsA12</PageReference>
+    <PageReference>MrsA88</PageReference>
+    <Child ReferenceText="bugs">
+      <PageReference>MrsA17</PageReference>
+    </Child>
+    <Child ReferenceText="robots">
+      <PageReference>MrsA26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tor">
+    <Child ReferenceText="General">
+      <PageReference>MrsA11</PageReference>
+      <PageReference>MrsA85</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Transhuman Space: Bioroid Bazaar">
+    <PageReference>MrsA61</PageReference>
+    <SeeAlso>GURPS</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Undercover Agents">
+    <SeeAlso>Imperial Command</SeeAlso>
+    <SeeAlso>Martian Invasion</SeeAlso>
+    <Child ReferenceText="campaign ideas">
+      <PageReference>MrsA75</PageReference>
+      <PageReference>MrsA77-78</PageReference>
+    </Child>
+    <Child ReferenceText="early missions">
+      <PageReference>MrsA7-8</PageReference>
+    </Child>
+    <Child ReferenceText="mind-control beamers">
+      <PageReference>MrsA29</PageReference>
+    </Child>
+    <Child ReferenceText="structure">
+      <PageReference>MrsA24</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>MrsA56-57</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>MrsA60</PageReference>
+    </Child>
+    <Child ReferenceText="Beloss Bel">
+      <PageReference>MrsA7</PageReference>
+      <PageReference>MrsA24</PageReference>
+      <PageReference>MrsA86-87</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="United Earth Alliance (UEA)">
+    <SeeAlso>Human Military</SeeAlso>
+    <SeeAlso>Human Resistance</SeeAlso>
+    <SeeAlso>Moscow</SeeAlso>
+    <SeeAlso>Novas Vira</SeeAlso>
+    <Child ReferenceText="beginnings">
+      <PageReference>MrsA15-16</PageReference>
+    </Child>
+    <Child ReferenceText="campaign idea">
+      <PageReference>MrsA74-75</PageReference>
+    </Child>
+    <Child ReferenceText="membership">
+      <PageReference>MrsA44-46</PageReference>
+    </Child>
+    <Child ReferenceText="mission">
+      <PageReference>MrsA44</PageReference>
+    </Child>
+    <Child ReferenceText="prevailing">
+      <PageReference>MrsA19</PageReference>
+      <PageReference>MrsA93</PageReference>
+    </Child>
+    <Child ReferenceText="strengths and weaknesses">
+      <PageReference>MrsA46</PageReference>
+    </Child>
+    <Child ReferenceText="annihilated">
+      <PageReference>MrsA18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="United Kingdom">
+    <SeeAlso>London</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="United States Armed Forces">
+    <PageReference>MrsA45</PageReference>
+    <SeeAlso>Human Military</SeeAlso>
+    <Child ReferenceText="characteristics">
+      <PageReference>MrsA45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <Child ReferenceText="Martian">
+      <PageReference>MrsA32-33</PageReference>
+    </Child>
+    <Child ReferenceText="point defense">
+      <PageReference>MrsA35</PageReference>
+    </Child>
+    <Child ReferenceText="human">
+      <PageReference>MrsA50-51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Venture (spaceship)">
+    <PageReference>MrsA14</PageReference>
+    <PageReference>MrsA27</PageReference>
+    <PageReference>MrsA40</PageReference>
+    <SeeAlso>Tiger Corps</SeeAlso>
+    <Child ReferenceText="Mass Combat">
+      <PageReference>MrsA93</PageReference>
+    </Child>
+    <Child ReferenceText="campaign idea">
+      <PageReference>MrsA76</PageReference>
+    </Child>
+    <Child ReferenceText="Corus">
+      <PageReference>MrsA84</PageReference>
+    </Child>
+    <Child ReferenceText="point defense system">
+      <PageReference>MrsA35</PageReference>
+    </Child>
+    <Child ReferenceText="game  stats">
+      <PageReference>MrsA51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vocoders">
+    <Child ReferenceText="Martian">
+      <PageReference>MrsA50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Walkers">
+    <SeeAlso>Robots</SeeAlso>
+    <Child ReferenceText="Martian">
+      <PageReference>MrsA33</PageReference>
+      <PageReference>MrsA36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Walters">
+    <Child ReferenceText="Professor  David">
+      <PageReference>MrsA14</PageReference>
+      <PageReference>MrsA41</PageReference>
+      <PageReference>MrsA83-84</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth trait">
+    <PageReference>MrsA57</PageReference>
+    <PageReference>MrsA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <Child ReferenceText="Martians">
+      <PageReference>MrsA29-30</PageReference>
+      <PageReference>MrsA34</PageReference>
+      <PageReference>MrsA35</PageReference>
+    </Child>
+    <Child ReferenceText="humans">
+      <PageReference>MrsA35</PageReference>
+      <PageReference>MrsA48-49</PageReference>
+      <PageReference>MrsA51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weird Science skill">
+    <PageReference>MrsA58-59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard skills">
+    <PageReference>MrsA59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wormhole network">
+    <PageReference>MrsA21</PageReference>
+    <PageReference>MrsA43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Xenophilia disadvantage">
+    <PageReference>MrsA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Z-frequency generators">
+    <PageReference>MrsA48-49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zar">
+    <Child ReferenceText="doomsday weapon">
+      <PageReference>MrsA85-86</PageReference>
+      <PageReference>MrsA91</PageReference>
+    </Child>
+    <Child ReferenceText="Middle East invasion">
+      <PageReference>MrsA12</PageReference>
+    </Child>
+    <Child ReferenceText="General">
+      <PageReference>MrsA85-86</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

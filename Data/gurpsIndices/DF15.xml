@@ -1,0 +1,676 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Adept lens">
+    <PageReference>DF15:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <Child ReferenceText="flashback">
+      <PageReference>DF15:38</PageReference>
+    </Child>
+    <Child ReferenceText="troupestyle play">
+      <PageReference>DF15:33</PageReference>
+    </Child>
+    <Child ReferenceText="cursed">
+      <PageReference>DF15:38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Agent template">
+    <PageReference>DF15:4-6</PageReference>
+    <PageReference>DF15:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy (Analysis) skill">
+    <PageReference>DF15:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies advantage">
+    <PageReference>DF15:3</PageReference>
+    <PageReference>DF15:26</PageReference>
+    <SeeAlso>Templates</SeeAlso>
+    <Child ReferenceText="advancement">
+      <PageReference>DF15:23</PageReference>
+      <PageReference>DF15:29</PageReference>
+    </Child>
+    <Child ReferenceText="designing">
+      <PageReference>DF15:28</PageReference>
+    </Child>
+    <Child ReferenceText="frequency of appearance">
+      <PageReference>DF15:27-28</PageReference>
+    </Child>
+    <Child ReferenceText="killing">
+      <PageReference>DF15:28</PageReference>
+      <PageReference>DF15:29</PageReference>
+    </Child>
+    <Child ReferenceText="loans">
+      <PageReference>DF15:29</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>DF15:28</PageReference>
+    </Child>
+    <Child ReferenceText="money">
+      <PageReference>DF15:29</PageReference>
+    </Child>
+    <Child ReferenceText="nonhuman">
+      <PageReference>DF15:39</PageReference>
+    </Child>
+    <Child ReferenceText="playing">
+      <PageReference>DF15:28-29</PageReference>
+    </Child>
+    <Child ReferenceText="point cost">
+      <PageReference>DF15:26-28</PageReference>
+    </Child>
+    <Child ReferenceText="power-ups">
+      <PageReference>DF15:23</PageReference>
+    </Child>
+    <Child ReferenceText="pros and cons">
+      <PageReference>DF15:27</PageReference>
+    </Child>
+    <Child ReferenceText="remuneration">
+      <PageReference>DF15:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance rolls, as loyalty rolls">
+    <PageReference>DF15:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Apprentice template">
+    <PageReference>DF15:6-8</PageReference>
+    <PageReference>DF15:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archer template">
+    <PageReference>DF15:8-9</PageReference>
+    <PageReference>DF15:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Asbestos Hands perk">
+    <PageReference>DF15:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assassins">
+    <SeeAlso>Burglar Lens</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bandit character type">
+    <PageReference>DF15:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbarians">
+    <SeeAlso>Brute Template</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bards">
+    <SeeAlso>Agent Template</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Brute template">
+    <PageReference>DF15:9-10</PageReference>
+    <PageReference>DF15:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burglar lens">
+    <PageReference>DF15:34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <SeeAlso>Adventures</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cat burglar character type">
+    <PageReference>DF15:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Champion lens">
+    <PageReference>DF15:35-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <SeeAlso>Delvers</SeeAlso>
+    <SeeAlso>Henchmen</SeeAlso>
+    <SeeAlso>Hirelings</SeeAlso>
+    <SeeAlso>Templates</SeeAlso>
+    <Child ReferenceText="nonhuman">
+      <PageReference>DF15:39</PageReference>
+    </Child>
+    <Child ReferenceText="playing multiple">
+      <PageReference>DF15:33</PageReference>
+    </Child>
+    <Child ReferenceText="creation">
+      <PageReference>DF15:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleric lens">
+    <SeeAlso>Cultist Template</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothes">
+    <PageReference>DF15:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cook character type">
+    <PageReference>DF15:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crusader character type">
+    <PageReference>DF15:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultist template">
+    <PageReference>DF15:18-21</PageReference>
+    <PageReference>DF15:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutpurse template">
+    <PageReference>DF15:10-12</PageReference>
+    <PageReference>DF15:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delvers">
+    <SeeAlso>Characters</SeeAlso>
+    <SeeAlso>Templates</SeeAlso>
+    <Child ReferenceText="customized">
+      <PageReference>DF15:33-41</PageReference>
+    </Child>
+    <Child ReferenceText="junior">
+      <PageReference>DF15:32</PageReference>
+    </Child>
+    <Child ReferenceText="low-powered">
+      <PageReference>DF15:32-33</PageReference>
+    </Child>
+    <Child ReferenceText="reasons for customized">
+      <PageReference>DF15:38</PageReference>
+    </Child>
+    <Child ReferenceText="team composition">
+      <PageReference>DF15:5</PageReference>
+    </Child>
+    <Child ReferenceText="younger versions">
+      <PageReference>DF15:38</PageReference>
+    </Child>
+    <Child ReferenceText="advancement">
+      <PageReference>DF15:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonologists">
+    <SeeAlso>Adept Lens</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Dockworker character type">
+    <PageReference>DF15:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druids">
+    <SeeAlso>Cultist Template</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder character type">
+    <PageReference>DF15:15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elementalists">
+    <SeeAlso>Adept Lens</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Engineer character type">
+    <PageReference>DF15:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fence character type">
+    <PageReference>DF15:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Draw (Assist) skill">
+    <PageReference>DF15:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fighters">
+    <SeeAlso>Archer Template</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteer lens">
+    <PageReference>DF15:36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genin lens">
+    <PageReference>DF15:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guard template">
+    <PageReference>DF15:21-22</PageReference>
+    <PageReference>DF15:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Basic Set">
+    <PageReference>DF15:3</PageReference>
+    <PageReference>DF15:28</PageReference>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DF15:3-5</PageReference>
+      <PageReference>DF15:11</PageReference>
+      <PageReference>DF15:19</PageReference>
+      <PageReference>DF15:26-28</PageReference>
+      <PageReference>DF15:32</PageReference>
+      <PageReference>DF15:34</PageReference>
+      <PageReference>DF15:36</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DF15:3</PageReference>
+      <PageReference>DF15:5</PageReference>
+      <PageReference>DF15:9</PageReference>
+      <PageReference>DF15:10</PageReference>
+      <PageReference>DF15:18</PageReference>
+      <PageReference>DF15:20</PageReference>
+      <PageReference>DF15:24</PageReference>
+      <PageReference>DF15:25</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DF15:19</PageReference>
+      <PageReference>DF15:24</PageReference>
+      <PageReference>DF15:31</PageReference>
+      <PageReference>DF15:33</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF15:3</PageReference>
+      <PageReference>DF15:5</PageReference>
+      <PageReference>DF15:11</PageReference>
+      <PageReference>DF15:13</PageReference>
+      <PageReference>DF15:26</PageReference>
+      <PageReference>DF15:31</PageReference>
+      <PageReference>DF15:32</PageReference>
+      <PageReference>DF15:34-36</PageReference>
+      <PageReference>DF15:39</PageReference>
+      <PageReference>DF15:41</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DF15:3</PageReference>
+      <PageReference>DF15:5</PageReference>
+      <PageReference>DF15:15</PageReference>
+      <PageReference>DF15:16</PageReference>
+      <PageReference>DF15:36</PageReference>
+      <PageReference>DF15:37</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 5: Allies">
+      <PageReference>DF15:3</PageReference>
+      <PageReference>DF15:27</PageReference>
+      <PageReference>DF15:31</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 7: Clerics">
+      <PageReference>DF15:14</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 9: Summoners">
+      <PageReference>DF15:3</PageReference>
+      <PageReference>DF15:5</PageReference>
+      <PageReference>DF15:7</PageReference>
+      <PageReference>DF15:12</PageReference>
+      <PageReference>DF15:13</PageReference>
+      <PageReference>DF15:34</PageReference>
+      <PageReference>DF15:38</PageReference>
+      <PageReference>DF15:39</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 10: Taverns">
+      <PageReference>DF15:3</PageReference>
+      <PageReference>DF15:5</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 11: Power-Ups">
+      <PageReference>DF15:11</PageReference>
+      <PageReference>DF15:21</PageReference>
+      <PageReference>DF15:25</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 12: Ninja">
+      <PageReference>DF15:3</PageReference>
+      <PageReference>DF15:5</PageReference>
+      <PageReference>DF15:14</PageReference>
+      <PageReference>DF15:31</PageReference>
+      <PageReference>DF15:37</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 14: Psi">
+      <PageReference>DF15:3</PageReference>
+      <PageReference>DF15:11</PageReference>
+      <PageReference>DF15:40</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Monsters 1">
+      <PageReference>DF15:31</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>DF15:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Henchmen">
+    <SeeAlso>Allies Advantage</SeeAlso>
+    <SeeAlso>Delvers</SeeAlso>
+    <SeeAlso>Characters</SeeAlso>
+    <SeeAlso>Hirelings</SeeAlso>
+    <SeeAlso>Templates</SeeAlso>
+    <Child ReferenceText="125-point">
+      <PageReference>DF15:4-18</PageReference>
+    </Child>
+    <Child ReferenceText="as Allies">
+      <PageReference>DF15:3</PageReference>
+      <PageReference>DF15:26-29</PageReference>
+    </Child>
+    <Child ReferenceText="as delvers">
+      <PageReference>DF15:3</PageReference>
+      <PageReference>DF15:32-34</PageReference>
+    </Child>
+    <Child ReferenceText="as hirelings">
+      <PageReference>DF15:3</PageReference>
+      <PageReference>DF15:30</PageReference>
+    </Child>
+    <Child ReferenceText="as PCs">
+      <PageReference>DF15:3</PageReference>
+      <PageReference>DF15:4</PageReference>
+    </Child>
+    <Child ReferenceText="bargain">
+      <PageReference>DF15:18-25</PageReference>
+    </Child>
+    <Child ReferenceText="creation">
+      <PageReference>DF15:4</PageReference>
+    </Child>
+    <Child ReferenceText="finding">
+      <PageReference>DF15:29</PageReference>
+    </Child>
+    <Child ReferenceText="livery">
+      <PageReference>DF15:19</PageReference>
+    </Child>
+    <Child ReferenceText="paying">
+      <PageReference>DF15:29</PageReference>
+      <PageReference>DF15:31-32</PageReference>
+    </Child>
+    <Child ReferenceText="standard">
+      <PageReference>DF15:4-18</PageReference>
+    </Child>
+    <Child ReferenceText="substitutions">
+      <PageReference>DF15:5</PageReference>
+    </Child>
+    <Child ReferenceText="62-point">
+      <PageReference>DF15:18-25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Herald character type">
+    <PageReference>DF15:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hermit character type">
+    <PageReference>DF15:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hirelings">
+    <PageReference>DF15:30-32</PageReference>
+    <SeeAlso>Henchmen</SeeAlso>
+    <Child ReferenceText="loans">
+      <PageReference>DF15:30</PageReference>
+    </Child>
+    <Child ReferenceText="Loyalty">
+      <PageReference>DF15:30</PageReference>
+    </Child>
+    <Child ReferenceText="random traits">
+      <PageReference>DF15:30-31</PageReference>
+    </Child>
+    <Child ReferenceText="secret menace">
+      <PageReference>DF15:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hospitaler character type">
+    <PageReference>DF15:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Housebreaker character type">
+    <PageReference>DF15:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Huntsman character type">
+    <PageReference>DF15:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Initiate template">
+    <PageReference>DF15:12-14</PageReference>
+    <PageReference>DF15:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interpreter character type">
+    <PageReference>DF15:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Itinerant character type">
+    <PageReference>DF15:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jester character type">
+    <PageReference>DF15:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Killer template">
+    <PageReference>DF15:14-15</PageReference>
+    <PageReference>DF15:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knows the Words perk">
+    <PageReference>DF15:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laborer template">
+    <PageReference>DF15:22-23</PageReference>
+    <PageReference>DF15:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Learned lens">
+    <PageReference>DF15:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <PageReference>DF15:34-41</PageReference>
+    <Child ReferenceText="recommendations">
+      <PageReference>DF15:35</PageReference>
+    </Child>
+    <Child ReferenceText="team composition">
+      <PageReference>DF15:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Levy character type">
+    <PageReference>DF15:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Livery">
+    <PageReference>DF15:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loans">
+    <PageReference>DF15:29</PageReference>
+    <PageReference>DF15:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loyalty">
+    <Child ReferenceText="trait">
+      <PageReference>DF15:30</PageReference>
+    </Child>
+    <Child ReferenceText="rolls">
+      <PageReference>DF15:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lurker character type">
+    <PageReference>DF15:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic, ceremonial">
+    <PageReference>DF15:20</PageReference>
+    <SeeAlso>Adept Lens</SeeAlso>
+    <SeeAlso>Apprentice Template</SeeAlso>
+    <SeeAlso>Cultist Template</SeeAlso>
+    <SeeAlso>Initiate Template</SeeAlso>
+    <SeeAlso>Sage Template</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Manservant character type">
+    <PageReference>DF15:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mapmaker character type">
+    <PageReference>DF15:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mediator character type">
+    <PageReference>DF15:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minstrel character type">
+    <PageReference>DF15:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missileer character type">
+    <PageReference>DF15:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monk">
+    <Child ReferenceText="lens">
+      <PageReference>DF15:37-38</PageReference>
+    </Child>
+    <Child ReferenceText="character type">
+      <PageReference>DF15:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mr">
+    <Child ReferenceText="I Got It character type">
+      <PageReference>DF15:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mugger character type">
+    <PageReference>DF15:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mystic character type">
+    <PageReference>DF15:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naturalist character type">
+    <PageReference>DF15:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromancers">
+    <SeeAlso>Adept Lens</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja">
+    <SeeAlso>Killer Template</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonhumans">
+    <PageReference>DF15:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Not Without My Torch power-up">
+    <PageReference>DF15:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occultist character type">
+    <PageReference>DF15:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pack-bearer character type">
+    <PageReference>DF15:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pay rates">
+    <PageReference>DF15:31-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks, new">
+    <PageReference>DF15:20</PageReference>
+    <PageReference>DF15:21</PageReference>
+    <PageReference>DF15:24</PageReference>
+    <PageReference>DF15:25</PageReference>
+    <PageReference>DF15:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Point levels">
+    <PageReference>DF15:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Porter character type">
+    <PageReference>DF15:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Potion-taster character type">
+    <PageReference>DF15:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power levels">
+    <PageReference>DF15:4</PageReference>
+    <Child ReferenceText="mixed">
+      <PageReference>DF15:32-33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power-ups">
+    <PageReference>DF15:11</PageReference>
+    <PageReference>DF15:23</PageReference>
+    <PageReference>DF15:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Priest lens">
+    <PageReference>DF15:38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi lens">
+    <PageReference>DF15:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recipe perk">
+    <PageReference>DF15:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remuneration">
+    <PageReference>DF15:29</PageReference>
+    <PageReference>DF15:31-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Runner character type">
+    <PageReference>DF15:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrificial Block perk">
+    <PageReference>DF15:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrificial Parry perk">
+    <PageReference>DF15:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Safecracker character type">
+    <PageReference>DF15:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sage template">
+    <PageReference>DF15:15-16</PageReference>
+    <PageReference>DF15:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scouts">
+    <SeeAlso>Archer Template</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sergeant character type">
+    <PageReference>DF15:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Servant template">
+    <PageReference>DF15:23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shamans">
+    <SeeAlso>Cultist Template</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shield-bearer character type">
+    <PageReference>DF15:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shield-Wall Training perk">
+    <PageReference>DF15:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoplifter character type">
+    <PageReference>DF15:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shtick perk">
+    <PageReference>DF15:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skirmisher template">
+    <PageReference>DF15:16-17</PageReference>
+    <PageReference>DF15:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soldier character type">
+    <PageReference>DF15:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spear-carrier character type">
+    <PageReference>DF15:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Squire template">
+    <PageReference>DF15:17-18</PageReference>
+    <PageReference>DF15:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Street thug character type">
+    <PageReference>DF15:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sword-and-buckler man character type">
+    <PageReference>DF15:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="pay rates">
+      <PageReference>DF15:32</PageReference>
+    </Child>
+    <Child ReferenceText="random hireling traits">
+      <PageReference>DF15:31</PageReference>
+    </Child>
+    <Child ReferenceText="secret menace">
+      <PageReference>DF15:31</PageReference>
+    </Child>
+    <Child ReferenceText="Allies base point cost">
+      <PageReference>DF15:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <Child ReferenceText="lenses">
+      <PageReference>DF15:34-41</PageReference>
+    </Child>
+    <Child ReferenceText="racial">
+      <PageReference>DF15:39</PageReference>
+    </Child>
+    <Child ReferenceText="recommendations">
+      <PageReference>DF15:35</PageReference>
+    </Child>
+    <Child ReferenceText="substitutions">
+      <PageReference>DF15:5</PageReference>
+    </Child>
+    <Child ReferenceText="uses for">
+      <PageReference>DF15:3</PageReference>
+    </Child>
+    <Child ReferenceText="alternative point totals">
+      <PageReference>DF15:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Torch-bearer template">
+    <PageReference>DF15:23</PageReference>
+    <PageReference>DF15:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Torturer character type">
+    <PageReference>DF15:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treasure-hunter lens">
+    <PageReference>DF15:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Troubadour lens">
+    <PageReference>DF15:40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uniforms">
+    <PageReference>DF15:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Urchin character type">
+    <PageReference>DF15:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Veteran character type">
+    <PageReference>DF15:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Veteran lens">
+    <PageReference>DF15:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warriors">
+    <SeeAlso>Archer Template</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon caddy character type">
+    <PageReference>DF15:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizards">
+    <SeeAlso>Adept Lens</SeeAlso>
+  </IndexReference>
+</IndexReferenceCollection>

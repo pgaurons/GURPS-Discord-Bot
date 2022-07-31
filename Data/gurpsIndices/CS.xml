@@ -1,0 +1,338 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Adding magic to example cities">
+    <PageReference>CS13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerostat environment">
+    <PageReference>CS6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anderson">
+    <Child ReferenceText="Chris">
+      <PageReference>CS18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance stat">
+    <PageReference>CS6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificial environments">
+    <PageReference>CS5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Athens">
+    <PageReference>CS13-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaign suggestions">
+    <PageReference>CS15</PageReference>
+    <PageReference>CS17-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cephalus">
+    <PageReference>CS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cities">
+    <Child ReferenceText="as environments">
+      <PageReference>CS11-12</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>CS13-20</PageReference>
+    </Child>
+    <Child ReferenceText="stats for">
+      <PageReference>CS4-10</PageReference>
+    </Child>
+    <Child ReferenceText="as encounters">
+      <PageReference>CS11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="City-states">
+    <PageReference>CS7-9</PageReference>
+    <PageReference>CS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Control Rating (CR)">
+    <PageReference>CS9</PageReference>
+    <PageReference>CS11</PageReference>
+    <PageReference>CS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corruption stat">
+    <PageReference>CS9</PageReference>
+    <PageReference>CS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Culture">
+    <PageReference>CS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="da Rocha">
+    <Child ReferenceText="Isabel">
+      <PageReference>CS20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dead Broke Wealth">
+    <PageReference>CS7</PageReference>
+    <PageReference>CS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defense Bonus">
+    <PageReference>CS10</PageReference>
+    <PageReference>CS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Economy">
+    <PageReference>CS7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchantment level">
+    <PageReference>CS6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enclosed environment">
+    <PageReference>CS5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Encounters with cities">
+    <PageReference>CS11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Environment">
+    <PageReference>CS5-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Example cities">
+    <PageReference>CS13-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exploring the city">
+    <PageReference>CS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fantasy city example">
+    <PageReference>CS15-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fighting the city">
+    <PageReference>CS11</PageReference>
+    <SeeAlso>Military Resources Stat</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Fighting">
+    <Child ReferenceText="long-term effects of">
+      <PageReference>CS12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="First impression">
+    <PageReference>CS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Floating environment">
+    <PageReference>CS6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Free city (society type)">
+    <PageReference>CS8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goto">
+    <Child ReferenceText="Joåo">
+      <PageReference>CS20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Government description">
+    <PageReference>CS8-9</PageReference>
+    <PageReference>CS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>CS4</PageReference>
+    <PageReference>CS7</PageReference>
+    <PageReference>CS13</PageReference>
+    <PageReference>CS14</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>CS5</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>CS3</PageReference>
+      <PageReference>CS6</PageReference>
+      <PageReference>CS8</PageReference>
+      <PageReference>CS10</PageReference>
+    </Child>
+    <Child ReferenceText="Banestorm">
+      <PageReference>CS3</PageReference>
+      <PageReference>CS15</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>CS6</PageReference>
+      <PageReference>CS10</PageReference>
+      <PageReference>CS12</PageReference>
+      <PageReference>CS13</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Urban Magics">
+      <PageReference>CS6</PageReference>
+      <PageReference>CS10</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>CS18</PageReference>
+      <PageReference>CS20</PageReference>
+    </Child>
+    <Child ReferenceText="Space">
+      <PageReference>CS3</PageReference>
+      <PageReference>CS5</PageReference>
+      <PageReference>CS8</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat">
+      <PageReference>CS9-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Historical city example">
+    <PageReference>CS13-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hygiene stat">
+    <PageReference>CS6</PageReference>
+    <PageReference>CS8</PageReference>
+    <PageReference>CS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Land terrain types">
+    <PageReference>CS5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Language stat">
+    <PageReference>CS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="le Perdu">
+    <Child ReferenceText="Shlomo Georges">
+      <PageReference>CS16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lhasa">
+    <PageReference>CS4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Literacy stat">
+    <PageReference>CS7</PageReference>
+    <PageReference>CS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Long-term fighting">
+    <PageReference>CS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low-tech Wealth and Status">
+    <PageReference>CS8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical environment">
+    <PageReference>CS6</PageReference>
+    <PageReference>CS13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana level">
+    <PageReference>CS6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military Budget Factor (MBF)">
+    <PageReference>CS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military capabilities">
+    <PageReference>CS9-10</PageReference>
+    <PageReference>CS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military Resources stat">
+    <PageReference>CS9</PageReference>
+    <PageReference>CS11</PageReference>
+    <PageReference>CS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modern city example">
+    <PageReference>CS17-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Municipality (society type)">
+    <PageReference>CS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Newsom">
+    <Child ReferenceText="Gavin">
+      <PageReference>CS18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonland environments">
+    <PageReference>CS6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Notable characters">
+    <PageReference>CS14-18</PageReference>
+    <PageReference>CS20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orbital environment">
+    <PageReference>CS6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pavonis Portal">
+    <PageReference>CS19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pelosi">
+    <Child ReferenceText="Nancy">
+      <PageReference>CS18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pericles">
+    <PageReference>CS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peterson">
+    <Child ReferenceText="Alaric">
+      <PageReference>CS16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Physical environment">
+    <PageReference>CS5-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Political entities">
+    <PageReference>CS8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Political environment">
+    <PageReference>CS8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Population">
+    <Child ReferenceText="in defense of city">
+      <PageReference>CS10</PageReference>
+    </Child>
+    <Child ReferenceText="stat">
+      <PageReference>CS4-5</PageReference>
+    </Child>
+    <Child ReferenceText="city’s size">
+      <PageReference>CS12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Protagoras">
+    <PageReference>CS14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rabble in arms">
+    <PageReference>CS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Relationship to other political entities">
+    <PageReference>CS8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="San Francisco">
+    <PageReference>CS17-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Santorini">
+    <Child ReferenceText="Archbishop Vespasio">
+      <PageReference>CS16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Science-fiction city example">
+    <PageReference>CS19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sealed environment">
+    <PageReference>CS5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Search modifier">
+    <PageReference>CS5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Settings">
+    <Child ReferenceText="using cities as">
+      <PageReference>CS11-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Size of city">
+    <PageReference>CS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Society types">
+    <PageReference>CS8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special political situations">
+    <PageReference>CS8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Statistics">
+    <PageReference>CS4-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Status stat">
+    <PageReference>CS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech level">
+    <PageReference>CS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terrain stat">
+    <PageReference>CS5-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tredroy">
+    <PageReference>CS15-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Underground environment">
+    <PageReference>CS5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth stat">
+    <PageReference>CS7</PageReference>
+    <PageReference>CS8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wili">
+    <PageReference>CS20</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

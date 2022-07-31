@@ -1,0 +1,905 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abilities">
+    <SeeAlso>Mutations</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Acidic Blood mutation">
+    <PageReference>ATE1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adaptable Skin mutation">
+    <PageReference>ATE1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="maximum level">
+      <PageReference>ATE1:17</PageReference>
+      <PageReference>ATE1:19</PageReference>
+    </Child>
+    <Child ReferenceText="suitable">
+      <PageReference>ATE1:19-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Campaigns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammunition">
+    <PageReference>ATE1:32-33</PageReference>
+    <Child ReferenceText="accessories">
+      <PageReference>ATE1:30</PageReference>
+      <PageReference>ATE1:32</PageReference>
+    </Child>
+    <Child ReferenceText="barter and">
+      <PageReference>ATE1:28</PageReference>
+      <PageReference>ATE1:32</PageReference>
+    </Child>
+    <Child ReferenceText="reloading">
+      <PageReference>ATE1:32</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>ATE1:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <PageReference>ATE1:34</PageReference>
+    <Child ReferenceText="rider template">
+      <PageReference>ATE1:9-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-rad drugs">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Apocalypse suggestions">
+    <PageReference>ATE1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aural Filters mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Autogyros">
+    <PageReference>ATE1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Automobiles">
+    <PageReference>ATE1:33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battery chargers">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battlesuit skill">
+    <PageReference>ATE1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beam Weapons skill">
+    <PageReference>ATE1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bellow Lungs mutation">
+    <PageReference>ATE1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bicycles">
+    <PageReference>ATE1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biodiesel">
+    <Child ReferenceText="34 Black Sight mutation">
+      <PageReference>ATE1:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Blessed lens">
+    <PageReference>ATE1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bolt cutters">
+    <PageReference>ATE1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bone Spur mutation">
+    <PageReference>ATE1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boosted Hemoglobin mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brainy mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bruiser template variation">
+    <PageReference>ATE1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bulky modifier">
+    <PageReference>ATE1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bullets">
+    <SeeAlso>Ammunition</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <Child ReferenceText="apocalypses">
+      <PageReference>ATE1:5</PageReference>
+    </Child>
+    <Child ReferenceText="power level">
+      <PageReference>ATE1:4</PageReference>
+    </Child>
+    <Child ReferenceText="tech level">
+      <PageReference>ATE1:29</PageReference>
+    </Child>
+    <Child ReferenceText="alternate settings">
+      <PageReference>ATE1:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Canned food">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cars">
+    <PageReference>ATE1:33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <SeeAlso>Lenses</SeeAlso>
+    <SeeAlso>Mutations</SeeAlso>
+    <SeeAlso>Templates</SeeAlso>
+    <Child ReferenceText="power level">
+      <PageReference>ATE1:4</PageReference>
+    </Child>
+    <Child ReferenceText="secondary characteristics">
+      <PageReference>ATE1:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="starting equipment">
+      <PageReference>ATE1:28-29</PageReference>
+    </Child>
+    <Child ReferenceText="starting money">
+      <PageReference>ATE1:28</PageReference>
+    </Child>
+    <Child ReferenceText="creation">
+      <PageReference>ATE1:6</PageReference>
+      <PageReference>ATE1:19-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cheap modifier">
+    <PageReference>ATE1:30-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chelating agents">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemist template variation">
+    <PageReference>ATE1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claws mutation">
+    <PageReference>ATE1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer Programming skill">
+    <PageReference>ATE1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Consumables">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost Factor (CF)">
+    <PageReference>ATE1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Craftiness Talent">
+    <PageReference>ATE1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dehydration">
+    <PageReference>ATE1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <Child ReferenceText="suitable">
+      <PageReference>ATE1:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="limit">
+      <PageReference>ATE1:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Doc template">
+    <PageReference>ATE1:4-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Driver’s Reflexes Talent">
+    <PageReference>ATE1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drugs">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duct tape">
+    <PageReference>ATE1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dynamite">
+    <PageReference>ATE1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eagle Eyes mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electrified Skin mutation">
+    <PageReference>ATE1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Ammunition</SeeAlso>
+    <SeeAlso>Consumables</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="cost table">
+      <PageReference>ATE1:29</PageReference>
+    </Child>
+    <Child ReferenceText="HT">
+      <PageReference>ATE1:29</PageReference>
+    </Child>
+    <Child ReferenceText="junk">
+      <PageReference>ATE1:30</PageReference>
+    </Child>
+    <Child ReferenceText="large">
+      <PageReference>ATE1:7</PageReference>
+    </Child>
+    <Child ReferenceText="miscellaneous">
+      <PageReference>ATE1:29-30</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>ATE1:29-31</PageReference>
+    </Child>
+    <Child ReferenceText="protective">
+      <PageReference>ATE1:30</PageReference>
+    </Child>
+    <Child ReferenceText="Signature Gear and">
+      <PageReference>ATE1:28-29</PageReference>
+    </Child>
+    <Child ReferenceText="starting budget">
+      <PageReference>ATE1:28</PageReference>
+    </Child>
+    <Child ReferenceText="tech level">
+      <PageReference>ATE1:29</PageReference>
+    </Child>
+    <Child ReferenceText="alternate size">
+      <PageReference>ATE1:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ethanol vehicles">
+    <PageReference>ATE1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Experienced lens">
+    <PageReference>ATE1:6</PageReference>
+    <PageReference>ATE1:7</PageReference>
+    <PageReference>ATE1:9</PageReference>
+    <PageReference>ATE1:10</PageReference>
+    <PageReference>ATE1:12</PageReference>
+    <PageReference>ATE1:13</PageReference>
+    <PageReference>ATE1:15</PageReference>
+    <PageReference>ATE1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expert Skill (Mutants) skill">
+    <PageReference>ATE1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expert Skill (Robotics) skill">
+    <PageReference>ATE1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosives">
+    <PageReference>ATE1:29</PageReference>
+    <PageReference>ATE1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast lens">
+    <PageReference>ATE1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Twitch Legs mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue Points (FP and LFP)">
+    <PageReference>ATE1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fins mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearms">
+    <PageReference>ATE1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flesh Pocket mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forgettable Face perk">
+    <PageReference>ATE1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fragile modifier">
+    <PageReference>ATE1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Freakishness disadvantage">
+    <PageReference>ATE1:25-26</PageReference>
+    <Child ReferenceText="side effects">
+      <PageReference>ATE1:25-26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fuse cords">
+    <PageReference>ATE1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteer advantage">
+    <Child ReferenceText="new limitation">
+      <PageReference>ATE1:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gangster template variation">
+    <PageReference>ATE1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gasifiers">
+    <PageReference>ATE1:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>Equipment</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Geiger counters">
+    <PageReference>ATE1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost template variation">
+    <PageReference>ATE1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gigantism disadvantage">
+    <Child ReferenceText="equipment and">
+      <PageReference>ATE1:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GO!Juice">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goggles">
+    <PageReference>ATE1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guide template variation">
+    <PageReference>ATE1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunner (Beams) skill">
+    <PageReference>ATE1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunner template variation">
+    <PageReference>ATE1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>ATE1:5</PageReference>
+    <PageReference>ATE1:19</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>ATE1:3</PageReference>
+      <PageReference>ATE1:19</PageReference>
+      <PageReference>ATE1:20</PageReference>
+      <PageReference>ATE1:23-25</PageReference>
+      <PageReference>ATE1:28</PageReference>
+      <PageReference>ATE1:29</PageReference>
+      <PageReference>ATE1:32</PageReference>
+    </Child>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>ATE1:3</PageReference>
+      <PageReference>ATE1:28</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>ATE1:3</PageReference>
+      <PageReference>ATE1:28</PageReference>
+      <PageReference>ATE1:32-34</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech">
+      <PageReference>ATE1:3</PageReference>
+      <PageReference>ATE1:28</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>ATE1:3</PageReference>
+      <PageReference>ATE1:27</PageReference>
+    </Child>
+    <Child ReferenceText="Psis">
+      <PageReference>ATE1:3</PageReference>
+      <PageReference>ATE1:27</PageReference>
+    </Child>
+    <Child ReferenceText="Psi-Tech">
+      <PageReference>ATE1:3</PageReference>
+      <PageReference>ATE1:28</PageReference>
+    </Child>
+    <Child ReferenceText="Ultra-Tech">
+      <PageReference>ATE1:3</PageReference>
+      <PageReference>ATE1:28</PageReference>
+      <PageReference>ATE1:32</PageReference>
+    </Child>
+    <Child ReferenceText="Zombies">
+      <PageReference>ATE1:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ham Clause optional rule">
+    <PageReference>ATE1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hand Cannon perk">
+    <PageReference>ATE1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Handy mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hang-gliders">
+    <PageReference>ATE1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard to use modifier">
+    <PageReference>ATE1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hardy lens">
+    <PageReference>ATE1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hazardous Materials (Radioactive) skill">
+    <PageReference>ATE1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Herbalist template variation">
+    <PageReference>ATE1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hide mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hound Nose mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hulk template">
+    <PageReference>ATE1:6-8</PageReference>
+    <Child ReferenceText="equipment and">
+      <PageReference>ATE1:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunter template">
+    <PageReference>ATE1:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ice skates">
+    <PageReference>ATE1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvised Weapons perk">
+    <PageReference>ATE1:20</PageReference>
+    <PageReference>ATE1:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inflation">
+    <PageReference>ATE1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inventor template variation">
+    <PageReference>ATE1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Junk">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Labs">
+    <Child ReferenceText="suitcase">
+      <PageReference>ATE1:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Learned lens">
+    <PageReference>ATE1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <Child ReferenceText="general">
+      <PageReference>ATE1:17-18</PageReference>
+    </Child>
+    <Child ReferenceText="template-specific">
+      <PageReference>ATE1:8</PageReference>
+      <PageReference>ATE1:10</PageReference>
+    </Child>
+    <Child ReferenceText="experienced">
+      <PageReference>ATE1:6</PageReference>
+      <PageReference>ATE1:7</PageReference>
+      <PageReference>ATE1:9</PageReference>
+      <PageReference>ATE1:10</PageReference>
+      <PageReference>ATE1:12</PageReference>
+      <PageReference>ATE1:13</PageReference>
+      <PageReference>ATE1:15</PageReference>
+      <PageReference>ATE1:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="LFP">
+    <PageReference>ATE1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitation">
+    <Child ReferenceText="new">
+      <PageReference>ATE1:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Long-Term Fatigue Points (LFP)">
+    <PageReference>ATE1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Looter template variation">
+    <PageReference>ATE1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magazines">
+    <Child ReferenceText="spare">
+      <PageReference>ATE1:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Maps">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marshal template variation">
+    <PageReference>ATE1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medic template variation">
+    <PageReference>ATE1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchant template variation">
+    <PageReference>ATE1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mighty Roar mutation">
+    <PageReference>ATE1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Money">
+    <PageReference>ATE1:28</PageReference>
+    <Child ReferenceText="ammunition as">
+      <PageReference>ATE1:28</PageReference>
+      <PageReference>ATE1:32</PageReference>
+    </Child>
+    <Child ReferenceText="starting PC">
+      <PageReference>ATE1:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mouthy mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MREs">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-tools">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mutated lens">
+    <PageReference>ATE1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mutations">
+    <Child ReferenceText="attack">
+      <PageReference>ATE1:26</PageReference>
+    </Child>
+    <Child ReferenceText="defense">
+      <PageReference>ATE1:26-27</PageReference>
+    </Child>
+    <Child ReferenceText="defined">
+      <PageReference>ATE1:25</PageReference>
+    </Child>
+    <Child ReferenceText="morphology">
+      <PageReference>ATE1:27</PageReference>
+    </Child>
+    <Child ReferenceText="movement">
+      <PageReference>ATE1:27</PageReference>
+    </Child>
+    <Child ReferenceText="psionic">
+      <PageReference>ATE1:27</PageReference>
+    </Child>
+    <Child ReferenceText="sensory">
+      <PageReference>ATE1:27</PageReference>
+    </Child>
+    <Child ReferenceText="adding new">
+      <PageReference>ATE1:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural Anti-Rad mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nomad template">
+    <PageReference>ATE1:9-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Normal-sized lens">
+    <PageReference>ATE1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nuclear Core mutation">
+    <PageReference>ATE1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Off-Hand Weapon Training perk">
+    <PageReference>ATE1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orator template variation">
+    <PageReference>ATE1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outsize Eardrums mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="PatchUp Punch">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <Child ReferenceText="new">
+      <PageReference>ATE1:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Poorly balanced modifier">
+    <PageReference>ATE1:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power level">
+    <PageReference>ATE1:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prickly mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Private security template variation">
+    <PageReference>ATE1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Professional Skill (Forester) skill">
+    <PageReference>ATE1:6</PageReference>
+    <PageReference>ATE1:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid #3/88: The End Is Nigh">
+    <PageReference>ATE1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Gadgeteer advantage">
+    <Child ReferenceText="new limitation">
+      <PageReference>ATE1:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Reload perk">
+    <PageReference>ATE1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quirks">
+    <PageReference>ATE1:21-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation">
+    <Child ReferenceText="drugs">
+      <PageReference>ATE1:30</PageReference>
+    </Child>
+    <Child ReferenceText="mutations">
+      <PageReference>ATE1:26</PageReference>
+      <PageReference>ATE1:27</PageReference>
+    </Child>
+    <Child ReferenceText="detectors">
+      <PageReference>ATE1:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation Threshold Points (RP)">
+    <PageReference>ATE1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rations">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Razor Claws mutation">
+    <PageReference>ATE1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Red Sight mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Redundant Organs mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reloading presses">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repairman template variation">
+    <PageReference>ATE1:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Research skill">
+    <PageReference>ATE1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resilient Brain mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rider lens">
+    <PageReference>ATE1:10</PageReference>
+    <PageReference>ATE1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="RP">
+    <PageReference>ATE1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rubber Neck mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scavenger template">
+    <PageReference>ATE1:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scientist template variation">
+    <PageReference>ATE1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scout template variation">
+    <PageReference>ATE1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-Restoration mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shrink template variation">
+    <PageReference>ATE1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SieverTasty">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signature Gear advantage">
+    <PageReference>ATE1:28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skates">
+    <Child ReferenceText="ice">
+      <PageReference>ATE1:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="inappropriate">
+      <PageReference>ATE1:6</PageReference>
+    </Child>
+    <Child ReferenceText="professional">
+      <PageReference>ATE1:23</PageReference>
+    </Child>
+    <Child ReferenceText="suitable">
+      <PageReference>ATE1:22</PageReference>
+    </Child>
+    <Child ReferenceText="craft">
+      <PageReference>ATE1:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skis">
+    <PageReference>ATE1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleep">
+    <Child ReferenceText="missed">
+      <PageReference>ATE1:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slimy mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sniper template variation">
+    <PageReference>ATE1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snowshoes">
+    <PageReference>ATE1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sojourner template variation">
+    <PageReference>ATE1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soldier template variation">
+    <PageReference>ATE1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sound-Wave Recall mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specialized limitation">
+    <PageReference>ATE1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speedloaders">
+    <PageReference>ATE1:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starfish Genes mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starvation">
+    <PageReference>ATE1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Status trait">
+    <PageReference>ATE1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suction Pads mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-Strength mutation">
+    <PageReference>ATE1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival (Radioactive Wasteland) skill">
+    <PageReference>ATE1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Survivor template variation">
+    <PageReference>ATE1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sweet-talker template variation">
+    <PageReference>ATE1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="equipment cost">
+      <PageReference>ATE1:29</PageReference>
+    </Child>
+    <Child ReferenceText="Freakishness side effects">
+      <PageReference>ATE1:25-26</PageReference>
+    </Child>
+    <Child ReferenceText="improvised melee weapons">
+      <PageReference>ATE1:31</PageReference>
+    </Child>
+    <Child ReferenceText="vehicles">
+      <PageReference>ATE1:33</PageReference>
+    </Child>
+    <Child ReferenceText="ammunition">
+      <PageReference>ATE1:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tainted modifier">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <Child ReferenceText="new">
+      <PageReference>ATE1:10</PageReference>
+      <PageReference>ATE1:12</PageReference>
+      <PageReference>ATE1:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tape">
+    <PageReference>ATE1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech level">
+    <PageReference>ATE1:29</PageReference>
+    <Child ReferenceText="skills and">
+      <PageReference>ATE1:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech template">
+    <PageReference>ATE1:12-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technophile template variation">
+    <PageReference>ATE1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <PageReference>ATE1:4-17</PageReference>
+    <SeeAlso>Characters</SeeAlso>
+    <SeeAlso>Lenses</SeeAlso>
+    <Child ReferenceText="customizing">
+      <PageReference>ATE1:4</PageReference>
+    </Child>
+    <Child ReferenceText="inappropriate skills in">
+      <PageReference>ATE1:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thick Hide mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thief template variation">
+    <PageReference>ATE1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toothsome mutation">
+    <PageReference>ATE1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trader template">
+    <PageReference>ATE1:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trampler mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trooper template">
+    <PageReference>ATE1:16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unnatural Hardiness mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unreliable modifier">
+    <PageReference>ATE1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Urban explorer template variation">
+    <PageReference>ATE1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <PageReference>ATE1:33-34</PageReference>
+    <Child ReferenceText="driver template">
+      <PageReference>ATE1:9-11</PageReference>
+    </Child>
+    <Child ReferenceText="ethanol">
+      <PageReference>ATE1:33</PageReference>
+    </Child>
+    <Child ReferenceText="gasifiers">
+      <PageReference>ATE1:34</PageReference>
+    </Child>
+    <Child ReferenceText="limitations">
+      <PageReference>ATE1:33</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>ATE1:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Very fragile modifier">
+    <PageReference>ATE1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visual Filters mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wasteland Wisdom Talent">
+    <PageReference>ATE1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth trait">
+    <PageReference>ATE1:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <SeeAlso>Ammunition</SeeAlso>
+    <Child ReferenceText="explosives">
+      <PageReference>ATE1:29</PageReference>
+      <PageReference>ATE1:32</PageReference>
+    </Child>
+    <Child ReferenceText="firearms">
+      <PageReference>ATE1:32</PageReference>
+    </Child>
+    <Child ReferenceText="improvised">
+      <PageReference>ATE1:31</PageReference>
+    </Child>
+    <Child ReferenceText="melee and muscle-powered ranged">
+      <PageReference>ATE1:31</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>ATE1:31</PageReference>
+      <PageReference>ATE1:32</PageReference>
+    </Child>
+    <Child ReferenceText="accessories">
+      <PageReference>ATE1:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Whiskers mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whistles">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Winged Flight mutation">
+    <PageReference>ATE1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wire cutters">
+    <PageReference>ATE1:30</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

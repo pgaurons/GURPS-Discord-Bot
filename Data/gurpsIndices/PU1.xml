@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="treat as">
+      <PageReference>PU1:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Annihilating Weapon skill">
+    <PageReference>PU1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arching Shot skill">
+    <PageReference>PU1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bank Shot skill">
+    <PageReference>PU1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bardic Song Talent">
+    <PageReference>PU1:6</PageReference>
+    <PageReference>PU1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bardic Talent">
+    <PageReference>PU1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Binding Shot skill">
+    <PageReference>PU1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burning Strike skill">
+    <PageReference>PU1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns and Imbuement Skills">
+    <PageReference>PU1:14-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Categories of Imbuement Skills">
+    <PageReference>PU1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi power source">
+    <PageReference>PU1:4</PageReference>
+    <PageReference>PU1:6</PageReference>
+    <PageReference>PU1:14-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi Talent">
+    <PageReference>PU1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chilling Strike skill">
+    <PageReference>PU1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combination Skills">
+    <PageReference>PU1:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conic Blast skill">
+    <PageReference>PU1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Continuing Attack skill">
+    <PageReference>PU1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corrosive Strike skill">
+    <PageReference>PU1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crippling Blow skill">
+    <PageReference>PU1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crushing Strike skill">
+    <PageReference>PU1:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutting Strike skill">
+    <PageReference>PU1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dancing Weapon skill">
+    <PageReference>PU1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dazzling Display skill">
+    <PageReference>PU1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deafening Display skill">
+    <PageReference>PU1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defensive use">
+    <PageReference>PU1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Definition of Imbuement Skills">
+    <PageReference>PU1:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine power source">
+    <PageReference>PU1:4</PageReference>
+    <PageReference>PU1:6</PageReference>
+    <PageReference>PU1:14</PageReference>
+    <PageReference>PU1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drugged Weapon skill">
+    <PageReference>PU1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electric Weapon skill">
+    <PageReference>PU1:7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancement Skills">
+    <PageReference>PU1:6-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Envenomed Weapon skill">
+    <PageReference>PU1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Far Shot skill">
+    <PageReference>PU1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatiguing Strike skill">
+    <PageReference>PU1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forceful Blow skill">
+    <PageReference>PU1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forceful Chi Talent">
+    <PageReference>PU1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghostly Weapon skill">
+    <PageReference>PU1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guided Weapon skill">
+    <PageReference>PU1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>PU1:6</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>PU1:6</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>PU1:6</PageReference>
+      <PageReference>PU1:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>PU1:6</PageReference>
+      <PageReference>PU1:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>PU1:3</PageReference>
+      <PageReference>PU1:4</PageReference>
+      <PageReference>PU1:6</PageReference>
+    </Child>
+    <Child ReferenceText="Supers">
+      <PageReference>PU1:2</PageReference>
+      <PageReference>PU1:16-17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Homing Weapon skill">
+    <PageReference>PU1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imbue advantage">
+    <PageReference>PU1:4</PageReference>
+    <Child ReferenceText="special limitations">
+      <PageReference>PU1:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Imbuement possibilities">
+    <PageReference>PU1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imbuement power">
+    <PageReference>PU1:17</PageReference>
+    <Child ReferenceText="abilities">
+      <PageReference>PU1:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Imbuement Skills">
+    <PageReference>PU1:3-14</PageReference>
+    <Child ReferenceText="categories">
+      <PageReference>PU1:6</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>PU1:3</PageReference>
+    </Child>
+    <Child ReferenceText="missile spells and">
+      <PageReference>PU1:11</PageReference>
+    </Child>
+    <Child ReferenceText="multiple">
+      <PageReference>PU1:5</PageReference>
+    </Child>
+    <Child ReferenceText="specialties">
+      <PageReference>PU1:4-5</PageReference>
+    </Child>
+    <Child ReferenceText="Talents and">
+      <PageReference>PU1:6</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>PU1:5</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>PU1:5</PageReference>
+    </Child>
+    <Child ReferenceText="wildcard">
+      <PageReference>PU1:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Imbuement Talent">
+    <PageReference>PU1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impaling Strike skill">
+    <PageReference>PU1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incendiary Weapon skill">
+    <PageReference>PU1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jet spells and Imbuement Skills">
+    <PageReference>PU1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited Skill Access limitation">
+    <PageReference>PU1:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery advantage">
+    <PageReference>PU1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical power source">
+    <PageReference>PU1:4</PageReference>
+    <PageReference>PU1:6</PageReference>
+    <PageReference>PU1:15</PageReference>
+    <PageReference>PU1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missile spells and Imbuement Skills">
+    <PageReference>PU1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-Shot skill">
+    <PageReference>PU1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple Imbue advantages">
+    <PageReference>PU1:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple skills">
+    <PageReference>PU1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Noncombat Imbuement">
+    <PageReference>PU1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Penetrating Strike skill">
+    <PageReference>PU1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Piercing Strike skill">
+    <PageReference>PU1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Investiture advantage">
+    <PageReference>PU1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power modifiers">
+    <PageReference>PU1:4</PageReference>
+    <PageReference>PU1:6</PageReference>
+    <PageReference>PU1:14-15</PageReference>
+    <PageReference>PU1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Project Blow skill">
+    <PageReference>PU1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionics power source">
+    <PageReference>PU1:4</PageReference>
+    <PageReference>PU1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sample martial arts style">
+    <PageReference>PU1:15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shattershot skill">
+    <PageReference>PU1:9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shockwave skill">
+    <PageReference>PU1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specialties for Imbuement Skills">
+    <PageReference>PU1:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells and Imbuement Skills">
+    <PageReference>PU1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stealthy Attack skill">
+    <PageReference>PU1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strike of Negation skill">
+    <PageReference>PU1:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stupefying Blow skill">
+    <PageReference>PU1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sudden Death skill">
+    <PageReference>PU1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super power source">
+    <PageReference>PU1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supreme Control skill">
+    <PageReference>PU1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents and Imbue power sources">
+    <PageReference>PU1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telescoping Weapon skill">
+    <PageReference>PU1:10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throwing specialty">
+    <PageReference>PU1:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toxic Strike skill">
+    <PageReference>PU1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transformation Skills">
+    <PageReference>PU1:11-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traumatic Blow skill">
+    <PageReference>PU1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Types of Imbuement Skills">
+    <PageReference>PU1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unarmed specialty">
+    <PageReference>PU1:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Using Imbuement Skills">
+    <PageReference>PU1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampiric Weapon skill">
+    <PageReference>PU1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Way of the Flaming Fist sample style">
+    <PageReference>PU1:15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard Imbuement Skills">
+    <PageReference>PU1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Withering Strike skill">
+    <PageReference>PU1:13</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

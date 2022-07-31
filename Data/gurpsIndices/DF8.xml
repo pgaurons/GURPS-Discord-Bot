@@ -1,0 +1,3364 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Accelerated aging curse">
+    <PageReference>DF8:51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accordion-fold">
+    <PageReference>DF8:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemical origin">
+    <PageReference>DF8:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Altered reflection feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Always cool feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Always level feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Always warm feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animate features (feature)">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance, dictated by civilizations">
+    <PageReference>DF8:57-58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <SeeAlso>Armor and Protection Gear in Treasure Index</SeeAlso>
+    <Child ReferenceText="quality">
+      <PageReference>DF8:34-35</PageReference>
+    </Child>
+    <Child ReferenceText="enchantments">
+      <PageReference>DF8:49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Arms">
+    <SeeAlso>Weapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Artistic origin">
+    <PageReference>DF8:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attack enchantments">
+    <PageReference>DF8:44-45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Auras">
+    <Child ReferenceText="of sensation">
+      <PageReference>DF8:56</PageReference>
+    </Child>
+    <Child ReferenceText="spirit">
+      <PageReference>DF8:57</PageReference>
+    </Child>
+    <Child ReferenceText="around items">
+      <PageReference>DF8:52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Backlash curse">
+    <PageReference>DF8:51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad luck curse">
+    <PageReference>DF8:51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balanced enhancement">
+    <PageReference>DF8:33</PageReference>
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bark cloth (material)">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basalt material feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beading embellishment">
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beads embellishment">
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bells embellishment">
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Black mist feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blade-edged enhancement">
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Block-printing embellishment">
+    <PageReference>DF8:53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood Drinker enchantment">
+    <PageReference>DF8:49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood-scent feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bloody feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blurry feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body parts, salvaging">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bone material feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bookbinding">
+    <PageReference>DF8:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Branding embellishment">
+    <PageReference>DF8:53</PageReference>
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brimstone feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buckler enhancement">
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buffs (enchantments)">
+    <PageReference>DF8:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burden curse">
+    <PageReference>DF8:51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charged scrolls">
+    <PageReference>DF8:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cheap embellishments">
+    <PageReference>DF8:33</PageReference>
+    <PageReference>DF8:53</PageReference>
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi origin">
+    <PageReference>DF8:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Civilizations, appearance of items from">
+    <PageReference>DF8:57-58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claim to Hospitality advantage">
+    <PageReference>DF8:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Class">
+    <Child ReferenceText="table">
+      <PageReference>DF8:59</PageReference>
+    </Child>
+    <Child ReferenceText="restrictions on items">
+      <PageReference>DF8:51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clay">
+    <Child ReferenceText="tablet">
+      <PageReference>DF8:27-28</PageReference>
+    </Child>
+    <Child ReferenceText="slab">
+      <PageReference>DF8:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clean feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloth (material)">
+    <PageReference>DF8:12</PageReference>
+    <PageReference>DF8:27-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Codex">
+    <PageReference>DF8:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cold aura">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compass-orientated feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Confusion aura">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Consumables, replacing">
+    <PageReference>DF8:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contents of books and maps">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coordinating appearance">
+    <PageReference>DF8:57-58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corrupting curse">
+    <PageReference>DF8:51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmetic damage">
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic origin">
+    <PageReference>DF8:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost Factors">
+    <Child ReferenceText="negative">
+      <PageReference>DF8:6</PageReference>
+      <PageReference>DF8:51</PageReference>
+    </Child>
+    <Child ReferenceText="determining item value with">
+      <PageReference>DF8:6</PageReference>
+      <PageReference>DF8:48</PageReference>
+      <PageReference>DF8:51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Curses">
+    <PageReference>DF8:51-52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damp feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark one living armor">
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Darkness material feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Decay scent feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Decorated metal (material)">
+    <PageReference>DF8:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Decorative">
+    <SeeAlso>Embellishments</SeeAlso>
+    <Child ReferenceText="motif">
+      <PageReference>DF8:55</PageReference>
+    </Child>
+    <Child ReferenceText="embellishments">
+      <PageReference>DF8:53-55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dedicated reserve">
+    <PageReference>DF8:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defense enchantments">
+    <PageReference>DF8:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delayed gratification">
+    <PageReference>DF8:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dirty feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dismemberment enchantment">
+    <PageReference>DF8:49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distracting curse">
+    <PageReference>DF8:51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine origin">
+    <PageReference>DF8:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragonbone material">
+    <PageReference>DF8:33</PageReference>
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragonhide material">
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druidic origin">
+    <PageReference>DF8:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dry feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Durable writing">
+    <PageReference>DF8:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarven enhancements">
+    <PageReference>DF8:28</PageReference>
+    <PageReference>DF8:33</PageReference>
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dyed embellishment">
+    <PageReference>DF8:53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eats Other Items curse">
+    <PageReference>DF8:51-52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ebony material feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elven enhancements">
+    <PageReference>DF8:28</PageReference>
+    <PageReference>DF8:33-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Embellishments">
+    <SeeAlso>Enchantments</SeeAlso>
+    <Child ReferenceText="decorative">
+      <PageReference>DF8:53-55</PageReference>
+    </Child>
+    <Child ReferenceText="item improvements">
+      <PageReference>DF8:17</PageReference>
+      <PageReference>DF8:19</PageReference>
+      <PageReference>DF8:20</PageReference>
+      <PageReference>DF8:22</PageReference>
+      <PageReference>DF8:27-28</PageReference>
+    </Child>
+    <Child ReferenceText="shield quality">
+      <PageReference>DF8:35</PageReference>
+    </Child>
+    <Child ReferenceText="supernatural">
+      <PageReference>DF8:56-57</PageReference>
+    </Child>
+    <Child ReferenceText="weapon quality">
+      <PageReference>DF8:33-34</PageReference>
+    </Child>
+    <Child ReferenceText="armor quality">
+      <PageReference>DF8:34-35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Embroidered cloth (material)">
+    <PageReference>DF8:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Embroidery embellishment">
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emotion origin">
+    <PageReference>DF8:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Empathic feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enamel embellishment">
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchantments">
+    <PageReference>DF8:44-49</PageReference>
+    <SeeAlso>Supernatural</SeeAlso>
+    <Child ReferenceText="new">
+      <PageReference>DF8:47-49</PageReference>
+    </Child>
+    <Child ReferenceText="power items and">
+      <PageReference>DF8:48</PageReference>
+    </Child>
+    <Child ReferenceText="type table">
+      <PageReference>DF8:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Engraved metal (material)">
+    <PageReference>DF8:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Environmental enchantments">
+    <PageReference>DF8:46-47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>the Treasure Index</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Etched glass (material)">
+    <PageReference>DF8:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exceptional material embellishment">
+    <PageReference>DF8:53</PageReference>
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expenses for adventuring">
+    <PageReference>DF8:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expensive embellishments">
+    <PageReference>DF8:53-55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extensive embellishments">
+    <PageReference>DF8:54</PageReference>
+    <PageReference>DF8:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faerie material">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faint glow feature">
+    <PageReference>DF8:56</PageReference>
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fear aura">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feathers">
+    <Child ReferenceText="material">
+      <PageReference>DF8:27</PageReference>
+    </Child>
+    <Child ReferenceText="embellishment">
+      <PageReference>DF8:53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fine material">
+    <PageReference>DF8:27-28</PageReference>
+    <PageReference>DF8:33</PageReference>
+    <PageReference>DF8:35</PageReference>
+    <PageReference>DF8:53</PageReference>
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fish (book material)">
+    <PageReference>DF8:12</PageReference>
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flame feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flashes brightly feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flower petals feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flowers scent feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Form of books and maps">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fringe embellishment">
+    <PageReference>DF8:53</PageReference>
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fur">
+    <Child ReferenceText="trim embellishment">
+      <PageReference>DF8:53</PageReference>
+      <PageReference>DF8:54</PageReference>
+    </Child>
+    <Child ReferenceText="material">
+      <PageReference>DF8:12</PageReference>
+      <PageReference>DF8:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>the Treasure Index</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant-spider silk enhancement">
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gilding embellishment">
+    <PageReference>DF8:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glass book material">
+    <PageReference>DF8:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glowing feature">
+    <PageReference>DF8:56</PageReference>
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gratification, delayed">
+    <PageReference>DF8:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>DF8:31</PageReference>
+    <Child ReferenceText="Action 3: Furious Fists">
+      <PageReference>DF8:10</PageReference>
+      <PageReference>DF8:31</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>DF8:3</PageReference>
+      <PageReference>DF8:6</PageReference>
+      <PageReference>DF8:9</PageReference>
+      <PageReference>DF8:10</PageReference>
+      <PageReference>DF8:29-31</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DF8:3</PageReference>
+      <PageReference>DF8:6</PageReference>
+      <PageReference>DF8:15</PageReference>
+      <PageReference>DF8:42</PageReference>
+      <PageReference>DF8:44</PageReference>
+      <PageReference>DF8:54</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DF8:5</PageReference>
+      <PageReference>DF8:14</PageReference>
+      <PageReference>DF8:16</PageReference>
+      <PageReference>DF8:20-27</PageReference>
+      <PageReference>DF8:33-38</PageReference>
+      <PageReference>DF8:40-42</PageReference>
+      <PageReference>DF8:50</PageReference>
+      <PageReference>DF8:53</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DF8:13</PageReference>
+      <PageReference>DF8:35</PageReference>
+      <PageReference>DF8:59</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF8:4</PageReference>
+      <PageReference>DF8:31</PageReference>
+      <PageReference>DF8:32</PageReference>
+      <PageReference>DF8:59</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DF8:16</PageReference>
+      <PageReference>DF8:22-27</PageReference>
+      <PageReference>DF8:29</PageReference>
+      <PageReference>DF8:41</PageReference>
+      <PageReference>DF8:52</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 6: 40 Artifacts">
+      <PageReference>DF8:3</PageReference>
+      <PageReference>DF8:10</PageReference>
+      <PageReference>DF8:42</PageReference>
+      <PageReference>DF8:43</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 7: Clerics">
+      <PageReference>DF8:3</PageReference>
+      <PageReference>DF8:4</PageReference>
+      <PageReference>DF8:10</PageReference>
+      <PageReference>DF8:43</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>DF8:3</PageReference>
+      <PageReference>DF8:44</PageReference>
+      <PageReference>DF8:47</PageReference>
+      <PageReference>DF8:49</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>DF8:3</PageReference>
+      <PageReference>DF8:9</PageReference>
+      <PageReference>DF8:10</PageReference>
+      <PageReference>DF8:30</PageReference>
+      <PageReference>DF8:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard-item embellishments">
+    <PageReference>DF8:54-55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Haunted items">
+    <PageReference>DF8:52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Highly articulated enhancement">
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="History of items">
+    <PageReference>DF8:58-59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ice material feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Implausible material feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvements">
+    <PageReference>DF8:17</PageReference>
+    <PageReference>DF8:19</PageReference>
+    <PageReference>DF8:20</PageReference>
+    <PageReference>DF8:22</PageReference>
+    <PageReference>DF8:27-28</PageReference>
+    <SeeAlso>Embellishments</SeeAlso>
+    <SeeAlso>Enchantments</SeeAlso>
+    <SeeAlso>Quality</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Influence enchantments">
+    <PageReference>DF8:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inlay embellishment">
+    <PageReference>DF8:54</PageReference>
+    <PageReference>DF8:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jeweled embellishment">
+    <PageReference>DF8:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jewelry shape and material">
+    <PageReference>DF8:18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jinx on items">
+    <PageReference>DF8:52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Joy aura">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lace embellishment">
+    <PageReference>DF8:53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lacquered material">
+    <PageReference>DF8:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leather (material)">
+    <PageReference>DF8:12</PageReference>
+    <PageReference>DF8:27-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifebane curse">
+    <PageReference>DF8:52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited-use curse">
+    <PageReference>DF8:52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Living expenses">
+    <PageReference>DF8:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loose sheets">
+    <PageReference>DF8:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Looting the bodies">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical items">
+    <SeeAlso>Enchantments in this index and Potions</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical origin">
+    <PageReference>DF8:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Map properties">
+    <PageReference>DF8:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Materials">
+    <PageReference>DF8:12-13</PageReference>
+    <PageReference>DF8:27-29</PageReference>
+    <PageReference>DF8:33</PageReference>
+    <PageReference>DF8:35</PageReference>
+    <PageReference>DF8:56</PageReference>
+    <SeeAlso>Embellishments</SeeAlso>
+    <Child ReferenceText="as enchantment origin">
+      <PageReference>DF8:50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Metal (material)">
+    <PageReference>DF8:27-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meteoric material">
+    <PageReference>DF8:33</PageReference>
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minimal embellishments">
+    <PageReference>DF8:53-55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mirrored material">
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Moral force origin">
+    <PageReference>DF8:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Moving features">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical chiming feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nails embellishment">
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Negative Cost Factors">
+    <PageReference>DF8:6</PageReference>
+    <PageReference>DF8:51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Noisy operation feature">
+    <PageReference>DF8:56</PageReference>
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orichalcum material">
+    <PageReference>DF8:33</PageReference>
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Origins of items">
+    <PageReference>DF8:50</PageReference>
+    <PageReference>DF8:58-59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pained screaming feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Painting embellishment">
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pale mist feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paper (material)">
+    <PageReference>DF8:27</PageReference>
+    <PageReference>DF8:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Papyrus (material)">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parchment (material)">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patchwork">
+    <Child ReferenceText="quilt embellishment">
+      <PageReference>DF8:54</PageReference>
+    </Child>
+    <Child ReferenceText="embellishment">
+      <PageReference>DF8:53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Permanent implant curse">
+    <PageReference>DF8:52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poison metal material">
+    <PageReference>DF8:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisonwood material">
+    <PageReference>DF8:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power enchantment, table">
+    <PageReference>DF8:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power items">
+    <Child ReferenceText="recharging">
+      <PageReference>DF8:4</PageReference>
+      <PageReference>DF8:47-48</PageReference>
+    </Child>
+    <Child ReferenceText="enchantment and">
+      <PageReference>DF8:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power reserves">
+    <PageReference>DF8:47-48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Previous owners">
+    <PageReference>DF8:58-59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic origin">
+    <PageReference>DF8:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Purchasing decisions">
+    <PageReference>DF8:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quality">
+    <SeeAlso>Embellishments</SeeAlso>
+    <SeeAlso>Enchantments</SeeAlso>
+    <SeeAlso>Improvements</SeeAlso>
+    <Child ReferenceText="shields">
+      <PageReference>DF8:35</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>DF8:33</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>DF8:34-35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Quilting embellishment">
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Race">
+    <Child ReferenceText="table">
+      <PageReference>DF8:59</PageReference>
+    </Child>
+    <Child ReferenceText="restrictions on items">
+      <PageReference>DF8:52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Racial origin">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rechargeable reserve">
+    <PageReference>DF8:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recharging power items">
+    <PageReference>DF8:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regenerating reserve">
+    <PageReference>DF8:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Relief embellishment">
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Replacing consumables">
+    <PageReference>DF8:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reptile hide (material)">
+    <PageReference>DF8:12</PageReference>
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resist dyed embellishment">
+    <PageReference>DF8:53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rice paper (material)">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rolling clouds feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rolls (book form)">
+    <PageReference>DF8:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Running water feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sandstone materials feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scent feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seashell materials feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-consuming curse">
+    <PageReference>DF8:52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadow of item">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <SeeAlso>Protection Gear and Shields in Treasure Index</SeeAlso>
+    <Child ReferenceText="quality">
+      <PageReference>DF8:35</PageReference>
+    </Child>
+    <Child ReferenceText="enchantments">
+      <PageReference>DF8:49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shifting colors/textures feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signature curse">
+    <PageReference>DF8:52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silver-coated enhancement">
+    <PageReference>DF8:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silver material">
+    <PageReference>DF8:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silver-plating embellishment">
+    <PageReference>DF8:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Size of equipment">
+    <PageReference>DF8:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smoke scent feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social studies">
+    <PageReference>DF8:57-59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soft-item embellishments">
+    <PageReference>DF8:53-54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sorrow aura">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sparkling motes feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spectral feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <Child ReferenceText="used in enchantments">
+      <PageReference>DF8:44-49</PageReference>
+    </Child>
+    <Child ReferenceText="in Cursing Deck">
+      <PageReference>DF8:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spices feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spiked enhancement">
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit">
+    <Child ReferenceText="origin of enchantment">
+      <PageReference>DF8:50</PageReference>
+    </Child>
+    <Child ReferenceText="trap curse">
+      <PageReference>DF8:52</PageReference>
+    </Child>
+    <Child ReferenceText="aura feature">
+      <PageReference>DF8:57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stained glass (material)">
+    <PageReference>DF8:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stone tablets">
+    <PageReference>DF8:27-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural">
+    <SeeAlso>Enchantments</SeeAlso>
+    <Child ReferenceText="origins">
+      <PageReference>DF8:50</PageReference>
+    </Child>
+    <Child ReferenceText="cosmetic features">
+      <PageReference>DF8:56-57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tapestry weaving embellishment">
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tattooed embellishment">
+    <PageReference>DF8:29</PageReference>
+    <PageReference>DF8:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teeth material feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature of item">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tempered-glass material">
+    <PageReference>DF8:27-28</PageReference>
+    <PageReference>DF8:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Text">
+    <Child ReferenceText="properties">
+      <PageReference>DF8:27-28</PageReference>
+    </Child>
+    <Child ReferenceText="language">
+      <PageReference>DF8:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thieves’ mail material">
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throwing enhancement">
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thunderclap feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time restrictions on items">
+    <PageReference>DF8:52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toxic aura">
+    <PageReference>DF8:52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Training, as expense">
+    <PageReference>DF8:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treasure types">
+    <SeeAlso>the Treasure Index</SeeAlso>
+    <Child ReferenceText="using the tables">
+      <PageReference>DF8:6</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>DF8:7-10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Troubled sleep curse">
+    <PageReference>DF8:52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal scrolls">
+    <PageReference>DF8:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Upgrading gear">
+    <PageReference>DF8:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Use limit curse">
+    <PageReference>DF8:52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Using the tables">
+    <PageReference>DF8:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Very fine material">
+    <PageReference>DF8:27-28</PageReference>
+    <PageReference>DF8:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Very willful device curse">
+    <PageReference>DF8:52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vibrates faintly feature">
+    <PageReference>DF8:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visible trail feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voices curse">
+    <PageReference>DF8:52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <SeeAlso>Weapons in Treasure Index</SeeAlso>
+    <Child ReferenceText="quality">
+      <PageReference>DF8:33</PageReference>
+    </Child>
+    <Child ReferenceText="enchantments">
+      <PageReference>DF8:48-49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weirdness Magnet curse">
+    <PageReference>DF8:52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Will origin">
+    <PageReference>DF8:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Willful device curse">
+    <PageReference>DF8:52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wood (book material)">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wordless singing feature">
+    <PageReference>DF8:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Abacus">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accoutrements">
+    <PageReference>DF8:21-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accurizers">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acid (potion)">
+    <PageReference>DF8:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adamant drills">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Agate">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Agility potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemical">
+    <Child ReferenceText="glue">
+      <PageReference>DF8:37</PageReference>
+    </Child>
+    <Child ReferenceText="antidote">
+      <PageReference>DF8:37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemist’s">
+    <Child ReferenceText="garb">
+      <PageReference>DF8:23</PageReference>
+    </Child>
+    <Child ReferenceText="matches">
+      <PageReference>DF8:23</PageReference>
+    </Child>
+    <Child ReferenceText="fire">
+      <PageReference>DF8:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy lab">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ale">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alkahest">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allspice">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amber">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambergris">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amethyst">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amphorae">
+    <PageReference>DF8:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amusements">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anise">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Annatto">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antidote, universal">
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-garrote collars">
+    <PageReference>DF8:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-toxin">
+    <PageReference>DF8:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Apparel of the Adventuress">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aquamarine">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arena refuges">
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armillary spheres">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>DF8:34</PageReference>
+    <PageReference>DF8:41-43</PageReference>
+    <SeeAlso>Protection Gear</SeeAlso>
+    <SeeAlso>Shields</SeeAlso>
+    <Child ReferenceText="enchantments">
+      <PageReference>DF8:55</PageReference>
+    </Child>
+    <Child ReferenceText="quality">
+      <PageReference>DF8:34-35</PageReference>
+    </Child>
+    <Child ReferenceText="size">
+      <PageReference>DF8:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Arms of Ekeshti">
+    <PageReference>DF8:39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arms">
+    <SeeAlso>Weapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Arrow of Negation">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arrow-Stopping Shirt">
+    <PageReference>DF8:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Asafetida">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aspergillum of High Power">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astonishing Wrestling Oil">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astrolabes">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Azurite">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Backboards">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Backpacks">
+    <PageReference>DF8:22</PageReference>
+    <PageReference>DF8:38</PageReference>
+    <Child ReferenceText="lab">
+      <PageReference>DF8:26</PageReference>
+    </Child>
+    <Child ReferenceText="tool kits">
+      <PageReference>DF8:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bagpipes">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balances and weights">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balls">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balm of Regeneration">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bandages">
+    <PageReference>DF8:21</PageReference>
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bandoleers">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bane potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banners">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barding (animal)">
+    <PageReference>DF8:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barrels">
+    <PageReference>DF8:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic Set">
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="missile weapons">
+      <PageReference>DF8:31</PageReference>
+    </Child>
+    <Child ReferenceText="melee weapons">
+      <PageReference>DF8:29-30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Basins">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Baskets">
+    <PageReference>DF8:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle fangs">
+    <PageReference>DF8:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bears, giant">
+    <PageReference>DF8:38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Belts">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Benches">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beryl">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Billon jewelry">
+    <PageReference>DF8:18</PageReference>
+    <SeeAlso>Jewelry</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bits and bridles">
+    <PageReference>DF8:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bizarre weapons">
+    <PageReference>DF8:32-33</PageReference>
+    <SeeAlso>Rare Artifacts</SeeAlso>
+    <SeeAlso>Unusual Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Black dust">
+    <PageReference>DF8:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bladeblack">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blanket">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Block and tackle">
+    <PageReference>DF8:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bloodstone">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blooming knives">
+    <PageReference>DF8:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blue Sphere of Weirdness">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body parts">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Books">
+    <PageReference>DF8:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boots of Balance">
+    <PageReference>DF8:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boots">
+    <PageReference>DF8:17</PageReference>
+    <PageReference>DF8:34</PageReference>
+    <Child ReferenceText="magical">
+      <PageReference>DF8:38</PageReference>
+      <PageReference>DF8:40</PageReference>
+      <PageReference>DF8:41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bottles">
+    <PageReference>DF8:20</PageReference>
+    <PageReference>DF8:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bottomless containers">
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bow drills">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bow harps">
+    <PageReference>DF8:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bow of Su">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bowls">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boxes">
+    <PageReference>DF8:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bracelets">
+    <PageReference>DF8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bracers">
+    <Child ReferenceText="of Force">
+      <PageReference>DF8:42</PageReference>
+    </Child>
+    <Child ReferenceText="endurance item">
+      <PageReference>DF8:38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Braces and bits">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brandy">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Braziers">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bridles">
+    <PageReference>DF8:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bronze jewelry">
+    <PageReference>DF8:18</PageReference>
+    <SeeAlso>Jewelry</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Brooms, flying">
+    <PageReference>DF8:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brushes">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buckets">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buckles">
+    <PageReference>DF8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bull’s-eye lanterns">
+    <PageReference>DF8:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burglar bar">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burning">
+    <Child ReferenceText="stone">
+      <PageReference>DF8:23</PageReference>
+    </Child>
+    <Child ReferenceText="glass">
+      <PageReference>DF8:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Buttons, jewelry">
+    <PageReference>DF8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cabinet">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cages">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Calcite">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caltrops">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Candles">
+    <PageReference>DF8:23</PageReference>
+    <PageReference>DF8:25</PageReference>
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Candlesticks">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Canteens">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Capes">
+    <PageReference>DF8:17</PageReference>
+    <PageReference>DF8:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caps for head">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cardamom">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carmine">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carpets">
+    <PageReference>DF8:15</PageReference>
+    <PageReference>DF8:25</PageReference>
+    <Child ReferenceText="flying">
+      <PageReference>DF8:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Carrying yokes">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cassia">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cat’s eye gem">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cauldrons">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cedar resin">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Censer burners">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chains">
+    <SeeAlso>Ropes</SeeAlso>
+    <Child ReferenceText="tools">
+      <PageReference>DF8:21</PageReference>
+      <PageReference>DF8:24</PageReference>
+      <PageReference>DF8:25</PageReference>
+    </Child>
+    <Child ReferenceText="jewelry">
+      <PageReference>DF8:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chairs">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chalcedony">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chalk">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemicals">
+    <PageReference>DF8:36</PageReference>
+    <SeeAlso>Concoctions</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Chests">
+    <PageReference>DF8:22</PageReference>
+    <PageReference>DF8:38</PageReference>
+    <PageReference>DF8:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chiles">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chopsticks">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cinnabar">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cinnamon">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Climbing">
+    <Child ReferenceText="gear">
+      <PageReference>DF8:21</PageReference>
+    </Child>
+    <Child ReferenceText="spikes">
+      <PageReference>DF8:21</PageReference>
+    </Child>
+    <Child ReferenceText="chains">
+      <PageReference>DF8:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloaks">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clocks">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Closet refuges">
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloth">
+    <PageReference>DF8:12</PageReference>
+    <PageReference>DF8:24</PageReference>
+    <PageReference>DF8:27-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <PageReference>DF8:17</PageReference>
+    <PageReference>DF8:23</PageReference>
+    <PageReference>DF8:34</PageReference>
+    <Child ReferenceText="magical">
+      <PageReference>DF8:38</PageReference>
+      <PageReference>DF8:39</PageReference>
+      <PageReference>DF8:41-43</PageReference>
+    </Child>
+    <Child ReferenceText="size">
+      <PageReference>DF8:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clove">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coats">
+    <PageReference>DF8:17</PageReference>
+    <PageReference>DF8:23</PageReference>
+    <PageReference>DF8:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cobweb kites">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coleopteran glowing fluid">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat accessories">
+    <PageReference>DF8:26</PageReference>
+    <SeeAlso>Weapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Combs">
+    <Child ReferenceText="adornment">
+      <PageReference>DF8:18</PageReference>
+    </Child>
+    <Child ReferenceText="grooming">
+      <PageReference>DF8:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Compartmentalized containers">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compasses">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concertinas">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concoctions">
+    <PageReference>DF8:36-38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conjuring candles">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Containers">
+    <PageReference>DF8:20-21</PageReference>
+    <PageReference>DF8:38</PageReference>
+    <PageReference>DF8:39</PageReference>
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cooking items">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Copal">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coral">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coriander">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corrective spectacles">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmetics">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Couches">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crazy Legs">
+    <PageReference>DF8:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crematory urn">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossbow">
+    <SeeAlso>Missile Weapons</SeeAlso>
+    <SeeAlso>Projectiles</SeeAlso>
+    <Child ReferenceText="rest">
+      <PageReference>DF8:26</PageReference>
+    </Child>
+    <Child ReferenceText="sight">
+      <PageReference>DF8:26</PageReference>
+    </Child>
+    <Child ReferenceText="sling">
+      <PageReference>DF8:22</PageReference>
+    </Child>
+    <Child ReferenceText="grapnel">
+      <PageReference>DF8:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crowbars">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crowns">
+    <PageReference>DF8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cumin">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cups">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cursing Deck">
+    <PageReference>DF8:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cushioned compartments">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death’s Reaper">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Décor">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delver’s periscopes">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delver’s webbing">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demon Vessel">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demon’s Brew">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonhealer">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonhunter’s helm">
+    <PageReference>DF8:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonhunter’s tassels">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diamond">
+    <PageReference>DF8:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dice">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dimensional refuges">
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dinner plates">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disguise kits">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disinfectants">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distilled liquor">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Djinn bottles">
+    <PageReference>DF8:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Door needles">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Double-swords">
+    <PageReference>DF8:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragonhide ropes">
+    <PageReference>DF8:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dreadful Lash">
+    <PageReference>DF8:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drills">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drinking sets">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druidic fertilizers">
+    <PageReference>DF8:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drums">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarven">
+    <Child ReferenceText="books">
+      <PageReference>DF8:27</PageReference>
+      <PageReference>DF8:28</PageReference>
+    </Child>
+    <Child ReferenceText="crankbows">
+      <PageReference>DF8:32</PageReference>
+    </Child>
+    <Child ReferenceText="enhancements">
+      <PageReference>DF8:27</PageReference>
+      <PageReference>DF8:33</PageReference>
+      <PageReference>DF8:35</PageReference>
+    </Child>
+    <Child ReferenceText="lockpicks">
+      <PageReference>DF8:25</PageReference>
+    </Child>
+    <Child ReferenceText="rations">
+      <PageReference>DF8:24</PageReference>
+    </Child>
+    <Child ReferenceText="spice">
+      <PageReference>DF8:11</PageReference>
+    </Child>
+    <Child ReferenceText="theodolites">
+      <PageReference>DF8:24</PageReference>
+    </Child>
+    <Child ReferenceText="whetstones">
+      <PageReference>DF8:26</PageReference>
+    </Child>
+    <Child ReferenceText="accurizers">
+      <PageReference>DF8:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Eagles, giant">
+    <PageReference>DF8:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Edged capes">
+    <PageReference>DF8:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electrum jewelry">
+    <PageReference>DF8:18</PageReference>
+    <SeeAlso>Jewelry</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental jugs">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elven">
+    <Child ReferenceText="limb braces">
+      <PageReference>DF8:22</PageReference>
+    </Child>
+    <Child ReferenceText="rations">
+      <PageReference>DF8:24</PageReference>
+    </Child>
+    <Child ReferenceText="ropes">
+      <PageReference>DF8:21</PageReference>
+    </Child>
+    <Child ReferenceText="spice">
+      <PageReference>DF8:11</PageReference>
+    </Child>
+    <Child ReferenceText="enhancements">
+      <PageReference>DF8:33</PageReference>
+      <PageReference>DF8:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Emerald">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Endless chains">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Endurance items">
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy brew">
+    <PageReference>DF8:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Etching kits">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Euphoria potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fabrics">
+    <PageReference>DF8:12-13</PageReference>
+    <PageReference>DF8:24</PageReference>
+    <PageReference>DF8:27-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fabulous animals">
+    <PageReference>DF8:38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faerie">
+    <Child ReferenceText="glimmerseed">
+      <PageReference>DF8:11</PageReference>
+    </Child>
+    <Child ReferenceText="ink">
+      <PageReference>DF8:27</PageReference>
+    </Child>
+    <Child ReferenceText="ink developer">
+      <PageReference>DF8:27</PageReference>
+    </Child>
+    <Child ReferenceText="mirror cloth">
+      <PageReference>DF8:24</PageReference>
+    </Child>
+    <Child ReferenceText="books">
+      <PageReference>DF8:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="False-bottom chests">
+    <PageReference>DF8:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fans">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Felonious extensors">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fennel">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fenugreek">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fertilizers">
+    <PageReference>DF8:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fibers">
+    <PageReference>DF8:12-13</PageReference>
+    <Child ReferenceText="tools">
+      <PageReference>DF8:15</PageReference>
+      <PageReference>DF8:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Figurines">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Files (tool)">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire resistance potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire toxin">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="First aid kits">
+    <PageReference>DF8:21</PageReference>
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fishhooks and line">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flamethrower">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flaming Blade">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flashing Sunblade">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flavored brandy">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flight potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Float coat">
+    <PageReference>DF8:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flower water">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying">
+    <Child ReferenceText="carpet">
+      <PageReference>DF8:39</PageReference>
+    </Child>
+    <Child ReferenceText="gazebo">
+      <PageReference>DF8:39</PageReference>
+    </Child>
+    <Child ReferenceText="brooms">
+      <PageReference>DF8:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Folding furniture">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Footstool">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Footwear">
+    <PageReference>DF8:14</PageReference>
+    <SeeAlso>Armor</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Foul pepper">
+    <PageReference>DF8:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frankincense">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fur">
+    <PageReference>DF8:12</PageReference>
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Furious Fists melee weapons">
+    <PageReference>DF8:31</PageReference>
+    <SeeAlso>Weapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Furniture">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Games">
+    <Child ReferenceText="tiles">
+      <PageReference>DF8:16</PageReference>
+    </Child>
+    <Child ReferenceText="boards and pieces">
+      <PageReference>DF8:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Garlic">
+    <PageReference>DF8:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Garments">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Garnet">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gate Scroll">
+    <PageReference>DF8:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gauze">
+    <PageReference>DF8:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gazebo, flying">
+    <PageReference>DF8:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gears of Time">
+    <PageReference>DF8:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gems">
+    <PageReference>DF8:19-20</PageReference>
+    <PageReference>DF8:38</PageReference>
+    <PageReference>DF8:39</PageReference>
+    <PageReference>DF8:43</PageReference>
+    <Child ReferenceText="of Healing">
+      <PageReference>DF8:40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant">
+    <Child ReferenceText="eagles">
+      <PageReference>DF8:39</PageReference>
+    </Child>
+    <Child ReferenceText="tigers">
+      <PageReference>DF8:39</PageReference>
+    </Child>
+    <Child ReferenceText="bears">
+      <PageReference>DF8:38-39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant-spider silk">
+    <PageReference>DF8:12</PageReference>
+    <PageReference>DF8:13</PageReference>
+    <PageReference>DF8:35</PageReference>
+    <Child ReferenceText="bandages">
+      <PageReference>DF8:22</PageReference>
+    </Child>
+    <Child ReferenceText="cords">
+      <PageReference>DF8:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ginger">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glass harmonicas">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glasses, drinking">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Globes (world map)">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gloves">
+    <PageReference>DF8:17</PageReference>
+    <PageReference>DF8:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glow vials">
+    <PageReference>DF8:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glowing fluid">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goat’s foot">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goblets">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goblin nerve tonic">
+    <PageReference>DF8:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goggles">
+    <PageReference>DF8:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gold jewelry">
+    <PageReference>DF8:18</PageReference>
+    <SeeAlso>Jewelry</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Golden helmet crest">
+    <PageReference>DF8:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gowns">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grandfather’s Sash">
+    <PageReference>DF8:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grapnels">
+    <PageReference>DF8:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great healing potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Green Sphere of Weirdness">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grenades (with concoctions)">
+    <PageReference>DF8:36-38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grooming kits">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Group basics">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Halfling">
+    <Child ReferenceText="joy powder">
+      <PageReference>DF8:36-37</PageReference>
+    </Child>
+    <Child ReferenceText="savory">
+      <PageReference>DF8:11</PageReference>
+    </Child>
+    <Child ReferenceText="disinfectant">
+      <PageReference>DF8:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Harmonica, glass">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Harp">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hatchets">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hats">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Headrests">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healer’s kits">
+    <PageReference>DF8:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing potions">
+    <PageReference>DF8:37</PageReference>
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hellish Amulet">
+    <PageReference>DF8:40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helm of the Rat">
+    <PageReference>DF8:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helmet">
+    <Child ReferenceText="lamps">
+      <PageReference>DF8:24</PageReference>
+    </Child>
+    <Child ReferenceText="crest">
+      <PageReference>DF8:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Helvetian Pike">
+    <PageReference>DF8:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hematite">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Henna">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hip quivers">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy">
+    <Child ReferenceText="water">
+      <PageReference>DF8:23</PageReference>
+    </Child>
+    <Child ReferenceText="symbols">
+      <PageReference>DF8:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hooded">
+    <Child ReferenceText="Robe of Protection">
+      <PageReference>DF8:43</PageReference>
+    </Child>
+    <Child ReferenceText="clothes">
+      <PageReference>DF8:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Horns">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horse">
+    <PageReference>DF8:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hose (clothing)">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hourglass">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="House refuges">
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Household items">
+    <PageReference>DF8:14-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Huajiao">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impact">
+    <Child ReferenceText="warhammers">
+      <PageReference>DF8:33</PageReference>
+    </Child>
+    <Child ReferenceText="mauls">
+      <PageReference>DF8:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Incense burners">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Indigo">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Instant workshop">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invisibility potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invulnerability potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iolite">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron rings (endurance item)">
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron spike">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ironskin amulet">
+    <PageReference>DF8:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jade">
+    <PageReference>DF8:19</PageReference>
+    <Child ReferenceText="magical pendant">
+      <PageReference>DF8:38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jamming glue">
+    <PageReference>DF8:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jars">
+    <PageReference>DF8:20</PageReference>
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jet">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jewelry">
+    <PageReference>DF8:18-19</PageReference>
+    <PageReference>DF8:38</PageReference>
+    <PageReference>DF8:40</PageReference>
+    <PageReference>DF8:41</PageReference>
+    <PageReference>DF8:43</PageReference>
+    <SeeAlso>Gems</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Jewels of Utshepit">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Joy powder">
+    <PageReference>DF8:36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Keffiyeh">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kites">
+    <PageReference>DF8:16</PageReference>
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knitting needles">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knives">
+    <PageReference>DF8:29</PageReference>
+    <PageReference>DF8:30</PageReference>
+    <Child ReferenceText="blooming">
+      <PageReference>DF8:32</PageReference>
+    </Child>
+    <Child ReferenceText="disguised">
+      <PageReference>DF8:32</PageReference>
+    </Child>
+    <Child ReferenceText="eating">
+      <PageReference>DF8:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Knockout gas">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kumiz">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ladders">
+    <PageReference>DF8:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ladles">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lamps">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lanterns">
+    <PageReference>DF8:23</PageReference>
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lanyards">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lapis lazuli">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leather">
+    <PageReference>DF8:12</PageReference>
+    <PageReference>DF8:27-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lecterns">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leggings">
+    <PageReference>DF8:17</PageReference>
+    <PageReference>DF8:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Levitating platform">
+    <PageReference>DF8:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifting gear">
+    <PageReference>DF8:21</PageReference>
+    <PageReference>DF8:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifting sling">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light-shedding gear">
+    <PageReference>DF8:23-24</PageReference>
+    <PageReference>DF8:26</PageReference>
+    <PageReference>DF8:36</PageReference>
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limb braces">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Linen">
+    <PageReference>DF8:12</PageReference>
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Liquid ice">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Load-bearing gear">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lockpicks">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Looms">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lucky Seven Necklace">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luminous dust">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maaukepu’s Mask">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mace">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Madder">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magebane">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic resistance potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical items">
+    <SeeAlso>Enchantments in the main index and Potions</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnetite">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Major healing potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Malachite">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mallet">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Man traps">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maps">
+    <PageReference>DF8:16</PageReference>
+    <PageReference>DF8:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial Arts">
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="missile weapons">
+      <PageReference>DF8:31</PageReference>
+    </Child>
+    <Child ReferenceText="melee weapons">
+      <PageReference>DF8:30</PageReference>
+      <PageReference>DF8:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Masks">
+    <PageReference>DF8:15</PageReference>
+    <PageReference>DF8:34</PageReference>
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master Thief’s Mail">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Matches">
+    <PageReference>DF8:23</PageReference>
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Materials">
+    <PageReference>DF8:11-13</PageReference>
+    <PageReference>DF8:27-29</PageReference>
+    <SeeAlso>Embellishments in main index</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mattresses">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mead">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee weapons">
+    <PageReference>DF8:29-31</PageReference>
+    <PageReference>DF8:40-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mini-traps">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minor healing potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miraculous Toolbelt">
+    <PageReference>DF8:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mirror cloth">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mirrors">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missile weapons">
+    <PageReference>DF8:31</PageReference>
+    <PageReference>DF8:33</PageReference>
+    <PageReference>DF8:41-43</PageReference>
+    <SeeAlso>Grenades</SeeAlso>
+    <SeeAlso>Projectiles</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Moly amulet">
+    <PageReference>DF8:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monster drool">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monster traps">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Moonstone">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mortars and pestles">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Murex">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Music boxes">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical instruments">
+    <PageReference>DF8:22</PageReference>
+    <PageReference>DF8:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Musk">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mustard">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Myrrh">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mythic Corselet">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nageteppo">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nasals">
+    <PageReference>DF8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural preparations">
+    <PageReference>DF8:36-37</PageReference>
+    <SeeAlso>Concoctions</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Necklace of Fireballs">
+    <PageReference>DF8:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromantic preservative">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necros’ Finger">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nerve tonic">
+    <PageReference>DF8:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Never-ending scrolls">
+    <PageReference>DF8:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nigella">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nightingale carpets">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nightmantle">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nightwraith">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nutmeg">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obsidian">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ochre">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oil of Kingship">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oils">
+    <PageReference>DF8:13</PageReference>
+    <PageReference>DF8:23</PageReference>
+    <PageReference>DF8:24</PageReference>
+    <Child ReferenceText="magical">
+      <PageReference>DF8:37</PageReference>
+      <PageReference>DF8:43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="One-handed concertinas">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Onion seed">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Onycha">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Onyx">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oozing Doom potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Opal">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Opium">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Optics">
+    <PageReference>DF8:23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orange Sphere of Weirdness">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orcish energy brew">
+    <PageReference>DF8:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orcish firegrain">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orichalcum">
+    <Child ReferenceText="spring gun">
+      <PageReference>DF8:43</PageReference>
+    </Child>
+    <Child ReferenceText="climbing chains">
+      <PageReference>DF8:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Orpiment">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orreries">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Otherworldly items">
+    <PageReference>DF8:12</PageReference>
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Padlocks">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paintings">
+    <PageReference>DF8:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Palace refuges">
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pants">
+    <PageReference>DF8:17</PageReference>
+    <PageReference>DF8:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paper">
+    <PageReference>DF8:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parasols">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pashmina wool">
+    <PageReference>DF8:12</PageReference>
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patchouli">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paut (potion)">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pearl">
+    <PageReference>DF8:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pennants">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pepper">
+    <PageReference>DF8:11</PageReference>
+    <PageReference>DF8:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perception potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perfumed">
+    <Child ReferenceText="oil">
+      <PageReference>DF8:13</PageReference>
+    </Child>
+    <Child ReferenceText="essence">
+      <PageReference>DF8:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Peridot">
+    <PageReference>DF8:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Periscopes">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal items">
+    <PageReference>DF8:15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peshkali Shield">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pickaxes">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Piercings">
+    <PageReference>DF8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pillows">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pipes, smoking">
+    <PageReference>DF8:15</PageReference>
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pitchers">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pixie stained-glass spectacles">
+    <PageReference>DF8:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Place settings">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Platinum jewelry">
+    <PageReference>DF8:18</PageReference>
+    <SeeAlso>Jewelry</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Platters">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Playing cards">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plugs, jewelry">
+    <PageReference>DF8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisons">
+    <PageReference>DF8:37</PageReference>
+    <SeeAlso>Concoctions</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Poles">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pomander">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ponchos">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poppy seed">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Portable">
+    <Child ReferenceText="rams">
+      <PageReference>DF8:25</PageReference>
+    </Child>
+    <Child ReferenceText="scribes">
+      <PageReference>DF8:27</PageReference>
+    </Child>
+    <Child ReferenceText="shrines">
+      <PageReference>DF8:23</PageReference>
+    </Child>
+    <Child ReferenceText="ladders">
+      <PageReference>DF8:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Potions">
+    <PageReference>DF8:37-38</PageReference>
+    <PageReference>DF8:43</PageReference>
+    <SeeAlso>Concoctions</SeeAlso>
+    <Child ReferenceText="belts">
+      <PageReference>DF8:22</PageReference>
+      <PageReference>DF8:38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pots">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pouches">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Bows">
+    <PageReference>DF8:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power items">
+    <PageReference>DF8:42</PageReference>
+    <PageReference>DF8:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Preta whistle">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Primers">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prodd canisters">
+    <PageReference>DF8:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Projectiles">
+    <PageReference>DF8:31</PageReference>
+    <PageReference>DF8:32</PageReference>
+    <PageReference>DF8:43</PageReference>
+    <SeeAlso>Grenades</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Prosthetics">
+    <PageReference>DF8:22</PageReference>
+    <PageReference>DF8:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Protection gear">
+    <PageReference>DF8:23</PageReference>
+    <PageReference>DF8:40-43</PageReference>
+    <SeeAlso>Armor</SeeAlso>
+    <SeeAlso>Shields</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Purple Sphere of Weirdness">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Purses">
+    <PageReference>DF8:22</PageReference>
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quadrants">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quartz">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-release backpacks">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quivers">
+    <PageReference>DF8:22</PageReference>
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rams (tool)">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapier of Ruinas">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rare artifacts">
+    <PageReference>DF8:42-43</PageReference>
+    <SeeAlso>Bizarre Weapons</SeeAlso>
+    <SeeAlso>Unusual Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Rations">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Razors, shaving">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Red Sphere of Weirdness">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reflectors">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious items">
+    <PageReference>DF8:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rice paper sheets">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Riding gear">
+    <PageReference>DF8:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rings, jewelry">
+    <PageReference>DF8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robes">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Room refuges">
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ropes">
+    <PageReference>DF8:21</PageReference>
+    <PageReference>DF8:42</PageReference>
+    <SeeAlso>Chains</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Rubbing wax">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruby">
+    <PageReference>DF8:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruffs">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rugs">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacks">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacred scalpel">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacred Shovel of Zombie Beheading">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saddlebags">
+    <PageReference>DF8:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saddles and tacks">
+    <PageReference>DF8:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Safety matches">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saffron">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Salamander Amulet">
+    <PageReference>DF8:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Salt">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Samite">
+    <PageReference>DF8:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sandals">
+    <PageReference>DF8:17</PageReference>
+    <PageReference>DF8:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sandalwood gum">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sapphire">
+    <PageReference>DF8:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sard">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sashes">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Satin">
+    <PageReference>DF8:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saws">
+    <PageReference>DF8:26</PageReference>
+    <PageReference>DF8:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scale-hide">
+    <PageReference>DF8:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scales (for weighing)">
+    <PageReference>DF8:25</PageReference>
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scalpel">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scarab of Sentchtemt">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scarves">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scientific instruments">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scissors">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scribe’s kits">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scribes, portable">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scroll of Arcane Defense">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scroll of Calling">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrolls">
+    <PageReference>DF8:29</PageReference>
+    <PageReference>DF8:40</PageReference>
+    <PageReference>DF8:41</PageReference>
+    <PageReference>DF8:43</PageReference>
+    <Child ReferenceText="belts">
+      <PageReference>DF8:22</PageReference>
+    </Child>
+    <Child ReferenceText="cases">
+      <PageReference>DF8:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sculptures">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seal for wax">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sealing wax">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret compartment">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-righting hourglass">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serpent’s Amulet">
+    <PageReference>DF8:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seven-Yard Boots">
+    <PageReference>DF8:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sewing needles">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sexton’s special shovel">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shackles">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadow Cloak">
+    <PageReference>DF8:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shawls">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sheets">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <PageReference>DF8:35</PageReference>
+    <PageReference>DF8:43</PageReference>
+    <SeeAlso>Armor</SeeAlso>
+    <SeeAlso>Protection Gear</SeeAlso>
+    <Child ReferenceText="accessories">
+      <PageReference>DF8:24</PageReference>
+      <PageReference>DF8:27</PageReference>
+    </Child>
+    <Child ReferenceText="enchantments">
+      <PageReference>DF8:55</PageReference>
+    </Child>
+    <Child ReferenceText="lamp">
+      <PageReference>DF8:24</PageReference>
+    </Child>
+    <Child ReferenceText="lectern">
+      <PageReference>DF8:27</PageReference>
+    </Child>
+    <Child ReferenceText="quality">
+      <PageReference>DF8:35</PageReference>
+    </Child>
+    <Child ReferenceText="thrown">
+      <PageReference>DF8:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shirts">
+    <PageReference>DF8:17</PageReference>
+    <PageReference>DF8:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoes">
+    <PageReference>DF8:17</PageReference>
+    <PageReference>DF8:34</PageReference>
+    <SeeAlso>Boots</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoulder quiver">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shovels">
+    <PageReference>DF8:26</PageReference>
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shrines">
+    <PageReference>DF8:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shuriken spinners">
+    <PageReference>DF8:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Siege stone">
+    <PageReference>DF8:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silk">
+    <PageReference>DF8:12</PageReference>
+    <PageReference>DF8:13</PageReference>
+    <Child ReferenceText="bandages">
+      <PageReference>DF8:22</PageReference>
+    </Child>
+    <Child ReferenceText="cords">
+      <PageReference>DF8:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Silver jewelry">
+    <PageReference>DF8:18</PageReference>
+    <SeeAlso>Jewelry</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Six-Sword Belt">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skillets">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skirts">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleep potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleeping fur">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleeves">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slippers">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slippery oil">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snorkels">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snuffboxes">
+    <PageReference>DF8:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soap">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spectacles">
+    <PageReference>DF8:23</PageReference>
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Shield items">
+    <PageReference>DF8:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spheres of Weirdness">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spices">
+    <PageReference>DF8:11</PageReference>
+    <SeeAlso>Potions</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spider silk">
+    <SeeAlso>Giant-Spider Silk</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spikes">
+    <PageReference>DF8:21</PageReference>
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spiked staff">
+    <PageReference>DF8:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spindles">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spinning">
+    <Child ReferenceText="wheels">
+      <PageReference>DF8:16</PageReference>
+    </Child>
+    <Child ReferenceText="saws">
+      <PageReference>DF8:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Knife">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spits, cooking">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sprayers">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spring bolt bracers">
+    <PageReference>DF8:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spring knife bracers">
+    <PageReference>DF8:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spy tools">
+    <PageReference>DF8:25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spy’s horn">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Staff of Earthquakes">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Staff">
+    <PageReference>DF8:15</PageReference>
+    <PageReference>DF8:30-32</PageReference>
+    <PageReference>DF8:42</PageReference>
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steelyard">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stiffening rope">
+    <PageReference>DF8:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stones of Knowledge">
+    <PageReference>DF8:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strength potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strigils">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stringed instrument">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strongboxes">
+    <PageReference>DF8:22</PageReference>
+    <PageReference>DF8:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sumac">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sun Armor">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sundial">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-speed potion">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surcoats">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surgical instruments">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival gear">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sword canes">
+    <PageReference>DF8:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Szechuan pepper">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tamarind">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tapestries">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tea">
+    <PageReference>DF8:13</PageReference>
+    <Child ReferenceText="sets">
+      <PageReference>DF8:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Teapots">
+    <PageReference>DF8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telescopes">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tents">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Textbooks">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Theodolites">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thesis">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thieves’ tools">
+    <PageReference>DF8:25</PageReference>
+    <Child ReferenceText="oil">
+      <PageReference>DF8:37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Three-Arrow Bow">
+    <PageReference>DF8:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrown shields">
+    <PageReference>DF8:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tigers, giant">
+    <PageReference>DF8:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Timed candle">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Timekeeping devices">
+    <PageReference>DF8:15</PageReference>
+    <PageReference>DF8:25</PageReference>
+    <PageReference>DF8:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tinderboxes">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tinted goggles">
+    <PageReference>DF8:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tongs">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tools">
+    <PageReference>DF8:25-26</PageReference>
+    <PageReference>DF8:40</PageReference>
+    <PageReference>DF8:41</PageReference>
+    <Child ReferenceText="kits">
+      <PageReference>DF8:26</PageReference>
+      <PageReference>DF8:41</PageReference>
+      <PageReference>DF8:43</PageReference>
+    </Child>
+    <Child ReferenceText="size">
+      <PageReference>DF8:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Topaz">
+    <PageReference>DF8:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tops (toys)">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Torches">
+    <PageReference>DF8:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Torcs">
+    <PageReference>DF8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tourmaline">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toys">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transparency potion">
+    <PageReference>DF8:37-38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trap-finder’s kits">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps">
+    <PageReference>DF8:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trousers">
+    <PageReference>DF8:17</PageReference>
+    <PageReference>DF8:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Water">
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tubs">
+    <PageReference>DF8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tunics">
+    <PageReference>DF8:17</PageReference>
+    <PageReference>DF8:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turbans">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turmeric">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turquoise">
+    <PageReference>DF8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultima Ratio Regnum">
+    <PageReference>DF8:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal">
+    <Child ReferenceText="tool kit">
+      <PageReference>DF8:26</PageReference>
+    </Child>
+    <Child ReferenceText="antidote">
+      <PageReference>DF8:38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual items">
+    <PageReference>DF8:38-42</PageReference>
+    <SeeAlso>Bizarre Weapons</SeeAlso>
+    <SeeAlso>Rare Artifacts</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Valuable mundane materials">
+    <PageReference>DF8:11-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Velvet">
+    <PageReference>DF8:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vials">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visage of the God">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walking stick">
+    <PageReference>DF8:16</PageReference>
+    <SeeAlso>Staff</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Wands">
+    <PageReference>DF8:16</PageReference>
+    <PageReference>DF8:42</PageReference>
+    <SeeAlso>Staff</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Warbeaks">
+    <PageReference>DF8:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ward of the Wolf">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water pipes">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wax tablets">
+    <PageReference>DF8:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weakness potion">
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>DF8:29-33</PageReference>
+    <PageReference>DF8:39-43</PageReference>
+    <SeeAlso>Weapons in main index</SeeAlso>
+    <Child ReferenceText="bizarre">
+      <PageReference>DF8:32-33</PageReference>
+    </Child>
+    <Child ReferenceText="accessories">
+      <PageReference>DF8:22</PageReference>
+      <PageReference>DF8:22</PageReference>
+      <PageReference>DF8:26</PageReference>
+    </Child>
+    <Child ReferenceText="potions">
+      <PageReference>DF8:36-38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Webbing">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wet cloak">
+    <PageReference>DF8:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wheelbarrow">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whetstone">
+    <PageReference>DF8:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whistle">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wigs">
+    <PageReference>DF8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wine">
+    <PageReference>DF8:13</PageReference>
+    <Child ReferenceText="glasses">
+      <PageReference>DF8:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wineskin">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wisdom potion">
+    <PageReference>DF8:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizard’s Staff">
+    <PageReference>DF8:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizard’s Wand">
+    <PageReference>DF8:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Woad">
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wolfpack">
+    <PageReference>DF8:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wolfsbane">
+    <PageReference>DF8:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wooden chests">
+    <PageReference>DF8:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Woodwinds">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wool">
+    <PageReference>DF8:12</PageReference>
+    <PageReference>DF8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wraps">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrestling oil">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Writing tools">
+    <PageReference>DF8:26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yashmak">
+    <PageReference>DF8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yellow Sphere of Weirdness">
+    <PageReference>DF8:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zeodary">
+    <PageReference>DF8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zither">
+    <PageReference>DF8:22</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>
