@@ -13,18 +13,16 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using CommandRemarksAttribute = Discord.Commands.RemarksAttribute;
 using CommandSummaryAttribute = Discord.Commands.SummaryAttribute;
-using DiscordHlc = Gao.Gurps.Discord.Model.HitLocationTable;
-using ModelHlc = Gao.Gurps.Model.HitLocationTable;
 
 namespace Gao.Gurps.Discord.Slash
 {
     public class CalculationModule : InteractionModuleBase
     {
-        [SlashCommand("basic-lift", "Calculate basic lift", runMode: RunMode.Async), CommandSummary(@"Calculates the Basic Lift of a character given an effective strength. Add Kyos or K at the end to use Know your own strength calculations.
+        [SlashCommand("basic-lift", "Calculate basic lift", runMode: RunMode.Async), CommandSummary(@"Calculates the Basic Lift of a character given an effective strength. Add Kyos at the end to use Know your own strength calculations.
 Examples:
-.BasicLift 10 
-.bl 12
-.bl 13 kyos")]
+\basic-lift 10 
+\basic-lift 12
+\basic-lift 13 Kyos")]
         public async Task BasicLift([Summary("Strength")] uint strength, [Summary("normal-or-kyos", "Whether to use default strength rules or KYOS strength rules"), Choice("Normal", ""), Choice("Kyos", "kyos")] string kyosOptionAsText = "", [Summary("imperial-or-metric"), Choice("Imperial", "IMPERIAL"), Choice("Metric", "METRIC")] string imperialOrMetric = "IMPERIAL")
         {
             var isMetric = imperialOrMetric.ToUpperInvariant().StartsWith("M");
@@ -81,11 +79,11 @@ Examples:
         [SlashCommand("broken-blade", "Calculate broken blade stats", runMode: RunMode.Async)]
         [CommandSummary(@"Calculates a number of specs about a melee weapon using the Broken Blade system from Pyramid #3/87
 Examples:
-`.brokenblade 12` for a weapon with minimum ST of 12
-`.bb 12 cheap` if it is cheap
-`.bb 12 good hafted` for a good quality hafted weapon.
-`.bb 12 symmetrical very fine` for a symmetrical very fine weapon
-`.bb 12 symmetrical very fine $3500.00 -3` for a symmetrical very fine weapon that costs $3500.00 and has accrued -3 HT damage.")]
+`\broken-blade 12` for a weapon with minimum ST of 12
+`\broken-blade 12 cheap` if it is cheap
+`\broken-blade 12 good hafted` for a good quality hafted weapon.
+`\broken-blade 12 symmetrical very fine` for a symmetrical very fine weapon
+`\broken-blade 12 symmetrical very fine $3500.00 -3` for a symmetrical very fine weapon that costs $3500.00 and has accrued -3 HT damage.")]
         [CommandRemarks(@"Valid qualities are `cheap` `good` `fine` and `very fine`.
 Extra options include `hafted` for hafted weapons and `symmetrical` for weapons that are symmetrical.
 The stats generated from these equations are at times more like ""good defaults"" so adjust as reasonable.
@@ -139,9 +137,9 @@ The health damage figures are extrapolated past -10. The original table only goe
         [CommandSummary(@"Converts dollar amount given to coins for Dungeon Fantasy RPG.
 Examples:
 For $40:
-.dollarsToCoins 40
+\dollars-to-coins 40
 For $40.12
-.dtc 40.12")]
+\dollars-to-coins 40.12")]
         public async Task DollarsToCoins( decimal amount, [Summary("Unused")] string mode = "Dungeon Fantasy RPG")
         {
             await Context.Interaction.RespondAsync($"Converting {amount:C} to coins.");
@@ -156,9 +154,9 @@ For $40.12
 
         [SlashCommand("grappling-encumbrance-table", "Calculates Technical Grappling encumbrance.", runMode: RunMode.Async)]
         [CommandSummary(@"Calculates Grappling Weight Modifier and Encumbrance Penalty from Basic Lift (in lbs or kg) and Grappling Encumbrance (Defined on Technical Grappling p. 8)
-.grapplingencumbrancetable 12.4 100
-.get 24 180
-.get 33.3 40 metric")]
+\grappling-encumbrance-table 12.4 100
+\grappling-encumbrance-table 24 180
+\grappling-encumbrance-table 33.3 40 metric")]
         public async Task GrapplingEncumbranceTable([Summary("basic-lift-rational", "Basic lift, as a rational number")] decimal basicLift, [Summary("encumbrance-in-lbs")] uint encumbrance)
         {
             if (basicLift <= 0m)
@@ -173,10 +171,10 @@ For $40.12
         [SlashCommand("jump", "Calculate jump distance and height", runMode: RunMode.Async)]
         [CommandSummary(@"Given a character's maximum move, calculates maximum vertical and horizontal jump. Optionally levels of super jump and enhanced move, in that order, can be provided.
 Example usage:
-`.Jump 5
-.j 6 1
-.j 6 1 4
-.j 6 1 4 metric`")]
+`\jump 5
+\jump 6 1
+\jump 6 1 4
+\jump 6 1 4 metric`")]
         public async Task Jump([Summary("Basic-Move")] int basicMove, [Summary("Super-Jump-Level")] int superJumpLevel = 0, [Summary("Enhanced-Move-Level", "Accepts decimals for half levels.")] decimal enhancedMoveLevel = 0, [Summary("imperial-or-metric"), Choice("Imperial", "IMPERIAL"), Choice("Metric", "METRIC")] string metricOrImperial = "IMPERIAL")
         {
             if (!new[] { 0m, 0.5m }.Contains(enhancedMoveLevel % 1.0m))
@@ -193,11 +191,11 @@ Example usage:
         [SlashCommand("last-gasp", "Calculate fatigue recovery rates for last gasp rules", runMode: RunMode.Async), CommandSummary(@"Calculates the penalties for Last Gasp Long Term Fatigue.
 Examples:
 Nominally you need your remaining and your total FP
-`.LastGasp 9 10`
+`\last-gasp 9 10`
 You can also supply ST, DX, IQ, and HT in that order if you want the aritmetic done for you
-`.LastGasp 9 12 10 11 10 12`
+`\last-gasp 9 12 10 11 10 12`
 Finally, if you want High-Resolution ST Loss rules turned on, you can supply it as an optional parameter, but look at `LastGaspHighResolution` for a shortcut.
-`.LastGasp 9 12 10 11 10 12 true`
+`\last-gasp 9 12 10 11 10 12 true`
 ")]
         public async Task LastGasp([Summary("Current-FP")] int currentFatiguePoints, [Summary("Total-FP")] int totalFatiguePoints, [Summary("ST")] int strength = -1, [Summary("DX")] int dexterity = -1, [Summary("IQ")] int intelligence = -1, [Summary("HT")] int health = -1, [Summary("high-resolution-mode", "More detailed rules make smaller increments.")] bool highDefinition = false)
         {
@@ -231,11 +229,11 @@ Finally, if you want High-Resolution ST Loss rules turned on, you can supply it 
         }
 
 
-        [SlashCommand("lifting-strength", "Calculate minimum lifting strength from basic lift", runMode: RunMode.Async), CommandSummary(@"Calculates the effective lifting strength for a given basic lift in pounds. Add Kyos or K at the end to use Know your own strength calculations.
+        [SlashCommand("lifting-strength", "Calculate minimum lifting strength from basic lift", runMode: RunMode.Async), CommandSummary(@"Calculates the effective lifting strength for a given basic lift in pounds. Add Knowing Your Own Strength at the end to use Know your own strength calculations.
 Examples:
-.liftingstrength 20 
-.liftingst 24.5
-.lst 81.2 kyos")]
+\lifting-strength 20 
+\lifting-strength 24.5
+\lifting-strength 81.2 Knowing Your Own Strength")]
         public async Task LiftingStrength([Summary("Basic-Lift")] decimal basicLift, [Summary("normal-or-kyos"), Choice("Normal", ""), Choice("Knowing Your Own Strength", "kyos")] string kyosOptionAsText = "", [Summary("imperial-or-metric"), Choice("Imperial", "IMPERIAL"), Choice("Metric", "METRIC")] string imperialOrMetric = "IMPERIAL")
         {
             var isMetric = imperialOrMetric.ToUpperInvariant().StartsWith("M");
@@ -256,9 +254,9 @@ Examples:
         [SlashCommand("long-distance", "Look up long distance penalties", runMode: RunMode.Async)]
         [CommandSummary(@"Calculates long range penalties for a given distance with an optional unit of measure. Default is miles.
 Examples:
-.longdistance 10
-.ldistance 0.1 inches
-.ldist 10e+01 miles")]
+\long-distance 10
+\long-distance 0.1 inches
+\long-distance 10e+01 miles")]
         [CommandRemarks(@"Range accepts an optional designator for unit, assuming by default a mile. The conversion factor is based on the not 100% accurate, but simpler factors provided by the basic set.
 The allowed units are as follows:
 `CM` (or `Centimeter`) - Centimeters
@@ -288,7 +286,7 @@ EG: Mi, Mile, and Miles (and even MiIdontcareanymore) are all equivalent.
         [SlashCommand("lookup", "look up values in e.g. indices and GCS data", runMode: RunMode.Async)]
         [CommandSummary(@"Looks up GURPS information from several different resources.
 Example command usage: 
-.lu spell fireball")]
+\lookup spell fireball")]
         [CommandRemarks(@"The first parameter tells what type of index to search. Valid values are as follows:
 `Advantage`, `Book`, `Disadvantage`, `Equipment`, `FAQ`, `Hitlocation`, `Index`, `Item`, `Perk`, `Pyramid`, `Quirk`, `Skill`, `Spell`, `Technique`
 The second parameter is a search query. It accepts regular expressions for all searches but hit location.
@@ -375,8 +373,8 @@ The final parameter is an override to return more results than normal.
         [SlashCommand("normalize-to-dice", "Simplifies dice down.", runMode: RunMode.Async)]
         [CommandSummary(@"Converts an integer to a number of dice, or normalizes dice adds using the rules from B269
 Examples:
-.NormalizeToDice 12
-.ntd 11d-22")]
+\normalize-to-dice 12
+\normalize-to-dice 11d-22")]
         [CommandRemarks(@"This uses the formula from B269")]
         public async Task NormalizeToDice([Summary("Integer-or-Dice-Value", "Value to simplify")] string value)
         {
@@ -399,9 +397,9 @@ Examples:
         [SlashCommand("range", "get speed/range penalties", runMode: RunMode.Async)]
         [CommandSummary(@"Calculates speed/range penalties for a given distance with an optional unit of measure. Default is yards.
 Examples:
-.range 10
-.range 0.1 inches
-.range 10e+01 miles")]
+\range 10
+\range 0.1 inches
+\range 10e+01 miles")]
         [CommandRemarks(@"Range accepts an optional designator for unit, assuming by default a yard. The conversion factor is based on the not 100% accurate, but simpler factors provided by the basic set.
 The allowed units are as follows:
 `CM` (or `Centimeter`) - Centimeters
@@ -430,8 +428,8 @@ EG: Mi, Mile, and Miles (and even MiIdontcareanymore) are all equivalent.
 
         [SlashCommand("rate-of-fire-bonus", "give the rate of fire, find out the skill bonus", runMode: RunMode.Async), CommandSummary(@"Calculates bonus to skill for shooting really fast.
 Examples:
-.rateOfFireBonus 10
-.rofb 100")]
+\rate-of-fire-bonus 10
+\rate-of-fire-bonus 100")]
         public async Task RateOfFireBonus([Summary("Rate-of-Fire")] uint rateOfFire)
         {
             var bonus = LookupTables.GetRateOfFireBonus((int)rateOfFire);
@@ -458,9 +456,9 @@ Examples:
         [SlashCommand("size-modifier", "Give size, get size modifier", runMode: RunMode.Async)]
         [CommandSummary(@"Calculates unmodified size modifier for a given length or height with an optional unit designator
 Examples:
-.SizeModifier 10
-.sm 0.1 inches
-.sm 10e+01 miles")]
+\size-modifier 10
+\size-modifier 0.1 inches
+\size-modifier 10e+01 miles")]
         [CommandRemarks(@"Size accepts an optional designator for unit, assuming by default a yard. The conversion factor is based on the not 100% accurate, but simpler factors provided by the basic set.
 The allowed units are as follows:
 `CM` (or `Centimeter`) - Centimeters
@@ -489,10 +487,10 @@ EG: Mi, Mile, and Miles (and even MiIdontcareanymore) are all equivalent.
         [SlashCommand("striking-strength", "Find out swing and thrust damage from strength", runMode: RunMode.Async)]
         [CommandSummary(@"Calculates the amount of damage done for a given strength level. Optionally you can request the results using kyos or reducedSwing to get results from two popular alternative striking strength tables
 Examples:
-.StrikingStrength 10
-.sst 12
-.sst 13 kyos
-.sst 14 rs")]
+\striking-strength 10
+\striking-strength 12
+\striking-strength 13 Knowing your Own Strength
+\striking-strength 14 Reduced Swing")]
         public async Task StrikingStrength([Summary("Strength")] uint strength, [Summary("Strength-Mode"), Choice("Normal", ""), Choice("Reduced Swing", "R"), Choice("Knowing Your Own Strength", "kyos")] string kyosOptionAsText = "")
         {
 
