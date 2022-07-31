@@ -57,8 +57,8 @@ namespace Gao.Gurps.Discord.Slash
         [SlashCommand("help", "find out more about bot commands", runMode: RunMode.Async)]
         [CommandSummary(@"If no parameter is provided, lists all available functions. If a command name is provided, explains the given command.
 Examples:
-.help
-.help roll")]
+\help
+\help roll")]
         public async Task HelpCommand([Summary("Command-Name")] string commandName = "")
         {
             if (string.IsNullOrEmpty(commandName))
@@ -203,7 +203,7 @@ Examples:
         [SlashCommand("manage-guild-blocks", "block or unblock guilds", runMode: RunMode.Async)]
         [CommandSummary(@"Owner only command - Block or unblock a Guild
 Examples:
-.ManageGuildBlocks 12345678")]
+\manage-guild-blocks 12345678")]
         [RequireOwner]
         public async Task ManageGuildBlocks([Summary("Guild-Id")] ulong guildId)
         {
@@ -215,7 +215,7 @@ Examples:
         [SlashCommand("manage-user-blocks", "Block or unblock users", runMode: RunMode.Async)]
         [CommandSummary(@"Owner only command - Block or unblock a User
 Examples:
-.ManageUserBlocks 12345678")]
+\manage-user-blocks 12345678")]
         [RequireOwner]
         public async Task ManageUserBlocks([Summary("User-Id")] ulong userId)
         {
@@ -226,8 +226,8 @@ Examples:
         [SlashCommand("pb-opt-out", "Opt out or back into being visible to Pseudobot.", runMode: RunMode.Async)]
         [CommandSummary(@"Allows a user to opt out or opt back into features that require the ability to know more about them. Privacy conscious users may be interested.
 Examples:
-`/pboptout All`
-`/pboptout None`")]
+`/pb-opt-out All`
+`/pb-opt-out None`")]
         public async Task OptOut(OptOutOptions options)
         {
             var user = Context.User;
@@ -278,9 +278,9 @@ Examples:
         [SlashCommand("timer", "Start a timer", runMode: RunMode.Async)]
         [CommandSummary(@"Starts a timer which when completed will alert the user.
 Examples:
-.timer 10:00
-.timer 60:00 Used Luck
-.t 5")]
+\timer 10:00
+\timer 60:00 Used Luck
+\timer 5")]
         public async Task Timer([Summary("Delay")] string timeSpan, [Summary("Message")] string message = ";3")
         {
 

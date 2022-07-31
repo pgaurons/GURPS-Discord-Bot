@@ -124,11 +124,11 @@ Critical Failure: {odds.CriticalFailureOdds:p2}```");
 
         }
 
-        [SlashCommand("criticalhit", "Rolls on the critical hit table", runMode: RunMode.Async)]
+        [SlashCommand("critical-hit", "Rolls on the critical hit table", runMode: RunMode.Async)]
         [CommandSummary(@"Rolls on the critical hit table. Add the word head if you want to roll on the head critical hit table.
 Examples:
-.CriticalHit
-.ch head")]
+\critical-hit
+\critical-hit head")]
         public async Task CriticalHit(CriticalHitType type = CriticalHitType.Normal)
         {
 
@@ -150,12 +150,11 @@ Examples:
             }
         }
 
-        [SlashCommand("criticalmiss", "Rolls on critical miss table", runMode: RunMode.Async)]
+        [SlashCommand("critical-miss", "Rolls on critical miss table", runMode: RunMode.Async)]
         [CommandSummary(@"Rolls on the critical miss table. Add the word unarmed if you want to roll on the unarmed critical miss table.
 Examples:
-.CriticalMiss
-.CriticalFailure
-.cm unarmed")]
+\critical-miss
+\critical-miss Unarmed")]
         [CommandRemarks(@"The table allows the following variations.
 `Celtic` - Celtic Magical Critical Failures
 `Clerical` - Clerical Magical Critical Failures
@@ -193,7 +192,7 @@ Examples:
 Parameters in order are velocity (yards/second) Slammer striking strength, and target striking strength.
 Examples:
 For a move 6 slam executed by one character with 11 Striking ST against another with 10
-.Slam 6 11 10
+\dungeon-fantasy-slam 6 11 10
 ")]
         public async Task DungeonFantasySlam([Summary("Velocity")] int velocity, [Summary("Slammer-Striking-ST")] int slammerStrikingStrength, [Summary("Target-Striking-ST")] int targetStrikingStrength)
         {
@@ -217,9 +216,9 @@ Slammer did {result.PartyOneDamage} which comes out to {result.PartyOneDamageRes
         [SlashCommand("dungeon-fantasy-throw", "Calculate throw damage via DF rules", runMode: RunMode.Async)]
         [CommandSummary(@"Given the appropriate parameters, calculates the parameters of distance and damage of a thrown object according to DFRPG.
 Examples:
-.dfthrow 0.5 10
-.dfth 1 10
-.dungeonfantasythrow 1 10 11")]
+\dungeon-fantasy-throw 0.5 10
+\dungeon-fantasy-throw 1 10
+\dungeon-fantasy-throw 1 10 11")]
         public async Task DungeonFantasyThrow(double weight, uint liftingStrength, uint strikingStrength = uint.MaxValue, [Choice("Imperial", "IMPERIAL"), Choice("Metric", "METRIC")]string imperialOrMetric = "IMPERIAL")
         {
             var isMetric = imperialOrMetric.ToUpperInvariant().StartsWith("M");
@@ -257,11 +256,11 @@ Striking Strength: {strikingStrength}
         [CommandSummary(@"Calculates the damage done by explosions and shrapnel. The minimum parameters are the damage of the explosion, and the distance in yards of at least one potential target.
 examples:
 To calculate damage for a normal 5d cr ex explosion for people standing 0, 1, 2, and 3 yards away from the explosion
-`.explosion 5d 0 1 2 3`
+`\explosion 5d 0 1 2 3`
 If that explosion has the effect of explosion 2, meaning that damage dissipates from the center more slowly
-`.ex 2 5d 0 1 2 3`
+`\explosion 2 5d 0 1 2 3`
 If that explosion also has 1d of cutting shrapnel.
-`.ex 2 5d[1d] 0 1 2 3`")]
+`\explosion 2 5d[1d] 0 1 2 3`")]
         public async Task Explosion(string explosionParameters)
         {
             await ExplosionWorkflow(explosionParameters, false);
@@ -294,16 +293,16 @@ If that explosion also has 1d of cutting shrapnel.
             await SendTextWithTimeBuffers(5, TextUtility.FormatExplosionResults(results), false);
         }
 
-        [SlashCommand("grandunifiedhitlocationexplosion", "Uses the GUHLT to simulate an explosion", runMode: RunMode.Async)]
+        [SlashCommand("guhl-explosion", "Uses the GUHLT to simulate an explosion", runMode: RunMode.Async)]
         [CommandSummary(@"Calculates the damage done by explosions and shrapnel. The minimum parameters are the damage of the explosion, and the distance in yards of at least one potential target.
 This command uses the GUHLT table.
 examples:
 To calculate damage for a normal 5d cr ex explosion for people standing 0, 1, 2, and 3 yards away from the explosion
-`.guhltex 5d 0 1 2 3`
+`\guhl-explosion 5d 0 1 2 3`
 If that explosion has the effect of explosion 2, meaning that damage dissipates from the center more slowly
-`.guhltex 2 5d 0 1 2 3`
+`\guhl-explosion 2 5d 0 1 2 3`
 If that explosion also has 1d of cutting shrapnel.
-`.guhltex 2 5d[1d] 0 1 2 3`")]
+`\guhl-explosion 2 5d[1d] 0 1 2 3`")]
         public async Task GrandUnifiedHitLocationTableExplosion(string explosionParameters)
         {
             await ExplosionWorkflow(explosionParameters, true);
@@ -382,11 +381,11 @@ If that explosion also has 1d of cutting shrapnel.
         [CommandSummary(@"Calculates damage received after falling. By Default, it is assumed you are dealing with 1 G gravity, and hitting a hard surface.
 Examples:
 A 10 HP person falls 20 yards
-.Fall 10 20
+\fall 10 20
 A 10 HP person falls 20 yards and hits a soft surface.
-.Fall 10 20 Soft
+\fall 10 20 Soft
 A 10 HP person falls 20 yards, hits a soft surface and they are on the moon.
-.F 10 20 Soft 0.165
+\fall 10 20 Soft 0.165
 ")]
         [CommandRemarks("Terminal Velocity is kinda fuzzy even according to the basic set, but keep in mind that I'm not putting a ceiling on velocity in these calculations." +
     " I also am only checking if the first character in the hard/soft parameter is an S, so type whatever fun s words you like if you want to make the ground soft instead of hard.")]
@@ -406,13 +405,13 @@ The Fall damage against a {(softSurface ? "soft" : "hard")} surface is {result.P
         }
 
 
-        [SlashCommand("frightcheck", "Roll on the frightcheck table", runMode: RunMode.Async)]
+        [SlashCommand("fright-check", "Roll on the frightcheck table", runMode: RunMode.Async)]
         [CommandSummary(@"Given the margin of failure on a failed fright check, rolls the fright check automatically. Optionally, add the word Fright, Awe, Despair, or Confusion after the number for different tables.
 examples:
-.FrightCheck 5
-.fc 1
-.fc 5 Awe
-.frightCheck 2 Confusion")]
+\fright-check 5
+\fright-check 1
+\fright-check 5 Awe
+\fright-check 2 Confusion")]
         public async Task FrightCheck(uint marginOfFailure, FrightCheckType type = FrightCheckType.Fright)
         {
 
@@ -428,15 +427,15 @@ examples:
         }
 
 
-        [SlashCommand("gatherenergy", "Gather energy via the Ritual Path Magic mechanics", runMode: RunMode.Async)]
+        [SlashCommand("gather-energy", "Gather energy via the Ritual Path Magic mechanics", runMode: RunMode.Async)]
         [CommandSummary(@"Gather Energy according to the rules of RPM. 
 Example command usage: 
 To gather 30 energy with 15 skill.
-.GatherEnergy Path of Mind-15 30
+\gather-energy Path of Mind-15 30
 To gather 30 energy with 15 skill and gathering occurs every 5 seconds.
-.ge Path of Body-15 30 00:00:05
+\gather-energy Path of Body-15 30 00:00:05
 If you are in a hurry to gather 30 energy with 15 skill.
-.ge 15 30 ")]
+\gather-energy 15 30 ")]
         public async Task GatherEnergy(string argument)
         {
             const int linesToDisplayAtOnce = 5;
@@ -461,11 +460,10 @@ If you are in a hurry to gather 30 energy with 15 skill.
         }
 
 
-        [SlashCommand("generatecharacter", "Puts a bunch of things together from pointless slaying and looting", runMode: RunMode.Async)]
+        [SlashCommand("generate-character", "Puts a bunch of things together from pointless slaying and looting", runMode: RunMode.Async)]
         [CommandSummary(@"Generates a random character.
 Example usage:
-`.GenerateCharacter`
-`.gc`")]
+`\generate-character`")]
         public async Task GenerateCharacter(string templateName = "PointlessSlayingAndLooting")
         {
             var template = CharacterGeneratorTemplate.PointlessSlayingAndLooting;
@@ -474,12 +472,12 @@ Example usage:
             await Context.Interaction.RespondAsync(string.Empty, embed: EmbedUtility.GenerateRandomCharacterEmbed(character));
         }
 
-        [SlashCommand("generateworld", "Generate a world using the Infinite Worlds rules.", runMode: RunMode.Async)]
+        [SlashCommand("generate-world", "Generate a world using the Infinite Worlds rules.", runMode: RunMode.Async)]
         [CommandSummary(@"Generates a random world using tables from the `Infinte Worlds` source book. You may specify if generating the world from a Homeline or Centrum perspective; defaults to homeline.
 Example usage:
-`.GenerateWorld Homeline`
-`.gw centrum`
-`.gw`")]
+`\generate-world Homeline`
+`\generate-world centrum`
+`\generate-world`")]
         public async Task GenerateWorld([Summary("Originating-Perspective"), Choice("Homeline", "HOMELINE"), Choice("Centrum", "CENTRUM") ] string perspective = "HOMELINE")
         {
             var isHomeline = perspective.ToUpperInvariant() == "HOMELINE";
@@ -501,8 +499,7 @@ Example usage:
         [SlashCommand("generate-treasure", "Makes a random treasure using the DF8 treasure generator web API.", runMode: RunMode.Async)]
         [CommandSummary(@"Generates a random treasure.
 Example usage:
-`.GenerateTreasure`
-`.gt`")]
+`\generate-treasure`")]
         [CommandRemarks("The functionality for the Dungeon Fantasy treasure generation is furnished by the webservice at https://df-treasure-generator.herokuapp.com/")]
         public async Task GenerateTreasure(string treasureType = "DungeonFantasy")
         {
@@ -510,7 +507,7 @@ Example usage:
             await Context.Interaction.RespondAsync(string.Empty, embed: EmbedUtility.TreasureGeneratorEmbed(treasure));
         }
 
-        [SlashCommand("grand-unified-hit-location-table", "Rolls on the Grand Unified Hit Location Table.", runMode: RunMode.Async)]
+        [SlashCommand("guhl-table", "Rolls on the Grand Unified Hit Location Table.", runMode: RunMode.Async)]
         [CommandSummary(@"Rolls for a random hit location using the popular house ruled Grand Unified Hit Location Table. http://forums.sjgames.com/showthread.php?t=109239 for more information")]
         [CommandRemarks(@"If an optional hit location is included, and is valid, then one can roll on one of the sub tables. The following are valid:
 `Face`
@@ -559,8 +556,7 @@ Example usage:
         [SlashCommand("heroic-background", "Generates a Heroic Background according to the rules in Pyramid #3/104's Heroic Background Generator", runMode: RunMode.Async)]
         [CommandSummary(@"Generates a Heroic Background according to the rules in Pyramid #3/104's Heroic Background Generator, created by David L. Pulver.
 Example usage:
-`.heroicbackground`
-`.hb`")]
+`\heroic-background`")]
         public async Task HeroicBackground()
         {
             var character = LookupTables.GenerateHeroicBackground();
@@ -574,11 +570,11 @@ Example usage:
         [CommandSummary(@"Rolls for a random hit location.
 Examples:
 Default hit location table
-.HitLocation
+\hit-location
 Roll on the quadruped table.
-.hl quadruped
+\hit-location quadruped
 Roll using the rules from basic set only.
-.hl humanoid false")]
+\hit-location humanoid false")]
         [CommandRemarks(@"The following tables are implemented:
 `Humanoid`: (default) Stands on two legs, has two arms, and normal vital organs.
 `Winged Humanoid`: Like a humanoid... with wings.
@@ -617,9 +613,9 @@ Roll using the rules from basic set only.
 
         [SlashCommand("iron-gurps", "Randomly generate a list of books.", runMode:RunMode.Async)]
         [CommandSummary(@"Gives a random list of books to use for your next game.
-`.IronGURPS` - Normal! Gets 3 books from all editions of GURPS.
-`.IG 5` - Get 5 books from any edition of GURPS.
-`.IG 5 4` - Get 5 books, but only from GURPS 4e.")]
+`\iron-gurps` - Normal! Gets 3 books from all editions of GURPS.
+`\iron-gurps 5` - Get 5 books from any edition of GURPS.
+`\iron-gurps 5 4` - Get 5 books, but only from GURPS 4e.")]
         public async Task IronGurps(int numberOfBooks = 3, int minimumEdition = 3)
         {
             
@@ -636,9 +632,8 @@ Roll using the rules from basic set only.
 
         [SlashCommand("last-gasp-non-player-character", "Roll on a table to see if scrubs are tired", runMode: RunMode.Async), CommandSummary(@"Roll to see how a mook behaves in combat when you don't want to track everyone's AP. Optionally, you can supply a number of mooks to roll for. (capped to 10 for now.)
 Examples:
-`.lastgaspnonplayercharacter`
-`.lgnpc`
-`.lgnpc 10`
+`\last-gasp-non-player-character`
+`\last-gasp-non-player-character 10`
 ")]
         public async Task LastGaspNonPlayerCharacter([Summary("Number-of-Mooks-to-roll-for")] uint quantity = 1)
         {
@@ -667,8 +662,7 @@ Examples:
 
         [SlashCommand("malfunction", "rolls on Basic Set's malfunction table.", runMode: RunMode.Async), CommandSummary(@"Roll on the Basic Set Firearm Malfunction table.
 Examples:
-.Malfunction
-.malf")]
+\malfunction")]
         public async Task Malfunction()
         {
             var result = LookupTables.GetMalfunction(Roller.Roll().Sum());
@@ -677,7 +671,7 @@ Examples:
 
         [SlashCommand("quick-contest", "Execute a quick contest", runMode: RunMode.Async), CommandSummary(@"Roll Quick Contest.
 Examples:
-.qc 10 vs 12")]
+\quick-contest 10 vs 12")]
         public async Task QuickContest(string argument = "")
         {
 
@@ -696,8 +690,8 @@ Examples:
         [SlashCommand("quick-contest-a-bunch", "Do a bunch of quick contests", runMode: RunMode.Async), CommandSummary(@"Rolls several Quick Contests. The first parameter is the skill of the instigator, this is then proceeded with the resisting skill levels of all targets, for example, if using an area of effect spell, the
 caster's skill level of 16 would be the first parameter, and the wills of three targets would come next. Results are positive number for a success, negative for a loss, and 0 for a tie, those being context sensitive.
 Examples:
-.quickcontestabunch 16 10 12 14
-.qcab 16 16 15 14")]
+\quick-contest-a-bunch 16 10 12 14
+\quick-contest-a-bunch 16 16 15 14")]
         public async Task QuickContestABunch(int instigatorSkill, [Summary("defender-skill-levels")] string argument = "")
         {
             var opponentSkillLevels = new uint[0];
@@ -726,8 +720,8 @@ Examples:
         [SlashCommand("quick-contest-a-bunch-identical", "Do a bunch of quick contests with contestants of the same skill level.", runMode: RunMode.Async), CommandSummary(@"Like Quick contest a bunch, except it assumes that the ability is being used against several opponents of the same resistance level.
 Assuming a skill level of 16 versus 10 enemies with a will of 12.
 Examples:
-.quickcontestabunchIdentical 16 12 10
-.qcabi 16 12 10")]
+\quick-contest-a-bunch-identical 16 12 10
+\quick-contest-a-bunch-identical 16 12 10")]
         public async Task QuickContestABunch(uint instigatorSkill, uint defenderSkillLevels, uint numberOfDefenders)
         {
             var results =
@@ -752,11 +746,10 @@ The special lookup tables are:
 `Seduction` - Response to a request for intimacy or a romantic relationship.
 `Testimony` - Response to information you have given to NPCs and whether they believe it.
 Examples:
-.reaction
-.re
-.reaction -2
-.re 3
-.re 4 commerce")]
+\reaction
+\reaction -2
+\reaction 3
+\reaction 4 commerce")]
         public async Task Reaction(int reactionModifier = 0, ReactionTable specialLookupTable = ReactionTable.None)
         {
 
@@ -780,8 +773,8 @@ Examples:
         [SlashCommand("regular-contest", "Do a regular contest", runMode: RunMode.Async), CommandSummary(@"Rolls a regular contest where each iteration defaults to a length of 1 second. 
 Optional iteration lengths may be supplied.
 Examples:
-.rc 10 10
-.regularcontest 12 10 0:30")]
+\regular-contest 10 10
+\regular-contest 12 10 0:30")]
         public async Task RegularContest([Summary("contestant-one-skill", "First contestant's skill")] int contestantOneSkill, int contestantTwoSkill, [Summary("interval-duration", "Format as mm:ss e.g. 5:00 for five minutes")] string durationAsText = "0:01")
         {
 
@@ -841,9 +834,9 @@ You can also end a line with a comment by using `//`.
         [CommandSummary(@"Rolls as many times as told. It defaults to rolling 3d, but optionally, a different roll can
 be provided.
 Examples:
-.rollABunch 5
-.rab 50
-.rab 5 7d+1
+\roll-a-bunch 5
+\roll-a-bunch 50
+\roll-a-bunch 5 7d+1
 You can also end a line with a comment by using `//`.")]
         public async Task RollABunch([Summary("number-of-rolls")] int times, string diceAdds = "3d")
         {
@@ -877,8 +870,8 @@ You can also end a line with a comment by using `//`.")]
         [SlashCommand("roll-a-bunch-against", "Do multiple success rolls against the same value.", runMode: RunMode.Async)]
         [CommandSummary(@"Rolls against a given target number a given number of times.
 Examples:
-.rollABunchAgainst 10 5
-.raba 10 50")]
+\roll-a-bunch-against 10 5
+\roll-a-bunch-against 10 50")]
         [CommandRemarks(@"Each result is shown as `[+-]\d+!?`. 
 A plus or minus sign indicating success or failure respectively, followed by the margin of success or failure. An exclamation point means that the result is critical.")]
         public async Task RollABunchAgainst([Summary("Rolls")] int times, [Summary("Target-Number")] int target)
@@ -906,8 +899,8 @@ A plus or minus sign indicating success or failure respectively, followed by the
         [SlashCommand("roll-against", "Success rolls", runMode: RunMode.Async)]
         [CommandSummary(@"Does a success roll versus the target
 Examples:
-.ra 13
-.success Stealth-12
+\roll-against 13
+\roll-against Stealth-12
 You can also end a line with a comment by using `//`.")]
         public async Task RollAgainst([Summary("Target-Number")] string argument)
         {
@@ -957,9 +950,9 @@ You can also end a line with a comment by using `//`.")]
         [SlashCommand("roll-stats", "Rolls up stats randomly because no one said it could be done.", runMode: RunMode.Async)]
         [CommandSummary(@"Randomly rolls up character stats. Defaults to 100 points, but a different number can be provided.
 Examples:
-.RollStats
-.rs 150
-.rs 200 false")]
+\roll-stats
+\roll-stats 150
+\roll-stats 200 false")]
         [CommandRemarks(@"HP, FP, Basic Speed, and Basic Move have relative maxima based on their source attributes. Possibilities are weighted to favor more expensive traits first.
 The second parameter determines whether attributes and secondary characteristics have a possibility of being lowered. It defaults to on (`true`) but if `false`, all attributes are guaranteed to be at least 10, and all secondary characteristics are guaranteed to have 0 or more points invested.")]
         public async Task RollStats([Summary("character-points")] int characterPoints = 0, [Summary("allow-lowered-traits")] bool allowLoweredValues = true)
@@ -980,7 +973,7 @@ The second parameter determines whether attributes and secondary characteristics
 Parameters in order are velocity (yards/second) Slammer Hit Points, and target Hit Points.
 Examples:
 For a move 6 slam executed by one character with 11 HP against another with 10
-.Slam 6 11 10
+\slam 6 11 10
 ")]
         public async Task Slam([Summary("Velocity")] int velocity, [Summary("Slammer-Hit-Points")] int slammerHitPoints, [Summary("Target-Hit-Points")] int targetHitPoints)
         {
@@ -1040,10 +1033,10 @@ Slammer did {result.PartyOneDamage} which comes out to {result.PartyOneDamageRes
         [SlashCommand("throw", "Calculate throw metrics via Basic Set", runMode: RunMode.Async)]
         [CommandSummary(@"Given the appropriate parameters, calculates the parameters of distance and damage of a thrown object.
 Examples:
-.throw 0.5 10
-.th 1 10 kyos
-.th 5 15 20 kyos metric
-.throw .7 10 11")]
+\throw 0.5 10
+\throw 1 10 Knowing Your Own Strength
+\throw 5 15 20 Knowing Your Own Strength metric
+\throw .7 10 11")]
         public async Task Throw(double weight, uint liftingStrength, int strikingStrength = -1, [Summary("normal-or-kyos"), Choice("Normal", "NORMAL"), Choice("Knowing Your Own Strength", "KYOS")] string kyosOptionAsText = "NORMAL", [Choice("Imperial", "IMPERIAL"), Choice("Metric", "METRIC")] string metricOrImperial = "IMPERIAL")
         {
             var isMetric = metricOrImperial.ToUpperInvariant().StartsWith("M");
