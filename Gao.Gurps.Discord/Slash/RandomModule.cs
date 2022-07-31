@@ -564,13 +564,6 @@ Example usage:
         public async Task HeroicBackground()
         {
             var character = LookupTables.GenerateHeroicBackground();
-            //XmlSerializer xmlSerializer = new XmlSerializer(typeof(HeroicBackground));
-            //var result = string.Empty;
-            //using (var textWriter = new StringWriter())
-            //{
-            //    xmlSerializer.Serialize(textWriter, character);
-            //    result = textWriter.ToString();
-            //}
 
 
             await Context.Interaction.RespondAsync(string.Empty, embed: EmbedUtility.GenerateHeroicBackgroundEmbed(character));
