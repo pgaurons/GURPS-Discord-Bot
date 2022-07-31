@@ -293,16 +293,16 @@ If that explosion also has 1d of cutting shrapnel.
             await SendTextWithTimeBuffers(5, TextUtility.FormatExplosionResults(results), false);
         }
 
-        [SlashCommand("grand-unified-hit-location-explosion", "Uses the GUHLT to simulate an explosion", runMode: RunMode.Async)]
+        [SlashCommand("guhl-explosion", "Uses the GUHLT to simulate an explosion", runMode: RunMode.Async)]
         [CommandSummary(@"Calculates the damage done by explosions and shrapnel. The minimum parameters are the damage of the explosion, and the distance in yards of at least one potential target.
 This command uses the GUHLT table.
 examples:
 To calculate damage for a normal 5d cr ex explosion for people standing 0, 1, 2, and 3 yards away from the explosion
-`\grand-unified-hit-location-explosion 5d 0 1 2 3`
+`\guhl-explosion 5d 0 1 2 3`
 If that explosion has the effect of explosion 2, meaning that damage dissipates from the center more slowly
-`\grand-unified-hit-location-explosion 2 5d 0 1 2 3`
+`\guhl-explosion 2 5d 0 1 2 3`
 If that explosion also has 1d of cutting shrapnel.
-`\grand-unified-hit-location-explosion 2 5d[1d] 0 1 2 3`")]
+`\guhl-explosion 2 5d[1d] 0 1 2 3`")]
         public async Task GrandUnifiedHitLocationTableExplosion(string explosionParameters)
         {
             await ExplosionWorkflow(explosionParameters, true);
@@ -507,7 +507,7 @@ Example usage:
             await Context.Interaction.RespondAsync(string.Empty, embed: EmbedUtility.TreasureGeneratorEmbed(treasure));
         }
 
-        [SlashCommand("grand-unified-hit-location-table", "Rolls on the Grand Unified Hit Location Table.", runMode: RunMode.Async)]
+        [SlashCommand("guhl-table", "Rolls on the Grand Unified Hit Location Table.", runMode: RunMode.Async)]
         [CommandSummary(@"Rolls for a random hit location using the popular house ruled Grand Unified Hit Location Table. http://forums.sjgames.com/showthread.php?t=109239 for more information")]
         [CommandRemarks(@"If an optional hit location is included, and is valid, then one can roll on one of the sub tables. The following are valid:
 `Face`
