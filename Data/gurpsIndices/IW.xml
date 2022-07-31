@@ -1,0 +1,1603 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="’A’Nthleioi (Atlanteans)">
+    <PageReference>IW130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aaron">
+    <PageReference>IW73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ABET transmitter">
+    <PageReference>IW217</PageReference>
+    <PageReference>IW218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Absolute now">
+    <PageReference>IW170</PageReference>
+    <PageReference>IW217-218</PageReference>
+    <PageReference>IW219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Addiction disadvantage">
+    <PageReference>IW178</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>IW172-178</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aeolus">
+    <PageReference>IW18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Agamemnon">
+    <PageReference>IW124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy">
+    <PageReference>IW112-113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate Identity advantage">
+    <PageReference>IW172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate Outcomes, Inc">
+    <Child ReferenceText="">
+      <PageReference>IW31-34</PageReference>
+    </Child>
+    <Child ReferenceText="Mercenary template">
+      <PageReference>IW189</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate selves">
+    <PageReference>IW184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate worlds">
+    <PageReference>IW82-151</PageReference>
+    <Child ReferenceText="creating">
+      <PageReference>IW96</PageReference>
+    </Child>
+    <Child ReferenceText="fiction">
+      <PageReference>IW232</PageReference>
+    </Child>
+    <Child ReferenceText="non-fiction">
+      <PageReference>IW236</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Amerika">
+    <PageReference>IW60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amnesty Unlimited">
+    <PageReference>IW44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anachronistic Training technique">
+    <PageReference>IW183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anchors">
+    <PageReference>IW87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archaeology skill">
+    <PageReference>IW182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Architects">
+    <PageReference>IW214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area Knowledge skill">
+    <PageReference>IW182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ariane">
+    <PageReference>IW128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armada-2">
+    <PageReference>IW109-110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armanen Order">
+    <SeeAlso>SS Raven Division</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>IW26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Atlantis">
+    <PageReference>IW95</PageReference>
+    <PageReference>IW129-130</PageReference>
+    <PageReference>IW139-140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attila">
+    <PageReference>IW110-111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attunement (time travel)">
+    <PageReference>IW168-169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Azoth-7">
+    <PageReference>IW72</PageReference>
+    <PageReference>IW112-113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aztecs">
+    <SeeAlso>Ezcalli</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Banestorms">
+    <PageReference>IW6</PageReference>
+    <PageReference>IW13</PageReference>
+    <PageReference>IW26</PageReference>
+    <PageReference>IW75</PageReference>
+    <PageReference>IW80</PageReference>
+    <PageReference>IW151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battalion">
+    <Child ReferenceText="the">
+      <PageReference>IW31-34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Batteries">
+    <PageReference>IW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bermuda Triangle">
+    <PageReference>IW75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bibliography">
+    <PageReference>IW232</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biology">
+    <Child ReferenceText="model of civilization">
+      <PageReference>IW102</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Black powder">
+    <PageReference>IW209</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blip">
+    <PageReference>IW20</PageReference>
+    <PageReference>IW140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bonaparte-4">
+    <PageReference>IW113-114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bounty hunters">
+    <PageReference>IW12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Britannica-3">
+    <PageReference>IW115-116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burton">
+    <PageReference>IW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cabalist Mage template">
+    <PageReference>IW21</PageReference>
+    <PageReference>IW22</PageReference>
+    <PageReference>IW68-69</PageReference>
+    <PageReference>IW179</PageReference>
+    <PageReference>IW195</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caliph">
+    <PageReference>IW12</PageReference>
+    <PageReference>IW117-118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camelot">
+    <PageReference>IW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cameras">
+    <PageReference>IW25</PageReference>
+    <PageReference>IW38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <PageReference>IW201-211</PageReference>
+    <Child ReferenceText="Centrum">
+      <PageReference>IW54</PageReference>
+    </Child>
+    <Child ReferenceText="genre and mode">
+      <PageReference>IW205</PageReference>
+    </Child>
+    <Child ReferenceText="parameters">
+      <PageReference>IW202</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Campbell">
+    <PageReference>IW119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Castro, Fidel “Red, ” 41" />
+  <IndexReference ReferenceText="Catholic">
+    <SeeAlso>Roman Catholic Church</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Centrum Dark and Light">
+    <PageReference>IW8</PageReference>
+    <PageReference>IW20</PageReference>
+    <PageReference>IW36</PageReference>
+    <PageReference>IW46-56</PageReference>
+    <PageReference>IW87</PageReference>
+    <PageReference>IW179</PageReference>
+    <PageReference>IW120</PageReference>
+    <PageReference>IW191-193</PageReference>
+    <PageReference>IW56</PageReference>
+    <SeeAlso>Interworld Service</SeeAlso>
+    <SeeAlso>Interworld Service</SeeAlso>
+    <SeeAlso>Interworld Service</SeeAlso>
+    <SeeAlso>Interworld Service</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Challenge worlds">
+    <PageReference>IW94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chaotic time">
+    <PageReference>IW154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <PageReference>IW171-200</PageReference>
+    <PageReference>IW204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="China">
+    <PageReference>IW43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chronal storms">
+    <PageReference>IW163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chronic Argo">
+    <PageReference>IW162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chronobahn">
+    <PageReference>IW79</PageReference>
+    <PageReference>IW139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Civil War">
+    <PageReference>IW120-121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Civilization types">
+    <PageReference>IW90-94</PageReference>
+    <Child ReferenceText="as biology">
+      <PageReference>IW102</PageReference>
+    </Child>
+    <Child ReferenceText="mysterious and weird">
+      <PageReference>IW95</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Claim to Hospitality advantage">
+    <PageReference>IW172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical Investment advantage">
+    <PageReference>IW172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cliodynamics">
+    <PageReference>IW6</PageReference>
+    <PageReference>IW37</PageReference>
+    <PageReference>IW87</PageReference>
+    <Child ReferenceText="skill">
+      <PageReference>IW182</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cliodyne Research Group">
+    <PageReference>IW37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor disadvantage">
+    <PageReference>IW179</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colonies">
+    <Child ReferenceText="crosstime">
+      <PageReference>IW32</PageReference>
+      <PageReference>IW84</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Communications">
+    <Child ReferenceText="parachronic">
+      <PageReference>IW52</PageReference>
+    </Child>
+    <Child ReferenceText="through time">
+      <PageReference>IW158</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>IW24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Communist worlds">
+    <PageReference>IW132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <PageReference>IW24</PageReference>
+    <PageReference>IW62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Consolidated Mines">
+    <SeeAlso>Mining</SeeAlso>
+    <Child ReferenceText="Unlimited">
+      <PageReference>IW37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact Group advantage">
+    <PageReference>IW172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts advantage">
+    <PageReference>IW172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conveyors">
+    <PageReference>IW6</PageReference>
+    <PageReference>IW26-30</PageReference>
+    <PageReference>IW35</PageReference>
+    <Child ReferenceText="loadout">
+      <PageReference>IW20</PageReference>
+    </Child>
+    <Child ReferenceText="recharging">
+      <PageReference>IW26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Coventry">
+    <PageReference>IW41</PageReference>
+    <PageReference>IW78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cover stories">
+    <PageReference>IW14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crichton">
+    <PageReference>IW84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminal template">
+    <PageReference>IW196</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cube">
+    <PageReference>IW29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Adaptability advantage">
+    <PageReference>IW173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural change">
+    <PageReference>IW106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Familiarity advantage">
+    <PageReference>IW173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Current Affairs skill">
+    <PageReference>IW182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Current">
+    <Child ReferenceText="the">
+      <PageReference>IW74</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark-Dwellers">
+    <PageReference>IW184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demons">
+    <PageReference>IW66</PageReference>
+    <PageReference>IW68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Denarius Capital Holdings">
+    <PageReference>IW40</PageReference>
+    <Child ReferenceText="Denarius Group Special Banker template">
+      <PageReference>IW191</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dependent disadvantage">
+    <PageReference>IW179</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect advantage">
+    <PageReference>IW173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dimensional highways">
+    <PageReference>IW79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dinosaurs">
+    <PageReference>IW84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dirigibles">
+    <PageReference>IW38</PageReference>
+    <PageReference>IW127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>IW178-181</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disaster worlds">
+    <PageReference>IW85</PageReference>
+    <PageReference>IW134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divergence Effect">
+    <PageReference>IW225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dixie-1">
+    <PageReference>IW120-121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doubletalk">
+    <SeeAlso>Quantum Mechanics</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragons">
+    <PageReference>IW142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duncorne Foundation">
+    <PageReference>IW40</PageReference>
+    <PageReference>IW135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duplication advantage">
+    <PageReference>IW173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duty disadvantage">
+    <PageReference>IW180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="EAER (“Ear”)">
+    <PageReference>IW224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Echoes">
+    <PageReference>IW53</PageReference>
+    <PageReference>IW85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ecology">
+    <PageReference>IW103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Economics">
+    <PageReference>IW101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Empty worlds">
+    <PageReference>IW83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemies disadvantage">
+    <PageReference>IW180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enigma">
+    <PageReference>IW140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eraser">
+    <PageReference>IW25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eternity’s Rangers">
+    <PageReference>IW34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evil Twin disadvantage">
+    <PageReference>IW180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expatriate template">
+    <PageReference>IW197</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ezcalli">
+    <PageReference>IW21</PageReference>
+    <PageReference>IW122-123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faërie">
+    <PageReference>IW69</PageReference>
+    <PageReference>IW80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fang Sing">
+    <PageReference>IW214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fantasy timelines">
+    <PageReference>IW151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Farsight effect">
+    <PageReference>IW170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearms">
+    <PageReference>IW199-200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fixed time">
+    <PageReference>IW170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flux drive">
+    <PageReference>IW163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Focal Referent">
+    <PageReference>IW219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Footnote characters">
+    <PageReference>IW199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fracture zones">
+    <PageReference>IW77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="France">
+    <PageReference>IW43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Friedrich">
+    <PageReference>IW66</PageReference>
+    <PageReference>IW124</PageReference>
+    <PageReference>IW139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fuel cells">
+    <PageReference>IW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fugue advantage">
+    <PageReference>IW173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Future time travel">
+    <PageReference>IW169-170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteer skill">
+    <PageReference>IW182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteering">
+    <Child ReferenceText="social">
+      <PageReference>IW106</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gakuji">
+    <PageReference>IW212-213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gallatin">
+    <PageReference>IW36</PageReference>
+    <PageReference>IW42</PageReference>
+    <PageReference>IW70</PageReference>
+    <PageReference>IW125-126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gargoyles">
+    <PageReference>IW73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gates of Thoth">
+    <PageReference>IW206</PageReference>
+    <PageReference>IW79</PageReference>
+    <PageReference>IW79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Generational cycles">
+    <PageReference>IW100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Geography skill">
+    <PageReference>IW182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gernsback">
+    <PageReference>IW126-127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost roads">
+    <PageReference>IW79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glozel fragments">
+    <PageReference>IW76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gods">
+    <PageReference>IW68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gotha parallels">
+    <PageReference>IW12</PageReference>
+    <PageReference>IW128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great Man theory">
+    <PageReference>IW97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great Moment theory">
+    <PageReference>IW98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great Motherland theory">
+    <PageReference>IW98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greenpeace">
+    <PageReference>IW44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Technomancer">
+    <PageReference>IW135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Haussman-2">
+    <PageReference>IW5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hell worlds">
+    <PageReference>IW94-96</PageReference>
+    <PageReference>IW128-130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden Lore skill">
+    <PageReference>IW182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High-inertia parallels">
+    <PageReference>IW94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Historian template">
+    <PageReference>IW197</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Historical characters">
+    <PageReference>IW199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Historical Familiarity technique">
+    <PageReference>IW184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Historical modeling">
+    <PageReference>IW236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Historical references">
+    <PageReference>IW236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="History skill">
+    <PageReference>IW183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="History! skill">
+    <PageReference>IW183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="History">
+    <Child ReferenceText="hollow">
+      <PageReference>IW215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Homeline">
+    <PageReference>IW20</PageReference>
+    <PageReference>IW23</PageReference>
+    <SeeAlso>Secundus</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Honesty disadvantage">
+    <PageReference>IW180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horatio Club">
+    <PageReference>IW229-231</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hourglass">
+    <Child ReferenceText="Order of the">
+      <PageReference>IW212-216</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Huy Breasil">
+    <PageReference>IW80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="I-Cops">
+    <PageReference>IW10</PageReference>
+    <PageReference>IW15</PageReference>
+    <PageReference>IW39</PageReference>
+    <SeeAlso>Outworld Operations</SeeAlso>
+    <Child ReferenceText="character template">
+      <PageReference>IW186</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="In the Cube">
+    <PageReference>IW29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="India">
+    <PageReference>IW43</PageReference>
+    <PageReference>IW84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinite Justice, Inc">
+    <Child ReferenceText="">
+      <PageReference>IW12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinity Development">
+    <PageReference>IW31</PageReference>
+    <PageReference>IW36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinity Patrol">
+    <PageReference>IW5</PageReference>
+    <PageReference>IW8-19</PageReference>
+    <PageReference>IW36</PageReference>
+    <PageReference>IW64</PageReference>
+    <PageReference>IW179</PageReference>
+    <SeeAlso>Outworld Operations</SeeAlso>
+    <Child ReferenceText="Academy">
+      <PageReference>IW10</PageReference>
+    </Child>
+    <Child ReferenceText="Communications Division">
+      <PageReference>IW15</PageReference>
+    </Child>
+    <Child ReferenceText="Contact Division">
+      <PageReference>IW15</PageReference>
+    </Child>
+    <Child ReferenceText="Customs and Inspection Division">
+      <PageReference>IW10</PageReference>
+    </Child>
+    <Child ReferenceText="Echo Surveillance Division">
+      <PageReference>IW15</PageReference>
+    </Child>
+    <Child ReferenceText="headquarters">
+      <PageReference>IW9</PageReference>
+    </Child>
+    <Child ReferenceText="Intelligence Division">
+      <PageReference>IW16</PageReference>
+    </Child>
+    <Child ReferenceText="Internal Affairs Division">
+      <PageReference>IW11</PageReference>
+    </Child>
+    <Child ReferenceText="Intervention Service">
+      <PageReference>IW10</PageReference>
+      <SeeAlso>I-Cops</SeeAlso>
+    </Child>
+    <Child ReferenceText="Justice Division">
+      <PageReference>IW11</PageReference>
+    </Child>
+    <Child ReferenceText="Liaison Division">
+      <PageReference>IW12</PageReference>
+    </Child>
+    <Child ReferenceText="Logistics Division">
+      <PageReference>IW12</PageReference>
+    </Child>
+    <Child ReferenceText="Morale Division">
+      <PageReference>IW13</PageReference>
+    </Child>
+    <Child ReferenceText="Nexus Oversight Division">
+      <PageReference>IW13</PageReference>
+    </Child>
+    <Child ReferenceText="Penetration Service">
+      <PageReference>IW14</PageReference>
+    </Child>
+    <Child ReferenceText="Records and Research Division">
+      <PageReference>IW16</PageReference>
+    </Child>
+    <Child ReferenceText="Search and Rescue Division">
+      <PageReference>IW16</PageReference>
+    </Child>
+    <Child ReferenceText="Security Division">
+      <PageReference>IW13</PageReference>
+    </Child>
+    <Child ReferenceText="Special Operations Division">
+      <PageReference>IW14</PageReference>
+    </Child>
+    <Child ReferenceText="Survey Division">
+      <PageReference>IW17</PageReference>
+    </Child>
+    <Child ReferenceText="Technical Analysis Division">
+      <PageReference>IW17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinity Unlimited">
+    <PageReference>IW5-6</PageReference>
+    <PageReference>IW35-36</PageReference>
+    <SeeAlso>Infinity Patrol</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Interworld Service Agent template">
+    <PageReference>IW8</PageReference>
+    <PageReference>IW45</PageReference>
+    <PageReference>IW120</PageReference>
+    <PageReference>IW177</PageReference>
+    <PageReference>IW192</PageReference>
+    <SeeAlso>Centrum</SeeAlso>
+    <SeeAlso>Outworld Operations</SeeAlso>
+    <SeeAlso>Centrum</SeeAlso>
+    <SeeAlso>Outworld Operations</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Interworld Treaty">
+    <PageReference>IW41</PageReference>
+    <SeeAlso>UNIC</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Intolerance disadvantage">
+    <PageReference>IW180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inventions">
+    <PageReference>IW208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Israel">
+    <PageReference>IW43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ISWAT Agent template">
+    <PageReference>IW18</PageReference>
+    <PageReference>IW140</PageReference>
+    <PageReference>IW187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Japan">
+    <PageReference>IW43</PageReference>
+    <PageReference>IW59-60</PageReference>
+    <PageReference>IW63</PageReference>
+    <PageReference>IW91</PageReference>
+    <PageReference>IW146-148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Johnson’s Rome">
+    <PageReference>IW13</PageReference>
+    <PageReference>IW38</PageReference>
+    <PageReference>IW40</PageReference>
+    <PageReference>IW70</PageReference>
+    <PageReference>IW130-131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumper advantage">
+    <PageReference>IW174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kerne">
+    <PageReference>IW67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kidnappers">
+    <Child ReferenceText="crosstime">
+      <PageReference>IW72</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="KMP Petroleum">
+    <PageReference>IW40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Language Talent advantage">
+    <PageReference>IW175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Languages">
+    <PageReference>IW24</PageReference>
+    <PageReference>IW175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legal Enforcement Powers advantage">
+    <PageReference>IW176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenin-1">
+    <PageReference>IW131-133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenin-2">
+    <PageReference>IW128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leviathan">
+    <PageReference>IW129-130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Libraries">
+    <PageReference>IW16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Literature skill">
+    <PageReference>IW183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Looters">
+    <Child ReferenceText="crosstime">
+      <PageReference>IW72</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lucifer-4">
+    <PageReference>IW84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lucifer-5">
+    <PageReference>IW133-134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lysander">
+    <PageReference>IW32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Madland">
+    <PageReference>IW130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mafia">
+    <PageReference>IW70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery advantage">
+    <PageReference>IW176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic bullet">
+    <PageReference>IW76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <PageReference>IW22</PageReference>
+    <PageReference>IW68</PageReference>
+    <PageReference>IW134-135</PageReference>
+    <PageReference>IW138-139</PageReference>
+    <PageReference>IW144-145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mammut-1">
+    <PageReference>IW19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mammut-2">
+    <PageReference>IW84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mammut-3">
+    <PageReference>IW71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mandeville">
+    <PageReference>IW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medicine">
+    <PageReference>IW18</PageReference>
+    <PageReference>IW25</PageReference>
+    <PageReference>IW26</PageReference>
+    <PageReference>IW99</PageReference>
+    <PageReference>IW207</PageReference>
+    <Child ReferenceText="Centrum">
+      <PageReference>IW51</PageReference>
+    </Child>
+    <Child ReferenceText="Reich-5">
+      <PageReference>IW62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mercenaries">
+    <PageReference>IW31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Merlin">
+    <PageReference>IW134-135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microworld">
+    <PageReference>IW140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Block skill">
+    <PageReference>IW22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mining">
+    <PageReference>IW37</PageReference>
+    <PageReference>IW40</PageReference>
+    <PageReference>IW70</PageReference>
+    <PageReference>IW71</PageReference>
+    <PageReference>IW84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miracle Workers">
+    <PageReference>IW18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Möbius">
+    <PageReference>IW141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mongols">
+    <PageReference>IW110-111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Morphogenetic field">
+    <PageReference>IW22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mules">
+    <PageReference>IW65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mundane Background disadvantage">
+    <PageReference>IW180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Muslim timelines">
+    <PageReference>IW117-118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mutants">
+    <PageReference>IW184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Myth parallels">
+    <PageReference>IW21</PageReference>
+    <PageReference>IW94</PageReference>
+    <PageReference>IW136-137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Napoleon">
+    <PageReference>IW113-114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naturalist skill">
+    <PageReference>IW183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nazis">
+    <PageReference>IW19</PageReference>
+    <PageReference>IW69</PageReference>
+    <PageReference>IW142-144</PageReference>
+    <SeeAlso>Reich Timelines</SeeAlso>
+    <SeeAlso>SS Raven Division</SeeAlso>
+    <Child ReferenceText="characters">
+      <PageReference>IW193-195</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neanderthals">
+    <PageReference>IW184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Needlers">
+    <PageReference>IW200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neo-tröodons">
+    <PageReference>IW141</PageReference>
+    <PageReference>IW149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nergal">
+    <PageReference>IW137-138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nexus portals">
+    <PageReference>IW13</PageReference>
+    <PageReference>IW77</PageReference>
+    <Child ReferenceText="artificial">
+      <PageReference>IW26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="NGOs">
+    <PageReference>IW44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night Vision advantage">
+    <PageReference>IW176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nineveh Lens">
+    <PageReference>IW76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Non-Governmental Organizations">
+    <PageReference>IW44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nostradamus">
+    <PageReference>IW66</PageReference>
+    <PageReference>IW124</PageReference>
+    <PageReference>IW138-139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nottingham">
+    <PageReference>IW136-137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nuclear war">
+    <PageReference>IW47</PageReference>
+    <PageReference>IW129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Observer Effect">
+    <PageReference>IW159-160</PageReference>
+    <PageReference>IW170</PageReference>
+    <PageReference>IW224</PageReference>
+    <PageReference>IW226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Omen advantage">
+    <PageReference>IW176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ontoclysms">
+    <PageReference>IW75-78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Operation Archduke">
+    <PageReference>IW227-229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of the Hourglass">
+    <PageReference>IW212-216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Organized crime">
+    <PageReference>IW70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orichalcum">
+    <PageReference>IW139-140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ouroborous Car">
+    <PageReference>IW80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outworld operations">
+    <PageReference>IW109</PageReference>
+    <PageReference>IW111</PageReference>
+    <PageReference>IW113</PageReference>
+    <PageReference>IW114</PageReference>
+    <PageReference>IW116</PageReference>
+    <PageReference>IW118</PageReference>
+    <PageReference>IW119</PageReference>
+    <PageReference>IW120</PageReference>
+    <PageReference>IW121</PageReference>
+    <PageReference>IW123</PageReference>
+    <PageReference>IW124</PageReference>
+    <PageReference>IW126</PageReference>
+    <PageReference>IW127</PageReference>
+    <PageReference>IW130</PageReference>
+    <PageReference>IW131</PageReference>
+    <PageReference>IW133</PageReference>
+    <PageReference>IW135</PageReference>
+    <PageReference>IW138</PageReference>
+    <PageReference>IW130</PageReference>
+    <PageReference>IW144</PageReference>
+    <PageReference>IW145</PageReference>
+    <PageReference>IW147</PageReference>
+    <PageReference>IW149</PageReference>
+    <PageReference>IW150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oz particles">
+    <PageReference>IW74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parachronic Laboratories (Paralabs)">
+    <PageReference>IW19-22</PageReference>
+    <Child ReferenceText="Paralabs Field Researcher template">
+      <PageReference>IW188</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Parachronics">
+    <PageReference>IW19-30</PageReference>
+    <Child ReferenceText="Centrum">
+      <PageReference>IW51</PageReference>
+    </Child>
+    <Child ReferenceText="communications">
+      <PageReference>IW52</PageReference>
+    </Child>
+    <Child ReferenceText="detector">
+      <PageReference>IW24</PageReference>
+    </Child>
+    <Child ReferenceText="hazards">
+      <PageReference>IW74-80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Parachronozoids">
+    <PageReference>IW66</PageReference>
+    <PageReference>IW73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paradoxes">
+    <PageReference>IW154-156</PageReference>
+    <PageReference>IW157</PageReference>
+    <PageReference>IW159</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parallels">
+    <PageReference>IW88-94</PageReference>
+    <Child ReferenceText="high-inertia">
+      <PageReference>IW94</PageReference>
+    </Child>
+    <Child ReferenceText="myth">
+      <PageReference>IW21</PageReference>
+      <PageReference>IW94</PageReference>
+      <PageReference>IW136-137</PageReference>
+    </Child>
+    <Child ReferenceText="and time travel">
+      <PageReference>IW156</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Paralocator enhancement">
+    <PageReference>IW176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patron advantage">
+    <PageReference>IW176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Penetration Service">
+    <SeeAlso>Infinity Patrol Penetration Service</SeeAlso>
+    <Child ReferenceText="template">
+      <PageReference>IW187</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Phobia disadvantage">
+    <PageReference>IW180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plagues">
+    <PageReference>IW99</PageReference>
+    <PageReference>IW128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plastic time">
+    <PageReference>IW154</PageReference>
+    <PageReference>IW170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Political change">
+    <PageReference>IW105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Possession advantage">
+    <PageReference>IW176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Projectors">
+    <PageReference>IW27</PageReference>
+    <PageReference>IW35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi shield">
+    <PageReference>IW26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionics">
+    <PageReference>IW22</PageReference>
+    <PageReference>IW26</PageReference>
+    <PageReference>IW41</PageReference>
+    <PageReference>IW68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Puzzle worlds">
+    <PageReference>IW96</PageReference>
+    <PageReference>IW140-142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pythagoras Chronovisor">
+    <PageReference>IW161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quanta">
+    <Child ReferenceText="timeline">
+      <PageReference>IW83</PageReference>
+      <PageReference>IW104</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Quantaclysms">
+    <PageReference>IW77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quantum mechanics">
+    <PageReference>IW20</PageReference>
+    <PageReference>IW76</PageReference>
+    <PageReference>IW155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radios">
+    <PageReference>IW24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rainbow effect coils">
+    <PageReference>IW163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rank advantage">
+    <PageReference>IW176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Raven Division">
+    <SeeAlso>SS Raven Division</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Reality quakes">
+    <PageReference>IW75-78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reconnaisance">
+    <PageReference>IW17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reich timelines">
+    <PageReference>IW143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reich-2">
+    <PageReference>IW142-144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reich-5">
+    <PageReference>IW57-67</PageReference>
+    <SeeAlso>Armanen Order</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Reputation">
+    <PageReference>IW178</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Research">
+    <PageReference>IW22</PageReference>
+    <PageReference>IW183</PageReference>
+    <Child ReferenceText="missions">
+      <PageReference>IW211</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>IW183</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant advantage">
+    <PageReference>IW176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resources">
+    <PageReference>IW36</PageReference>
+    <PageReference>IW40</PageReference>
+    <PageReference>IW83</PageReference>
+    <SeeAlso>Mining</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Rhodes">
+    <Child ReferenceText="Cecil">
+      <PageReference>IW37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Robin Hood">
+    <PageReference>IW136-137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rogue states">
+    <PageReference>IW44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roma Aeterna">
+    <PageReference>IW144-145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roman Catholic Church">
+    <PageReference>IW44</PageReference>
+    <PageReference>IW109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rome timelines">
+    <PageReference>IW145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Russia">
+    <PageReference>IW42</PageReference>
+    <PageReference>IW70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rustic">
+    <PageReference>IW141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scavengers">
+    <Child ReferenceText="crosstime">
+      <PageReference>IW71</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scout template">
+    <PageReference>IW187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret disadvantage">
+    <PageReference>IW180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secundus">
+    <PageReference>IW46</PageReference>
+    <PageReference>IW48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Security">
+    <PageReference>IW35</PageReference>
+    <SeeAlso>Infinity Patrol Security Division</SeeAlso>
+    <Child ReferenceText="Centrum">
+      <PageReference>IW49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense of Duty disadvantage">
+    <PageReference>IW180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensors">
+    <PageReference>IW24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serendipity advantage">
+    <PageReference>IW176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shiftrealms">
+    <PageReference>IW79-89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shikaku-Mon">
+    <PageReference>IW20</PageReference>
+    <PageReference>IW146-148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shroud of Turin">
+    <PageReference>IW76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shuttles">
+    <PageReference>IW52</PageReference>
+    <SeeAlso>Conveyors</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Silenzia">
+    <PageReference>IW80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skerries">
+    <PageReference>IW89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>IW181-183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skorzeny">
+    <Child ReferenceText="Otto">
+      <PageReference>IW18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smother">
+    <PageReference>IW9</PageReference>
+    <PageReference>IW19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social gadgeteering">
+    <PageReference>IW106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma disadvantage">
+    <PageReference>IW181</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Solar cells">
+    <PageReference>IW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spectral Ops">
+    <PageReference>IW139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spetsnaz">
+    <PageReference>IW42</PageReference>
+    <PageReference>IW64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit-jumpers">
+    <PageReference>IW174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SS Raven Division Trooper template">
+    <PageReference>IW22</PageReference>
+    <PageReference>IW64-67</PageReference>
+    <PageReference>IW69</PageReference>
+    <PageReference>IW124</PageReference>
+    <PageReference>IW135</PageReference>
+    <PageReference>IW139</PageReference>
+    <PageReference>IW179</PageReference>
+    <PageReference>IW193</PageReference>
+    <Child ReferenceText="Gestapo Amt Z Agent template">
+      <PageReference>IW194</PageReference>
+    </Child>
+    <Child ReferenceText="Mule Jumper template">
+      <PageReference>IW194</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Starships">
+    <PageReference>IW72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stations">
+    <PageReference>IW52</PageReference>
+    <SeeAlso>Projectors</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Status">
+    <PageReference>IW178</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stinger">
+    <PageReference>IW222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stopwatch">
+    <PageReference>IW217</PageReference>
+    <Child ReferenceText="agents">
+      <PageReference>IW223</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Student template">
+    <PageReference>IW197-198</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stunner">
+    <PageReference>IW199</PageReference>
+    <PageReference>IW222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subways">
+    <PageReference>IW80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-soldiers">
+    <PageReference>IW184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swagmen">
+    <PageReference>IW71</PageReference>
+    <PageReference>IW179</PageReference>
+    <Child ReferenceText="Swagman template">
+      <PageReference>IW196</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Taft-3">
+    <PageReference>IW11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taft-7">
+    <PageReference>IW130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech levels">
+    <Child ReferenceText="Homeline">
+      <PageReference>IW23</PageReference>
+    </Child>
+    <Child ReferenceText="Reich-5">
+      <PageReference>IW61</PageReference>
+    </Child>
+    <Child ReferenceText="Centrum">
+      <PageReference>IW50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Technological change">
+    <PageReference>IW105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telkozep">
+    <Child ReferenceText="Baron Janos">
+      <PageReference>IW68</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Temporal Control Authority">
+    <PageReference>IW217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temporal Inertia advantage">
+    <PageReference>IW176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temporal snarls">
+    <PageReference>IW158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thieves">
+    <Child ReferenceText="crosstime">
+      <PageReference>IW71</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Time Agents">
+    <PageReference>IW220-221</PageReference>
+    <Child ReferenceText="equipment">
+      <PageReference>IW222</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Time belt">
+    <PageReference>IW162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time Corps">
+    <PageReference>IW217-228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time Draft">
+    <PageReference>IW166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time machines">
+    <PageReference>IW153</PageReference>
+    <PageReference>IW162-163</PageReference>
+    <SeeAlso>Time Travel</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Time Scouts">
+    <SeeAlso>Infinity Patrol Penetration Service</SeeAlso>
+    <Child ReferenceText="template">
+      <PageReference>IW187</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Time sphere">
+    <PageReference>IW163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time Tours, Ltd">
+    <Child ReferenceText="">
+      <PageReference>IW37-39</PageReference>
+      <PageReference>IW145</PageReference>
+      <PageReference>IW179</PageReference>
+    </Child>
+    <Child ReferenceText="Dinosaur Hunter template">
+      <PageReference>IW191</PageReference>
+    </Child>
+    <Child ReferenceText="Tour Guide template">
+      <PageReference>IW191</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Time travel">
+    <PageReference>IW152-170</PageReference>
+    <PageReference>IW212-229</PageReference>
+    <Child ReferenceText="communication">
+      <PageReference>IW158</PageReference>
+    </Child>
+    <Child ReferenceText="fiction">
+      <PageReference>IW234</PageReference>
+    </Child>
+    <Child ReferenceText="to the future">
+      <PageReference>IW169-170</PageReference>
+    </Child>
+    <Child ReferenceText="hazards">
+      <PageReference>IW164-166</PageReference>
+    </Child>
+    <Child ReferenceText="non-fiction">
+      <PageReference>IW236</PageReference>
+    </Child>
+    <Child ReferenceText="and parallel worlds">
+      <PageReference>IW156</PageReference>
+    </Child>
+    <Child ReferenceText="psionic">
+      <PageReference>IW166-169</PageReference>
+    </Child>
+    <Child ReferenceText="via reality quake">
+      <PageReference>IW77</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Time viewers">
+    <PageReference>IW160-161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Timeline shifting">
+    <PageReference>IW104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Timenappers">
+    <PageReference>IW72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Timepiece">
+    <PageReference>IW217</PageReference>
+    <Child ReferenceText="agents">
+      <PageReference>IW220-221</PageReference>
+      <PageReference>IW222</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Timescanner">
+    <PageReference>IW161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Timesickness disadvantage">
+    <PageReference>IW181</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracking skill">
+    <PageReference>IW183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Translation software">
+    <PageReference>IW24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Triads">
+    <PageReference>IW70</PageReference>
+    <PageReference>IW71</PageReference>
+    <PageReference>IW215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turkana">
+    <PageReference>IW19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tychiron">
+    <PageReference>IW66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unaging advantage">
+    <PageReference>IW176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unattached (Centrum) Agent template">
+    <PageReference>IW192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="UNIC Crisis Ministry Troubleshooter template">
+    <PageReference>IW6</PageReference>
+    <PageReference>IW31-34</PageReference>
+    <PageReference>IW188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unique disadvantage">
+    <PageReference>IW181</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="United Kingdom">
+    <PageReference>IW43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="United Nations">
+    <PageReference>IW41</PageReference>
+    <PageReference>IW217</PageReference>
+    <SeeAlso>UNIC</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="United Nations Interworld Council">
+    <SeeAlso>UNIC</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="United States">
+    <PageReference>IW42</PageReference>
+    <Child ReferenceText="under the Nazis">
+      <PageReference>IW60</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="United States of Lizardia">
+    <PageReference>IW148-149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal Exports, Ltd">
+    <Child ReferenceText="">
+      <PageReference>IW43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background advantage">
+    <PageReference>IW176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uplift Service">
+    <PageReference>IW54</PageReference>
+    <PageReference>IW56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Van Zandt">
+    <Child ReferenceText="Paul">
+      <PageReference>IW6</PageReference>
+      <PageReference>IW35</PageReference>
+      <PageReference>IW40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vanish">
+    <PageReference>IW141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vatican">
+    <SeeAlso>Roman Catholic Church</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Vinland Map">
+    <PageReference>IW76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vortices">
+    <PageReference>IW75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wanshijieshan">
+    <PageReference>IW80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth">
+    <PageReference>IW178</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>IW199-200</PageReference>
+    <PageReference>IW214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="White Stag">
+    <PageReference>IW74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="White Star Trading">
+    <PageReference>IW6</PageReference>
+    <PageReference>IW37</PageReference>
+    <PageReference>IW40-41</PageReference>
+    <PageReference>IW70</PageReference>
+    <PageReference>IW119</PageReference>
+    <PageReference>IW151</PageReference>
+    <Child ReferenceText="Trader template">
+      <PageReference>IW190</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Williams-Khor Hypothesis">
+    <PageReference>IW21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="World classification">
+    <Child ReferenceText="Infinity">
+      <PageReference>IW83</PageReference>
+    </Child>
+    <Child ReferenceText="Centrum">
+      <PageReference>IW51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="World-jumpers">
+    <PageReference>IW65</PageReference>
+    <PageReference>IW174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wyvern">
+    <PageReference>IW142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Xing La">
+    <PageReference>IW129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yrth">
+    <PageReference>IW150-151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yugorovsky Group">
+    <PageReference>IW32</PageReference>
+    <PageReference>IW40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombies">
+    <PageReference>IW128</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

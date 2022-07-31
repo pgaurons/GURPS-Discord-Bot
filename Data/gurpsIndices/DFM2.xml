@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Absorptive jellies">
+    <PageReference>DFM2:7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="goo">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <Child ReferenceText="themes">
+      <PageReference>DFM2:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="encounters">
+      <PageReference>DFM2:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral pudding">
+    <PageReference>DFM2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <Child ReferenceText="goo">
+      <PageReference>DFM2:3</PageReference>
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bodies">
+    <Child ReferenceText="goo">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brown pudding">
+    <PageReference>DFM2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dazzlers">
+    <PageReference>DFM2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder Gods">
+    <Child ReferenceText="slime-spewing">
+      <PageReference>DFM2:16</PageReference>
+    </Child>
+    <Child ReferenceText="oozes and">
+      <PageReference>DFM2:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Encounters">
+    <SeeAlso>Adventures</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Environment">
+    <Child ReferenceText="appropriate">
+      <PageReference>DFM2:19-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Frost pudding">
+    <PageReference>DFM2:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fungi">
+    <PageReference>DFM2:5-6</PageReference>
+    <Child ReferenceText="defined">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+    <Child ReferenceText="detection by">
+      <PageReference>DFM2:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Glop">
+    <Child ReferenceText="defined">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Glossary">
+    <PageReference>DFM2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goo">
+    <SeeAlso>specific goo</SeeAlso>
+    <Child ReferenceText="as loot">
+      <PageReference>DFM2:20</PageReference>
+    </Child>
+    <Child ReferenceText="bodies">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+    <Child ReferenceText="defined">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+    <Child ReferenceText="detection by">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+    <Child ReferenceText="encounters">
+      <PageReference>DFM2:19</PageReference>
+    </Child>
+    <Child ReferenceText="environments">
+      <PageReference>DFM2:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="IQ of">
+      <PageReference>DFM2:3</PageReference>
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+    <Child ReferenceText="knowledge skills">
+      <PageReference>DFM2:19</PageReference>
+    </Child>
+    <Child ReferenceText="loot">
+      <PageReference>DFM2:20</PageReference>
+    </Child>
+    <Child ReferenceText="meta-traits">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+    <Child ReferenceText="minds">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+    <Child ReferenceText="reading stats">
+      <PageReference>DFM2:3</PageReference>
+    </Child>
+    <Child ReferenceText="recognizing">
+      <PageReference>DFM2:19</PageReference>
+    </Child>
+    <Child ReferenceText="skills of">
+      <PageReference>DFM2:3</PageReference>
+    </Child>
+    <Child ReferenceText="ST of">
+      <PageReference>DFM2:3</PageReference>
+    </Child>
+    <Child ReferenceText="themes">
+      <PageReference>DFM2:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="alternate names">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gray pudding">
+    <PageReference>DFM2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Green pudding">
+    <PageReference>DFM2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunk">
+    <Child ReferenceText="defined">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>DFM2:3</PageReference>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DFM2:19</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DFM2:9</PageReference>
+      <PageReference>DFM2:15</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DFM2:3</PageReference>
+      <PageReference>DFM2:5</PageReference>
+      <PageReference>DFM2:6</PageReference>
+      <PageReference>DFM2:8</PageReference>
+      <PageReference>DFM2:9</PageReference>
+      <PageReference>DFM2:14</PageReference>
+      <PageReference>DFM2:19</PageReference>
+      <PageReference>DFM2:20</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DFM2:7</PageReference>
+      <PageReference>DFM2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy  5: Allies">
+      <PageReference>DFM2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 11: Power-Ups">
+      <PageReference>DFM2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 14: Psi">
+      <PageReference>DFM2:8</PageReference>
+      <PageReference>DFM2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 16: Wilderness Adventures">
+      <PageReference>DFM2:19</PageReference>
+      <PageReference>DFM2:20</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Monsters 1">
+      <PageReference>DFM2:3-5</PageReference>
+      <PageReference>DFM2:8</PageReference>
+      <PageReference>DFM2:20</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>DFM2:5</PageReference>
+      <PageReference>DFM2:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Identify Slime spell">
+    <PageReference>DFM2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jellies">
+    <PageReference>DFM2:7-8</PageReference>
+    <Child ReferenceText="defined">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+    <Child ReferenceText="detection by">
+      <PageReference>DFM2:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Loot">
+    <Child ReferenceText="selling goo">
+      <PageReference>DFM2:20</PageReference>
+    </Child>
+    <Child ReferenceText="hoarded by goo">
+      <PageReference>DFM2:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lurkers">
+    <PageReference>DFM2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magma pudding">
+    <PageReference>DFM2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-traits">
+    <Child ReferenceText="new">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Minds">
+    <Child ReferenceText="goo">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mirrored pudding">
+    <PageReference>DFM2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Molds">
+    <PageReference>DFM2:9-10</PageReference>
+    <Child ReferenceText="defined">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters, plant class, 5-7 slime class">
+    <PageReference>DFM2:7-18</PageReference>
+    <SeeAlso>Goo</SeeAlso>
+    <SeeAlso>specific goo</SeeAlso>
+    <Child ReferenceText="slime-spewing">
+      <PageReference>DFM2:16</PageReference>
+    </Child>
+    <Child ReferenceText="spore-spewing">
+      <PageReference>DFM2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Naturalist skill">
+    <PageReference>DFM2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oozes">
+    <PageReference>DFM2:11-12</PageReference>
+    <Child ReferenceText="defined">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+    <Child ReferenceText="detection by">
+      <PageReference>DFM2:12</PageReference>
+    </Child>
+    <Child ReferenceText="ponds">
+      <PageReference>DFM2:11-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Plant-classed monsters">
+    <PageReference>DFM2:5-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic walkers">
+    <PageReference>DFM2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Puddings">
+    <PageReference>DFM2:13-14</PageReference>
+    <Child ReferenceText="defined">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+    <Child ReferenceText="detection by">
+      <PageReference>DFM2:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid">
+    <SeeAlso>GURPS</SeeAlso>
+    <Child ReferenceText="#3/76: Dungeon Fantasy IV">
+      <PageReference>DFM2:20</PageReference>
+    </Child>
+    <Child ReferenceText="#3/50: Dungeon Fantasy II">
+      <PageReference>DFM2:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Red pudding">
+    <PageReference>DFM2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Runny Goo meta-trait">
+    <PageReference>DFM2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sand pudding">
+    <PageReference>DFM2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scum">
+    <Child ReferenceText="defined">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Silver pudding">
+    <PageReference>DFM2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="for locating">
+      <PageReference>DFM2:19</PageReference>
+    </Child>
+    <Child ReferenceText="for recognition">
+      <PageReference>DFM2:19</PageReference>
+    </Child>
+    <Child ReferenceText="goo">
+      <PageReference>DFM2:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slime-classed monsters">
+    <PageReference>DFM2:7-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slimes">
+    <PageReference>DFM2:15-16</PageReference>
+    <Child ReferenceText="defined">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+    <Child ReferenceText="detecting">
+      <PageReference>DFM2:16</PageReference>
+    </Child>
+    <Child ReferenceText="detection by">
+      <PageReference>DFM2:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smokers">
+    <PageReference>DFM2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell">
+    <Child ReferenceText="new">
+      <PageReference>DFM2:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spongy Goo meta-traits">
+    <PageReference>DFM2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spore clouds">
+    <PageReference>DFM2:17-18</PageReference>
+    <Child ReferenceText="defined">
+      <PageReference>DFM2:4</PageReference>
+    </Child>
+    <Child ReferenceText="huge">
+      <PageReference>DFM2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Swamp pudding">
+    <PageReference>DFM2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treasure">
+    <SeeAlso>Loot</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Tremblers">
+    <PageReference>DFM2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wailers">
+    <PageReference>DFM2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="White pudding">
+    <PageReference>DFM2:13-14</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

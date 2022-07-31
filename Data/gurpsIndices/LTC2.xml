@@ -1,0 +1,1065 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Age of">
+    <Child ReferenceText="Sail">
+      <PageReference>LTC2:35</PageReference>
+    </Child>
+    <Child ReferenceText="Galleys">
+      <PageReference>LTC2:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <Child ReferenceText="as guards">
+      <PageReference>LTC2:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Archers">
+    <PageReference>LTC2:6</PageReference>
+    <PageReference>LTC2:7</PageReference>
+    <PageReference>LTC2:10</PageReference>
+    <Child ReferenceText="chariot">
+      <PageReference>LTC2:6</PageReference>
+      <PageReference>LTC2:7</PageReference>
+    </Child>
+    <Child ReferenceText="horse">
+      <PageReference>LTC2:7-8</PageReference>
+      <PageReference>LTC2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armies">
+    <SeeAlso>Cavalry</SeeAlso>
+    <SeeAlso>Infantry</SeeAlso>
+    <Child ReferenceText="travel">
+      <PageReference>LTC2:32-33</PageReference>
+    </Child>
+    <Child ReferenceText="modern">
+      <PageReference>LTC2:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <Child ReferenceText="damage to">
+      <PageReference>LTC2:25</PageReference>
+    </Child>
+    <Child ReferenceText="early">
+      <PageReference>LTC2:5-8</PageReference>
+      <PageReference>LTC2:10</PageReference>
+    </Child>
+    <Child ReferenceText="firearms and">
+      <PageReference>LTC2:11</PageReference>
+    </Child>
+    <Child ReferenceText="maintenance">
+      <PageReference>LTC2:25</PageReference>
+    </Child>
+    <Child ReferenceText="munitions">
+      <PageReference>LTC2:10</PageReference>
+    </Child>
+    <Child ReferenceText="overrated">
+      <PageReference>LTC2:16</PageReference>
+    </Child>
+    <Child ReferenceText="piercing weapons">
+      <PageReference>LTC2:12</PageReference>
+    </Child>
+    <Child ReferenceText="plate">
+      <PageReference>LTC2:7</PageReference>
+      <PageReference>LTC2:10</PageReference>
+      <PageReference>LTC2:25</PageReference>
+    </Child>
+    <Child ReferenceText="quick and dirty damage">
+      <PageReference>LTC2:25</PageReference>
+    </Child>
+    <Child ReferenceText="repairing">
+      <PageReference>LTC2:25</PageReference>
+    </Child>
+    <Child ReferenceText="scaling">
+      <PageReference>LTC2:21</PageReference>
+    </Child>
+    <Child ReferenceText="spiked">
+      <PageReference>LTC2:18</PageReference>
+    </Child>
+    <Child ReferenceText="studded">
+      <PageReference>LTC2:18</PageReference>
+    </Child>
+    <Child ReferenceText="targeting">
+      <PageReference>LTC2:25</PageReference>
+    </Child>
+    <Child ReferenceText="cool ethnic">
+      <PageReference>LTC2:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor-piercer modification">
+    <PageReference>LTC2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artillery">
+    <Child ReferenceText="pneumatic">
+      <PageReference>LTC2:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Axe head modification">
+    <PageReference>LTC2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Axes">
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:4</PageReference>
+    </Child>
+    <Child ReferenceText="double-headed">
+      <PageReference>LTC2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bachawali Tope">
+    <PageReference>LTC2:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Baileys">
+    <PageReference>LTC2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ballistae">
+    <PageReference>LTC2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbs modification">
+    <PageReference>LTC2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basket hilts">
+    <PageReference>LTC2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bigas">
+    <PageReference>LTC2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Birds">
+    <Child ReferenceText="as guards">
+      <PageReference>LTC2:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Biremes">
+    <PageReference>LTC2:34</PageReference>
+    <PageReference>LTC2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blade shield modification">
+    <PageReference>LTC2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blades">
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:5</PageReference>
+    </Child>
+    <Child ReferenceText="DR and HP">
+      <PageReference>LTC2:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Blunt modification">
+    <PageReference>LTC2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boarding ships">
+    <PageReference>LTC2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bolas">
+    <Child ReferenceText="skill">
+      <PageReference>LTC2:17</PageReference>
+    </Child>
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bomb ships">
+    <PageReference>LTC2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bombards">
+    <PageReference>LTC2:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boss modification">
+    <PageReference>LTC2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bows">
+    <SeeAlso>Archers</SeeAlso>
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:6</PageReference>
+    </Child>
+    <Child ReferenceText="DR and HP">
+      <PageReference>LTC2:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brick defenses">
+    <PageReference>LTC2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Butt spike modification">
+    <PageReference>LTC2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caracole">
+    <PageReference>LTC2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caravels">
+    <PageReference>LTC2:38</PageReference>
+    <PageReference>LTC2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carts">
+    <PageReference>LTC2:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Castles">
+    <PageReference>LTC2:29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cataphracts">
+    <PageReference>LTC2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catapults">
+    <PageReference>LTC2:9</PageReference>
+    <PageReference>LTC2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Causewayed enclosures">
+    <PageReference>LTC2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cavalry">
+    <PageReference>LTC2:7-8</PageReference>
+    <PageReference>LTC2:10</PageReference>
+    <PageReference>LTC2:11</PageReference>
+    <Child ReferenceText="firearms and">
+      <PageReference>LTC2:11</PageReference>
+    </Child>
+    <Child ReferenceText="London lobsters">
+      <PageReference>LTC2:25</PageReference>
+    </Child>
+    <Child ReferenceText="travel">
+      <PageReference>LTC2:32-33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chain modification">
+    <PageReference>LTC2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chain shot">
+    <PageReference>LTC2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chains">
+    <Child ReferenceText="barbed">
+      <PageReference>LTC2:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chariots">
+    <PageReference>LTC2:6-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Circumvallation">
+    <PageReference>LTC2:5-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="City defenses">
+    <PageReference>LTC2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clubs">
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <SeeAlso>Warfare</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Concrete defenses">
+    <PageReference>LTC2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corvus">
+    <PageReference>LTC2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cribwork">
+    <PageReference>LTC2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossbows">
+    <Child ReferenceText="DR and HP">
+      <PageReference>LTC2:24</PageReference>
+    </Child>
+    <Child ReferenceText="double">
+      <PageReference>LTC2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Defenses, location">
+    <SeeAlso>Fortifications</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Demetrios Poliorketes">
+    <PageReference>LTC2:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dhul Dani">
+    <PageReference>LTC2:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disarming spikes shield modification">
+    <PageReference>LTC2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ditch defenses">
+    <PageReference>LTC2:26</PageReference>
+    <Child ReferenceText="rampart and">
+      <PageReference>LTC2:26</PageReference>
+      <PageReference>LTC2:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dogs">
+    <Child ReferenceText="as guards">
+      <PageReference>LTC2:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragoons">
+    <PageReference>LTC2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dromons">
+    <PageReference>LTC2:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dulle Griet">
+    <PageReference>LTC2:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth defenses">
+    <PageReference>LTC2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Embossing">
+    <PageReference>LTC2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="End cap modification">
+    <PageReference>LTC2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Engines">
+    <Child ReferenceText="war">
+      <PageReference>LTC2:8-9</PageReference>
+      <PageReference>LTC2:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Estoc">
+    <PageReference>LTC2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exotic Weapon Training perk">
+    <PageReference>LTC2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Falchion modification">
+    <PageReference>LTC2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feudalism">
+    <PageReference>LTC2:9</PageReference>
+    <PageReference>LTC2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearms">
+    <PageReference>LTC2:11</PageReference>
+    <PageReference>LTC2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fireships">
+    <PageReference>LTC2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flails">
+    <Child ReferenceText="bladed">
+      <PageReference>LTC2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flange modification">
+    <PageReference>LTC2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flexible modification">
+    <PageReference>LTC2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foot travel">
+    <PageReference>LTC2:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fortifications">
+    <Child ReferenceText="field">
+      <PageReference>LTC2:26</PageReference>
+    </Child>
+    <Child ReferenceText="city">
+      <PageReference>LTC2:27-31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fortresses">
+    <PageReference>LTC2:28-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forts">
+    <Child ReferenceText="star">
+      <PageReference>LTC2:30</PageReference>
+    </Child>
+    <Child ReferenceText="hill">
+      <PageReference>LTC2:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Foxholes">
+    <PageReference>LTC2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frigates">
+    <PageReference>LTC2:38</PageReference>
+    <PageReference>LTC2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Furusiyya">
+    <PageReference>LTC2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadlings">
+    <PageReference>LTC2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Galleys">
+    <PageReference>LTC2:38</PageReference>
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:34</PageReference>
+    </Child>
+    <Child ReferenceText="travel">
+      <PageReference>LTC2:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gastraphetes">
+    <PageReference>LTC2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Geese">
+    <Child ReferenceText="as guards">
+      <PageReference>LTC2:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grapeshot">
+    <PageReference>LTC2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greek fire">
+    <PageReference>LTC2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grips">
+    <Child ReferenceText="alternate">
+      <PageReference>LTC2:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Guards">
+    <PageReference>LTC2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guiges">
+    <Child ReferenceText="use">
+      <PageReference>LTC2:19</PageReference>
+    </Child>
+    <Child ReferenceText="modification">
+      <PageReference>LTC2:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunnery">
+    <PageReference>LTC2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunpowder">
+    <PageReference>LTC2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns">
+    <SeeAlso>Catapults</SeeAlso>
+    <SeeAlso>Engines</SeeAlso>
+    <SeeAlso>Firearms</SeeAlso>
+    <Child ReferenceText="huge">
+      <PageReference>LTC2:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>LTC2:7</PageReference>
+    <PageReference>LTC2:12</PageReference>
+    <PageReference>LTC2:16</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>LTC2:13</PageReference>
+      <PageReference>LTC2:15</PageReference>
+      <PageReference>LTC2:16</PageReference>
+      <PageReference>LTC2:19</PageReference>
+      <PageReference>LTC2:22</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech">
+      <PageReference>LTC2:3-5</PageReference>
+      <PageReference>LTC2:7</PageReference>
+      <PageReference>LTC2:8</PageReference>
+      <PageReference>LTC2:10-16</PageReference>
+      <PageReference>LTC2:19-21</PageReference>
+      <PageReference>LTC2:24</PageReference>
+      <PageReference>LTC2:25</PageReference>
+      <PageReference>LTC2:27</PageReference>
+      <PageReference>LTC2:29</PageReference>
+      <PageReference>LTC2:31</PageReference>
+      <PageReference>LTC2:33-39</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 1: Philosophers and Kings">
+      <PageReference>LTC2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 3: Daily Life and Economics">
+      <PageReference>LTC2:25</PageReference>
+      <PageReference>LTC2:27-29</PageReference>
+      <PageReference>LTC2:32</PageReference>
+      <PageReference>LTC2:39</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>LTC2:6</PageReference>
+      <PageReference>LTC2:7</PageReference>
+      <PageReference>LTC2:10</PageReference>
+      <PageReference>LTC2:14-17</PageReference>
+      <PageReference>LTC2:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hammer head modification">
+    <PageReference>LTC2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Harpagos">
+    <PageReference>LTC2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Haselrig">
+    <Child ReferenceText="Arthur">
+      <PageReference>LTC2:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hedges">
+    <PageReference>LTC2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helepolis">
+    <PageReference>LTC2:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hilts">
+    <Child ReferenceText="modifications">
+      <PageReference>LTC2:15</PageReference>
+    </Child>
+    <Child ReferenceText="basket">
+      <PageReference>LTC2:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hook modification">
+    <PageReference>LTC2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hoplomachia">
+    <PageReference>LTC2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hornbows">
+    <PageReference>LTC2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horses">
+    <PageReference>LTC2:32-33</PageReference>
+    <SeeAlso>Cavalry</SeeAlso>
+    <SeeAlso>Chariots</SeeAlso>
+    <Child ReferenceText="archers">
+      <PageReference>LTC2:7-8</PageReference>
+    </Child>
+    <Child ReferenceText="saddles">
+      <PageReference>LTC2:8</PageReference>
+    </Child>
+    <Child ReferenceText="transporting by sea">
+      <PageReference>LTC2:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Incendiaries">
+    <PageReference>LTC2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infantry">
+    <PageReference>LTC2:6</PageReference>
+    <PageReference>LTC2:7</PageReference>
+    <PageReference>LTC2:9-11</PageReference>
+    <Child ReferenceText="chariots and">
+      <PageReference>LTC2:7</PageReference>
+      <PageReference>LTC2:8</PageReference>
+    </Child>
+    <Child ReferenceText="travel">
+      <PageReference>LTC2:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron weapons">
+    <PageReference>LTC2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Javelins">
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Knights">
+    <PageReference>LTC2:9-10</PageReference>
+    <SeeAlso>Cavalry</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Knives">
+    <Child ReferenceText="DR and HP">
+      <PageReference>LTC2:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kusari modification">
+    <PageReference>LTC2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lance cutout modification">
+    <PageReference>LTC2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lantern hook modification">
+    <PageReference>LTC2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Liburnians">
+    <PageReference>LTC2:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="London lobsters">
+    <PageReference>LTC2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Long arms">
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Long handle modification">
+    <PageReference>LTC2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Longbows">
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Maces">
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Map">
+    <Child ReferenceText="star fort">
+      <PageReference>LTC2:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Matchlock firearms">
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Microlithic edges">
+    <PageReference>LTC2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Middle Ages">
+    <Child ReferenceText="warfare">
+      <PageReference>LTC2:9-10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Military transportation">
+    <PageReference>LTC2:32-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missile weapons">
+    <Child ReferenceText="on ships">
+      <PageReference>LTC2:35</PageReference>
+    </Child>
+    <Child ReferenceText="DR and HP">
+      <PageReference>LTC2:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Missiles">
+    <Child ReferenceText="DR and HP">
+      <PageReference>LTC2:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mons Meg">
+    <PageReference>LTC2:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mottes">
+    <PageReference>LTC2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounted">
+    <Child ReferenceText="travel">
+      <PageReference>LTC2:32-33</PageReference>
+    </Child>
+    <Child ReferenceText="combat">
+      <PageReference>LTC2:7-8</PageReference>
+      <PageReference>LTC2:10</PageReference>
+      <PageReference>LTC2:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Murshidabad guns">
+    <PageReference>LTC2:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Murus Gallicus">
+    <PageReference>LTC2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Muskets">
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural obstacles">
+    <PageReference>LTC2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Navies">
+    <Child ReferenceText="historical development">
+      <PageReference>LTC2:34</PageReference>
+    </Child>
+    <Child ReferenceText="tactics">
+      <PageReference>LTC2:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="transportation">
+      <PageReference>LTC2:33</PageReference>
+    </Child>
+    <Child ReferenceText="warships">
+      <PageReference>LTC2:38-39</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>LTC2:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="combat">
+      <PageReference>LTC2:11</PageReference>
+      <PageReference>LTC2:34-36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neck-strap use">
+    <PageReference>LTC2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oil">
+    <Child ReferenceText="flaming">
+      <PageReference>LTC2:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Padded modification">
+    <PageReference>LTC2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paddlewheels">
+    <PageReference>LTC2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Palisades">
+    <Child ReferenceText="wooden">
+      <PageReference>LTC2:26</PageReference>
+      <PageReference>LTC2:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Penteconters">
+    <PageReference>LTC2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phalanx">
+    <PageReference>LTC2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pick modification">
+    <PageReference>LTC2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pickets">
+    <PageReference>LTC2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plate armor">
+    <PageReference>LTC2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Polearms">
+    <Child ReferenceText="DR and HP">
+      <PageReference>LTC2:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Prongs modification">
+    <PageReference>LTC2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quadrigas">
+    <PageReference>LTC2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quadriremes">
+    <PageReference>LTC2:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Raja Gopala">
+    <PageReference>LTC2:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ramming ships">
+    <PageReference>LTC2:35-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Renaissance">
+    <Child ReferenceText="warfare">
+      <PageReference>LTC2:10-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reptiles">
+    <Child ReferenceText="as guards">
+      <PageReference>LTC2:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rifles">
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rim blade modification">
+    <PageReference>LTC2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Romans">
+    <Child ReferenceText="field camps">
+      <PageReference>LTC2:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Running the Pole technique">
+    <PageReference>LTC2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saddles">
+    <Child ReferenceText="combat">
+      <PageReference>LTC2:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scorpions">
+    <PageReference>LTC2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scutage">
+    <PageReference>LTC2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sea battles">
+    <SeeAlso>Navies</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Self bows">
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <Child ReferenceText="customizing">
+      <PageReference>LTC2:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="damage">
+      <PageReference>LTC2:19</PageReference>
+    </Child>
+    <Child ReferenceText="fighting with">
+      <PageReference>LTC2:18-19</PageReference>
+    </Child>
+    <Child ReferenceText="weapons and">
+      <PageReference>LTC2:19</PageReference>
+    </Child>
+    <Child ReferenceText="awkward">
+      <PageReference>LTC2:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ships">
+    <SeeAlso>Navies</SeeAlso>
+    <Child ReferenceText="military transport">
+      <PageReference>LTC2:33</PageReference>
+    </Child>
+    <Child ReferenceText="of the line">
+      <PageReference>LTC2:34</PageReference>
+      <PageReference>LTC2:39</PageReference>
+    </Child>
+    <Child ReferenceText="on-board armaments">
+      <PageReference>LTC2:35</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>LTC2:38</PageReference>
+    </Child>
+    <Child ReferenceText="war">
+      <PageReference>LTC2:38-39</PageReference>
+    </Child>
+    <Child ReferenceText="full-rigged">
+      <PageReference>LTC2:38</PageReference>
+      <PageReference>LTC2:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Short handle modification">
+    <PageReference>LTC2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sickle modification">
+    <PageReference>LTC2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Siege towers">
+    <PageReference>LTC2:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slings">
+    <Child ReferenceText="shot">
+      <PageReference>LTC2:5</PageReference>
+    </Child>
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sloops of war">
+    <PageReference>LTC2:38</PageReference>
+    <PageReference>LTC2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snekkes">
+    <PageReference>LTC2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spearhead modification">
+    <PageReference>LTC2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spears">
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:4</PageReference>
+      <PageReference>LTC2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spikes">
+    <Child ReferenceText="shield modification">
+      <PageReference>LTC2:20</PageReference>
+    </Child>
+    <Child ReferenceText="weapon modification">
+      <PageReference>LTC2:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stakes">
+    <PageReference>LTC2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sticks">
+    <Child ReferenceText="DR and HP">
+      <PageReference>LTC2:24</PageReference>
+    </Child>
+    <Child ReferenceText="early throwing">
+      <PageReference>LTC2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stirrups">
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stone defenses">
+    <PageReference>LTC2:27</PageReference>
+    <PageReference>LTC2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swords">
+    <Child ReferenceText="DR and HP">
+      <PageReference>LTC2:23</PageReference>
+    </Child>
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:5</PageReference>
+    </Child>
+    <Child ReferenceText="double-ended">
+      <PageReference>LTC2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="warships">
+      <PageReference>LTC2:38</PageReference>
+    </Child>
+    <Child ReferenceText="weapon and armor scaling">
+      <PageReference>LTC2:21</PageReference>
+    </Child>
+    <Child ReferenceText="weapon DR and HP">
+      <PageReference>LTC2:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="huge guns">
+      <PageReference>LTC2:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Terramaras">
+    <PageReference>LTC2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throwable modification">
+    <PageReference>LTC2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throwing Sticks">
+    <Child ReferenceText="introduction">
+      <PageReference>LTC2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrown Weapons skill">
+    <PageReference>LTC2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transportation">
+    <Child ReferenceText="military">
+      <PageReference>LTC2:32-33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trenches">
+    <PageReference>LTC2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trigas">
+    <PageReference>LTC2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Triremes">
+    <PageReference>LTC2:34</PageReference>
+    <PageReference>LTC2:35</PageReference>
+    <PageReference>LTC2:38</PageReference>
+    <Child ReferenceText="travel">
+      <PageReference>LTC2:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tsar Pushka">
+    <PageReference>LTC2:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turf defenses">
+    <PageReference>LTC2:26</PageReference>
+    <PageReference>LTC2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turkish bombards">
+    <PageReference>LTC2:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turtle ships">
+    <PageReference>LTC2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultra-light modification">
+    <PageReference>LTC2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wagons">
+    <PageReference>LTC2:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warfare">
+    <Child ReferenceText="feudal">
+      <PageReference>LTC2:9</PageReference>
+    </Child>
+    <Child ReferenceText="massed">
+      <PageReference>LTC2:6</PageReference>
+    </Child>
+    <Child ReferenceText="naval">
+      <PageReference>LTC2:11</PageReference>
+    </Child>
+    <Child ReferenceText="Stone Age">
+      <PageReference>LTC2:4</PageReference>
+    </Child>
+    <Child ReferenceText="early">
+      <PageReference>LTC2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Warships">
+    <PageReference>LTC2:9</PageReference>
+    <PageReference>LTC2:38-39</PageReference>
+    <SeeAlso>Navies</SeeAlso>
+    <SeeAlso>Ships</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Watchers">
+    <PageReference>LTC2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <Child ReferenceText="breakage of">
+      <PageReference>LTC2:22</PageReference>
+    </Child>
+    <Child ReferenceText="breaking">
+      <PageReference>LTC2:22</PageReference>
+    </Child>
+    <Child ReferenceText="Bronze Age">
+      <PageReference>LTC2:7</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic design">
+      <PageReference>LTC2:16-17</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic examples">
+      <PageReference>LTC2:17-18</PageReference>
+    </Child>
+    <Child ReferenceText="combination">
+      <PageReference>LTC2:15</PageReference>
+    </Child>
+    <Child ReferenceText="cool ethnic">
+      <PageReference>LTC2:16</PageReference>
+    </Child>
+    <Child ReferenceText="customizing">
+      <PageReference>LTC2:13-15</PageReference>
+    </Child>
+    <Child ReferenceText="damage to">
+      <PageReference>LTC2:22-24</PageReference>
+    </Child>
+    <Child ReferenceText="determining ST">
+      <PageReference>LTC2:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="DR of">
+      <PageReference>LTC2:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="HP of">
+      <PageReference>LTC2:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="hunter and gatherer">
+      <PageReference>LTC2:4</PageReference>
+    </Child>
+    <Child ReferenceText="Iron Age">
+      <PageReference>LTC2:7-9</PageReference>
+    </Child>
+    <Child ReferenceText="Middle Ages">
+      <PageReference>LTC2:9-10</PageReference>
+    </Child>
+    <Child ReferenceText="modifications">
+      <PageReference>LTC2:12-15</PageReference>
+    </Child>
+    <Child ReferenceText="overrated">
+      <PageReference>LTC2:16</PageReference>
+    </Child>
+    <Child ReferenceText="quick and dirty damage">
+      <PageReference>LTC2:22</PageReference>
+    </Child>
+    <Child ReferenceText="realistic design">
+      <PageReference>LTC2:12-16</PageReference>
+    </Child>
+    <Child ReferenceText="Renaissance">
+      <PageReference>LTC2:10-11</PageReference>
+    </Child>
+    <Child ReferenceText="repurposing">
+      <PageReference>LTC2:12-13</PageReference>
+    </Child>
+    <Child ReferenceText="scaling">
+      <PageReference>LTC2:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="shield-hand">
+      <PageReference>LTC2:19</PageReference>
+    </Child>
+    <Child ReferenceText="Stone Age">
+      <PageReference>LTC2:4-6</PageReference>
+    </Child>
+    <Child ReferenceText="throwing unthrowable">
+      <PageReference>LTC2:17</PageReference>
+    </Child>
+    <Child ReferenceText="training">
+      <PageReference>LTC2:13</PageReference>
+    </Child>
+    <Child ReferenceText="using oversized or undersized">
+      <PageReference>LTC2:21</PageReference>
+    </Child>
+    <Child ReferenceText="armor-piercing">
+      <PageReference>LTC2:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wooden modification">
+    <PageReference>LTC2:13</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Armor of the Perfect Suitability">
+    <PageReference>DFT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <Child ReferenceText="epic">
+      <PageReference>DFT2:6-7</PageReference>
+    </Child>
+    <Child ReferenceText="making epic">
+      <PageReference>DFT2:3</PageReference>
+    </Child>
+    <Child ReferenceText="prices">
+      <PageReference>DFT2:3</PageReference>
+    </Child>
+    <Child ReferenceText="very expensive">
+      <PageReference>DFT2:6</PageReference>
+    </Child>
+    <Child ReferenceText="encompassing">
+      <PageReference>DFT2:6-7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artifacts">
+    <Child ReferenceText="prices">
+      <PageReference>DFT2:3</PageReference>
+    </Child>
+    <Child ReferenceText="making epic">
+      <PageReference>DFT2:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Berserker’s Mushrooms">
+    <PageReference>DFT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blades of Destiny">
+    <PageReference>DFT2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Books">
+    <PageReference>DFT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burning Panoply">
+    <PageReference>DFT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Centarmor">
+    <PageReference>DFT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cladding-in-Iron">
+    <PageReference>DFT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clockwork">
+    <Child ReferenceText="Wagons">
+      <PageReference>DFT2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Chariots">
+      <PageReference>DFT2:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloudmaster">
+    <PageReference>DFT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concussive Mace">
+    <PageReference>DFT2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cornucopia">
+    <PageReference>DFT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage">
+    <Child ReferenceText="to gem-encrusted items">
+      <PageReference>DFT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragon Boat">
+    <PageReference>DFT2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragon Rig">
+    <PageReference>DFT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeon Torpedo">
+    <PageReference>DFT2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Early warning system">
+    <PageReference>DFT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchantments">
+    <Child ReferenceText="high-powered weapon">
+      <PageReference>DFT2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Encompassing armor">
+    <PageReference>DFT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Excellent Tablets">
+    <PageReference>DFT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <PageReference>DFT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forest Clarion">
+    <PageReference>DFT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gem-encrusted armor">
+    <PageReference>DFT2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glacial Armor">
+    <PageReference>DFT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gold">
+    <Child ReferenceText="weapons">
+      <PageReference>DFT2:5</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>DFT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grand Library">
+    <PageReference>DFT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Dungeon Fantasy">
+    <PageReference>DFT2:3</PageReference>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DFT2:4</PageReference>
+      <PageReference>DFT2:7</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DFT2:3</PageReference>
+      <PageReference>DFT2:7</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DFT2:11</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 6: 40 Artifacts">
+      <PageReference>DFT2:3</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 8: Treasure Tables">
+      <PageReference>DFT2:3</PageReference>
+      <PageReference>DFT2:5</PageReference>
+      <PageReference>DFT2:7</PageReference>
+      <PageReference>DFT2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 12: Ninja">
+      <PageReference>DFT2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing item">
+    <PageReference>DFT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inerrant Bow and Arrows">
+    <PageReference>DFT2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="King’s Spear">
+    <PageReference>DFT2:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Library">
+    <Child ReferenceText="Grand">
+      <PageReference>DFT2:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mantle of Storms">
+    <PageReference>DFT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marvelous Crab">
+    <PageReference>DFT2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mountainheart Armor">
+    <PageReference>DFT2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical instrument">
+    <PageReference>DFT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nightmare Phaeton">
+    <PageReference>DFT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Omnigates">
+    <PageReference>DFT2:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Panopticon Set">
+    <PageReference>DFT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Platinum">
+    <Child ReferenceText="coated armor">
+      <PageReference>DFT2:7</PageReference>
+    </Child>
+    <Child ReferenceText="coated weapons">
+      <PageReference>DFT2:5</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>DFT2:5</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>DFT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Raiser-of-Mountains">
+    <PageReference>DFT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Removable Gap">
+    <PageReference>DFT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Royal Carriage">
+    <PageReference>DFT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sarcophagus of Revival">
+    <PageReference>DFT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadow Daggers">
+    <PageReference>DFT2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sky-Breaking Halberd">
+    <PageReference>DFT2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Magnifiers">
+    <PageReference>DFT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Staves 10">
+    <PageReference>DFT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sun Chariot">
+    <PageReference>DFT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="high-powered weapon  enchantments">
+      <PageReference>DFT2:5</PageReference>
+    </Child>
+    <Child ReferenceText="vehicles">
+      <PageReference>DFT2:9</PageReference>
+    </Child>
+    <Child ReferenceText="gem-encrusted armor">
+      <PageReference>DFT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Toolkit replacement">
+    <PageReference>DFT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transportation">
+    <PageReference>DFT2:8-9</PageReference>
+    <PageReference>DFT2:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal Tool">
+    <PageReference>DFT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Variable Armor">
+    <PageReference>DFT2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <Child ReferenceText="epic">
+      <PageReference>DFT2:8-9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Very expensive">
+    <Child ReferenceText="weapons">
+      <PageReference>DFT2:5</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>DFT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vineshield">
+    <PageReference>DFT2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <Child ReferenceText="epic">
+      <PageReference>DFT2:4-5</PageReference>
+    </Child>
+    <Child ReferenceText="making epic">
+      <PageReference>DFT2:3</PageReference>
+    </Child>
+    <Child ReferenceText="prices">
+      <PageReference>DFT2:3</PageReference>
+    </Child>
+    <Child ReferenceText="very expensive">
+      <PageReference>DFT2:5</PageReference>
+    </Child>
+    <Child ReferenceText="enchantments">
+      <PageReference>DFT2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Whirlwind Sword">
+    <PageReference>DFT2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wings">
+    <PageReference>DFT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Woodside Armor">
+    <PageReference>DFT2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombie maker">
+    <PageReference>DFT2:12</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

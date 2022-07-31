@@ -1,0 +1,1697 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Control Rating">
+    <Child ReferenceText="conflicts">
+      <PageReference>ADP48</PageReference>
+    </Child>
+    <Child ReferenceText="culture">
+      <PageReference>ADP19</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>ADP41</PageReference>
+      <PageReference>ADP42</PageReference>
+    </Child>
+    <Child ReferenceText="examples using">
+      <PageReference>ADP8</PageReference>
+      <PageReference>ADP12</PageReference>
+      <PageReference>ADP28-30</PageReference>
+      <PageReference>ADP33</PageReference>
+      <PageReference>ADP41</PageReference>
+      <PageReference>ADP42-43</PageReference>
+    </Child>
+    <Child ReferenceText="genre">
+      <PageReference>ADP10</PageReference>
+    </Child>
+    <Child ReferenceText="mode">
+      <PageReference>ADP49</PageReference>
+    </Child>
+    <Child ReferenceText="Nautilus">
+      <PageReference>ADP22</PageReference>
+      <PageReference>ADP29</PageReference>
+      <PageReference>ADP42-43</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>ADP5</PageReference>
+    </Child>
+    <Child ReferenceText="premises">
+      <PageReference>ADP8</PageReference>
+    </Child>
+    <Child ReferenceText="settings">
+      <PageReference>ADP18</PageReference>
+      <PageReference>ADP20</PageReference>
+      <PageReference>ADP26</PageReference>
+    </Child>
+    <Child ReferenceText="tech level">
+      <PageReference>ADP19</PageReference>
+    </Child>
+    <Child ReferenceText="terrains">
+      <PageReference>ADP18</PageReference>
+    </Child>
+    <Child ReferenceText="theme">
+      <PageReference>ADP12</PageReference>
+    </Child>
+    <Child ReferenceText="tragedy">
+      <PageReference>ADP48</PageReference>
+      <PageReference>ADP50</PageReference>
+    </Child>
+    <Child ReferenceText="20">
+      <PageReference>ADP20</PageReference>
+      <PageReference>ADP12</PageReference>
+      <PageReference>ADP28-30</PageReference>
+      <PageReference>ADP33</PageReference>
+      <PageReference>ADP39</PageReference>
+      <PageReference>ADP20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Action/adventure genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Actions">
+    <SeeAlso>Conflict</SeeAlso>
+    <Child ReferenceText="appropriate">
+      <PageReference>ADP47</PageReference>
+    </Child>
+    <Child ReferenceText="based on theme">
+      <PageReference>ADP12</PageReference>
+    </Child>
+    <Child ReferenceText="conflicting">
+      <PageReference>ADP47-48</PageReference>
+    </Child>
+    <Child ReferenceText="consequences of">
+      <PageReference>ADP49</PageReference>
+    </Child>
+    <Child ReferenceText="horror">
+      <PageReference>ADP48</PageReference>
+    </Child>
+    <Child ReferenceText="inward">
+      <PageReference>ADP46</PageReference>
+    </Child>
+    <Child ReferenceText="modes">
+      <PageReference>ADP49</PageReference>
+    </Child>
+    <Child ReferenceText="motivated">
+      <PageReference>ADP47</PageReference>
+    </Child>
+    <Child ReferenceText="outward">
+      <PageReference>ADP46</PageReference>
+    </Child>
+    <Child ReferenceText="possible">
+      <PageReference>ADP46-47</PageReference>
+    </Child>
+    <Child ReferenceText="thematic">
+      <PageReference>ADP47</PageReference>
+    </Child>
+    <Child ReferenceText="tragedy">
+      <PageReference>ADP48</PageReference>
+    </Child>
+    <Child ReferenceText="verisimilitude">
+      <PageReference>ADP6</PageReference>
+      <PageReference>ADP49</PageReference>
+    </Child>
+    <Child ReferenceText="agency">
+      <PageReference>ADP6</PageReference>
+      <PageReference>ADP46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Action</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerostats">
+    <PageReference>ADP42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Agency">
+    <PageReference>ADP6</PageReference>
+    <PageReference>ADP46</PageReference>
+    <SeeAlso>Actions</SeeAlso>
+    <SeeAlso>Conflict</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies advantage">
+    <PageReference>ADP27</PageReference>
+    <PageReference>ADP28</PageReference>
+    <PageReference>ADP34</PageReference>
+    <PageReference>ADP44</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>ADP45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate history genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate universes">
+    <Child ReferenceText="usage">
+      <PageReference>ADP7</PageReference>
+      <PageReference>ADP39</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>ADP6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artifacts">
+    <SeeAlso>Technology</SeeAlso>
+    <SeeAlso>Vehicles</SeeAlso>
+    <Child ReferenceText="as characters">
+      <PageReference>ADP43</PageReference>
+    </Child>
+    <Child ReferenceText="as evidence">
+      <PageReference>ADP40</PageReference>
+    </Child>
+    <Child ReferenceText="availability">
+      <PageReference>ADP44-45</PageReference>
+    </Child>
+    <Child ReferenceText="clothing">
+      <PageReference>ADP41</PageReference>
+    </Child>
+    <Child ReferenceText="cost">
+      <PageReference>ADP45</PageReference>
+    </Child>
+    <Child ReferenceText="fantastic">
+      <PageReference>ADP45</PageReference>
+    </Child>
+    <Child ReferenceText="furnishings">
+      <PageReference>ADP42</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>ADP40</PageReference>
+    </Child>
+    <Child ReferenceText="legality">
+      <PageReference>ADP44-45</PageReference>
+    </Child>
+    <Child ReferenceText="life forms">
+      <PageReference>ADP44</PageReference>
+    </Child>
+    <Child ReferenceText="MacGuffins">
+      <PageReference>ADP6</PageReference>
+      <PageReference>ADP41</PageReference>
+    </Child>
+    <Child ReferenceText="machines">
+      <PageReference>ADP43</PageReference>
+    </Child>
+    <Child ReferenceText="narrative function">
+      <PageReference>ADP40-41</PageReference>
+    </Child>
+    <Child ReferenceText="personal gear">
+      <PageReference>ADP41-42</PageReference>
+    </Child>
+    <Child ReferenceText="personalizers">
+      <PageReference>ADP40</PageReference>
+    </Child>
+    <Child ReferenceText="potentially movable structures">
+      <PageReference>ADP42</PageReference>
+    </Child>
+    <Child ReferenceText="presupposed">
+      <PageReference>ADP45</PageReference>
+    </Child>
+    <Child ReferenceText="structures">
+      <PageReference>ADP21-22</PageReference>
+      <PageReference>ADP42</PageReference>
+    </Child>
+    <Child ReferenceText="tech level">
+      <PageReference>ADP44</PageReference>
+    </Child>
+    <Child ReferenceText="technologies">
+      <PageReference>ADP18-19</PageReference>
+      <PageReference>ADP44</PageReference>
+    </Child>
+    <Child ReferenceText="transcendents">
+      <PageReference>ADP41</PageReference>
+    </Child>
+    <Child ReferenceText="valuables">
+      <PageReference>ADP41</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>ADP41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <PageReference>ADP6</PageReference>
+    <PageReference>ADP40</PageReference>
+    <SeeAlso>Artifacts</SeeAlso>
+    <SeeAlso>Characters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Austerity">
+    <PageReference>ADP6</PageReference>
+    <PageReference>ADP49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bennet">
+    <Child ReferenceText="source work">
+      <PageReference>ADP4</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>ADP35</PageReference>
+    </Child>
+    <Child ReferenceText="usage ideas">
+      <PageReference>ADP8</PageReference>
+      <PageReference>ADP39</PageReference>
+    </Child>
+    <Child ReferenceText="Elizabeth (“Lizzie”)">
+      <PageReference>ADP28</PageReference>
+      <PageReference>ADP30</PageReference>
+      <PageReference>ADP31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bizarro genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <SeeAlso>Actions</SeeAlso>
+    <SeeAlso>Characters</SeeAlso>
+    <SeeAlso>High Concept</SeeAlso>
+    <SeeAlso>Players</SeeAlso>
+    <SeeAlso>Setting</SeeAlso>
+    <Child ReferenceText="climactic scenes">
+      <PageReference>ADP51</PageReference>
+    </Child>
+    <Child ReferenceText="developmental">
+      <PageReference>ADP50-51</PageReference>
+    </Child>
+    <Child ReferenceText="episodic">
+      <PageReference>ADP50</PageReference>
+    </Child>
+    <Child ReferenceText="indirect exposition">
+      <PageReference>ADP25</PageReference>
+    </Child>
+    <Child ReferenceText="modes">
+      <PageReference>ADP49</PageReference>
+    </Child>
+    <Child ReferenceText="narratives">
+      <PageReference>ADP50-51</PageReference>
+    </Child>
+    <Child ReferenceText="payoff">
+      <PageReference>ADP51</PageReference>
+    </Child>
+    <Child ReferenceText="recognition">
+      <PageReference>ADP6</PageReference>
+      <PageReference>ADP24</PageReference>
+      <PageReference>ADP51</PageReference>
+    </Child>
+    <Child ReferenceText="revelatory">
+      <PageReference>ADP51</PageReference>
+    </Child>
+    <Child ReferenceText="slice-of-life">
+      <PageReference>ADP51</PageReference>
+    </Child>
+    <Child ReferenceText="story-arc">
+      <PageReference>ADP50</PageReference>
+    </Child>
+    <Child ReferenceText="story unities">
+      <PageReference>ADP50</PageReference>
+    </Child>
+    <Child ReferenceText="austerity">
+      <PageReference>ADP6</PageReference>
+      <PageReference>ADP49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chambara genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Character conflict types, vs">
+    <Child ReferenceText="character">
+      <PageReference>ADP48</PageReference>
+    </Child>
+    <Child ReferenceText="vs" />
+    <Child ReferenceText="fate/god">
+      <PageReference>ADP47-48</PageReference>
+    </Child>
+    <Child ReferenceText="vs" />
+    <Child ReferenceText="nature">
+      <PageReference>ADP48</PageReference>
+    </Child>
+    <Child ReferenceText="vs" />
+    <Child ReferenceText="self">
+      <PageReference>ADP48</PageReference>
+    </Child>
+    <Child ReferenceText="vs" />
+    <Child ReferenceText="society">
+      <PageReference>ADP48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <SeeAlso>Actions</SeeAlso>
+    <SeeAlso>Players</SeeAlso>
+    <Child ReferenceText="cinematic skills">
+      <PageReference>ADP34</PageReference>
+    </Child>
+    <Child ReferenceText="combat skills">
+      <PageReference>ADP30-31</PageReference>
+    </Child>
+    <Child ReferenceText="esoteric arts">
+      <PageReference>ADP33-34</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>ADP35-37</PageReference>
+    </Child>
+    <Child ReferenceText="excluded options">
+      <PageReference>ADP38</PageReference>
+    </Child>
+    <Child ReferenceText="expanding the original cast">
+      <PageReference>ADP39</PageReference>
+    </Child>
+    <Child ReferenceText="extras">
+      <PageReference>ADP28-29</PageReference>
+    </Child>
+    <Child ReferenceText="guest stars">
+      <PageReference>ADP27</PageReference>
+    </Child>
+    <Child ReferenceText="life forms">
+      <PageReference>ADP44</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>ADP34</PageReference>
+    </Child>
+    <Child ReferenceText="major">
+      <PageReference>ADP6</PageReference>
+      <PageReference>ADP27</PageReference>
+    </Child>
+    <Child ReferenceText="martial-arts styles">
+      <PageReference>ADP31</PageReference>
+    </Child>
+    <Child ReferenceText="motivation">
+      <PageReference>ADP33</PageReference>
+    </Child>
+    <Child ReferenceText="niches">
+      <PageReference>ADP39</PageReference>
+    </Child>
+    <Child ReferenceText="objects as">
+      <PageReference>ADP43</PageReference>
+    </Child>
+    <Child ReferenceText="organization membership">
+      <PageReference>ADP29</PageReference>
+      <PageReference>ADP45</PageReference>
+    </Child>
+    <Child ReferenceText="original">
+      <PageReference>ADP38-39</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>ADP33</PageReference>
+    </Child>
+    <Child ReferenceText="personality">
+      <PageReference>ADP33</PageReference>
+    </Child>
+    <Child ReferenceText="point value">
+      <PageReference>ADP38-39</PageReference>
+    </Child>
+    <Child ReferenceText="power modifiers">
+      <PageReference>ADP34-35</PageReference>
+    </Child>
+    <Child ReferenceText="quirks">
+      <PageReference>ADP33</PageReference>
+    </Child>
+    <Child ReferenceText="protagonist">
+      <PageReference>ADP6</PageReference>
+      <PageReference>ADP27</PageReference>
+    </Child>
+    <Child ReferenceText="racial traits">
+      <PageReference>ADP35</PageReference>
+    </Child>
+    <Child ReferenceText="required traits">
+      <PageReference>ADP39</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>ADP30-31</PageReference>
+    </Child>
+    <Child ReferenceText="social backgrounds">
+      <PageReference>ADP31-32</PageReference>
+    </Child>
+    <Child ReferenceText="special abilities">
+      <PageReference>ADP34-35</PageReference>
+    </Child>
+    <Child ReferenceText="supporting">
+      <PageReference>ADP27-28</PageReference>
+    </Child>
+    <Child ReferenceText="Talents">
+      <PageReference>ADP29</PageReference>
+    </Child>
+    <Child ReferenceText="templates">
+      <PageReference>ADP39</PageReference>
+    </Child>
+    <Child ReferenceText="unity of action">
+      <PageReference>ADP50</PageReference>
+    </Child>
+    <Child ReferenceText="unity of place">
+      <PageReference>ADP50</PageReference>
+    </Child>
+    <Child ReferenceText="unity of time">
+      <PageReference>ADP50</PageReference>
+    </Child>
+    <Child ReferenceText="visible qualities">
+      <PageReference>ADP32-33</PageReference>
+    </Child>
+    <Child ReferenceText="attributes">
+      <PageReference>ADP6</PageReference>
+      <PageReference>ADP29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chinese Imperial Military Combat style">
+    <PageReference>ADP31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chopper">
+    <Child ReferenceText="axe">
+      <PageReference>ADP41</PageReference>
+    </Child>
+    <Child ReferenceText="Nick">
+      <PageReference>ADP36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Comedy genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Conflict">
+    <SeeAlso>Actions</SeeAlso>
+    <Child ReferenceText="setting and">
+      <PageReference>ADP23</PageReference>
+      <PageReference>ADP24</PageReference>
+      <PageReference>ADP26</PageReference>
+    </Child>
+    <Child ReferenceText="types of">
+      <PageReference>ADP47-48</PageReference>
+    </Child>
+    <Child ReferenceText="mental">
+      <PageReference>ADP26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Control Rating (CR)">
+    <PageReference>ADP20</PageReference>
+    <PageReference>ADP44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Familiarity advantage">
+    <PageReference>ADP19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dependents disadvantage">
+    <PageReference>ADP27</PageReference>
+    <PageReference>ADP28</PageReference>
+    <PageReference>ADP44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diving suits">
+    <PageReference>ADP41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dracula (Drac">
+    <Child ReferenceText="), characters">
+      <PageReference>ADP9</PageReference>
+      <PageReference>ADP28</PageReference>
+      <PageReference>ADP29</PageReference>
+      <PageReference>ADP30</PageReference>
+      <PageReference>ADP31</PageReference>
+      <PageReference>ADP32</PageReference>
+      <PageReference>ADP33</PageReference>
+      <PageReference>ADP34</PageReference>
+      <PageReference>ADP39</PageReference>
+      <PageReference>ADP40</PageReference>
+    </Child>
+    <Child ReferenceText="conflicts">
+      <PageReference>ADP48</PageReference>
+    </Child>
+    <Child ReferenceText="Control Rating">
+      <PageReference>ADP20</PageReference>
+    </Child>
+    <Child ReferenceText="culture">
+      <PageReference>ADP19</PageReference>
+      <PageReference>ADP31</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>ADP20</PageReference>
+      <PageReference>ADP40</PageReference>
+      <PageReference>ADP41</PageReference>
+      <PageReference>ADP44</PageReference>
+    </Child>
+    <Child ReferenceText="examples using">
+      <PageReference>ADP5</PageReference>
+      <PageReference>ADP7</PageReference>
+      <PageReference>ADP9</PageReference>
+      <PageReference>ADP28</PageReference>
+      <PageReference>ADP29</PageReference>
+      <PageReference>ADP31-33</PageReference>
+      <PageReference>ADP39</PageReference>
+      <PageReference>ADP41</PageReference>
+      <PageReference>ADP44</PageReference>
+    </Child>
+    <Child ReferenceText="genres">
+      <PageReference>ADP10</PageReference>
+    </Child>
+    <Child ReferenceText="mode">
+      <PageReference>ADP49</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>ADP5</PageReference>
+    </Child>
+    <Child ReferenceText="premises">
+      <PageReference>ADP8</PageReference>
+    </Child>
+    <Child ReferenceText="setting">
+      <PageReference>ADP18</PageReference>
+      <PageReference>ADP20</PageReference>
+      <PageReference>ADP31</PageReference>
+    </Child>
+    <Child ReferenceText="special abilities">
+      <PageReference>ADP20</PageReference>
+      <PageReference>ADP34</PageReference>
+      <PageReference>ADP35</PageReference>
+    </Child>
+    <Child ReferenceText="tech level">
+      <PageReference>ADP19</PageReference>
+      <PageReference>ADP44</PageReference>
+    </Child>
+    <Child ReferenceText="terrains">
+      <PageReference>ADP18</PageReference>
+    </Child>
+    <Child ReferenceText="theme">
+      <PageReference>ADP12</PageReference>
+    </Child>
+    <Child ReferenceText="wild places">
+      <PageReference>ADP22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Emerald City">
+    <PageReference>ADP21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemies disadvantage">
+    <PageReference>ADP20</PageReference>
+    <PageReference>ADP27</PageReference>
+    <PageReference>ADP28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Artifacts</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Fan fiction">
+    <PageReference>ADP5</PageReference>
+    <PageReference>ADP7</PageReference>
+    <SeeAlso>Campaigns</SeeAlso>
+    <SeeAlso>High Concept</SeeAlso>
+    <Child ReferenceText="definition">
+      <PageReference>ADP6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fantasy genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Favor advantage">
+    <PageReference>ADP28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>Artifacts</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Glossary">
+    <PageReference>ADP6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="How to Be a GURPS GM">
+    <PageReference>ADP3</PageReference>
+    <PageReference>ADP6</PageReference>
+    <PageReference>ADP8</PageReference>
+    <PageReference>ADP15</PageReference>
+    <PageReference>ADP18</PageReference>
+    <PageReference>ADP19</PageReference>
+    <PageReference>ADP27</PageReference>
+    <PageReference>ADP32-34</PageReference>
+    <PageReference>ADP40</PageReference>
+    <PageReference>ADP44</PageReference>
+    <PageReference>ADP48</PageReference>
+    <PageReference>ADP49</PageReference>
+    <PageReference>ADP26</PageReference>
+    <SeeAlso>Pyramid</SeeAlso>
+    <SeeAlso>Pyramid</SeeAlso>
+    <Child ReferenceText="After the End">
+      <PageReference>ADP18</PageReference>
+      <PageReference>ADP22</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>ADP16</PageReference>
+      <PageReference>ADP42</PageReference>
+      <PageReference>ADP44</PageReference>
+      <PageReference>ADP47</PageReference>
+    </Child>
+    <Child ReferenceText="Boardroom and Curia">
+      <PageReference>ADP29</PageReference>
+      <PageReference>ADP30</PageReference>
+      <PageReference>ADP40</PageReference>
+      <PageReference>ADP42</PageReference>
+      <PageReference>ADP45</PageReference>
+      <PageReference>ADP48</PageReference>
+    </Child>
+    <Child ReferenceText="City Stats">
+      <PageReference>ADP20</PageReference>
+      <PageReference>ADP21</PageReference>
+      <PageReference>ADP25</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>ADP39</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 16: Wilderness Adventures">
+      <PageReference>ADP22</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>ADP3</PageReference>
+      <PageReference>ADP9</PageReference>
+      <PageReference>ADP20</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>ADP40-42</PageReference>
+      <PageReference>ADP43</PageReference>
+      <PageReference>ADP45</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>ADP3</PageReference>
+      <PageReference>ADP9</PageReference>
+      <PageReference>ADP51</PageReference>
+    </Child>
+    <Child ReferenceText="Infinite Worlds">
+      <PageReference>ADP7</PageReference>
+      <PageReference>ADP19</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech">
+      <PageReference>ADP22</PageReference>
+      <PageReference>ADP31</PageReference>
+      <PageReference>ADP41</PageReference>
+      <PageReference>ADP43</PageReference>
+      <PageReference>ADP45</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 1: Philosophers and Kings">
+      <PageReference>ADP42</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 2: Weapons and Warriors">
+      <PageReference>ADP36</PageReference>
+    </Child>
+    <Child ReferenceText="LowTech Companion 3: Daily Life and Economics">
+      <PageReference>ADP22</PageReference>
+      <PageReference>ADP43</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>ADP31</PageReference>
+      <PageReference>ADP36</PageReference>
+      <PageReference>ADP47</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat">
+      <PageReference>ADP20</PageReference>
+      <PageReference>ADP26</PageReference>
+      <PageReference>ADP29</PageReference>
+      <PageReference>ADP30</PageReference>
+      <PageReference>ADP43</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters">
+      <PageReference>ADP39</PageReference>
+    </Child>
+    <Child ReferenceText="Mysteries">
+      <PageReference>ADP3</PageReference>
+      <PageReference>ADP9</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>ADP3</PageReference>
+      <PageReference>ADP33</PageReference>
+      <PageReference>ADP40</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 3: Talents">
+      <PageReference>ADP29</PageReference>
+    </Child>
+    <Child ReferenceText="PowerUps 5: Impulse Buys">
+      <PageReference>ADP7</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 6: Quirks">
+      <PageReference>ADP3</PageReference>
+      <PageReference>ADP33</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>ADP20</PageReference>
+      <PageReference>ADP34</PageReference>
+      <PageReference>ADP45</PageReference>
+    </Child>
+    <Child ReferenceText="Powers: Divine Favor">
+      <PageReference>ADP34</PageReference>
+    </Child>
+    <Child ReferenceText="Powers: The Weird">
+      <PageReference>ADP34</PageReference>
+    </Child>
+    <Child ReferenceText="Psi-Tech">
+      <PageReference>ADP34</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Campaigns">
+      <PageReference>ADP3</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>ADP35</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering">
+      <PageReference>ADP19</PageReference>
+      <PageReference>ADP26</PageReference>
+      <PageReference>ADP32</PageReference>
+      <PageReference>ADP40</PageReference>
+      <PageReference>ADP47</PageReference>
+      <PageReference>ADP48</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering: Back to School">
+      <PageReference>ADP9</PageReference>
+      <PageReference>ADP42</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering: Pulling Rank">
+      <PageReference>ADP45</PageReference>
+    </Child>
+    <Child ReferenceText="Space">
+      <PageReference>ADP3</PageReference>
+      <PageReference>ADP8</PageReference>
+      <PageReference>ADP9</PageReference>
+      <PageReference>ADP16</PageReference>
+      <PageReference>ADP17</PageReference>
+      <PageReference>ADP24</PageReference>
+    </Child>
+    <Child ReferenceText="Spaceships">
+      <PageReference>ADP42</PageReference>
+    </Child>
+    <Child ReferenceText="Spaceships 6: Mining and Industrial Spacecraft">
+      <PageReference>ADP42</PageReference>
+    </Child>
+    <Child ReferenceText="Supers">
+      <PageReference>ADP3</PageReference>
+      <PageReference>ADP9</PageReference>
+      <PageReference>ADP35</PageReference>
+    </Child>
+    <Child ReferenceText="Template Toolkit 1: Characters">
+      <PageReference>ADP29</PageReference>
+      <PageReference>ADP30</PageReference>
+      <PageReference>ADP39</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>ADP34</PageReference>
+      <PageReference>ADP43</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Chinese Elemental Powers">
+      <PageReference>ADP34</PageReference>
+      <PageReference>ADP47</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Ritual Path Magic">
+      <PageReference>ADP34</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Sorcery">
+      <PageReference>ADP34</PageReference>
+    </Child>
+    <Child ReferenceText="Ultra-Tech">
+      <PageReference>ADP41</PageReference>
+      <PageReference>ADP43</PageReference>
+      <PageReference>ADP45</PageReference>
+    </Child>
+    <Child ReferenceText="Underground Adventures">
+      <PageReference>ADP18</PageReference>
+      <PageReference>ADP21</PageReference>
+      <PageReference>ADP42</PageReference>
+    </Child>
+    <Child ReferenceText="Zombies">
+      <PageReference>ADP3</PageReference>
+      <PageReference>ADP9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hardboiled fiction genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="High concept">
+    <SeeAlso>Campaigns</SeeAlso>
+    <Child ReferenceText="central idea">
+      <PageReference>ADP11-12</PageReference>
+    </Child>
+    <Child ReferenceText="common genres">
+      <PageReference>ADP10</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>ADP6</PageReference>
+    </Child>
+    <Child ReferenceText="displacements">
+      <PageReference>ADP7</PageReference>
+    </Child>
+    <Child ReferenceText="genre conventions">
+      <PageReference>ADP9</PageReference>
+    </Child>
+    <Child ReferenceText="genre types">
+      <PageReference>ADP10</PageReference>
+    </Child>
+    <Child ReferenceText="mashups">
+      <PageReference>ADP5</PageReference>
+    </Child>
+    <Child ReferenceText="mood">
+      <PageReference>ADP11</PageReference>
+    </Child>
+    <Child ReferenceText="multiple sources">
+      <PageReference>ADP5</PageReference>
+    </Child>
+    <Child ReferenceText="one impossible thing">
+      <PageReference>ADP8</PageReference>
+    </Child>
+    <Child ReferenceText="players and">
+      <PageReference>ADP12-13</PageReference>
+    </Child>
+    <Child ReferenceText="premise">
+      <PageReference>ADP8</PageReference>
+    </Child>
+    <Child ReferenceText="prequels">
+      <PageReference>ADP6-7</PageReference>
+    </Child>
+    <Child ReferenceText="reinventions">
+      <PageReference>ADP7-8</PageReference>
+    </Child>
+    <Child ReferenceText="retelling the story">
+      <PageReference>ADP7</PageReference>
+    </Child>
+    <Child ReferenceText="sequels">
+      <PageReference>ADP6-7</PageReference>
+    </Child>
+    <Child ReferenceText="source works">
+      <PageReference>ADP4-5</PageReference>
+    </Child>
+    <Child ReferenceText="starting point">
+      <PageReference>ADP6-8</PageReference>
+    </Child>
+    <Child ReferenceText="theme">
+      <PageReference>ADP6</PageReference>
+      <PageReference>ADP11-12</PageReference>
+    </Child>
+    <Child ReferenceText="tropes">
+      <PageReference>ADP9</PageReference>
+    </Child>
+    <Child ReferenceText="untold tales">
+      <PageReference>ADP7</PageReference>
+    </Child>
+    <Child ReferenceText="alternate universes">
+      <PageReference>ADP6</PageReference>
+      <PageReference>ADP7</PageReference>
+      <PageReference>ADP39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Horror genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Hu Sanniang">
+    <PageReference>ADP36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Humor genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Indirect exposition">
+    <SeeAlso>Setting</SeeAlso>
+    <Child ReferenceText="usage">
+      <PageReference>ADP10</PageReference>
+      <PageReference>ADP24</PageReference>
+      <PageReference>ADP25</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>ADP6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kalidahs">
+    <PageReference>ADP44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MacGuffins">
+    <PageReference>ADP6</PageReference>
+    <PageReference>ADP41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mars">
+    <PageReference>ADP17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial arts genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mimetic fiction genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mimetic fiction">
+    <PageReference>ADP6</PageReference>
+    <PageReference>ADP10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mundane">
+    <PageReference>ADP6</PageReference>
+    <Child ReferenceText="actions">
+      <PageReference>ADP46</PageReference>
+    </Child>
+    <Child ReferenceText="genres">
+      <PageReference>ADP10</PageReference>
+    </Child>
+    <Child ReferenceText="premises">
+      <PageReference>ADP8</PageReference>
+    </Child>
+    <Child ReferenceText="traits in">
+      <PageReference>ADP38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mystery genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Narratives">
+    <SeeAlso>Campaigns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Nautilus">
+    <PageReference>ADP22</PageReference>
+    <PageReference>ADP29</PageReference>
+    <PageReference>ADP42-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New weird genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Noir film genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Objects">
+    <SeeAlso>Artifacts</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Odysseia">
+    <SeeAlso>Odyssey</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Odysseus">
+    <PageReference>ADP11</PageReference>
+    <PageReference>ADP12</PageReference>
+    <PageReference>ADP16</PageReference>
+    <PageReference>ADP24</PageReference>
+    <PageReference>ADP26</PageReference>
+    <PageReference>ADP29-31</PageReference>
+    <PageReference>ADP33</PageReference>
+    <PageReference>ADP47</PageReference>
+    <Child ReferenceText="companions">
+      <PageReference>ADP28</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>ADP40</PageReference>
+      <PageReference>ADP41</PageReference>
+    </Child>
+    <Child ReferenceText="source work">
+      <PageReference>ADP4</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>ADP37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Odyssey (Odys.)">
+    <Child ReferenceText="characters">
+      <PageReference>ADP7</PageReference>
+      <PageReference>ADP12</PageReference>
+      <PageReference>ADP28-31</PageReference>
+      <PageReference>ADP33</PageReference>
+      <PageReference>ADP37</PageReference>
+      <PageReference>ADP39</PageReference>
+    </Child>
+    <Child ReferenceText="conflicts">
+      <PageReference>ADP48</PageReference>
+    </Child>
+    <Child ReferenceText="Control Rating">
+      <PageReference>ADP20</PageReference>
+    </Child>
+    <Child ReferenceText="culture">
+      <PageReference>ADP19</PageReference>
+      <PageReference>ADP31</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>ADP20</PageReference>
+      <PageReference>ADP34</PageReference>
+      <PageReference>ADP40</PageReference>
+    </Child>
+    <Child ReferenceText="examples using">
+      <PageReference>ADP7</PageReference>
+      <PageReference>ADP12</PageReference>
+      <PageReference>ADP16</PageReference>
+      <PageReference>ADP26</PageReference>
+      <PageReference>ADP28-31</PageReference>
+      <PageReference>ADP33</PageReference>
+      <PageReference>ADP37</PageReference>
+      <PageReference>ADP39</PageReference>
+      <PageReference>ADP40</PageReference>
+      <PageReference>ADP50</PageReference>
+    </Child>
+    <Child ReferenceText="genres">
+      <PageReference>ADP10</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>ADP34</PageReference>
+    </Child>
+    <Child ReferenceText="mode">
+      <PageReference>ADP49</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>ADP4</PageReference>
+    </Child>
+    <Child ReferenceText="premises">
+      <PageReference>ADP8</PageReference>
+    </Child>
+    <Child ReferenceText="protagonists">
+      <PageReference>ADP27</PageReference>
+    </Child>
+    <Child ReferenceText="setting">
+      <PageReference>ADP18</PageReference>
+      <PageReference>ADP20</PageReference>
+      <PageReference>ADP23</PageReference>
+    </Child>
+    <Child ReferenceText="special abilities">
+      <PageReference>ADP20</PageReference>
+      <PageReference>ADP34</PageReference>
+    </Child>
+    <Child ReferenceText="tech level">
+      <PageReference>ADP19</PageReference>
+    </Child>
+    <Child ReferenceText="terrains">
+      <PageReference>ADP18</PageReference>
+    </Child>
+    <Child ReferenceText="theme">
+      <PageReference>ADP11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pathetic fallacy">
+    <PageReference>ADP6</PageReference>
+    <PageReference>ADP24</PageReference>
+    <SeeAlso>Setting</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrons advantage">
+    <PageReference>ADP20</PageReference>
+    <PageReference>ADP27</PageReference>
+    <PageReference>ADP28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pemberley">
+    <PageReference>ADP22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Players">
+    <SeeAlso>Characters</SeeAlso>
+    <Child ReferenceText="interest">
+      <PageReference>ADP13</PageReference>
+    </Child>
+    <Child ReferenceText="source familiarity">
+      <PageReference>ADP13</PageReference>
+    </Child>
+    <Child ReferenceText="trust">
+      <PageReference>ADP13</PageReference>
+    </Child>
+    <Child ReferenceText="genre expectations">
+      <PageReference>ADP9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power modifiers">
+    <PageReference>ADP34-35</PageReference>
+    <Child ReferenceText="objects and">
+      <PageReference>ADP20</PageReference>
+      <PageReference>ADP45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pride and Prejudice (P&amp;P)">
+    <SeeAlso>Bennet</SeeAlso>
+    <Child ReferenceText="characters">
+      <PageReference>ADP8</PageReference>
+      <PageReference>ADP28</PageReference>
+      <PageReference>ADP29</PageReference>
+      <PageReference>ADP32</PageReference>
+      <PageReference>ADP33</PageReference>
+      <PageReference>ADP35</PageReference>
+    </Child>
+    <Child ReferenceText="conflicts">
+      <PageReference>ADP26</PageReference>
+      <PageReference>ADP48</PageReference>
+    </Child>
+    <Child ReferenceText="Control Rating">
+      <PageReference>ADP20</PageReference>
+    </Child>
+    <Child ReferenceText="culture">
+      <PageReference>ADP19</PageReference>
+      <PageReference>ADP31</PageReference>
+    </Child>
+    <Child ReferenceText="examples using">
+      <PageReference>ADP5</PageReference>
+      <PageReference>ADP8</PageReference>
+      <PageReference>ADP22</PageReference>
+      <PageReference>ADP28</PageReference>
+      <PageReference>ADP29</PageReference>
+      <PageReference>ADP32</PageReference>
+      <PageReference>ADP33</PageReference>
+      <PageReference>ADP35</PageReference>
+    </Child>
+    <Child ReferenceText="genres">
+      <PageReference>ADP10</PageReference>
+    </Child>
+    <Child ReferenceText="mode">
+      <PageReference>ADP49</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>ADP4</PageReference>
+    </Child>
+    <Child ReferenceText="Pemberley">
+      <PageReference>ADP22</PageReference>
+    </Child>
+    <Child ReferenceText="premises">
+      <PageReference>ADP8</PageReference>
+    </Child>
+    <Child ReferenceText="protagonists">
+      <PageReference>ADP27</PageReference>
+    </Child>
+    <Child ReferenceText="setting">
+      <PageReference>ADP14</PageReference>
+      <PageReference>ADP18</PageReference>
+      <PageReference>ADP20</PageReference>
+      <PageReference>ADP23</PageReference>
+      <PageReference>ADP31</PageReference>
+    </Child>
+    <Child ReferenceText="tech level">
+      <PageReference>ADP19</PageReference>
+    </Child>
+    <Child ReferenceText="theme">
+      <PageReference>ADP11</PageReference>
+    </Child>
+    <Child ReferenceText="thematic actions">
+      <PageReference>ADP47</PageReference>
+    </Child>
+    <Child ReferenceText="terrains">
+      <PageReference>ADP18</PageReference>
+    </Child>
+    <Child ReferenceText="actions">
+      <PageReference>ADP47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Protagonist">
+    <PageReference>ADP6</PageReference>
+    <SeeAlso>Characters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid">
+    <SeeAlso>GURPS</SeeAlso>
+    <Child ReferenceText="#3/66: The Laws of Magic">
+      <PageReference>ADP34</PageReference>
+    </Child>
+    <Child ReferenceText="#3/82: Magical Creations">
+      <PageReference>ADP34</PageReference>
+    </Child>
+    <Child ReferenceText="#3/90: After the End">
+      <PageReference>ADP22</PageReference>
+    </Child>
+    <Child ReferenceText="#3/34: Alternate GURPS">
+      <PageReference>ADP42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rank advantage">
+    <PageReference>ADP32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realistic fiction genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Recognition">
+    <PageReference>ADP6</PageReference>
+    <PageReference>ADP24</PageReference>
+    <PageReference>ADP51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recommended books">
+    <PageReference>ADP3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reference society">
+    <PageReference>ADP19</PageReference>
+    <PageReference>ADP31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roleplaying games">
+    <Child ReferenceText="adapting">
+      <PageReference>ADP13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Romance genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sandbox">
+    <PageReference>ADP6</PageReference>
+    <PageReference>ADP25</PageReference>
+    <PageReference>ADP51</PageReference>
+    <SeeAlso>Setting</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Science fiction genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Setting">
+    <PageReference>ADP14-26</PageReference>
+    <Child ReferenceText="arenas">
+      <PageReference>ADP26</PageReference>
+    </Child>
+    <Child ReferenceText="atmosphere">
+      <PageReference>ADP6</PageReference>
+    </Child>
+    <Child ReferenceText="bases">
+      <PageReference>ADP25-26</PageReference>
+    </Child>
+    <Child ReferenceText="buildings">
+      <PageReference>ADP21-22</PageReference>
+      <PageReference>ADP42</PageReference>
+    </Child>
+    <Child ReferenceText="challenge and conflict">
+      <PageReference>ADP24</PageReference>
+    </Child>
+    <Child ReferenceText="cities">
+      <PageReference>ADP20-21</PageReference>
+    </Child>
+    <Child ReferenceText="commentary">
+      <PageReference>ADP25</PageReference>
+    </Child>
+    <Child ReferenceText="communities">
+      <PageReference>ADP20-21</PageReference>
+    </Child>
+    <Child ReferenceText="conflict and">
+      <PageReference>ADP23</PageReference>
+      <PageReference>ADP24</PageReference>
+      <PageReference>ADP26</PageReference>
+    </Child>
+    <Child ReferenceText="crucibles">
+      <PageReference>ADP26</PageReference>
+    </Child>
+    <Child ReferenceText="cultures">
+      <PageReference>ADP19</PageReference>
+    </Child>
+    <Child ReferenceText="demonstration of premises">
+      <PageReference>ADP24</PageReference>
+    </Child>
+    <Child ReferenceText="describing">
+      <PageReference>ADP14-16</PageReference>
+    </Child>
+    <Child ReferenceText="destructive environments">
+      <PageReference>ADP23</PageReference>
+    </Child>
+    <Child ReferenceText="drama and">
+      <PageReference>ADP23-26</PageReference>
+    </Child>
+    <Child ReferenceText="environments">
+      <PageReference>ADP16-20</PageReference>
+      <PageReference>ADP24-25</PageReference>
+    </Child>
+    <Child ReferenceText="example buildings">
+      <PageReference>ADP22</PageReference>
+    </Child>
+    <Child ReferenceText="example city">
+      <PageReference>ADP21</PageReference>
+    </Child>
+    <Child ReferenceText="focus">
+      <PageReference>ADP23</PageReference>
+    </Child>
+    <Child ReferenceText="hazards">
+      <PageReference>ADP26</PageReference>
+    </Child>
+    <Child ReferenceText="indirect exposition">
+      <PageReference>ADP25</PageReference>
+    </Child>
+    <Child ReferenceText="information sources">
+      <PageReference>ADP14-16</PageReference>
+    </Child>
+    <Child ReferenceText="inventing new material">
+      <PageReference>ADP16</PageReference>
+    </Child>
+    <Child ReferenceText="knowability">
+      <PageReference>ADP24</PageReference>
+    </Child>
+    <Child ReferenceText="locations">
+      <PageReference>ADP20-23</PageReference>
+      <PageReference>ADP25-26</PageReference>
+      <PageReference>ADP42</PageReference>
+    </Child>
+    <Child ReferenceText="milestones">
+      <PageReference>ADP25</PageReference>
+    </Child>
+    <Child ReferenceText="ordeals">
+      <PageReference>ADP26</PageReference>
+    </Child>
+    <Child ReferenceText="parody">
+      <PageReference>ADP25</PageReference>
+    </Child>
+    <Child ReferenceText="pathetic fallacy">
+      <PageReference>ADP6</PageReference>
+      <PageReference>ADP24</PageReference>
+    </Child>
+    <Child ReferenceText="personal domains">
+      <PageReference>ADP26</PageReference>
+    </Child>
+    <Child ReferenceText="planets">
+      <PageReference>ADP16</PageReference>
+    </Child>
+    <Child ReferenceText="politics">
+      <PageReference>ADP20</PageReference>
+    </Child>
+    <Child ReferenceText="populations">
+      <PageReference>ADP19</PageReference>
+    </Child>
+    <Child ReferenceText="puzzles">
+      <PageReference>ADP26</PageReference>
+    </Child>
+    <Child ReferenceText="retro solar system">
+      <PageReference>ADP17</PageReference>
+    </Child>
+    <Child ReferenceText="sandbox">
+      <PageReference>ADP6</PageReference>
+      <PageReference>ADP25</PageReference>
+      <PageReference>ADP51</PageReference>
+    </Child>
+    <Child ReferenceText="scale">
+      <PageReference>ADP23</PageReference>
+    </Child>
+    <Child ReferenceText="scenery">
+      <PageReference>ADP24</PageReference>
+    </Child>
+    <Child ReferenceText="sources of information">
+      <PageReference>ADP14-16</PageReference>
+    </Child>
+    <Child ReferenceText="supernatural forces">
+      <PageReference>ADP20</PageReference>
+    </Child>
+    <Child ReferenceText="terrains">
+      <PageReference>ADP18</PageReference>
+    </Child>
+    <Child ReferenceText="tests">
+      <PageReference>ADP26</PageReference>
+    </Child>
+    <Child ReferenceText="travel">
+      <PageReference>ADP24</PageReference>
+    </Child>
+    <Child ReferenceText="war">
+      <PageReference>ADP20</PageReference>
+    </Child>
+    <Child ReferenceText="wild places">
+      <PageReference>ADP22-23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shui Hu Zhuan">
+    <SeeAlso>Water Margin</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Signature Gear advantage">
+    <PageReference>ADP40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slipstream genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Regard advantage">
+    <PageReference>ADP33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma disadvantage">
+    <PageReference>ADP33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social traits">
+    <Child ReferenceText="characters">
+      <PageReference>ADP31-32</PageReference>
+      <PageReference>ADP38</PageReference>
+    </Child>
+    <Child ReferenceText="cultures">
+      <PageReference>ADP19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Solar system">
+    <Child ReferenceText="retro">
+      <PageReference>ADP17</PageReference>
+    </Child>
+    <Child ReferenceText="planets">
+      <PageReference>ADP16-17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Source works">
+    <PageReference>ADP4-5</PageReference>
+    <SeeAlso>specific works</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Status trait">
+    <PageReference>ADP31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steelbright">
+    <PageReference>ADP36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stories">
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Strength (ST) attribute">
+    <PageReference>ADP29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superheroic fiction genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural forces">
+    <PageReference>ADP20</PageReference>
+    <Child ReferenceText="struggle against">
+      <PageReference>ADP48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival skill">
+    <PageReference>ADP18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Table">
+    <Child ReferenceText="population density">
+      <PageReference>ADP19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech level (TL) 18-19">
+    <PageReference>ADP44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technologies">
+    <PageReference>ADP18-19</PageReference>
+    <PageReference>ADP44</PageReference>
+    <SeeAlso>Artifacts</SeeAlso>
+    <SeeAlso>Vehicles</SeeAlso>
+    <Child ReferenceText="research about">
+      <PageReference>ADP15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thaumatocracy">
+    <PageReference>ADP6</PageReference>
+    <Child ReferenceText="Emerald City">
+      <PageReference>ADP21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Theme">
+    <PageReference>ADP6</PageReference>
+    <PageReference>ADP11-12</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+    <SeeAlso>Campaigns</SeeAlso>
+    <Child ReferenceText="unity of action and">
+      <PageReference>ADP50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thriller genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Tin Woodman">
+    <PageReference>ADP36</PageReference>
+    <Child ReferenceText="axe">
+      <PageReference>ADP41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trope">
+    <PageReference>ADP6</PageReference>
+    <PageReference>ADP9</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+    <SeeAlso>Campaigns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Twenty Thousand Leagues Under the Sea">
+    <SeeAlso>20</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Uchronia genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Unities">
+    <Child ReferenceText="in stories">
+      <PageReference>ADP50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unreliable narrator">
+    <PageReference>ADP6</PageReference>
+    <PageReference>ADP15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background advantage">
+    <PageReference>ADP38</PageReference>
+    <PageReference>ADP45</PageReference>
+    <PageReference>ADP47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <PageReference>ADP42-43</PageReference>
+    <SeeAlso>Artifacts</SeeAlso>
+    <Child ReferenceText="as locations">
+      <PageReference>ADP22</PageReference>
+      <PageReference>ADP26</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>ADP42-43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Verisimilitude">
+    <PageReference>ADP6</PageReference>
+    <PageReference>ADP49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vingt mille lieues sous les mers">
+    <SeeAlso>20</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Water Margin (WM)">
+    <Child ReferenceText="characters">
+      <PageReference>ADP7</PageReference>
+      <PageReference>ADP25</PageReference>
+      <PageReference>ADP28</PageReference>
+      <PageReference>ADP29</PageReference>
+      <PageReference>ADP31-34</PageReference>
+      <PageReference>ADP36-37</PageReference>
+      <PageReference>ADP39</PageReference>
+      <PageReference>ADP43</PageReference>
+    </Child>
+    <Child ReferenceText="conflicts">
+      <PageReference>ADP48</PageReference>
+    </Child>
+    <Child ReferenceText="Control Rating">
+      <PageReference>ADP20</PageReference>
+    </Child>
+    <Child ReferenceText="culture">
+      <PageReference>ADP19</PageReference>
+      <PageReference>ADP31</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>ADP31</PageReference>
+      <PageReference>ADP41</PageReference>
+    </Child>
+    <Child ReferenceText="examples using">
+      <PageReference>ADP7</PageReference>
+      <PageReference>ADP8</PageReference>
+      <PageReference>ADP25</PageReference>
+      <PageReference>ADP28</PageReference>
+      <PageReference>ADP29</PageReference>
+      <PageReference>ADP32-34</PageReference>
+      <PageReference>ADP36-37</PageReference>
+      <PageReference>ADP39</PageReference>
+    </Child>
+    <Child ReferenceText="genres">
+      <PageReference>ADP10</PageReference>
+    </Child>
+    <Child ReferenceText="language">
+      <PageReference>ADP23</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>ADP34</PageReference>
+    </Child>
+    <Child ReferenceText="martial-arts style">
+      <PageReference>ADP31</PageReference>
+    </Child>
+    <Child ReferenceText="mode">
+      <PageReference>ADP49</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>ADP4</PageReference>
+    </Child>
+    <Child ReferenceText="premises">
+      <PageReference>ADP8</PageReference>
+    </Child>
+    <Child ReferenceText="protagonists">
+      <PageReference>ADP27</PageReference>
+    </Child>
+    <Child ReferenceText="setting">
+      <PageReference>ADP18</PageReference>
+      <PageReference>ADP20</PageReference>
+      <PageReference>ADP23</PageReference>
+      <PageReference>ADP31</PageReference>
+    </Child>
+    <Child ReferenceText="special abilities">
+      <PageReference>ADP34</PageReference>
+    </Child>
+    <Child ReferenceText="tech level">
+      <PageReference>ADP19</PageReference>
+    </Child>
+    <Child ReferenceText="terrains">
+      <PageReference>ADP18</PageReference>
+    </Child>
+    <Child ReferenceText="theme">
+      <PageReference>ADP12</PageReference>
+    </Child>
+    <Child ReferenceText="wild places">
+      <PageReference>ADP22</PageReference>
+    </Child>
+    <Child ReferenceText="actions">
+      <PageReference>ADP47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth trait">
+    <PageReference>ADP31-32</PageReference>
+    <PageReference>ADP38</PageReference>
+    <PageReference>ADP45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Bond perk">
+    <PageReference>ADP40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment Bond perk">
+    <PageReference>ADP40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Winged Monkeys">
+    <PageReference>ADP45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wonderful Wizard of Oz, The (WWOz), characters">
+    <PageReference>ADP25</PageReference>
+    <PageReference>ADP28</PageReference>
+    <PageReference>ADP29</PageReference>
+    <PageReference>ADP32</PageReference>
+    <PageReference>ADP33</PageReference>
+    <PageReference>ADP35</PageReference>
+    <PageReference>ADP36</PageReference>
+    <PageReference>ADP39</PageReference>
+    <PageReference>ADP41</PageReference>
+    <PageReference>ADP44</PageReference>
+    <PageReference>ADP45</PageReference>
+    <PageReference>ADP51</PageReference>
+    <Child ReferenceText="Control Rating">
+      <PageReference>ADP20</PageReference>
+    </Child>
+    <Child ReferenceText="culture">
+      <PageReference>ADP19</PageReference>
+      <PageReference>ADP31</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>ADP41</PageReference>
+      <PageReference>ADP45</PageReference>
+      <PageReference>ADP51</PageReference>
+    </Child>
+    <Child ReferenceText="examples using">
+      <PageReference>ADP14</PageReference>
+      <PageReference>ADP24</PageReference>
+      <PageReference>ADP24</PageReference>
+      <PageReference>ADP27-29</PageReference>
+      <PageReference>ADP32</PageReference>
+      <PageReference>ADP33</PageReference>
+      <PageReference>ADP36</PageReference>
+      <PageReference>ADP39</PageReference>
+      <PageReference>ADP41</PageReference>
+      <PageReference>ADP44</PageReference>
+      <PageReference>ADP45</PageReference>
+    </Child>
+    <Child ReferenceText="Kalidahs">
+      <PageReference>ADP44</PageReference>
+    </Child>
+    <Child ReferenceText="mood">
+      <PageReference>ADP11</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>ADP5</PageReference>
+    </Child>
+    <Child ReferenceText="setting">
+      <PageReference>ADP18</PageReference>
+      <PageReference>ADP20</PageReference>
+      <PageReference>ADP31</PageReference>
+    </Child>
+    <Child ReferenceText="premises">
+      <PageReference>ADP8</PageReference>
+    </Child>
+    <Child ReferenceText="protagonists">
+      <PageReference>ADP27</PageReference>
+    </Child>
+    <Child ReferenceText="tech level">
+      <PageReference>ADP19</PageReference>
+    </Child>
+    <Child ReferenceText="terrains">
+      <PageReference>ADP18</PageReference>
+    </Child>
+    <Child ReferenceText="theme">
+      <PageReference>ADP12</PageReference>
+    </Child>
+    <Child ReferenceText="wild places">
+      <PageReference>ADP22</PageReference>
+    </Child>
+    <Child ReferenceText="Winged Monkeys">
+      <PageReference>ADP45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wuxia genre">
+    <PageReference>ADP10</PageReference>
+    <SeeAlso>High Concept</SeeAlso>
+  </IndexReference>
+</IndexReferenceCollection>

@@ -1,0 +1,2836 @@
+<?xml version="1.0"?>
+<IssueCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+	<Issue ReleaseDate="2008-11-01T00:00:00" Title="Tools of the Trade - Wizards" Url="http://e23.sjgames.com/item.html?id=SJG37-2601" Volume="3" Number="1">
+		<Article Name="Guildhall Of The Hermetic Brotherhood">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Necromantic Tools">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Tooling With Curses">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Wizard's Letter">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Out Of The Rough: Magic Gems In RPGs">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="&quot;.&quot; Is For Full-Stop Drum">
+			<Author>Stefan Jones</Author>
+		</Article>
+		<Article Name="Random Thought Table">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Recommended Reading: Tools Of The Trade">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Recommended Reading: Wizards And Gaming">
+			<Author>Matthew Pook</Author>
+		</Article>
+		<Article Name="Last Word with Chad Underkoffler">
+			<Author>Uncredited</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2008-12-01T00:00:00" Title="Looks Like a Job for... Superheroes" Url="http://e23.sjgames.com/item.html?id=SJG37-2602" Volume="3" Number="2">
+		<Article Name="White Nights And Red Gods">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Small-Time Conquerors">
+			<Author>Brian Rogers</Author>
+		</Article>
+		<Article Name="Powers As Metaphors">
+			<Author>Brian Rogers</Author>
+		</Article>
+		<Article Name="Superhero Newspaper">
+			<Author>Stephen Dedman</Author>
+		</Article>
+		<Article Name="Random Thought Table">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Recommended Reading: This Looks Like A Job For ...">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Recommended Reading: No Capes!">
+			<Author>Matthew Pook</Author>
+		</Article>
+		<Article Name="Last Word with Steve Long">
+			<Author>Uncredited</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2009-01-01T00:00:00" Title="Venturing Into the Badlands" Url="http://e23.sjgames.com/item.html?id=SJG37-2603" Volume="3" Number="3">
+		<Article Name="Deathball">
+			<Author>Peter Dell'Orto</Author>
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Infinite Crossroads: Survivor's Moon">
+			<Author>Paul Drye</Author>
+		</Article>
+		<Article Name="Zippemart">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Name That Apocalypse">
+			<Author>Nicholas Lovell</Author>
+		</Article>
+		<Article Name="Signs Of The Times">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="The Day The World Broke">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Omniscient Eye: Does My Nuclear Arsenal Have An Expiration Date?">
+			<Author>Roger Burton West</Author>
+			<Author>John Dallman</Author>
+		</Article>
+		<Article Name="Omniscient Eye: Are Humans  A Renewable Resource?">
+			<Author>Geoffrey Brent</Author>
+		</Article>
+		<Article Name="Random Thought Table">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Recommended Reading: So This Is It. We're All Going To Die">
+			<Author>Matthew Pook</Author>
+		</Article>
+		<Article Name="Last Word with Todd Breitenstein">
+			<Author>Uncredited</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2009-02-01T00:00:00" Title="Magic on the Battlefield" Url="http://e23.sjgames.com/item.html?id=SJG37-2604" Volume="3" Number="4">
+		<Article Name="The Society Of Siege Sorcerers">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Perfect Defense">
+			<Author>Kelly Pedersen</Author>
+		</Article>
+		<Article Name="Supporting Cast: The Vulture Squad">
+			<Author>Brian Rogers</Author>
+		</Article>
+		<Article Name="Battle Strategies based on Gurps Mass Combat">
+			<Author>David Pulver</Author>
+		</Article>
+		<Article Name="Magic And Naval Warfare">
+			<Author>Demi Benson</Author>
+		</Article>
+		<Article Name="Our Wyrds At War">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Recommended Reading: What You Need For The Battlefield">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Recommended Reading: Sufficiently Advanced Magic Is Indistinguishable From Artillery">
+			<Author>Matthew Pook</Author>
+		</Article>
+		<Article Name="Last Word with Jeff Vogel">
+			<Author>Uncredited</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2009-03-01T00:00:00" Title="Horror &amp; Spies" Url="http://e23.sjgames.com/item.html?id=SJG37-2605" Volume="3" Number="5">
+		<Article Name="The X-Terminators">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="A Very Cold War: An Atomic Horror Espionage Adventure For Gurps">
+			<Author>James L. Cambias</Author>
+		</Article>
+		<Article Name="Code Words">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="The Black Chamber: An Agency For Decrypting The End Times">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="The Bricks Of Marù-Dù">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Random Thought Table">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Recommended Reading: Exposing The Spies And The Horrors">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Recommended Reading: Espionage + Horror = Conspiracy">
+			<Author>Matthew Pook</Author>
+		</Article>
+		<Article Name="Last Word with Eloy Lasanta">
+			<Author>Uncredited</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2009-04-01T00:00:00" Title="Space Colony Alpha" Url="http://e23.sjgames.com/item.html?id=SJG37-2606" Volume="3" Number="6">
+		<Article Name="Surprises From Mother Nature">
+			<Author>Kelly Pedersen</Author>
+		</Article>
+		<Article Name="When The Dark Eats You">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="How To Build Tomorrow">
+			<Author>Christian Nienhaus</Author>
+		</Article>
+		<Article Name="Your Very Own Space Colony">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="The Super Colony">
+			<Author>Brian Rogers</Author>
+		</Article>
+		<Article Name="Reaching The Stars">
+			<Author>Chris Wong Sick Hong</Author>
+		</Article>
+		<Article Name="Random Thought Table: How Far Do You Need To Go?!">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Recommended Reading: Colonizing The Stars">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Recommended Reading: A New Life Awaits You!">
+			<Author>Matthew Pook</Author>
+		</Article>
+		<Article Name="Last Word with Ken Burnside">
+			<Author>Uncredited</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2009-05-01T00:00:00" Title="Urban Fantasy" Url="http://e23.sjgames.com/item.html?id=SJG37-2607" Volume="3" Number="7">
+		<Article Name="The New Kingdom">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Of Sound And Signs">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Gangs And Magical Traditions">
+			<Author>Filamena Young</Author>
+		</Article>
+		<Article Name="Streets With No Names">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Supporting Cast: Little Bits Of Magic">
+			<Author>Paul Stefko</Author>
+		</Article>
+		<Article Name="Random Thought Table: Adjusting Bedknobs And Calibrating Broomsticks">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Recommended Reading: Urban Fantasy Run Wild">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Recommended Reading: Defining Urban Fantasy">
+			<Author>Matthew Pook</Author>
+		</Article>
+		<Article Name="Last Word with Matt Riggsby">
+			<Author>Uncredited</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2009-06-01T00:00:00" Title="Cliffhangers" Url="http://e23.sjgames.com/item.html?id=SJG37-2608" Volume="3" Number="8">
+		<Article Name="Pulp Action!">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Air Devils Of The South Seas">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Cliffhanger Country Checklist">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Into The Temple Of The Hungry Star!">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table: Three Ways To Hang Off Cliffs">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Recommended Reading: What You Need For Adventure">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Recommended Reading: Stand By For Action!">
+			<Author>Matthew Pook</Author>
+		</Article>
+		<Article Name="Last Word with Leonard Balsera">
+			<Author>Uncredited</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2009-07-01T00:00:00" Title="Space Opera" Url="http://e23.sjgames.com/item.html?id=SJG37-2609" Volume="3" Number="9">
+		<Article Name="Doomsday Weapons">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Designer's Notes: Gurps Psionic Powers">
+			<Author>Rev. Jason "P.K." Levine</Author>
+		</Article>
+		<Article Name="Space-Opera Scanner">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Fight The Future">
+			<Author>Kelly Pedersen</Author>
+		</Article>
+		<Article Name="Terra Incognita: Tangaroa">
+			<Author>Stephen Dedman</Author>
+		</Article>
+		<Article Name="Random Thought Table: Four Tips For Space-Opera Games">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Recommended Reading: Grand, Sweeping Gestures">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Recommended Reading: Space Is Big">
+			<Author>Matthew Pook</Author>
+		</Article>
+		<Article Name="Last Word with Chris Birch">
+			<Author>Uncredited</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2009-08-01T00:00:00" Title="Crime and Grime" Url="http://e23.sjgames.com/item.html?id=SJG37-2610" Volume="3" Number="10">
+		<Article Name="The Justiciar">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="On De Medici's Secret Service">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Map Of Renaissance Firenze">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Holy Dirty Money">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Deal The Loot">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Dominion">
+			<Author>Kyla Ward</Author>
+		</Article>
+		<Article Name="Cruel And Unusual">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Random Thought Table: Magic And The Law">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Recommended Reading: Meting Out Justice">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Recommended Reading: Grime And The Detective">
+			<Author>Matthew Pook</Author>
+		</Article>
+		<Article Name="Last Word with Simon Washbourne">
+			<Author>Uncredited</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2009-09-01T00:00:00" Title="Cinematic Locations" Url="http://e23.sjgames.com/item.html?id=SJG37-2611" Volume="3" Number="11">
+		<Article Name="Going Places!">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="The Shady Rest Roadhouse">
+			<Author>Loren K. Wiseman</Author>
+		</Article>
+		<Article Name="The Office Building">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="The Temple Of Sobek, The Crocodile God">
+			<Author>S.E. Mortimer</Author>
+		</Article>
+		<Article Name="The Immensity">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Alternate Locations">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Random Thought Table: Locations Are People, Too">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Recommended Reading: There And Back Again And Blowing It Up">
+			<Author>Matthew Pook</Author>
+		</Article>
+		<Article Name="Appendix Z: Hall Of Mirrors">
+			<Author>Uncredited</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2009-10-01T00:00:00" Title="Tech and Toys" Url="http://e23.sjgames.com/item.html?id=SJG37-2612" Volume="3" Number="12">
+		<Article Name="More Ultra! More Tech!">
+			<Author>Demi Benson</Author>
+		</Article>
+		<Article Name="Paper Cells">
+			<Author>Brian Ranzoni</Author>
+		</Article>
+		<Article Name="Tracking Cards">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Psi-Powered Imbuements">
+			<Author>Rev. Jason "P.K." Levine</Author>
+		</Article>
+		<Article Name="The Nectar Box">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table: No Market For Used Plasma Grenades">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="More Survival And Camping Gear">
+			<Author>Stephen Dedman</Author>
+		</Article>
+		<Article Name="Appendix Z: Reality Backup, Inc">
+			<Author>Uncredited</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2009-11-01T00:00:00" Title="Thaumatology" Url="http://e23.sjgames.com/item.html?id=SJG37-2613" Volume="3" Number="13">
+		<Article Name="The Magic Of Stories">
+			<Author>Kelly Pedersen</Author>
+		</Article>
+		<Article Name="The Mystic Knight">
+			<Author>Antoni Ten Monrós</Author>
+		</Article>
+		<Article Name="Wizard's Squares">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Salving Magic">
+			<Author>Demi Benson</Author>
+		</Article>
+		<Article Name="The Book Of Null">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Red Diabolism">
+			<Author>Mark Gellis</Author>
+		</Article>
+		<Article Name="Random Thought Table: Of Mundane Magic And Middle-School Munchkinry">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2009-12-01T00:00:00" Title="Martial Arts" Url="http://e23.sjgames.com/item.html?id=SJG37-2614" Volume="3" Number="14">
+		<Article Name="Hardcore">
+			<Author>Stephen Dedman</Author>
+		</Article>
+		<Article Name="The Three Brothers Schools Of Martial Arts">
+			<Author>Alan Leddon</Author>
+		</Article>
+		<Article Name="Fight While In Flight">
+			<Author>Kelly Pedersen</Author>
+		</Article>
+		<Article Name="Instant Tournament">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="The Groom Of The Spider Princess">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table: No Blood, No Guts, No Problem!">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Appendix Z: The Crumbling Ground">
+			<Author>Uncredited</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2010-01-01T00:00:00" Title="Transhuman Space" Url="http://e23.sjgames.com/item.html?id=SJG37-2615" Volume="3" Number="15">
+		<Article Name="Transhuman Action!">
+			<Author>Phil Masters</Author>
+		</Article>
+		<Article Name="42 Fedorov Road">
+			<Author>David Pulver</Author>
+		</Article>
+		<Article Name="Dark Places Of The Earth">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Earth-Mars Calendar">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Inhuman Space">
+			<Author>William H. Stoddard</Author>
+		</Article>
+		<Article Name="Big Media Memetics">
+			<Author>Grant Davis</Author>
+		</Article>
+		<Article Name="Random Thought Table: Space Is A Time And A Place">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2010-02-01T00:00:00" Title="Historical Exploration" Url="http://e23.sjgames.com/item.html?id=SJG37-2616" Volume="3" Number="16">
+		<Article Name="An Age Of Sails">
+			<Author>Kelly Pedersen</Author>
+		</Article>
+		<Article Name="City Of The Caesars">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Minding Your Manners">
+			<Author>Alan Leddon</Author>
+		</Article>
+		<Article Name="Expedition Log">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Languages, Culture, And The Common Tongue">
+			<Author>Demi Benson</Author>
+		</Article>
+		<Article Name="The Vikings In The Atlantic">
+			<Author>Graeme Davis</Author>
+		</Article>
+		<Article Name="The Fountain Of Youth">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Random Thought Table: You Can't Explore New Worlds Without Proper Permits">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2010-03-01T00:00:00" Title="Modern Exploration" Url="http://e23.sjgames.com/item.html?id=SJG37-2617" Volume="3" Number="17">
+		<Article Name="The Map's Dark Spaces">
+			<Author>Kelly Pedersen</Author>
+		</Article>
+		<Article Name="The Black Box">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Curious Coins">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Mummy Amulets">
+			<Author>Graeme Davis</Author>
+		</Article>
+		<Article Name="Shovel Bums">
+			<Author>Ken Spencer</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Accidental Explorer">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Appendix Z: The Secret Of The Lost ________">
+			<Author>Uncredited</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2010-04-01T00:00:00" Title="Space Exploration" Url="http://e23.sjgames.com/item.html?id=SJG37-2618" Volume="3" Number="18">
+		<Article Name="Shores Beyond The Night">
+			<Author>Kelly Pedersen</Author>
+		</Article>
+		<Article Name="Close Encounters Of The Unwanted Kind">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Ruins And More">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Cold Horizon">
+			<Author>Mark Gellis</Author>
+		</Article>
+		<Article Name="Secondhand Space Exploration: The Power Of Probes">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Looting Your Life Pod's Locker">
+			<Author>Ken Spencer</Author>
+		</Article>
+		<Article Name="Random Thought Table: In An Infinitely Mundane Cosmos, The Only Impossibility Is Boredom">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2010-05-01T00:00:00" Title="Tools of the Trade - Clerics" Url="http://e23.sjgames.com/item.html?id=SJG37-2619" Volume="3" Number="19">
+		<Article Name="Auras Of Power">
+			<Author>Antoni Ten Monrós</Author>
+		</Article>
+		<Article Name="The Sin Eaters: An Unclean Clerical Calling">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Warehouse Xxiii: Three Holy Artifacts">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Miraculous Events!">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Templars: The Fighting Priests">
+			<Author>Graeme Davis</Author>
+		</Article>
+		<Article Name="The Tricks Of The Shaman">
+			<Author>Alan Leddon</Author>
+		</Article>
+		<Article Name="Sanctuary And Right Of Clergy">
+			<Author>Stephen Dedman</Author>
+		</Article>
+		<Article Name="Random Thought Table: Turning Clerics By Doing An About Faith">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2010-06-01T00:00:00" Title="Infinite Worlds" Url="http://e23.sjgames.com/item.html?id=SJG37-2620" Volume="3" Number="20">
+		<Article Name="Infinite Teleportation">
+			<Author>Jason "Pk" Levine</Author>
+		</Article>
+		<Article Name="Roma Universalis">
+			<Author>Ken Spencer</Author>
+		</Article>
+		<Article Name="The Red Rockets' Glare">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Cyberme">
+			<Author>Mark Gellis</Author>
+		</Article>
+		<Article Name="More Hell Parallels">
+			<Author>Stephen Dedman</Author>
+		</Article>
+		<Article Name="Random Thought Table: An Infinite Road Map">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2010-07-01T00:00:00" Title="Cyberpunk" Url="http://e23.sjgames.com/item.html?id=SJG37-2621" Volume="3" Number="21">
+		<Article Name="Console Cowboys And Cyberspace Kung Fu">
+			<Author>W.A. Frick</Author>
+		</Article>
+		<Article Name="Down In The Mall">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="The Treasure Of Joni Monorail">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Action Cyberdeck">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="The Voices In My Head">
+			<Author>Ken Spencer</Author>
+		</Article>
+		<Article Name="Keeping It Real">
+			<Author>Paul Blackwell</Author>
+		</Article>
+		<Article Name="Random Thought Table: A Spoonful Of Cyber Helps The Megacorp Go Down">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2010-08-01T00:00:00" Title="Banestorm" Url="http://e23.sjgames.com/item.html?id=SJG37-2622" Volume="3" Number="22">
+		<Article Name="Ansonne: The Black Heart Of Araterre">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Places To Come From: Heroic Origins On Yrth">
+			<Author>Phil Masters</Author>
+		</Article>
+		<Article Name="Whatever Happened To... ?">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Arvey: The City Of Silver Hills">
+			<Author>Paul Stefko</Author>
+		</Article>
+		<Article Name="The Crystal Wilds">
+			<Author>C.J. Miozzi</Author>
+		</Article>
+		<Article Name="Random Thought Table: A World Of Magic, A World Of Fear">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2010-09-01T00:00:00" Title="Action Adventures" Url="http://e23.sjgames.com/item.html?id=SJG37-2623" Volume="3" Number="23">
+		<Article Name="Blowups Happen">
+			<Author>Stephen Dedman</Author>
+		</Article>
+		<Article Name="Night Of The Megacarp">
+			<Author>Ken Spencer</Author>
+		</Article>
+		<Article Name="Chase Cards">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Operation Sun Dog: Against The Fourth Reich In Neuschwabenland">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Calamity Road">
+			<Author>Timothy J. Turnipseed</Author>
+		</Article>
+		<Article Name="Random Thought Table: Defanging The Jaws Of Death">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2010-10-01T00:00:00" Title="Bio-Tech" Url="http://e23.sjgames.com/item.html?id=SJG37-2624" Volume="3" Number="24">
+		<Article Name="Biomecha">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Martian Tech">
+			<Author>Ken Spencer</Author>
+		</Article>
+		<Article Name="Biomod Location Sheet">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Terra Incognita: Adleman Bank">
+			<Author>C.J. Miozzi</Author>
+		</Article>
+		<Article Name="Better Living Through Pharmaceuticals">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="The Children Of Inzanami">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table: Ooze And Ahs">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2010-11-01T00:00:00" Title="Epic Magic" Url="http://e23.sjgames.com/item.html?id=SJG37-2625" Volume="3" Number="25">
+		<Article Name="All The Epic Ways">
+			<Author>Mark Gellis</Author>
+		</Article>
+		<Article Name="The Skystone Castle And Other Wonders">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Essential Magic">
+			<Author>Antoni Ten Monrós</Author>
+		</Article>
+		<Article Name="Warehouse XXIII: Al-Abyad's Astrolabe">
+			<Author>C.J. Miozzi</Author>
+		</Article>
+		<Article Name="The World Maker">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Quartermaster Mage">
+			<Author>Marcus Connors</Author>
+		</Article>
+		<Article Name="Random Thought Table: Mighty-Or-Mighty-Not Magic">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2010-12-01T00:00:00" Title="Underwater Adventures" Url="http://e23.sjgames.com/item.html?id=SJG37-2626" Volume="3" Number="26">
+		<Article Name="Gurps Fathom Five">
+			<Author>Roger Burton West</Author>
+		</Article>
+		<Article Name="The Wreck Of The Savoy">
+			<Author>Ken Spencer</Author>
+		</Article>
+		<Article Name="The Yonaguni Monument">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="The Ocean's Lords">
+			<Author>Alan Leddon</Author>
+			<Author>Bekki Leddon</Author>
+		</Article>
+		<Article Name="The Future Of The U-42">
+			<Author>Timothy J. Turnipseed</Author>
+		</Article>
+		<Article Name="The Hotel Nethuns">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Random Thought Table: Fathoming Water">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2011-01-01T00:00:00" Title="Monsters in Space" Url="http://e23.sjgames.com/item.html?id=SJG37-2627" Volume="3" Number="27">
+		<Article Name="Moondragons And Stranger Things">
+			<Author>Ken Spencer</Author>
+		</Article>
+		<Article Name="The Angriest Invasion Of Earth">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Aliens On Hand">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="A Well-Armed Populace">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="In Space, No One Hears Them Crawl">
+			<Author>Christian Nienhaus</Author>
+		</Article>
+		<Article Name="Creatures Of The Void">
+			<Author>Rev. Jason "Pk" Levine</Author>
+		</Article>
+		<Article Name="Random Thought Table: What's Dangerous About Space? Nothing!">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2011-02-01T00:00:00" Title="Thaumatology II" Url="http://e23.sjgames.com/item.html?id=SJG37-2628" Volume="3" Number="28">
+		<Article Name="It's Pure Chemistry!">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Yellow Goblin Magic">
+			<Author>Mark Gellis</Author>
+		</Article>
+		<Article Name="Ceremonial Magic Made Easy">
+			<Author>W.A. Frick</Author>
+		</Article>
+		<Article Name="The Promethians: A Meta-Magical Conspiracy">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Ten Ways To Destroy The World With Magic">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Random Thought Table: Everything I Know I Learned From Mordor">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2011-03-01T00:00:00" Title="Psionics" Url="http://e23.sjgames.com/item.html?id=SJG37-2629" Volume="3" Number="29">
+		<Article Name="Expanded Psychokinesis">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Random Psionic Tables">
+			<Author>Antoni Ten Monrós</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Magic As Psi">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Edge Of Psience">
+			<Author>Kenneth Peters</Author>
+		</Article>
+		<Article Name="Thoughtjustice">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Tokyo Psience Police">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Random Thought Table: With A Mighty Mind">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Appendix Z: Averting Psychic Disasters!">
+			<Author>Rev. Jason "Pk" Levine</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2011-04-01T00:00:00" Title="Spaceships" Url="http://e23.sjgames.com/item.html?id=SJG37-2630" Volume="3" Number="30">
+		<Article Name="Practical Astromancy">
+			<Author>Kenneth Peters</Author>
+		</Article>
+		<Article Name="One With The Ship">
+			<Author>W.A. Frick</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Mass Combat In Space">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Sky Galleys">
+			<Author>Ken Spencer</Author>
+		</Article>
+		<Article Name="Hunter-Gatherer">
+			<Author>Stephen Dedman</Author>
+		</Article>
+		<Article Name="Random Thought Table: Home Is A Starfaring Castle">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2011-05-01T00:00:00" Title="Monster Hunters" Url="http://e23.sjgames.com/item.html?id=SJG37-2631" Volume="3" Number="31">
+		<Article Name="Last Stand On Mason Drive">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Monster Hunter Firepower At The Movies">
+			<Author>Hans-Christian Vortisch</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Horror Out Of Dreams">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Network">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Pulp Hunters!">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Optimism Of A Darker, Deadlier World">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Inspirational Fiction">
+			<Author>Jason "Pk" Levine</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2011-06-01T00:00:00" Title="Fears of Days Past" Url="http://e23.sjgames.com/item.html?id=SJG37-2632" Volume="3" Number="32">
+		<Article Name="Creatures From The Pit">
+			<Author>Stephen Dedman</Author>
+		</Article>
+		<Article Name="Dominion Day">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Penanggalan">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Typewriters Of Terror">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Driving Us Mad">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="The Air Loom">
+			<Author>Graeme Davis</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Appeal Of The Past">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2011-07-01T00:00:00" Title="Low-Tech" Url="http://e23.sjgames.com/item.html?id=SJG37-2633" Volume="3" Number="33">
+		<Article Name="The Deadly Spring">
+			<Author>Douglas H. Cole</Author>
+		</Article>
+		<Article Name="At Play In The Fields">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Medieval Prisons">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="A Killing Breath">
+			<Author>Thomas Weigel</Author>
+		</Article>
+		<Article Name="Roman Technology">
+			<Author>Kenneth Peters</Author>
+		</Article>
+		<Article Name="Random Thought Table">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2011-08-01T00:00:00" Title="Alternate Gurps" Url="http://e23.sjgames.com/item.html?id=SJG37-2634" Volume="3" Number="34">
+		<Article Name="Alternate Spaceships">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="A New Take On Grappling">
+			<Author>Ken Clary</Author>
+		</Article>
+		<Article Name="When We Were Very Small">
+			<Author>Mark Gellis</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Extreme Damage">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Ten Tweaks To Customize Combat">
+			<Author>T Bone</Author>
+		</Article>
+		<Article Name="A Deck Of Dice">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Armor Revisited">
+			<Author>Douglas H. Cole</Author>
+		</Article>
+		<Article Name="Random Thought Table: I Never Meta-Rule I Didn't Like">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2011-09-01T00:00:00" Title="Aliens" Url="http://e23.sjgames.com/item.html?id=SJG37-2635" Volume="3" Number="35">
+		<Article Name="Alien Disadvantages">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="The Trojan Gambit">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="Making Something Alien">
+			<Author>Alan Leddon</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Wargrave Station">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Well Past Alien">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Alien Starting Conditions">
+			<Author>Stephen P. Kohler</Author>
+		</Article>
+		<Article Name="First Contact">
+			<Author>Megan McDonald</Author>
+		</Article>
+		<Article Name="Random Thought Table: A Plethora Of Problems">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2011-10-01T00:00:00" Title="Dungeon Fantasy" Url="http://e23.sjgames.com/item.html?id=SJG37-2636" Volume="3" Number="36">
+		<Article Name="The Demolisher">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Dungeon Saints">
+			<Author>Antoni Ten Monrós</Author>
+		</Article>
+		<Article Name="The Musketeer">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Horrific Dungeon">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Powering Up: Imbuements">
+			<Author>W.A. Frick</Author>
+		</Article>
+		<Article Name="Historically Rich Dungeons">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="All Charged Up Over Magic Items">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Joy Of Hex">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2011-11-01T00:00:00" Title="Tech and Toys II" Url="http://e23.sjgames.com/item.html?id=SJG37-2637" Volume="3" Number="37">
+		<Article Name="Starmaker, Starbreaker">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Blaster And Laser Design">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Thinking Machines">
+			<Author>Thomas Weigel</Author>
+		</Article>
+		<Article Name="More Ultra-Tech Guns And Heavy Weapons">
+			<Author>Mark Gellis</Author>
+		</Article>
+		<Article Name="Mr. Fixit">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Future Home Tech">
+			<Author>Alan Leddon</Author>
+		</Article>
+		<Article Name="The Killer Cleanbot">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="Random Thought Table: Echos And Repercussions">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2011-12-01T00:00:00" Title="The Power of Myth" Url="http://e23.sjgames.com/item.html?id=SJG37-2638" Volume="3" Number="38">
+		<Article Name="The Golden Geniza Of Ezkali">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Seven Mythical Artifacts For Dungeon Fantasy">
+			<Author>Antoni Ten Monrós</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Baba Yaga">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Journey Of The Dead">
+			<Author>Kyla Ward</Author>
+		</Article>
+		<Article Name="The Bear Myth">
+			<Author>Alan Leddon</Author>
+		</Article>
+		<Article Name="Babylon Rising">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Art Of Prophecy">
+			<Author>Megan McDonald</Author>
+		</Article>
+		<Article Name="Random Thought Table: Mything Around">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2012-01-01T00:00:00" Title="Steampunk" Url="http://e23.sjgames.com/item.html?id=SJG37-2639" Volume="3" Number="39">
+		<Article Name="Order Of Precedence">
+			<Author>William H. Stoddard</Author>
+		</Article>
+		<Article Name="Across Africa With Iron And Steam">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Necromenschen">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Clankers">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="A Whisper In The Sky">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="The Mohocks">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Right Tech From Finish To Start">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2012-02-01T00:00:00" Title="Vehicles" Url="http://e23.sjgames.com/item.html?id=SJG37-2640" Volume="3" Number="40">
+		<Article Name="Mecha Operations">
+			<Author>Kenneth Peters</Author>
+		</Article>
+		<Article Name="The Arsenal Of Mageocracy">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Hot Rides!">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Things Fall Apart">
+			<Author>Jason Brick</Author>
+		</Article>
+		<Article Name="Spirited Rides">
+			<Author>Alan Leddon</Author>
+		</Article>
+		<Article Name="The Between-Space">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table: Driven To Heroism">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2012-03-01T00:00:00" Title="Fantasy World Building" Url="http://e23.sjgames.com/item.html?id=SJG37-2641" Volume="3" Number="41">
+		<Article Name="The Turning Points Of History">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Shadowland Runners">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="Eidetic Memory: God Is Dead">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="In The Jungle">
+			<Author>Jason Brick</Author>
+		</Article>
+		<Article Name="The Gnomish Mafia">
+			<Author>Megan McDonald</Author>
+		</Article>
+		<Article Name="The Children Of The Coming Darkness">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="The Duodecennial Deviations">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Spirits In Everyday Life">
+			<Author>Alan Leddon</Author>
+		</Article>
+		<Article Name="Random Thought Table: The World-Building Of Rules">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2012-04-01T00:00:00" Title="Noir" Url="http://e23.sjgames.com/item.html?id=SJG37-2642" Volume="3" Number="42">
+		<Article Name="The Zephyr Club">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="The Gameable Bouncer">
+			<Author>Jason Brick</Author>
+		</Article>
+		<Article Name="Human, Flawed">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="The Gathering Will">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="The House Of The Sun">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="The Femme Fatale">
+			<Author>Cal Godot</Author>
+		</Article>
+		<Article Name="Random Thought Table: A Million Ways To Fail In The Naked City">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2012-05-01T00:00:00" Title="Thaumatology III" Url="http://e23.sjgames.com/item.html?id=SJG37-2643" Volume="3" Number="43">
+		<Article Name="Adelphos Dionysos">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Cultists Of The Elder Gods">
+			<Author>Antoni Ten Monrós</Author>
+		</Article>
+		<Article Name="Bottled Magic">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Ghoul Magic">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Missioners">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Magic As Technological Progress">
+			<Author>David Lichtenstein</Author>
+		</Article>
+		<Article Name="Real Weird Books">
+			<Author>Rebecca Seidel</Author>
+		</Article>
+		<Article Name="Random Thought Table * A Box Labeled: To Pandora">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2012-06-01T00:00:00" Title="Alternate Gurps II" Url="http://e23.sjgames.com/item.html?id=SJG37-2644" Volume="3" Number="44">
+		<Article Name="The Last Gasp">
+			<Author>Douglas H. Cole</Author>
+		</Article>
+		<Article Name="From Skills To Advantages">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Colorless Green Ideas Sleep Furiously">
+			<Author>Roger Burton West</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Tactical Mass Combat">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Abstract Wealth">
+			<Author>Jason Brick</Author>
+		</Article>
+		<Article Name="Random Thought Table: A Niche To Scratch">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Appendix Z: Survivable Guns">
+			<Author>David L. Pulver</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2012-07-01T00:00:00" Title="Monsters" Url="http://e23.sjgames.com/item.html?id=SJG37-2645" Volume="3" Number="45">
+		<Article Name="Inhuman Options">
+			<Author>Jason "Pk" Levine</Author>
+		</Article>
+		<Article Name="The Sad Lost God">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Zombie Predators">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Half Alive">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="The Formation">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="The Wild Hunt">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="A Corrupt System">
+			<Author>Bekki Leddon</Author>
+		</Article>
+		<Article Name="Random Thought Table: On Evil And Integers">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2012-08-01T00:00:00" Title="Weird Science" Url="http://e23.sjgames.com/item.html?id=SJG37-2646" Volume="3" Number="46">
+		<Article Name="The Power Of Weird Science">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Dangerous Concoctions">
+			<Author>Rev. Jason "Pk" Levine</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Red Science">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Metatronic Generators">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Fantasy-Tech 2000">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="The Daughter Of Necessity">
+			<Author>Roger Burton West</Author>
+		</Article>
+		<Article Name="What Is Weird Science?">
+			<Author>Cal Godot</Author>
+		</Article>
+		<Article Name="Random Thought Table: Out Standing In My Field, All Alone">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Appendix Z: Super Costumes">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2012-09-01T00:00:00" Title="The Rogue's Life" Url="http://e23.sjgames.com/item.html?id=SJG37-2647" Volume="3" Number="47">
+		<Article Name="May The Shadows Guide You">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Who's Gonna Buy This?">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="A Brief History Of The Thieves' Guild">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Monster Slavers">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Emperor's Finest">
+			<Author>Kenneth Peters</Author>
+		</Article>
+		<Article Name="Safes And How To Open Them">
+			<Author>Roger Burton West</Author>
+		</Article>
+		<Article Name="Dealing With Rogues">
+			<Author>Megan McDonald</Author>
+		</Article>
+		<Article Name="Random Thought Table: Look At What's Already In The Closet">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2012-10-01T00:00:00" Title="Secret Magic" Url="http://e23.sjgames.com/item.html?id=SJG37-2648" Volume="3" Number="48">
+		<Article Name="Magical Tradecraft">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="The Way Of The Keepers">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="The Street Sign Of The Four">
+			<Author>Loki Carbis</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Bibliomancy">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The First Resistance">
+			<Author>David Lichtenstein</Author>
+		</Article>
+		<Article Name="The Accidental Magus">
+			<Author>Jason Brick</Author>
+		</Article>
+		<Article Name="The Guard Of The Black Lands">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table: Forewarned Is Forearmed">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Odds And Ends: Anything for Power">
+			<Author>William H. Stoddard</Author>
+		</Article>
+		<Article Name="Appendix Z: Onomancy">
+			<Author>Jason "Pk" Levine</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2012-11-01T00:00:00" Title="World-Hopping" Url="http://e23.sjgames.com/item.html?id=SJG37-2649" Volume="3" Number="49">
+		<Article Name="The Fast Reach">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Map Of The Fast Reach">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Printable Map Of The Fast Reach">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="A Song Of Many Worlds">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Generation Ships">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Hyperjumping">
+			<Author>Jason "Pk" Levine</Author>
+		</Article>
+		<Article Name="The Time Punch">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table: Safe Landings!">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2012-12-01T00:00:00" Title="Dungeon Fantasy II" Url="http://e23.sjgames.com/item.html?id=SJG37-2650" Volume="3" Number="50">
+		<Article Name="Races As Professions">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Dark Summonings">
+			<Author>W.A. Frick</Author>
+		</Article>
+		<Article Name="Saintly Power-Ups">
+			<Author>Antoni Ten Monrós</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Super Dungeons">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Map Of Willowdeep">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="More Dungeon Fantasy Loadouts">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Power-Ups For Assassins">
+			<Author>Peter V. Dell'Orto</Author>
+		</Article>
+		<Article Name="Random Thought Table: On Plato And Power">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Snowmen">
+			<Author>Peter V. Dell'Orto</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2013-01-01T00:00:00" Title="Tech and Toys III" Url="http://e23.sjgames.com/item.html?id=SJG37-2651" Volume="3" Number="51">
+		<Article Name="Ultra-Tech Too">
+			<Author>Kenneth Peters</Author>
+		</Article>
+		<Article Name="Live Better With Cybernetics">
+			<Author>Demi Benson</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Modular Mecha">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Near-Future Combat Uniforms">
+			<Author>Dan Howard</Author>
+		</Article>
+		<Article Name="Random Thought Table: Better, Faster, Stronger">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Appendix Z: The Psi-Sword">
+			<Author>Jason "Pk" Levine</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2013-02-01T00:00:00" Title="Low-Tech II" Url="http://e23.sjgames.com/item.html?id=SJG37-2652" Volume="3" Number="52">
+		<Article Name="Lord Of The Manor">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Concealed Armor">
+			<Author>Dan Howard</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Low-Tech Armor Design">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Puckle Gun">
+			<Author>Graeme Davis</Author>
+		</Article>
+		<Article Name="Delayed Gratification">
+			<Author>Douglas H. Cole</Author>
+		</Article>
+		<Article Name="Return To Ein Arris">
+			<Author>Dan Howard</Author>
+		</Article>
+		<Article Name="Map Of The Prophet's Rest">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Future Is A Moving Target">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2013-03-01T00:00:00" Title="Action" Url="http://e23.sjgames.com/item.html?id=SJG37-2653" Volume="3" Number="53">
+		<Article Name="Buddies And Loners">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Extended Action!">
+			<Author>Phil Masters</Author>
+		</Article>
+		<Article Name="Hell On Wheels">
+			<Author>Hans-Christian Vortisch</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Dogfight Action!">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Dealing With The Law">
+			<Author>Jason Brick</Author>
+		</Article>
+		<Article Name="I've Got A Great Idea">
+			<Author>Roger Burton West</Author>
+		</Article>
+		<Article Name="The Red Swords">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Fortunately, I Saw This Coming">
+			<Author>Jason "Pk" Levine</Author>
+		</Article>
+		<Article Name="Random Thought Table:">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="1 Followed By 2D Zeroes">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2013-04-01T00:00:00" Title="Social Engineering" Url="http://e23.sjgames.com/item.html?id=SJG37-2654" Volume="3" Number="54">
+		<Article Name="The Civil Arts In Gurps">
+			<Author>William H. Stoddard</Author>
+		</Article>
+		<Article Name="The Palais Du Monde">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Map Of The Palais Du Monde">
+			<Author>Uncredited</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Hand Of Hermes">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Speaking In Tongues">
+			<Author>Jason "Pk" Levine</Author>
+		</Article>
+		<Article Name="City Management">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Random Thought Table: Meeting And Greeting Before The Beating">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2013-05-01T00:00:00" Title="Military Sci-Fi" Url="http://e23.sjgames.com/item.html?id=SJG37-2655" Volume="3" Number="55">
+		<Article Name="Tactical Shooting: Tomorrow">
+			<Author>Hans-Christian Vortisch</Author>
+		</Article>
+		<Article Name="Chrome Commandos: TL9 Elite Tactical Gear">
+			<Author>W.A. Frick</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Vree">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Mobile Wormhole Logistics">
+			<Author>Adrian Tymes</Author>
+		</Article>
+		<Article Name="Future Soldier">
+			<Author>Kenneth Peters</Author>
+		</Article>
+		<Article Name="Random Thought Table: In The Future, There Will Be Humans">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2013-06-01T00:00:00" Title="Prehistory" Url="http://e23.sjgames.com/item.html?id=SJG37-2656" Volume="3" Number="56">
+		<Article Name="Caveman Fundamentals">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="Past Presents And Future">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Caverns Of The Chronomancer">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Where The Snow Bleeds">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Prehistoric Plots">
+			<Author>Megan McDonald</Author>
+		</Article>
+		<Article Name="The Old Ways">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Unknowns Of History's Preludes">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Appendix Z: First And Foremost">
+			<Author>Jason "Pk" Levine</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2013-07-01T00:00:00" Title="Gunplay" Url="http://e23.sjgames.com/item.html?id=SJG37-2657" Volume="3" Number="57">
+		<Article Name="Modern Warfighter: Gear">
+			<Author>Kenneth Peters</Author>
+		</Article>
+		<Article Name="The Devil's Chariot">
+			<Author>Hans-Christian Vortisch</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Brock-Avery Guns">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Dodge This">
+			<Author>Douglas Cole</Author>
+		</Article>
+		<Article Name="The Nock Volley Gun">
+			<Author>Graeme Davis</Author>
+		</Article>
+		<Article Name="Magic Bullets">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Random Thought Table: Make Each Shot Count">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2013-08-01T00:00:00" Title="Urban Fantasy II" Url="http://e23.sjgames.com/item.html?id=SJG37-2658" Volume="3" Number="58">
+		<Article Name="Safe As Houses">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Traits For Town">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Belial's Bastards">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Hunting The Cabal">
+			<Author>W.A. Frick</Author>
+		</Article>
+		<Article Name="The Wraith Of Precinct 13">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Festivals Of The Unknown">
+			<Author>Jessica Wolfman</Author>
+		</Article>
+		<Article Name="Random Thought Table: As I Always Suspected... Gnomes Beneath The Hood!">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Appendix Z: City Botches">
+			<Author>Phil Masters</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2013-09-01T00:00:00" Title="Conspiracies" Url="http://e23.sjgames.com/item.html?id=SJG37-2659" Volume="3" Number="59">
+		<Article Name="Conspiracy in Action">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="The Conspirators' Enemies">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Penguin Dreams">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Straight to the Flush">
+			<Author>Jason "PK" Levine</Author>
+		</Article>
+		<Article Name="One Perfect Day">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Welcome to the Terror Drone">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Middle of the Onion">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2013-10-01T00:00:00" Title="Dungeon Fantasy III" Url="http://e23.sjgames.com/item.html?id=SJG37-2660" Volume="3" Number="60">
+		<Article Name="Wizardry Refined">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Eidetic Memory: High-Tech Dungeon Crawl">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="It's A Trap!">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Mystic Power-Ups">
+			<Author>Antoni Ten Monrós</Author>
+		</Article>
+		<Article Name="In All Series-Ness">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Decagoblin Dungeon">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2013-11-01T00:00:00" Title="Way of the Warrior" Url="http://e23.sjgames.com/item.html?id=SJG37-2661" Volume="3" Number="61">
+		<Article Name="More Power to Dungeon Warriors!">
+			<Author>Peter V. Dell'Orto</Author>
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Takedown Sequences">
+			<Author>Douglas H. Cole</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Devil's Fist">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Fusion Styles of Ytarria">
+			<Author>David Thomas Moore</Author>
+		</Article>
+		<Article Name="Coming to Grips with Realism">
+			<Author>Douglas H. Cole</Author>
+		</Article>
+		<Article Name="Random Thought Table: Close Your Eyes and Think about Baseball">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2013-12-01T00:00:00" Title="Transhuman Space II" Url="http://e23.sjgames.com/item.html?id=SJG37-2662" Volume="3" Number="62">
+		<Article Name="Three Offices, Port Lowell">
+			<Author>Phil Masters</Author>
+		</Article>
+		<Article Name="We Are the 9.9%">
+			<Author>Jason "PK" Levine</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Weapons and Units of the Honduran Civil War">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Indentures Inc.">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Eloi Games">
+			<Author>William H. Stoddard</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Future Is What You Make It">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2014-01-01T00:00:00" Title="Infinite Worlds II" Url="http://e23.sjgames.com/item.html?id=SJG37-2663" Volume="3" Number="63">
+		<Article Name="The Power of Sorcery">
+			<Author>Jason "PK" Levine</Author>
+		</Article>
+		<Article Name="Lord of Your Own Domain">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Igor-1">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Infinite Aisles">
+			<Author>Phil Masters</Author>
+		</Article>
+		<Article Name="Patchwork">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="Stormbomb-1">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table: Forget It!">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2014-02-01T00:00:00" Title="Pirates and Swashbucklers" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-64-pirates-and-swashbucklers" Volume="3" Number="64">
+		<Article Name="Swords against Evil">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Scurvy-Dog Sorcery">
+			<Author>Jason "PK" Levine</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Spanish Prisoner">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Qanat Pirates of Old Than">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Sailing the Open Skies">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Random Thought Table: But We're Good Pirates!">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2014-03-01T00:00:00" Title="Alternate GURPS III" Url="https://www.warehouse23.com/products/pyramid-number-3-slash-65-alternate-gurps-iii" Volume="3" Number="65">
+		<Article Name="Buckets of Points">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Team Up!">
+			<Author>Christopher R. Rice</Author>
+			<Author>Antoni Ten Monrós</Author>
+		</Article>
+		<Article Name="Alternate Guns Specialties and Techniques">
+			<Author>Hans-Christian Vortisch</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Social Points">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Natural Weapons">
+			<Author>Ítalo G. Gonçalves</Author>
+		</Article>
+		<Article Name="Everyman Tasks">
+			<Author>William H. Stoddard</Author>
+		</Article>
+		<Article Name="By Default">
+			<Author>Douglas Cole</Author>
+		</Article>
+		<Article Name="A Full Complement">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Random Thought Table: This One Goes To 11">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Odds and Ends">
+			<Author>featuring an article by Jason "PK" Levine</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2014-04-01T00:00:00" Title="The Laws of Magic" Url="https://www.warehouse23.com/products/pyramid-number-3-slash-66-the-laws-of-magic" Volume="3" Number="66">
+		<Article Name="Alternative Ritual Path Magic">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Ritual Path Specialists">
+			<Author>Jason "PK" Levine</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Azure Dragon">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Thoroughly Modern Magic">
+			<Author>Paul Stefko</Author>
+		</Article>
+		<Article Name="The Material Difference">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Random Thought Table: Break the Law">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2014-05-01T00:00:00" Title="Tools of the Trade - Villains" Url="https://www.warehouse23.com/products/pyramid-number-3-slash-67-tools-of-the-trade-villains" Volume="3" Number="67">
+		<Article Name="You and What Army?">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="How Very Tempting">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Villain's Residence">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Tigerphobia">
+			<Author>Hans-Christian Vortisch</Author>
+		</Article>
+		<Article Name="The Compleat Jumpsuit">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Designer's Notes: GURPS Zombies">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Random Thought Table: It's a Heroic Doomsword Now!">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2014-06-01T00:00:00" Title="Natural Magic" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-68-natural-magic" Volume="3" Number="68">
+		<Article Name="The Magic Desert">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Magic of the Shaded Woodlands">
+			<Author>Paul Stefko</Author>
+		</Article>
+		<Article Name="Ars Metallica">
+			<Author>William H. Stoddard</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Dark of the Woods">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Green Power">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="Designer's Notes: Wilderness Adventures">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Random Thought Table: When Nature Calls, You Better Answer">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2014-07-01T00:00:00" Title="Psionics II" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-69-psionics-ii" Volume="3" Number="69">
+		<Article Name="A Little Bit Psychic">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Mind and Body">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Overmind Institute">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Pyramid Farm">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Expanded Psi for Sandmen">
+			<Author>Jason "PK" Levine</Author>
+		</Article>
+		<Article Name="Random Thought Table: Tweak the Hidden Truths">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2014-08-01T00:00:00" Title="Fourth Edition Festival" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-70-fourth-edition-festival" Volume="3" Number="70">
+		<Article Name="Destination: Abydos">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Ten For Ten">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Gaming in the Ancien Régime">
+			<Author>William H. Stoddard</Author>
+		</Article>
+		<Article Name="Into the Wilderness">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Elemental Xia Champions vs. the Shenguai">
+			<Author>Jason "PK" Levine</Author>
+		</Article>
+		<Article Name="Horde Ninja">
+			<Author>Peter V. Dell'Orto</Author>
+		</Article>
+		<Article Name="Revisiting High-Tech">
+			<Author>Hans-Christian Vortisch</Author>
+		</Article>
+		<Article Name="Random Thought Table: Beyond Your Imagination">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2014-09-01T00:00:00" Title="Spaceships II" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-71-spaceships-ii" Volume="3" Number="71">
+		<Article Name="Reign of Steel: Deep Space">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Smugglers' Blues">
+			<Author>Jason Brick</Author>
+		</Article>
+		<Article Name="Strange Objects at Rest">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Vehicle Imbuements">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="The Captain's Boat">
+			<Author>Rory Fansler</Author>
+		</Article>
+		<Article Name="Random Thought Table: Putting the &quot;Custom&quot; Back in Customer">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2014-10-01T00:00:00" Title="Alternate Dungeons" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-72-alternate-dungeons" Volume="3" Number="72">
+		<Article Name="Pointless Slaying and Looting">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Dungeons of Mars">
+			<Author>Phil Masters</Author>
+		</Article>
+		<Article Name="From the Bottom Up">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Good Dungeons">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Dungeon Fantasy Video Gaming">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Random Thought Table: To Conjure the Unknown">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2014-11-01T00:00:00" Title="Monster Hunters II" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-73-monster-hunters-ii" Volume="3" Number="73">
+		<Article Name="Tactical Shooting: Monster Hunters">
+			<Author>Hans-Christian Vortisch</Author>
+		</Article>
+		<Article Name="The Department of Occult Defense">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Venatio">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Monster Hunters 2043: Agents of ORCID">
+			<Author>W.A. Frick</Author>
+		</Article>
+		<Article Name="The Flock of the Above">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table:Threats Great, Small, and Unexpected">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2014-12-01T00:00:00" Title="Wild West" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-74-wild-west" Volume="3" Number="74">
+		<Article Name="Ashiwi Country">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Outlaws and Arrows">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Steamboats and Locomotives of the Old West">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="A Westward-Shambling Horde">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Famous Wild West Gunfights">
+			<Author>Hans-Christian Vortisch</Author>
+		</Article>
+		<Article Name="Random Thought Table: Little Bits of the West">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2015-01-01T00:00:00" Title="Hero's Jackpot" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-75-heros-jackpot" Volume="3" Number="75">
+		<Article Name="Just Rewards">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="A Familiar Path">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Rewarding Colonel Omsford">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Drinkable, Wearable, Impossible Points">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Stealing Magic">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table: Mix It Up!">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2015-02-01T00:00:00" Title="Dungeon Fantasy IV" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-76-dungeon-fantasy-iv" Volume="3" Number="76">
+		<Article Name="Psychic Swords Against Elder Evil">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Hidden Knowledge">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Living Rooms">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Magic Touch">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Dire and Terrible Monsters">
+			<Author>Douglas H. Cole</Author>
+			<Author>Peter V. Dell'Orto</Author>
+		</Article>
+		<Article Name="Random Thought Table: Complications Made Simple">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2015-03-01T00:00:00" Title="Combat" Url="http://www.warehouse23.com/products/pyramid-number-3-77-combat" Volume="3" Number="77">
+		<Article Name="Combat Writ Large">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Low-Tech Armor Loadouts for the New World">
+			<Author>Dan Howard</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Ancient Egyptian and Roman Armies">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="On Target">
+			<Author>Douglas H. Cole</Author>
+		</Article>
+		<Article Name="It's a Threat!">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Random Thought Table: Faster, Combatants! Kill! Kill!">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2015-04-01T00:00:00" Title="Unleash Your Soul" Url="http://www.warehouse23.com/products/pyramid-number-3-78-unleash-your-soul" Volume="3" Number="78">
+		<Article Name="Blessed Be">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Clerics of Order and Chaos">
+			<Author>Cole M.B. Jenkins</Author>
+		</Article>
+		<Article Name="Eidetic Memory:The Voice of the Moon">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Cursed Thou Art">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Secrets of the Universe!">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Random Thought Table: Keeping the Faith">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2015-05-01T00:00:00" Title="Space Atlas" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-79-space-atlas" Volume="3" Number="79">
+		<Article Name="Ostara">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Vanishing Sun">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="The SkipTime Hub of the OceanWe">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Halfway to Anywhere">
+			<Author>Timothy Ponce</Author>
+		</Article>
+		<Article Name="Homeward Unbound">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Random Thought Table: Awe's Right With the World">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2015-06-01T00:00:00" Title="Fantasy Threats" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-80-fantasy-threats" Volume="3" Number="80">
+		<Article Name="The Gryndel Menace">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Gog and Magog">
+			<Author>W.A. Frick</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Knights of the Iron Table">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="On the Bounty Board">
+			<Author>Justin Yoder</Author>
+		</Article>
+		<Article Name="More Psionic Threats">
+			<Author>Cole M.B. Jenkins</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Threat of the Unknown">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2015-07-01T00:00:00" Title="Horrific Creations" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-81-horrific-creations" Volume="3" Number="81">
+		<Article Name="Iraqi Irruptor Blues">
+			<Author>Jason "PK" Levine</Author>
+		</Article>
+		<Article Name="Too Similar, Too Different">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Hellblade">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Anatomy of a Crossroads Bargain">
+			<Author>Jon Black</Author>
+		</Article>
+		<Article Name="Bell, Book, and Candle">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Altus Brat">
+			<Author>Nathan Milner</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Good, the Bad, and the Scary">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2015-08-01T00:00:00" Title="Magical Creations" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-82-magical-creations" Volume="3" Number="82">
+		<Article Name="Dungeon Brewmasters">
+			<Author>Jason "PK" Levine</Author>
+		</Article>
+		<Article Name="The Sorcerer">
+			<Author>Antoni Ten Monrós</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Eight Artifacts">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Hunter's Reliquary">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Instruments of Enchantment">
+			<Author>Jon Black</Author>
+		</Article>
+		<Article Name="Random Thought Table: Tangible Abstractions">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Appendix Z: More Charms">
+			<Author>Antoni Ten Monrós</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2015-09-01T00:00:00" Title="Alternate GURPS IV" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-83-alternate-gurps-iv" Volume="3" Number="83">
+		<Article Name="Pointless Monster Hunting">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Knowing Your Own Strength">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Playing With Health">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Schrödinger's Backpack">
+			<Author>Douglas H. Cole</Author>
+		</Article>
+		<Article Name="Possessions Under Control">
+			<Author>Timothy Ponce</Author>
+		</Article>
+		<Article Name="Random Thought Table: A Different Side of Dice">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2015-10-01T00:00:00" Title="Perspectives" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-84-perspectives" Volume="3" Number="84">
+		<Article Name="The Long and the Short of It">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Disappearance of Father Cohen">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Heroes on the Mass Scale">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="The Elvey Institute">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Random Thought Table: Look Out . . . Outlooks!">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2015-11-01T00:00:00" Title="Cutting Edge" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-85-cutting-edge" Volume="3" Number="85">
+		<Article Name="Training for the Tech">
+			<Author>Phil Masters</Author>
+		</Article>
+		<Article Name="Remixing the Rocker">
+			<Author>Jon Black</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Cutting-Edge Armor Design">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Free Falling">
+			<Author>Timothy Ponce</Author>
+		</Article>
+		<Article Name="Random Thought Table: Forward Thinking">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Short Bursts: White Gold">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Appendix Z: The Perky L33t">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2015-12-01T00:00:00" Title="Organizations" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-86-organizations" Volume="3" Number="86">
+		<Article Name="What's in a Lair?">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Designer's Notes: Boardroom and Curia/Dungeon Fantasy 17: Guilds">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Most Worshipful Royal Society of Teratologists">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Designer's Notes: Back to School">
+			<Author>William H. Stoddard</Author>
+		</Article>
+		<Article Name="The Knights Templar">
+			<Author>Graeme Davis</Author>
+		</Article>
+		<Article Name="Random Thought Table: Organization Rules!">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Short Bursts: Muckleshoot">
+			<Author>Matt Riggsby</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2016-01-01T00:00:00" Title="Low Tech III" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-87-low-tech-iii" Volume="3" Number="87">
+		<Article Name="The Broken Blade">
+			<Author>Douglas H. Cole</Author>
+		</Article>
+		<Article Name="Purveyors of the Priceless">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Medieval Sea Trade">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Knowledge Is Power">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="The Music Maker">
+			<Author>Jon Black</Author>
+		</Article>
+		<Article Name="Tempered Punks">
+			<Author>Graeme Davis</Author>
+		</Article>
+		<Article Name="Random Thought Table: Breaking Reality for Fun and Profit">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Short Bursts: Ten Minutes in October">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2016-02-01T00:00:00" Title="The End Is Nigh" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-88-the-end-is-nigh" Volume="3" Number="88">
+		<Article Name="The Redeemers">
+			<Author>Jason "PK" Levine</Author>
+		</Article>
+		<Article Name="Post-Apocalyptic Guns">
+			<Author>S.A. Fisher</Author>
+			<Author>Hans-Christian Vortisch</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Warlords of the Apocalypse">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Better Improvised Weapons">
+			<Author>Peter V. Dell'Orto</Author>
+		</Article>
+		<Article Name="Nuclear Legacy">
+			<Author>Roger Burton West</Author>
+		</Article>
+		<Article Name="Random Thought Table: Keeping the Fallen World Under Control">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Short Bursts: Rapid Raj">
+			<Author>Matt Riggsby</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2016-03-01T00:00:00" Title="Alternate Dungeons 2" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-89-alternate-dungeons-ii" Volume="3" Number="89">
+		<Article Name="Havens and Hells">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Eastern Adventures">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Titan's House">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Secret of the Explorers">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Short Bursts: Five Best Places to Nearly Get Killed Before You Die!">
+			<Author>Matt Riggsby</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2016-04-01T00:00:00" Title="After the End" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-90-after-the-end" Volume="3" Number="90">
+		<Article Name="Are We Not Men?">
+			<Author>Jason "PK" Levine</Author>
+		</Article>
+		<Article Name="Robots After the End">
+			<Author>Roger Burton West</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Mercy Dolls">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Warping Monsters Into Mutants">
+			<Author>Peter V. Dell'Orto</Author>
+		</Article>
+		<Article Name="Survival at the End">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Aftermath Protocol">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Short Bursts: Good Old Days">
+			<Author>Matt Riggsby</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2016-05-01T00:00:00" Title="Thaumatology IV" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-91-thaumatology-iv" Volume="3" Number="91">
+		<Article Name="Technomysticism">
+			<Author>W.A. Frick</Author>
+		</Article>
+		<Article Name="The Tome of the Black Island">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Dark Alchemy">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Thaumaturgy of Metallurgy">
+			<Author>Ted Brock</Author>
+		</Article>
+		<Article Name="Codex Duello">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Power of a Good Reputation">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Short Bursts: Tech Support">
+			<Author>Matt Riggsby</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2016-06-01T00:00:00" Title="Zombies" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-92-zombies" Volume="3" Number="92">
+		<Article Name="Unlife Support">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="The Unknown Hunger">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="The Viking Dead">
+			<Author>Graeme Davis</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Battlesuit Zombies">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Terra Incognita: The Church of the New Focus">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Not Your Average Grave Robbing">
+			<Author>Michael Kreuter</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Element of Surprise">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Short Bursts: Cicero">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Appendix Z: Indian Ghouls">
+			<Author>Graeme Davis</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2016-07-01T00:00:00" Title="Cops and Lawyers" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-93-cops-and-lawyers" Volume="3" Number="93">
+		<Article Name="Mass Combat in the City">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Above the Law">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Sultans, Shurta, and the Courts">
+			<Author>Jon Black</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Marine Protector and Dolphin">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Mega-Max!">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Judicium Dei">
+			<Author>Nathan M.M. Meluvor</Author>
+		</Article>
+		<Article Name="Random Thought Table: When the Bad Guy Threatens to Wiggle off the Hook">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Short Bursts: A Word From Our Sponsor">
+			<Author>Matt Riggsby</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2016-08-01T00:00:00" Title="Spaceships III" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-94-spaceships-iii" Volume="3" Number="94">
+		<Article Name="So You Want to Build a Spaceship">
+			<Author>Roger Burton West</Author>
+			<Author>Timothy Ponce</Author>
+		</Article>
+		<Article Name="Battle for the Earth">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="Blackbeard Station">
+			<Author>Ted Brock</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Hazard Rates">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Strange Objects in Disrepair">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table: You Gotta Get a Gimmick">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Short Bursts: Rematch">
+			<Author>Matt Riggsby</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2016-09-01T00:00:00" Title="Overland Adventures" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-95-overland-adventures" Volume="3" Number="95">
+		<Article Name="The Emerald Hell">
+			<Author>Timothy Ponce</Author>
+		</Article>
+		<Article Name="Low-Tech Transportation">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Monster Caravan">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Village Green">
+			<Author>Jon Black</Author>
+		</Article>
+		<Article Name="Random Thought Table: Keeping Reins on the Wilds">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2016-10-01T00:00:00" Title="Tech and Toys IV" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-96-tech-and-toys-iv" Volume="3" Number="96">
+		<Article Name="High-Tech Buildings">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="The Arrow of Progress">
+			<Author>Kelly Pedersen</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Ultra-Tech Armor Design">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Hexopersonality">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table: Building an Interesting Tomorrow With Technology">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Appendix Z: Titan Fightin'">
+			<Author>Timothy Ponce</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2016-11-01T00:00:00" Title="Strange Powers" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-97-strange-powers" Volume="3" Number="97">
+		<Article Name="High Psi">
+			<Author>Kelly Pedersen</Author>
+		</Article>
+		<Article Name="Mask of Humanity">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Anthropomorphized High-Tech Weapons">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Snakes Who Walk">
+			<Author>W.A. Frick</Author>
+		</Article>
+		<Article Name="Random Thought Table:We've Got the Power… Let's Never Use It!">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2016-12-01T00:00:00" Title="Welcome to Dungeon Fantasy" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-98-welcome-to-dungeon-fantasy" Volume="3" Number="98">
+		<Article Name="You All Meet at an Inn">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="The Monstrous Monstorum">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Grave of the Pirate Queen">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Building a Long-Term Dungeon Fantasy Game">
+			<Author>Peter V. Dell'Orto</Author>
+		</Article>
+		<Article Name="Random Thought Table: Back to Basics">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2017-01-01T00:00:00" Title="Death and Beyond" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-99-death-and-beyond" Volume="3" Number="99">
+		<Article Name="Necro-Psi">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="What Doesn't Kill Me Makes Me Stronger">
+			<Author>Scott Rochat</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Soul Reapers">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Slaughterealm">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table: Death and How to Avoid It">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2017-02-01T00:00:00" Title="Pyramid Secrets" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-100-pyramid-secrets" Volume="3" Number="100">
+		<Article Name="Impulse Control">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Infinite Weapons">
+			<Author>Hans-Christian Vortisch</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Galactic Operations Directorate">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Fashion Forward">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Gods of Commerce">
+			<Author>Christopher Conrad</Author>
+			<Author>Jason "PK" Levine</Author>
+		</Article>
+		<Article Name="Realistic Injury, Expanded">
+			<Author>Peter V. Dell'Orto</Author>
+		</Article>
+		<Article Name="Random Thought Table: Briefly, an Adventure">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2017-03-01T00:00:00" Title="Humor" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-101-humor" Volume="3" Number="101">
+		<Article Name="What Fools These Mortals Be?">
+			<Author>Phil Masters</Author>
+		</Article>
+		<Article Name="Dying Is Easy; Comedy Is Hard">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Monster Mash">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Animating Your Life">
+			<Author>Kelly Pedersen</Author>
+		</Article>
+		<Article Name="Terry Toucan &amp; the Puzzle Pals: The House of 10,000 Sock Monkeys!">
+			<Author>J. Edward Tremlett</Author>
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Random Thought Table: Amongst Your Weaponry Are Surprise and Anticipation">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2017-04-01T00:00:00" Title="Epic" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-102-epic" Volume="3" Number="102">
+		<Article Name="Crafting Imbuements">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Dungeon Fantasy Goes to War">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Harvest – Invasion Earth">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Götterdämmerung">
+			<Author>William H. Stoddard</Author>
+		</Article>
+		<Article Name="Many Lives, One Adventure">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Sense of Ahhh">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2017-05-01T00:00:00" Title="Setbacks" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-103-setbacks" Volume="3" Number="103">
+		<Article Name="Mad as Bones">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Monsters' Minions">
+			<Author>Michele Armellini</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Spaceship Malfunctions">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Designer's Notes: The Silk Road">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Random Thought Table: Complications in a Certain World">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Central Asia/Silk Road map">
+			<Author>uncredited</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2017-06-01T00:00:00" Title="Dungeon Fantasy Roleplaying Game" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-104-dungeon-fantasy-roleplaying-game" Volume="3" Number="104">
+		<Article Name="Trapped in the Living Tomb">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="It's a Quest!">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Heroic Background Generator">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The State of the Dungeon">
+			<Author>uncredited</Author>
+		</Article>
+		<Article Name="Random Thought Table: Preparing for the Hero's Journey">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2017-07-01T00:00:00" Title="Cinematic Magic" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-105-cinematic-magic" Volume="3" Number="105">
+		<Article Name="Super-Sorcery!">
+			<Author>Kelly Pedersen</Author>
+		</Article>
+		<Article Name="Chi Sorcery">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Theo-Necromancy">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Gourmet Alchemy">
+			<Author>Michael Kreuter</Author>
+		</Article>
+		<Article Name="Random Thought Table: Third-Reel Magic">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Appendix Z: Lights! Camera! Magic!">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2017-08-01T00:00:00" Title="Dungeon Fantasy Roleplaying Game II" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-106-dungeon-fantasy-roleplaying-game-ii" Volume="3" Number="106">
+		<Article Name="Designer's Notes: Dungeon Fantasy Roleplaying Game">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Quick Equipment Kits">
+			<Author>Peter V. Dell'Orto</Author>
+		</Article>
+		<Article Name="Deathtraps">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Demi-Human Dungeons">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Secrets of the Living Tomb">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Undead, Undead Everywhere">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="The State of the Dungeon">
+			<Author>uncredited</Author>
+		</Article>
+		<Article Name="Random Thought Table: Keeping It Simpler, For Starters">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2017-09-01T00:00:00" Title="Monster Hunters III" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-106-dungeon-fantasy-roleplaying-game-ii" Volume="3" Number="107">
+		<Article Name="Born to Be Wild">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="An Irregular Sort of Terror">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Dwyrm">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Young Hunters">
+			<Author>Liam Duncan</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Importance of Static">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2017-10-01T00:00:00" Title="Dungeon Fantasy Roleplaying Game III" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-108-dungeon-fantasy-roleplaying-game-iii" Volume="3" Number="108">
+		<Article Name="Monster Modding">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="More Mythic &amp; Magical Monsters">
+			<Author>Peter V. Dell'Orto</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Hydra Island">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Hand of the Demon">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Random Thought Table: If Not You, Then Who?">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Designer's Notes: How to Be a GURPS GM">
+			<Author>Warren "Mook" Wilson</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2017-11-01T00:00:00" Title="Thaumatology V" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-109-thaumatology-v" Volume="3" Number="109">
+		<Article Name="Magnum Opus.">
+			<Author>James Amaral</Author>
+		</Article>
+		<Article Name="The Mage-Hunter">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Teramancers">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Glorious Book of Valadir">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Designers' Notes: Incantation Magic">
+			<Author>Christopher R. Rice</Author>
+			<Author>Antoni Ten Monrós</Author>
+		</Article>
+		<Article Name="The All-Scroll">
+			<Author>Alice Turow</Author>
+		</Article>
+		<Article Name="Random Thought Table: Too Powerful for Your Own Good">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2017-12-01T00:00:00" Title="Deep Space" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-110-deep-space" Volume="3" Number="110">
+		<Article Name="Aethyric Space">
+			<Author>Christopher R. Rice</Author>
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Bazaar">
+			<Author>Nathan M.M. Meluvor</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Space Wrecks">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Space Pirates">
+			<Author>Adrian Tymes</Author>
+		</Article>
+		<Article Name="An Alien Way of Thinking">
+			<Author>Rory Fansler</Author>
+		</Article>
+		<Article Name="Random Thought Table: Push Your Luck!">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2018-01-18T00:00:00" Title="Combat II" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-111-combat-ii" Volume="3" Number="111">
+		<Article Name="The Witched Gun">
+			<Author>Christopher R. Rice</Author>
+			<Author>S.A. Fisher</Author>
+		</Article>
+		<Article Name="The Wrestler">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Astroduel!">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Animal Combat Styles">
+			<Author>Rory Fansler</Author>
+		</Article>
+		<Article Name="Creepy Charly">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Random Thought Table: Freshen Up Your Fights">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2018-02-16T00:00:00" Title="Action II" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-112-action-ii" Volume="3" Number="112">
+		<Article Name="More Skill Sets for Specialists">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="The Thrill of the Chase">
+			<Author>Kelly Pedersen</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Black Gemini">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Football">
+			<Author>Jason Brick</Author>
+		</Article>
+		<Article Name="The Grinder">
+			<Author>Andy Vetromile</Author>
+		</Article>
+		<Article Name="Random Thought Table: Focusing on the What and the Now">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2018-03-22T00:00:00" Title="Dungeon Fantasies" Url="http://www.warehouse23.com/products/SJG37-2713" Volume="3" Number="113">
+		<Article Name="Five Easy Pieces">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Simple Spell Components">
+			<Author>Peter V. Dell'Orto</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Monsters as Treasures">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="All Wet">
+			<Author>Charles Saeger</Author>
+		</Article>
+		<Article Name="Designer's Notes: Dungeon Fantasy Traps">
+			<Author>Christopher R. Rice</Author>
+			<Author>Jason "PK" Levine</Author>
+		</Article>
+		<Article Name="Random Thought Table: Can You Spell Thrills With No Hill?">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2018-04-26T00:00:00" Title="Mind Over Magic" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-114-mind-over-magic" Volume="3" Number="114">
+		<Article Name="The Incanter's Grimoire">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Names Have Power">
+			<Author>Rory Fansler</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Glass Magic and the Specularii">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Artifacts of Evil">
+			<Author>Paul Stefko</Author>
+		</Article>
+		<Article Name="The Carnie">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Random Thought Table: Zero-Sum Game">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2018-05-24T00:00:00" Title="Technomancer" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-115-technomancer" Volume="3" Number="115">
+		<Article Name="Technomancer Needs Hunters!">
+			<Author>Kelly Pedersen</Author>
+		</Article>
+		<Article Name="El Paso Vice">
+			<Author>Paul Stefko</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Merlin Declassified">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Revised Templates, Come Fourth!">
+			<Author>Kelly Pedersen</Author>
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Random Thought Table: Questions and Technomancers">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+		<Issue ReleaseDate="2018-06-21T00:00:00" Title="Locations" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-116-locations" Volume="3" Number="116">
+		<Article Name="Al-Phasmaq, the City of Ships">
+			<Author>Christopher R. Rice</Author>
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Haunting of Film House">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Croatoan Point">
+			<Author>Christopher R. Rice</Author>
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="The Pharos Lighthouse">
+			<Author>Carolyn Stein</Author>
+			<Author>Steve Stein</Author>
+		</Article>
+		<Article Name="Random Thought Table: The Good, the Bad, and the Funky">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2018-07-19T00:00:00" Title="Hot Spots" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-117-hot-spots" Volume="3" Number="117">
+		<Article Name="City of Lights, City of Blackouts">
+			<Author>Jon Black</Author>
+		</Article>
+		<Article Name="East Berlin">
+			<Author>Matt Wehmeier</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Victoria 2100">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Villa del Trebbio">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Revolutionary Cuba">
+			<Author>Nathan Milner</Author>
+		</Article>
+		<Article Name="Furbo Venezia">
+			<Author>Matt Riggsby</Author>
+		</Article>
+		<Article Name="Random Thought Table: Stealing History for Fun">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+		<Issue ReleaseDate="2018-08-02T00:00:00" Title="Dungeon Trips" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-118-dungeon-trips" Volume="3" Number="118">
+		<Article Name="The Shield-Bearer">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="It's an Encounter!">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Istvan's Hole">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The 60-Minute Heroes">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Random Thought Table: Fantasy Dungeons Via Digital Cities">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2018-09-19T00:00:00" Title="After the End II" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-119-after-the-end-ii" Volume="3" Number="119">
+		<Article Name="Moon of Silver, World of Dust">
+			<Author>J. Edward Tremlett</Author>
+		</Article>
+		<Article Name="No Place Like Home">
+			<Author>Chip Limeburner</Author>
+		</Article>
+		<Article Name="The Knowledge of Our Forebears">
+			<Author>Nathan M.M. Meluvor</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Whispers From the Wastelands">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Random Thought Table: New Ways to Open the World">
+			<Author>Steven Marsh</Author>
+		</Article>
+		<Article Name="Building Character: Funnels in TFT">
+			<Author>Jack Sinnott</Author>
+		</Article>
+		<Article Name="Monies of Cidri">
+			<Author>William F. Hostman</Author>
+		</Article>
+		<Article Name="Lessons From Darbo Delver">
+			<Author>Guy McLimore</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2018-10-19T00:00:00" Title="Alternate GURPS V" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-120-alternate-gurps-v" Volume="3" Number="120">
+		<Article Name="Opus Longa, Pugna Brevis">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Eidetic Memory: Describing Vehicles">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="The Fifth Attribute">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Conditional Injury">
+			<Author>Douglas Cole</Author>
+		</Article>
+		<Article Name="Random Thought Table: Fluid Skills">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2018-11-19T00:00:00" Title="Travels and Tribulations" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-121-travels-and-tribulations" Volume="3" Number="121">
+		<Article Name="The Department of Unconventional Philosophical Resolutions">
+			<Author>Phil Masters</Author>
+		</Article>
+		<Article Name="Merlin's Magnificent Menagerie">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Klinik Nova">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="Have Game, Will Travel">
+			<Author>Jason Brick</Author>
+		</Article>
+		<Article Name="Random Thought Table: Knicknacks and Notions">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+	<Issue ReleaseDate="2018-12-19T00:00:00" Title="All Good Things" Url="http://www.warehouse23.com/products/pyramid-number-3-slash-122-all-good-things" Volume="3" Number="122">
+		<Article Name="Sufficiently Deranged">
+			<Author>Phil Masters</Author>
+		</Article>
+		<Article Name="The Undead-Hunter">
+			<Author>Sean Punch</Author>
+		</Article>
+		<Article Name="Chevaliers and Commanders">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Eidetic Memory: The Bouncers of Caradoc">
+			<Author>David L. Pulver</Author>
+		</Article>
+		<Article Name="British Rhodes">
+			<Author>Matt Wehmeier</Author>
+		</Article>
+		<Article Name="Native American Crusaders">
+			<Author>Christopher R. Rice</Author>
+		</Article>
+		<Article Name="Random Thought Table: Final Thoughts">
+			<Author>Steven Marsh</Author>
+		</Article>
+	</Issue>
+</IssueCollection>

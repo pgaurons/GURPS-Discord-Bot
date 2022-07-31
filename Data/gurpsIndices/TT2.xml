@@ -1,0 +1,2240 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abilities">
+    <SeeAlso>Advantages</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Accessory (Lock) perk">
+    <PageReference>TT2:29</PageReference>
+    <PageReference>TT2:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>TT2:24</PageReference>
+    <PageReference>TT2:43-45</PageReference>
+    <SeeAlso>Features</SeeAlso>
+    <Child ReferenceText="as alternatives to templates">
+      <PageReference>TT2:4-5</PageReference>
+    </Child>
+    <Child ReferenceText="as specialized versions of core traits">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+    <Child ReferenceText="density and weight related">
+      <PageReference>TT2:18-19</PageReference>
+    </Child>
+    <Child ReferenceText="habitat-related">
+      <PageReference>TT2:15-18</PageReference>
+    </Child>
+    <Child ReferenceText="mana levels and">
+      <PageReference>TT2:16</PageReference>
+    </Child>
+    <Child ReferenceText="meta-traits">
+      <PageReference>TT2:8-11</PageReference>
+      <PageReference>TT2:19-21</PageReference>
+    </Child>
+    <Child ReferenceText="other transformational">
+      <PageReference>TT2:39</PageReference>
+    </Child>
+    <Child ReferenceText="Shapeshifting">
+      <PageReference>TT2:35</PageReference>
+      <PageReference>TT2:38-39</PageReference>
+    </Child>
+    <Child ReferenceText="swarms">
+      <PageReference>TT2:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="Talents">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+    <Child ReferenceText="toon">
+      <PageReference>TT2:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Affected by Rust quirk">
+    <PageReference>TT2:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Affliction advantage">
+    <PageReference>TT2:29</PageReference>
+    <PageReference>TT2:39</PageReference>
+    <Child ReferenceText="new condition">
+      <PageReference>TT2:43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aliens">
+    <SeeAlso>Races</SeeAlso>
+    <SeeAlso>Racial Templates</SeeAlso>
+    <Child ReferenceText="chimerae as">
+      <PageReference>TT2:8</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>TT2:47</PageReference>
+    </Child>
+    <Child ReferenceText="meta-traits">
+      <PageReference>TT2:9-10</PageReference>
+    </Child>
+    <Child ReferenceText="scale and gravity">
+      <PageReference>TT2:16</PageReference>
+    </Child>
+    <Child ReferenceText="super-races">
+      <PageReference>TT2:36</PageReference>
+    </Child>
+    <Child ReferenceText="as race">
+      <PageReference>TT2:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate Form advantage">
+    <PageReference>TT2:38</PageReference>
+    <PageReference>TT2:39</PageReference>
+    <Child ReferenceText="disadvantage">
+      <PageReference>TT2:39</PageReference>
+      <PageReference>TT2:46</PageReference>
+    </Child>
+    <Child ReferenceText="feature">
+      <PageReference>TT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="swarms">
+      <PageReference>TT2:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <SeeAlso>Races</SeeAlso>
+    <SeeAlso>Racial Templates</SeeAlso>
+    <SeeAlso>Swarms</SeeAlso>
+    <Child ReferenceText="as race">
+      <PageReference>TT2:6</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Move">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>TT2:49</PageReference>
+    </Child>
+    <Child ReferenceText="hit locations">
+      <PageReference>TT2:9</PageReference>
+      <PageReference>TT2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Hit Points (HP)">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+    <Child ReferenceText="Intelligence (IQ)">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+    <Child ReferenceText="mentality metatraits">
+      <PageReference>TT2:9</PageReference>
+    </Child>
+    <Child ReferenceText="morphology meta-traits">
+      <PageReference>TT2:9-10</PageReference>
+    </Child>
+    <Child ReferenceText="simplified statistics">
+      <PageReference>TT2:4</PageReference>
+    </Child>
+    <Child ReferenceText="anthropomorphized">
+      <PageReference>TT2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animus">
+    <Child ReferenceText="example">
+      <PageReference>TT2:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Archetypes">
+    <PageReference>TT2:23</PageReference>
+    <PageReference>TT2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arms">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Atmosphere (habitat)">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attack">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Automata">
+    <SeeAlso>Robots</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad Sight disadvantage">
+    <PageReference>TT2:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic Move secondary characteristic">
+    <PageReference>TT2:24</PageReference>
+    <Child ReferenceText="cinematic scale and">
+      <PageReference>TT2:14</PageReference>
+    </Child>
+    <Child ReferenceText="gravity and">
+      <PageReference>TT2:16</PageReference>
+      <PageReference>TT2:19</PageReference>
+    </Child>
+    <Child ReferenceText="movement">
+      <PageReference>TT2:27-28</PageReference>
+    </Child>
+    <Child ReferenceText="worked example">
+      <PageReference>TT2:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Behavior-related traits">
+    <PageReference>TT2:31-33</PageReference>
+    <Child ReferenceText="roleplaying">
+      <PageReference>TT2:40</PageReference>
+    </Child>
+    <Child ReferenceText="worldbuilding and">
+      <PageReference>TT2:40-41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bigger Than Your Head ability">
+    <PageReference>TT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioroids">
+    <PageReference>TT2:7</PageReference>
+    <PageReference>TT2:23</PageReference>
+    <PageReference>TT2:30-32</PageReference>
+    <Child ReferenceText="meta-trait">
+      <PageReference>TT2:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Breathing">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Build (body)">
+    <PageReference>TT2:14</PageReference>
+    <SeeAlso>Scale</SeeAlso>
+    <Child ReferenceText="features">
+      <PageReference>TT2:14</PageReference>
+    </Child>
+    <Child ReferenceText="modifier">
+      <PageReference>TT2:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <SeeAlso>Character Design</SeeAlso>
+    <SeeAlso>Races</SeeAlso>
+    <Child ReferenceText="racial personality and">
+      <PageReference>TT2:40-41</PageReference>
+    </Child>
+    <Child ReferenceText="roleplaying races">
+      <PageReference>TT2:40</PageReference>
+    </Child>
+    <Child ReferenceText="sets of races">
+      <PageReference>TT2:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="worldbuilding">
+      <PageReference>TT2:40-41</PageReference>
+    </Child>
+    <Child ReferenceText="races in">
+      <PageReference>TT2:22-23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannot Jump quirk">
+    <PageReference>TT2:28</PageReference>
+    <PageReference>TT2:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Captain of flies racial template">
+    <PageReference>TT2:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carrier feature">
+    <PageReference>TT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Character design">
+    <SeeAlso>Races</SeeAlso>
+    <SeeAlso>Racial Templates</SeeAlso>
+    <Child ReferenceText="racial vs" />
+    <Child ReferenceText="character templates">
+      <PageReference>TT2:5</PageReference>
+    </Child>
+    <Child ReferenceText="roleplaying races">
+      <PageReference>TT2:40</PageReference>
+    </Child>
+    <Child ReferenceText="simplified statistics">
+      <PageReference>TT2:4</PageReference>
+    </Child>
+    <Child ReferenceText="unique beings">
+      <PageReference>TT2:5</PageReference>
+    </Child>
+    <Child ReferenceText="no statistics">
+      <PageReference>TT2:4-5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chauvinism (racial personality)">
+    <PageReference>TT2:31</PageReference>
+    <PageReference>TT2:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chimerae">
+    <PageReference>TT2:8</PageReference>
+    <Child ReferenceText="as race">
+      <PageReference>TT2:6-7</PageReference>
+    </Child>
+    <Child ReferenceText="morphology  meta-traits">
+      <PageReference>TT2:9-10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cognition-related traits">
+    <PageReference>TT2:31</PageReference>
+    <Child ReferenceText="impaired">
+      <PageReference>TT2:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Comfort zone">
+    <Child ReferenceText="adjusting">
+      <PageReference>TT2:17-18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Communication">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Compartmentalized Mind advantage">
+    <PageReference>TT2:31</PageReference>
+    <Child ReferenceText="clarifications">
+      <PageReference>TT2:43</PageReference>
+    </Child>
+    <Child ReferenceText="feature">
+      <PageReference>TT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="vehicles">
+      <PageReference>TT2:7</PageReference>
+      <PageReference>TT2:9</PageReference>
+      <PageReference>TT2:12</PageReference>
+      <PageReference>TT2:26</PageReference>
+      <PageReference>TT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Complexity">
+    <Child ReferenceText="computers">
+      <PageReference>TT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Complexity-Limited IQ taboo trait">
+    <PageReference>TT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Composition meta-traits">
+    <PageReference>TT2:19-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compound eyes">
+    <PageReference>TT2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <PageReference>TT2:7</PageReference>
+    <SeeAlso>Infomorphs</SeeAlso>
+    <SeeAlso>Machines</SeeAlso>
+    <SeeAlso>Robots</SeeAlso>
+    <SeeAlso>Vehicles</SeeAlso>
+    <Child ReferenceText="as Contacts">
+      <PageReference>TT2:5</PageReference>
+    </Child>
+    <Child ReferenceText="Complexity">
+      <PageReference>TT2:7</PageReference>
+    </Child>
+    <Child ReferenceText="features">
+      <PageReference>TT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="meta-traits">
+      <PageReference>TT2:9</PageReference>
+    </Child>
+    <Child ReferenceText="racial skills">
+      <PageReference>TT2:33</PageReference>
+    </Child>
+    <Child ReferenceText="suggested traits">
+      <PageReference>TT2:27</PageReference>
+      <PageReference>TT2:30</PageReference>
+      <PageReference>TT2:31</PageReference>
+    </Child>
+    <Child ReferenceText="taboo traits">
+      <PageReference>TT2:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Concentration (racial personality)">
+    <PageReference>TT2:32</PageReference>
+    <PageReference>TT2:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Consciousness">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:30-31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts advantage">
+    <PageReference>TT2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Creativity">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Culture">
+    <Child ReferenceText="trait variants defined by">
+      <PageReference>TT2:35</PageReference>
+    </Child>
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:34-35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Curiosity (racial personality)">
+    <PageReference>TT2:32</PageReference>
+    <PageReference>TT2:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cybershells">
+    <PageReference>TT2:7</PageReference>
+    <PageReference>TT2:20</PageReference>
+    <PageReference>TT2:30</PageReference>
+    <SeeAlso>Infomorphs</SeeAlso>
+    <SeeAlso>Machines</SeeAlso>
+    <SeeAlso>Robots</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Darkness penalties">
+    <Child ReferenceText="adjusting">
+      <PageReference>TT2:16-17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dayton-Wright DH-4 racial template">
+    <PageReference>TT2:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Decabrach racial template">
+    <PageReference>TT2:47-48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defense">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:29-30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Density">
+    <Child ReferenceText="limitation">
+      <PageReference>TT2:18</PageReference>
+    </Child>
+    <Child ReferenceText="materials">
+      <PageReference>TT2:19</PageReference>
+    </Child>
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:18-19</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>TT2:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Diffuse (Injury Tolerance)">
+    <SeeAlso>Swarms</SeeAlso>
+    <Child ReferenceText="elementals">
+      <PageReference>TT2:20</PageReference>
+      <PageReference>TT2:21</PageReference>
+    </Child>
+    <Child ReferenceText="energy beings">
+      <PageReference>TT2:21</PageReference>
+    </Child>
+    <Child ReferenceText="example template">
+      <PageReference>TT2:48</PageReference>
+    </Child>
+    <Child ReferenceText="features">
+      <PageReference>TT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="Injury Tolerance enhancements">
+      <PageReference>TT2:43</PageReference>
+    </Child>
+    <Child ReferenceText="postmortal">
+      <PageReference>TT2:21</PageReference>
+    </Child>
+    <Child ReferenceText="scale and">
+      <PageReference>TT2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Size Modifier and">
+      <PageReference>TT2:13</PageReference>
+    </Child>
+    <Child ReferenceText="defenses">
+      <PageReference>TT2:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantageous Alternate Form disadvantage">
+    <PageReference>TT2:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>TT2:5</PageReference>
+    <PageReference>TT2:45-46</PageReference>
+    <SeeAlso>Taboo Traits</SeeAlso>
+    <Child ReferenceText="meta-traits">
+      <PageReference>TT2:8-11</PageReference>
+      <PageReference>TT2:19-21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Early Maturation feature">
+    <PageReference>TT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ecological racial roles">
+    <PageReference>TT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Egoism (racial personality)">
+    <PageReference>TT2:32</PageReference>
+    <PageReference>TT2:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elastic Skin ability">
+    <PageReference>TT2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental power modifier">
+    <PageReference>TT2:21</PageReference>
+    <PageReference>TT2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elementals">
+    <Child ReferenceText="concentration traits">
+      <PageReference>TT2:32</PageReference>
+    </Child>
+    <Child ReferenceText="defenses">
+      <PageReference>TT2:29</PageReference>
+    </Child>
+    <Child ReferenceText="densities of materials">
+      <PageReference>TT2:19</PageReference>
+    </Child>
+    <Child ReferenceText="energy beings">
+      <PageReference>TT2:21</PageReference>
+    </Child>
+    <Child ReferenceText="mana and">
+      <PageReference>TT2:16</PageReference>
+    </Child>
+    <Child ReferenceText="meta-traits">
+      <PageReference>TT2:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="as spirits">
+      <PageReference>TT2:8</PageReference>
+      <PageReference>TT2:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Empathy (racial personality)">
+    <PageReference>TT2:32</PageReference>
+    <PageReference>TT2:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Encumbrance multiplier">
+    <Child ReferenceText="gravity">
+      <PageReference>TT2:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemies disadvantage">
+    <PageReference>TT2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy meta-traits">
+    <PageReference>TT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Features">
+    <PageReference>TT2:12</PageReference>
+    <PageReference>TT2:14</PageReference>
+    <PageReference>TT2:27</PageReference>
+    <PageReference>TT2:44</PageReference>
+    <Child ReferenceText="habitat-related">
+      <PageReference>TT2:15-17</PageReference>
+    </Child>
+    <Child ReferenceText="meta-trait-like">
+      <PageReference>TT2:10</PageReference>
+      <PageReference>TT2:19</PageReference>
+      <PageReference>TT2:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fixed (Attribute) taboo trait">
+    <PageReference>TT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fixed (Skill) taboo trait">
+    <PageReference>TT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flight advantage">
+    <PageReference>TT2:28</PageReference>
+    <PageReference>TT2:29</PageReference>
+    <Child ReferenceText="new limitation">
+      <PageReference>TT2:43</PageReference>
+    </Child>
+    <Child ReferenceText="meta-traits with">
+      <PageReference>TT2:9-11</PageReference>
+      <PageReference>TT2:20</PageReference>
+      <PageReference>TT2:21</PageReference>
+    </Child>
+    <Child ReferenceText="movement">
+      <PageReference>TT2:27</PageReference>
+      <PageReference>TT2:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fly demon racial template">
+    <PageReference>TT2:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <SeeAlso>Sustenance</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Fuel Supply feature">
+    <PageReference>TT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Functional racial roles">
+    <PageReference>TT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Funny Faces ability">
+    <PageReference>TT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Furries">
+    <PageReference>TT2:5</PageReference>
+    <PageReference>TT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Golems">
+    <Child ReferenceText="as race">
+      <PageReference>TT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Good Grip advantage">
+    <PageReference>TT2:28</PageReference>
+    <PageReference>TT2:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grace racial template">
+    <PageReference>TT2:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gracile feature">
+    <PageReference>TT2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravity">
+    <Child ReferenceText="example">
+      <PageReference>TT2:19</PageReference>
+    </Child>
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="Size and">
+      <PageReference>TT2:15</PageReference>
+    </Child>
+    <Child ReferenceText="ST and">
+      <PageReference>TT2:15</PageReference>
+    </Child>
+    <Child ReferenceText="encumbrance multiplier">
+      <PageReference>TT2:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gregariousness (racial personality)">
+    <PageReference>TT2:32</PageReference>
+    <PageReference>TT2:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>TT2:3</PageReference>
+    <PageReference>TT2:4</PageReference>
+    <PageReference>TT2:5</PageReference>
+    <PageReference>TT2:7</PageReference>
+    <PageReference>TT2:14</PageReference>
+    <PageReference>TT2:17</PageReference>
+    <PageReference>TT2:23</PageReference>
+    <PageReference>TT2:24</PageReference>
+    <PageReference>TT2:28</PageReference>
+    <PageReference>TT2:29</PageReference>
+    <PageReference>TT2:31</PageReference>
+    <PageReference>TT2:34</PageReference>
+    <PageReference>TT2:36</PageReference>
+    <PageReference>TT2:38</PageReference>
+    <PageReference>TT2:42</PageReference>
+    <Child ReferenceText="Banestorm">
+      <PageReference>TT2:3</PageReference>
+    </Child>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>TT2:3</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>TT2:3</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>TT2:7</PageReference>
+      <PageReference>TT2:18</PageReference>
+      <PageReference>TT2:47</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>TT2:3</PageReference>
+      <PageReference>TT2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>TT2:3</PageReference>
+      <PageReference>TT2:23</PageReference>
+      <PageReference>TT2:44</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 3: Talents">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 6: Quirks">
+      <PageReference>TT2:3</PageReference>
+      <PageReference>TT2:23</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>TT2:3</PageReference>
+      <PageReference>TT2:6</PageReference>
+      <PageReference>TT2:20</PageReference>
+      <PageReference>TT2:26</PageReference>
+      <PageReference>TT2:27</PageReference>
+      <PageReference>TT2:29</PageReference>
+      <PageReference>TT2:35</PageReference>
+    </Child>
+    <Child ReferenceText="Powers: Enhanced Senses">
+      <PageReference>TT2:26</PageReference>
+      <PageReference>TT2:27</PageReference>
+    </Child>
+    <Child ReferenceText="Powers: The Weird">
+      <PageReference>TT2:38</PageReference>
+      <PageReference>TT2:40</PageReference>
+    </Child>
+    <Child ReferenceText="Space">
+      <PageReference>TT2:6</PageReference>
+      <PageReference>TT2:15</PageReference>
+      <PageReference>TT2:16</PageReference>
+      <PageReference>TT2:17</PageReference>
+      <PageReference>TT2:31</PageReference>
+    </Child>
+    <Child ReferenceText="Template Toolkit 1: Characters">
+      <PageReference>TT2:3</PageReference>
+      <PageReference>TT2:23</PageReference>
+      <PageReference>TT2:34</PageReference>
+      <PageReference>TT2:36</PageReference>
+      <PageReference>TT2:41</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>TT2:23</PageReference>
+      <PageReference>TT2:34</PageReference>
+    </Child>
+    <Child ReferenceText="UltraTech">
+      <PageReference>TT2:3</PageReference>
+      <PageReference>TT2:7</PageReference>
+      <PageReference>TT2:23</PageReference>
+      <PageReference>TT2:46</PageReference>
+      <PageReference>TT2:48</PageReference>
+    </Child>
+    <Child ReferenceText="Zombies">
+      <PageReference>TT2:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Habitat">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:15-18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hardened option">
+    <Child ReferenceText="as Resistant">
+      <PageReference>TT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Height">
+    <SeeAlso>Scale</SeeAlso>
+    <Child ReferenceText="build features and">
+      <PageReference>TT2:14</PageReference>
+    </Child>
+    <Child ReferenceText="based on Size Modifier">
+      <PageReference>TT2:13-14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit locations">
+    <Child ReferenceText="new body plans">
+      <PageReference>TT2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit Points (HP) attribute">
+    <PageReference>TT2:24</PageReference>
+    <Child ReferenceText="density and">
+      <PageReference>TT2:18-19</PageReference>
+    </Child>
+    <Child ReferenceText="related features">
+      <PageReference>TT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="scale and">
+      <PageReference>TT2:13-14</PageReference>
+    </Child>
+    <Child ReferenceText="Size Modifier and">
+      <PageReference>TT2:13</PageReference>
+      <PageReference>TT2:19</PageReference>
+    </Child>
+    <Child ReferenceText="swarms">
+      <PageReference>TT2:15</PageReference>
+    </Child>
+    <Child ReferenceText="tiny scores">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+    <Child ReferenceText="weightless environments">
+      <PageReference>TT2:16</PageReference>
+    </Child>
+    <Child ReferenceText="worked example">
+      <PageReference>TT2:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Homogenous (Injury Tolerance)">
+    <Child ReferenceText="density and">
+      <PageReference>TT2:13</PageReference>
+    </Child>
+    <Child ReferenceText="elementals">
+      <PageReference>TT2:20</PageReference>
+      <PageReference>TT2:21</PageReference>
+    </Child>
+    <Child ReferenceText="nanomorphs">
+      <PageReference>TT2:11</PageReference>
+    </Child>
+    <Child ReferenceText="scale and">
+      <PageReference>TT2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Size Modifier and">
+      <PageReference>TT2:13</PageReference>
+    </Child>
+    <Child ReferenceText="defenses">
+      <PageReference>TT2:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Host of flies racial template">
+    <PageReference>TT2:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Humanoids">
+    <SeeAlso>Aliens</SeeAlso>
+    <SeeAlso>Races</SeeAlso>
+    <SeeAlso>Racial Templates</SeeAlso>
+    <SeeAlso>Robots</SeeAlso>
+    <Child ReferenceText="build features">
+      <PageReference>TT2:14</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>TT2:42</PageReference>
+    </Child>
+    <Child ReferenceText="Injury Tolerance variant">
+      <PageReference>TT2:43</PageReference>
+    </Child>
+    <Child ReferenceText="meta-traits">
+      <PageReference>TT2:9</PageReference>
+      <PageReference>TT2:10</PageReference>
+    </Child>
+    <Child ReferenceText="weights">
+      <PageReference>TT2:13</PageReference>
+    </Child>
+    <Child ReferenceText="as race">
+      <PageReference>TT2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hybrids">
+    <Child ReferenceText="as race">
+      <PageReference>TT2:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Illumination">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:16-17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion advantage">
+    <PageReference>TT2:20</PageReference>
+    <PageReference>TT2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusory beings">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imagination (racial personality)">
+    <PageReference>TT2:32</PageReference>
+    <PageReference>TT2:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immunity advantage">
+    <SeeAlso>Resistant Advantage</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Increased Consumption disadvantage">
+    <PageReference>TT2:25</PageReference>
+    <PageReference>TT2:45</PageReference>
+    <Child ReferenceText="Cast-Iron Stomach">
+      <PageReference>TT2:25</PageReference>
+      <PageReference>TT2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Infomorphs">
+    <SeeAlso>Robots</SeeAlso>
+    <Child ReferenceText="as race">
+      <PageReference>TT2:7</PageReference>
+    </Child>
+    <Child ReferenceText="cognition">
+      <PageReference>TT2:31</PageReference>
+    </Child>
+    <Child ReferenceText="consciousness">
+      <PageReference>TT2:31</PageReference>
+    </Child>
+    <Child ReferenceText="magic and">
+      <PageReference>TT2:34</PageReference>
+    </Child>
+    <Child ReferenceText="mentality meta-traits">
+      <PageReference>TT2:9</PageReference>
+    </Child>
+    <Child ReferenceText="physical appearance">
+      <PageReference>TT2:20</PageReference>
+    </Child>
+    <Child ReferenceText="racial personality traits">
+      <PageReference>TT2:31-32</PageReference>
+    </Child>
+    <Child ReferenceText="racial personality">
+      <PageReference>TT2:31</PageReference>
+      <PageReference>TT2:32</PageReference>
+    </Child>
+    <Child ReferenceText="Reprogrammable">
+      <PageReference>TT2:30</PageReference>
+    </Child>
+    <Child ReferenceText="taboo trait">
+      <PageReference>TT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="as Contacts">
+      <PageReference>TT2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury Tolerance advantage">
+    <Child ReferenceText="elementals">
+      <PageReference>TT2:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="energy beings">
+      <PageReference>TT2:21</PageReference>
+    </Child>
+    <Child ReferenceText="feature">
+      <PageReference>TT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="new enhancements">
+      <PageReference>TT2:43</PageReference>
+    </Child>
+    <Child ReferenceText="new variant">
+      <PageReference>TT2:43</PageReference>
+    </Child>
+    <Child ReferenceText="swarms">
+      <PageReference>TT2:14</PageReference>
+      <PageReference>TT2:43</PageReference>
+    </Child>
+    <Child ReferenceText="undead">
+      <PageReference>TT2:8</PageReference>
+      <PageReference>TT2:21</PageReference>
+    </Child>
+    <Child ReferenceText="defense">
+      <PageReference>TT2:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Insensate taboo trait">
+    <PageReference>TT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intelligence (IQ) attribute">
+    <PageReference>TT2:24</PageReference>
+    <PageReference>TT2:31</PageReference>
+    <PageReference>TT2:33</PageReference>
+    <Child ReferenceText="communication">
+      <PageReference>TT2:27</PageReference>
+    </Child>
+    <Child ReferenceText="Complexity-Limited">
+      <PageReference>TT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="computer Complexity">
+      <PageReference>TT2:7</PageReference>
+    </Child>
+    <Child ReferenceText="Dancing skill">
+      <PageReference>TT2:27</PageReference>
+    </Child>
+    <Child ReferenceText="guidelines">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+    <Child ReferenceText="suggested levels">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Itching condition">
+    <PageReference>TT2:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumping">
+    <Child ReferenceText="movement">
+      <PageReference>TT2:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Languages">
+    <PageReference>TT2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Length">
+    <SeeAlso>Height</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <Child ReferenceText="creating">
+      <PageReference>TT2:23</PageReference>
+      <PageReference>TT2:34-35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Limbs">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Machines">
+    <SeeAlso>Compartmentalized Mind Advantage</SeeAlso>
+    <SeeAlso>Computers</SeeAlso>
+    <SeeAlso>Robots</SeeAlso>
+    <SeeAlso>Races</SeeAlso>
+    <SeeAlso>Racial Templates</SeeAlso>
+    <SeeAlso>Unliving</SeeAlso>
+    <SeeAlso>Vehicles</SeeAlso>
+    <Child ReferenceText="atmosphere and">
+      <PageReference>TT2:15</PageReference>
+    </Child>
+    <Child ReferenceText="attacks">
+      <PageReference>TT2:29</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic scale">
+      <PageReference>TT2:13-14</PageReference>
+    </Child>
+    <Child ReferenceText="communication">
+      <PageReference>TT2:27</PageReference>
+    </Child>
+    <Child ReferenceText="composition meta-traits">
+      <PageReference>TT2:20</PageReference>
+    </Child>
+    <Child ReferenceText="consciousness">
+      <PageReference>TT2:31</PageReference>
+    </Child>
+    <Child ReferenceText="defenses">
+      <PageReference>TT2:29-30</PageReference>
+    </Child>
+    <Child ReferenceText="density">
+      <PageReference>TT2:19</PageReference>
+    </Child>
+    <Child ReferenceText="functional roles">
+      <PageReference>TT2:23</PageReference>
+    </Child>
+    <Child ReferenceText="Intelligence (IQ)">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>TT2:34</PageReference>
+    </Child>
+    <Child ReferenceText="mana levels and">
+      <PageReference>TT2:16</PageReference>
+    </Child>
+    <Child ReferenceText="manipulation">
+      <PageReference>TT2:28</PageReference>
+    </Child>
+    <Child ReferenceText="meta-trait">
+      <PageReference>TT2:9</PageReference>
+    </Child>
+    <Child ReferenceText="morphology meta-traits">
+      <PageReference>TT2:10</PageReference>
+    </Child>
+    <Child ReferenceText="movement">
+      <PageReference>TT2:27-28</PageReference>
+    </Child>
+    <Child ReferenceText="nanotechnology">
+      <PageReference>TT2:11</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>TT2:23</PageReference>
+    </Child>
+    <Child ReferenceText="radiation and">
+      <PageReference>TT2:17</PageReference>
+    </Child>
+    <Child ReferenceText="related features">
+      <PageReference>TT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="senses">
+      <PageReference>TT2:26</PageReference>
+    </Child>
+    <Child ReferenceText="sustenance">
+      <PageReference>TT2:25-26</PageReference>
+    </Child>
+    <Child ReferenceText="swarms">
+      <PageReference>TT2:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="transformational abilities">
+      <PageReference>TT2:39</PageReference>
+    </Child>
+    <Child ReferenceText="as unique beings">
+      <PageReference>TT2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Pockets ability">
+    <PageReference>TT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:34</PageReference>
+    </Child>
+    <Child ReferenceText="mana levels">
+      <PageReference>TT2:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magivores">
+    <PageReference>TT2:16</PageReference>
+    <PageReference>TT2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manipulation">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Materialization ability">
+    <PageReference>TT2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mecha">
+    <SeeAlso>Machines</SeeAlso>
+    <SeeAlso>Robots</SeeAlso>
+    <Child ReferenceText="hit locations">
+      <PageReference>TT2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Memory">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental traits">
+    <PageReference>TT2:30-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentality meta-traits">
+    <PageReference>TT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-traits">
+    <Child ReferenceText="overview">
+      <PageReference>TT2:5</PageReference>
+      <PageReference>TT2:8</PageReference>
+    </Child>
+    <Child ReferenceText="lists">
+      <PageReference>TT2:8-11</PageReference>
+      <PageReference>TT2:19-21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Morph advantage">
+    <PageReference>TT2:38-39</PageReference>
+    <SeeAlso>Alternate Form Advantage</SeeAlso>
+    <SeeAlso>Shapeshifting</SeeAlso>
+    <Child ReferenceText="board groups">
+      <PageReference>TT2:39</PageReference>
+    </Child>
+    <Child ReferenceText="other advantages vs" />
+    <Child ReferenceText="">
+      <PageReference>TT2:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Morphology meta-traits">
+    <PageReference>TT2:9-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Motivation">
+    <SeeAlso>Behavior</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Movement">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:27-28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanotechnology meta-traits">
+    <PageReference>TT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Legs disadvantage">
+    <PageReference>TT2:27</PageReference>
+    <PageReference>TT2:28</PageReference>
+    <Child ReferenceText="Cannot Jump and">
+      <PageReference>TT2:46</PageReference>
+    </Child>
+    <Child ReferenceText="Compartmentalized Mind and">
+      <PageReference>TT2:43</PageReference>
+    </Child>
+    <Child ReferenceText="meta-traits with">
+      <PageReference>TT2:10</PageReference>
+      <PageReference>TT2:11</PageReference>
+      <PageReference>TT2:20</PageReference>
+      <PageReference>TT2:21</PageReference>
+    </Child>
+    <Child ReferenceText="new variants">
+      <PageReference>TT2:46</PageReference>
+    </Child>
+    <Child ReferenceText="Sails and">
+      <PageReference>TT2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonautonomous feature">
+    <PageReference>TT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Not Pressurized feature">
+    <PageReference>TT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Not Subject to Aging feature">
+    <PageReference>TT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Not Subject to Fatigue feature">
+    <PageReference>TT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outward form">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrons advantage">
+    <PageReference>TT2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>TT2:45</PageReference>
+    <Child ReferenceText="racial design and">
+      <PageReference>TT2:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Personality profile">
+    <SeeAlso>Behavior</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Pestilent perk">
+    <PageReference>TT2:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Physical traits">
+    <PageReference>TT2:25-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plants">
+    <PageReference>TT2:6</PageReference>
+    <PageReference>TT2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Playfulness (racial personality)">
+    <PageReference>TT2:32</PageReference>
+    <PageReference>TT2:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Postmortal meta-traits">
+    <PageReference>TT2:21</PageReference>
+    <SeeAlso>Undead</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Potential Form feature">
+    <PageReference>TT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <Child ReferenceText="racial">
+      <PageReference>TT2:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Prosthetic body racial template">
+    <PageReference>TT2:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quirks">
+    <PageReference>TT2:46</PageReference>
+    <Child ReferenceText="racial design and">
+      <PageReference>TT2:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Races">
+    <SeeAlso>specific races</SeeAlso>
+    <Child ReferenceText="campaign restrictions">
+      <PageReference>TT2:22</PageReference>
+    </Child>
+    <Child ReferenceText="inventing">
+      <PageReference>TT2:38</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>TT2:5</PageReference>
+    </Child>
+    <Child ReferenceText="personality profile">
+      <PageReference>TT2:31-33</PageReference>
+      <PageReference>TT2:40-41</PageReference>
+    </Child>
+    <Child ReferenceText="player-designed">
+      <PageReference>TT2:37</PageReference>
+    </Child>
+    <Child ReferenceText="roleplaying">
+      <PageReference>TT2:40</PageReference>
+    </Child>
+    <Child ReferenceText="roles">
+      <PageReference>TT2:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="super">
+      <PageReference>TT2:36</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>TT2:5-8</PageReference>
+    </Child>
+    <Child ReferenceText="as powers">
+      <PageReference>TT2:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Racial templates">
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Disadvantages</SeeAlso>
+    <SeeAlso>Races</SeeAlso>
+    <SeeAlso>Shapeshifting</SeeAlso>
+    <SeeAlso>Skills</SeeAlso>
+    <Child ReferenceText="as packages">
+      <PageReference>TT2:5</PageReference>
+    </Child>
+    <Child ReferenceText="attributes on">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+    <Child ReferenceText="character templates vs" />
+    <Child ReferenceText="">
+      <PageReference>TT2:5</PageReference>
+    </Child>
+    <Child ReferenceText="conceptual design">
+      <PageReference>TT2:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="cost of">
+      <PageReference>TT2:36</PageReference>
+    </Child>
+    <Child ReferenceText="creating lenses and sub-races">
+      <PageReference>TT2:23</PageReference>
+      <PageReference>TT2:34-35</PageReference>
+    </Child>
+    <Child ReferenceText="defined">
+      <PageReference>TT2:4</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>TT2:42</PageReference>
+      <PageReference>TT2:47-49</PageReference>
+    </Child>
+    <Child ReferenceText="game presentation">
+      <PageReference>TT2:42</PageReference>
+    </Child>
+    <Child ReferenceText="mental traits on">
+      <PageReference>TT2:30-34</PageReference>
+    </Child>
+    <Child ReferenceText="modification">
+      <PageReference>TT2:37</PageReference>
+    </Child>
+    <Child ReferenceText="perks on">
+      <PageReference>TT2:23</PageReference>
+    </Child>
+    <Child ReferenceText="permanent transformation">
+      <PageReference>TT2:40</PageReference>
+    </Child>
+    <Child ReferenceText="physical traits on">
+      <PageReference>TT2:25-30</PageReference>
+    </Child>
+    <Child ReferenceText="quirks on">
+      <PageReference>TT2:23</PageReference>
+    </Child>
+    <Child ReferenceText="secondary characteristics on">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+    <Child ReferenceText="social traits on">
+      <PageReference>TT2:34-35</PageReference>
+    </Child>
+    <Child ReferenceText="Talents">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+    <Child ReferenceText="alternatives to">
+      <PageReference>TT2:4-5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation">
+    <PageReference>TT2:17</PageReference>
+    <Child ReferenceText="Regeneration advantage">
+      <PageReference>TT2:17</PageReference>
+    </Child>
+    <Child ReferenceText="other traits">
+      <PageReference>TT2:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation Hardened feature">
+    <PageReference>TT2:12</PageReference>
+    <PageReference>TT2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation Recovery perk">
+    <PageReference>TT2:17</PageReference>
+    <PageReference>TT2:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Raven racial template">
+    <PageReference>TT2:49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction modifiers">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Realism">
+    <Child ReferenceText="scale">
+      <PageReference>TT2:14</PageReference>
+    </Child>
+    <Child ReferenceText="food">
+      <PageReference>TT2:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reawakened feature">
+    <PageReference>TT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reference culture">
+    <PageReference>TT2:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant advantage">
+    <PageReference>TT2:29</PageReference>
+    <PageReference>TT2:30</PageReference>
+    <Child ReferenceText="new variant">
+      <PageReference>TT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Robots">
+    <SeeAlso>Machines</SeeAlso>
+    <SeeAlso>Races</SeeAlso>
+    <SeeAlso>Racial Templates</SeeAlso>
+    <SeeAlso>Unliving</SeeAlso>
+    <SeeAlso>Vehicles</SeeAlso>
+    <Child ReferenceText="Bioroid meta-trait">
+      <PageReference>TT2:9</PageReference>
+    </Child>
+    <Child ReferenceText="cognition">
+      <PageReference>TT2:31</PageReference>
+    </Child>
+    <Child ReferenceText="communication">
+      <PageReference>TT2:27</PageReference>
+    </Child>
+    <Child ReferenceText="composition meta-traits">
+      <PageReference>TT2:20</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>TT2:48-49</PageReference>
+    </Child>
+    <Child ReferenceText="hit locations">
+      <PageReference>TT2:10</PageReference>
+    </Child>
+    <Child ReferenceText="in campaigns">
+      <PageReference>TT2:22</PageReference>
+      <PageReference>TT2:23</PageReference>
+      <PageReference>TT2:41</PageReference>
+    </Child>
+    <Child ReferenceText="jumping">
+      <PageReference>TT2:28</PageReference>
+    </Child>
+    <Child ReferenceText="Machine meta-trait">
+      <PageReference>TT2:9</PageReference>
+    </Child>
+    <Child ReferenceText="mana levels and">
+      <PageReference>TT2:16</PageReference>
+    </Child>
+    <Child ReferenceText="manipulation">
+      <PageReference>TT2:28</PageReference>
+    </Child>
+    <Child ReferenceText="mentality metatraits">
+      <PageReference>TT2:9</PageReference>
+    </Child>
+    <Child ReferenceText="morphology meta-traits">
+      <PageReference>TT2:9-11</PageReference>
+    </Child>
+    <Child ReferenceText="nanotechnology">
+      <PageReference>TT2:11</PageReference>
+    </Child>
+    <Child ReferenceText="outward form">
+      <PageReference>TT2:30</PageReference>
+    </Child>
+    <Child ReferenceText="racial personality traits">
+      <PageReference>TT2:31-32</PageReference>
+    </Child>
+    <Child ReferenceText="senses">
+      <PageReference>TT2:26</PageReference>
+    </Child>
+    <Child ReferenceText="Telecommunication">
+      <PageReference>TT2:27</PageReference>
+      <PageReference>TT2:44</PageReference>
+    </Child>
+    <Child ReferenceText="Unnatural Features">
+      <PageReference>TT2:46</PageReference>
+    </Child>
+    <Child ReferenceText="as race">
+      <PageReference>TT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Robust feature">
+    <PageReference>TT2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sails perk">
+    <PageReference>TT2:28</PageReference>
+    <PageReference>TT2:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scale">
+    <PageReference>TT2:13-15</PageReference>
+    <Child ReferenceText="cinematic">
+      <PageReference>TT2:14</PageReference>
+      <PageReference>TT2:25</PageReference>
+    </Child>
+    <Child ReferenceText="density and">
+      <PageReference>TT2:18-19</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>TT2:19</PageReference>
+    </Child>
+    <Child ReferenceText="food and">
+      <PageReference>TT2:25</PageReference>
+    </Child>
+    <Child ReferenceText="gravity and">
+      <PageReference>TT2:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="realistic">
+      <PageReference>TT2:14</PageReference>
+    </Child>
+    <Child ReferenceText="swarms">
+      <PageReference>TT2:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="under the hood">
+      <PageReference>TT2:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:26-27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shapeshifting">
+    <Child ReferenceText="disadvantage">
+      <PageReference>TT2:46</PageReference>
+    </Child>
+    <Child ReferenceText="feature">
+      <PageReference>TT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="with other advantages">
+      <PageReference>TT2:39</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>TT2:35</PageReference>
+      <PageReference>TT2:38-39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Signals advantage">
+    <PageReference>TT2:27</PageReference>
+    <PageReference>TT2:30</PageReference>
+    <PageReference>TT2:44-45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Size Modifier (SM)">
+    <PageReference>TT2:13-14</PageReference>
+    <SeeAlso>Scale</SeeAlso>
+    <Child ReferenceText="build modifier">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+    <Child ReferenceText="effective vs" />
+    <Child ReferenceText="actual">
+      <PageReference>TT2:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="gravity and">
+      <PageReference>TT2:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="skeletal bodies">
+      <PageReference>TT2:21</PageReference>
+    </Child>
+    <Child ReferenceText="swarms">
+      <PageReference>TT2:14-15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skeletal bodies">
+    <PageReference>TT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skeletons">
+    <Child ReferenceText="as defense">
+      <PageReference>TT2:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="for templates">
+      <PageReference>TT2:33-35</PageReference>
+    </Child>
+    <Child ReferenceText="racial">
+      <PageReference>TT2:33</PageReference>
+      <PageReference>TT2:35</PageReference>
+    </Child>
+    <Child ReferenceText="racially learned spells">
+      <PageReference>TT2:34</PageReference>
+    </Child>
+    <Child ReferenceText="bonuses and penalties">
+      <PageReference>TT2:33-34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleep">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma disadvantage">
+    <PageReference>TT2:7</PageReference>
+    <PageReference>TT2:35</PageReference>
+    <Child ReferenceText="new variant">
+      <PageReference>TT2:46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Social traits">
+    <PageReference>TT2:34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Solvents">
+    <Child ReferenceText="definition">
+      <PageReference>TT2:17</PageReference>
+    </Child>
+    <Child ReferenceText="density and">
+      <PageReference>TT2:18-19</PageReference>
+    </Child>
+    <Child ReferenceText="illumination and">
+      <PageReference>TT2:17</PageReference>
+    </Child>
+    <Child ReferenceText="movement">
+      <PageReference>TT2:27</PageReference>
+    </Child>
+    <Child ReferenceText="tables">
+      <PageReference>TT2:18</PageReference>
+      <PageReference>TT2:19</PageReference>
+    </Child>
+    <Child ReferenceText="temperature and">
+      <PageReference>TT2:17</PageReference>
+    </Child>
+    <Child ReferenceText="biochemical meta-traits">
+      <PageReference>TT2:19-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <Child ReferenceText="racial">
+      <PageReference>TT2:34</PageReference>
+    </Child>
+    <Child ReferenceText="cost of fixed">
+      <PageReference>TT2:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirits">
+    <SeeAlso>Elementals</SeeAlso>
+    <SeeAlso>Races</SeeAlso>
+    <SeeAlso>Racial Templates</SeeAlso>
+    <SeeAlso>Undead</SeeAlso>
+    <Child ReferenceText="as race">
+      <PageReference>TT2:8</PageReference>
+    </Child>
+    <Child ReferenceText="communication">
+      <PageReference>TT2:27</PageReference>
+    </Child>
+    <Child ReferenceText="consciousness">
+      <PageReference>TT2:31</PageReference>
+    </Child>
+    <Child ReferenceText="defenses">
+      <PageReference>TT2:29-30</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>TT2:48</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>TT2:34</PageReference>
+    </Child>
+    <Child ReferenceText="mana levels">
+      <PageReference>TT2:16</PageReference>
+    </Child>
+    <Child ReferenceText="Materialization">
+      <PageReference>TT2:39</PageReference>
+    </Child>
+    <Child ReferenceText="meta-traits">
+      <PageReference>TT2:11</PageReference>
+    </Child>
+    <Child ReferenceText="physical appearance">
+      <PageReference>TT2:20</PageReference>
+    </Child>
+    <Child ReferenceText="racial personality">
+      <PageReference>TT2:31-32</PageReference>
+    </Child>
+    <Child ReferenceText="racial roles">
+      <PageReference>TT2:23</PageReference>
+    </Child>
+    <Child ReferenceText="racial skills">
+      <PageReference>TT2:33</PageReference>
+    </Child>
+    <Child ReferenceText="senses">
+      <PageReference>TT2:26</PageReference>
+    </Child>
+    <Child ReferenceText="Shapeshifting">
+      <PageReference>TT2:38-39</PageReference>
+    </Child>
+    <Child ReferenceText="spectral undead">
+      <PageReference>TT2:8</PageReference>
+    </Child>
+    <Child ReferenceText="as Contacts">
+      <PageReference>TT2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sterile feature">
+    <PageReference>TT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strength (ST) attribute">
+    <PageReference>TT2:24</PageReference>
+    <Child ReferenceText="density and">
+      <PageReference>TT2:18-19</PageReference>
+    </Child>
+    <Child ReferenceText="gravity and">
+      <PageReference>TT2:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="scale and">
+      <PageReference>TT2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Size Modifier and">
+      <PageReference>TT2:13</PageReference>
+    </Child>
+    <Child ReferenceText="skeletal bodies">
+      <PageReference>TT2:21</PageReference>
+    </Child>
+    <Child ReferenceText="swarms">
+      <PageReference>TT2:14</PageReference>
+    </Child>
+    <Child ReferenceText="tiny scores">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+    <Child ReferenceText="weightless environments">
+      <PageReference>TT2:16</PageReference>
+    </Child>
+    <Child ReferenceText="worked example">
+      <PageReference>TT2:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sub-races">
+    <PageReference>TT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Substance">
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-races">
+    <PageReference>TT2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suspicion (racial personality)">
+    <PageReference>TT2:32</PageReference>
+    <PageReference>TT2:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sustenance">
+    <Child ReferenceText="scale and">
+      <PageReference>TT2:25</PageReference>
+    </Child>
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:25-26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Swarms">
+    <SeeAlso>Diffuse</SeeAlso>
+    <Child ReferenceText="example template">
+      <PageReference>TT2:48</PageReference>
+    </Child>
+    <Child ReferenceText="feature">
+      <PageReference>TT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="Injury Tolerance and">
+      <PageReference>TT2:43</PageReference>
+    </Child>
+    <Child ReferenceText="nano">
+      <PageReference>TT2:11</PageReference>
+    </Child>
+    <Child ReferenceText="traits for">
+      <PageReference>TT2:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="communication">
+      <PageReference>TT2:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="densities  of materials">
+      <PageReference>TT2:19</PageReference>
+    </Child>
+    <Child ReferenceText="density">
+      <PageReference>TT2:18</PageReference>
+    </Child>
+    <Child ReferenceText="gravity">
+      <PageReference>TT2:16</PageReference>
+    </Child>
+    <Child ReferenceText="illumination levels">
+      <PageReference>TT2:17</PageReference>
+    </Child>
+    <Child ReferenceText="new hit locations">
+      <PageReference>TT2:10</PageReference>
+    </Child>
+    <Child ReferenceText="size and  weight">
+      <PageReference>TT2:13</PageReference>
+    </Child>
+    <Child ReferenceText="solvents">
+      <PageReference>TT2:18</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Move">
+      <PageReference>TT2:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Taboo traits">
+    <PageReference>TT2:12</PageReference>
+    <Child ReferenceText="biochemical">
+      <PageReference>TT2:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tail feature">
+    <PageReference>TT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <PageReference>TT2:24</PageReference>
+    <PageReference>TT2:33</PageReference>
+    <PageReference>TT2:37</PageReference>
+    <Child ReferenceText="magic">
+      <PageReference>TT2:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Technological meta-traits">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telecommunication advantage">
+    <PageReference>TT2:7</PageReference>
+    <PageReference>TT2:26</PageReference>
+    <PageReference>TT2:27</PageReference>
+    <Child ReferenceText="new variant">
+      <PageReference>TT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature">
+    <Child ReferenceText="water and">
+      <PageReference>TT2:17</PageReference>
+    </Child>
+    <Child ReferenceText="other solvents and">
+      <PageReference>TT2:17-18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature Tolerance advantage">
+    <PageReference>TT2:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <SeeAlso>Racial Templates</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Thematic racial roles">
+    <PageReference>TT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thought-forms">
+    <Child ReferenceText="as race">
+      <PageReference>TT2:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Time">
+    <Child ReferenceText="sense of">
+      <PageReference>TT2:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Toons">
+    <PageReference>TT2:6</PageReference>
+    <PageReference>TT2:39</PageReference>
+    <Child ReferenceText="meta-trait">
+      <PageReference>TT2:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Traits for templates">
+    <SeeAlso>Racial Templates</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Transformation">
+    <Child ReferenceText="permanent">
+      <PageReference>TT2:40</PageReference>
+    </Child>
+    <Child ReferenceText="Shapeshifting">
+      <PageReference>TT2:38-39</PageReference>
+    </Child>
+    <Child ReferenceText="other transformational abilities">
+      <PageReference>TT2:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Transhuman Space">
+    <PageReference>TT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tulpas">
+    <Child ReferenceText="as race">
+      <PageReference>TT2:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead">
+    <SeeAlso>Races</SeeAlso>
+    <SeeAlso>Racial Templates</SeeAlso>
+    <SeeAlso>Spirits</SeeAlso>
+    <Child ReferenceText="cognition">
+      <PageReference>TT2:31</PageReference>
+    </Child>
+    <Child ReferenceText="defenses">
+      <PageReference>TT2:29</PageReference>
+      <PageReference>TT2:30</PageReference>
+    </Child>
+    <Child ReferenceText="density">
+      <PageReference>TT2:18</PageReference>
+    </Child>
+    <Child ReferenceText="meta-traits">
+      <PageReference>TT2:21</PageReference>
+    </Child>
+    <Child ReferenceText="permanent transformation">
+      <PageReference>TT2:40</PageReference>
+    </Child>
+    <Child ReferenceText="racial personality">
+      <PageReference>TT2:31-32</PageReference>
+    </Child>
+    <Child ReferenceText="Social Stigma">
+      <PageReference>TT2:46</PageReference>
+    </Child>
+    <Child ReferenceText="weight change">
+      <PageReference>TT2:21</PageReference>
+    </Child>
+    <Child ReferenceText="as race">
+      <PageReference>TT2:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Under the hood">
+    <PageReference>TT2:14</PageReference>
+    <PageReference>TT2:39</PageReference>
+    <PageReference>TT2:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unliving (Injury Tolerance)">
+    <SeeAlso>Machines</SeeAlso>
+    <SeeAlso>Robots</SeeAlso>
+    <SeeAlso>Spirits</SeeAlso>
+    <SeeAlso>Undead</SeeAlso>
+    <Child ReferenceText="example template">
+      <PageReference>TT2:48-49</PageReference>
+    </Child>
+    <Child ReferenceText="features">
+      <PageReference>TT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="machines">
+      <PageReference>TT2:7</PageReference>
+      <PageReference>TT2:9</PageReference>
+    </Child>
+    <Child ReferenceText="scale and">
+      <PageReference>TT2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Size Modifier and">
+      <PageReference>TT2:13</PageReference>
+    </Child>
+    <Child ReferenceText="defenses">
+      <PageReference>TT2:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unnatural Features disadvantage">
+    <Child ReferenceText="new variants">
+      <PageReference>TT2:46</PageReference>
+    </Child>
+    <Child ReferenceText="Injury Tolerance and">
+      <PageReference>TT2:43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <SeeAlso>Compartmentalized Mind Advantage</SeeAlso>
+    <SeeAlso>Machines</SeeAlso>
+    <SeeAlso>Races</SeeAlso>
+    <SeeAlso>Racial Templates</SeeAlso>
+    <SeeAlso>Robots</SeeAlso>
+    <Child ReferenceText="Basic Move and">
+      <PageReference>TT2:24</PageReference>
+    </Child>
+    <Child ReferenceText="communication">
+      <PageReference>TT2:27</PageReference>
+    </Child>
+    <Child ReferenceText="composition  meta-traits">
+      <PageReference>TT2:20</PageReference>
+    </Child>
+    <Child ReferenceText="consciousness">
+      <PageReference>TT2:30</PageReference>
+    </Child>
+    <Child ReferenceText="core meta-trait">
+      <PageReference>TT2:9</PageReference>
+    </Child>
+    <Child ReferenceText="density">
+      <PageReference>TT2:18</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>TT2:47</PageReference>
+    </Child>
+    <Child ReferenceText="hit locations">
+      <PageReference>TT2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Injury Tolerance variant">
+      <PageReference>TT2:43</PageReference>
+    </Child>
+    <Child ReferenceText="Machine meta-trait">
+      <PageReference>TT2:9</PageReference>
+    </Child>
+    <Child ReferenceText="mana and">
+      <PageReference>TT2:16</PageReference>
+    </Child>
+    <Child ReferenceText="morphology meta-traits">
+      <PageReference>TT2:10-11</PageReference>
+    </Child>
+    <Child ReferenceText="movement">
+      <PageReference>TT2:27-28</PageReference>
+    </Child>
+    <Child ReferenceText="related feature">
+      <PageReference>TT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="senses">
+      <PageReference>TT2:26</PageReference>
+    </Child>
+    <Child ReferenceText="simplified statistics">
+      <PageReference>TT2:4</PageReference>
+    </Child>
+    <Child ReferenceText="Telecommunication">
+      <PageReference>TT2:43</PageReference>
+    </Child>
+    <Child ReferenceText="as race">
+      <PageReference>TT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vessels (for spirit)">
+    <Child ReferenceText="example">
+      <PageReference>TT2:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vibration Sense advantage">
+    <PageReference>TT2:26</PageReference>
+    <PageReference>TT2:27</PageReference>
+    <Child ReferenceText="new variant">
+      <PageReference>TT2:44</PageReference>
+    </Child>
+    <Child ReferenceText="Signals and">
+      <PageReference>TT2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Virtual beings">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vision rolls">
+    <Child ReferenceText="illumination and">
+      <PageReference>TT2:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weight">
+    <SeeAlso>Scale</SeeAlso>
+    <Child ReferenceText="related traits">
+      <PageReference>TT2:18-19</PageReference>
+    </Child>
+    <Child ReferenceText="skeletal bodies">
+      <PageReference>TT2:21</PageReference>
+    </Child>
+    <Child ReferenceText="based on Size Modifier">
+      <PageReference>TT2:13-14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weightless environments">
+    <PageReference>TT2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AI">
+    <PageReference>TT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Airship">
+    <PageReference>TT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammonia-Based Life Form">
+    <PageReference>TT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Angeloid">
+    <PageReference>TT2:9</PageReference>
+    <Child ReferenceText="hit locations">
+      <PageReference>TT2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animated Character">
+    <PageReference>TT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arachnoid">
+    <PageReference>TT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ashen Undead">
+    <PageReference>TT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Asteroid">
+    <PageReference>TT2:9</PageReference>
+    <Child ReferenceText="hit locations">
+      <PageReference>TT2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Automaton">
+    <PageReference>TT2:9</PageReference>
+    <Child ReferenceText="applications">
+      <PageReference>TT2:7</PageReference>
+      <PageReference>TT2:8</PageReference>
+      <PageReference>TT2:31</PageReference>
+      <PageReference>TT2:41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Avian">
+    <PageReference>TT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biochemical">
+    <PageReference>TT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioroid">
+    <Child ReferenceText="9 Boat">
+      <PageReference>TT2:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Air">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Earth">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Electricity">
+    <PageReference>TT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Fire">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Ice">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Light">
+    <PageReference>TT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Metal">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Sound">
+    <PageReference>TT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Stone">
+    <PageReference>TT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Swarm">
+    <PageReference>TT2:12</PageReference>
+    <SeeAlso>Swarms in main index</SeeAlso>
+    <Child ReferenceText="Injury Tolerance and">
+      <PageReference>TT2:43</PageReference>
+    </Child>
+    <Child ReferenceText="template with">
+      <PageReference>TT2:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Water">
+    <PageReference>TT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Wood">
+    <PageReference>TT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cancroid">
+    <PageReference>TT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Centauroid">
+    <PageReference>TT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chlorine-Based Life Form">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demon">
+    <PageReference>TT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diamondoid Structure">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Domestic Animal">
+    <PageReference>TT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ethane-Based Life Form">
+    <PageReference>TT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fixed-Wing Aircraft">
+    <PageReference>TT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glider">
+    <PageReference>TT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ground Vehicle">
+    <PageReference>TT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helicopter">
+    <PageReference>TT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helium-Based Life Form">
+    <PageReference>TT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helminth">
+    <PageReference>TT2:10</PageReference>
+    <Child ReferenceText="hit locations">
+      <PageReference>TT2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hexapod">
+    <PageReference>TT2:10</PageReference>
+    <Child ReferenceText="related">
+      <PageReference>TT2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hovercraft">
+    <PageReference>TT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hydrogen-Based Life Form">
+    <PageReference>TT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ichthyoid">
+    <PageReference>TT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intact Undead">
+    <PageReference>TT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron-Based Life Form">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron/Steel Structure">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light Metal Structure">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Machine">
+    <Child ReferenceText="9 Magma Life Forms">
+      <PageReference>TT2:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Methane-Based Life Form">
+    <PageReference>TT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mummified Undead">
+    <PageReference>TT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanomorph">
+    <PageReference>TT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Octopod">
+    <PageReference>TT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Organism meta-traits">
+    <PageReference>TT2:9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ovoid">
+    <PageReference>TT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phantasm">
+    <PageReference>TT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poltergeist">
+    <PageReference>TT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Polymer Structure">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quadruped">
+    <PageReference>TT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rotting Undead">
+    <PageReference>TT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scorpionoid">
+    <PageReference>TT2:10</PageReference>
+    <Child ReferenceText="hit locations">
+      <PageReference>TT2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Semi-Upright">
+    <PageReference>TT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serpentoid">
+    <PageReference>TT2:10</PageReference>
+    <Child ReferenceText="hit locations">
+      <PageReference>TT2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skeletal Undead">
+    <PageReference>TT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sprite">
+    <PageReference>TT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Submersible">
+    <PageReference>TT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sulfur-Based Life Form">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sulfuric Acid-Based Life Form">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tritonoid">
+    <PageReference>TT2:10</PageReference>
+    <Child ReferenceText="hit locations">
+      <PageReference>TT2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unmanifested Spirit">
+    <PageReference>TT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Upload">
+    <PageReference>TT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicle">
+    <PageReference>TT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vermiform">
+    <PageReference>TT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vespertilian">
+    <PageReference>TT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water-Based Life Form">
+    <PageReference>TT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild Animal">
+    <PageReference>TT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wooden Structure">
+    <PageReference>TT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Winged Hexapod">
+    <PageReference>TT2:10</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

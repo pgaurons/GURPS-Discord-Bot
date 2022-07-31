@@ -1,0 +1,1651 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="0 mobility">
+    <PageReference>MC27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AAA">
+    <PageReference>MC21-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerospace elements">
+    <PageReference>MC24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AEW">
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="After the battle results">
+    <PageReference>MC38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air army">
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Airborne early warning aircraft">
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Airborne feature">
+    <PageReference>MC8</PageReference>
+    <PageReference>MC31</PageReference>
+    <PageReference>MC40</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Airborne Ninja">
+    <PageReference>MC6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air Combat class">
+    <PageReference>MC6</PageReference>
+    <PageReference>MC26</PageReference>
+    <SeeAlso>Air Superiority</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Air elements">
+    <PageReference>MC24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air fleet">
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air force">
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air Logistic Strength">
+    <PageReference>MC13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air Logistics class">
+    <PageReference>MC13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air mobility">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Airship">
+    <PageReference>MC24</PageReference>
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air superiority">
+    <PageReference>MC31</PageReference>
+    <Child ReferenceText="bonus">
+      <PageReference>MC32</PageReference>
+      <PageReference>MC35</PageReference>
+      <PageReference>MC38</PageReference>
+      <PageReference>MC40</PageReference>
+      <PageReference>MC46</PageReference>
+    </Child>
+    <Child ReferenceText="recon modifier">
+      <PageReference>MC29</PageReference>
+      <PageReference>MC45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Attack strategy">
+    <PageReference>MC34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Defense strategy">
+    <PageReference>MC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Weather feature">
+    <PageReference>MC8</PageReference>
+    <PageReference>MC27</PageReference>
+    <PageReference>MC29</PageReference>
+    <PageReference>MC31</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambushes">
+    <PageReference>MC30</PageReference>
+    <PageReference>MC34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amphibious">
+    <SeeAlso>Marine feature</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Amphibious assaults">
+    <PageReference>MC26</PageReference>
+    <PageReference>MC40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amphibious warriors">
+    <PageReference>MC18</PageReference>
+    <PageReference>MC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antiaircraft artillery">
+    <PageReference>MC21-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antitank guided missiles">
+    <PageReference>MC21-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antitank guns">
+    <PageReference>MC21</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="APC">
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aquatic warriors">
+    <PageReference>MC18</PageReference>
+    <PageReference>MC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arm (air force)">
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <Child ReferenceText="superiority">
+      <PageReference>MC31</PageReference>
+    </Child>
+    <Child ReferenceText="class">
+      <PageReference>MC6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armored cars">
+    <PageReference>MC21</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armored personnel carrier">
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Army group">
+    <PageReference>MC20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artillery">
+    <Child ReferenceText="elements">
+      <PageReference>MC16</PageReference>
+      <PageReference>MC17</PageReference>
+      <PageReference>MC21-23</PageReference>
+    </Child>
+    <Child ReferenceText="superiority">
+      <PageReference>MC31</PageReference>
+      <PageReference>MC34</PageReference>
+      <PageReference>MC35</PageReference>
+      <PageReference>MC40</PageReference>
+      <PageReference>MC46</PageReference>
+    </Child>
+    <Child ReferenceText="class (Art)">
+      <PageReference>MC6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Assault guns">
+    <PageReference>MC21</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ATGM">
+    <PageReference>MC21-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attack strategies">
+    <PageReference>MC34-35</PageReference>
+    <PageReference>MC37</PageReference>
+    <Child ReferenceText="default">
+      <PageReference>MC34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad weather">
+    <PageReference>MC27-29</PageReference>
+    <PageReference>MC46</PageReference>
+    <PageReference>MC31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balloons">
+    <PageReference>MC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic Strategy Modifier">
+    <PageReference>MC30-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battalions">
+    <PageReference>MC20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Batteries (artillery)">
+    <PageReference>MC20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle length table">
+    <PageReference>MC46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle mages">
+    <PageReference>MC18</PageReference>
+    <PageReference>MC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle strategies">
+    <PageReference>MC34-36</PageReference>
+    <PageReference>MC46</PageReference>
+    <Child ReferenceText="reconnaissance and">
+      <PageReference>MC34</PageReference>
+    </Child>
+    <Child ReferenceText="selecting the right">
+      <PageReference>MC34</PageReference>
+    </Child>
+    <Child ReferenceText="special cases">
+      <PageReference>MC35-36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle Strategy roll">
+    <PageReference>MC34</PageReference>
+    <PageReference>MC36-37</PageReference>
+    <PageReference>MC47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battles">
+    <Child ReferenceText="sequence">
+      <PageReference>MC32-39</PageReference>
+      <PageReference>MC46</PageReference>
+    </Child>
+    <Child ReferenceText="special situations">
+      <PageReference>MC39-41</PageReference>
+    </Child>
+    <Child ReferenceText="resolution">
+      <PageReference>MC4</PageReference>
+      <PageReference>MC36-37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Battlesuits">
+    <PageReference>MC21</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battling monsters">
+    <PageReference>MC27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beasts">
+    <PageReference>MC18</PageReference>
+    <PageReference>MC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Before the battle">
+    <PageReference>MC30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boats">
+    <PageReference>MC18</PageReference>
+    <PageReference>MC23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bombers">
+    <PageReference>MC24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bowmen">
+    <PageReference>MC16</PageReference>
+    <PageReference>MC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brigades">
+    <PageReference>MC20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brigs (vessels)">
+    <PageReference>MC18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Building and maintaining forces">
+    <PageReference>MC5-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bunkered forces">
+    <SeeAlso>Encamped Forces</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="C3I">
+    <Child ReferenceText="superiority">
+      <PageReference>MC31</PageReference>
+      <PageReference>MC32</PageReference>
+      <PageReference>MC35</PageReference>
+      <PageReference>MC40</PageReference>
+      <PageReference>MC46</PageReference>
+    </Child>
+    <Child ReferenceText="class">
+      <PageReference>MC6-7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaign types">
+    <PageReference>MC26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigning">
+    <PageReference>MC14</PageReference>
+    <PageReference>MC26-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Capital ships">
+    <PageReference>MC23</PageReference>
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Captives">
+    <PageReference>MC39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carriers">
+    <PageReference>MC23</PageReference>
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cars">
+    <PageReference>MC21</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="CAS aircraft">
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Casualties">
+    <PageReference>MC28</PageReference>
+    <PageReference>MC37-39</PageReference>
+    <Child ReferenceText="for strategies">
+      <PageReference>MC34-36</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>MC31</PageReference>
+    </Child>
+    <Child ReferenceText="PCs or major NPCs">
+      <PageReference>MC37</PageReference>
+      <PageReference>MC39</PageReference>
+    </Child>
+    <Child ReferenceText="replacing">
+      <PageReference>MC14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cavalry">
+    <PageReference>MC15</PageReference>
+    <PageReference>MC16</PageReference>
+    <PageReference>MC20</PageReference>
+    <Child ReferenceText="class">
+      <PageReference>MC6</PageReference>
+    </Child>
+    <Child ReferenceText="elements">
+      <PageReference>MC16</PageReference>
+      <PageReference>MC17</PageReference>
+    </Child>
+    <Child ReferenceText="superiority">
+      <PageReference>MC31</PageReference>
+      <PageReference>MC32</PageReference>
+      <PageReference>MC35</PageReference>
+      <PageReference>MC38</PageReference>
+      <PageReference>MC40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cavalry pistols">
+    <PageReference>MC16</PageReference>
+    <PageReference>MC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="CEV">
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chariots">
+    <PageReference>MC16</PageReference>
+    <PageReference>MC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemical weapons">
+    <PageReference>MC41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Classes of elements">
+    <PageReference>MC5-7</PageReference>
+    <PageReference>MC13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close air support aircraft">
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coastal (Coast) mobility">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cogs">
+    <PageReference>MC18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat engineering vehicle">
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat engineers">
+    <PageReference>MC20</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat results">
+    <PageReference>MC36</PageReference>
+    <PageReference>MC47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Command (air force)">
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Command, Control, Communications, and Intelligence">
+    <SeeAlso>C3I</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Commanders">
+    <PageReference>MC4</PageReference>
+    <PageReference>MC26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Command post">
+    <PageReference>MC20</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Companies">
+    <PageReference>MC20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Confused forces">
+    <PageReference>MC34</PageReference>
+    <PageReference>MC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corps">
+    <PageReference>MC20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost">
+    <SeeAlso>Quality of Elements</SeeAlso>
+    <Child ReferenceText="to maintain">
+      <PageReference>MC8</PageReference>
+      <PageReference>MC13</PageReference>
+    </Child>
+    <Child ReferenceText="to raise">
+      <PageReference>MC8</PageReference>
+      <PageReference>MC12</PageReference>
+      <PageReference>MC13</PageReference>
+    </Child>
+    <Child ReferenceText="of elements">
+      <PageReference>MC7-8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="CP">
+    <PageReference>MC20</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Customization cost of features">
+    <PageReference>MC8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Customization of elements">
+    <PageReference>MC5-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cv class">
+    <PageReference>MC6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Day feature">
+    <PageReference>MC10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defended ford or bridge crossing">
+    <PageReference>MC31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defense Bonus">
+    <PageReference>MC32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defense strategies">
+    <PageReference>MC35</PageReference>
+    <Child ReferenceText="default">
+      <PageReference>MC35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Deliberate Attack strategy">
+    <PageReference>MC34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deliberate Defense strategy">
+    <PageReference>MC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deliberate parleys">
+    <PageReference>MC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deliberate strategies">
+    <PageReference>MC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Desperate strategy">
+    <PageReference>MC36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detailing actions">
+    <PageReference>MC33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disbanding elements">
+    <PageReference>MC14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disloyal feature">
+    <PageReference>MC8</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divisions (troop organization)">
+    <PageReference>MC20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Draft teams">
+    <PageReference>MC17</PageReference>
+    <PageReference>MC20</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drop ship">
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Economic considerations">
+    <PageReference>MC13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elements of forces">
+    <PageReference>MC4-5</PageReference>
+    <Child ReferenceText="optional features of">
+      <PageReference>MC8-11</PageReference>
+    </Child>
+    <Child ReferenceText="reading statistics of">
+      <PageReference>MC16</PageReference>
+      <PageReference>MC21</PageReference>
+    </Child>
+    <Child ReferenceText="round length and">
+      <PageReference>MC32</PageReference>
+    </Child>
+    <Child ReferenceText="TL0-5">
+      <PageReference>MC15-19</PageReference>
+    </Child>
+    <Child ReferenceText="TL6-12">
+      <PageReference>MC20-25</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>MC5-6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Encamped forces">
+    <PageReference>MC27</PageReference>
+    <PageReference>MC28</PageReference>
+    <PageReference>MC40</PageReference>
+    <Child ReferenceText="battle modifiers for">
+      <PageReference>MC30-32</PageReference>
+      <PageReference>MC39</PageReference>
+    </Child>
+    <Child ReferenceText="mobility modifier">
+      <PageReference>MC29</PageReference>
+      <PageReference>MC45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Encounter battles">
+    <PageReference>MC29</PageReference>
+    <PageReference>MC30</PageReference>
+    <PageReference>MC32</PageReference>
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Engineering">
+    <Child ReferenceText="superiority">
+      <PageReference>MC31</PageReference>
+      <PageReference>MC32</PageReference>
+      <PageReference>MC40</PageReference>
+    </Child>
+    <Child ReferenceText="class">
+      <PageReference>MC7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Environmental issues">
+    <PageReference>MC28</PageReference>
+    <PageReference>MC31</PageReference>
+    <SeeAlso>Bad Weather</SeeAlso>
+    <SeeAlso>Night</SeeAlso>
+    <SeeAlso>and Terrain</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment quality">
+    <PageReference>MC11</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Escort ships">
+    <PageReference>MC23</PageReference>
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Escorting civilians">
+    <PageReference>MC28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Examples of heroism and blunders">
+    <PageReference>MC33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exceptional powers in battle">
+    <PageReference>MC41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="F elements">
+    <PageReference>MC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FA">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Factors affecting movement">
+    <PageReference>MC27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fanatic feature">
+    <PageReference>MC8</PageReference>
+    <PageReference>MC12</PageReference>
+    <PageReference>MC33</PageReference>
+    <PageReference>MC37</PageReference>
+    <PageReference>MC38</PageReference>
+    <PageReference>MC45</PageReference>
+    <PageReference>MC47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fantastic elements">
+    <PageReference>MC18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast Air mobility">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+    <PageReference>MC40</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast attack boats">
+    <PageReference>MC23</PageReference>
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Features of elements">
+    <PageReference>MC5</PageReference>
+    <PageReference>MC8-11</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fighters (aircraft)">
+    <PageReference>MC24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fighting forces">
+    <PageReference>MC4</PageReference>
+    <PageReference>MC5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fighting Retreat strategy">
+    <PageReference>MC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fighting the battle">
+    <PageReference>MC32-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire">
+    <Child ReferenceText="superiority">
+      <PageReference>MC31</PageReference>
+      <PageReference>MC32</PageReference>
+      <PageReference>MC35</PageReference>
+    </Child>
+    <Child ReferenceText="class">
+      <PageReference>MC7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flagship feature">
+    <PageReference>MC8-9</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fleets">
+    <PageReference>MC23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flotillas">
+    <PageReference>MC23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying">
+    <Child ReferenceText="battleships">
+      <PageReference>MC25</PageReference>
+    </Child>
+    <Child ReferenceText="battlesuits">
+      <PageReference>MC25</PageReference>
+    </Child>
+    <Child ReferenceText="beasts">
+      <PageReference>MC19</PageReference>
+    </Child>
+    <Child ReferenceText="cavalry">
+      <PageReference>MC19</PageReference>
+    </Child>
+    <Child ReferenceText="infantry">
+      <PageReference>MC19</PageReference>
+    </Child>
+    <Child ReferenceText="leviathan">
+      <PageReference>MC19</PageReference>
+    </Child>
+    <Child ReferenceText="mages">
+      <PageReference>MC19</PageReference>
+    </Child>
+    <Child ReferenceText="tanks">
+      <PageReference>MC25</PageReference>
+    </Child>
+    <Child ReferenceText="APC">
+      <PageReference>MC25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Foot mobility">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forced march">
+    <PageReference>MC28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forces">
+    <Child ReferenceText="example">
+      <PageReference>MC42-44</PageReference>
+    </Child>
+    <Child ReferenceText="movement of">
+      <PageReference>MC27-28</PageReference>
+    </Child>
+    <Child ReferenceText="replacements">
+      <PageReference>MC14</PageReference>
+    </Child>
+    <Child ReferenceText="battle participants">
+      <PageReference>MC4</PageReference>
+      <PageReference>MC5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fortresses">
+    <PageReference>MC39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frigates">
+    <PageReference>MC18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Full Retreat strategy">
+    <PageReference>MC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Galleys">
+    <PageReference>MC18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant flying monsters">
+    <PageReference>MC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant monsters">
+    <PageReference>MC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Giants">
+    <PageReference>MC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glossary">
+    <PageReference>MC5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guided missile escorts">
+    <PageReference>MC23</PageReference>
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunboats">
+    <PageReference>MC23</PageReference>
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>MC3</PageReference>
+    <Child ReferenceText="Banestorm">
+      <PageReference>MC42</PageReference>
+    </Child>
+    <Child ReferenceText="Compendium II">
+      <PageReference>MC3</PageReference>
+    </Child>
+    <Child ReferenceText="Conan">
+      <PageReference>MC3</PageReference>
+    </Child>
+    <Child ReferenceText="Horseclans">
+      <PageReference>MC3</PageReference>
+    </Child>
+    <Child ReferenceText="Japan">
+      <PageReference>MC3</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>MC41</PageReference>
+    </Child>
+    <Child ReferenceText="Viking">
+      <PageReference>MC3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heavy lift aircraft">
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hero feature">
+    <PageReference>MC9</PageReference>
+    <PageReference>MC14</PageReference>
+    <PageReference>MC41</PageReference>
+    <PageReference>MC42</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heroism roll">
+    <PageReference>MC33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horse">
+    <Child ReferenceText="artillery">
+      <PageReference>MC16</PageReference>
+      <PageReference>MC17</PageReference>
+    </Child>
+    <Child ReferenceText="archers">
+      <PageReference>MC16</PageReference>
+      <PageReference>MC17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hovercraft feature">
+    <PageReference>MC9</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HSW">
+    <PageReference>MC20</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IFV">
+    <PageReference>MC22</PageReference>
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impetuous feature">
+    <PageReference>MC9</PageReference>
+    <PageReference>MC33</PageReference>
+    <PageReference>MC37</PageReference>
+    <PageReference>MC45</PageReference>
+    <PageReference>MC47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvements and time">
+    <PageReference>MC12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Indirect Attack strategy">
+    <PageReference>MC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infantry elements">
+    <PageReference>MC15-17</PageReference>
+    <PageReference>MC19-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infantry fighting vehicle">
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Initiative">
+    <PageReference>MC30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intelligence chiefs">
+    <PageReference>MC26</PageReference>
+    <PageReference>MC28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intelligence">
+    <SeeAlso>Reconnaissance</SeeAlso>
+    <Child ReferenceText="initial">
+      <PageReference>MC30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jet">
+    <Child ReferenceText="fighterbombers">
+      <PageReference>MC25</PageReference>
+    </Child>
+    <Child ReferenceText="fighters">
+      <PageReference>MC25</PageReference>
+    </Child>
+    <Child ReferenceText="bombers">
+      <PageReference>MC25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Land beasts">
+    <PageReference>MC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Land elements">
+    <PageReference>MC16-17</PageReference>
+    <PageReference>MC20-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Landing craft">
+    <PageReference>MC23</PageReference>
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Land Logistic Strength">
+    <PageReference>MC13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Land Logistics class">
+    <PageReference>MC13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Land mobility">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leviathans">
+    <PageReference>MC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Levy feature">
+    <PageReference>MC9</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Line infantry">
+    <PageReference>MC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Logistic forces">
+    <PageReference>MC4</PageReference>
+    <PageReference>MC5</PageReference>
+    <PageReference>MC13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Logistic Strength">
+    <PageReference>MC9</PageReference>
+    <PageReference>MC13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Longships">
+    <PageReference>MC18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Looting the battlefield">
+    <PageReference>MC39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low readiness">
+    <PageReference>MC14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low-tech upgrades">
+    <PageReference>MC20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="LS">
+    <PageReference>MC9</PageReference>
+    <PageReference>MC13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mages">
+    <PageReference>MC18</PageReference>
+    <PageReference>MC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <PageReference>MC9</PageReference>
+    <PageReference>MC41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maintain (statistic)">
+    <PageReference>MC8</PageReference>
+    <PageReference>MC13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maintaining a force">
+    <PageReference>MC8</PageReference>
+    <PageReference>MC13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MANPAD">
+    <PageReference>MC21</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Man-portable air defenses">
+    <PageReference>MC21</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marine feature">
+    <PageReference>MC9</PageReference>
+    <PageReference>MC31</PageReference>
+    <PageReference>MC40</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MBT">
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mechanized (Mech) mobility">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medium lift aircraft">
+    <PageReference>MC24</PageReference>
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mercenary feature">
+    <PageReference>MC10</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military nanomachines">
+    <PageReference>MC41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military satellite constellation">
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="MILSAT">
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miners">
+    <PageReference>MC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Misfortunes of War">
+    <PageReference>MC36-39</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>MC37</PageReference>
+      <PageReference>MC47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mob (statistic)">
+    <SeeAlso>Mobile Forces and Mobility</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mobile Defense strategy">
+    <PageReference>MC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mobile forces">
+    <PageReference>MC27-28</PageReference>
+    <Child ReferenceText="recon modifiers">
+      <PageReference>MC29</PageReference>
+      <PageReference>MC45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mobility (statistic)">
+    <PageReference>MC5</PageReference>
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27-28</PageReference>
+    <Child ReferenceText="travel speeds">
+      <PageReference>MC27</PageReference>
+      <PageReference>MC45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Modern military force">
+    <PageReference>MC43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <PageReference>MC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mortar teams">
+    <PageReference>MC21</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Motorized (Motor) mobility">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+    <PageReference>MC31</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Motor recon">
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounted mobility">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+    <PageReference>MC31</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounted rifles">
+    <PageReference>MC21</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounts">
+    <PageReference>MC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Movement of forces">
+    <PageReference>MC27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mtd">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+    <PageReference>MC31</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple superiority bonuses">
+    <PageReference>MC32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Musketeers">
+    <PageReference>MC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mutual annihilation">
+    <PageReference>MC38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanomachines">
+    <PageReference>MC41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naval">
+    <Child ReferenceText="class">
+      <PageReference>MC7</PageReference>
+    </Child>
+    <Child ReferenceText="elements">
+      <PageReference>MC18</PageReference>
+      <PageReference>MC23-24</PageReference>
+    </Child>
+    <Child ReferenceText="superiority">
+      <PageReference>MC31</PageReference>
+      <PageReference>MC35</PageReference>
+      <PageReference>MC40</PageReference>
+    </Child>
+    <Child ReferenceText="battles">
+      <PageReference>MC40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Naval Logistics class">
+    <PageReference>MC13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naval Logistic Strength">
+    <PageReference>MC13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neutralize (Class) feature">
+    <PageReference>MC10</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neutralizing classes">
+    <PageReference>MC6</PageReference>
+    <PageReference>MC10</PageReference>
+    <PageReference>MC32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night (environment)">
+    <PageReference>MC28</PageReference>
+    <PageReference>MC31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night feature">
+    <PageReference>MC10</PageReference>
+    <PageReference>MC28</PageReference>
+    <PageReference>MC31</PageReference>
+    <PageReference>MC32</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No battle situation">
+    <PageReference>MC36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No maintenance">
+    <PageReference>MC14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No security">
+    <Child ReferenceText="for movement">
+      <PageReference>MC28</PageReference>
+    </Child>
+    <Child ReferenceText="recon and">
+      <PageReference>MC29</PageReference>
+      <PageReference>MC45</PageReference>
+    </Child>
+    <Child ReferenceText="for encampment">
+      <PageReference>MC28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nocturnal feature">
+    <PageReference>MC10</PageReference>
+    <PageReference>MC28</PageReference>
+    <PageReference>MC32</PageReference>
+    <PageReference>MC40</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nukes">
+    <PageReference>MC41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Number of elements and round length">
+    <PageReference>MC32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ogres">
+    <PageReference>MC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Operations">
+    <PageReference>MC27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Optional features of elements">
+    <PageReference>MC8-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Organization of TL0-5 elements">
+    <PageReference>MC15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Overrunning the enemy’s rear area">
+    <PageReference>MC38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parenthetical (Support) Troop Strength">
+    <PageReference>MC6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parley strategy">
+    <PageReference>MC35</PageReference>
+    <PageReference>MC36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrolling forces">
+    <PageReference>MC28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="PB">
+    <PageReference>MC36</PageReference>
+    <PageReference>MC37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="PE aircraft">
+    <PageReference>MC24</PageReference>
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pikemen">
+    <PageReference>MC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pioneers">
+    <PageReference>MC20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Piston-engine">
+    <Child ReferenceText="fighter-bombers">
+      <PageReference>MC24</PageReference>
+      <PageReference>MC25</PageReference>
+    </Child>
+    <Child ReferenceText="fighters">
+      <PageReference>MC24</PageReference>
+      <PageReference>MC25</PageReference>
+    </Child>
+    <Child ReferenceText="bombers">
+      <PageReference>MC24</PageReference>
+      <PageReference>MC25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pitched battles">
+    <PageReference>MC29</PageReference>
+    <PageReference>MC30</PageReference>
+    <PageReference>MC32</PageReference>
+    <PageReference>MC34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Platoons">
+    <PageReference>MC20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Post-battle results">
+    <PageReference>MC38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Position Bonus">
+    <PageReference>MC34</PageReference>
+    <PageReference>MC36</PageReference>
+    <PageReference>MC37</PageReference>
+    <PageReference>MC40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Posture of encamped forces">
+    <PageReference>MC28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <PageReference>MC9</PageReference>
+    <PageReference>MC41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Preparations">
+    <PageReference>MC26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pursuing a retreating force">
+    <PageReference>MC38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quality of elements">
+    <PageReference>MC5</PageReference>
+    <PageReference>MC11-12</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quantity of elements">
+    <PageReference>MC6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quartermasters">
+    <PageReference>MC26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick and dirty mass combat">
+    <PageReference>MC26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick casualty determination">
+    <PageReference>MC38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Raid strategies">
+    <PageReference>MC35</PageReference>
+    <PageReference>MC37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Raise (statistic)">
+    <PageReference>MC8</PageReference>
+    <PageReference>MC13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Raising a force">
+    <PageReference>MC12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rally strategy">
+    <PageReference>MC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recon">
+    <Child ReferenceText="superiority">
+      <PageReference>MC29</PageReference>
+      <PageReference>MC31</PageReference>
+      <PageReference>MC35</PageReference>
+      <PageReference>MC45</PageReference>
+    </Child>
+    <Child ReferenceText="class">
+      <PageReference>MC7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reconnaissance">
+    <Child ReferenceText="battle strategies and">
+      <PageReference>MC34</PageReference>
+    </Child>
+    <Child ReferenceText="movement and">
+      <PageReference>MC28</PageReference>
+    </Child>
+    <Child ReferenceText="operations">
+      <PageReference>MC28-30</PageReference>
+      <PageReference>MC45-46</PageReference>
+    </Child>
+    <Child ReferenceText="Terrain Rating and">
+      <PageReference>MC29</PageReference>
+      <PageReference>MC46</PageReference>
+    </Child>
+    <Child ReferenceText="adventures">
+      <PageReference>MC30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reconnaissance Contest">
+    <PageReference>MC28-29</PageReference>
+    <PageReference>MC45-46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reduced readiness of forces">
+    <PageReference>MC14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regiments">
+    <PageReference>MC20</PageReference>
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Relative Troop Strength">
+    <PageReference>MC31</PageReference>
+    <PageReference>MC46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retreating forces">
+    <PageReference>MC38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retreat strategies">
+    <PageReference>MC35</PageReference>
+    <PageReference>MC36</PageReference>
+    <PageReference>MC38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Riflemen">
+    <PageReference>MC21</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Risk Modifier">
+    <PageReference>MC33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rivers">
+    <PageReference>MC26</PageReference>
+    <PageReference>MC31</PageReference>
+    <PageReference>MC40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Round length">
+    <PageReference>MC32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SA">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SAM">
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scout aircraft">
+    <PageReference>MC24</PageReference>
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sea mobility">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+    <PageReference>MC40</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sea monsters">
+    <PageReference>MC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sealed feature">
+    <PageReference>MC10</PageReference>
+    <PageReference>MC41</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Security">
+    <Child ReferenceText="none provided">
+      <PageReference>MC28</PageReference>
+      <PageReference>MC29</PageReference>
+      <PageReference>MC45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Selecting the right battle strategy">
+    <PageReference>MC34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-propelled mortar">
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ships">
+    <Child ReferenceText="naval">
+      <PageReference>MC18</PageReference>
+      <PageReference>MC23-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ships-of-the-line">
+    <PageReference>MC18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sieges">
+    <PageReference>MC39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Significant actions">
+    <PageReference>MC33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skirmishers">
+    <PageReference>MC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skirmish strategies">
+    <PageReference>MC35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sky troopers">
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slow Air mobility">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SP">
+    <Child ReferenceText="artillery">
+      <PageReference>MC22</PageReference>
+      <PageReference>MC23</PageReference>
+    </Child>
+    <Child ReferenceText="mortar">
+      <PageReference>MC22</PageReference>
+    </Child>
+    <Child ReferenceText="AAA">
+      <PageReference>MC22</PageReference>
+      <PageReference>MC23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Special battle situations">
+    <PageReference>MC39-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special classes">
+    <Child ReferenceText="superiority">
+      <PageReference>MC6</PageReference>
+      <PageReference>MC29</PageReference>
+      <PageReference>MC31</PageReference>
+      <PageReference>MC45</PageReference>
+      <PageReference>MC46</PageReference>
+    </Child>
+    <Child ReferenceText="of elements">
+      <PageReference>MC5-7</PageReference>
+      <PageReference>MC13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Splitting forces">
+    <PageReference>MC28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spoils">
+    <PageReference>MC39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Squadrons">
+    <PageReference>MC20</PageReference>
+    <PageReference>MC23</PageReference>
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stalemate situation">
+    <PageReference>MC36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strategy roll">
+    <PageReference>MC34</PageReference>
+    <PageReference>MC36-37</PageReference>
+    <PageReference>MC47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stone-Age warriors">
+    <PageReference>MC16</PageReference>
+    <PageReference>MC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Submarines">
+    <PageReference>MC23</PageReference>
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subordinate commands">
+    <PageReference>MC4</PageReference>
+    <PageReference>MC40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super tank">
+    <PageReference>MC22</PageReference>
+    <PageReference>MC23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-Healing and force replacement">
+    <PageReference>MC14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superiority in a class">
+    <PageReference>MC6</PageReference>
+    <PageReference>MC29</PageReference>
+    <PageReference>MC31</PageReference>
+    <PageReference>MC45</PageReference>
+    <PageReference>MC46</PageReference>
+    <Child ReferenceText="multiple bonuses">
+      <PageReference>MC32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-Soldier feature">
+    <PageReference>MC10</PageReference>
+    <PageReference>MC41</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supply forces">
+    <SeeAlso>Logistic Forces</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Support Troop Strength">
+    <PageReference>MC6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Support weapons">
+    <PageReference>MC20</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surface-to-air missiles">
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surprising the enemy">
+    <PageReference>MC30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="T (class)">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+    <SeeAlso>Mobility</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="TAD">
+    <PageReference>MC21</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tank">
+    <PageReference>MC22</PageReference>
+    <PageReference>MC23</PageReference>
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Task forces">
+    <PageReference>MC23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Task groups">
+    <PageReference>MC23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Task units">
+    <PageReference>MC23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terrain">
+    <PageReference>MC10-11</PageReference>
+    <PageReference>MC14</PageReference>
+    <PageReference>MC28</PageReference>
+    <PageReference>MC29</PageReference>
+    <PageReference>MC31</PageReference>
+    <PageReference>MC32</PageReference>
+    <PageReference>MC35</PageReference>
+    <PageReference>MC39</PageReference>
+    <SeeAlso>Environmental Issues</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Terrain (Type) feature">
+    <PageReference>MC10-11</PageReference>
+    <PageReference>MC14</PageReference>
+    <PageReference>MC29</PageReference>
+    <PageReference>MC31</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terrain and Surprise Table">
+    <PageReference>MC29</PageReference>
+    <PageReference>MC46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terrain Rating">
+    <Child ReferenceText="reconnaissance and">
+      <PageReference>MC29</PageReference>
+      <PageReference>MC45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Theater air defense site">
+    <PageReference>MC21</PageReference>
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Three-sided battles">
+    <PageReference>MC40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time to raise a force">
+    <PageReference>MC12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Titans">
+    <PageReference>MC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TL0-5">
+    <Child ReferenceText="land elements">
+      <PageReference>MC16-17</PageReference>
+    </Child>
+    <Child ReferenceText="naval elements">
+      <PageReference>MC18</PageReference>
+    </Child>
+    <Child ReferenceText="fantastic elements">
+      <PageReference>MC18-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="TL6-12">
+    <Child ReferenceText="land elements">
+      <PageReference>MC20-23</PageReference>
+    </Child>
+    <Child ReferenceText="naval elements">
+      <PageReference>MC23-24</PageReference>
+    </Child>
+    <Child ReferenceText="air elements">
+      <PageReference>MC24-25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Towed heavy-weapons elements">
+    <PageReference>MC21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transport class">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+    <SeeAlso>Mobility</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Transport weight">
+    <PageReference>MC5</PageReference>
+    <PageReference>MC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel speed of mobile forces">
+    <PageReference>MC27-28</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Troop carrier">
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Troop quality">
+    <PageReference>MC11-12</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Troops (cavalry)">
+    <PageReference>MC20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Troop Strength (TS)">
+    <PageReference>MC4-6</PageReference>
+    <PageReference>MC26</PageReference>
+    <PageReference>MC30-32</PageReference>
+    <PageReference>MC41</PageReference>
+    <PageReference>MC45</PageReference>
+    <PageReference>MC46</PageReference>
+    <SeeAlso>Battle Strategies</SeeAlso>
+    <SeeAlso>Quality of Elements</SeeAlso>
+    <SeeAlso>TL0-5</SeeAlso>
+    <SeeAlso>TL6-12</SeeAlso>
+    <SeeAlso>and specific features</SeeAlso>
+    <Child ReferenceText="causalities and">
+      <PageReference>MC37</PageReference>
+      <PageReference>MC38</PageReference>
+    </Child>
+    <Child ReferenceText="readiness and">
+      <PageReference>MC14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trucks">
+    <PageReference>MC22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TS">
+    <SeeAlso>Troop Strength</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Units of elements">
+    <PageReference>MC5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unliving troops">
+    <PageReference>MC11</PageReference>
+    <PageReference>MC41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Upgrading low-tech troops">
+    <PageReference>MC20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="U.S. Army, HMMWV">
+	<PageReference>MC44</PageReference>
+    <Child ReferenceText="infantry headquarters">
+      <PageReference>MC44</PageReference>
+    </Child>
+    <Child ReferenceText="infantry heavy weapons team">
+      <PageReference>MC43</PageReference>
+      <PageReference>MC44</PageReference>
+    </Child>
+    <Child ReferenceText="infantry Stinger team">
+      <PageReference>MC44</PageReference>
+    </Child>
+    <Child ReferenceText="M113 APC">
+      <PageReference>MC44</PageReference>
+    </Child>
+    <Child ReferenceText="M2A3 Bradley">
+      <PageReference>MC43</PageReference>
+      <PageReference>MC44</PageReference>
+    </Child>
+    <Child ReferenceText="rifle squad">
+      <PageReference>MC43</PageReference>
+      <PageReference>MC44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Utility aircraft">
+    <PageReference>MC25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicle elements">
+    <PageReference>MC21-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vessels">
+    <PageReference>MC23</PageReference>
+    <SeeAlso>Ships</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Victory">
+    <PageReference>MC38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="War beasts">
+    <PageReference>MC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="War galleys">
+    <PageReference>MC18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water mobility">
+    <PageReference>MC7</PageReference>
+    <PageReference>MC27</PageReference>
+    <PageReference>MC45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons of mass destruction">
+    <PageReference>MC41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wing group">
+    <PageReference>MC24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Winning initiative">
+    <PageReference>MC30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="WMD">
+    <PageReference>MC41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="WT">
+    <PageReference>MC5</PageReference>
+    <PageReference>MC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yrth military force">
+    <PageReference>MC42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zero mobility">
+    <PageReference>MC27</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

@@ -1,0 +1,1468 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Acid rain">
+    <PageReference>ATE2:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acidic water">
+    <PageReference>ATE2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Campaigns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerosol particulates">
+    <PageReference>ATE2:10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aliens">
+    <Child ReferenceText="as hazard">
+      <PageReference>ATE2:20</PageReference>
+    </Child>
+    <Child ReferenceText="zombie cause">
+      <PageReference>ATE2:27</PageReference>
+    </Child>
+    <Child ReferenceText="as cause">
+      <PageReference>ATE2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alkaline mud">
+    <PageReference>ATE2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammunition">
+    <Child ReferenceText="bartering and">
+      <PageReference>ATE2:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <Child ReferenceText="hunting">
+      <PageReference>ATE2:30-31</PageReference>
+    </Child>
+    <Child ReferenceText="mutated">
+      <PageReference>ATE2:19-21</PageReference>
+    </Child>
+    <Child ReferenceText="trapping">
+      <PageReference>ATE2:30</PageReference>
+    </Child>
+    <Child ReferenceText="dogs">
+      <PageReference>ATE2:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Anthropology skill">
+    <PageReference>ATE2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bartering">
+    <PageReference>ATE2:46-47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle plans">
+    <PageReference>ATE2:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blustering">
+    <PageReference>ATE2:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bombardier beetles">
+    <PageReference>ATE2:19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bombs">
+    <PageReference>ATE2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bosses">
+    <Child ReferenceText="gang">
+      <PageReference>ATE2:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Buildings">
+    <PageReference>ATE2:32-36</PageReference>
+    <SeeAlso>Structural Integrity</SeeAlso>
+    <Child ReferenceText="additional dangers">
+      <PageReference>ATE2:36</PageReference>
+    </Child>
+    <Child ReferenceText="age penalties">
+      <PageReference>ATE2:8</PageReference>
+    </Child>
+    <Child ReferenceText="area exploration roll">
+      <PageReference>ATE2:34-35</PageReference>
+    </Child>
+    <Child ReferenceText="exploring">
+      <PageReference>ATE2:34-35</PageReference>
+    </Child>
+    <Child ReferenceText="getting inside">
+      <PageReference>ATE2:33-34</PageReference>
+    </Child>
+    <Child ReferenceText="location types">
+      <PageReference>ATE2:37</PageReference>
+    </Child>
+    <Child ReferenceText="mishaps">
+      <PageReference>ATE2:35</PageReference>
+    </Child>
+    <Child ReferenceText="scrounging">
+      <PageReference>ATE2:36-38</PageReference>
+    </Child>
+    <Child ReferenceText="structural collapse">
+      <PageReference>ATE2:35</PageReference>
+    </Child>
+    <Child ReferenceText="traps">
+      <PageReference>ATE2:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bullets">
+    <Child ReferenceText="bartering and">
+      <PageReference>ATE2:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bunkers">
+    <SeeAlso>Buildings</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cameras">
+    <PageReference>ATE2:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <SeeAlso>Causes and Effects</SeeAlso>
+    <Child ReferenceText="cinematic style">
+      <PageReference>ATE2:49</PageReference>
+    </Child>
+    <Child ReferenceText="downtime">
+      <PageReference>ATE2:51</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>ATE2:51-52</PageReference>
+    </Child>
+    <Child ReferenceText="gritty style">
+      <PageReference>ATE2:50</PageReference>
+    </Child>
+    <Child ReferenceText="heroic realism">
+      <PageReference>ATE2:49</PageReference>
+    </Child>
+    <Child ReferenceText="keeping heroes alive">
+      <PageReference>ATE2:50</PageReference>
+    </Child>
+    <Child ReferenceText="making everyone useful">
+      <PageReference>ATE2:52-53</PageReference>
+    </Child>
+    <Child ReferenceText="morality">
+      <PageReference>ATE2:50-51</PageReference>
+    </Child>
+    <Child ReferenceText="styles">
+      <PageReference>ATE2:49-53</PageReference>
+    </Child>
+    <Child ReferenceText="tech-level decisions">
+      <PageReference>ATE2:7-8</PageReference>
+    </Child>
+    <Child ReferenceText="time-frame decisions">
+      <PageReference>ATE2:8</PageReference>
+    </Child>
+    <Child ReferenceText="adding color">
+      <PageReference>ATE2:51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Camping">
+    <PageReference>ATE2:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Car Wars">
+    <PageReference>ATE2:51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Causes and effects">
+    <PageReference>ATE2:4-7</PageReference>
+    <Child ReferenceText="bombs">
+      <PageReference>ATE2:4</PageReference>
+    </Child>
+    <Child ReferenceText="cosmic rays">
+      <PageReference>ATE2:5</PageReference>
+    </Child>
+    <Child ReferenceText="dinosaur killer">
+      <PageReference>ATE2:5</PageReference>
+    </Child>
+    <Child ReferenceText="disease">
+      <PageReference>ATE2:5</PageReference>
+    </Child>
+    <Child ReferenceText="mega-virus">
+      <PageReference>ATE2:5</PageReference>
+    </Child>
+    <Child ReferenceText="meteor strike">
+      <PageReference>ATE2:5</PageReference>
+    </Child>
+    <Child ReferenceText="Mother Nature">
+      <PageReference>ATE2:5-6</PageReference>
+    </Child>
+    <Child ReferenceText="nuclear war">
+      <PageReference>ATE2:4</PageReference>
+    </Child>
+    <Child ReferenceText="number of">
+      <PageReference>ATE2:4</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>ATE2:4</PageReference>
+    </Child>
+    <Child ReferenceText="radiation">
+      <PageReference>ATE2:5</PageReference>
+    </Child>
+    <Child ReferenceText="reign of steel">
+      <PageReference>ATE2:6</PageReference>
+    </Child>
+    <Child ReferenceText="resource shortage">
+      <PageReference>ATE2:6-7</PageReference>
+    </Child>
+    <Child ReferenceText="robots">
+      <PageReference>ATE2:6</PageReference>
+    </Child>
+    <Child ReferenceText="societal collapse">
+      <PageReference>ATE2:6-7</PageReference>
+    </Child>
+    <Child ReferenceText="supernatural">
+      <PageReference>ATE2:5</PageReference>
+    </Child>
+    <Child ReferenceText="war">
+      <PageReference>ATE2:4</PageReference>
+      <PageReference>ATE2:6-7</PageReference>
+    </Child>
+    <Child ReferenceText="zombies">
+      <PageReference>ATE2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ceilings mishaps">
+    <PageReference>ATE2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemicals">
+    <PageReference>ATE2:9-11</PageReference>
+    <Child ReferenceText="trap effect">
+      <PageReference>ATE2:36</PageReference>
+    </Child>
+    <Child ReferenceText="weapons as hazards">
+      <PageReference>ATE2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cholera">
+    <PageReference>ATE2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Climate">
+    <Child ReferenceText="as hazard">
+      <PageReference>ATE2:12-13</PageReference>
+    </Child>
+    <Child ReferenceText="as cause">
+      <PageReference>ATE2:5-6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cold">
+    <PageReference>ATE2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colonies">
+    <Child ReferenceText="return of">
+      <PageReference>ATE2:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Colossus mutant">
+    <PageReference>ATE2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <PageReference>ATE2:43-46</PageReference>
+    <SeeAlso>Guns</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="extra effort options">
+      <PageReference>ATE2:45</PageReference>
+    </Child>
+    <Child ReferenceText="fighting on the move">
+      <PageReference>ATE2:45</PageReference>
+    </Child>
+    <Child ReferenceText="flipping a weapon">
+      <PageReference>ATE2:46</PageReference>
+    </Child>
+    <Child ReferenceText="gunplay">
+      <PageReference>ATE2:43-44</PageReference>
+    </Child>
+    <Child ReferenceText="horde">
+      <PageReference>ATE2:29</PageReference>
+    </Child>
+    <Child ReferenceText="posturing">
+      <PageReference>ATE2:44</PageReference>
+    </Child>
+    <Child ReferenceText="shadows and">
+      <PageReference>ATE2:44-45</PageReference>
+    </Child>
+    <Child ReferenceText="simplified range">
+      <PageReference>ATE2:43</PageReference>
+    </Child>
+    <Child ReferenceText="strategy">
+      <PageReference>ATE2:44</PageReference>
+    </Child>
+    <Child ReferenceText="surprise">
+      <PageReference>ATE2:44</PageReference>
+    </Child>
+    <Child ReferenceText="underwater shooting">
+      <PageReference>ATE2:46</PageReference>
+    </Child>
+    <Child ReferenceText="zombies">
+      <PageReference>ATE2:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <PageReference>ATE2:42-43</PageReference>
+    <SeeAlso>Nanotech</SeeAlso>
+    <SeeAlso>Robots</SeeAlso>
+    <Child ReferenceText="debugging">
+      <PageReference>ATE2:42</PageReference>
+    </Child>
+    <Child ReferenceText="hacking">
+      <PageReference>ATE2:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact toxins">
+    <PageReference>ATE2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic rays">
+    <SeeAlso>Radiation</SeeAlso>
+    <Child ReferenceText="zombie cause">
+      <PageReference>ATE2:27</PageReference>
+    </Child>
+    <Child ReferenceText="as cause">
+      <PageReference>ATE2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Resistance">
+    <Child ReferenceText="biohazard suit">
+      <PageReference>ATE2:47</PageReference>
+    </Child>
+    <Child ReferenceText="contact agents and">
+      <PageReference>ATE2:9</PageReference>
+    </Child>
+    <Child ReferenceText="doors and attached hardware">
+      <PageReference>ATE2:33</PageReference>
+    </Child>
+    <Child ReferenceText="joy buzzer trap and">
+      <PageReference>ATE2:36</PageReference>
+    </Child>
+    <Child ReferenceText="alkaline mud and">
+      <PageReference>ATE2:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Deadfalls">
+    <PageReference>ATE2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disappearing">
+    <Child ReferenceText="during combat">
+      <PageReference>ATE2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disassembler nano">
+    <PageReference>ATE2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disease">
+    <Child ReferenceText="as cause">
+      <PageReference>ATE2:5</PageReference>
+    </Child>
+    <Child ReferenceText="as trap">
+      <PageReference>ATE2:36</PageReference>
+    </Child>
+    <Child ReferenceText="as zombie cause">
+      <PageReference>ATE2:27</PageReference>
+    </Child>
+    <Child ReferenceText="carriers">
+      <PageReference>ATE2:14</PageReference>
+    </Child>
+    <Child ReferenceText="dealing with">
+      <PageReference>ATE2:13-14</PageReference>
+    </Child>
+    <Child ReferenceText="immunity">
+      <PageReference>ATE2:14</PageReference>
+      <PageReference>ATE2:28</PageReference>
+    </Child>
+    <Child ReferenceText="mutant-causing">
+      <PageReference>ATE2:11</PageReference>
+    </Child>
+    <Child ReferenceText="nanoviruses">
+      <PageReference>ATE2:23</PageReference>
+    </Child>
+    <Child ReferenceText="samples">
+      <PageReference>ATE2:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="weaponized">
+      <PageReference>ATE2:15</PageReference>
+    </Child>
+    <Child ReferenceText="zombie infection">
+      <PageReference>ATE2:15</PageReference>
+      <PageReference>ATE2:28</PageReference>
+    </Child>
+    <Child ReferenceText="as hazard">
+      <PageReference>ATE2:13-15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Distractions">
+    <Child ReferenceText="rules for">
+      <PageReference>ATE2:48</PageReference>
+    </Child>
+    <Child ReferenceText="during combat">
+      <PageReference>ATE2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Docs">
+    <Child ReferenceText="treating patients">
+      <PageReference>ATE2:45</PageReference>
+      <PageReference>ATE2:51</PageReference>
+    </Child>
+    <Child ReferenceText="challenges for">
+      <PageReference>ATE2:52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dogs">
+    <Child ReferenceText="hunting with">
+      <PageReference>ATE2:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Doors">
+    <PageReference>ATE2:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drugs">
+    <SeeAlso>Inventing</SeeAlso>
+    <Child ReferenceText="treatments">
+      <PageReference>ATE2:13</PageReference>
+      <PageReference>ATE2:18</PageReference>
+    </Child>
+    <Child ReferenceText="fabricating components">
+      <PageReference>ATE2:40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ebola-B">
+    <PageReference>ATE2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Encampments">
+    <PageReference>ATE2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Encouragement">
+    <Child ReferenceText="to teammates">
+      <PageReference>ATE2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="End of the world">
+    <SeeAlso>Causes and Effects</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosions">
+    <Child ReferenceText="traps">
+      <PageReference>ATE2:36</PageReference>
+    </Child>
+    <Child ReferenceText="creating">
+      <PageReference>ATE2:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra effort options, 45 Fallout, rain">
+    <PageReference>ATE2:13</PageReference>
+    <Child ReferenceText="sandstorms">
+      <PageReference>ATE2:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Falls">
+    <PageReference>ATE2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fences">
+    <PageReference>ATE2:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="First aid">
+    <PageReference>ATE2:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fitting in">
+    <Child ReferenceText="rules for">
+      <PageReference>ATE2:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Floor mishaps">
+    <PageReference>ATE2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Followers">
+    <Child ReferenceText="making">
+      <PageReference>ATE2:46</PageReference>
+      <PageReference>ATE2:51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <Child ReferenceText="hunting">
+      <PageReference>ATE2:30-31</PageReference>
+    </Child>
+    <Child ReferenceText="location type">
+      <PageReference>ATE2:37</PageReference>
+    </Child>
+    <Child ReferenceText="gathering">
+      <PageReference>ATE2:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Freakishness">
+    <Child ReferenceText="NPC mutants and">
+      <PageReference>ATE2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Friends">
+    <Child ReferenceText="making">
+      <PageReference>ATE2:46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteer advantage">
+    <Child ReferenceText="inventing, upgrading, and repairing and">
+      <PageReference>ATE2:39-41</PageReference>
+    </Child>
+    <Child ReferenceText="Gizmos and">
+      <PageReference>ATE2:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gangs">
+    <PageReference>ATE2:15-17</PageReference>
+    <SeeAlso>Mutants</SeeAlso>
+    <SeeAlso>Paramilitaries</SeeAlso>
+    <Child ReferenceText="identity">
+      <PageReference>ATE2:16</PageReference>
+    </Child>
+    <Child ReferenceText="attitude lenses">
+      <PageReference>ATE2:16</PageReference>
+    </Child>
+    <Child ReferenceText="encountering">
+      <PageReference>ATE2:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>ATE2:17</PageReference>
+    </Child>
+    <Child ReferenceText="infiltrating camps">
+      <PageReference>ATE2:33-34</PageReference>
+    </Child>
+    <Child ReferenceText="sample members">
+      <PageReference>ATE2:16-17</PageReference>
+    </Child>
+    <Child ReferenceText="social interactions">
+      <PageReference>ATE2:46-48</PageReference>
+    </Child>
+    <Child ReferenceText="traps and">
+      <PageReference>ATE2:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gathering food">
+    <PageReference>ATE2:30</PageReference>
+    <PageReference>ATE2:51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>Guns</SeeAlso>
+    <SeeAlso>Inventing</SeeAlso>
+    <SeeAlso>Parts</SeeAlso>
+    <SeeAlso>Repairs</SeeAlso>
+    <SeeAlso>Upgrading Gear</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="bartering value">
+      <PageReference>ATE2:46-47</PageReference>
+    </Child>
+    <Child ReferenceText="gang">
+      <PageReference>ATE2:17</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>ATE2:47</PageReference>
+    </Child>
+    <Child ReferenceText="value as parts">
+      <PageReference>ATE2:39-40</PageReference>
+    </Child>
+    <Child ReferenceText="analyzing">
+      <PageReference>ATE2:41-42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Generations">
+    <PageReference>ATE2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gizmos advantage">
+    <PageReference>ATE2:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gray goo (nanotech)">
+    <PageReference>ATE2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greys (aliens)">
+    <PageReference>ATE2:20</PageReference>
+    <SeeAlso>Aliens</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Guardian robots">
+    <PageReference>ATE2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns">
+    <Child ReferenceText="flipping to hand">
+      <PageReference>ATE2:46</PageReference>
+    </Child>
+    <Child ReferenceText="leading the target">
+      <PageReference>ATE2:44</PageReference>
+    </Child>
+    <Child ReferenceText="shooting two">
+      <PageReference>ATE2:44</PageReference>
+    </Child>
+    <Child ReferenceText="simplified rapid fire, 43 -44" />
+    <Child ReferenceText="simplified shooting, 43 -44" />
+    <Child ReferenceText="trap effect">
+      <PageReference>ATE2:36</PageReference>
+    </Child>
+    <Child ReferenceText="underwater shooting">
+      <PageReference>ATE2:46</PageReference>
+    </Child>
+    <Child ReferenceText="as melee weapons">
+      <PageReference>ATE2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>ATE2:49</PageReference>
+    <SeeAlso>Pyramid</SeeAlso>
+    <Child ReferenceText="Action 2: Exploits">
+      <PageReference>ATE2:3</PageReference>
+    </Child>
+    <Child ReferenceText="After the End">
+      <PageReference>ATE2:3</PageReference>
+      <PageReference>ATE2:7-9</PageReference>
+      <PageReference>ATE2:14</PageReference>
+      <PageReference>ATE2:24</PageReference>
+      <PageReference>ATE2:45</PageReference>
+      <PageReference>ATE2:49</PageReference>
+      <PageReference>ATE2:50</PageReference>
+      <PageReference>ATE2:51</PageReference>
+    </Child>
+    <Child ReferenceText="After the End 1: Wastelanders">
+      <PageReference>ATE2:3</PageReference>
+      <PageReference>ATE2:4</PageReference>
+      <PageReference>ATE2:7</PageReference>
+      <PageReference>ATE2:11-13</PageReference>
+      <PageReference>ATE2:18</PageReference>
+      <PageReference>ATE2:19</PageReference>
+      <PageReference>ATE2:24</PageReference>
+      <PageReference>ATE2:25</PageReference>
+      <PageReference>ATE2:30-32</PageReference>
+      <PageReference>ATE2:37-39</PageReference>
+      <PageReference>ATE2:44</PageReference>
+      <PageReference>ATE2:47</PageReference>
+      <PageReference>ATE2:49</PageReference>
+      <PageReference>ATE2:50</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>ATE2:3</PageReference>
+      <PageReference>ATE2:7</PageReference>
+    </Child>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>ATE2:3</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 16: Wilderness Adventures">
+      <PageReference>ATE2:3</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 3: Daily Life and Economics">
+      <PageReference>ATE2:3</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 3: The Enemy">
+      <PageReference>ATE2:3</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 5: Applied Xenology">
+      <PageReference>ATE2:20</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 5: Impulse Buys">
+      <PageReference>ATE2:49</PageReference>
+    </Child>
+    <Child ReferenceText="Reign of Steel: Will to Live">
+      <PageReference>ATE2:3</PageReference>
+      <PageReference>ATE2:26</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering">
+      <PageReference>ATE2:3</PageReference>
+      <PageReference>ATE2:46</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>ATE2:5</PageReference>
+    </Child>
+    <Child ReferenceText="Ultra-Tech">
+      <PageReference>ATE2:7</PageReference>
+      <PageReference>ATE2:26</PageReference>
+    </Child>
+    <Child ReferenceText="Y2K">
+      <PageReference>ATE2:3-5</PageReference>
+    </Child>
+    <Child ReferenceText="Zombies">
+      <PageReference>ATE2:3</PageReference>
+      <PageReference>ATE2:5</PageReference>
+      <PageReference>ATE2:27</PageReference>
+    </Child>
+    <Child ReferenceText="Zombies: Day One">
+      <PageReference>ATE2:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Haggling">
+    <PageReference>ATE2:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hazards">
+    <Child ReferenceText="chemicals">
+      <PageReference>ATE2:9-11</PageReference>
+    </Child>
+    <Child ReferenceText="climate">
+      <PageReference>ATE2:12-13</PageReference>
+    </Child>
+    <Child ReferenceText="disease">
+      <PageReference>ATE2:13-15</PageReference>
+    </Child>
+    <Child ReferenceText="focus">
+      <PageReference>ATE2:9</PageReference>
+    </Child>
+    <Child ReferenceText="gangs">
+      <PageReference>ATE2:15-17</PageReference>
+    </Child>
+    <Child ReferenceText="munitions">
+      <PageReference>ATE2:9-11</PageReference>
+    </Child>
+    <Child ReferenceText="mutants">
+      <PageReference>ATE2:18-21</PageReference>
+    </Child>
+    <Child ReferenceText="nanotech">
+      <PageReference>ATE2:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="paramilitaries">
+      <PageReference>ATE2:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="radiation">
+      <PageReference>ATE2:25</PageReference>
+    </Child>
+    <Child ReferenceText="recommended by causes">
+      <PageReference>ATE2:4-7</PageReference>
+    </Child>
+    <Child ReferenceText="robots">
+      <PageReference>ATE2:25-27</PageReference>
+    </Child>
+    <Child ReferenceText="zombies">
+      <PageReference>ATE2:27-29</PageReference>
+    </Child>
+    <Child ReferenceText="adding new">
+      <PageReference>ATE2:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing">
+    <PageReference>ATE2:45</PageReference>
+    <Child ReferenceText="Second Wind extra effort">
+      <PageReference>ATE2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heat">
+    <PageReference>ATE2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heavy metals">
+    <Child ReferenceText="irradiated">
+      <PageReference>ATE2:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hulks">
+    <Child ReferenceText="challenges for">
+      <PageReference>ATE2:52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunters">
+    <Child ReferenceText="challenges for">
+      <PageReference>ATE2:52-52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunting">
+    <PageReference>ATE2:30-31</PageReference>
+    <PageReference>ATE2:51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperstorms">
+    <PageReference>ATE2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ice">
+    <PageReference>ATE2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immunity advantage">
+    <PageReference>ATE2:14</PageReference>
+    <PageReference>ATE2:28</PageReference>
+    <Child ReferenceText="perk">
+      <PageReference>ATE2:14</PageReference>
+      <PageReference>ATE2:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury">
+    <Child ReferenceText="recovering from">
+      <PageReference>ATE2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intimidation">
+    <Child ReferenceText="rules for">
+      <PageReference>ATE2:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Inventing">
+    <PageReference>ATE2:40-41</PageReference>
+    <SeeAlso>Repairs</SeeAlso>
+    <SeeAlso>Upgrading Gear</SeeAlso>
+    <Child ReferenceText="bugs">
+      <PageReference>ATE2:40</PageReference>
+    </Child>
+    <Child ReferenceText="downtime">
+      <PageReference>ATE2:51</PageReference>
+    </Child>
+    <Child ReferenceText="multiple copies">
+      <PageReference>ATE2:40</PageReference>
+    </Child>
+    <Child ReferenceText="parts for">
+      <PageReference>ATE2:39-40</PageReference>
+    </Child>
+    <Child ReferenceText="selling inventions">
+      <PageReference>ATE2:40</PageReference>
+    </Child>
+    <Child ReferenceText="simple modifications">
+      <PageReference>ATE2:41</PageReference>
+    </Child>
+    <Child ReferenceText="software, 42 -43" />
+    <Child ReferenceText="techlevel modifiers">
+      <PageReference>ATE2:39</PageReference>
+    </Child>
+    <Child ReferenceText="workspace, 40 -41" />
+  </IndexReference>
+  <IndexReference ReferenceText="Irradiated">
+    <SeeAlso>Radiation</SeeAlso>
+    <Child ReferenceText="mutagens">
+      <PageReference>ATE2:11</PageReference>
+    </Child>
+    <Child ReferenceText="storms">
+      <PageReference>ATE2:13</PageReference>
+    </Child>
+    <Child ReferenceText="toxic waste">
+      <PageReference>ATE2:10</PageReference>
+    </Child>
+    <Child ReferenceText="water">
+      <PageReference>ATE2:13</PageReference>
+    </Child>
+    <Child ReferenceText="zombies">
+      <PageReference>ATE2:27</PageReference>
+    </Child>
+    <Child ReferenceText="heavy metals">
+      <PageReference>ATE2:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Joy buzzers">
+    <PageReference>ATE2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Junk">
+    <Child ReferenceText="as scavenging result">
+      <PageReference>ATE2:37</PageReference>
+      <PageReference>ATE2:38</PageReference>
+    </Child>
+    <Child ReferenceText="as parts">
+      <PageReference>ATE2:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Killigators">
+    <PageReference>ATE2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locations">
+    <SeeAlso>Buildings</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Locks">
+    <PageReference>ATE2:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lying">
+    <Child ReferenceText="rules for">
+      <PageReference>ATE2:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Manipulation">
+    <Child ReferenceText="social">
+      <PageReference>ATE2:47-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Masters of the land">
+    <PageReference>ATE2:15-16</PageReference>
+    <Child ReferenceText="lens">
+      <PageReference>ATE2:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical care">
+    <PageReference>ATE2:45</PageReference>
+    <PageReference>ATE2:51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mega-flu">
+    <PageReference>ATE2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mines">
+    <PageReference>ATE2:11</PageReference>
+    <PageReference>ATE2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mnemosyne plague">
+    <PageReference>ATE2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mobs">
+    <SeeAlso>Gangs</SeeAlso>
+    <SeeAlso>Mutants</SeeAlso>
+    <SeeAlso>Paramilitaries</SeeAlso>
+    <SeeAlso>Zombies</SeeAlso>
+    <Child ReferenceText="dealing with">
+      <PageReference>ATE2:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Motion detectors">
+    <PageReference>ATE2:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Motorized gangs">
+    <PageReference>ATE2:15</PageReference>
+    <Child ReferenceText="lens">
+      <PageReference>ATE2:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Munitions">
+    <PageReference>ATE2:9-11</PageReference>
+    <SeeAlso>Weapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mutagens">
+    <PageReference>ATE2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mutants">
+    <Child ReferenceText="animals">
+      <PageReference>ATE2:19-21</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>ATE2:18-19</PageReference>
+    </Child>
+    <Child ReferenceText="Freakishness">
+      <PageReference>ATE2:18</PageReference>
+    </Child>
+    <Child ReferenceText="identification">
+      <PageReference>ATE2:18</PageReference>
+    </Child>
+    <Child ReferenceText="mutagens">
+      <PageReference>ATE2:11</PageReference>
+    </Child>
+    <Child ReferenceText="plants">
+      <PageReference>ATE2:21</PageReference>
+    </Child>
+    <Child ReferenceText="treatment">
+      <PageReference>ATE2:18</PageReference>
+    </Child>
+    <Child ReferenceText="as hazard">
+      <PageReference>ATE2:18-21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanoburn">
+    <PageReference>ATE2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanotech">
+    <SeeAlso>Computers</SeeAlso>
+    <SeeAlso>Robots</SeeAlso>
+    <Child ReferenceText="as hazard">
+      <PageReference>ATE2:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="zombie cause">
+      <PageReference>ATE2:27</PageReference>
+    </Child>
+    <Child ReferenceText="as cause">
+      <PageReference>ATE2:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanoviruses">
+    <PageReference>ATE2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nomads">
+    <Child ReferenceText="challenges for">
+      <PageReference>ATE2:53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Packing">
+    <PageReference>ATE2:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paramilitaries">
+    <PageReference>ATE2:23-24</PageReference>
+    <SeeAlso>Gangs</SeeAlso>
+    <Child ReferenceText="infiltrating camps">
+      <PageReference>ATE2:33-34</PageReference>
+    </Child>
+    <Child ReferenceText="leadership">
+      <PageReference>ATE2:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="motivation">
+      <PageReference>ATE2:23</PageReference>
+    </Child>
+    <Child ReferenceText="resources">
+      <PageReference>ATE2:24</PageReference>
+    </Child>
+    <Child ReferenceText="sample soldiers">
+      <PageReference>ATE2:24</PageReference>
+    </Child>
+    <Child ReferenceText="social interactions">
+      <PageReference>ATE2:46-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Paramilitary Rank advantage">
+    <PageReference>ATE2:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parts">
+    <Child ReferenceText="fabrication">
+      <PageReference>ATE2:40</PageReference>
+    </Child>
+    <Child ReferenceText="for repairs">
+      <PageReference>ATE2:41</PageReference>
+    </Child>
+    <Child ReferenceText="selective use">
+      <PageReference>ATE2:39-40</PageReference>
+    </Child>
+    <Child ReferenceText="value of gear as">
+      <PageReference>ATE2:39-40</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>ATE2:39-42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Persuasion situations">
+    <PageReference>ATE2:46-48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="PF">
+    <Child ReferenceText="RP loss and">
+      <PageReference>ATE2:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pit traps">
+    <PageReference>ATE2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plagues">
+    <SeeAlso>Disease</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Plants">
+    <Child ReferenceText="mutated">
+      <PageReference>ATE2:21</PageReference>
+    </Child>
+    <Child ReferenceText="gathering">
+      <PageReference>ATE2:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Playing dead">
+    <PageReference>ATE2:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Protection Factor (PF)">
+    <Child ReferenceText="RP loss and">
+      <PageReference>ATE2:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Proteus virus">
+    <PageReference>ATE2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid #3/3: Venturing Into the Badlands">
+    <PageReference>ATE2:7</PageReference>
+    <PageReference>ATE2:51</PageReference>
+    <Child ReferenceText="#3/88: The End Is Nigh">
+      <PageReference>ATE2:16</PageReference>
+      <PageReference>ATE2:25</PageReference>
+      <PageReference>ATE2:53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation">
+    <SeeAlso>Cosmic Rays</SeeAlso>
+    <SeeAlso>Irradiated</SeeAlso>
+    <Child ReferenceText="as hazard">
+      <PageReference>ATE2:25</PageReference>
+    </Child>
+    <Child ReferenceText="zombie cause">
+      <PageReference>ATE2:27</PageReference>
+    </Child>
+    <Child ReferenceText="as cause">
+      <PageReference>ATE2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation Threshold Points (RP)">
+    <PageReference>ATE2:25</PageReference>
+    <Child ReferenceText="conversion to rads">
+      <PageReference>ATE2:25</PageReference>
+      <PageReference>ATE2:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Raiding parties">
+    <PageReference>ATE2:15</PageReference>
+    <Child ReferenceText="members">
+      <PageReference>ATE2:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Range band table">
+    <PageReference>ATE2:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rank advantage">
+    <Child ReferenceText="Paramilitary">
+      <PageReference>ATE2:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ratdogs">
+    <PageReference>ATE2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repairs">
+    <PageReference>ATE2:41</PageReference>
+    <SeeAlso>Inventing</SeeAlso>
+    <SeeAlso>Upgrading Gear</SeeAlso>
+    <Child ReferenceText="computers">
+      <PageReference>ATE2:42</PageReference>
+    </Child>
+    <Child ReferenceText="downtime">
+      <PageReference>ATE2:51</PageReference>
+    </Child>
+    <Child ReferenceText="parts for">
+      <PageReference>ATE2:39-40</PageReference>
+    </Child>
+    <Child ReferenceText="tech-level modifiers">
+      <PageReference>ATE2:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant advantage">
+    <PageReference>ATE2:14</PageReference>
+    <PageReference>ATE2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robots">
+    <SeeAlso>Computers</SeeAlso>
+    <SeeAlso>Nanotech</SeeAlso>
+    <Child ReferenceText="as hazard">
+      <PageReference>ATE2:25-27</PageReference>
+    </Child>
+    <Child ReferenceText="capabilities">
+      <PageReference>ATE2:25</PageReference>
+    </Child>
+    <Child ReferenceText="reprogramming">
+      <PageReference>ATE2:26</PageReference>
+    </Child>
+    <Child ReferenceText="sample">
+      <PageReference>ATE2:26-27</PageReference>
+    </Child>
+    <Child ReferenceText="security system">
+      <PageReference>ATE2:34</PageReference>
+    </Child>
+    <Child ReferenceText="weaknesses">
+      <PageReference>ATE2:25</PageReference>
+    </Child>
+    <Child ReferenceText="as cause">
+      <PageReference>ATE2:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rogue bots">
+    <SeeAlso>Robots</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="RP">
+    <SeeAlso>Irradiated</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruins">
+    <SeeAlso>Buildings</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Safes">
+    <PageReference>ATE2:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sandstorms">
+    <PageReference>ATE2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scavengers">
+    <Child ReferenceText="challenges for">
+      <PageReference>ATE2:53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scavenging">
+    <PageReference>ATE2:36-38</PageReference>
+    <Child ReferenceText="downtime">
+      <PageReference>ATE2:51</PageReference>
+    </Child>
+    <Child ReferenceText="multiple scavengers">
+      <PageReference>ATE2:36-37</PageReference>
+    </Child>
+    <Child ReferenceText="results table">
+      <PageReference>ATE2:38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scouting">
+    <PageReference>ATE2:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrounging">
+    <SeeAlso>Scavenging</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Security systems">
+    <PageReference>ATE2:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensors">
+    <PageReference>ATE2:34</PageReference>
+    <PageReference>ATE2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Services">
+    <Child ReferenceText="selling">
+      <PageReference>ATE2:47</PageReference>
+      <PageReference>ATE2:51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Setting decisions">
+    <SeeAlso>Campaigns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shotguns">
+    <SeeAlso>Guns</SeeAlso>
+    <Child ReferenceText="simplified firing">
+      <PageReference>ATE2:43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <SeeAlso>Combat</SeeAlso>
+    <Child ReferenceText="Influence, 46 -48" />
+    <Child ReferenceText="learning">
+      <PageReference>ATE2:51</PageReference>
+    </Child>
+    <Child ReferenceText="survival-related">
+      <PageReference>ATE2:30-32</PageReference>
+    </Child>
+    <Child ReferenceText="complementary">
+      <PageReference>ATE2:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slavers">
+    <PageReference>ATE2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sniping">
+    <PageReference>ATE2:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snow">
+    <PageReference>ATE2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social interactions">
+    <PageReference>ATE2:46-48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Software">
+    <SeeAlso>Computers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Soldiers">
+    <SeeAlso>Paramilitaries</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spore bombers">
+    <PageReference>ATE2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stashes">
+    <PageReference>ATE2:38</PageReference>
+    <SeeAlso>Buildings</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Storms">
+    <PageReference>ATE2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Structural integrity modifier">
+    <PageReference>ATE2:34</PageReference>
+    <Child ReferenceText="age penalties">
+      <PageReference>ATE2:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Structures">
+    <SeeAlso>Buildings</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival skill">
+    <Child ReferenceText="food gathering">
+      <PageReference>ATE2:30-31</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>ATE2:30</PageReference>
+    </Child>
+    <Child ReferenceText="travel">
+      <PageReference>ATE2:32</PageReference>
+    </Child>
+    <Child ReferenceText="climate">
+      <PageReference>ATE2:12-13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival tasks">
+    <PageReference>ATE2:30-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Switch trap">
+    <PageReference>ATE2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Table">
+    <Child ReferenceText="doors and attached hardware">
+      <PageReference>ATE2:33</PageReference>
+    </Child>
+    <Child ReferenceText="engineering">
+      <PageReference>ATE2:39</PageReference>
+    </Child>
+    <Child ReferenceText="mishap">
+      <PageReference>ATE2:35</PageReference>
+    </Child>
+    <Child ReferenceText="range band">
+      <PageReference>ATE2:43</PageReference>
+    </Child>
+    <Child ReferenceText="repair modifier">
+      <PageReference>ATE2:41</PageReference>
+    </Child>
+    <Child ReferenceText="scavenging">
+      <PageReference>ATE2:37</PageReference>
+    </Child>
+    <Child ReferenceText="scrounging results">
+      <PageReference>ATE2:38</PageReference>
+    </Child>
+    <Child ReferenceText="tech-level modifiers">
+      <PageReference>ATE2:39</PageReference>
+    </Child>
+    <Child ReferenceText="workspace">
+      <PageReference>ATE2:41</PageReference>
+    </Child>
+    <Child ReferenceText="computer Complexity">
+      <PageReference>ATE2:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="TASE robots">
+    <PageReference>ATE2:26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taunting">
+    <PageReference>ATE2:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech levels">
+    <Child ReferenceText="modifier">
+      <PageReference>ATE2:39</PageReference>
+    </Child>
+    <Child ReferenceText="decisions">
+      <PageReference>ATE2:7-8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techs">
+    <Child ReferenceText="challenges for">
+      <PageReference>ATE2:53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Teddies (mutant animal)">
+    <PageReference>ATE2:20-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature Tolerance advantage">
+    <PageReference>ATE2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time frame">
+    <Child ReferenceText="decisions">
+      <PageReference>ATE2:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Townies">
+    <SeeAlso>Gangs</SeeAlso>
+    <SeeAlso>Mutants</SeeAlso>
+    <SeeAlso>Paramilitaries</SeeAlso>
+    <Child ReferenceText="hostile">
+      <PageReference>ATE2:17</PageReference>
+    </Child>
+    <Child ReferenceText="selling services to">
+      <PageReference>ATE2:47</PageReference>
+    </Child>
+    <Child ReferenceText="social interactions">
+      <PageReference>ATE2:46-48</PageReference>
+    </Child>
+    <Child ReferenceText="bartering with">
+      <PageReference>ATE2:46-37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Toxic waste">
+    <PageReference>ATE2:10</PageReference>
+    <Child ReferenceText="dumps">
+      <PageReference>ATE2:10</PageReference>
+    </Child>
+    <Child ReferenceText="spills">
+      <PageReference>ATE2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Traders">
+    <Child ReferenceText="challenges for">
+      <PageReference>ATE2:53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trapdoors">
+    <PageReference>ATE2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trapping">
+    <Child ReferenceText="animals">
+      <PageReference>ATE2:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps">
+    <PageReference>ATE2:32</PageReference>
+    <PageReference>ATE2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel">
+    <PageReference>ATE2:31-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Troopers">
+    <Child ReferenceText="challenges for">
+      <PageReference>ATE2:53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Upgrading gear">
+    <PageReference>ATE2:41</PageReference>
+    <SeeAlso>Inventing</SeeAlso>
+    <SeeAlso>Upgrading Gear</SeeAlso>
+    <Child ReferenceText="downtime">
+      <PageReference>ATE2:51</PageReference>
+    </Child>
+    <Child ReferenceText="parts for">
+      <PageReference>ATE2:39-40</PageReference>
+    </Child>
+    <Child ReferenceText="tech-level modifiers">
+      <PageReference>ATE2:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vaults">
+    <PageReference>ATE2:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Venus guy-traps">
+    <PageReference>ATE2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Viruses">
+    <SeeAlso>Disease</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Wall mishaps">
+    <PageReference>ATE2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water">
+    <Child ReferenceText="foraging">
+      <PageReference>ATE2:31</PageReference>
+      <PageReference>ATE2:51</PageReference>
+    </Child>
+    <Child ReferenceText="as hazard">
+      <PageReference>ATE2:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <SeeAlso>Combat</SeeAlso>
+    <SeeAlso>Guns</SeeAlso>
+    <SeeAlso>Nanotech</SeeAlso>
+    <SeeAlso>Robots</SeeAlso>
+    <Child ReferenceText="bombs and mines">
+      <PageReference>ATE2:11</PageReference>
+    </Child>
+    <Child ReferenceText="bullets and bartering">
+      <PageReference>ATE2:47</PageReference>
+    </Child>
+    <Child ReferenceText="chemical hazards">
+      <PageReference>ATE2:10</PageReference>
+    </Child>
+    <Child ReferenceText="disease">
+      <PageReference>ATE2:15</PageReference>
+    </Child>
+    <Child ReferenceText="flipping to hand">
+      <PageReference>ATE2:46</PageReference>
+    </Child>
+    <Child ReferenceText="guns as melee weapons">
+      <PageReference>ATE2:44</PageReference>
+    </Child>
+    <Child ReferenceText="hidden">
+      <PageReference>ATE2:45</PageReference>
+    </Child>
+    <Child ReferenceText="trap effect">
+      <PageReference>ATE2:36</PageReference>
+    </Child>
+    <Child ReferenceText="aerosol particulates">
+      <PageReference>ATE2:10-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weather">
+    <SeeAlso>Climate</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombies">
+    <Child ReferenceText="as hazard">
+      <PageReference>ATE2:27-29</PageReference>
+    </Child>
+    <Child ReferenceText="cause of">
+      <PageReference>ATE2:27</PageReference>
+    </Child>
+    <Child ReferenceText="flu">
+      <PageReference>ATE2:15</PageReference>
+    </Child>
+    <Child ReferenceText="grappling">
+      <PageReference>ATE2:29</PageReference>
+    </Child>
+    <Child ReferenceText="horde combat">
+      <PageReference>ATE2:29</PageReference>
+    </Child>
+    <Child ReferenceText="infection">
+      <PageReference>ATE2:28</PageReference>
+    </Child>
+    <Child ReferenceText="PCs as">
+      <PageReference>ATE2:27</PageReference>
+    </Child>
+    <Child ReferenceText="sample">
+      <PageReference>ATE2:28</PageReference>
+    </Child>
+    <Child ReferenceText="smart">
+      <PageReference>ATE2:27</PageReference>
+    </Child>
+    <Child ReferenceText="unturnable PCs">
+      <PageReference>ATE2:28</PageReference>
+    </Child>
+    <Child ReferenceText="as cause">
+      <PageReference>ATE2:7</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

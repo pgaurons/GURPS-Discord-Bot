@@ -1,0 +1,752 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>BC6-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advertising">
+    <PageReference>BC18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advocacy Type">
+    <PageReference>BC11</PageReference>
+    <PageReference>BC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aid Type">
+    <PageReference>BC11</PageReference>
+    <PageReference>BC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ally and Dependent Value">
+    <PageReference>BC11</PageReference>
+    <PageReference>BC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate Identity advantage">
+    <PageReference>BC6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assistance requests">
+    <PageReference>BC16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biotech Euphrates">
+    <PageReference>BC3</PageReference>
+    <PageReference>BC27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blessed advantage">
+    <PageReference>BC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Capabilities">
+    <PageReference>BC4-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chicago Outfit">
+    <PageReference>BC5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claim to Hospitality advantage">
+    <PageReference>BC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical Investment advantage">
+    <PageReference>BC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Commercial Type">
+    <PageReference>BC11</PageReference>
+    <PageReference>BC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts">
+    <PageReference>BC6</PageReference>
+    <PageReference>BC15</PageReference>
+    <Child ReferenceText="changing skills">
+      <PageReference>BC20</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat and">
+      <PageReference>BC18</PageReference>
+    </Child>
+    <Child ReferenceText="Reaction Time and">
+      <PageReference>BC10</PageReference>
+    </Child>
+    <Child ReferenceText="skills by Type">
+      <PageReference>BC11-13</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>BC17-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Costs">
+    <PageReference>BC10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="CR (Control Rating)">
+    <PageReference>BC13</PageReference>
+    <PageReference>BC15-16</PageReference>
+    <Child ReferenceText="leaders and">
+      <PageReference>BC20</PageReference>
+    </Child>
+    <Child ReferenceText="License and Permit and">
+      <PageReference>BC8</PageReference>
+    </Child>
+    <Child ReferenceText="Loyalty and">
+      <PageReference>BC14</PageReference>
+      <PageReference>BC19</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat and">
+      <PageReference>BC18</PageReference>
+    </Child>
+    <Child ReferenceText="societal">
+      <PageReference>BC19</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>BC17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminal Type">
+    <PageReference>BC11</PageReference>
+    <PageReference>BC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="de Medici">
+    <Child ReferenceText="Cosimo">
+      <PageReference>BC22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dependents disadvantage">
+    <PageReference>BC11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>BC6-9</PageReference>
+    <Child ReferenceText="self-imposed mental">
+      <PageReference>BC8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine Curse disadvantage">
+    <PageReference>BC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doctors Without Borders">
+    <PageReference>BC26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duty disadvantage">
+    <PageReference>BC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Embezzlement">
+    <PageReference>BC20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemies disadvantage">
+    <PageReference>BC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemy Value">
+    <PageReference>BC11</PageReference>
+    <PageReference>BC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enforcement Type">
+    <PageReference>BC11-12</PageReference>
+    <PageReference>BC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Resource Value</SeeAlso>
+    <Child ReferenceText="Member Traits affecting">
+      <PageReference>BC7-9</PageReference>
+    </Child>
+    <Child ReferenceText="military">
+      <PageReference>BC18</PageReference>
+    </Child>
+    <Child ReferenceText="notable">
+      <PageReference>BC9</PageReference>
+    </Child>
+    <Child ReferenceText="Reaction Time and">
+      <PageReference>BC16-17</PageReference>
+    </Child>
+    <Child ReferenceText="Wealth as indicator">
+      <PageReference>BC5-6</PageReference>
+      <PageReference>BC15</PageReference>
+    </Child>
+    <Child ReferenceText="as assistance">
+      <PageReference>BC16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Facilities">
+    <SeeAlso>Resource Value</SeeAlso>
+    <Child ReferenceText="breaking into">
+      <PageReference>BC15</PageReference>
+    </Child>
+    <Child ReferenceText="military">
+      <PageReference>BC18</PageReference>
+    </Child>
+    <Child ReferenceText="Mana Enhancer and">
+      <PageReference>BC8</PageReference>
+    </Child>
+    <Child ReferenceText="Miserliness and">
+      <PageReference>BC8</PageReference>
+    </Child>
+    <Child ReferenceText="notable">
+      <PageReference>BC9</PageReference>
+    </Child>
+    <Child ReferenceText="secret">
+      <PageReference>BC9</PageReference>
+    </Child>
+    <Child ReferenceText="Wealth as indicator">
+      <PageReference>BC5-6</PageReference>
+      <PageReference>BC15</PageReference>
+    </Child>
+    <Child ReferenceText="as assistance">
+      <PageReference>BC16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fraternal Type">
+    <PageReference>BC12</PageReference>
+    <PageReference>BC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteer advantage">
+    <PageReference>BC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>Equipment</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Government Type">
+    <PageReference>BC12</PageReference>
+    <PageReference>BC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Basic Set">
+    <PageReference>BC3</PageReference>
+    <PageReference>BC7</PageReference>
+    <Child ReferenceText="Hot Spots: Renaissance Florence">
+      <PageReference>BC3</PageReference>
+    </Child>
+    <Child ReferenceText="Infinite Worlds">
+      <PageReference>BC3</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 1: Philosophers and Kings">
+      <PageReference>BC4</PageReference>
+    </Child>
+    <Child ReferenceText="LowTech Companion 3: Daily Life and Economics">
+      <PageReference>BC9</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat">
+      <PageReference>BC10</PageReference>
+      <PageReference>BC12</PageReference>
+      <PageReference>BC18</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>BC8</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 6: Quirks">
+      <PageReference>BC8</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering">
+      <PageReference>BC3</PageReference>
+      <PageReference>BC7</PageReference>
+      <PageReference>BC10</PageReference>
+      <PageReference>BC14</PageReference>
+      <PageReference>BC15</PageReference>
+      <PageReference>BC19</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering: Pulling Rank">
+      <PageReference>BC16</PageReference>
+    </Child>
+    <Child ReferenceText="Transhuman Space">
+      <PageReference>BC3</PageReference>
+      <PageReference>BC21</PageReference>
+      <PageReference>BC28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidebound disadvantage">
+    <PageReference>BC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High TL advantage">
+    <PageReference>BC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Higher Purpose advantage">
+    <PageReference>BC8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hobby Type">
+    <PageReference>BC12</PageReference>
+    <PageReference>BC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Income gap">
+    <PageReference>BC21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Income Range">
+    <PageReference>BC14</PageReference>
+    <Child ReferenceText="Mass Combat and">
+      <PageReference>BC18</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>BC17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intolerance disadvantage">
+    <PageReference>BC8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Investigative Type">
+    <PageReference>BC12</PageReference>
+    <PageReference>BC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jobs">
+    <Child ReferenceText="pay range">
+      <PageReference>BC21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Leaders">
+    <SeeAlso>Loyalty</SeeAlso>
+    <Child ReferenceText="defining">
+      <PageReference>BC19</PageReference>
+    </Child>
+    <Child ReferenceText="Enemies and">
+      <PageReference>BC7</PageReference>
+    </Child>
+    <Child ReferenceText="limits of power">
+      <PageReference>BC20</PageReference>
+    </Child>
+    <Child ReferenceText="running organizations">
+      <PageReference>BC19-20</PageReference>
+    </Child>
+    <Child ReferenceText="starting organizations">
+      <PageReference>BC17-19</PageReference>
+    </Child>
+    <Child ReferenceText="Control Rating and">
+      <PageReference>BC14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Legal Enforcement Powers advantage">
+    <PageReference>BC8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legal Immunity advantage">
+    <PageReference>BC8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="License perk">
+    <PageReference>BC8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loyalty">
+    <PageReference>BC13-14</PageReference>
+    <Child ReferenceText="Allies and">
+      <PageReference>BC11</PageReference>
+    </Child>
+    <Child ReferenceText="improving">
+      <PageReference>BC20</PageReference>
+    </Child>
+    <Child ReferenceText="limits of">
+      <PageReference>BC15-16</PageReference>
+      <PageReference>BC20</PageReference>
+    </Child>
+    <Child ReferenceText="organization interactions and">
+      <PageReference>BC15-16</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat and">
+      <PageReference>BC18</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>BC17</PageReference>
+      <PageReference>BC19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana Enhancer advantage">
+    <PageReference>BC8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Médecins Sans Frontières">
+    <PageReference>BC26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medici Bank">
+    <PageReference>BC3</PageReference>
+    <PageReference>BC21-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Member Traits">
+    <PageReference>BC6-9</PageReference>
+    <Child ReferenceText="availability">
+      <PageReference>BC18</PageReference>
+    </Child>
+    <Child ReferenceText="changing">
+      <PageReference>BC20</PageReference>
+    </Child>
+    <Child ReferenceText="defined">
+      <PageReference>BC6</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat and">
+      <PageReference>BC18</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>BC17-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Members">
+    <SeeAlso>Contacts</SeeAlso>
+    <SeeAlso>Loyalty</SeeAlso>
+    <SeeAlso>Organizations</SeeAlso>
+    <Child ReferenceText="Control Rating and">
+      <PageReference>BC13</PageReference>
+      <PageReference>BC15</PageReference>
+    </Child>
+    <Child ReferenceText="dealing with">
+      <PageReference>BC6</PageReference>
+      <PageReference>BC15-17</PageReference>
+    </Child>
+    <Child ReferenceText="getting assistance">
+      <PageReference>BC16</PageReference>
+    </Child>
+    <Child ReferenceText="Income Range">
+      <PageReference>BC14</PageReference>
+    </Child>
+    <Child ReferenceText="improve morale">
+      <PageReference>BC20</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat and">
+      <PageReference>BC18</PageReference>
+    </Child>
+    <Child ReferenceText="number of">
+      <PageReference>BC4</PageReference>
+    </Child>
+    <Child ReferenceText="organization Reputation and">
+      <PageReference>BC14</PageReference>
+    </Child>
+    <Child ReferenceText="Rank">
+      <PageReference>BC14</PageReference>
+    </Child>
+    <Child ReferenceText="recruiting">
+      <PageReference>BC20</PageReference>
+    </Child>
+    <Child ReferenceText="Resource Value and">
+      <PageReference>BC10</PageReference>
+    </Child>
+    <Child ReferenceText="self-imposed disadvantages">
+      <PageReference>BC8</PageReference>
+    </Child>
+    <Child ReferenceText="spending points">
+      <PageReference>BC4</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>BC17-19</PageReference>
+    </Child>
+    <Child ReferenceText="Type and">
+      <PageReference>BC11-13</PageReference>
+    </Child>
+    <Child ReferenceText="Ally size and">
+      <PageReference>BC11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Methodical quirk">
+    <PageReference>BC8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mid-City Defenders">
+    <PageReference>BC25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military Type">
+    <PageReference>BC12</PageReference>
+    <PageReference>BC16</PageReference>
+    <Child ReferenceText="Mass Combat and">
+      <PageReference>BC18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Miserliness disadvantage">
+    <PageReference>BC8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mission Statement">
+    <PageReference>BC4</PageReference>
+    <PageReference>BC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Name">
+    <Child ReferenceText="organization">
+      <PageReference>BC4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neuguinea-Agrarindustriekonzern GmbH">
+    <PageReference>BC22-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Notable Resources">
+    <PageReference>BC9</PageReference>
+    <PageReference>BC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Notes">
+    <Child ReferenceText="stat definition">
+      <PageReference>BC5</PageReference>
+    </Child>
+    <Child ReferenceText="self-imposed member disadvantages">
+      <PageReference>BC8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Occult Type">
+    <PageReference>BC12</PageReference>
+    <PageReference>BC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Organization of Doctor Joachim Zynfami">
+    <PageReference>BC22-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Organization stats">
+    <SeeAlso>specific stats</SeeAlso>
+    <Child ReferenceText="defined">
+      <PageReference>BC4-14</PageReference>
+    </Child>
+    <Child ReferenceText="designated by founder">
+      <PageReference>BC17</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat and">
+      <PageReference>BC18</PageReference>
+    </Child>
+    <Child ReferenceText="player-founded organizations and">
+      <PageReference>BC17</PageReference>
+    </Child>
+    <Child ReferenceText="changing">
+      <PageReference>BC20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Organizations">
+    <SeeAlso>Leaders</SeeAlso>
+    <SeeAlso>Members</SeeAlso>
+    <Child ReferenceText="running">
+      <PageReference>BC19-20</PageReference>
+    </Child>
+    <Child ReferenceText="sample">
+      <PageReference>BC21-29</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>BC17-19</PageReference>
+    </Child>
+    <Child ReferenceText="dealing with">
+      <PageReference>BC6</PageReference>
+      <PageReference>BC15-17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pact limitation">
+    <PageReference>BC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patron Value">
+    <PageReference>BC10</PageReference>
+    <PageReference>BC17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Permission">
+    <PageReference>BC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Permit perk">
+    <PageReference>BC8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Points">
+    <Child ReferenceText="organizations and">
+      <PageReference>BC4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <PageReference>BC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Propaganda campaign">
+    <PageReference>BC20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Provisional IRA (“Provos”)">
+    <PageReference>BC22-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Raiders of the Black Void">
+    <PageReference>BC28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rank">
+    <PageReference>BC14</PageReference>
+    <PageReference>BC16</PageReference>
+    <Child ReferenceText="Mass Combat and">
+      <PageReference>BC18</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>BC17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rash quirk">
+    <PageReference>BC8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction Time">
+    <PageReference>BC16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction-Time Modifier">
+    <PageReference>BC9-10</PageReference>
+    <PageReference>BC16</PageReference>
+    <Child ReferenceText="Methodical perk and">
+      <PageReference>BC8</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>BC17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious Type">
+    <PageReference>BC12</PageReference>
+    <PageReference>BC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reputation">
+    <PageReference>BC14</PageReference>
+    <Child ReferenceText="changing">
+      <PageReference>BC20</PageReference>
+    </Child>
+    <Child ReferenceText="Secret and">
+      <PageReference>BC8-9</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>BC17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Research Type">
+    <PageReference>BC12</PageReference>
+    <PageReference>BC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resource Value">
+    <PageReference>BC10</PageReference>
+    <PageReference>BC15</PageReference>
+    <Child ReferenceText="increasing">
+      <PageReference>BC20</PageReference>
+    </Child>
+    <Child ReferenceText="leader using">
+      <PageReference>BC20</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>BC17</PageReference>
+    </Child>
+    <Child ReferenceText="Wealth and">
+      <PageReference>BC5-6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret">
+    <Child ReferenceText="facilities">
+      <PageReference>BC9</PageReference>
+    </Child>
+    <Child ReferenceText="societies">
+      <PageReference>BC12</PageReference>
+    </Child>
+    <Child ReferenceText="Type">
+      <PageReference>BC12</PageReference>
+      <PageReference>BC16</PageReference>
+    </Child>
+    <Child ReferenceText="disadvantage">
+      <PageReference>BC8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Signature Gear advantage">
+    <PageReference>BC9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="to start organizations">
+      <PageReference>BC17-19</PageReference>
+    </Child>
+    <Child ReferenceText="as Contacts">
+      <PageReference>BC6</PageReference>
+      <PageReference>BC11-13</PageReference>
+      <PageReference>BC15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Social engineering">
+    <PageReference>BC15</PageReference>
+    <PageReference>BC16</PageReference>
+    <PageReference>BC19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social organizational attributes">
+    <PageReference>BC11-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma disadvantage">
+    <PageReference>BC9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Startup Cost">
+    <PageReference>BC10</PageReference>
+    <Child ReferenceText="changing traits and">
+      <PageReference>BC20</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat and">
+      <PageReference>BC18</PageReference>
+    </Child>
+    <Child ReferenceText="points and">
+      <PageReference>BC4</PageReference>
+    </Child>
+    <Child ReferenceText="Patron Value and">
+      <PageReference>BC10</PageReference>
+    </Child>
+    <Child ReferenceText="recruiting members and">
+      <PageReference>BC20</PageReference>
+    </Child>
+    <Child ReferenceText="Resource Value and">
+      <PageReference>BC10</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>BC17</PageReference>
+      <PageReference>BC19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Table">
+    <Child ReferenceText="Loyalty">
+      <PageReference>BC14</PageReference>
+    </Child>
+    <Child ReferenceText="organization size">
+      <PageReference>BC17</PageReference>
+    </Child>
+    <Child ReferenceText="Reaction Time">
+      <PageReference>BC16</PageReference>
+    </Child>
+    <Child ReferenceText="Reaction-Time Modifier">
+      <PageReference>BC10</PageReference>
+    </Child>
+    <Child ReferenceText="situational modifiers">
+      <PageReference>BC16</PageReference>
+    </Child>
+    <Child ReferenceText="Wealth and breaking in">
+      <PageReference>BC15</PageReference>
+    </Child>
+    <Child ReferenceText="income range">
+      <PageReference>BC17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <PageReference>BC7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teaching Type">
+    <PageReference>BC12</PageReference>
+    <PageReference>BC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TL (Tech Level)">
+    <PageReference>BC4</PageReference>
+    <PageReference>BC7-8</PageReference>
+    <Child ReferenceText="Reaction Time and">
+      <PageReference>BC10</PageReference>
+      <PageReference>BC16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trade Type">
+    <PageReference>BC12</PageReference>
+    <PageReference>BC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Type">
+    <PageReference>BC11-13</PageReference>
+    <Child ReferenceText="giving assistance">
+      <PageReference>BC16</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat and">
+      <PageReference>BC18</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>BC17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background advantage">
+    <PageReference>BC9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Values">
+    <PageReference>BC10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voluntary Type">
+    <PageReference>BC13</PageReference>
+    <PageReference>BC16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth">
+    <PageReference>BC5-6</PageReference>
+    <PageReference>BC15</PageReference>
+    <Child ReferenceText="Income Range and">
+      <PageReference>BC14</PageReference>
+      <PageReference>BC17</PageReference>
+    </Child>
+    <Child ReferenceText="job pay range and">
+      <PageReference>BC21</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat and">
+      <PageReference>BC18</PageReference>
+    </Child>
+    <Child ReferenceText="Miserliness and">
+      <PageReference>BC8</PageReference>
+    </Child>
+    <Child ReferenceText="Secret and">
+      <PageReference>BC8-9</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>BC17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Zeroed advantage">
+    <PageReference>BC9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zynfami">
+    <Child ReferenceText="origin">
+      <PageReference>BC24</PageReference>
+    </Child>
+    <Child ReferenceText="Joachim">
+      <PageReference>BC22-23</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

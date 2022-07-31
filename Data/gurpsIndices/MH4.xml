@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Adventures">
+    <Child ReferenceText="flashback">
+      <PageReference>MH4:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies">
+    <PageReference>MH4:3</PageReference>
+    <SeeAlso>Characters</SeeAlso>
+    <Child ReferenceText="100-point">
+      <PageReference>MH4:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="200-point">
+      <PageReference>MH4:5-15</PageReference>
+    </Child>
+    <Child ReferenceText="as NPCs">
+      <PageReference>MH4:17</PageReference>
+    </Child>
+    <Child ReferenceText="equipping">
+      <PageReference>MH4:18</PageReference>
+    </Child>
+    <Child ReferenceText="improving">
+      <PageReference>MH4:17</PageReference>
+    </Child>
+    <Child ReferenceText="in teams">
+      <PageReference>MH4:5</PageReference>
+    </Child>
+    <Child ReferenceText="killing off">
+      <PageReference>MH4:18</PageReference>
+    </Child>
+    <Child ReferenceText="miraculous recovery">
+      <PageReference>MH4:18</PageReference>
+    </Child>
+    <Child ReferenceText="motivations">
+      <PageReference>MH4:18</PageReference>
+    </Child>
+    <Child ReferenceText="Patrons and">
+      <PageReference>MH4:18</PageReference>
+    </Child>
+    <Child ReferenceText="Wealth and">
+      <PageReference>MH4:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Analyst character type">
+    <PageReference>MH4:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armorer character type">
+    <PageReference>MH4:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brother template">
+    <PageReference>MH4:5-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caster lens">
+    <PageReference>MH4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Champions">
+    <SeeAlso>Characters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <SeeAlso>Allies</SeeAlso>
+    <SeeAlso>Templates</SeeAlso>
+    <Child ReferenceText="creation order">
+      <PageReference>MH4:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="modifying Action templates">
+      <PageReference>MH4:7</PageReference>
+    </Child>
+    <Child ReferenceText="motivation">
+      <PageReference>MH4:5</PageReference>
+    </Child>
+    <Child ReferenceText="selecting Action templates">
+      <PageReference>MH4:9</PageReference>
+    </Child>
+    <Child ReferenceText="upgrading existing">
+      <PageReference>MH4:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="building junior versions">
+      <PageReference>MH4:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Charm creation">
+    <PageReference>MH4:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combatant character type">
+    <PageReference>MH4:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death">
+    <Child ReferenceText="miraculous recovery">
+      <PageReference>MH4:18</PageReference>
+      <PageReference>MH4:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced lens">
+    <PageReference>MH4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <Child ReferenceText="analyzing">
+      <PageReference>MH4:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fixer template">
+    <PageReference>MH4:6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Geek template">
+    <PageReference>MH4:7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gifted template">
+    <PageReference>MH4:8-10</PageReference>
+    <Child ReferenceText="upgrading">
+      <PageReference>MH4:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunman template">
+    <PageReference>MH4:10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Action">
+    <PageReference>MH4:7</PageReference>
+    <PageReference>MH4:9</PageReference>
+    <Child ReferenceText="Action 1: Heroes">
+      <PageReference>MH4:3</PageReference>
+      <PageReference>MH4:7</PageReference>
+    </Child>
+    <Child ReferenceText="Action 3: Furious Fists">
+      <PageReference>MH4:3</PageReference>
+      <PageReference>MH4:7</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters">
+      <PageReference>MH4:3</PageReference>
+      <PageReference>MH4:5</PageReference>
+      <PageReference>MH4:9</PageReference>
+      <PageReference>MH4:15</PageReference>
+      <PageReference>MH4:17</PageReference>
+      <PageReference>MH4:19</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 1: Champions">
+      <PageReference>MH4:3-22</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 2: The Mission">
+      <PageReference>MH4:3</PageReference>
+      <PageReference>MH4:6</PageReference>
+      <PageReference>MH4:8</PageReference>
+      <PageReference>MH4:18</PageReference>
+      <PageReference>MH4:20</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 3: The Enemy">
+      <PageReference>MH4:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hacker character type">
+    <PageReference>MH4:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inhuman-blooded character type">
+    <PageReference>MH4:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Junior hunters">
+    <PageReference>MH4:3</PageReference>
+    <PageReference>MH4:18-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magician template">
+    <PageReference>MH4:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mechanic character type">
+    <PageReference>MH4:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miraculous recovery">
+    <PageReference>MH4:18</PageReference>
+    <PageReference>MH4:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monster hunters">
+    <SeeAlso>Allies</SeeAlso>
+    <SeeAlso>Characters</SeeAlso>
+    <Child ReferenceText="team composition">
+      <PageReference>MH4:5</PageReference>
+    </Child>
+    <Child ReferenceText="junior">
+      <PageReference>MH4:18-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <Child ReferenceText="scaling for">
+      <PageReference>MH4:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Monstrous lens">
+    <PageReference>MH4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Muscle template">
+    <PageReference>MH4:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mystic lens">
+    <PageReference>MH4:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occultist template">
+    <PageReference>MH4:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Overman lens">
+    <PageReference>MH4:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrons advantage">
+    <Child ReferenceText="Allies and">
+      <PageReference>MH4:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Plot protection optional rule">
+    <PageReference>MH4:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power levels">
+    <Child ReferenceText="mixed">
+      <PageReference>MH4:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="adjusting threats for">
+      <PageReference>MH4:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic lens">
+    <PageReference>MH4:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scout template">
+    <PageReference>MH4:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sidekicks">
+    <SeeAlso>Allies</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Social animal character type">
+    <PageReference>MH4:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Team composition">
+    <PageReference>MH4:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <PageReference>MH4:5-16</PageReference>
+    <Child ReferenceText="100-point">
+      <PageReference>MH4:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="200-point">
+      <PageReference>MH4:5-15</PageReference>
+    </Child>
+    <Child ReferenceText="from Action">
+      <PageReference>MH4:7</PageReference>
+      <PageReference>MH4:9</PageReference>
+    </Child>
+    <Child ReferenceText="upgrading">
+      <PageReference>MH4:3</PageReference>
+      <PageReference>MH4:20-22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tough guy template">
+    <PageReference>MH4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Troupe-style play">
+    <PageReference>MH4:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth advantage">
+    <Child ReferenceText="Allies and">
+      <PageReference>MH4:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wheel man character type">
+    <PageReference>MH4:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whitecoat template">
+    <PageReference>MH4:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wise guy template">
+    <PageReference>MH4:16</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

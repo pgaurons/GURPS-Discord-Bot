@@ -1,0 +1,1086 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Agriculture">
+    <PageReference>LTC3:8-10</PageReference>
+    <Child ReferenceText="environment and">
+      <PageReference>LTC3:11</PageReference>
+    </Child>
+    <Child ReferenceText="impact">
+      <PageReference>LTC3:11</PageReference>
+    </Child>
+    <Child ReferenceText="land quality">
+      <PageReference>LTC3:4-5</PageReference>
+      <PageReference>LTC3:11</PageReference>
+    </Child>
+    <Child ReferenceText="number can support">
+      <PageReference>LTC3:4</PageReference>
+    </Child>
+    <Child ReferenceText="productivity table">
+      <PageReference>LTC3:10</PageReference>
+      <PageReference>LTC3:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Air transportation">
+    <PageReference>LTC3:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemist job">
+    <PageReference>LTC3:49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alcohol">
+    <PageReference>LTC3:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal driver job">
+    <PageReference>LTC3:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <PageReference>LTC3:14-15</PageReference>
+    <Child ReferenceText="breeding">
+      <PageReference>LTC3:4</PageReference>
+    </Child>
+    <Child ReferenceText="costs of products">
+      <PageReference>LTC3:22</PageReference>
+    </Child>
+    <Child ReferenceText="productivity">
+      <PageReference>LTC3:10</PageReference>
+      <PageReference>LTC3:11</PageReference>
+    </Child>
+    <Child ReferenceText="vermin control">
+      <PageReference>LTC3:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Apprentices">
+    <Child ReferenceText="skill levels of">
+      <PageReference>LTC3:49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aqueducts">
+    <PageReference>LTC3:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archimedean screws">
+    <PageReference>LTC3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Architect job">
+    <PageReference>LTC3:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Architecture">
+    <SeeAlso>Buildings</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Armorer job">
+    <PageReference>LTC3:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor-making">
+    <PageReference>LTC3:25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arms">
+    <SeeAlso>Weapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Axe">
+    <Child ReferenceText="hand">
+      <PageReference>LTC3:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Badans">
+    <PageReference>LTC3:40</PageReference>
+    <PageReference>LTC3:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Baghlahs">
+    <PageReference>LTC3:40</PageReference>
+    <PageReference>LTC3:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balloons">
+    <Child ReferenceText="hot air">
+      <PageReference>LTC3:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Barriers">
+    <Child ReferenceText="for hunting">
+      <PageReference>LTC3:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bath-houses">
+    <PageReference>LTC3:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bearings">
+    <PageReference>LTC3:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beekeeping">
+    <PageReference>LTC3:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Big man job">
+    <PageReference>LTC3:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blacksmith job">
+    <PageReference>LTC3:49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blocks and tackles">
+    <PageReference>LTC3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boums">
+    <PageReference>LTC3:40</PageReference>
+    <PageReference>LTC3:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brewer">
+    <Child ReferenceText="Professional Skill">
+      <PageReference>LTC3:32</PageReference>
+      <PageReference>LTC3:45</PageReference>
+      <PageReference>LTC3:49</PageReference>
+    </Child>
+    <Child ReferenceText="job">
+      <PageReference>LTC3:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brewing">
+    <PageReference>LTC3:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brickmaker Professional Skill">
+    <PageReference>LTC3:49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bridges">
+    <PageReference>LTC3:39</PageReference>
+    <Child ReferenceText="rope">
+      <PageReference>LTC3:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bucket chains">
+    <PageReference>LTC3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Building Laborer job">
+    <PageReference>LTC3:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buildings">
+    <SeeAlso>Construction</SeeAlso>
+    <Child ReferenceText="environment and">
+      <PageReference>LTC3:37</PageReference>
+    </Child>
+    <Child ReferenceText="HP, HT, and DR">
+      <PageReference>LTC3:34</PageReference>
+    </Child>
+    <Child ReferenceText="materials">
+      <PageReference>LTC3:33-34</PageReference>
+      <PageReference>LTC3:37</PageReference>
+    </Child>
+    <Child ReferenceText="options">
+      <PageReference>LTC3:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="quality">
+      <PageReference>LTC3:35</PageReference>
+    </Child>
+    <Child ReferenceText="structural limitations">
+      <PageReference>LTC3:33</PageReference>
+    </Child>
+    <Child ReferenceText="construction time">
+      <PageReference>LTC3:36-37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bureaucrat job">
+    <PageReference>LTC3:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Butcher Professional Skill">
+    <PageReference>LTC3:6</PageReference>
+    <PageReference>LTC3:49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Butchering">
+    <PageReference>LTC3:6</PageReference>
+    <Child ReferenceText="tools">
+      <PageReference>LTC3:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Camels">
+    <PageReference>LTC3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Canals">
+    <PageReference>LTC3:39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carpenter job">
+    <PageReference>LTC3:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carpentry">
+    <PageReference>LTC3:28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carrying capacity">
+    <PageReference>LTC3:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cats">
+    <PageReference>LTC3:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cattle">
+    <PageReference>LTC3:10</PageReference>
+    <PageReference>LTC3:11</PageReference>
+    <PageReference>LTC3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ceramic">
+    <Child ReferenceText="costs">
+      <PageReference>LTC3:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Charcoal-burner">
+    <Child ReferenceText="Professional Skill">
+      <PageReference>LTC3:49</PageReference>
+    </Child>
+    <Child ReferenceText="job">
+      <PageReference>LTC3:46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cisterns">
+    <PageReference>LTC3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Civil engineering">
+    <PageReference>LTC3:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerk job">
+    <PageReference>LTC3:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clockmaker job">
+    <PageReference>LTC3:49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothmaker Professional Skill">
+    <PageReference>LTC3:23</PageReference>
+    <PageReference>LTC3:30</PageReference>
+    <PageReference>LTC3:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothworker job">
+    <PageReference>LTC3:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothworking">
+    <PageReference>LTC3:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cogs (ships)">
+    <PageReference>LTC3:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Construction">
+    <SeeAlso>Buildings</SeeAlso>
+    <Child ReferenceText="labor cost">
+      <PageReference>LTC3:36-37</PageReference>
+    </Child>
+    <Child ReferenceText="quality">
+      <PageReference>LTC3:35</PageReference>
+    </Child>
+    <Child ReferenceText="structural limitations">
+      <PageReference>LTC3:33</PageReference>
+    </Child>
+    <Child ReferenceText="time">
+      <PageReference>LTC3:36-37</PageReference>
+    </Child>
+    <Child ReferenceText="variants">
+      <PageReference>LTC3:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>LTC3:16-17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Containers">
+    <PageReference>LTC3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cooking methods">
+    <PageReference>LTC3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corbelled masonry">
+    <PageReference>LTC3:33</PageReference>
+    <PageReference>LTC3:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Courier job">
+    <PageReference>LTC3:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Courtesan Professional Skill">
+    <PageReference>LTC3:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Craft Secret Perks">
+    <PageReference>LTC3:24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crafting">
+    <Child ReferenceText="skill roll results">
+      <PageReference>LTC3:23-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crane treadles">
+    <PageReference>LTC3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cranes">
+    <PageReference>LTC3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cribwork">
+    <PageReference>LTC3:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crucible Steel perk">
+    <PageReference>LTC3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Currency">
+    <PageReference>LTC3:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deadfalls">
+    <PageReference>LTC3:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dhows">
+    <PageReference>LTC3:40</PageReference>
+    <PageReference>LTC3:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distiller Professional Skill">
+    <PageReference>LTC3:32</PageReference>
+    <PageReference>LTC3:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distilling">
+    <PageReference>LTC3:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dogs">
+    <PageReference>LTC3:6</PageReference>
+    <PageReference>LTC3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Donkeys">
+    <PageReference>LTC3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drying food">
+    <PageReference>LTC3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dyeing">
+    <PageReference>LTC3:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dyer Professional Skill">
+    <PageReference>LTC3:31</PageReference>
+    <PageReference>LTC3:46</PageReference>
+    <PageReference>LTC3:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Edge crushers">
+    <PageReference>LTC3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Embossing">
+    <PageReference>LTC3:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy storage">
+    <PageReference>LTC3:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Environment">
+    <Child ReferenceText="buildings and">
+      <PageReference>LTC3:37</PageReference>
+    </Child>
+    <Child ReferenceText="hazards">
+      <PageReference>LTC3:32</PageReference>
+    </Child>
+    <Child ReferenceText="land grades">
+      <PageReference>LTC3:4-5</PageReference>
+    </Child>
+    <Child ReferenceText="agriculture and">
+      <PageReference>LTC3:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Etching">
+    <PageReference>LTC3:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Excavation">
+    <PageReference>LTC3:20-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Farmer job">
+    <PageReference>LTC3:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Farming">
+    <SeeAlso>Agriculture</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Fermentation">
+    <PageReference>LTC3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ferrets">
+    <PageReference>LTC3:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fibers">
+    <Child ReferenceText="costs">
+      <PageReference>LTC3:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire">
+    <Child ReferenceText="farming with">
+      <PageReference>LTC3:8</PageReference>
+      <PageReference>LTC3:11</PageReference>
+    </Child>
+    <Child ReferenceText="furnaces">
+      <PageReference>LTC3:26</PageReference>
+    </Child>
+    <Child ReferenceText="hunting with">
+      <PageReference>LTC3:7</PageReference>
+    </Child>
+    <Child ReferenceText="cooking with">
+      <PageReference>LTC3:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fisherman job">
+    <PageReference>LTC3:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fishing">
+    <PageReference>LTC3:7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flake (tool)">
+    <PageReference>LTC3:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Food preservation">
+    <PageReference>LTC3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forester">
+    <Child ReferenceText="Professional Skill">
+      <PageReference>LTC3:23</PageReference>
+      <PageReference>LTC3:29</PageReference>
+      <PageReference>LTC3:50</PageReference>
+    </Child>
+    <Child ReferenceText="job">
+      <PageReference>LTC3:46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Freezing food">
+    <PageReference>LTC3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Furnaces">
+    <PageReference>LTC3:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gamekeeper job">
+    <PageReference>LTC3:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gatherer job">
+    <PageReference>LTC3:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gathering">
+    <PageReference>LTC3:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gears">
+    <PageReference>LTC3:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gilding">
+    <PageReference>LTC3:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glassblower">
+    <Child ReferenceText="Professional Skill">
+      <PageReference>LTC3:30</PageReference>
+      <PageReference>LTC3:31</PageReference>
+      <PageReference>LTC3:49</PageReference>
+      <PageReference>LTC3:50</PageReference>
+    </Child>
+    <Child ReferenceText="job">
+      <PageReference>LTC3:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Glassmaking">
+    <PageReference>LTC3:29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goats">
+    <PageReference>LTC3:10</PageReference>
+    <PageReference>LTC3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gothic masonry">
+    <PageReference>LTC3:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Graceful Blade perk">
+    <PageReference>LTC3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grains">
+    <PageReference>LTC3:8-11</PageReference>
+    <Child ReferenceText="mills">
+      <PageReference>LTC3:18</PageReference>
+    </Child>
+    <Child ReferenceText="productivity">
+      <PageReference>LTC3:10</PageReference>
+      <PageReference>LTC3:11</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>LTC3:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Griddles">
+    <PageReference>LTC3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grinding tools">
+    <PageReference>LTC3:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Bio-Tech">
+    <PageReference>LTC3:4</PageReference>
+    <Child ReferenceText="Fantasy">
+      <PageReference>LTC3:44</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech">
+      <PageReference>LTC3:3</PageReference>
+      <PageReference>LTC3:6</PageReference>
+      <PageReference>LTC3:7</PageReference>
+      <PageReference>LTC3:12</PageReference>
+      <PageReference>LTC3:22</PageReference>
+      <PageReference>LTC3:23</PageReference>
+      <PageReference>LTC3:25</PageReference>
+      <PageReference>LTC3:30</PageReference>
+      <PageReference>LTC3:34</PageReference>
+      <PageReference>LTC3:35</PageReference>
+      <PageReference>LTC3:38-42</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 1: Philosophers and Kings">
+      <PageReference>LTC3:44</PageReference>
+      <PageReference>LTC3:50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Harbors">
+    <PageReference>LTC3:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Herding">
+    <PageReference>LTC3:10</PageReference>
+    <Child ReferenceText="productivity table">
+      <PageReference>LTC3:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Herdsman job">
+    <PageReference>LTC3:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horses">
+    <PageReference>LTC3:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hulks (ships)">
+    <PageReference>LTC3:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunter job">
+    <PageReference>LTC3:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunting">
+    <PageReference>LTC3:4-7</PageReference>
+    <SeeAlso>Fishing</SeeAlso>
+    <SeeAlso>Trapping</SeeAlso>
+    <Child ReferenceText="big game">
+      <PageReference>LTC3:6</PageReference>
+    </Child>
+    <Child ReferenceText="dressing game">
+      <PageReference>LTC3:6</PageReference>
+      <PageReference>LTC3:7</PageReference>
+    </Child>
+    <Child ReferenceText="driving game">
+      <PageReference>LTC3:6</PageReference>
+    </Child>
+    <Child ReferenceText="small game">
+      <PageReference>LTC3:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hydraulics">
+    <PageReference>LTC3:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypocaust">
+    <PageReference>LTC3:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illuminator job">
+    <PageReference>LTC3:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Industrial equipment">
+    <PageReference>LTC3:18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infrastructure">
+    <Child ReferenceText="civilization">
+      <PageReference>LTC3:38-39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Irrigation">
+    <PageReference>LTC3:10</PageReference>
+    <PageReference>LTC3:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jeweler job">
+    <PageReference>LTC3:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jobs">
+    <PageReference>LTC3:45-49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Judge job">
+    <PageReference>LTC3:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Junks">
+    <PageReference>LTC3:41-42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Labor">
+    <Child ReferenceText="skill roll results">
+      <PageReference>LTC3:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="time">
+      <PageReference>LTC3:23</PageReference>
+      <PageReference>LTC3:36</PageReference>
+    </Child>
+    <Child ReferenceText="costs">
+      <PageReference>LTC3:23</PageReference>
+      <PageReference>LTC3:36-37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Levers">
+    <PageReference>LTC3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Machines">
+    <Child ReferenceText="basic">
+      <PageReference>LTC3:16</PageReference>
+    </Child>
+    <Child ReferenceText="advanced">
+      <PageReference>LTC3:16-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Manufacturing">
+    <PageReference>LTC3:22-32</PageReference>
+    <Child ReferenceText="crafting rolls">
+      <PageReference>LTC3:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="labor costs">
+      <PageReference>LTC3:23</PageReference>
+    </Child>
+    <Child ReferenceText="material costs">
+      <PageReference>LTC3:22</PageReference>
+    </Child>
+    <Child ReferenceText="preparation skills">
+      <PageReference>LTC3:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mason job">
+    <PageReference>LTC3:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Masonry">
+    <Child ReferenceText="types">
+      <PageReference>LTC3:35</PageReference>
+      <PageReference>LTC3:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Masseur Professional Skill">
+    <PageReference>LTC3:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Masters">
+    <Child ReferenceText="skill levels of">
+      <PageReference>LTC3:49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Masterwork Blade perk">
+    <PageReference>LTC3:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Materials">
+    <Child ReferenceText="costs">
+      <PageReference>LTC3:22</PageReference>
+    </Child>
+    <Child ReferenceText="skills for preparing">
+      <PageReference>LTC3:23</PageReference>
+    </Child>
+    <Child ReferenceText="building">
+      <PageReference>LTC3:33-34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchants">
+    <PageReference>LTC3:43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metals">
+    <Child ReferenceText="costs">
+      <PageReference>LTC3:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Metalworking">
+    <SeeAlso>Smelting</SeeAlso>
+    <Child ReferenceText="fine">
+      <PageReference>LTC3:27</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>LTC3:24-25</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>LTC3:25</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>LTC3:25-26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Midwife Professional Skill">
+    <PageReference>LTC3:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miller">
+    <Child ReferenceText="Professional Skill">
+      <PageReference>LTC3:50</PageReference>
+    </Child>
+    <Child ReferenceText="job">
+      <PageReference>LTC3:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Milling tools">
+    <PageReference>LTC3:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mills">
+    <Child ReferenceText="wire">
+      <PageReference>LTC3:19</PageReference>
+    </Child>
+    <Child ReferenceText="grain">
+      <PageReference>LTC3:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Miner job">
+    <PageReference>LTC3:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mining">
+    <PageReference>LTC3:20-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Money">
+    <PageReference>LTC3:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Money-lender job">
+    <PageReference>LTC3:49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monumental earthworks">
+    <PageReference>LTC3:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mortar">
+    <PageReference>LTC3:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mules">
+    <PageReference>LTC3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nets">
+    <PageReference>LTC3:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occupations">
+    <PageReference>LTC3:45-49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oil presses">
+    <PageReference>LTC3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Painting">
+    <PageReference>LTC3:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Partition factor">
+    <PageReference>LTC3:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pickling food">
+    <PageReference>LTC3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pigmentation">
+    <PageReference>LTC3:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pigs">
+    <PageReference>LTC3:10</PageReference>
+    <PageReference>LTC3:11</PageReference>
+    <PageReference>LTC3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pile drivers">
+    <PageReference>LTC3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pilot job">
+    <PageReference>LTC3:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pits">
+    <Child ReferenceText="for trapping">
+      <PageReference>LTC3:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Plants">
+    <Child ReferenceText="breeding">
+      <PageReference>LTC3:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Plumbing">
+    <PageReference>LTC3:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pollution">
+    <PageReference>LTC3:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Portages">
+    <PageReference>LTC3:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Porter job">
+    <PageReference>LTC3:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pots">
+    <PageReference>LTC3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Potter job">
+    <PageReference>LTC3:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pottery">
+    <PageReference>LTC3:27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poultry">
+    <PageReference>LTC3:10</PageReference>
+    <PageReference>LTC3:11</PageReference>
+    <PageReference>LTC3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power transmission">
+    <PageReference>LTC3:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure cookers">
+    <PageReference>LTC3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Professional Skills">
+    <Child ReferenceText="new">
+      <PageReference>LTC3:49-50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Prospecting">
+    <PageReference>LTC3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pulleys">
+    <PageReference>LTC3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ramps">
+    <PageReference>LTC3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regional carrying capacity">
+    <PageReference>LTC3:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roads">
+    <PageReference>LTC3:36</PageReference>
+    <PageReference>LTC3:38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rodents">
+    <Child ReferenceText="control">
+      <PageReference>LTC3:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Roofs">
+    <Child ReferenceText="wooden">
+      <PageReference>LTC3:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sailor job">
+    <PageReference>LTC3:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Salting food">
+    <PageReference>LTC3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saqiyas">
+    <PageReference>LTC3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sawmills">
+    <PageReference>LTC3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saws">
+    <PageReference>LTC3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Screws">
+    <Child ReferenceText="machine">
+      <PageReference>LTC3:16</PageReference>
+      <PageReference>LTC3:17</PageReference>
+      <PageReference>LTC3:27</PageReference>
+    </Child>
+    <Child ReferenceText="for construction">
+      <PageReference>LTC3:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scribe">
+    <Child ReferenceText="job">
+      <PageReference>LTC3:48</PageReference>
+      <PageReference>LTC3:50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Secondary products revolution">
+    <PageReference>LTC3:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serf job">
+    <PageReference>LTC3:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sericulturist Professional Skill">
+    <PageReference>LTC3:23</PageReference>
+    <PageReference>LTC3:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Servant job">
+    <PageReference>LTC3:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadoufs">
+    <PageReference>LTC3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharecropper job">
+    <PageReference>LTC3:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sheep">
+    <PageReference>LTC3:10</PageReference>
+    <PageReference>LTC3:11</PageReference>
+    <PageReference>LTC3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ships">
+    <PageReference>LTC3:40-42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shipwright job">
+    <PageReference>LTC3:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skewers">
+    <PageReference>LTC3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="new">
+      <PageReference>LTC3:49-50</PageReference>
+    </Child>
+    <Child ReferenceText="craft">
+      <PageReference>LTC3:25-32</PageReference>
+    </Child>
+    <Child ReferenceText="for getting food">
+      <PageReference>LTC3:4-11</PageReference>
+    </Child>
+    <Child ReferenceText="for preparing food">
+      <PageReference>LTC3:11-13</PageReference>
+    </Child>
+    <Child ReferenceText="for preparing materials">
+      <PageReference>LTC3:23</PageReference>
+    </Child>
+    <Child ReferenceText="crafting roll results">
+      <PageReference>LTC3:23-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smelting">
+    <PageReference>LTC3:26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smith job">
+    <PageReference>LTC3:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smoking food">
+    <PageReference>LTC3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snares">
+    <PageReference>LTC3:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soldering">
+    <PageReference>LTC3:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spicing food">
+    <PageReference>LTC3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spits">
+    <PageReference>LTC3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stone">
+    <Child ReferenceText="heated">
+      <PageReference>LTC3:12</PageReference>
+    </Child>
+    <Child ReferenceText="costs">
+      <PageReference>LTC3:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="agriculture quality and productivity">
+      <PageReference>LTC3:11</PageReference>
+    </Child>
+    <Child ReferenceText="animal productivity">
+      <PageReference>LTC3:10</PageReference>
+    </Child>
+    <Child ReferenceText="building materials">
+      <PageReference>LTC3:34</PageReference>
+    </Child>
+    <Child ReferenceText="cargo ships">
+      <PageReference>LTC3:41</PageReference>
+    </Child>
+    <Child ReferenceText="construction labor cost">
+      <PageReference>LTC3:37</PageReference>
+    </Child>
+    <Child ReferenceText="crafting">
+      <PageReference>LTC3:24</PageReference>
+    </Child>
+    <Child ReferenceText="raw materials">
+      <PageReference>LTC3:22</PageReference>
+    </Child>
+    <Child ReferenceText="slope">
+      <PageReference>LTC3:39</PageReference>
+    </Child>
+    <Child ReferenceText="agricultural productivity">
+      <PageReference>LTC3:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tailor job">
+    <PageReference>LTC3:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tanner">
+    <Child ReferenceText="Professional Skill">
+      <PageReference>LTC3:23</PageReference>
+      <PageReference>LTC3:50</PageReference>
+    </Child>
+    <Child ReferenceText="job">
+      <PageReference>LTC3:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Teacher job">
+    <PageReference>LTC3:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiling">
+    <PageReference>LTC3:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toxic waste">
+    <PageReference>LTC3:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trades">
+    <PageReference>LTC3:43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transportation">
+    <PageReference>LTC3:38-42</PageReference>
+    <Child ReferenceText="costs">
+      <PageReference>LTC3:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trapping">
+    <PageReference>LTC3:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treadmills">
+    <PageReference>LTC3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tribal chief job">
+    <PageReference>LTC3:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trip hammers">
+    <PageReference>LTC3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tubers">
+    <PageReference>LTC3:8-10</PageReference>
+    <Child ReferenceText="productivity">
+      <PageReference>LTC3:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tunneling">
+    <PageReference>LTC3:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turnover rates">
+    <PageReference>LTC3:43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vaulted masonry">
+    <PageReference>LTC3:33</PageReference>
+    <PageReference>LTC3:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vermin control">
+    <PageReference>LTC3:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water">
+    <Child ReferenceText="supplies">
+      <PageReference>LTC3:8</PageReference>
+    </Child>
+    <Child ReferenceText="cooling">
+      <PageReference>LTC3:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Waterwheels">
+    <PageReference>LTC3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon">
+    <Child ReferenceText="making">
+      <PageReference>LTC3:25</PageReference>
+    </Child>
+    <Child ReferenceText="composition">
+      <PageReference>LTC3:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wedges">
+    <PageReference>LTC3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whaling">
+    <PageReference>LTC3:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wheels">
+    <PageReference>LTC3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wicker">
+    <Child ReferenceText="costs">
+      <PageReference>LTC3:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Winches">
+    <PageReference>LTC3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Windmills">
+    <PageReference>LTC3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wire drums">
+    <PageReference>LTC3:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wires">
+    <Child ReferenceText="types of">
+      <PageReference>LTC3:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wood">
+    <Child ReferenceText="types">
+      <PageReference>LTC3:28-29</PageReference>
+    </Child>
+    <Child ReferenceText="costs">
+      <PageReference>LTC3:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Woodworking">
+    <PageReference>LTC3:28-29</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

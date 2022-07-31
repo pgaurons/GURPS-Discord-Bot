@@ -1,0 +1,799 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Academy wyrm">
+    <PageReference>DF10:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accommodations">
+    <PageReference>DF10:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Achewater">
+    <PageReference>DF10:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventure seeds">
+    <PageReference>DF10:17</PageReference>
+    <PageReference>DF10:22</PageReference>
+    <PageReference>DF10:26</PageReference>
+    <PageReference>DF10:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alister, Preston">
+    <PageReference>DF10:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amenities">
+    <PageReference>DF10:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Atteford">
+    <Child ReferenceText="Pernel">
+      <PageReference>DF10:23</PageReference>
+      <PageReference>DF10:25</PageReference>
+    </Child>
+    <Child ReferenceText="Sulien">
+      <PageReference>DF10:25</PageReference>
+    </Child>
+    <Child ReferenceText="Bertram">
+      <PageReference>DF10:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="“Back to School” adventure seed">
+    <PageReference>DF10:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad Temper disadvantage">
+    <PageReference>DF10:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banurgan River">
+    <PageReference>DF10:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bar fights">
+    <PageReference>DF10:11-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bards">
+    <SeeAlso>Buskers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Barfly’s Goblet">
+    <PageReference>DF10:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bartenders">
+    <Child ReferenceText="generic">
+      <PageReference>DF10:5</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>DF10:16</PageReference>
+      <PageReference>DF10:20</PageReference>
+      <PageReference>DF10:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic budgeting">
+    <PageReference>DF10:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bear hug">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Becoming One With Nature” adventure seed">
+    <PageReference>DF10:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Belligerent drunks">
+    <SeeAlso>Drunks</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Beverages">
+    <SeeAlso>Drink</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="“Billy Boy” adventure seed">
+    <PageReference>DF10:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Billy Longshanks">
+    <PageReference>DF10:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blakeney, Percy">
+    <PageReference>DF10:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blount, Judith">
+    <PageReference>DF10:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bonk! (maneuver)">
+    <PageReference>DF10:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bottles as weapons">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bouncers, example">
+    <PageReference>DF10:20-21</PageReference>
+    <PageReference>DF10:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Braumeister, Thorin">
+    <PageReference>DF10:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brawling in taverns">
+    <PageReference>DF10:11-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brews">
+    <SeeAlso>Drink</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Broken bottles as weapons">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Broken Oar (tavern)">
+    <PageReference>DF10:27-29</PageReference>
+    <Child ReferenceText="map">
+      <PageReference>DF10:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Broomsticks as weapons">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Budgeting, basic">
+    <PageReference>DF10:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buskers">
+    <PageReference>DF10:9</PageReference>
+    <Child ReferenceText="getting paid">
+      <PageReference>DF10:10</PageReference>
+    </Child>
+    <Child ReferenceText="groups">
+      <PageReference>DF10:10</PageReference>
+    </Child>
+    <Child ReferenceText="paying for services">
+      <PageReference>DF10:10</PageReference>
+    </Child>
+    <Child ReferenceText="skills needed">
+      <PageReference>DF10:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Candle-holders as weapons">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Captivate skill">
+    <PageReference>DF10:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carousing skill">
+    <PageReference>DF10:6</PageReference>
+    <PageReference>DF10:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cave (tavern)">
+    <PageReference>DF10:18-22</PageReference>
+    <Child ReferenceText="map">
+      <PageReference>DF10:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chairs as weapons">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <Child ReferenceText="generic">
+      <PageReference>DF10:5-9</PageReference>
+    </Child>
+    <Child ReferenceText="important">
+      <PageReference>DF10:16-17</PageReference>
+      <PageReference>DF10:20-22</PageReference>
+      <PageReference>DF10:25-26</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>DF10:16-18</PageReference>
+      <PageReference>DF10:20-23</PageReference>
+      <PageReference>DF10:24-27</PageReference>
+      <PageReference>DF10:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cheap weapons">
+    <PageReference>DF10:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Choke hold">
+    <PageReference>DF10:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coleopteran Mine, map of">
+    <PageReference>DF10:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coliar, Camara">
+    <PageReference>DF10:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts, temporary">
+    <PageReference>DF10:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cooks, example">
+    <PageReference>DF10:16</PageReference>
+    <PageReference>DF10:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost of amenities">
+    <PageReference>DF10:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Courtland, Lundarian">
+    <PageReference>DF10:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crooked gamblers">
+    <Child ReferenceText="generic">
+      <PageReference>DF10:5-6</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>DF10:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crowd control">
+    <PageReference>DF10:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crushroom ale">
+    <PageReference>DF10:14</PageReference>
+    <PageReference>DF10:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutpurses">
+    <Child ReferenceText="generic">
+      <PageReference>DF10:6</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>DF10:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dancing broom">
+    <PageReference>DF10:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dancing Goat (tavern)">
+    <PageReference>DF10:14-17</PageReference>
+    <Child ReferenceText="map">
+      <PageReference>DF10:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Danshar, Ari">
+    <PageReference>DF10:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Darts as weapons">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demon rum">
+    <PageReference>DF10:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Desdemona">
+    <PageReference>DF10:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diplomacy skill">
+    <PageReference>DF10:10</PageReference>
+    <PageReference>DF10:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dirty Fighting perk">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diversions, typical">
+    <PageReference>DF10:5</PageReference>
+    <SeeAlso>Buskers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Donata">
+    <PageReference>DF10:16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Donson, Gilbert">
+    <PageReference>DF10:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Down Where It’s Wetter” adventure seed">
+    <PageReference>DF10:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drink">
+    <PageReference>DF10:4</PageReference>
+    <Child ReferenceText="house specials">
+      <PageReference>DF10:14</PageReference>
+      <PageReference>DF10:18</PageReference>
+      <PageReference>DF10:23</PageReference>
+      <PageReference>DF10:27</PageReference>
+    </Child>
+    <Child ReferenceText="special">
+      <PageReference>DF10:30-31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Druids, example">
+    <PageReference>DF10:25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drunks">
+    <Child ReferenceText="fighting">
+      <PageReference>DF10:11</PageReference>
+    </Child>
+    <Child ReferenceText="generic">
+      <PageReference>DF10:5</PageReference>
+      <PageReference>DF10:6</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>DF10:17</PageReference>
+      <PageReference>DF10:22</PageReference>
+      <PageReference>DF10:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dunheath Labyrinth">
+    <PageReference>DF10:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Earning your way">
+    <PageReference>DF10:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enquist, Morton">
+    <PageReference>DF10:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Entertainment">
+    <PageReference>DF10:5</PageReference>
+    <SeeAlso>Buskers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Enthrallment skills">
+    <PageReference>DF10:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Escalating the fighting">
+    <PageReference>DF10:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eyes, as target">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faelin (hamlet)">
+    <PageReference>DF10:23</PageReference>
+    <PageReference>DF10:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Farmers, example">
+    <PageReference>DF10:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fayne">
+    <PageReference>DF10:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Talk skill">
+    <PageReference>DF10:10</PageReference>
+    <PageReference>DF10:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fieldman, Otis">
+    <PageReference>DF10:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fights in taverns">
+    <PageReference>DF10:11-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <PageReference>DF10:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fop">
+    <SeeAlso>Slumming Fop</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Forks as weapons">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frying pans as weapons">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fuller, Agravane">
+    <PageReference>DF10:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gamblers">
+    <SeeAlso>Crooked Gamblers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Game darts as weapons">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gaynisson, Agdir">
+    <PageReference>DF10:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant maned rat">
+    <PageReference>DF10:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grabbing people">
+    <PageReference>DF10:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greentooth">
+    <PageReference>DF10:20-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Group performances">
+    <PageReference>DF10:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guest rooms">
+    <PageReference>DF10:5</PageReference>
+    <SeeAlso>specific taverns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunther">
+    <PageReference>DF10:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <Child ReferenceText="Dungeon Fantasy 1: Adventures">
+      <PageReference>DF10:5-7</PageReference>
+      <PageReference>DF10:9</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DF10:4</PageReference>
+      <PageReference>DF10:10-12</PageReference>
+      <PageReference>DF10:22</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF10:31</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DF10:8</PageReference>
+      <PageReference>DF10:17</PageReference>
+      <PageReference>DF10:29</PageReference>
+      <PageReference>DF10:31</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 6: 40 Artifacts">
+      <PageReference>DF10:7</PageReference>
+      <PageReference>DF10:22</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>DF10:3</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DF10:3</PageReference>
+      <PageReference>DF10:6</PageReference>
+      <PageReference>DF10:11</PageReference>
+      <PageReference>DF10:29</PageReference>
+      <PageReference>DF10:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hamlet of Briscoe, map of">
+    <PageReference>DF10:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit locations, commonly targeted">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="House specials">
+    <PageReference>DF10:14</PageReference>
+    <PageReference>DF10:18</PageReference>
+    <PageReference>DF10:23</PageReference>
+    <PageReference>DF10:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Humorous drunks">
+    <SeeAlso>Drunks</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvised weapons">
+    <PageReference>DF10:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Information, finding">
+    <PageReference>DF10:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Innkeepers">
+    <Child ReferenceText="template">
+      <PageReference>DF10:8</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>DF10:16</PageReference>
+      <PageReference>DF10:18</PageReference>
+      <PageReference>DF10:23</PageReference>
+      <PageReference>DF10:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intimidation skill">
+    <PageReference>DF10:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jaw, as target">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jellyband">
+    <Child ReferenceText="Sally">
+      <PageReference>DF10:29</PageReference>
+    </Child>
+    <Child ReferenceText="Hiram">
+      <PageReference>DF10:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jemma">
+    <PageReference>DF10:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kassner Ale">
+    <PageReference>DF10:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Kayo” rules">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kingsbridge (city)">
+    <PageReference>DF10:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knocking out a foe">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knockout gauntlets">
+    <PageReference>DF10:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Langford, Mika">
+    <PageReference>DF10:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Linnemore, Shane">
+    <PageReference>DF10:25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loose lips share tips">
+    <PageReference>DF10:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lord Jauffre’s Undercroft, map of">
+    <PageReference>DF10:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Losturian hills">
+    <PageReference>DF10:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lute of Racial Harmony">
+    <PageReference>DF10:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical items">
+    <PageReference>DF10:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maned Rat Warren, map of">
+    <PageReference>DF10:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maps">
+    <Child ReferenceText="of taverns">
+      <PageReference>DF10:15</PageReference>
+      <PageReference>DF10:19</PageReference>
+      <PageReference>DF10:24</PageReference>
+      <PageReference>DF10:28</PageReference>
+    </Child>
+    <Child ReferenceText="example treasure">
+      <PageReference>DF10:29</PageReference>
+      <PageReference>DF10:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mickey Finn">
+    <PageReference>DF10:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monkey Cove, map of">
+    <PageReference>DF10:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical Influence skill">
+    <PageReference>DF10:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Night of the Lapines” adventure seed">
+    <PageReference>DF10:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nose, as target">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“O Boyfriend, Where Art Thou?” adventure seed">
+    <PageReference>DF10:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orcish bloodwine">
+    <PageReference>DF10:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Osmund">
+    <PageReference>DF10:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pans as weapons">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paying, amenities, 4-5 damages">
+    <PageReference>DF10:13</PageReference>
+    <Child ReferenceText="the bard">
+      <PageReference>DF10:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Performance skill">
+    <PageReference>DF10:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Performances">
+    <SeeAlso>Buskers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Perk, new">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perle, Eldred">
+    <PageReference>DF10:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pernel’s (tavern)">
+    <PageReference>DF10:23-26</PageReference>
+    <Child ReferenceText="map">
+      <PageReference>DF10:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Persuade skill">
+    <PageReference>DF10:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Persuading opponents">
+    <PageReference>DF10:10</PageReference>
+    <PageReference>DF10:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Polar beer">
+    <PageReference>DF10:18</PageReference>
+    <PageReference>DF10:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psyching out opponents">
+    <PageReference>DF10:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rabbits, enchanted">
+    <PageReference>DF10:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Raconteurs">
+    <Child ReferenceText="generic">
+      <PageReference>DF10:6</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>DF10:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rat, giant">
+    <PageReference>DF10:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reactions, fights due to interpersonal">
+    <PageReference>DF10:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regulars">
+    <SeeAlso>Characters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Rental rooms">
+    <PageReference>DF10:5</PageReference>
+    <SeeAlso>specific taverns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Restitution for fighting">
+    <PageReference>DF10:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Returning coin">
+    <PageReference>DF10:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roasting spits as weapons">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scaring opponents">
+    <PageReference>DF10:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scullery boys, generic">
+    <PageReference>DF10:6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Servers">
+    <SeeAlso>Serving Wenches</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Serving wenches">
+    <Child ReferenceText="generic">
+      <PageReference>DF10:7</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>DF10:16-17</PageReference>
+      <PageReference>DF10:21</PageReference>
+      <PageReference>DF10:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="“Shanghai Surprise” adventure seed">
+    <PageReference>DF10:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharing information">
+    <PageReference>DF10:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shelter, costs">
+    <PageReference>DF10:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="used in fighting">
+      <PageReference>DF10:11-13</PageReference>
+    </Child>
+    <Child ReferenceText="used by bards and buskers">
+      <PageReference>DF10:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skull, as target">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slumming fop">
+    <Child ReferenceText="generic">
+      <PageReference>DF10:7</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>DF10:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sorcerer’s academy">
+    <PageReference>DF10:14</PageReference>
+    <PageReference>DF10:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spider-Eye Spirits">
+    <PageReference>DF10:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spits for roasting as weapons">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stabling animals">
+    <PageReference>DF10:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starting fights">
+    <PageReference>DF10:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stopping fights">
+    <PageReference>DF10:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strangers in a cloak">
+    <Child ReferenceText="generic">
+      <PageReference>DF10:8</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>DF10:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stringless marionette">
+    <PageReference>DF10:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suggest skill">
+    <PageReference>DF10:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Svensdottir, Ythelin">
+    <PageReference>DF10:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sway Emotion skill">
+    <PageReference>DF10:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Table legs as weapons">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Takedown">
+    <PageReference>DF10:12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tankards as weapons">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taverns as information sources">
+    <PageReference>DF10:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taverns, basics of">
+    <PageReference>DF10:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Template, new">
+    <PageReference>DF10:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thieves">
+    <Child ReferenceText="generic">
+      <PageReference>DF10:9</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>DF10:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thorinsdottir, Astrid">
+    <PageReference>DF10:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thorinsson, Edwin">
+    <PageReference>DF10:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throwing a foe">
+    <PageReference>DF10:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tossing the rag doll">
+    <PageReference>DF10:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tough">
+    <SeeAlso>Young Tough</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Trees, animated">
+    <PageReference>DF10:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tregonwell Sewers, map of">
+    <PageReference>DF10:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="T wice-Brewed Ale">
+    <PageReference>DF10:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vestier, Bernard">
+    <PageReference>DF10:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vitals, as target">
+    <PageReference>DF10:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vorpal brew">
+    <PageReference>DF10:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Waterford, Liam">
+    <PageReference>DF10:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“We’re Off to Stab the Wizard” adventure seed">
+    <PageReference>DF10:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <Child ReferenceText="improvised">
+      <PageReference>DF10:11-12</PageReference>
+    </Child>
+    <Child ReferenceText="pulling out in a fight">
+      <PageReference>DF10:13</PageReference>
+    </Child>
+    <Child ReferenceText="cheap">
+      <PageReference>DF10:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Whisker gin">
+    <PageReference>DF10:27</PageReference>
+    <PageReference>DF10:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whitmark">
+    <PageReference>DF10:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="White, Jon">
+    <PageReference>DF10:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wight Wine">
+    <PageReference>DF10:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wooden doom">
+    <PageReference>DF10:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wyrm">
+    <PageReference>DF10:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Young tough">
+    <Child ReferenceText="generic">
+      <PageReference>DF10:9</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>DF10:26</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

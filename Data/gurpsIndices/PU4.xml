@@ -1,0 +1,472 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Affects Insubstantial enhancement">
+    <PageReference>PU4:12</PageReference>
+    <Child ReferenceText="ST-Based and">
+      <PageReference>PU4:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Affects Others enhancement">
+    <PageReference>PU4:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Affects Substantial enhancement">
+    <PageReference>PU4:12</PageReference>
+    <Child ReferenceText="ST-Based and">
+      <PageReference>PU4:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Affliction advantage">
+    <PageReference>PU4:6</PageReference>
+    <PageReference>PU4:15</PageReference>
+    <PageReference>PU4:16</PageReference>
+    <PageReference>PU4:19</PageReference>
+    <Child ReferenceText="Aura of Power">
+      <PageReference>PU4:4-5</PageReference>
+    </Child>
+    <Child ReferenceText="Cosmic and">
+      <PageReference>PU4:6</PageReference>
+    </Child>
+    <Child ReferenceText="new enhancements for">
+      <PageReference>PU4:21</PageReference>
+    </Child>
+    <Child ReferenceText="Songs">
+      <PageReference>PU4:5-6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Air Storm">
+    <PageReference>PU4:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alarum Beneficial Song">
+    <PageReference>PU4:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternative Enhancements">
+    <PageReference>PU4:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammunition options">
+    <PageReference>PU4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="AP Ammo enhancement">
+    <PageReference>PU4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor Divisor enhancement">
+    <Child ReferenceText="ST-Based and">
+      <PageReference>PU4:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attacks">
+    <Child ReferenceText="Cosmic and">
+      <PageReference>PU4:6</PageReference>
+    </Child>
+    <Child ReferenceText="modifying unarmed">
+      <PageReference>PU4:9</PageReference>
+    </Child>
+    <Child ReferenceText="new enhancements">
+      <PageReference>PU4:18-21</PageReference>
+    </Child>
+    <Child ReferenceText="ST-Based">
+      <PageReference>PU4:20</PageReference>
+    </Child>
+    <Child ReferenceText="alternative">
+      <PageReference>PU4:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aura of Power meta-enhancement">
+    <PageReference>PU4:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Avoiding drawbacks (Cosmic level)">
+    <PageReference>PU4:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Based on (Different Attribute) enhancement">
+    <PageReference>PU4:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Can Carry Objects enhancement">
+    <PageReference>PU4:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caution value">
+    <Child ReferenceText="explained">
+      <PageReference>PU4:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chaos aura of power">
+    <PageReference>PU4:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Complete maneuverability (Cosmic level)">
+    <PageReference>PU4:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic enhancement">
+    <PageReference>PU4:6-9</PageReference>
+    <Child ReferenceText="carrier attacks and">
+      <PageReference>PU4:6</PageReference>
+    </Child>
+    <Child ReferenceText="designing new levels">
+      <PageReference>PU4:8</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>PU4:9</PageReference>
+    </Child>
+    <Child ReferenceText="levels">
+      <PageReference>PU4:7-8</PageReference>
+    </Child>
+    <Child ReferenceText="ST-Based and">
+      <PageReference>PU4:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Modifiers">
+    <Child ReferenceText="ST-Based and">
+      <PageReference>PU4:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage">
+    <Child ReferenceText="modifying existing">
+      <PageReference>PU4:9-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Decreased Immunity enhancement">
+    <PageReference>PU4:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defenses">
+    <Child ReferenceText="enhancing">
+      <PageReference>PU4:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Defensive (Cosmic level)">
+    <PageReference>PU4:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delay enhancement">
+    <PageReference>PU4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Density Increase enhancement">
+    <PageReference>PU4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Destructive Parry enhancement">
+    <PageReference>PU4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect advantage">
+    <PageReference>PU4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dirge Baneful Song">
+    <PageReference>PU4:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual enhancement">
+    <PageReference>PU4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Move advantage">
+    <Child ReferenceText="Cosmic and">
+      <PageReference>PU4:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancements">
+    <Child ReferenceText="creating meta">
+      <PageReference>PU4:4</PageReference>
+    </Child>
+    <Child ReferenceText="declining">
+      <PageReference>PU4:17</PageReference>
+    </Child>
+    <Child ReferenceText="GM oversight">
+      <PageReference>PU4:4</PageReference>
+    </Child>
+    <Child ReferenceText="meta examples">
+      <PageReference>PU4:4-6</PageReference>
+    </Child>
+    <Child ReferenceText="modifying unarmed attacks">
+      <PageReference>PU4:9-10</PageReference>
+    </Child>
+    <Child ReferenceText="modifying no-cost traits">
+      <PageReference>PU4:9-11</PageReference>
+    </Child>
+    <Child ReferenceText="modifying weapons">
+      <PageReference>PU4:10-11</PageReference>
+    </Child>
+    <Child ReferenceText="new attack">
+      <PageReference>PU4:18-21</PageReference>
+    </Child>
+    <Child ReferenceText="new Cosmic">
+      <PageReference>PU4:6-9</PageReference>
+    </Child>
+    <Child ReferenceText="new general">
+      <PageReference>PU4:12-18</PageReference>
+    </Child>
+    <Child ReferenceText="symbol meaning">
+      <PageReference>PU4:12</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>PU4:22-24</PageReference>
+    </Child>
+    <Child ReferenceText="Caution value explained">
+      <PageReference>PU4:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Erosive enhancement">
+    <PageReference>PU4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extended Duration enhancement">
+    <PageReference>PU4:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Passes enhancement">
+    <PageReference>PU4:18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fixed Duration enhancement">
+    <PageReference>PU4:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Follow-Up enhancement">
+    <PageReference>PU4:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Force Field enhancement">
+    <PageReference>PU4:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fragmentation enhancement">
+    <PageReference>PU4:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Game Time enhancement">
+    <PageReference>PU4:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>PU4:3</PageReference>
+    <PageReference>PU4:4</PageReference>
+    <PageReference>PU4:6</PageReference>
+    <PageReference>PU4:9</PageReference>
+    <PageReference>PU4:17</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>PU4:4</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>PU4:11</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>PU4:3</PageReference>
+      <PageReference>PU4:4</PageReference>
+      <PageReference>PU4:6-9</PageReference>
+      <PageReference>PU4:15</PageReference>
+      <PageReference>PU4:16</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 1: Imbuements">
+      <PageReference>PU4:10</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>PU4:3</PageReference>
+    </Child>
+    <Child ReferenceText="Psi-Tech">
+      <PageReference>PU4:15</PageReference>
+    </Child>
+    <Child ReferenceText="Supers">
+      <PageReference>PU4:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heat enhancement">
+    <PageReference>PU4:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HP Ammo enhancement">
+    <PageReference>PU4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incendiary enhancement">
+    <PageReference>PU4:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Increased Range enhancement">
+    <PageReference>PU4:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Independent enhancement">
+    <PageReference>PU4:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Innate Attack advantage">
+    <Child ReferenceText="new enhancements">
+      <PageReference>PU4:18-21</PageReference>
+    </Child>
+    <Child ReferenceText="Storms">
+      <PageReference>PU4:6</PageReference>
+    </Child>
+    <Child ReferenceText="changing damage">
+      <PageReference>PU4:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Instantaneous acceleration (Cosmic level)">
+    <PageReference>PU4:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Irresistible attack (Cosmic level)">
+    <PageReference>PU4:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Itching enhancement">
+    <PageReference>PU4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitations">
+    <SeeAlso>Enhancements</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Lingering effect (Cosmic level)">
+    <PageReference>PU4:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Long-Range enhancement">
+    <PageReference>PU4:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low Psychic Signature enhancement">
+    <PageReference>PU4:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low Signature enhancement">
+    <PageReference>PU4:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Malediction enhancement">
+    <PageReference>PU4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee-Capable enhancement">
+    <PageReference>PU4:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental Defense Only enhancement">
+    <PageReference>PU4:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-enhancements">
+    <Child ReferenceText="new">
+      <PageReference>PU4:4-6</PageReference>
+    </Child>
+    <Child ReferenceText="creating">
+      <PageReference>PU4:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-Ammo enhancement">
+    <PageReference>PU4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No active defense allowed (Cosmic level)">
+    <PageReference>PU4:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No die roll required (Cosmic level)">
+    <PageReference>PU4:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Rule of 16 (Cosmic level)">
+    <PageReference>PU4:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Once On">
+    <Child ReferenceText="Stays On enhancement">
+      <PageReference>PU4:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Penetration modifiers">
+    <PageReference>PU4:14</PageReference>
+    <PageReference>PU4:19</PageReference>
+    <PageReference>PU4:21</PageReference>
+    <Child ReferenceText="unarmed attacks and">
+      <PageReference>PU4:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Privileged attack (Cosmic level)">
+    <PageReference>PU4:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid magazine">
+    <PageReference>PU4:3</PageReference>
+    <SeeAlso>GURPS</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Rate of Fire (ROF)">
+    <Child ReferenceText="improving">
+      <PageReference>PU4:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reflexive enhancement">
+    <PageReference>PU4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reliable enhancement">
+    <PageReference>PU4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires Will Roll limitation">
+    <PageReference>PU4:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retained speed (Cosmic level)">
+    <PageReference>PU4:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ricochet enhancement">
+    <PageReference>PU4:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Second-Nature enhancement">
+    <PageReference>PU4:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Selective Effect enhancement">
+    <PageReference>PU4:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Selectivity enhancement">
+    <PageReference>PU4:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense-Based (Reversed) limitation">
+    <PageReference>PU4:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Side Effect enhancement">
+    <PageReference>PU4:21</PageReference>
+    <Child ReferenceText="ST-Based and">
+      <PageReference>PU4:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slower Move enhancement">
+    <PageReference>PU4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Song meta-enhancement">
+    <PageReference>PU4:5-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ST-Based">
+    <Child ReferenceText="enhancement">
+      <PageReference>PU4:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="enhanced attacks">
+      <PageReference>PU4:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Storm meta-enhancement">
+    <PageReference>PU4:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super Attribute enhancement">
+    <PageReference>PU4:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surge enhancement">
+    <PageReference>PU4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surprise Attack enhancement">
+    <PageReference>PU4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Switchable enhancement">
+    <PageReference>PU4:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Symptom enhancement">
+    <PageReference>PU4:21</PageReference>
+    <Child ReferenceText="ST-Based and">
+      <PageReference>PU4:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Table">
+    <Child ReferenceText="enhancements">
+      <PageReference>PU4:22-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Terror advantage">
+    <Child ReferenceText="enhancements for">
+      <PageReference>PU4:8</PageReference>
+      <PageReference>PU4:13</PageReference>
+      <PageReference>PU4:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrusting Blade enhancement">
+    <PageReference>PU4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time-Spanning enhancement">
+    <PageReference>PU4:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unhealing damage (Cosmic level)">
+    <PageReference>PU4:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unrestricted powers (Cosmic level)">
+    <PageReference>PU4:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Usually On enhancement">
+    <PageReference>PU4:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Variable Enhancement">
+    <PageReference>PU4:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Very Rapid Fire enhancement">
+    <PageReference>PU4:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <SeeAlso>Attacks</SeeAlso>
+    <Child ReferenceText="modifying with enhancements">
+      <PageReference>PU4:10-11</PageReference>
+    </Child>
+    <Child ReferenceText="ammunition options">
+      <PageReference>PU4:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="World-Spanning enhancement">
+    <PageReference>PU4:18</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

@@ -1,0 +1,692 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Alchemist loadout">
+    <PageReference>DF13:7</PageReference>
+    <PageReference>DF13:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals, pack and riding">
+    <PageReference>DF13:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor of god loadout">
+    <PageReference>DF13:14</PageReference>
+    <PageReference>DF13:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <Child ReferenceText="scaling">
+      <PageReference>DF13:4</PageReference>
+    </Child>
+    <Child ReferenceText="partial">
+      <PageReference>DF13:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificer loadouts">
+    <PageReference>DF13:7</PageReference>
+    <PageReference>DF13:32</PageReference>
+    <Child ReferenceText="cleric">
+      <PageReference>DF13:10-11</PageReference>
+      <PageReference>DF13:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Assassin loadout">
+    <PageReference>DF13:28</PageReference>
+    <PageReference>DF13:51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Axe loadout">
+    <PageReference>DF13:8</PageReference>
+    <PageReference>DF13:33</PageReference>
+    <SeeAlso>Two-Handed Axe Loadout</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Axe-and-shield loadout">
+    <PageReference>DF13:20</PageReference>
+    <PageReference>DF13:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbarian loadouts">
+    <PageReference>DF13:8-9</PageReference>
+    <PageReference>DF13:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bard loadouts">
+    <PageReference>DF13:9-10</PageReference>
+    <PageReference>DF13:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barkeep loadout">
+    <PageReference>DF13:19</PageReference>
+    <PageReference>DF13:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beastmaster loadout">
+    <PageReference>DF13:13-14</PageReference>
+    <PageReference>DF13:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boomerangs">
+    <Child ReferenceText="loadouts using">
+      <PageReference>DF13:9</PageReference>
+      <PageReference>DF13:33</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>DF13:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bounty hunter loadout">
+    <PageReference>DF13:24</PageReference>
+    <PageReference>DF13:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Broadsword loadout">
+    <PageReference>DF13:8</PageReference>
+    <PageReference>DF13:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burglar loadout">
+    <PageReference>DF13:27-28</PageReference>
+    <PageReference>DF13:51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camouflage">
+    <PageReference>DF13:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chariots">
+    <PageReference>DF13:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleric loadouts">
+    <PageReference>DF13:10-13</PageReference>
+    <PageReference>DF13:35-37</PageReference>
+    <SeeAlso>Druid Loadouts</SeeAlso>
+    <SeeAlso>Holy Warrior Loadouts</SeeAlso>
+    <Child ReferenceText="agricultural">
+      <PageReference>DF13:10</PageReference>
+      <PageReference>DF13:35</PageReference>
+    </Child>
+    <Child ReferenceText="artificer">
+      <PageReference>DF13:10-11</PageReference>
+      <PageReference>DF13:35</PageReference>
+    </Child>
+    <Child ReferenceText="city">
+      <PageReference>DF13:11</PageReference>
+    </Child>
+    <Child ReferenceText="death">
+      <PageReference>DF13:11</PageReference>
+      <PageReference>DF13:35</PageReference>
+    </Child>
+    <Child ReferenceText="earth">
+      <PageReference>DF13:11</PageReference>
+    </Child>
+    <Child ReferenceText="evil">
+      <PageReference>DF13:13</PageReference>
+      <PageReference>DF13:37</PageReference>
+    </Child>
+    <Child ReferenceText="fighting">
+      <PageReference>DF13:11</PageReference>
+      <PageReference>DF13:35</PageReference>
+    </Child>
+    <Child ReferenceText="fire">
+      <PageReference>DF13:11</PageReference>
+      <PageReference>DF13:35</PageReference>
+    </Child>
+    <Child ReferenceText="healing">
+      <PageReference>DF13:11-12</PageReference>
+      <PageReference>DF13:36</PageReference>
+    </Child>
+    <Child ReferenceText="hunting">
+      <PageReference>DF13:12</PageReference>
+      <PageReference>DF13:36</PageReference>
+    </Child>
+    <Child ReferenceText="love">
+      <PageReference>DF13:12</PageReference>
+      <PageReference>DF13:36</PageReference>
+    </Child>
+    <Child ReferenceText="messenger/rogue">
+      <PageReference>DF13:12</PageReference>
+      <PageReference>DF13:36</PageReference>
+    </Child>
+    <Child ReferenceText="night">
+      <PageReference>DF13:12</PageReference>
+      <PageReference>DF13:36</PageReference>
+    </Child>
+    <Child ReferenceText="sea">
+      <PageReference>DF13:12-13</PageReference>
+      <PageReference>DF13:37</PageReference>
+    </Child>
+    <Child ReferenceText="storm">
+      <PageReference>DF13:13</PageReference>
+      <PageReference>DF13:37</PageReference>
+    </Child>
+    <Child ReferenceText="sun">
+      <PageReference>DF13:13</PageReference>
+      <PageReference>DF13:37</PageReference>
+    </Child>
+    <Child ReferenceText="war">
+      <PageReference>DF13:13</PageReference>
+      <PageReference>DF13:37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <Child ReferenceText="religious">
+      <PageReference>DF13:18</PageReference>
+    </Child>
+    <Child ReferenceText="scaling">
+      <PageReference>DF13:4</PageReference>
+    </Child>
+    <Child ReferenceText="uniforms">
+      <PageReference>DF13:18</PageReference>
+    </Child>
+    <Child ReferenceText="camouflage">
+      <PageReference>DF13:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossbows">
+    <Child ReferenceText="repeating pistol">
+      <PageReference>DF13:23</PageReference>
+    </Child>
+    <Child ReferenceText="loadouts using repeating pistol">
+      <PageReference>DF13:23</PageReference>
+      <PageReference>DF13:47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crusader loadout">
+    <PageReference>DF13:14-15</PageReference>
+    <PageReference>DF13:39</PageReference>
+    <Child ReferenceText="evil">
+      <PageReference>DF13:15</PageReference>
+      <PageReference>DF13:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Curator loadout">
+    <PageReference>DF13:23</PageReference>
+    <PageReference>DF13:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deluxe delver’s kit">
+    <PageReference>DF13:5-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonologist loadout">
+    <PageReference>DF13:25</PageReference>
+    <PageReference>DF13:49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Donkeys">
+    <PageReference>DF13:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druid loadouts">
+    <PageReference>DF13:13-14</PageReference>
+    <PageReference>DF13:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elementalist loadout">
+    <Child ReferenceText="summoner">
+      <PageReference>DF13:25</PageReference>
+      <PageReference>DF13:49</PageReference>
+    </Child>
+    <Child ReferenceText="druid">
+      <PageReference>DF13:14</PageReference>
+      <PageReference>DF13:38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Embellishments, religious">
+    <PageReference>DF13:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Engineer loadout">
+    <PageReference>DF13:7</PageReference>
+    <PageReference>DF13:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Establishment proprietor loadout">
+    <PageReference>DF13:19</PageReference>
+    <PageReference>DF13:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flail loadout">
+    <Child ReferenceText="martial artist">
+      <PageReference>DF13:21</PageReference>
+      <PageReference>DF13:45</PageReference>
+    </Child>
+    <Child ReferenceText="two-handed">
+      <PageReference>DF13:9</PageReference>
+      <PageReference>DF13:33</PageReference>
+    </Child>
+    <Child ReferenceText="barbarian">
+      <PageReference>DF13:9</PageReference>
+      <PageReference>DF13:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Garments">
+    <SeeAlso>Clothing</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Gentleman adventurer loadout">
+    <PageReference>DF13:26-27</PageReference>
+    <PageReference>DF13:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Group kit">
+    <PageReference>DF13:6</PageReference>
+    <PageReference>DF13:30</PageReference>
+    <PageReference>DF13:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Basic Set">
+    <PageReference>DF13:3</PageReference>
+    <PageReference>DF13:5</PageReference>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DF13:5</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DF13:3</PageReference>
+      <PageReference>DF13:4</PageReference>
+      <PageReference>DF13:7</PageReference>
+      <PageReference>DF13:10</PageReference>
+      <PageReference>DF13:11</PageReference>
+      <PageReference>DF13:13</PageReference>
+      <PageReference>DF13:14</PageReference>
+      <PageReference>DF13:18</PageReference>
+      <PageReference>DF13:24</PageReference>
+      <PageReference>DF13:28</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 8: Treasure Tables">
+      <PageReference>DF13:3</PageReference>
+      <PageReference>DF13:18</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF13:3</PageReference>
+      <PageReference>DF13:4</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DF13:3</PageReference>
+      <PageReference>DF13:4</PageReference>
+      <PageReference>DF13:7</PageReference>
+      <PageReference>DF13:23</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 7: Clerics">
+      <PageReference>DF13:3</PageReference>
+      <PageReference>DF13:10</PageReference>
+      <PageReference>DF13:11</PageReference>
+      <PageReference>DF13:14</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 9: Summoners">
+      <PageReference>DF13:3</PageReference>
+      <PageReference>DF13:26</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 10: Taverns">
+      <PageReference>DF13:3</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 12: Ninja">
+      <PageReference>DF13:3</PageReference>
+      <PageReference>DF13:22</PageReference>
+      <PageReference>DF13:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy warrior loadouts">
+    <PageReference>DF13:14-18</PageReference>
+    <PageReference>DF13:39-42</PageReference>
+    <SeeAlso>Cleric Loadouts</SeeAlso>
+    <SeeAlso>Druid Loadouts</SeeAlso>
+    <Child ReferenceText="agriculture">
+      <PageReference>DF13:15</PageReference>
+      <PageReference>DF13:39</PageReference>
+    </Child>
+    <Child ReferenceText="artificers">
+      <PageReference>DF13:15</PageReference>
+      <PageReference>DF13:39</PageReference>
+    </Child>
+    <Child ReferenceText="cities">
+      <PageReference>DF13:15</PageReference>
+      <PageReference>DF13:40</PageReference>
+    </Child>
+    <Child ReferenceText="death">
+      <PageReference>DF13:16</PageReference>
+      <PageReference>DF13:40</PageReference>
+    </Child>
+    <Child ReferenceText="earth">
+      <PageReference>DF13:16</PageReference>
+      <PageReference>DF13:40</PageReference>
+    </Child>
+    <Child ReferenceText="fire">
+      <PageReference>DF13:16</PageReference>
+      <PageReference>DF13:40</PageReference>
+    </Child>
+    <Child ReferenceText="healing">
+      <PageReference>DF13:16</PageReference>
+      <PageReference>DF13:40</PageReference>
+    </Child>
+    <Child ReferenceText="hunt">
+      <PageReference>DF13:17</PageReference>
+      <PageReference>DF13:41</PageReference>
+    </Child>
+    <Child ReferenceText="love">
+      <PageReference>DF13:17</PageReference>
+      <PageReference>DF13:41</PageReference>
+    </Child>
+    <Child ReferenceText="messengers/rogues">
+      <PageReference>DF13:17</PageReference>
+      <PageReference>DF13:41</PageReference>
+    </Child>
+    <Child ReferenceText="night">
+      <PageReference>DF13:17</PageReference>
+      <PageReference>DF13:41</PageReference>
+    </Child>
+    <Child ReferenceText="sea">
+      <PageReference>DF13:17</PageReference>
+      <PageReference>DF13:41</PageReference>
+    </Child>
+    <Child ReferenceText="storms">
+      <PageReference>DF13:18</PageReference>
+      <PageReference>DF13:42</PageReference>
+    </Child>
+    <Child ReferenceText="sun">
+      <PageReference>DF13:18</PageReference>
+      <PageReference>DF13:42</PageReference>
+    </Child>
+    <Child ReferenceText="war">
+      <PageReference>DF13:18</PageReference>
+      <PageReference>DF13:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Horses">
+    <PageReference>DF13:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Innkeeper loadouts">
+    <PageReference>DF13:19</PageReference>
+    <PageReference>DF13:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inventor loadout">
+    <PageReference>DF13:7</PageReference>
+    <PageReference>DF13:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knight loadouts">
+    <PageReference>DF13:19-21</PageReference>
+    <PageReference>DF13:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light warrior loadout">
+    <PageReference>DF13:19-20</PageReference>
+    <PageReference>DF13:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loadouts">
+    <SeeAlso>specific templates</SeeAlso>
+    <Child ReferenceText="basic">
+      <PageReference>DF13:5-6</PageReference>
+      <PageReference>DF13:30</PageReference>
+      <PageReference>DF13:31</PageReference>
+    </Child>
+    <Child ReferenceText="reading">
+      <PageReference>DF13:4-5</PageReference>
+    </Child>
+    <Child ReferenceText="reference sheets">
+      <PageReference>DF13:29-52</PageReference>
+    </Child>
+    <Child ReferenceText="alternate sizes">
+      <PageReference>DF13:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Main-gauches">
+    <Child ReferenceText="loadouts using">
+      <PageReference>DF13:7</PageReference>
+      <PageReference>DF13:27</PageReference>
+      <PageReference>DF13:32</PageReference>
+      <PageReference>DF13:50</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>DF13:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial artist loadouts">
+    <PageReference>DF13:21</PageReference>
+    <PageReference>DF13:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master of death loadout">
+    <PageReference>DF13:22</PageReference>
+    <PageReference>DF13:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master of missiles loadout">
+    <PageReference>DF13:22</PageReference>
+    <PageReference>DF13:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master of stealth loadout">
+    <PageReference>DF13:22</PageReference>
+    <PageReference>DF13:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master of tools loadout">
+    <PageReference>DF13:22-23</PageReference>
+    <PageReference>DF13:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minimal delver kit">
+    <PageReference>DF13:5</PageReference>
+    <PageReference>DF13:30</PageReference>
+    <Child ReferenceText="with deluxe delver’s kit">
+      <PageReference>DF13:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Minstrel loadout">
+    <PageReference>DF13:9</PageReference>
+    <PageReference>DF13:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounts">
+    <PageReference>DF13:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromancer loadout">
+    <PageReference>DF13:25-26</PageReference>
+    <PageReference>DF13:49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja loadouts">
+    <PageReference>DF13:22-23</PageReference>
+    <PageReference>DF13:46</PageReference>
+    <Child ReferenceText="assassin">
+      <PageReference>DF13:28</PageReference>
+      <PageReference>DF13:51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Polearm loadout">
+    <Child ReferenceText="knights">
+      <PageReference>DF13:20</PageReference>
+      <PageReference>DF13:44</PageReference>
+    </Child>
+    <Child ReferenceText="barbarians">
+      <PageReference>DF13:9</PageReference>
+      <PageReference>DF13:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Professor loadout">
+    <PageReference>DF13:23-24</PageReference>
+    <PageReference>DF13:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranger loadout">
+    <PageReference>DF13:24</PageReference>
+    <PageReference>DF13:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapier-and-buckler loadout">
+    <PageReference>DF13:27</PageReference>
+    <PageReference>DF13:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruffian loadout">
+    <PageReference>DF13:26</PageReference>
+    <PageReference>DF13:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saber loadout">
+    <PageReference>DF13:27</PageReference>
+    <PageReference>DF13:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sais">
+    <Child ReferenceText="loadout">
+      <PageReference>DF13:21</PageReference>
+      <PageReference>DF13:45</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>DF13:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scaling equipment">
+    <PageReference>DF13:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scholar loadouts">
+    <PageReference>DF13:23-24</PageReference>
+    <PageReference>DF13:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scourge of good loadout">
+    <PageReference>DF13:18</PageReference>
+    <PageReference>DF13:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scout loadouts">
+    <PageReference>DF13:24-25</PageReference>
+    <PageReference>DF13:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shaman loadout">
+    <PageReference>DF13:26</PageReference>
+    <PageReference>DF13:49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharpshooter loadout">
+    <PageReference>DF13:24-25</PageReference>
+    <PageReference>DF13:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields, scaling">
+    <PageReference>DF13:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shortsword/smallsword loadout">
+    <PageReference>DF13:21</PageReference>
+    <PageReference>DF13:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shortsword-and-main-gauche loadout">
+    <PageReference>DF13:27</PageReference>
+    <PageReference>DF13:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shuriken loadout">
+    <PageReference>DF13:21</PageReference>
+    <PageReference>DF13:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sizes, alternate">
+    <PageReference>DF13:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smallsword-and-cloak loadout">
+    <PageReference>DF13:27</PageReference>
+    <PageReference>DF13:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spear loadout">
+    <PageReference>DF13:9</PageReference>
+    <PageReference>DF13:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Staff loadout">
+    <PageReference>DF13:21</PageReference>
+    <PageReference>DF13:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stallions">
+    <PageReference>DF13:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Summoner loadouts">
+    <PageReference>DF13:25-26</PageReference>
+    <PageReference>DF13:49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swashbuckler loadouts">
+    <PageReference>DF13:26-27</PageReference>
+    <PageReference>DF13:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sword loadouts">
+    <SeeAlso>Rapier-and-Buckler Loadout</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sword-and-cloak loadout">
+    <PageReference>DF13:10</PageReference>
+    <PageReference>DF13:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sword-and-shield loadout">
+    <Child ReferenceText="knight">
+      <PageReference>DF13:20</PageReference>
+      <PageReference>DF13:44</PageReference>
+    </Child>
+    <Child ReferenceText="bard">
+      <PageReference>DF13:10</PageReference>
+      <PageReference>DF13:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Table, new weapons">
+    <PageReference>DF13:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thief loadouts">
+    <PageReference>DF13:27-28</PageReference>
+    <PageReference>DF13:51</PageReference>
+    <Child ReferenceText="cleric">
+      <PageReference>DF13:12</PageReference>
+      <PageReference>DF13:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tool vests">
+    <PageReference>DF13:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tools, scaling">
+    <PageReference>DF13:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tridents">
+    <Child ReferenceText="loadouts using">
+      <PageReference>DF13:13</PageReference>
+      <PageReference>DF13:17</PageReference>
+      <PageReference>DF13:37</PageReference>
+      <PageReference>DF13:41</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>DF13:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-handed axe loadout">
+    <Child ReferenceText="knight">
+      <PageReference>DF13:20-21</PageReference>
+      <PageReference>DF13:44</PageReference>
+    </Child>
+    <Child ReferenceText="barbarian">
+      <PageReference>DF13:9</PageReference>
+      <PageReference>DF13:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-handed sword loadout">
+    <Child ReferenceText="knight">
+      <PageReference>DF13:21</PageReference>
+      <PageReference>DF13:44</PageReference>
+    </Child>
+    <Child ReferenceText="barbarian">
+      <PageReference>DF13:9</PageReference>
+      <PageReference>DF13:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Uniforms">
+    <PageReference>DF13:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <PageReference>DF13:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wagons">
+    <PageReference>DF13:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warrior loadout">
+    <SeeAlso>Holy Warrior Loadouts</SeeAlso>
+    <SeeAlso>Knight Loadouts</SeeAlso>
+    <Child ReferenceText="empty-hand">
+      <PageReference>DF13:21</PageReference>
+      <PageReference>DF13:45</PageReference>
+    </Child>
+    <Child ReferenceText="heavy">
+      <PageReference>DF13:20</PageReference>
+      <PageReference>DF13:44</PageReference>
+    </Child>
+    <Child ReferenceText="medium">
+      <PageReference>DF13:20</PageReference>
+      <PageReference>DF13:44</PageReference>
+    </Child>
+    <Child ReferenceText="cleric">
+      <PageReference>DF13:11</PageReference>
+      <PageReference>DF13:13</PageReference>
+      <PageReference>DF13:35</PageReference>
+      <PageReference>DF13:37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <Child ReferenceText="new melee">
+      <PageReference>DF13:6</PageReference>
+    </Child>
+    <Child ReferenceText="new ranged">
+      <PageReference>DF13:6</PageReference>
+    </Child>
+    <Child ReferenceText="scaling">
+      <PageReference>DF13:4</PageReference>
+    </Child>
+    <Child ReferenceText="loadout lenses">
+      <PageReference>DF13:8-10</PageReference>
+      <PageReference>DF13:20-21</PageReference>
+      <PageReference>DF13:27</PageReference>
+      <PageReference>DF13:33</PageReference>
+      <PageReference>DF13:34</PageReference>
+      <PageReference>DF13:44</PageReference>
+      <PageReference>DF13:45</PageReference>
+      <PageReference>DF13:50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wise man loadout">
+    <PageReference>DF13:24</PageReference>
+    <PageReference>DF13:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizard loadouts">
+    <PageReference>DF13:28</PageReference>
+    <PageReference>DF13:52</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

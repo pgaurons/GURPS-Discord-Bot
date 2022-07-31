@@ -1,0 +1,951 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Accuracy bonuses">
+    <PageReference>PU7:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="wildcard versions">
+      <PageReference>PU7:20</PageReference>
+    </Child>
+    <Child ReferenceText="bonuses to wildcards">
+      <PageReference>PU7:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <Child ReferenceText="bonuses to wildcards">
+      <PageReference>PU7:24</PageReference>
+    </Child>
+    <Child ReferenceText="boosted defaults">
+      <PageReference>PU7:6</PageReference>
+    </Child>
+    <Child ReferenceText="controlling">
+      <PageReference>PU7:5</PageReference>
+    </Child>
+    <Child ReferenceText="using wildcards with">
+      <PageReference>PU7:24</PageReference>
+    </Child>
+    <Child ReferenceText="bonuses from wildcards">
+      <PageReference>PU7:14</PageReference>
+      <PageReference>PU7:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Benefits">
+    <PageReference>PU7:10-15</PageReference>
+    <SeeAlso>Bonuses</SeeAlso>
+    <SeeAlso>HyperCompetency</SeeAlso>
+    <Child ReferenceText="eliminating penalties">
+      <PageReference>PU7:11</PageReference>
+    </Child>
+    <Child ReferenceText="for style wildcards">
+      <PageReference>PU7:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="for supernatural wildcards">
+      <PageReference>PU7:17</PageReference>
+    </Child>
+    <Child ReferenceText="for template wildcards">
+      <PageReference>PU7:19</PageReference>
+    </Child>
+    <Child ReferenceText="for weapon wildcards">
+      <PageReference>PU7:20</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>PU7:11</PageReference>
+      <PageReference>PU7:12</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>PU7:14</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>PU7:11</PageReference>
+      <PageReference>PU7:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Block characteristic">
+    <Child ReferenceText="wildcard formula">
+      <PageReference>PU7:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bonuses">
+    <PageReference>PU7:13-15</PageReference>
+    <SeeAlso>Benefits</SeeAlso>
+    <SeeAlso>Hyper-Competency</SeeAlso>
+    <Child ReferenceText="automatic">
+      <PageReference>PU7:26</PageReference>
+    </Child>
+    <Child ReferenceText="based on points">
+      <PageReference>PU7:26</PageReference>
+    </Child>
+    <Child ReferenceText="damage">
+      <PageReference>PU7:5</PageReference>
+      <PageReference>PU7:15</PageReference>
+    </Child>
+    <Child ReferenceText="for style wildcards">
+      <PageReference>PU7:16</PageReference>
+    </Child>
+    <Child ReferenceText="for supernatural wildcards">
+      <PageReference>PU7:17</PageReference>
+    </Child>
+    <Child ReferenceText="for template wildcards">
+      <PageReference>PU7:19</PageReference>
+    </Child>
+    <Child ReferenceText="for weapon wildcards">
+      <PageReference>PU7:20</PageReference>
+    </Child>
+    <Child ReferenceText="other traits and">
+      <PageReference>PU7:24</PageReference>
+    </Child>
+    <Child ReferenceText="relative skill level and">
+      <PageReference>PU7:5</PageReference>
+      <PageReference>PU7:13-15</PageReference>
+    </Child>
+    <Child ReferenceText="ST">
+      <PageReference>PU7:5</PageReference>
+      <PageReference>PU7:15</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>PU7:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Broad subject matter concept">
+    <PageReference>PU7:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaign use">
+    <PageReference>PU7:21-23</PageReference>
+    <SeeAlso>NPCs</SeeAlso>
+    <Child ReferenceText="not using wildcards">
+      <PageReference>PU7:21</PageReference>
+    </Child>
+    <Child ReferenceText="template wildcards">
+      <PageReference>PU7:17-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cinematic skills">
+    <Child ReferenceText="wildcard versions">
+      <PageReference>PU7:16-17</PageReference>
+    </Child>
+    <Child ReferenceText="for weapon wildcards">
+      <PageReference>PU7:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <Child ReferenceText="wildcards">
+      <PageReference>PU7:15-16</PageReference>
+      <PageReference>PU7:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="bonuses">
+      <PageReference>PU7:5</PageReference>
+      <PageReference>PU7:14</PageReference>
+      <PageReference>PU7:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts advantage">
+    <PageReference>PU7:18</PageReference>
+    <PageReference>PU7:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Critical results">
+    <PageReference>PU7:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Culture concept">
+    <PageReference>PU7:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage bonuses">
+    <PageReference>PU7:5</PageReference>
+    <PageReference>PU7:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defaults">
+    <Child ReferenceText="conditionalto-general">
+      <PageReference>PU7:6</PageReference>
+    </Child>
+    <Child ReferenceText="for wildcards">
+      <PageReference>PU7:5</PageReference>
+    </Child>
+    <Child ReferenceText="skills to wildcards">
+      <PageReference>PU7:5</PageReference>
+    </Child>
+    <Child ReferenceText="steeper">
+      <PageReference>PU7:6</PageReference>
+    </Child>
+    <Child ReferenceText="boosted attribute">
+      <PageReference>PU7:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Epitome concept">
+    <PageReference>PU7:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expert Skills">
+    <PageReference>PU7:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Familiarity penalties">
+    <PageReference>PU7:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fighting styles">
+    <PageReference>PU7:15-16</PageReference>
+    <SeeAlso>Weapon Wildcards</SeeAlso>
+    <Child ReferenceText="combat bonuses">
+      <PageReference>PU7:5</PageReference>
+      <PageReference>PU7:14</PageReference>
+      <PageReference>PU7:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>PU7:3</PageReference>
+    <PageReference>PU7:4</PageReference>
+    <PageReference>PU7:15</PageReference>
+    <PageReference>PU7:22</PageReference>
+    <PageReference>PU7:27</PageReference>
+    <SeeAlso>Pyramid</SeeAlso>
+    <SeeAlso>Transhuman Space</SeeAlso>
+    <Child ReferenceText="Action">
+      <PageReference>PU7:27</PageReference>
+    </Child>
+    <Child ReferenceText="Action 1: Heroes">
+      <PageReference>PU7:3</PageReference>
+      <PageReference>PU7:27-33</PageReference>
+      <PageReference>PU7:36</PageReference>
+      <PageReference>PU7:37</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>PU7:3-5</PageReference>
+      <PageReference>PU7:23</PageReference>
+      <PageReference>PU7:29</PageReference>
+      <PageReference>PU7:30</PageReference>
+      <PageReference>PU7:35</PageReference>
+      <PageReference>PU7:36</PageReference>
+    </Child>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>PU7:33</PageReference>
+    </Child>
+    <Child ReferenceText="Creatures of the Night, Volume 1">
+      <PageReference>PU7:34</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>PU7:25</PageReference>
+      <PageReference>PU7:27</PageReference>
+      <PageReference>PU7:8</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>PU7:3</PageReference>
+      <PageReference>PU7:27</PageReference>
+      <PageReference>PU7:28</PageReference>
+      <PageReference>PU7:29</PageReference>
+      <PageReference>PU7:31-33</PageReference>
+      <PageReference>PU7:35-37</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 5: Allies">
+      <PageReference>PU7:33</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy-Tech 1: The Edge of Reality">
+      <PageReference>PU7:32</PageReference>
+    </Child>
+    <Child ReferenceText="Gun Fu">
+      <PageReference>PU7:15</PageReference>
+      <PageReference>PU7:30</PageReference>
+      <PageReference>PU7:36</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>PU7:34</PageReference>
+    </Child>
+    <Child ReferenceText="Infinite Worlds">
+      <PageReference>PU7:31</PageReference>
+    </Child>
+    <Child ReferenceText="Lair of the Fat Man">
+      <PageReference>PU7:36</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>PU7:4</PageReference>
+      <PageReference>PU7:5</PageReference>
+      <PageReference>PU7:16</PageReference>
+      <PageReference>PU7:32</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>PU7:7</PageReference>
+      <PageReference>PU7:9</PageReference>
+      <PageReference>PU7:11</PageReference>
+      <PageReference>PU7:12</PageReference>
+      <PageReference>PU7:15</PageReference>
+      <PageReference>PU7:16</PageReference>
+      <PageReference>PU7:20</PageReference>
+      <PageReference>PU7:31</PageReference>
+      <PageReference>PU7:32</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters">
+      <PageReference>PU7:12</PageReference>
+      <PageReference>PU7:27</PageReference>
+      <PageReference>PU7:29</PageReference>
+      <PageReference>PU7:31-33</PageReference>
+      <PageReference>PU7:35</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 1: Champions">
+      <PageReference>PU7:3</PageReference>
+      <PageReference>PU7:19</PageReference>
+      <PageReference>PU7:28-30</PageReference>
+      <PageReference>PU7:32</PageReference>
+      <PageReference>PU7:33</PageReference>
+      <PageReference>PU7:35-37</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 1: Imbuements">
+      <PageReference>PU7:17</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>PU7:11</PageReference>
+      <PageReference>PU7:12</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 3: Talents">
+      <PageReference>PU7:9</PageReference>
+      <PageReference>PU7:13</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 5: Impulse Buys">
+      <PageReference>PU7:3</PageReference>
+      <PageReference>PU7:12</PageReference>
+      <PageReference>PU7:13</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>PU7:17</PageReference>
+    </Child>
+    <Child ReferenceText="Reign of Steel: Will to Live">
+      <PageReference>PU7:33</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering">
+      <PageReference>PU7:3</PageReference>
+      <PageReference>PU7:30</PageReference>
+      <PageReference>PU7:34</PageReference>
+      <PageReference>PU7:35</PageReference>
+    </Child>
+    <Child ReferenceText="Supers">
+      <PageReference>PU7:3</PageReference>
+      <PageReference>PU7:16</PageReference>
+      <PageReference>PU7:20</PageReference>
+      <PageReference>PU7:28-30</PageReference>
+      <PageReference>PU7:32</PageReference>
+      <PageReference>PU7:33-37</PageReference>
+    </Child>
+    <Child ReferenceText="Supporting Cast: Age of Sail Pirate Crew">
+      <PageReference>PU7:34</PageReference>
+    </Child>
+    <Child ReferenceText="Tactical Shooting">
+      <PageReference>PU7:15</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>PU7:16</PageReference>
+      <PageReference>PU7:17</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Magical Styles">
+      <PageReference>PU7:17</PageReference>
+    </Child>
+    <Child ReferenceText="Ultra-Tech">
+      <PageReference>PU7:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyper-Competency">
+    <PageReference>PU7:12-14</PageReference>
+    <Child ReferenceText="for style wildcards">
+      <PageReference>PU7:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="for supernatural wildcards">
+      <PageReference>PU7:17</PageReference>
+    </Child>
+    <Child ReferenceText="for template wildcards">
+      <PageReference>PU7:19</PageReference>
+    </Child>
+    <Child ReferenceText="for weapon wildcards">
+      <PageReference>PU7:20</PageReference>
+    </Child>
+    <Child ReferenceText="using Wildcard Points">
+      <PageReference>PU7:13</PageReference>
+      <PageReference>PU7:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Imbuement Skills">
+    <Child ReferenceText="wildcard versions">
+      <PageReference>PU7:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Influence bonuses">
+    <PageReference>PU7:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Language Talent advantage">
+    <PageReference>PU7:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Languages">
+    <Child ReferenceText="wildcards for">
+      <PageReference>PU7:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery advantage">
+    <PageReference>PU7:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic wildcards">
+    <PageReference>PU7:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NPCs">
+    <SeeAlso>Template Wildcards</SeeAlso>
+    <Child ReferenceText="ultimate wildcards">
+      <PageReference>PU7:18</PageReference>
+    </Child>
+    <Child ReferenceText="wildcards and">
+      <PageReference>PU7:22</PageReference>
+      <PageReference>PU7:23</PageReference>
+    </Child>
+    <Child ReferenceText="monsters">
+      <PageReference>PU7:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Occupation concept">
+    <PageReference>PU7:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parry characteristic">
+    <Child ReferenceText="wildcard formula">
+      <PageReference>PU7:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <Child ReferenceText="for wildcards">
+      <PageReference>PU7:11</PageReference>
+      <PageReference>PU7:12</PageReference>
+      <PageReference>PU7:15</PageReference>
+    </Child>
+    <Child ReferenceText="covered by wildcards">
+      <PageReference>PU7:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Point cost">
+    <PageReference>PU7:4</PageReference>
+    <PageReference>PU7:9</PageReference>
+    <PageReference>PU7:10</PageReference>
+    <Child ReferenceText="skill difficulty and">
+      <PageReference>PU7:9</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>PU7:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <Child ReferenceText="wildcard versions">
+      <PageReference>PU7:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic wildcards">
+    <PageReference>PU7:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid">
+    <SeeAlso>GURPS</SeeAlso>
+    <SeeAlso>Transhuman Space</SeeAlso>
+    <Child ReferenceText="#3/31: Monster Hunters">
+      <PageReference>PU7:30</PageReference>
+    </Child>
+    <Child ReferenceText="#3/53: Action">
+      <PageReference>PU7:31</PageReference>
+    </Child>
+    <Child ReferenceText="#3/54: Social Engineering">
+      <PageReference>PU7:20</PageReference>
+    </Child>
+    <Child ReferenceText="#2">
+      <PageReference>PU7:27</PageReference>
+      <PageReference>PU7:29</PageReference>
+      <PageReference>PU7:31</PageReference>
+      <PageReference>PU7:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Race concept">
+    <PageReference>PU7:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction bonuses">
+    <PageReference>PU7:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Role concept">
+    <PageReference>PU7:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secondary characteristics">
+    <Child ReferenceText="using wildcards to determine">
+      <PageReference>PU7:25</PageReference>
+    </Child>
+    <Child ReferenceText="bonuses to wildcards">
+      <PageReference>PU7:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skill rolls">
+    <PageReference>PU7:23-25</PageReference>
+    <Child ReferenceText="compensating for difficulty">
+      <PageReference>PU7:25</PageReference>
+    </Child>
+    <Child ReferenceText="criticals">
+      <PageReference>PU7:26</PageReference>
+    </Child>
+    <Child ReferenceText="finding the target">
+      <PageReference>PU7:24-25</PageReference>
+    </Child>
+    <Child ReferenceText="player input">
+      <PageReference>PU7:23</PageReference>
+    </Child>
+    <Child ReferenceText="selecting the skill">
+      <PageReference>PU7:23</PageReference>
+    </Child>
+    <Child ReferenceText="using wildcards together">
+      <PageReference>PU7:25-26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <SeeAlso>Benefits</SeeAlso>
+    <SeeAlso>Bonuses</SeeAlso>
+    <SeeAlso>Defaults</SeeAlso>
+    <SeeAlso>Specialties</SeeAlso>
+    <SeeAlso>Techniques</SeeAlso>
+    <Child ReferenceText="choosing">
+      <PageReference>PU7:4-5</PageReference>
+      <PageReference>PU7:6-10</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic">
+      <PageReference>PU7:16-17</PageReference>
+    </Child>
+    <Child ReferenceText="complementary">
+      <PageReference>PU7:25-26</PageReference>
+    </Child>
+    <Child ReferenceText="concept categories">
+      <PageReference>PU7:6-7</PageReference>
+    </Child>
+    <Child ReferenceText="conditional">
+      <PageReference>PU7:5</PageReference>
+      <PageReference>PU7:8</PageReference>
+      <PageReference>PU7:9</PageReference>
+      <PageReference>PU7:19</PageReference>
+    </Child>
+    <Child ReferenceText="difficulty cost formula">
+      <PageReference>PU7:9</PageReference>
+    </Child>
+    <Child ReferenceText="familiarity penalties">
+      <PageReference>PU7:11</PageReference>
+    </Child>
+    <Child ReferenceText="fully general">
+      <PageReference>PU7:7-8</PageReference>
+    </Child>
+    <Child ReferenceText="Imbuement">
+      <PageReference>PU7:17</PageReference>
+    </Child>
+    <Child ReferenceText="improving from wildcards">
+      <PageReference>PU7:5-6</PageReference>
+    </Child>
+    <Child ReferenceText="in style wildcards">
+      <PageReference>PU7:15</PageReference>
+    </Child>
+    <Child ReferenceText="number of">
+      <PageReference>PU7:9-10</PageReference>
+    </Child>
+    <Child ReferenceText="reasons to use wildcards">
+      <PageReference>PU7:4</PageReference>
+      <PageReference>PU7:21-23</PageReference>
+    </Child>
+    <Child ReferenceText="replacing standard">
+      <PageReference>PU7:22</PageReference>
+    </Child>
+    <Child ReferenceText="standard vs" />
+    <Child ReferenceText="wildcard">
+      <PageReference>PU7:10</PageReference>
+      <PageReference>PU7:21</PageReference>
+    </Child>
+    <Child ReferenceText="suitability of specific">
+      <PageReference>PU7:7-9</PageReference>
+    </Child>
+    <Child ReferenceText="absolute level formula">
+      <PageReference>PU7:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Social position concept">
+    <PageReference>PU7:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special ability concept">
+    <PageReference>PU7:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specialties">
+    <SeeAlso>Perks</SeeAlso>
+    <SeeAlso>Skills</SeeAlso>
+    <SeeAlso>Techniques</SeeAlso>
+    <Child ReferenceText="cost of">
+      <PageReference>PU7:9</PageReference>
+    </Child>
+    <Child ReferenceText="weapon">
+      <PageReference>PU7:19</PageReference>
+    </Child>
+    <Child ReferenceText="choosing">
+      <PageReference>PU7:4</PageReference>
+      <PageReference>PU7:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="ST (Strength) bonuses">
+    <PageReference>PU7:5</PageReference>
+    <PageReference>PU7:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Style wildcards">
+    <PageReference>PU7:15-16</PageReference>
+    <SeeAlso>Combat</SeeAlso>
+    <SeeAlso>Weapon Wildcards</SeeAlso>
+    <Child ReferenceText="combat bonuses">
+      <PageReference>PU7:5</PageReference>
+      <PageReference>PU7:14</PageReference>
+      <PageReference>PU7:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Success rolls">
+    <SeeAlso>Skill Rolls</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural wildcards">
+    <PageReference>PU7:16-17</PageReference>
+    <PageReference>PU7:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="wildcard cost">
+      <PageReference>PU7:4</PageReference>
+    </Child>
+    <Child ReferenceText="wildcard benefits">
+      <PageReference>PU7:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <Child ReferenceText="psionic">
+      <PageReference>PU7:17</PageReference>
+    </Child>
+    <Child ReferenceText="using with wildcards">
+      <PageReference>PU7:10</PageReference>
+    </Child>
+    <Child ReferenceText="wildcards compared to">
+      <PageReference>PU7:9</PageReference>
+      <PageReference>PU7:10</PageReference>
+      <PageReference>PU7:13</PageReference>
+    </Child>
+    <Child ReferenceText="bonuses from">
+      <PageReference>PU7:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech level modifiers">
+    <PageReference>PU7:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <Child ReferenceText="counting">
+      <PageReference>PU7:10</PageReference>
+    </Child>
+    <Child ReferenceText="in weapon wildcards">
+      <PageReference>PU7:20</PageReference>
+    </Child>
+    <Child ReferenceText="in style wildcards">
+      <PageReference>PU7:15</PageReference>
+    </Child>
+    <Child ReferenceText="for wildcards">
+      <PageReference>PU7:11</PageReference>
+      <PageReference>PU7:12</PageReference>
+    </Child>
+    <Child ReferenceText="wildcard versions">
+      <PageReference>PU7:20</PageReference>
+    </Child>
+    <Child ReferenceText="choosing">
+      <PageReference>PU7:8-9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Template wildcards">
+    <PageReference>PU7:17-19</PageReference>
+    <PageReference>PU7:21</PageReference>
+    <PageReference>PU7:22</PageReference>
+    <Child ReferenceText="building blocks">
+      <PageReference>PU7:18-19</PageReference>
+      <PageReference>PU7:21</PageReference>
+    </Child>
+    <Child ReferenceText="buildingblock examples">
+      <PageReference>PU7:28-32</PageReference>
+      <PageReference>PU7:33</PageReference>
+      <PageReference>PU7:35-37</PageReference>
+    </Child>
+    <Child ReferenceText="ultimate">
+      <PageReference>PU7:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Training concept">
+    <PageReference>PU7:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transhuman Space">
+    <PageReference>PU7:27</PageReference>
+    <SeeAlso>GURPS</SeeAlso>
+    <SeeAlso>Pyramid</SeeAlso>
+    <Child ReferenceText="Changing Times">
+      <PageReference>PU7:33</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts 2100">
+      <PageReference>PU7:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultra-tech">
+    <PageReference>PU7:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background advantage">
+    <PageReference>PU7:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon bonuses">
+    <PageReference>PU7:5</PageReference>
+    <PageReference>PU7:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon wildcards">
+    <PageReference>PU7:19-20</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>PU7:27-33</PageReference>
+      <PageReference>PU7:35-37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weird tech">
+    <PageReference>PU7:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard Points (WP)">
+    <PageReference>PU7:12-13</PageReference>
+    <SeeAlso>Hyper-Competency</SeeAlso>
+    <Child ReferenceText="gaining">
+      <PageReference>PU7:12</PageReference>
+      <PageReference>PU7:14</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>PU7:14</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>PU7:13</PageReference>
+      <PageReference>PU7:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcards">
+    <Child ReferenceText="design tips">
+      <PageReference>PU7:6</PageReference>
+      <PageReference>PU7:20</PageReference>
+    </Child>
+    <Child ReferenceText="Golden Rule of design">
+      <PageReference>PU7:6</PageReference>
+    </Child>
+    <Child ReferenceText="high concept">
+      <PageReference>PU7:6</PageReference>
+    </Child>
+    <Child ReferenceText="problems of">
+      <PageReference>PU7:10</PageReference>
+      <PageReference>PU7:21</PageReference>
+    </Child>
+    <Child ReferenceText="vs" />
+    <Child ReferenceText="Expert Skills">
+      <PageReference>PU7:10</PageReference>
+    </Child>
+    <Child ReferenceText="vs" />
+    <Child ReferenceText="Talents">
+      <PageReference>PU7:9</PageReference>
+      <PageReference>PU7:10</PageReference>
+      <PageReference>PU7:13</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>PU7:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Art!">
+    <PageReference>PU7:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assassin!">
+    <PageReference>PU7:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbarian!">
+    <PageReference>PU7:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bard!">
+    <PageReference>PU7:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blade!">
+    <PageReference>PU7:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boat!">
+    <PageReference>PU7:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bow!">
+    <PageReference>PU7:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Businessman!">
+    <PageReference>PU7:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleaner!">
+    <PageReference>PU7:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleric!">
+    <PageReference>PU7:28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="College! (collection)">
+    <PageReference>PU7:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers!">
+    <PageReference>PU7:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts!">
+    <PageReference>PU7:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Courtier!">
+    <PageReference>PU7:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demolition Man!">
+    <PageReference>PU7:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detective!">
+    <PageReference>PU7:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drive!">
+    <PageReference>PU7:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druid!">
+    <PageReference>PU7:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Encyclopedist!">
+    <PageReference>PU7:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explorer!">
+    <PageReference>PU7:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Face Man!">
+    <PageReference>PU7:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fake!">
+    <PageReference>PU7:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fist!">
+    <PageReference>PU7:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forceful Chi!">
+    <PageReference>PU7:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun!">
+    <PageReference>PU7:30-31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hacker!">
+    <PageReference>PU7:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="History!">
+    <PageReference>PU7:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy Warrior!">
+    <PageReference>PU7:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horseman!">
+    <PageReference>PU7:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunter!">
+    <PageReference>PU7:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infiltrator!">
+    <PageReference>PU7:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inner Balance!">
+    <PageReference>PU7:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inventor!">
+    <PageReference>PU7:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Investigator!">
+    <PageReference>PU7:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Katana!">
+    <PageReference>PU7:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knight!">
+    <PageReference>PU7:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Language! (collection)">
+    <PageReference>PU7:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lore!">
+    <PageReference>PU7:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic!">
+    <PageReference>PU7:16</PageReference>
+    <PageReference>PU7:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Map!">
+    <PageReference>PU7:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial Artist!">
+    <PageReference>PU7:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mechanism!">
+    <PageReference>PU7:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medic!">
+    <PageReference>PU7:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medicine!">
+    <PageReference>PU7:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Memetics!">
+    <PageReference>PU7:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Money!">
+    <PageReference>PU7:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Move!">
+    <PageReference>PU7:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Negotiator!">
+    <PageReference>PU7:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occult!">
+    <PageReference>PU7:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perform!">
+    <PageReference>PU7:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pilot!">
+    <PageReference>PU7:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pirate!">
+    <PageReference>PU7:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychologist!">
+    <PageReference>PU7:34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scholar!">
+    <PageReference>PU7:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Science!">
+    <PageReference>PU7:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scout!">
+    <PageReference>PU7:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Security!">
+    <PageReference>PU7:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Servant!">
+    <PageReference>PU7:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shooter!">
+    <PageReference>PU7:35-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spy!">
+    <PageReference>PU7:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stick!">
+    <PageReference>PU7:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swashbuckler!">
+    <PageReference>PU7:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sword!">
+    <PageReference>PU7:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talker!">
+    <PageReference>PU7:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ten-Hut!">
+    <PageReference>PU7:36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thief!">
+    <PageReference>PU7:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throw!">
+    <PageReference>PU7:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wheel Man!">
+    <PageReference>PU7:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whip!">
+    <PageReference>PU7:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wire Rat!">
+    <PageReference>PU7:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizard!">
+    <PageReference>PU7:37</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

@@ -1,0 +1,1088 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="4D Spatial Sense ability">
+    <PageReference>PTW24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Abilities">
+    <SeeAlso>Powers</SeeAlso>
+    <Child ReferenceText="overview">
+      <PageReference>PTW20</PageReference>
+    </Child>
+    <Child ReferenceText="skill bonus">
+      <PageReference>PTW20</PageReference>
+    </Child>
+    <Child ReferenceText="using defensively">
+      <PageReference>PTW20</PageReference>
+    </Child>
+    <Child ReferenceText="list">
+      <PageReference>PTW24-40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatics skill">
+    <Child ReferenceText="related technique">
+      <PageReference>PTW7</PageReference>
+      <PageReference>PTW26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>PTW4-5</PageReference>
+    <PageReference>PTW21-24</PageReference>
+    <Child ReferenceText="internal">
+      <PageReference>PTW22</PageReference>
+    </Child>
+    <Child ReferenceText="wildcards and perks">
+      <PageReference>PTW8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemic Art style">
+    <PageReference>PTW14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy">
+    <Child ReferenceText="as weird science">
+      <PageReference>PTW14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate Form advantage">
+    <PageReference>PTW29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate universes">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Anachronistic Skill perk">
+    <PageReference>PTW4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anaerobic variation">
+    <PageReference>PTW21</PageReference>
+    <PageReference>PTW22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Annihilation ability">
+    <PageReference>PTW39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-Energy ability">
+    <PageReference>PTW39-40</PageReference>
+    <Child ReferenceText="restricted">
+      <PageReference>PTW40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Arcane Connection ability">
+    <PageReference>PTW33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificial intelligence (AI)">
+    <Child ReferenceText="related style">
+      <PageReference>PTW9-10</PageReference>
+    </Child>
+    <Child ReferenceText="computer types">
+      <PageReference>PTW9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Assiah">
+    <PageReference>PTW17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Atmospheric composition">
+    <Child ReferenceText="native">
+      <PageReference>PTW22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Atmospheric pressure">
+    <Child ReferenceText="native">
+      <PageReference>PTW22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Atomic Death Ray ability">
+    <PageReference>PTW35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attack from Nowhere technique">
+    <PageReference>PTW26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Atziluth">
+    <PageReference>PTW17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Automata style">
+    <PageReference>PTW8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biological power modifier">
+    <PageReference>PTW20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bladebane ability">
+    <PageReference>PTW40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blasting Radiation ability">
+    <PageReference>PTW37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body Sense skill">
+    <PageReference>PTW5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Briah">
+    <PageReference>PTW17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <Child ReferenceText="weirdness sources">
+      <PageReference>PTW15-18</PageReference>
+    </Child>
+    <Child ReferenceText="realms and">
+      <PageReference>PTW16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Captivation ability">
+    <PageReference>PTW38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catalysis ability">
+    <PageReference>PTW28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi power modifier">
+    <PageReference>PTW20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <Child ReferenceText="four-dimensional">
+      <PageReference>PTW26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <Child ReferenceText="using abilities defensively">
+      <PageReference>PTW20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <Child ReferenceText="AI">
+      <PageReference>PTW9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Consciousness">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Contrivance styles">
+    <PageReference>PTW8-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Control advantage">
+    <PageReference>PTW21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Controlled Atavism ability">
+    <PageReference>PTW30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Controlled Evolution style">
+    <PageReference>PTW10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic">
+    <Child ReferenceText="enhancement and objects">
+      <PageReference>PTW20</PageReference>
+    </Child>
+    <Child ReferenceText="enhancement variations">
+      <PageReference>PTW4</PageReference>
+      <PageReference>PTW21</PageReference>
+    </Child>
+    <Child ReferenceText="power modifier">
+      <PageReference>PTW19</PageReference>
+    </Child>
+    <Child ReferenceText="enhancement options">
+      <PageReference>PTW19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Debugging technique">
+    <PageReference>PTW6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demiurgy ability">
+    <PageReference>PTW33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Denser Molecular Structure ability">
+    <PageReference>PTW28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Density">
+    <Child ReferenceText="ST and">
+      <PageReference>PTW28</PageReference>
+    </Child>
+    <Child ReferenceText="ability">
+      <PageReference>PTW28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Devices">
+    <SeeAlso>Gadgets</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Dimensional Control power">
+    <PageReference>PTW24-25</PageReference>
+    <Child ReferenceText="combat">
+      <PageReference>PTW26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dimensions">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW16</PageReference>
+      <PageReference>PTW17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disempowerment ability">
+    <PageReference>PTW40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disorient technique">
+    <PageReference>PTW26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine power modifier">
+    <PageReference>PTW20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doesn’t Breathe advantage">
+    <PageReference>PTW21</PageReference>
+    <PageReference>PTW22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronics Operation skill">
+    <PageReference>PTW5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronics Repair skill">
+    <PageReference>PTW5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Engineer skill">
+    <PageReference>PTW5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Manipulation ability">
+    <PageReference>PTW31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancements">
+    <Child ReferenceText="Cosmic">
+      <PageReference>PTW4</PageReference>
+      <PageReference>PTW19</PageReference>
+    </Child>
+    <Child ReferenceText="counting toward power modifier">
+      <PageReference>PTW19</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>PTW4</PageReference>
+      <PageReference>PTW21</PageReference>
+      <PageReference>PTW23</PageReference>
+    </Child>
+    <Child ReferenceText="common">
+      <PageReference>PTW19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Environmental Adaptation variation">
+    <PageReference>PTW21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Environments">
+    <Child ReferenceText="weirdness sources">
+      <PageReference>PTW15-18</PageReference>
+    </Child>
+    <Child ReferenceText="native">
+      <PageReference>PTW22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Epigenetics advantage">
+    <PageReference>PTW22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Experimental weirdness">
+    <PageReference>PTW18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extensibility ability">
+    <PageReference>PTW28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="External enhancement">
+    <PageReference>PTW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extradimensionality ability">
+    <PageReference>PTW24-25</PageReference>
+    <Child ReferenceText="combat">
+      <PageReference>PTW26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Facing Change technique">
+    <PageReference>PTW6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fascination ability">
+    <PageReference>PTW31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fluidic specialty">
+    <PageReference>PTW5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Force Burst ability">
+    <PageReference>PTW35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Force Shield ability">
+    <PageReference>PTW35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Force Talons ability">
+    <PageReference>PTW36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Four-dimensional combat">
+    <PageReference>PTW26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fractal Manipulation ability">
+    <PageReference>PTW31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fringe Science specialty">
+    <PageReference>PTW5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Future">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteer advantage">
+    <PageReference>PTW4</PageReference>
+    <Child ReferenceText="Cosmic enhancement and">
+      <PageReference>PTW19-20</PageReference>
+    </Child>
+    <Child ReferenceText="devices created with">
+      <PageReference>PTW19-20</PageReference>
+    </Child>
+    <Child ReferenceText="powers gained by">
+      <PageReference>PTW20</PageReference>
+    </Child>
+    <Child ReferenceText="related styles">
+      <PageReference>PTW8-14</PageReference>
+    </Child>
+    <Child ReferenceText="related techniques">
+      <PageReference>PTW7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgets">
+    <Child ReferenceText="weird science">
+      <PageReference>PTW19-20</PageReference>
+    </Child>
+    <Child ReferenceText="Cosmic power modifier and">
+      <PageReference>PTW20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gift of Tongues ability">
+    <PageReference>PTW27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gnosis ability">
+    <PageReference>PTW34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GOFAI style">
+    <PageReference>PTW9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravity">
+    <Child ReferenceText="native">
+      <PageReference>PTW22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>PTW19</PageReference>
+    <PageReference>PTW22</PageReference>
+    <SeeAlso>Pyramid</SeeAlso>
+    <SeeAlso>Transhuman Space</SeeAlso>
+    <Child ReferenceText="Basic Set">
+      <PageReference>PTW6</PageReference>
+    </Child>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>PTW10</PageReference>
+      <PageReference>PTW12</PageReference>
+      <PageReference>PTW22</PageReference>
+    </Child>
+    <Child ReferenceText="Cabal">
+      <PageReference>PTW17</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy-Tech 1: The Edge of Reality">
+      <PageReference>PTW3</PageReference>
+      <PageReference>PTW8</PageReference>
+      <PageReference>PTW14</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>PTW13</PageReference>
+    </Child>
+    <Child ReferenceText="Horror: The Madness Dossier">
+      <PageReference>PTW17</PageReference>
+      <PageReference>PTW18</PageReference>
+    </Child>
+    <Child ReferenceText="Infinite Worlds">
+      <PageReference>PTW11</PageReference>
+      <PageReference>PTW16</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>PTW23</PageReference>
+      <PageReference>PTW26</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>PTW3</PageReference>
+      <PageReference>PTW5</PageReference>
+      <PageReference>PTW6</PageReference>
+      <PageReference>PTW32</PageReference>
+      <PageReference>PTW37</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 4: Enhancements">
+      <PageReference>PTW3</PageReference>
+      <PageReference>PTW19</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 8: Limitations">
+      <PageReference>PTW3</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>PTW3</PageReference>
+      <PageReference>PTW19-21</PageReference>
+      <PageReference>PTW23</PageReference>
+      <PageReference>PTW24</PageReference>
+      <PageReference>PTW26</PageReference>
+      <PageReference>PTW36</PageReference>
+    </Child>
+    <Child ReferenceText="Powers: Enhanced Senses">
+      <PageReference>PTW12</PageReference>
+      <PageReference>PTW36</PageReference>
+    </Child>
+    <Child ReferenceText="Psi-Tech">
+      <PageReference>PTW13</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>PTW3</PageReference>
+    </Child>
+    <Child ReferenceText="Psis">
+      <PageReference>PTW6</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering">
+      <PageReference>PTW23</PageReference>
+    </Child>
+    <Child ReferenceText="Space">
+      <PageReference>PTW22</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>PTW8</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Chinese Elemental Powers">
+      <PageReference>PTW14</PageReference>
+    </Child>
+    <Child ReferenceText="Ultra-Tech">
+      <PageReference>PTW10</PageReference>
+      <PageReference>PTW12</PageReference>
+    </Child>
+    <Child ReferenceText="Underground Adventures">
+      <PageReference>PTW22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Half Damage Without Grapple limitation">
+    <PageReference>PTW21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hardened enhancement">
+    <PageReference>PTW19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hardness ability">
+    <PageReference>PTW30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heuristics technique">
+    <PageReference>PTW6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hexing ability">
+    <PageReference>PTW27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden Lore">
+    <PageReference>PTW5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperacid Digestion ability">
+    <PageReference>PTW29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperacid Integument ability">
+    <PageReference>PTW29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperacid Spray ability">
+    <PageReference>PTW29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperacidity abilities">
+    <PageReference>PTW29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperliteracy ability">
+    <PageReference>PTW27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperspace">
+    <Child ReferenceText="related power">
+      <PageReference>PTW24-25</PageReference>
+    </Child>
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypervision ability">
+    <PageReference>PTW25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypnotism skill">
+    <Child ReferenceText="related technique">
+      <PageReference>PTW7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Illumination technique">
+    <PageReference>PTW7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion advantage">
+    <PageReference>PTW21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impassivity ability">
+    <PageReference>PTW34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imperium ability">
+    <PageReference>PTW27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incubus ability">
+    <PageReference>PTW38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infestation abilities">
+    <PageReference>PTW38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinite Worlds setting">
+    <PageReference>PTW16</PageReference>
+    <PageReference>PTW18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury Tolerance">
+    <Child ReferenceText="perk">
+      <PageReference>PTW23</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>PTW21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Innate Attack advantage">
+    <PageReference>PTW21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inspired Development technique">
+    <PageReference>PTW7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inspired Research technique">
+    <PageReference>PTW7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Internal advantages">
+    <PageReference>PTW22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invulnerability ability">
+    <PageReference>PTW30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knowledge">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Language">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lethal Radiation ability">
+    <PageReference>PTW37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitations">
+    <Child ReferenceText="new">
+      <PageReference>PTW4</PageReference>
+      <PageReference>PTW21</PageReference>
+      <PageReference>PTW23</PageReference>
+      <PageReference>PTW28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited Parasite limitation">
+    <PageReference>PTW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Local Orientation technique">
+    <PageReference>PTW26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Logos power">
+    <PageReference>PTW27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Machine Operation skill">
+    <PageReference>PTW5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meditation skill">
+    <Child ReferenceText="related technique">
+      <PageReference>PTW7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Memetics">
+    <Child ReferenceText="style">
+      <PageReference>PTW11</PageReference>
+    </Child>
+    <Child ReferenceText="as weird science">
+      <PageReference>PTW11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Metabolic Adaptation ability">
+    <PageReference>PTW32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metamateriality power">
+    <PageReference>PTW28-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metaphysical realms">
+    <PageReference>PTW17</PageReference>
+    <Child ReferenceText="four key">
+      <PageReference>PTW17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Miasma ability">
+    <PageReference>PTW38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microscopic enhancement">
+    <PageReference>PTW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Modification (Trait) technique">
+    <PageReference>PTW7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Modification style">
+    <PageReference>PTW11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modular Abilities advantage">
+    <PageReference>PTW22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Molecular Mimicry ability">
+    <PageReference>PTW29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mutagenic Radiation ability">
+    <PageReference>PTW37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mutation power">
+    <PageReference>PTW30-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="N-Ray Vision ability">
+    <PageReference>PTW36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanotech style">
+    <PageReference>PTW10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Native environments">
+    <PageReference>PTW22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Ears perk">
+    <PageReference>PTW24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Nose perk">
+    <PageReference>PTW24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonlocality ability">
+    <PageReference>PTW34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Noumena power">
+    <PageReference>PTW33-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nuclear specialty">
+    <PageReference>PTW5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nuclear Suppression ability">
+    <PageReference>PTW36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nullity ability">
+    <PageReference>PTW40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ontogenetics style">
+    <PageReference>PTW11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Organic Perfection ability">
+    <PageReference>PTW32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Organon ability">
+    <PageReference>PTW31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outer space">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW15-16</PageReference>
+    </Child>
+    <Child ReferenceText="singularities">
+      <PageReference>PTW17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Para-Energetics style">
+    <PageReference>PTW12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Para-Energy power">
+    <PageReference>PTW35-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Para-Energy Sense ability">
+    <PageReference>PTW36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Para-Energy Signals ability">
+    <PageReference>PTW36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Para-Radar Imaging ability">
+    <PageReference>PTW36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Para-Radiation abilities">
+    <PageReference>PTW37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Para-Radio advantage">
+    <PageReference>PTW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Para-Radionics specialty">
+    <PageReference>PTW5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parallel worlds">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Parasitism power">
+    <PageReference>PTW38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Past">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>PTW4-5</PageReference>
+    <PageReference>PTW23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <Child ReferenceText="wildcards and">
+      <PageReference>PTW8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Phantom Attack technique">
+    <PageReference>PTW26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phase Transition abilities">
+    <PageReference>PTW29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phenomena">
+    <Child ReferenceText="weirdness">
+      <PageReference>PTW17-18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Planes of existence">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Polypoid ability">
+    <PageReference>PTW31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Possession advantage">
+    <PageReference>PTW22-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Block defense">
+    <PageReference>PTW20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Dodge defense">
+    <PageReference>PTW20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power modifiers">
+    <PageReference>PTW19</PageReference>
+    <PageReference>PTW20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Parry defense">
+    <PageReference>PTW20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <Child ReferenceText="as separate gadgets">
+      <PageReference>PTW20</PageReference>
+    </Child>
+    <Child ReferenceText="common enhancements">
+      <PageReference>PTW19</PageReference>
+    </Child>
+    <Child ReferenceText="defining">
+      <PageReference>PTW19-20</PageReference>
+    </Child>
+    <Child ReferenceText="in alien universes">
+      <PageReference>PTW20</PageReference>
+    </Child>
+    <Child ReferenceText="list">
+      <PageReference>PTW24-40</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>PTW19-20</PageReference>
+    </Child>
+    <Child ReferenceText="sources">
+      <PageReference>PTW19-20</PageReference>
+    </Child>
+    <Child ReferenceText="ability overview">
+      <PageReference>PTW20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Prehensile Tongue ability">
+    <PageReference>PTW32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Projection technique">
+    <PageReference>PTW7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic power modifier">
+    <PageReference>PTW20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychical Research style">
+    <PageReference>PTW13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychology skill">
+    <PageReference>PTW5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychotronics">
+    <Child ReferenceText="style">
+      <PageReference>PTW13</PageReference>
+    </Child>
+    <Child ReferenceText="as weird science">
+      <PageReference>PTW13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Purpose perk">
+    <PageReference>PTW5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid #3/46: Weird Science">
+    <PageReference>PTW3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation Recovery perk">
+    <PageReference>PTW24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation">
+    <Child ReferenceText="weird">
+      <PageReference>PTW37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reality shards">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Realms">
+    <PageReference>PTW15-17</PageReference>
+    <Child ReferenceText="powers in alien">
+      <PageReference>PTW20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reconfigurable Organs ability">
+    <PageReference>PTW32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Relics">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Remote Hypnosis technique">
+    <PageReference>PTW7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires Grapple limitation">
+    <PageReference>PTW21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant">
+    <PageReference>PTW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Runes of Power advantage">
+    <PageReference>PTW22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sanitized Metabolism perk">
+    <PageReference>PTW24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Savant power modifier">
+    <PageReference>PTW20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scale Alteration ability">
+    <PageReference>PTW25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scanning Sense advantage">
+    <PageReference>PTW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-Mastery ability">
+    <PageReference>PTW34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensitive Touch advantage">
+    <PageReference>PTW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensory Surface ability">
+    <PageReference>PTW33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shapeshifting advantage">
+    <PageReference>PTW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Singularities">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>PTW5</PageReference>
+    <Child ReferenceText="availability by tech level">
+      <PageReference>PTW6</PageReference>
+    </Child>
+    <Child ReferenceText="wildcards">
+      <PageReference>PTW8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skinbound limitation">
+    <PageReference>PTW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skinwalking ability">
+    <PageReference>PTW39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specialized limitation">
+    <PageReference>PTW4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spy-Ray ability">
+    <PageReference>PTW37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strength (ST) attribute">
+    <Child ReferenceText="weight and">
+      <PageReference>PTW28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Style Familiarity perk">
+    <PageReference>PTW8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Styles">
+    <PageReference>PTW8-14</PageReference>
+    <Child ReferenceText="alternate TLs">
+      <PageReference>PTW7</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>PTW8</PageReference>
+    </Child>
+    <Child ReferenceText="realistic">
+      <PageReference>PTW4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Super power modifier">
+    <PageReference>PTW20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supercharging ability">
+    <PageReference>PTW33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superfluidity ability">
+    <PageReference>PTW30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superscience">
+    <Child ReferenceText="styles">
+      <PageReference>PTW18</PageReference>
+    </Child>
+    <Child ReferenceText="weird science and">
+      <PageReference>PTW18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="Strength and weight">
+      <PageReference>PTW28</PageReference>
+    </Child>
+    <Child ReferenceText="computer types">
+      <PageReference>PTW9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <PageReference>PTW20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tangency ability">
+    <PageReference>PTW25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech levels">
+    <Child ReferenceText="divergent">
+      <PageReference>PTW7</PageReference>
+    </Child>
+    <Child ReferenceText="skill availability">
+      <PageReference>PTW6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <PageReference>PTW6-7</PageReference>
+    <PageReference>PTW26</PageReference>
+    <Child ReferenceText="wildcards and">
+      <PageReference>PTW8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Technology Secret perk">
+    <PageReference>PTW5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technology">
+    <SeeAlso>Gadgeteer</SeeAlso>
+    <SeeAlso>Gadgets</SeeAlso>
+    <SeeAlso>Tech Levels</SeeAlso>
+    <Child ReferenceText="divergent">
+      <PageReference>PTW7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Telecommunication advantage">
+    <PageReference>PTW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature Tolerance advantage">
+    <PageReference>PTW22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature">
+    <Child ReferenceText="native">
+      <PageReference>PTW22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Terrestrial limitation">
+    <PageReference>PTW21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tesseraxis style">
+    <PageReference>PTW13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Timeskip ability">
+    <PageReference>PTW25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transcendental Philosophy style">
+    <PageReference>PTW13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transhuman Space">
+    <PageReference>PTW11</PageReference>
+    <PageReference>PTW17</PageReference>
+    <SeeAlso>GURPS</SeeAlso>
+    <Child ReferenceText="Changing Times">
+      <PageReference>PTW11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="True Speech ability">
+    <PageReference>PTW27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Truesight ability">
+    <PageReference>PTW35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universes">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW15-16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unmind ability">
+    <PageReference>PTW40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background advantage">
+    <PageReference>PTW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Virtual Pocket ability">
+    <PageReference>PTW25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Void power">
+    <PageReference>PTW39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weight">
+    <Child ReferenceText="ST and">
+      <PageReference>PTW28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weird power modifier">
+    <PageReference>PTW19</PageReference>
+    <Child ReferenceText="alternatives">
+      <PageReference>PTW20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weird radiation">
+    <PageReference>PTW37</PageReference>
+    <Child ReferenceText="effects">
+      <PageReference>PTW37</PageReference>
+    </Child>
+    <Child ReferenceText="treatment">
+      <PageReference>PTW37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weird Science skill">
+    <PageReference>PTW6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weird science">
+    <Child ReferenceText="defined">
+      <PageReference>PTW4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weirdness sources">
+    <PageReference>PTW15-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weirdtech power modifier">
+    <PageReference>PTW19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard skills">
+    <PageReference>PTW8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Withering ability">
+    <PageReference>PTW40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Worlds">
+    <Child ReferenceText="weirdness source">
+      <PageReference>PTW16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Worm ability">
+    <PageReference>PTW38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Xenonucleonics style">
+    <PageReference>PTW14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yetzirah">
+    <PageReference>PTW17</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

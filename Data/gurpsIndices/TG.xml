@@ -1,0 +1,1627 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Active control">
+    <SeeAlso>Control Points</SeeAlso>
+    <Child ReferenceText="ST and">
+      <PageReference>TG9</PageReference>
+    </Child>
+    <Child ReferenceText="defined">
+      <PageReference>TG3</PageReference>
+      <PageReference>TG5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>TG27-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Affects Others Only enhancement">
+    <PageReference>TG29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aim maneuver">
+    <PageReference>TG23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Attack maneuver">
+    <PageReference>TG20</PageReference>
+    <Child ReferenceText="changes to">
+      <PageReference>TG20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Defense maneuver">
+    <PageReference>TG20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Altered Time Rate advantage">
+    <PageReference>TG25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <Child ReferenceText="styles">
+      <PageReference>TG44-45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Arm or Hand Lock technique">
+    <PageReference>TG38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arm or Wrist Lock technique">
+    <PageReference>TG34</PageReference>
+    <PageReference>TG38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arm ST advantage">
+    <PageReference>TG27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armed Grapple technique">
+    <PageReference>TG34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armed grappler lens">
+    <PageReference>TG43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <Child ReferenceText="grappling and">
+      <PageReference>TG7-8</PageReference>
+    </Child>
+    <Child ReferenceText="HT">
+      <PageReference>TG8</PageReference>
+    </Child>
+    <Child ReferenceText="damaging">
+      <PageReference>TG8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Arms">
+    <SeeAlso>Limbs</SeeAlso>
+    <Child ReferenceText="Grip ST">
+      <PageReference>TG6-7</PageReference>
+    </Child>
+    <Child ReferenceText="locks">
+      <PageReference>TG38</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>TG27-28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attack maneuver">
+    <PageReference>TG21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attacks">
+    <Child ReferenceText="damage as">
+      <PageReference>TG25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <PageReference>TG26-27</PageReference>
+    <SeeAlso>Trained HT</SeeAlso>
+    <SeeAlso>Trained ST</SeeAlso>
+    <Child ReferenceText="Contests and">
+      <PageReference>TG11</PageReference>
+    </Child>
+    <Child ReferenceText="trained">
+      <PageReference>TG3</PageReference>
+      <PageReference>TG4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Backbreaker technique">
+    <PageReference>TG41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad Back disadvantage">
+    <PageReference>TG30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bear Hug technique">
+    <PageReference>TG23</PageReference>
+    <PageReference>TG34</PageReference>
+    <Child ReferenceText="weight and">
+      <PageReference>TG9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bear style">
+    <PageReference>TG44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beat maneuver">
+    <PageReference>TG21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Belt Wrestling style">
+    <PageReference>TG45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bind Weapon technique">
+    <PageReference>TG35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Binding perk">
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Binding technique">
+    <PageReference>TG41-42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bite ST advantage">
+    <PageReference>TG6</PageReference>
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bladed weapon characteristic">
+    <PageReference>TG14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blocks">
+    <PageReference>TG23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bloodlust disadvantage">
+    <PageReference>TG30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blunt Claws advantage">
+    <PageReference>TG27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body Control skill">
+    <PageReference>TG31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body">
+    <SeeAlso>Limbs</SeeAlso>
+    <SeeAlso>Torso</SeeAlso>
+    <Child ReferenceText="naked">
+      <PageReference>TG7</PageReference>
+    </Child>
+    <Child ReferenceText="oiled, 7 referred control and">
+      <PageReference>TG5-6</PageReference>
+    </Child>
+    <Child ReferenceText="grappling with">
+      <PageReference>TG6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bolas skill">
+    <PageReference>TG31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boxing skill">
+    <PageReference>TG31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brawling">
+    <PageReference>TG31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Break Free technique">
+    <PageReference>TG35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breakfall technique">
+    <PageReference>TG35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breath Control skill">
+    <PageReference>TG31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brute Parry combat option">
+    <PageReference>TG26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bucking Bronco combat option">
+    <PageReference>TG26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Canine style">
+    <PageReference>TG44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Change Position technique">
+    <PageReference>TG35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Change Posture maneuver">
+    <PageReference>TG21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <Child ReferenceText="superhuman">
+      <PageReference>TG6-7</PageReference>
+    </Child>
+    <Child ReferenceText="nonhuman">
+      <PageReference>TG6-7</PageReference>
+      <PageReference>TG9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chin tucks">
+    <PageReference>TG36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Choke Hold technique">
+    <PageReference>TG36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Choke technique">
+    <PageReference>TG36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chokes">
+    <PageReference>TG36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claws advantage">
+    <PageReference>TG27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clinch perk">
+    <PageReference>TG29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloak skill">
+    <PageReference>TG31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <Child ReferenceText="grappling and">
+      <PageReference>TG7-8</PageReference>
+    </Child>
+    <Child ReferenceText="HT">
+      <PageReference>TG8</PageReference>
+    </Child>
+    <Child ReferenceText="martial-arts style">
+      <PageReference>TG45</PageReference>
+    </Child>
+    <Child ReferenceText="damaging">
+      <PageReference>TG8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Collegiate Wrestling style">
+    <PageReference>TG45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Art skill">
+    <PageReference>TG31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Sport skill">
+    <PageReference>TG31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <SeeAlso>Fighting</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Combination maneuver">
+    <PageReference>TG22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Committed Attack maneuver">
+    <PageReference>TG21</PageReference>
+    <Child ReferenceText="changes to">
+      <PageReference>TG20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Competitions">
+    <PageReference>TG32</PageReference>
+    <PageReference>TG36</PageReference>
+    <PageReference>TG38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concentrate maneuver">
+    <PageReference>TG23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Constriction Attack advantage">
+    <PageReference>TG27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Constrictor Snake style">
+    <PageReference>TG44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contests">
+    <Child ReferenceText="for resolving grappling">
+      <PageReference>TG5</PageReference>
+      <PageReference>TG11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Control">
+    <SeeAlso>Active Control</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Control Points (CP)">
+    <Child ReferenceText="defined">
+      <PageReference>TG3</PageReference>
+      <PageReference>TG5-6</PageReference>
+    </Child>
+    <Child ReferenceText="maximum">
+      <PageReference>TG6</PageReference>
+    </Child>
+    <Child ReferenceText="powers and">
+      <PageReference>TG28</PageReference>
+    </Child>
+    <Child ReferenceText="quick and dirty">
+      <PageReference>TG5</PageReference>
+    </Child>
+    <Child ReferenceText="spending">
+      <PageReference>TG5</PageReference>
+    </Child>
+    <Child ReferenceText="weapons and">
+      <PageReference>TG14</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic options">
+      <PageReference>TG5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Control Resistance advantage">
+    <PageReference>TG7</PageReference>
+    <PageReference>TG15</PageReference>
+    <PageReference>TG27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cotton Stomach perk">
+    <PageReference>TG29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Counterattack technique">
+    <PageReference>TG36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crippling foes">
+    <PageReference>TG19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cuffs">
+    <SeeAlso>Handcuffs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage">
+    <SeeAlso>Pain</SeeAlso>
+    <Child ReferenceText="locks and">
+      <PageReference>TG19</PageReference>
+      <PageReference>TG25</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>TG48</PageReference>
+    </Child>
+    <Child ReferenceText="treated as attack">
+      <PageReference>TG25</PageReference>
+    </Child>
+    <Child ReferenceText="Control Points and">
+      <PageReference>TG5</PageReference>
+      <PageReference>TG19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Deceptive Attack combat option">
+    <PageReference>TG22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Decreased Time Rate disadvantage">
+    <PageReference>TG30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defenses">
+    <PageReference>TG22-23</PageReference>
+    <Child ReferenceText="ST-based">
+      <PageReference>TG26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Defensive Attack maneuver">
+    <PageReference>TG21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defensive Feints maneuver">
+    <PageReference>TG21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dexterity (DX) attribute">
+    <PageReference>TG9</PageReference>
+    <PageReference>TG26-27</PageReference>
+    <Child ReferenceText="size and">
+      <PageReference>TG9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>TG30-31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disarming technique">
+    <PageReference>TG36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disarms">
+    <PageReference>TG13-14</PageReference>
+    <PageReference>TG36</PageReference>
+    <Child ReferenceText="instant">
+      <PageReference>TG13-14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disengaging limbs">
+    <PageReference>TG23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dodge">
+    <PageReference>TG22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Double-Jointed advantage">
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Encumbrance">
+    <SeeAlso>Grappling Encumbrance</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancements">
+    <Child ReferenceText="special">
+      <PageReference>TG27-29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Entangle technique">
+    <PageReference>TG36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Entangling weapons">
+    <PageReference>TG17</PageReference>
+    <Child ReferenceText="characteristic">
+      <PageReference>TG15</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>TG14</PageReference>
+      <PageReference>TG33</PageReference>
+      <PageReference>TG34</PageReference>
+      <PageReference>TG36</PageReference>
+      <PageReference>TG48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enveloping enhancement">
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enveloping weapons">
+    <PageReference>TG17</PageReference>
+    <Child ReferenceText="characteristic">
+      <PageReference>TG15</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>TG14</PageReference>
+      <PageReference>TG33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Gear</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Escape skill">
+    <PageReference>TG31-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Escaping Parry technique">
+    <PageReference>TG36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Arms advantage">
+    <PageReference>TG27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Attack advantage">
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra effort">
+    <PageReference>TG6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Flexible enhancement">
+    <PageReference>TG27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Head advantage">
+    <PageReference>TG27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Legs advantage">
+    <PageReference>TG27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eye-Gouging technique">
+    <PageReference>TG37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Facing">
+    <PageReference>TG10-11</PageReference>
+    <Child ReferenceText="exploiting">
+      <PageReference>TG18</PageReference>
+    </Child>
+    <Child ReferenceText="relative">
+      <PageReference>TG11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Draw skill">
+    <PageReference>TG32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fat disadvantage">
+    <PageReference>TG8</PageReference>
+    <PageReference>TG30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feet">
+    <SeeAlso>Legs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Feints">
+    <PageReference>TG23</PageReference>
+    <Child ReferenceText="maneuver">
+      <PageReference>TG21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Feline style">
+    <PageReference>TG45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fighting">
+    <SeeAlso>Maneuvers</SeeAlso>
+    <SeeAlso>Techniques</SeeAlso>
+    <Child ReferenceText="armed opponents">
+      <PageReference>TG19</PageReference>
+    </Child>
+    <Child ReferenceText="choosing tactics">
+      <PageReference>TG18-19</PageReference>
+    </Child>
+    <Child ReferenceText="disengaging">
+      <PageReference>TG23-24</PageReference>
+    </Child>
+    <Child ReferenceText="grappling concepts">
+      <PageReference>TG5-11</PageReference>
+    </Child>
+    <Child ReferenceText="groups">
+      <PageReference>TG19</PageReference>
+      <PageReference>TG37</PageReference>
+    </Child>
+    <Child ReferenceText="other grapplers">
+      <PageReference>TG19</PageReference>
+    </Child>
+    <Child ReferenceText="resolving moves">
+      <PageReference>TG11</PageReference>
+    </Child>
+    <Child ReferenceText="unarmed strikers">
+      <PageReference>TG19</PageReference>
+    </Child>
+    <Child ReferenceText="under opponent">
+      <PageReference>TG9</PageReference>
+      <PageReference>TG10</PageReference>
+    </Child>
+    <Child ReferenceText="actions after grappling">
+      <PageReference>TG23-25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearms">
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="grabbing">
+      <PageReference>TG13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flail weapons">
+    <PageReference>TG17</PageReference>
+    <Child ReferenceText="characteristic">
+      <PageReference>TG15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flexibility advantage">
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flexible weapons">
+    <PageReference>TG17</PageReference>
+    <Child ReferenceText="characteristic">
+      <PageReference>TG15</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>TG6</PageReference>
+      <PageReference>TG14</PageReference>
+      <PageReference>TG32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Foot Lock technique">
+    <PageReference>TG39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Force Posture Change technique">
+    <PageReference>TG37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Games, skill 32" />
+  <IndexReference ReferenceText="Garrote skill">
+    <PageReference>TG32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="grappling encumbrance and">
+      <PageReference>TG8</PageReference>
+    </Child>
+    <Child ReferenceText="gripping">
+      <PageReference>TG12-13</PageReference>
+    </Child>
+    <Child ReferenceText="grabbing">
+      <PageReference>TG7-8</PageReference>
+      <PageReference>TG12-14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gigantism disadvantage">
+    <PageReference>TG31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glossary">
+    <PageReference>TG3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grab and smash tactics">
+    <PageReference>TG24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grabbing Parry technique">
+    <PageReference>TG42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grappling encumbrance">
+    <PageReference>TG8-9</PageReference>
+    <Child ReferenceText="multiple">
+      <PageReference>TG8</PageReference>
+    </Child>
+    <Child ReferenceText="penalty">
+      <PageReference>TG8</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>TG8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grappling Only limitation">
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grappling weight modifier">
+    <PageReference>TG8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grip">
+    <Child ReferenceText="shifting">
+      <PageReference>TG24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grip CP">
+    <SeeAlso>Control Points</SeeAlso>
+    <SeeAlso>Grip ST</SeeAlso>
+    <Child ReferenceText="gear to improve">
+      <PageReference>TG13</PageReference>
+    </Child>
+    <Child ReferenceText="defined">
+      <PageReference>TG3</PageReference>
+      <PageReference>TG12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grip ST">
+    <SeeAlso>Control Resistance</SeeAlso>
+    <SeeAlso>Grip CP</SeeAlso>
+    <Child ReferenceText="arms">
+      <PageReference>TG6-7</PageReference>
+    </Child>
+    <Child ReferenceText="defined">
+      <PageReference>TG3</PageReference>
+      <PageReference>TG6</PageReference>
+    </Child>
+    <Child ReferenceText="disadvantage">
+      <PageReference>TG31</PageReference>
+    </Child>
+    <Child ReferenceText="disengaging limbs and">
+      <PageReference>TG23-24</PageReference>
+    </Child>
+    <Child ReferenceText="legs">
+      <PageReference>TG6-7</PageReference>
+    </Child>
+    <Child ReferenceText="limitation">
+      <PageReference>TG28</PageReference>
+    </Child>
+    <Child ReferenceText="mouth">
+      <PageReference>TG6-7</PageReference>
+    </Child>
+    <Child ReferenceText="nohuman">
+      <PageReference>TG6-7</PageReference>
+    </Child>
+    <Child ReferenceText="perk">
+      <PageReference>TG19</PageReference>
+    </Child>
+    <Child ReferenceText="shifting grips">
+      <PageReference>TG24</PageReference>
+    </Child>
+    <Child ReferenceText="superhuman">
+      <PageReference>TG6-7</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>TG47</PageReference>
+    </Child>
+    <Child ReferenceText="weapons and">
+      <PageReference>TG14</PageReference>
+    </Child>
+    <Child ReferenceText="advantages">
+      <PageReference>TG27-28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ground fighter lens">
+    <PageReference>TG43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ground Fighting technique">
+    <PageReference>TG18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ground Guard perk">
+    <PageReference>TG18</PageReference>
+    <PageReference>TG29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns skill">
+    <PageReference>TG32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>TG4</PageReference>
+    <PageReference>TG6</PageReference>
+    <PageReference>TG8</PageReference>
+    <PageReference>TG10</PageReference>
+    <PageReference>TG11</PageReference>
+    <PageReference>TG20</PageReference>
+    <PageReference>TG25</PageReference>
+    <PageReference>TG26</PageReference>
+    <PageReference>TG28</PageReference>
+    <PageReference>TG36</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>TG3</PageReference>
+      <PageReference>TG9</PageReference>
+      <PageReference>TG13</PageReference>
+      <PageReference>TG17</PageReference>
+      <PageReference>TG21</PageReference>
+      <PageReference>TG23</PageReference>
+      <PageReference>TG26</PageReference>
+      <PageReference>TG29</PageReference>
+      <PageReference>TG30</PageReference>
+      <PageReference>TG34</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>TG32</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>TG46</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 2: Weapons and Warriors">
+      <PageReference>TG8</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>TG3</PageReference>
+      <PageReference>TG4</PageReference>
+      <PageReference>TG6</PageReference>
+      <PageReference>TG7</PageReference>
+      <PageReference>TG10</PageReference>
+      <PageReference>TG13</PageReference>
+      <PageReference>TG15-42</PageReference>
+      <PageReference>TG44</PageReference>
+      <PageReference>TG46</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>TG28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hand Catch technique">
+    <PageReference>TG42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Handcuffing technique">
+    <PageReference>TG37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Handcuffs">
+    <PageReference>TG17</PageReference>
+    <Child ReferenceText="escaping">
+      <PageReference>TG17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Handholds">
+    <Child ReferenceText="targeting">
+      <PageReference>TG7-8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hands">
+    <SeeAlso>Arms</SeeAlso>
+    <SeeAlso>Limbs</SeeAlso>
+    <Child ReferenceText="freeing">
+      <PageReference>TG24</PageReference>
+    </Child>
+    <Child ReferenceText="locks">
+      <PageReference>TG38</PageReference>
+    </Child>
+    <Child ReferenceText="releasing">
+      <PageReference>TG23</PageReference>
+    </Child>
+    <Child ReferenceText="technique">
+      <PageReference>TG42</PageReference>
+    </Child>
+    <Child ReferenceText="weapons in">
+      <PageReference>TG7</PageReference>
+    </Child>
+    <Child ReferenceText="adding">
+      <PageReference>TG24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Head Lock technique">
+    <PageReference>TG38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heads">
+    <SeeAlso>Limbs</SeeAlso>
+    <Child ReferenceText="grappling with">
+      <PageReference>TG6</PageReference>
+    </Child>
+    <Child ReferenceText="locks">
+      <PageReference>TG38-39</PageReference>
+    </Child>
+    <Child ReferenceText="parry">
+      <PageReference>TG23</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>TG27-28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Health (HT) attribute">
+    <PageReference>TG27</PageReference>
+    <SeeAlso>Trained HT</SeeAlso>
+    <Child ReferenceText="of gear">
+      <PageReference>TG8</PageReference>
+      <PageReference>TG42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit locations">
+    <PageReference>TG7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hook technique">
+    <PageReference>TG38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hooking weapons">
+    <PageReference>TG16</PageReference>
+    <Child ReferenceText="characteristic">
+      <PageReference>TG15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hooves advantage">
+    <PageReference>TG27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horizontal disadvantage">
+    <PageReference>TG10</PageReference>
+    <PageReference>TG31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immobilizing foes">
+    <PageReference>TG19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impact weapons">
+    <PageReference>TG17</PageReference>
+    <Child ReferenceText="characteristic">
+      <PageReference>TG15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Impaling weapons">
+    <Child ReferenceText="17 characteristic">
+      <PageReference>TG15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Incrementing weapons">
+    <PageReference>TG17</PageReference>
+    <Child ReferenceText="characteristic">
+      <PageReference>TG16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intrinsic encumbrance">
+    <PageReference>TG8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IQ attribute">
+    <PageReference>TG27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron Body Parts perk">
+    <PageReference>TG29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jacket Wrestling style">
+    <PageReference>TG45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jitte/Sai skill">
+    <PageReference>TG32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jo’baak Wrestling style">
+    <PageReference>TG45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Joint locks">
+    <PageReference>TG38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Judo skill">
+    <PageReference>TG18</PageReference>
+    <PageReference>TG32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Judo Throw technique">
+    <PageReference>TG39</PageReference>
+    <Child ReferenceText="realism option">
+      <PageReference>TG39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Karate skill">
+    <PageReference>TG32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Killing foes">
+    <PageReference>TG19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knot-Tying skill">
+    <PageReference>TG32-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kusari skill">
+    <PageReference>TG33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lasso skill">
+    <PageReference>TG33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leg Grapple technique">
+    <PageReference>TG39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leg Lock technique">
+    <PageReference>TG39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legs">
+    <SeeAlso>Limbs</SeeAlso>
+    <Child ReferenceText="grappling with">
+      <PageReference>TG6</PageReference>
+    </Child>
+    <Child ReferenceText="Grip ST">
+      <PageReference>TG6-7</PageReference>
+    </Child>
+    <Child ReferenceText="locks">
+      <PageReference>TG39</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>TG27-28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <Child ReferenceText="for grapplers">
+      <PageReference>TG43-44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifting ST advantage">
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="(Limb) Grip ST advantage">
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limbs">
+    <SeeAlso>Arms</SeeAlso>
+    <SeeAlso>Hands</SeeAlso>
+    <SeeAlso>Legs</SeeAlso>
+    <Child ReferenceText="disengaging">
+      <PageReference>TG23-24</PageReference>
+    </Child>
+    <Child ReferenceText="grappling with">
+      <PageReference>TG6</PageReference>
+    </Child>
+    <Child ReferenceText="locks">
+      <PageReference>TG38-39</PageReference>
+    </Child>
+    <Child ReferenceText="naked">
+      <PageReference>TG7</PageReference>
+    </Child>
+    <Child ReferenceText="passing">
+      <PageReference>TG24-25</PageReference>
+    </Child>
+    <Child ReferenceText="oiled">
+      <PageReference>TG7</PageReference>
+    </Child>
+    <Child ReferenceText="referred control">
+      <PageReference>TG5-6</PageReference>
+    </Child>
+    <Child ReferenceText="switching">
+      <PageReference>TG24</PageReference>
+    </Child>
+    <Child ReferenceText="advantages">
+      <PageReference>TG27-28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitations">
+    <Child ReferenceText="special">
+      <PageReference>TG28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Locks">
+    <Child ReferenceText="inflicting pain">
+      <PageReference>TG38</PageReference>
+    </Child>
+    <Child ReferenceText="joint">
+      <PageReference>TG38-39</PageReference>
+    </Child>
+    <Child ReferenceText="throws from">
+      <PageReference>TG25</PageReference>
+    </Child>
+    <Child ReferenceText="damage and">
+      <PageReference>TG25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Long enhancement">
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maneuvers">
+    <PageReference>TG20-23</PageReference>
+    <SeeAlso>Techniques</SeeAlso>
+    <Child ReferenceText="attacks options">
+      <PageReference>TG22</PageReference>
+    </Child>
+    <Child ReferenceText="damage after">
+      <PageReference>TG25</PageReference>
+    </Child>
+    <Child ReferenceText="disallowed">
+      <PageReference>TG23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mass">
+    <SeeAlso>Weight</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee Weapon skill">
+    <PageReference>TG33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee weapons">
+    <PageReference>TG16-17</PageReference>
+    <Child ReferenceText="characteristic">
+      <PageReference>TG16</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>TG32-34</PageReference>
+      <PageReference>TG48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Metabolism Control advantage">
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mighty Blows option">
+    <PageReference>TG6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mouths">
+    <SeeAlso>Heads</SeeAlso>
+    <Child ReferenceText="Grip ST">
+      <PageReference>TG6-7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Move and Attack maneuver">
+    <PageReference>TG21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Move maneuver">
+    <PageReference>TG21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naked skin">
+    <Child ReferenceText="grappling and">
+      <PageReference>TG7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neck Control perk">
+    <PageReference>TG30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neck Snap technique">
+    <PageReference>TG39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Net skill">
+    <PageReference>TG33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night Way style">
+    <PageReference>TG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Fine Manipulators disadvantage">
+    <PageReference>TG31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Grasping Hand limitation">
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Manipulators disadvantage">
+    <PageReference>TG31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonhuman grapplers">
+    <PageReference>TG6-7</PageReference>
+    <PageReference>TG9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oiled skin">
+    <Child ReferenceText="grappling and">
+      <PageReference>TG7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="One Foe attack option">
+    <PageReference>TG22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orientation">
+    <PageReference>TG11</PageReference>
+    <Child ReferenceText="changing">
+      <PageReference>TG23</PageReference>
+    </Child>
+    <Child ReferenceText="exploiting">
+      <PageReference>TG18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Overweight disadvantage">
+    <PageReference>TG8</PageReference>
+    <PageReference>TG30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pain">
+    <SeeAlso>Damage</SeeAlso>
+    <Child ReferenceText="locks and">
+      <PageReference>TG38</PageReference>
+    </Child>
+    <Child ReferenceText="Control Points and">
+      <PageReference>TG5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pack Tactics perk">
+    <PageReference>TG30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parries">
+    <PageReference>TG22-23</PageReference>
+    <Child ReferenceText="brute">
+      <PageReference>TG26</PageReference>
+    </Child>
+    <Child ReferenceText="STbased">
+      <PageReference>TG26</PageReference>
+    </Child>
+    <Child ReferenceText="technique">
+      <PageReference>TG36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pass limb">
+    <PageReference>TG24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Passive Restraint style">
+    <PageReference>TG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perfect Balance advantage">
+    <PageReference>TG29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>TG29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pickups">
+    <PageReference>TG24</PageReference>
+    <Child ReferenceText="weight and">
+      <PageReference>TG9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Piledriver technique">
+    <PageReference>TG42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pins">
+    <PageReference>TG24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Position">
+    <PageReference>TG10-11</PageReference>
+    <Child ReferenceText="changing">
+      <PageReference>TG23</PageReference>
+    </Child>
+    <Child ReferenceText="exploiting">
+      <PageReference>TG18</PageReference>
+    </Child>
+    <Child ReferenceText="impossible">
+      <PageReference>TG11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Posture">
+    <PageReference>TG9-10</PageReference>
+    <Child ReferenceText="changing">
+      <PageReference>TG10</PageReference>
+      <PageReference>TG18-19</PageReference>
+      <PageReference>TG21</PageReference>
+      <PageReference>TG37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Blow skill">
+    <PageReference>TG33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Grappling perk">
+    <PageReference>TG28</PageReference>
+    <PageReference>TG30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prehensile Feet enhancement">
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure Points skill">
+    <PageReference>TG33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure Secrets skill">
+    <PageReference>TG33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Push skill">
+    <PageReference>TG33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Contests">
+    <Child ReferenceText="for resolving grappling">
+      <PageReference>TG5</PageReference>
+      <PageReference>TG11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged attacks">
+    <PageReference>TG23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Retraction perk">
+    <PageReference>TG30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Strike combat option">
+    <PageReference>TG22</PageReference>
+    <PageReference>TG25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ready maneuver">
+    <PageReference>TG23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realism options">
+    <PageReference>TG7</PageReference>
+    <PageReference>TG39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Referred control">
+    <SeeAlso>Control Points</SeeAlso>
+    <Child ReferenceText="defined">
+      <PageReference>TG3</PageReference>
+      <PageReference>TG5-6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Restraint Only limitation">
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retain Weapon technique">
+    <PageReference>TG39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retreats">
+    <PageReference>TG23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rigid weapons">
+    <Child ReferenceText="using">
+      <PageReference>TG6</PageReference>
+      <PageReference>TG14</PageReference>
+      <PageReference>TG33</PageReference>
+    </Child>
+    <Child ReferenceText="characteristic">
+      <PageReference>TG16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ripostes">
+    <PageReference>TG23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rolling (position)">
+    <PageReference>TG10</PageReference>
+    <PageReference>TG37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rounding conventions">
+    <PageReference>TG4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruse maneuver">
+    <PageReference>TG21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrifice Throw technique">
+    <PageReference>TG40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sadism disadvantage">
+    <PageReference>TG31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scissors Hold technique">
+    <PageReference>TG40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret Lock technique">
+    <PageReference>TG42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <Child ReferenceText="grabbing">
+      <PageReference>TG12-14</PageReference>
+      <PageReference>TG23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shifting grapples">
+    <PageReference>TG24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoves">
+    <PageReference>TG5</PageReference>
+    <PageReference>TG25</PageReference>
+    <PageReference>TG30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoves and Tackles perk">
+    <PageReference>TG30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shuai Jiao style">
+    <PageReference>TG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sitting on opponent">
+    <PageReference>TG18</PageReference>
+    <PageReference>TG25</PageReference>
+    <Child ReferenceText="stability">
+      <PageReference>TG10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Size Modifier (SM)">
+    <PageReference>TG9</PageReference>
+    <PageReference>TG18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skill Adaptation perk">
+    <PageReference>TG30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>TG31-34</PageReference>
+    <Child ReferenceText="choosing">
+      <PageReference>TG18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skinny disadvantage">
+    <PageReference>TG30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slams">
+    <PageReference>TG5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slings">
+    <PageReference>TG13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slippery advantage">
+    <PageReference>TG29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snap Weapon technique">
+    <PageReference>TG42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sprawling Parry technique">
+    <PageReference>TG40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stand-up fighter lens">
+    <PageReference>TG43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stick weapons">
+    <PageReference>TG16</PageReference>
+    <PageReference>TG17</PageReference>
+    <Child ReferenceText="characteristic">
+      <PageReference>TG16</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>TG33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Strangle technique">
+    <PageReference>TG36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Straps">
+    <PageReference>TG13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strength (ST) attribute">
+    <PageReference>TG9</PageReference>
+    <PageReference>TG11</PageReference>
+    <PageReference>TG26</PageReference>
+    <SeeAlso>Trained ST</SeeAlso>
+    <Child ReferenceText="advantages of">
+      <PageReference>TG18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stretching advantage">
+    <PageReference>TG29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Styles">
+    <Child ReferenceText="character">
+      <PageReference>TG45-46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Submission-based competitions">
+    <PageReference>TG38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sumo Wrestling skill">
+    <PageReference>TG18</PageReference>
+    <PageReference>TG33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superhuman grapplers">
+    <PageReference>TG6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sweat">
+    <Child ReferenceText="grappling and">
+      <PageReference>TG7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sweep technique">
+    <PageReference>TG40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="Grip ST">
+      <PageReference>TG47</PageReference>
+    </Child>
+    <Child ReferenceText="takedown">
+      <PageReference>TG19</PageReference>
+    </Child>
+    <Child ReferenceText="training bonus">
+      <PageReference>TG48</PageReference>
+    </Child>
+    <Child ReferenceText="damage">
+      <PageReference>TG48</PageReference>
+      <PageReference>TG8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Takedowns">
+    <PageReference>TG25</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>TG19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talent advantage">
+    <PageReference>TG29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tapping out">
+    <PageReference>TG38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <Child ReferenceText="cinematic">
+      <PageReference>TG41</PageReference>
+    </Child>
+    <Child ReferenceText="defaulting">
+      <PageReference>TG26</PageReference>
+    </Child>
+    <Child ReferenceText="Quick Contests and">
+      <PageReference>TG11</PageReference>
+    </Child>
+    <Child ReferenceText="realistic">
+      <PageReference>TG34-41</PageReference>
+    </Child>
+    <Child ReferenceText="training bonus and">
+      <PageReference>TG4</PageReference>
+    </Child>
+    <Child ReferenceText="advice">
+      <PageReference>TG25</PageReference>
+      <PageReference>TG34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Teeth advantage">
+    <PageReference>TG29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telegraphic Attack combat option">
+    <PageReference>TG22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telekinesis power">
+    <PageReference>TG28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Testicle Grab technique">
+    <PageReference>TG40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrown weapons">
+    <PageReference>TG17</PageReference>
+    <Child ReferenceText="characteristic">
+      <PageReference>TG16</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>TG13</PageReference>
+      <PageReference>TG15</PageReference>
+      <PageReference>TG16</PageReference>
+      <PageReference>TG33</PageReference>
+      <PageReference>TG48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Throws">
+    <Child ReferenceText="techniques">
+      <PageReference>TG39</PageReference>
+      <PageReference>TG40</PageReference>
+    </Child>
+    <Child ReferenceText="from locks">
+      <PageReference>TG19</PageReference>
+      <PageReference>TG25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Torso">
+    <SeeAlso>Body</SeeAlso>
+    <SeeAlso>Limbs</SeeAlso>
+    <Child ReferenceText="grappling with">
+      <PageReference>TG6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trained (Attribute)">
+    <PageReference>TG3</PageReference>
+    <PageReference>TG4</PageReference>
+    <SeeAlso>Trained HT</SeeAlso>
+    <SeeAlso>Trained ST</SeeAlso>
+    <Child ReferenceText="Contests and">
+      <PageReference>TG11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trained by a Master advantage">
+    <PageReference>TG29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trained HT">
+    <PageReference>TG4</PageReference>
+    <PageReference>TG24</PageReference>
+    <Child ReferenceText="Control Points and">
+      <PageReference>TG5</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>TG41</PageReference>
+      <PageReference>TG42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trained ST">
+    <PageReference>TG3</PageReference>
+    <PageReference>TG4</PageReference>
+    <Child ReferenceText="Control Points and">
+      <PageReference>TG5</PageReference>
+      <PageReference>TG6</PageReference>
+    </Child>
+    <Child ReferenceText="grappling weapons">
+      <PageReference>TG14</PageReference>
+    </Child>
+    <Child ReferenceText="locks and">
+      <PageReference>TG38</PageReference>
+    </Child>
+    <Child ReferenceText="realism option">
+      <PageReference>TG7</PageReference>
+    </Child>
+    <Child ReferenceText="scaling">
+      <PageReference>TG7</PageReference>
+    </Child>
+    <Child ReferenceText="shoving and">
+      <PageReference>TG25</PageReference>
+    </Child>
+    <Child ReferenceText="size and">
+      <PageReference>TG9</PageReference>
+    </Child>
+    <Child ReferenceText="training bonus and">
+      <PageReference>TG4</PageReference>
+      <PageReference>TG7</PageReference>
+    </Child>
+    <Child ReferenceText="weapons and">
+      <PageReference>TG14-17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Training bonus">
+    <PageReference>TG3</PageReference>
+    <PageReference>TG4</PageReference>
+    <Child ReferenceText="exceptions">
+      <PageReference>TG4</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>TG48</PageReference>
+    </Child>
+    <Child ReferenceText="techniques and">
+      <PageReference>TG4</PageReference>
+    </Child>
+    <Child ReferenceText="Trained ST and">
+      <PageReference>TG4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trapping weapons">
+    <PageReference>TG17</PageReference>
+    <Child ReferenceText="characteristic">
+      <PageReference>TG16</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>TG13</PageReference>
+      <PageReference>TG32</PageReference>
+      <PageReference>TG35</PageReference>
+      <PageReference>TG36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trial by combat">
+    <PageReference>TG44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-handed weapons">
+    <PageReference>TG17</PageReference>
+    <Child ReferenceText="characteristic">
+      <PageReference>TG16</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>TG12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Very Fat disadvantage">
+    <PageReference>TG8</PageReference>
+    <PageReference>TG30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wait maneuver">
+    <PageReference>TG22</PageReference>
+    <PageReference>TG23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Master advantage">
+    <PageReference>TG29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <SeeAlso>Disarms</SeeAlso>
+    <SeeAlso>Grip ST</SeeAlso>
+    <Child ReferenceText="characteristics">
+      <PageReference>TG14-16</PageReference>
+    </Child>
+    <Child ReferenceText="Control Points and">
+      <PageReference>TG6</PageReference>
+      <PageReference>TG14</PageReference>
+    </Child>
+    <Child ReferenceText="Control Resistance and">
+      <PageReference>TG27</PageReference>
+    </Child>
+    <Child ReferenceText="DR of">
+      <PageReference>TG42</PageReference>
+    </Child>
+    <Child ReferenceText="example grappling">
+      <PageReference>TG16-17</PageReference>
+    </Child>
+    <Child ReferenceText="grabbing">
+      <PageReference>TG12-14</PageReference>
+      <PageReference>TG24</PageReference>
+    </Child>
+    <Child ReferenceText="grabbing">
+      <PageReference>TG13-14</PageReference>
+      <PageReference>TG48</PageReference>
+    </Child>
+    <Child ReferenceText="grabbing cutting">
+      <PageReference>TG13</PageReference>
+    </Child>
+    <Child ReferenceText="gripping">
+      <PageReference>TG7</PageReference>
+      <PageReference>TG12-13</PageReference>
+    </Child>
+    <Child ReferenceText="HP of">
+      <PageReference>TG42</PageReference>
+    </Child>
+    <Child ReferenceText="HT of">
+      <PageReference>TG42</PageReference>
+    </Child>
+    <Child ReferenceText="perk">
+      <PageReference>TG30</PageReference>
+    </Child>
+    <Child ReferenceText="readying">
+      <PageReference>TG23</PageReference>
+    </Child>
+    <Child ReferenceText="reorientating">
+      <PageReference>TG14</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>TG31-34</PageReference>
+    </Child>
+    <Child ReferenceText="style lens">
+      <PageReference>TG43</PageReference>
+    </Child>
+    <Child ReferenceText="tactics against">
+      <PageReference>TG18</PageReference>
+      <PageReference>TG19</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>TG34-36</PageReference>
+      <PageReference>TG38-42</PageReference>
+    </Child>
+    <Child ReferenceText="training bonus and">
+      <PageReference>TG4</PageReference>
+    </Child>
+    <Child ReferenceText="using unskilled">
+      <PageReference>TG26</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>TG29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weight">
+    <Child ReferenceText="grappling and">
+      <PageReference>TG8</PageReference>
+    </Child>
+    <Child ReferenceText="moves based on">
+      <PageReference>TG9</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>TG9</PageReference>
+      <PageReference>TG18</PageReference>
+      <PageReference>TG35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Whip skill">
+    <PageReference>TG34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrench (Limb) technique">
+    <PageReference>TG41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrench Spine technique">
+    <PageReference>TG41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrestling skill">
+    <PageReference>TG18</PageReference>
+    <PageReference>TG34</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

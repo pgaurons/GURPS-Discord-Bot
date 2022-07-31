@@ -1,0 +1,2099 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Acrobatic Dodge defense option">
+    <PageReference>HBGG57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="choosing">
+      <PageReference>HBGG12</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic">
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="damage">
+      <PageReference>HBGG47-48</PageReference>
+    </Child>
+    <Child ReferenceText="defense">
+      <PageReference>HBGG48</PageReference>
+    </Child>
+    <Child ReferenceText="luck">
+      <PageReference>HBGG49-51</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>HBGG49-51</PageReference>
+    </Child>
+    <Child ReferenceText="movement">
+      <PageReference>HBGG49</PageReference>
+    </Child>
+    <Child ReferenceText="physical form">
+      <PageReference>HBGG49</PageReference>
+    </Child>
+    <Child ReferenceText="psionics">
+      <PageReference>HBGG49-51</PageReference>
+    </Child>
+    <Child ReferenceText="recovery">
+      <PageReference>HBGG48</PageReference>
+    </Child>
+    <Child ReferenceText="resistance">
+      <PageReference>HBGG48</PageReference>
+    </Child>
+    <Child ReferenceText="senses">
+      <PageReference>HBGG49</PageReference>
+    </Child>
+    <Child ReferenceText="situational awareness">
+      <PageReference>HBGG49</PageReference>
+    </Child>
+    <Child ReferenceText="size">
+      <PageReference>HBGG49</PageReference>
+    </Child>
+    <Child ReferenceText="social">
+      <PageReference>HBGG13-14</PageReference>
+    </Child>
+    <Child ReferenceText="Status">
+      <PageReference>HBGG13</PageReference>
+    </Child>
+    <Child ReferenceText="training">
+      <PageReference>HBGG51-52</PageReference>
+    </Child>
+    <Child ReferenceText="useful combat">
+      <PageReference>HBGG47-52</PageReference>
+    </Child>
+    <Child ReferenceText="Wealth">
+      <PageReference>HBGG13</PageReference>
+    </Child>
+    <Child ReferenceText="weapon">
+      <PageReference>HBGG51-52</PageReference>
+    </Child>
+    <Child ReferenceText="attack">
+      <PageReference>HBGG47-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Campaigns</SeeAlso>
+    <SeeAlso>Combat</SeeAlso>
+    <SeeAlso>Encounters</SeeAlso>
+    <SeeAlso>Nonplayer Characters</SeeAlso>
+    <Child ReferenceText="before the session">
+      <PageReference>HBGG37</PageReference>
+    </Child>
+    <Child ReferenceText="cliffhangers">
+      <PageReference>HBGG38</PageReference>
+    </Child>
+    <Child ReferenceText="creation example">
+      <PageReference>HBGG32-35</PageReference>
+    </Child>
+    <Child ReferenceText="during the session">
+      <PageReference>HBGG37</PageReference>
+    </Child>
+    <Child ReferenceText="environments">
+      <PageReference>HBGG29-30</PageReference>
+    </Child>
+    <Child ReferenceText="example choices">
+      <PageReference>HBGG17-18</PageReference>
+    </Child>
+    <Child ReferenceText="fun and">
+      <PageReference>HBGG9</PageReference>
+      <PageReference>HBGG33</PageReference>
+    </Child>
+    <Child ReferenceText="linear plots">
+      <PageReference>HBGG25</PageReference>
+    </Child>
+    <Child ReferenceText="maps">
+      <PageReference>HBGG31</PageReference>
+    </Child>
+    <Child ReferenceText="outlining">
+      <PageReference>HBGG30-31</PageReference>
+    </Child>
+    <Child ReferenceText="player freedom">
+      <PageReference>HBGG25-26</PageReference>
+    </Child>
+    <Child ReferenceText="player input">
+      <PageReference>HBGG25</PageReference>
+      <PageReference>HBGG37-39</PageReference>
+    </Child>
+    <Child ReferenceText="plot example">
+      <PageReference>HBGG32</PageReference>
+    </Child>
+    <Child ReferenceText="plots">
+      <PageReference>HBGG30</PageReference>
+    </Child>
+    <Child ReferenceText="possible outcomes">
+      <PageReference>HBGG31</PageReference>
+      <PageReference>HBGG35</PageReference>
+    </Child>
+    <Child ReferenceText="practice matches">
+      <PageReference>HBGG41-43</PageReference>
+    </Child>
+    <Child ReferenceText="preparation example">
+      <PageReference>HBGG17-22</PageReference>
+    </Child>
+    <Child ReferenceText="published">
+      <PageReference>HBGG7</PageReference>
+    </Child>
+    <Child ReferenceText="recording session events">
+      <PageReference>HBGG39</PageReference>
+    </Child>
+    <Child ReferenceText="resources for creating">
+      <PageReference>HBGG23</PageReference>
+    </Child>
+    <Child ReferenceText="resources for preparing">
+      <PageReference>HBGG5-8</PageReference>
+      <PageReference>HBGG17</PageReference>
+    </Child>
+    <Child ReferenceText="resources for running">
+      <PageReference>HBGG36</PageReference>
+    </Child>
+    <Child ReferenceText="reward examples">
+      <PageReference>HBGG66</PageReference>
+    </Child>
+    <Child ReferenceText="rewards">
+      <PageReference>HBGG31</PageReference>
+      <PageReference>HBGG38</PageReference>
+    </Child>
+    <Child ReferenceText="role of GM">
+      <PageReference>HBGG37-39</PageReference>
+    </Child>
+    <Child ReferenceText="roleplaying">
+      <PageReference>HBGG37</PageReference>
+    </Child>
+    <Child ReferenceText="sandbox gaming">
+      <PageReference>HBGG25</PageReference>
+    </Child>
+    <Child ReferenceText="session examples">
+      <PageReference>HBGG62-66</PageReference>
+    </Child>
+    <Child ReferenceText="settings">
+      <PageReference>HBGG29-30</PageReference>
+    </Child>
+    <Child ReferenceText="social encounters">
+      <PageReference>HBGG37</PageReference>
+    </Child>
+    <Child ReferenceText="spotlighting individuals">
+      <PageReference>HBGG25</PageReference>
+      <PageReference>HBGG38</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>HBGG37</PageReference>
+    </Child>
+    <Child ReferenceText="trying new things">
+      <PageReference>HBGG38</PageReference>
+    </Child>
+    <Child ReferenceText="after the session">
+      <PageReference>HBGG38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aim maneuver">
+    <PageReference>HBGG54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Attack maneuvers">
+    <PageReference>HBGG54-56</PageReference>
+    <PageReference>HBGG58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Defense maneuvers">
+    <PageReference>HBGG57</PageReference>
+    <PageReference>HBGG61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archer template">
+    <PageReference>HBGG20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arena matches">
+    <PageReference>HBGG43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>HBGG14</PageReference>
+    <PageReference>HBGG58</PageReference>
+    <Child ReferenceText="catalogs">
+      <PageReference>HBGG7</PageReference>
+    </Child>
+    <Child ReferenceText="damaging">
+      <PageReference>HBGG30</PageReference>
+    </Child>
+    <Child ReferenceText="encumbrance">
+      <PageReference>HBGG59</PageReference>
+    </Child>
+    <Child ReferenceText="example characters">
+      <PageReference>HBGG22</PageReference>
+    </Child>
+    <Child ReferenceText="size and">
+      <PageReference>HBGG50</PageReference>
+    </Child>
+    <Child ReferenceText="ST and">
+      <PageReference>HBGG44</PageReference>
+    </Child>
+    <Child ReferenceText="suggested">
+      <PageReference>HBGG47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attacks">
+    <SeeAlso>Combat</SeeAlso>
+    <SeeAlso>Defenses</SeeAlso>
+    <Child ReferenceText="area and spreading">
+      <PageReference>HBGG56</PageReference>
+    </Child>
+    <Child ReferenceText="at different levels">
+      <PageReference>HBGG58</PageReference>
+    </Child>
+    <Child ReferenceText="improving">
+      <PageReference>HBGG54-57</PageReference>
+    </Child>
+    <Child ReferenceText="maneuvers">
+      <PageReference>HBGG54-59</PageReference>
+    </Child>
+    <Child ReferenceText="multiple">
+      <PageReference>HBGG55-56</PageReference>
+    </Child>
+    <Child ReferenceText="nonfrontal">
+      <PageReference>HBGG58</PageReference>
+    </Child>
+    <Child ReferenceText="overcoming">
+      <PageReference>HBGG57</PageReference>
+    </Child>
+    <Child ReferenceText="advantages">
+      <PageReference>HBGG47-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <Child ReferenceText="NPC">
+      <PageReference>HBGG28</PageReference>
+    </Child>
+    <Child ReferenceText="useful combat">
+      <PageReference>HBGG43-44</PageReference>
+    </Child>
+    <Child ReferenceText="levels">
+      <PageReference>HBGG12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bandits">
+    <Child ReferenceText="leader">
+      <PageReference>HBGG33</PageReference>
+    </Child>
+    <Child ReferenceText="lieutenant">
+      <PageReference>HBGG33</PageReference>
+    </Child>
+    <Child ReferenceText="thugs">
+      <PageReference>HBGG33</PageReference>
+    </Child>
+    <Child ReferenceText="example encounters">
+      <PageReference>HBGG34-35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Beats">
+    <PageReference>HBGG58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beldin">
+    <PageReference>HBGG19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blocking">
+    <PageReference>HBGG61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bryce">
+    <PageReference>HBGG33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaign Planning Form">
+    <Child ReferenceText="expanded">
+      <PageReference>HBGG67-69</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>HBGG15</PageReference>
+    </Child>
+    <Child ReferenceText="example use">
+      <PageReference>HBGG18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaign Prospectus">
+    <PageReference>HBGG67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <SeeAlso>Adventures</SeeAlso>
+    <Child ReferenceText="choosing a genre">
+      <PageReference>HBGG9-10</PageReference>
+    </Child>
+    <Child ReferenceText="choosing a power level">
+      <PageReference>HBGG11</PageReference>
+    </Child>
+    <Child ReferenceText="choosing a style">
+      <PageReference>HBGG10-11</PageReference>
+    </Child>
+    <Child ReferenceText="choosing character traits">
+      <PageReference>HBGG12-14</PageReference>
+    </Child>
+    <Child ReferenceText="communication with players">
+      <PageReference>HBGG8-9</PageReference>
+    </Child>
+    <Child ReferenceText="declining suggestions">
+      <PageReference>HBGG9</PageReference>
+    </Child>
+    <Child ReferenceText="discussing assumptions">
+      <PageReference>HBGG8-9</PageReference>
+    </Child>
+    <Child ReferenceText="house rules">
+      <PageReference>HBGG11</PageReference>
+    </Child>
+    <Child ReferenceText="nonhuman races in">
+      <PageReference>HBGG14</PageReference>
+    </Child>
+    <Child ReferenceText="player input">
+      <PageReference>HBGG8-9</PageReference>
+    </Child>
+    <Child ReferenceText="realistic or cinematic">
+      <PageReference>HBGG10-11</PageReference>
+    </Child>
+    <Child ReferenceText="ruleslight or rules-heavy">
+      <PageReference>HBGG11</PageReference>
+    </Child>
+    <Child ReferenceText="running">
+      <PageReference>HBGG39</PageReference>
+    </Child>
+    <Child ReferenceText="selection examples">
+      <PageReference>HBGG18</PageReference>
+    </Child>
+    <Child ReferenceText="adventure advice and">
+      <PageReference>HBGG23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cardboard Heroes">
+    <PageReference>HBGG43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catalogs">
+    <PageReference>HBGG6</PageReference>
+    <PageReference>HBGG7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Character creation">
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Attributes</SeeAlso>
+    <SeeAlso>Characters</SeeAlso>
+    <SeeAlso>Disadvantages</SeeAlso>
+    <Child ReferenceText="decisions">
+      <PageReference>HBGG15-16</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>HBGG18-22</PageReference>
+    </Child>
+    <Child ReferenceText="GM input">
+      <PageReference>HBGG15</PageReference>
+      <PageReference>HBGG16</PageReference>
+    </Child>
+    <Child ReferenceText="narrative">
+      <PageReference>HBGG16</PageReference>
+    </Child>
+    <Child ReferenceText="resources for">
+      <PageReference>HBGG5</PageReference>
+    </Child>
+    <Child ReferenceText="review example">
+      <PageReference>HBGG21-22</PageReference>
+    </Child>
+    <Child ReferenceText="reviewing">
+      <PageReference>HBGG16</PageReference>
+    </Child>
+    <Child ReferenceText="templates">
+      <PageReference>HBGG16</PageReference>
+    </Child>
+    <Child ReferenceText="vetted">
+      <PageReference>HBGG16</PageReference>
+    </Child>
+    <Child ReferenceText="collaborative">
+      <PageReference>HBGG16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Character Creation Guide">
+    <PageReference>HBGG68-69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Character points">
+    <SeeAlso>Character Creation</SeeAlso>
+    <Child ReferenceText="earned">
+      <PageReference>HBGG14</PageReference>
+    </Child>
+    <Child ReferenceText="limiting spending">
+      <PageReference>HBGG11-12</PageReference>
+    </Child>
+    <Child ReferenceText="spending">
+      <PageReference>HBGG14</PageReference>
+    </Child>
+    <Child ReferenceText="as rewards">
+      <PageReference>HBGG14</PageReference>
+      <PageReference>HBGG38</PageReference>
+      <PageReference>HBGG66</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Attributes</SeeAlso>
+    <SeeAlso>Character Creation</SeeAlso>
+    <SeeAlso>Disadvantages</SeeAlso>
+    <SeeAlso>Nonplayer Characters</SeeAlso>
+    <Child ReferenceText="choosing traits">
+      <PageReference>HBGG12-14</PageReference>
+    </Child>
+    <Child ReferenceText="concept examples">
+      <PageReference>HBGG18-21</PageReference>
+    </Child>
+    <Child ReferenceText="concepts">
+      <PageReference>HBGG15-16</PageReference>
+    </Child>
+    <Child ReferenceText="death">
+      <PageReference>HBGG11</PageReference>
+      <PageReference>HBGG40-41</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>HBGG19-21</PageReference>
+    </Child>
+    <Child ReferenceText="Fright Checks">
+      <PageReference>HBGG15</PageReference>
+    </Child>
+    <Child ReferenceText="Influence rolls">
+      <PageReference>HBGG15</PageReference>
+    </Child>
+    <Child ReferenceText="power level">
+      <PageReference>HBGG11-12</PageReference>
+    </Child>
+    <Child ReferenceText="reaction rolls">
+      <PageReference>HBGG15</PageReference>
+    </Child>
+    <Child ReferenceText="social traits">
+      <PageReference>HBGG13-14</PageReference>
+    </Child>
+    <Child ReferenceText="traits and game mechanics">
+      <PageReference>HBGG24-25</PageReference>
+    </Child>
+    <Child ReferenceText="warrior">
+      <PageReference>HBGG54</PageReference>
+    </Child>
+    <Child ReferenceText="as team">
+      <PageReference>HBGG16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <SeeAlso>Attacks</SeeAlso>
+    <SeeAlso>Damage</SeeAlso>
+    <SeeAlso>Defenses</SeeAlso>
+    <Child ReferenceText="basic styles">
+      <PageReference>HBGG46-47</PageReference>
+      <PageReference>HBGG55</PageReference>
+    </Child>
+    <Child ReferenceText="customizing">
+      <PageReference>HBGG40-43</PageReference>
+    </Child>
+    <Child ReferenceText="disadvantages">
+      <PageReference>HBGG52-53</PageReference>
+    </Child>
+    <Child ReferenceText="environment">
+      <PageReference>HBGG24</PageReference>
+      <PageReference>HBGG29-30</PageReference>
+    </Child>
+    <Child ReferenceText="equipment and">
+      <PageReference>HBGG14</PageReference>
+    </Child>
+    <Child ReferenceText="example encounter">
+      <PageReference>HBGG64-65</PageReference>
+    </Child>
+    <Child ReferenceText="increased chance to hit">
+      <PageReference>HBGG54</PageReference>
+    </Child>
+    <Child ReferenceText="lethality">
+      <PageReference>HBGG40</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts and">
+      <PageReference>HBGG41</PageReference>
+    </Child>
+    <Child ReferenceText="NPC balance">
+      <PageReference>HBGG26-29</PageReference>
+      <PageReference>HBGG33</PageReference>
+    </Child>
+    <Child ReferenceText="realism levels">
+      <PageReference>HBGG41-42</PageReference>
+    </Child>
+    <Child ReferenceText="recommended skills">
+      <PageReference>HBGG24</PageReference>
+      <PageReference>HBGG46</PageReference>
+      <PageReference>HBGG47</PageReference>
+    </Child>
+    <Child ReferenceText="resources for">
+      <PageReference>HBGG5</PageReference>
+    </Child>
+    <Child ReferenceText="scaling for highpowered games">
+      <PageReference>HBGG44</PageReference>
+    </Child>
+    <Child ReferenceText="selecting options">
+      <PageReference>HBGG41-42</PageReference>
+    </Child>
+    <Child ReferenceText="Size Modifiers">
+      <PageReference>HBGG50</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>HBGG24</PageReference>
+      <PageReference>HBGG44-47</PageReference>
+    </Child>
+    <Child ReferenceText="special situations">
+      <PageReference>HBGG24</PageReference>
+    </Child>
+    <Child ReferenceText="speed of play levels">
+      <PageReference>HBGG41-42</PageReference>
+    </Child>
+    <Child ReferenceText="speeding up">
+      <PageReference>HBGG43</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>HBGG47</PageReference>
+    </Child>
+    <Child ReferenceText="ways to influence">
+      <PageReference>HBGG43-61</PageReference>
+    </Child>
+    <Child ReferenceText="weapons and">
+      <PageReference>HBGG14</PageReference>
+      <PageReference>HBGG28</PageReference>
+      <PageReference>HBGG46-47</PageReference>
+      <PageReference>HBGG59</PageReference>
+      <PageReference>HBGG51</PageReference>
+    </Child>
+    <Child ReferenceText="with two weapons">
+      <PageReference>HBGG46-47</PageReference>
+      <PageReference>HBGG55</PageReference>
+      <PageReference>HBGG61</PageReference>
+    </Child>
+    <Child ReferenceText="attributes">
+      <PageReference>HBGG43-44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combination techniques">
+    <PageReference>HBGG55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Committed Attack maneuver">
+    <PageReference>HBGG56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Counterattack technique">
+    <PageReference>HBGG58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Counters">
+    <Child ReferenceText="for visualizing combat">
+      <PageReference>HBGG43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cross Parry defense option">
+    <PageReference>HBGG57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cross-genre">
+    <PageReference>HBGG10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage">
+    <SeeAlso>Attacks</SeeAlso>
+    <SeeAlso>Combat</SeeAlso>
+    <SeeAlso>Defenses</SeeAlso>
+    <Child ReferenceText="disadvantages">
+      <PageReference>HBGG52</PageReference>
+      <PageReference>HBGG53</PageReference>
+    </Child>
+    <Child ReferenceText="extra">
+      <PageReference>HBGG56</PageReference>
+    </Child>
+    <Child ReferenceText="lowering">
+      <PageReference>HBGG58</PageReference>
+    </Child>
+    <Child ReferenceText="shock effects">
+      <PageReference>HBGG57</PageReference>
+    </Child>
+    <Child ReferenceText="special">
+      <PageReference>HBGG56-57</PageReference>
+    </Child>
+    <Child ReferenceText="stun effects">
+      <PageReference>HBGG60</PageReference>
+    </Child>
+    <Child ReferenceText="wounding effects">
+      <PageReference>HBGG61</PageReference>
+    </Child>
+    <Child ReferenceText="advantages">
+      <PageReference>HBGG48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Death">
+    <Child ReferenceText="PC">
+      <PageReference>HBGG40</PageReference>
+    </Child>
+    <Child ReferenceText="NPC">
+      <PageReference>HBGG29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Deceptive Attack combat option">
+    <PageReference>HBGG58</PageReference>
+    <PageReference>HBGG59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defense Resistance (DR)">
+    <PageReference>HBGG58</PageReference>
+    <Child ReferenceText="armor">
+      <PageReference>HBGG58</PageReference>
+    </Child>
+    <Child ReferenceText="balancing characters">
+      <PageReference>HBGG28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Defenses">
+    <SeeAlso>Attacks</SeeAlso>
+    <SeeAlso>Combat</SeeAlso>
+    <Child ReferenceText="encumbrance and">
+      <PageReference>HBGG59</PageReference>
+    </Child>
+    <Child ReferenceText="flails and">
+      <PageReference>HBGG59</PageReference>
+    </Child>
+    <Child ReferenceText="grappling and">
+      <PageReference>HBGG59</PageReference>
+    </Child>
+    <Child ReferenceText="improving">
+      <PageReference>HBGG57-58</PageReference>
+    </Child>
+    <Child ReferenceText="multiple attackers and">
+      <PageReference>HBGG61</PageReference>
+    </Child>
+    <Child ReferenceText="options">
+      <PageReference>HBGG57</PageReference>
+      <PageReference>HBGG61</PageReference>
+    </Child>
+    <Child ReferenceText="overcoming">
+      <PageReference>HBGG58</PageReference>
+    </Child>
+    <Child ReferenceText="stacking penalties">
+      <PageReference>HBGG58</PageReference>
+    </Child>
+    <Child ReferenceText="weapons and">
+      <PageReference>HBGG61</PageReference>
+    </Child>
+    <Child ReferenceText="advantages">
+      <PageReference>HBGG48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Defensive Attack maneuver">
+    <PageReference>HBGG57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defensive Feint combat option">
+    <PageReference>HBGG57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defensive Grip combat option">
+    <PageReference>HBGG57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Die rolls">
+    <SeeAlso>System Mechanics</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <Child ReferenceText="choosing">
+      <PageReference>HBGG12</PageReference>
+    </Child>
+    <Child ReferenceText="chronic conditions">
+      <PageReference>HBGG52</PageReference>
+    </Child>
+    <Child ReferenceText="combat">
+      <PageReference>HBGG52-53</PageReference>
+    </Child>
+    <Child ReferenceText="competing">
+      <PageReference>HBGG12</PageReference>
+    </Child>
+    <Child ReferenceText="damage">
+      <PageReference>HBGG53</PageReference>
+    </Child>
+    <Child ReferenceText="luck">
+      <PageReference>HBGG53</PageReference>
+    </Child>
+    <Child ReferenceText="magic">
+      <PageReference>HBGG53</PageReference>
+    </Child>
+    <Child ReferenceText="mental">
+      <PageReference>HBGG52-53</PageReference>
+    </Child>
+    <Child ReferenceText="recovery">
+      <PageReference>HBGG53</PageReference>
+    </Child>
+    <Child ReferenceText="self-control rolls">
+      <PageReference>HBGG12</PageReference>
+    </Child>
+    <Child ReferenceText="senses">
+      <PageReference>HBGG52</PageReference>
+    </Child>
+    <Child ReferenceText="social">
+      <PageReference>HBGG13-14</PageReference>
+    </Child>
+    <Child ReferenceText="body part">
+      <PageReference>HBGG52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dodge and Drop defense option">
+    <PageReference>HBGG57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dodging">
+    <PageReference>HBGG57</PageReference>
+    <PageReference>HBGG61</PageReference>
+    <Child ReferenceText="encumbrance and">
+      <PageReference>HBGG44</PageReference>
+      <PageReference>HBGG58</PageReference>
+      <PageReference>HBGG59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual-Weapon Attack combat option">
+    <PageReference>HBGG55</PageReference>
+    <PageReference>HBGG56</PageReference>
+    <PageReference>HBGG59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Encounters">
+    <PageReference>HBGG23-26</PageReference>
+    <PageReference>HBGG31</PageReference>
+    <PageReference>HBGG37-38</PageReference>
+    <SeeAlso>Adventures</SeeAlso>
+    <SeeAlso>Combat</SeeAlso>
+    <SeeAlso>Nonplayer Characters</SeeAlso>
+    <Child ReferenceText="character traits and">
+      <PageReference>HBGG24-25</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>HBGG33-35</PageReference>
+    </Child>
+    <Child ReferenceText="fun and">
+      <PageReference>HBGG33</PageReference>
+    </Child>
+    <Child ReferenceText="player freedom">
+      <PageReference>HBGG25-26</PageReference>
+    </Child>
+    <Child ReferenceText="variety in">
+      <PageReference>HBGG24-25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Armor</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="encumbrance">
+      <PageReference>HBGG59</PageReference>
+    </Child>
+    <Child ReferenceText="NPC">
+      <PageReference>HBGG28</PageReference>
+    </Child>
+    <Child ReferenceText="PC">
+      <PageReference>HBGG14</PageReference>
+    </Child>
+    <Child ReferenceText="size and">
+      <PageReference>HBGG50</PageReference>
+    </Child>
+    <Child ReferenceText="catalogs">
+      <PageReference>HBGG7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Evaluate maneuver">
+    <PageReference>HBGG54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosions">
+    <PageReference>HBGG56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fantasy genre">
+    <PageReference>HBGG9</PageReference>
+    <Child ReferenceText="in example adventure">
+      <PageReference>HBGG18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Feint maneuvers">
+    <PageReference>HBGG57</PageReference>
+    <PageReference>HBGG58</PageReference>
+    <PageReference>HBGG60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feverish Defense extra-effort option">
+    <PageReference>HBGG57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fiselli">
+    <PageReference>HBGG33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Floor Plan 2: The Great Salt Flats">
+    <PageReference>HBGG43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flurry of Blows extra-effort option">
+    <PageReference>HBGG55</PageReference>
+    <PageReference>HBGG56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteering">
+    <Child ReferenceText="in campaigns">
+      <PageReference>HBGG14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Game Masters (GM)">
+    <SeeAlso>Adventures</SeeAlso>
+    <SeeAlso>Campaigns</SeeAlso>
+    <Child ReferenceText="role">
+      <PageReference>HBGG37-39</PageReference>
+    </Child>
+    <Child ReferenceText="respecting">
+      <PageReference>HBGG9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>Armor</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Genre books">
+    <PageReference>HBGG6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genres">
+    <PageReference>HBGG9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GM Control Sheet">
+    <PageReference>HBGG36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grabbing">
+    <PageReference>HBGG57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grappling">
+    <PageReference>HBGG57</PageReference>
+    <PageReference>HBGG59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guards">
+    <Child ReferenceText="template">
+      <PageReference>HBGG19</PageReference>
+    </Child>
+    <Child ReferenceText="sample">
+      <PageReference>HBGG28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>HBGG4-19</PageReference>
+    <PageReference>HBGG21</PageReference>
+    <PageReference>HBGG23-28</PageReference>
+    <PageReference>HBGG30</PageReference>
+    <PageReference>HBGG37</PageReference>
+    <PageReference>HBGG40-44</PageReference>
+    <PageReference>HBGG49</PageReference>
+    <PageReference>HBGG53-56</PageReference>
+    <PageReference>HBGG59</PageReference>
+    <PageReference>HBGG62</PageReference>
+    <SeeAlso>Cardboard Heroes</SeeAlso>
+    <SeeAlso>Floor Plan 2: The Great Salt Flats</SeeAlso>
+    <SeeAlso>Pyramid Magazine</SeeAlso>
+    <Child ReferenceText="Action">
+      <PageReference>HBGG6</PageReference>
+      <PageReference>HBGG9</PageReference>
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG51</PageReference>
+    </Child>
+    <Child ReferenceText="Action 1: Heroes">
+      <PageReference>HBGG51</PageReference>
+    </Child>
+    <Child ReferenceText="Action 2: Exploits">
+      <PageReference>HBGG25</PageReference>
+      <PageReference>HBGG29</PageReference>
+      <PageReference>HBGG43</PageReference>
+    </Child>
+    <Child ReferenceText="Banestorm">
+      <PageReference>HBGG6</PageReference>
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG9</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>HBGG4-12</PageReference>
+      <PageReference>HBGG16-18</PageReference>
+      <PageReference>HBGG23</PageReference>
+      <PageReference>HBGG36</PageReference>
+      <PageReference>HBGG41-43</PageReference>
+      <PageReference>HBGG45</PageReference>
+      <PageReference>HBGG51</PageReference>
+      <PageReference>HBGG54</PageReference>
+      <PageReference>HBGG56</PageReference>
+      <PageReference>HBGG58</PageReference>
+      <PageReference>HBGG59</PageReference>
+      <PageReference>HBGG60</PageReference>
+    </Child>
+    <Child ReferenceText="Big Lizzie">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Caravan to Ein Arris">
+      <PageReference>HBGG7</PageReference>
+    </Child>
+    <Child ReferenceText="Character Assistant">
+      <PageReference>HBGG8</PageReference>
+    </Child>
+    <Child ReferenceText="City Stats">
+      <PageReference>HBGG7</PageReference>
+    </Child>
+    <Child ReferenceText="Combat Cards">
+      <PageReference>HBGG36</PageReference>
+      <PageReference>HBGG62</PageReference>
+    </Child>
+    <Child ReferenceText="Creatures of the Night">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG9</PageReference>
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Crusades">
+      <PageReference>HBGG7</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>HBGG6</PageReference>
+      <PageReference>HBGG9</PageReference>
+      <PageReference>HBGG50</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>HBGG50</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>HBGG50</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 13: Loadouts">
+      <PageReference>HBGG50</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 14: Psi">
+      <PageReference>HBGG54</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Adventure 1: Mirror of the Fire Demon">
+      <PageReference>HBGG7</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Monsters">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG9</PageReference>
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>HBGG6</PageReference>
+      <PageReference>HBGG9</PageReference>
+      <PageReference>HBGG18</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy-Tech 1: The Edge of Reality">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG9</PageReference>
+    </Child>
+    <Child ReferenceText="GM’s Screen">
+      <PageReference>HBGG36</PageReference>
+      <PageReference>HBGG62</PageReference>
+    </Child>
+    <Child ReferenceText="Gun Fu">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG29</PageReference>
+      <PageReference>HBGG43</PageReference>
+      <PageReference>HBGG51</PageReference>
+    </Child>
+    <Child ReferenceText="HighTech">
+      <PageReference>HBGG6</PageReference>
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG9</PageReference>
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG45</PageReference>
+      <PageReference>HBGG50</PageReference>
+      <PageReference>HBGG51</PageReference>
+      <PageReference>HBGG54</PageReference>
+      <PageReference>HBGG56</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>HBGG6</PageReference>
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Horror: The Madness Dossier">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Hot Spots">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG9</PageReference>
+    </Child>
+    <Child ReferenceText="Infinite Worlds">
+      <PageReference>HBGG5-7</PageReference>
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Lair of the Fat Man">
+      <PageReference>HBGG7</PageReference>
+    </Child>
+    <Child ReferenceText="Loadouts">
+      <PageReference>HBGG7</PageReference>
+    </Child>
+    <Child ReferenceText="Loadouts: Monster Hunters">
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Locations">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG9</PageReference>
+    </Child>
+    <Child ReferenceText="Locations: Tower of Octavius">
+      <PageReference>HBGG9</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG9</PageReference>
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG18</PageReference>
+      <PageReference>HBGG45</PageReference>
+      <PageReference>HBGG50</PageReference>
+    </Child>
+    <Child ReferenceText="LowTech Companion 2: Weapons and Warriors">
+      <PageReference>HBGG50</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG9</PageReference>
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG12</PageReference>
+      <PageReference>HBGG18</PageReference>
+      <PageReference>HBGG54</PageReference>
+      <PageReference>HBGG57</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>HBGG4-7</PageReference>
+      <PageReference>HBGG9</PageReference>
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG11</PageReference>
+      <PageReference>HBGG18</PageReference>
+      <PageReference>HBGG29</PageReference>
+      <PageReference>HBGG30</PageReference>
+      <PageReference>HBGG36</PageReference>
+      <PageReference>HBGG40-46</PageReference>
+      <PageReference>HBGG48</PageReference>
+      <PageReference>HBGG51</PageReference>
+      <PageReference>HBGG52</PageReference>
+      <PageReference>HBGG54-61</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts: Gladiators">
+      <PageReference>HBGG7</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts: Technical Grappling">
+      <PageReference>HBGG57</PageReference>
+      <PageReference>HBGG59</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters">
+      <PageReference>HBGG6</PageReference>
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 3: The Enemy">
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Mysteries">
+      <PageReference>HBGG6</PageReference>
+      <PageReference>HBGG9</PageReference>
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups">
+      <PageReference>HBGG7</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>HBGG54</PageReference>
+      <PageReference>HBGG55</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 5: Impulse Buys">
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG14</PageReference>
+      <PageReference>HBGG31</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>HBGG6</PageReference>
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG9</PageReference>
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG12</PageReference>
+      <PageReference>HBGG14</PageReference>
+      <PageReference>HBGG28</PageReference>
+      <PageReference>HBGG43</PageReference>
+      <PageReference>HBGG47-51</PageReference>
+    </Child>
+    <Child ReferenceText="Powers: Divine Favor">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG9</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Campaigns">
+      <PageReference>HBGG6</PageReference>
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG54</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG54</PageReference>
+    </Child>
+    <Child ReferenceText="Psi-Tech">
+      <PageReference>HBGG7</PageReference>
+    </Child>
+    <Child ReferenceText="Psis">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG54</PageReference>
+    </Child>
+    <Child ReferenceText="Reign of Steel">
+      <PageReference>HBGG7</PageReference>
+    </Child>
+    <Child ReferenceText="Reign of Steel: Will to Live">
+      <PageReference>HBGG7</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG25</PageReference>
+      <PageReference>HBGG40</PageReference>
+    </Child>
+    <Child ReferenceText="Space">
+      <PageReference>HBGG6</PageReference>
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Spaceships">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Supers">
+      <PageReference>HBGG6</PageReference>
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG12</PageReference>
+    </Child>
+    <Child ReferenceText="Tactical Shooting">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG13</PageReference>
+      <PageReference>HBGG43</PageReference>
+      <PageReference>HBGG54</PageReference>
+    </Child>
+    <Child ReferenceText="Template Toolkit 1: Characters">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG16</PageReference>
+      <PageReference>HBGG24</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG9</PageReference>
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG12</PageReference>
+      <PageReference>HBGG18</PageReference>
+      <PageReference>HBGG49</PageReference>
+      <PageReference>HBGG54</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Age of Gold">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Transhuman Space">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Traveller: Interstellar Wars">
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="Ultra-Tech">
+      <PageReference>HBGG6</PageReference>
+      <PageReference>HBGG7</PageReference>
+      <PageReference>HBGG9</PageReference>
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG45</PageReference>
+      <PageReference>HBGG50</PageReference>
+      <PageReference>HBGG56</PageReference>
+    </Child>
+    <Child ReferenceText="Zombies">
+      <PageReference>HBGG10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS for Dummies">
+    <PageReference>HBGG8</PageReference>
+    <PageReference>HBGG23</PageReference>
+    <PageReference>HBGG36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS system mechanics">
+    <SeeAlso>System Mechanics</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit locations">
+    <PageReference>HBGG11</PageReference>
+    <PageReference>HBGG56</PageReference>
+    <Child ReferenceText="cover and">
+      <PageReference>HBGG58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Horror genre">
+    <PageReference>HBGG10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury">
+    <SeeAlso>Damage</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Jax">
+    <PageReference>HBGG20-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kalee">
+    <PageReference>HBGG33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knockback">
+    <PageReference>HBGG60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kromm">
+    <PageReference>HBGG4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <Child ReferenceText="combat and">
+      <PageReference>HBGG53-54</PageReference>
+    </Child>
+    <Child ReferenceText="disadvantages">
+      <PageReference>HBGG53</PageReference>
+    </Child>
+    <Child ReferenceText="in campaigns">
+      <PageReference>HBGG14</PageReference>
+    </Child>
+    <Child ReferenceText="advantages">
+      <PageReference>HBGG49-51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Maneuvers">
+    <SeeAlso>Attacks</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Maps">
+    <Child ReferenceText="hex">
+      <PageReference>HBGG43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mighty Blow extra-effort option">
+    <PageReference>HBGG56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military genre">
+    <PageReference>HBGG10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modern-action genre">
+    <PageReference>HBGG10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Online resources">
+    <PageReference>HBGG8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonplayer characters (NPCs)">
+    <SeeAlso>Characters</SeeAlso>
+    <Child ReferenceText="death">
+      <PageReference>HBGG29</PageReference>
+    </Child>
+    <Child ReferenceText="designing">
+      <PageReference>HBGG26-29</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>HBGG28</PageReference>
+      <PageReference>HBGG32-33</PageReference>
+    </Child>
+    <Child ReferenceText="listing">
+      <PageReference>HBGG31</PageReference>
+    </Child>
+    <Child ReferenceText="combat balance">
+      <PageReference>HBGG26-29</PageReference>
+      <PageReference>HBGG33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Parrying">
+    <PageReference>HBGG61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Player characters (PCs)">
+    <SeeAlso>Characters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Posture">
+    <Child ReferenceText="in combat">
+      <PageReference>HBGG57</PageReference>
+      <PageReference>HBGG60</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power levels">
+    <Child ReferenceText="choosing">
+      <PageReference>HBGG11-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <Child ReferenceText="in campaigns">
+      <PageReference>HBGG14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Practice matches">
+    <PageReference>HBGG43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prediction shots">
+    <PageReference>HBGG59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionics">
+    <Child ReferenceText="combat and">
+      <PageReference>HBGG53-54</PageReference>
+    </Child>
+    <Child ReferenceText="disadvantages">
+      <PageReference>HBGG53</PageReference>
+    </Child>
+    <Child ReferenceText="advantages">
+      <PageReference>HBGG49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Punch">
+    <Child ReferenceText="Sean">
+      <PageReference>HBGG4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid magazine">
+    <PageReference>HBGG7</PageReference>
+    <PageReference>HBGG8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Strike combat option">
+    <PageReference>HBGG55</PageReference>
+    <PageReference>HBGG56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resources for GURPS">
+    <PageReference>HBGG5-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retreat defense option">
+    <PageReference>HBGG29</PageReference>
+    <PageReference>HBGG57</PageReference>
+    <PageReference>HBGG60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reversed Grip combat option">
+    <PageReference>HBGG56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Riposte combat option">
+    <PageReference>HBGG60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robin’s Laws of Good Gamemastering">
+    <PageReference>HBGG8</PageReference>
+    <PageReference>HBGG23</PageReference>
+    <PageReference>HBGG36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rory">
+    <PageReference>HBGG21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rulebooks">
+    <PageReference>HBGG6</PageReference>
+    <PageReference>HBGG7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruses">
+    <PageReference>HBGG60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scenes">
+    <SeeAlso>Encounters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Science-fiction genre">
+    <PageReference>HBGG10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-control rolls">
+    <Child ReferenceText="competing">
+      <PageReference>HBGG12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <PageReference>HBGG57</PageReference>
+    <Child ReferenceText="combat style">
+      <PageReference>HBGG46-47</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>HBGG45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shock">
+    <PageReference>HBGG57</PageReference>
+    <SeeAlso>Damage</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoves">
+    <PageReference>HBGG60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Size Modifier (SM)">
+    <Child ReferenceText="equipment and">
+      <PageReference>HBGG50</PageReference>
+    </Child>
+    <Child ReferenceText="combat and">
+      <PageReference>HBGG50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="cinematic">
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="combat">
+      <PageReference>HBGG44-47</PageReference>
+    </Child>
+    <Child ReferenceText="combat sets">
+      <PageReference>HBGG46</PageReference>
+      <PageReference>HBGG47</PageReference>
+    </Child>
+    <Child ReferenceText="comparison of unarmed combat">
+      <PageReference>HBGG45</PageReference>
+    </Child>
+    <Child ReferenceText="encounters and">
+      <PageReference>HBGG24-25</PageReference>
+    </Child>
+    <Child ReferenceText="generic combat styles">
+      <PageReference>HBGG46-47</PageReference>
+    </Child>
+    <Child ReferenceText="gun">
+      <PageReference>HBGG13</PageReference>
+    </Child>
+    <Child ReferenceText="Influence">
+      <PageReference>HBGG15</PageReference>
+    </Child>
+    <Child ReferenceText="information gathering">
+      <PageReference>HBGG25</PageReference>
+    </Child>
+    <Child ReferenceText="levels">
+      <PageReference>HBGG12</PageReference>
+      <PageReference>HBGG13</PageReference>
+    </Child>
+    <Child ReferenceText="NPC">
+      <PageReference>HBGG28</PageReference>
+    </Child>
+    <Child ReferenceText="other useful">
+      <PageReference>HBGG45-46</PageReference>
+    </Child>
+    <Child ReferenceText="recommended">
+      <PageReference>HBGG21-22</PageReference>
+      <PageReference>HBGG24</PageReference>
+      <PageReference>HBGG46</PageReference>
+      <PageReference>HBGG47</PageReference>
+    </Child>
+    <Child ReferenceText="room searches and">
+      <PageReference>HBGG24</PageReference>
+    </Child>
+    <Child ReferenceText="routine use">
+      <PageReference>HBGG13</PageReference>
+    </Child>
+    <Child ReferenceText="unarmed combat">
+      <PageReference>HBGG44-45</PageReference>
+    </Child>
+    <Child ReferenceText="useful combat">
+      <PageReference>HBGG44-47</PageReference>
+    </Child>
+    <Child ReferenceText="weapon">
+      <PageReference>HBGG45</PageReference>
+    </Child>
+    <Child ReferenceText="choosing">
+      <PageReference>HBGG12-13</PageReference>
+      <PageReference>HBGG21-22</PageReference>
+      <PageReference>HBGG24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Soldiers">
+    <Child ReferenceText="sample">
+      <PageReference>HBGG28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <SeeAlso>Magic</SeeAlso>
+    <Child ReferenceText="in combat">
+      <PageReference>HBGG54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stop Hit combat option">
+    <PageReference>HBGG60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superhero genre">
+    <PageReference>HBGG10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="System mechanics">
+    <Child ReferenceText="as tool kit">
+      <PageReference>HBGG4</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic">
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="combat options">
+      <PageReference>HBGG29</PageReference>
+      <PageReference>HBGG41-42</PageReference>
+    </Child>
+    <Child ReferenceText="encounters and">
+      <PageReference>HBGG23-25</PageReference>
+    </Child>
+    <Child ReferenceText="fun and">
+      <PageReference>HBGG33</PageReference>
+    </Child>
+    <Child ReferenceText="house rules">
+      <PageReference>HBGG10</PageReference>
+    </Child>
+    <Child ReferenceText="resources for">
+      <PageReference>HBGG5-8</PageReference>
+    </Child>
+    <Child ReferenceText="role of">
+      <PageReference>HBGG10</PageReference>
+      <PageReference>HBGG18</PageReference>
+    </Child>
+    <Child ReferenceText="task resolution">
+      <PageReference>HBGG4</PageReference>
+      <PageReference>HBGG11</PageReference>
+    </Child>
+    <Child ReferenceText="as optional">
+      <PageReference>HBGG4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="unarmed combat skills">
+      <PageReference>HBGG45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <PageReference>HBGG47</PageReference>
+    <PageReference>HBGG56</PageReference>
+    <SeeAlso>Combat</SeeAlso>
+    <Child ReferenceText="cinematic">
+      <PageReference>HBGG10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Telegraphic Attack combat option">
+    <PageReference>HBGG54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <SeeAlso>Character Creation</SeeAlso>
+    <SeeAlso>Characters</SeeAlso>
+    <Child ReferenceText="using">
+      <PageReference>HBGG16</PageReference>
+      <PageReference>HBGG18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thugs">
+    <Child ReferenceText="sample">
+      <PageReference>HBGG28</PageReference>
+      <PageReference>HBGG33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tignis">
+    <Child ReferenceText="Merchant">
+      <PageReference>HBGG32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Time Use Sheet">
+    <PageReference>HBGG39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time-travel genre">
+    <PageReference>HBGG10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traveller">
+    <PageReference>HBGG7</PageReference>
+    <PageReference>HBGG10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <Child ReferenceText="basic styles">
+      <PageReference>HBGG46-47</PageReference>
+    </Child>
+    <Child ReferenceText="breaking">
+      <PageReference>HBGG57</PageReference>
+      <PageReference>HBGG61</PageReference>
+    </Child>
+    <Child ReferenceText="catalogs">
+      <PageReference>HBGG7</PageReference>
+    </Child>
+    <Child ReferenceText="combat and">
+      <PageReference>HBGG14</PageReference>
+      <PageReference>HBGG59</PageReference>
+    </Child>
+    <Child ReferenceText="disarming">
+      <PageReference>HBGG57</PageReference>
+    </Child>
+    <Child ReferenceText="encumbrance">
+      <PageReference>HBGG59</PageReference>
+    </Child>
+    <Child ReferenceText="ensnaring">
+      <PageReference>HBGG57</PageReference>
+    </Child>
+    <Child ReferenceText="fencing">
+      <PageReference>HBGG59</PageReference>
+      <PageReference>HBGG61</PageReference>
+    </Child>
+    <Child ReferenceText="fighting with two">
+      <PageReference>HBGG46-47</PageReference>
+      <PageReference>HBGG55</PageReference>
+    </Child>
+    <Child ReferenceText="grabbing">
+      <PageReference>HBGG57</PageReference>
+    </Child>
+    <Child ReferenceText="gun skills">
+      <PageReference>HBGG13</PageReference>
+    </Child>
+    <Child ReferenceText="NPC">
+      <PageReference>HBGG28</PageReference>
+    </Child>
+    <Child ReferenceText="parrying">
+      <PageReference>HBGG61</PageReference>
+    </Child>
+    <Child ReferenceText="quality of">
+      <PageReference>HBGG56</PageReference>
+    </Child>
+    <Child ReferenceText="ranged in close combat">
+      <PageReference>HBGG57</PageReference>
+    </Child>
+    <Child ReferenceText="size and">
+      <PageReference>HBGG50</PageReference>
+    </Child>
+    <Child ReferenceText="two-handed">
+      <PageReference>HBGG46-47</PageReference>
+      <PageReference>HBGG55</PageReference>
+      <PageReference>HBGG61</PageReference>
+    </Child>
+    <Child ReferenceText="basic loadouts">
+      <PageReference>HBGG46-47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Western genre">
+    <PageReference>HBGG10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Willem">
+    <PageReference>HBGG32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Worldbooks">
+    <PageReference>HBGG6</PageReference>
+    <PageReference>HBGG7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="360° Vision advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatics skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acute Senses advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Affliction advantage">
+    <PageReference>HBGG47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Altered Time Rate advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambidexterity advantage">
+    <PageReference>HBGG47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arm ST advantage">
+    <PageReference>HBGG47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad Back disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad Grip disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad Sight disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Berserk disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Binding advantage">
+    <PageReference>HBGG47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blind Fighting skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blindness disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boxing skill">
+    <PageReference>HBGG44</PageReference>
+    <PageReference>HBGG45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brawling skill">
+    <PageReference>HBGG44</PageReference>
+    <PageReference>HBGG45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breaking Blow skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chronic Pain disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claws advantage">
+    <PageReference>HBGG47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloak skill">
+    <PageReference>HBGG45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Paralysis disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Reflexes advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Constriction Attack advantage">
+    <PageReference>HBGG47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cowardice disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cursed disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Resistance (DR) advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Danger Sense advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Daredevil advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark Vision advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deafness disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Decreased Time Rate disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dexterity (DX) attribute">
+    <PageReference>HBGG44</PageReference>
+    <PageReference>HBGG60</PageReference>
+    <Child ReferenceText="shock and">
+      <PageReference>HBGG57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dodge characteristic">
+    <SeeAlso>Dodging in main index</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Duplication advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Easy to Kill disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy Reserve advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Defenses advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Move advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Time Sense advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Tracking advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Epilepsy disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Arms advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Attack advantage">
+    <PageReference>HBGG48</PageReference>
+    <PageReference>HBGG56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Life advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Draw skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fearlessness advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fit advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flashbacks disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flexibility advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flight advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying Leap skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fragile disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Growth advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunslinger advantage">
+    <PageReference>HBGG51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard of Hearing disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard to Kill advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard to Subdue advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hemophilia disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High Pain Threshold advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperspectral Vision advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immovable Stance skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Influence skills">
+    <PageReference>HBGG15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infravision advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury Tolerance advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Innate Attack">
+    <Child ReferenceText="skill">
+      <PageReference>HBGG46</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>HBGG48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Insubstantiality advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Judo skill">
+    <PageReference>HBGG45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Karate skill">
+    <PageReference>HBGG45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kiai skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lame disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leadership skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifting ST advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low Pain Threshold disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luck advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery advantage">
+    <PageReference>HBGG50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Resistance advantage">
+    <PageReference>HBGG50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Susceptibility disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana Damper advantage">
+    <PageReference>HBGG50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana Enhancer advantage">
+    <PageReference>HBGG50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental Strength skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Control advantage">
+    <PageReference>HBGG50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missing Digit disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night Blindness disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night Vision advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Depth Perception disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Legs disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="On the Edge disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One Arm disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One Eye disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One Hand disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pacifism disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parry Missile Weapons skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perfect Balance advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peripheral Vision advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Permeation advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phobias disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Post-Combat Shakes disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Blow skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure Points skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure Secrets skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Push skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quadriplegic disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Healing advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recovery advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regeneration advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regrowth advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restricted Vision disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadow Form advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shapeshifting advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shield skill">
+    <PageReference>HBGG45</PageReference>
+    <SeeAlso>Shields in main index</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Slippery advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slow Healing disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spines advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ST (Strength) attribute">
+    <PageReference>HBGG44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Status trait">
+    <PageReference>HBGG13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Striker advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Striking ST advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sumo Wrestling skill">
+    <PageReference>HBGG45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super Jump advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super Luck advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural Durability advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supersensitive disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Susceptible disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactics skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teeth advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telekinesis advantage">
+    <PageReference>HBGG50</PageReference>
+    <PageReference>HBGG57</PageReference>
+    <Child ReferenceText="in combat">
+      <PageReference>HBGG51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Terror advantage">
+    <PageReference>HBGG51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trained by a Master advantage">
+    <PageReference>HBGG51-52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultravision advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unfazeable advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unfit disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unhealing disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unkillable advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unluckiness disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampiric Bite advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Very Fit advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Very Rapid Healing advantage">
+    <PageReference>HBGG48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Very Unfit disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vibration Sense advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vulnerability disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walk on Air advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walk on Liquid advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warp advantage">
+    <PageReference>HBGG49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weak Bite disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weakness disadvantage">
+    <PageReference>HBGG53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth trait">
+    <PageReference>HBGG13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Bond perk">
+    <PageReference>HBGG54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Master advantage">
+    <PageReference>HBGG52</PageReference>
+    <PageReference>HBGG56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wounded disadvantage">
+    <PageReference>HBGG52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrestling skill">
+    <PageReference>HBGG45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zen Archery skill">
+    <PageReference>HBGG46</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

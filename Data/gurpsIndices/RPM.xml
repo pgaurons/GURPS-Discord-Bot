@@ -1,0 +1,1682 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Adept">
+    <PageReference>RPM14</PageReference>
+    <SeeAlso>Non-adepts</SeeAlso>
+    <SeeAlso>Rituals</SeeAlso>
+    <Child ReferenceText="defined">
+      <PageReference>RPM4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>RPM5-6</PageReference>
+    <Child ReferenceText="elixirs as">
+      <PageReference>RPM34</PageReference>
+    </Child>
+    <Child ReferenceText="enchanted items as">
+      <PageReference>RPM33-34</PageReference>
+    </Child>
+    <Child ReferenceText="familiars and">
+      <PageReference>RPM25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Affliction enhancements">
+    <Child ReferenceText="as spell modifiers">
+      <PageReference>RPM16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Air Jet spell">
+    <PageReference>RPM39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemical elixirs">
+    <SeeAlso>Elixirs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemical gear">
+    <PageReference>RPM29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy skill">
+    <PageReference>RPM13</PageReference>
+    <PageReference>RPM29</PageReference>
+    <SeeAlso>Elixirs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Alertness spell">
+    <PageReference>RPM39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies advantage">
+    <PageReference>RPM35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Altered traits spell modifier">
+    <PageReference>RPM16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammunition">
+    <Child ReferenceText="charms">
+      <PageReference>RPM27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Amplify Injury spell">
+    <PageReference>RPM39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amulet limitation">
+    <PageReference>RPM34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area of effect spell modifier">
+    <PageReference>RPM17</PageReference>
+    <Child ReferenceText="elixirs">
+      <PageReference>RPM28</PageReference>
+    </Child>
+    <Child ReferenceText="subject weight and">
+      <PageReference>RPM18</PageReference>
+    </Child>
+    <Child ReferenceText="wards">
+      <PageReference>RPM24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artifacts">
+    <PageReference>RPM21</PageReference>
+    <SeeAlso>Enchanted Items</SeeAlso>
+    <SeeAlso>Gear</SeeAlso>
+    <Child ReferenceText="grimoires">
+      <PageReference>RPM31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Babble On spell">
+    <PageReference>RPM39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bag of Bones spell">
+    <PageReference>RPM39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bestows a (Bonus or Penalty) spell modifier">
+    <PageReference>RPM17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Binah">
+    <SeeAlso>Spirit</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Body">
+    <Child ReferenceText="botches">
+      <PageReference>RPM52</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>RPM39-51</PageReference>
+    </Child>
+    <Child ReferenceText="wards">
+      <PageReference>RPM25</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>RPM7-8</PageReference>
+      <PageReference>RPM35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Body Control skill">
+    <PageReference>RPM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body of Shadow spell">
+    <PageReference>RPM39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Botches">
+    <Child ReferenceText="sample">
+      <PageReference>RPM52-53</PageReference>
+    </Child>
+    <Child ReferenceText="rituals and">
+      <PageReference>RPM20</PageReference>
+      <PageReference>RPM21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Call Spirit spell">
+    <PageReference>RPM39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Casters">
+    <Child ReferenceText="defined">
+      <PageReference>RPM4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Castings">
+    <SeeAlso>Rituals</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Chance">
+    <Child ReferenceText="botches">
+      <PageReference>RPM52</PageReference>
+    </Child>
+    <Child ReferenceText="divinations">
+      <PageReference>RPM24</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>RPM40</PageReference>
+      <PageReference>RPM41</PageReference>
+      <PageReference>RPM47</PageReference>
+      <PageReference>RPM49-50</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>RPM8</PageReference>
+      <PageReference>RPM35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Charms">
+    <PageReference>RPM26-28</PageReference>
+    <PageReference>RPM38</PageReference>
+    <SeeAlso>Rituals (Conditional)</SeeAlso>
+    <Child ReferenceText="buying">
+      <PageReference>RPM27-28</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>RPM39-43</PageReference>
+      <PageReference>RPM46</PageReference>
+      <PageReference>RPM49-50</PageReference>
+    </Child>
+    <Child ReferenceText="Gizmos and">
+      <PageReference>RPM27</PageReference>
+    </Child>
+    <Child ReferenceText="Quick and Dirty">
+      <PageReference>RPM26</PageReference>
+    </Child>
+    <Child ReferenceText="sales information">
+      <PageReference>RPM31-32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chesed">
+    <SeeAlso>Magic (Path of)</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Chill spell">
+    <PageReference>RPM40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chokmah">
+    <SeeAlso>Mind</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Circlet limitation">
+    <PageReference>RPM34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleanse Disease spell">
+    <PageReference>RPM40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloak limitation">
+    <PageReference>RPM34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer Hacking skill">
+    <PageReference>RPM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computerized Ally spell">
+    <PageReference>RPM40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conjure Credentials spell">
+    <PageReference>RPM40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Consecrated space">
+    <SeeAlso>Locations</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Control spell effects">
+    <PageReference>RPM16</PageReference>
+    <Child ReferenceText="Body">
+      <PageReference>RPM7</PageReference>
+    </Child>
+    <Child ReferenceText="Chance">
+      <PageReference>RPM8</PageReference>
+    </Child>
+    <Child ReferenceText="Crossroads">
+      <PageReference>RPM9</PageReference>
+    </Child>
+    <Child ReferenceText="Energy">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Matter">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Mind">
+      <PageReference>RPM11</PageReference>
+    </Child>
+    <Child ReferenceText="Nonexistence">
+      <PageReference>RPM37</PageReference>
+    </Child>
+    <Child ReferenceText="Spirit">
+      <PageReference>RPM11</PageReference>
+    </Child>
+    <Child ReferenceText="Undead">
+      <PageReference>RPM11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Counterproductivity Curse spell">
+    <PageReference>RPM40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Create Pocket Dimension spell">
+    <PageReference>RPM40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Create spell effects">
+    <PageReference>RPM16</PageReference>
+    <Child ReferenceText="Body">
+      <PageReference>RPM7</PageReference>
+    </Child>
+    <Child ReferenceText="Chance">
+      <PageReference>RPM8</PageReference>
+    </Child>
+    <Child ReferenceText="Crossroads">
+      <PageReference>RPM9</PageReference>
+    </Child>
+    <Child ReferenceText="Energy">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Matter">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Mind">
+      <PageReference>RPM11</PageReference>
+    </Child>
+    <Child ReferenceText="Nonexistence">
+      <PageReference>RPM37</PageReference>
+    </Child>
+    <Child ReferenceText="Spirit">
+      <PageReference>RPM11</PageReference>
+    </Child>
+    <Child ReferenceText="Undead">
+      <PageReference>RPM11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossroads">
+    <Child ReferenceText="botches">
+      <PageReference>RPM52</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>RPM40</PageReference>
+      <PageReference>RPM41</PageReference>
+      <PageReference>RPM44</PageReference>
+      <PageReference>RPM47</PageReference>
+      <PageReference>RPM49</PageReference>
+      <PageReference>RPM50</PageReference>
+    </Child>
+    <Child ReferenceText="speed and">
+      <PageReference>RPM18</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>RPM9</PageReference>
+      <PageReference>RPM35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cure Disease spell">
+    <PageReference>RPM41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Daath">
+    <PageReference>RPM37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage spell modifier">
+    <PageReference>RPM17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death Touch spell">
+    <PageReference>RPM41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death Vision spell">
+    <PageReference>RPM41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Decans">
+    <PageReference>RPM35-37</PageReference>
+    <Child ReferenceText="correspondences">
+      <PageReference>RPM35</PageReference>
+    </Child>
+    <Child ReferenceText="trappings">
+      <PageReference>RPM29</PageReference>
+      <PageReference>RPM36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Desecrated areas">
+    <PageReference>RPM20</PageReference>
+    <PageReference>RPM21</PageReference>
+    <PageReference>RPM43</PageReference>
+    <SeeAlso>Locations</SeeAlso>
+    <Child ReferenceText="restoring">
+      <PageReference>RPM10</PageReference>
+      <PageReference>RPM21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Destroy spell effects">
+    <PageReference>RPM16</PageReference>
+    <Child ReferenceText="Body">
+      <PageReference>RPM7</PageReference>
+    </Child>
+    <Child ReferenceText="Chance">
+      <PageReference>RPM8</PageReference>
+    </Child>
+    <Child ReferenceText="Crossroads">
+      <PageReference>RPM9</PageReference>
+    </Child>
+    <Child ReferenceText="Energy">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Matter">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Mind">
+      <PageReference>RPM11</PageReference>
+    </Child>
+    <Child ReferenceText="Nonexistence">
+      <PageReference>RPM37</PageReference>
+    </Child>
+    <Child ReferenceText="Spirit">
+      <PageReference>RPM11</PageReference>
+    </Child>
+    <Child ReferenceText="Undead">
+      <PageReference>RPM11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Destruction spell">
+    <PageReference>RPM41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect Secret Doors spell">
+    <PageReference>RPM41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diagnose spell">
+    <PageReference>RPM41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diamond Mind spell">
+    <PageReference>RPM41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divinations">
+    <PageReference>RPM8</PageReference>
+    <PageReference>RPM24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dreamcatcher spell">
+    <PageReference>RPM41-42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dull (Sense) spell">
+    <PageReference>RPM42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duplicate Object spell">
+    <PageReference>RPM42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duration spell modifier">
+    <PageReference>RPM18</PageReference>
+    <Child ReferenceText="conditional termination">
+      <PageReference>RPM18</PageReference>
+    </Child>
+    <Child ReferenceText="damage and">
+      <PageReference>RPM17</PageReference>
+    </Child>
+    <Child ReferenceText="expiring early">
+      <PageReference>RPM22</PageReference>
+      <PageReference>RPM25</PageReference>
+    </Child>
+    <Child ReferenceText="extending">
+      <PageReference>RPM22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elixirs">
+    <PageReference>RPM28-30</PageReference>
+    <Child ReferenceText="as advantages">
+      <PageReference>RPM34</PageReference>
+    </Child>
+    <Child ReferenceText="creating">
+      <PageReference>RPM28-29</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>RPM30</PageReference>
+    </Child>
+    <Child ReferenceText="expiration dates">
+      <PageReference>RPM30</PageReference>
+    </Child>
+    <Child ReferenceText="limits">
+      <PageReference>RPM30</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>RPM29-30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchanted items">
+    <PageReference>RPM33-35</PageReference>
+    <SeeAlso>Charms</SeeAlso>
+    <SeeAlso>Elixirs</SeeAlso>
+    <SeeAlso>Grimoires</SeeAlso>
+    <Child ReferenceText="acquiring">
+      <PageReference>RPM34-35</PageReference>
+    </Child>
+    <Child ReferenceText="damaging">
+      <PageReference>RPM33</PageReference>
+    </Child>
+    <Child ReferenceText="magical ability granted by">
+      <PageReference>RPM33</PageReference>
+    </Child>
+    <Child ReferenceText="protected">
+      <PageReference>RPM33</PageReference>
+    </Child>
+    <Child ReferenceText="repairing">
+      <PageReference>RPM33</PageReference>
+    </Child>
+    <Child ReferenceText="Slow and Sure method">
+      <PageReference>RPM34-35</PageReference>
+    </Child>
+    <Child ReferenceText="unprotected">
+      <PageReference>RPM33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy">
+    <Child ReferenceText="botches">
+      <PageReference>RPM52</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>RPM39-44</PageReference>
+      <PageReference>RPM46</PageReference>
+      <PageReference>RPM48-51</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>RPM9-10</PageReference>
+      <PageReference>RPM35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy Reserve advantage">
+    <PageReference>RPM5</PageReference>
+    <SeeAlso>Mana Reserve</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra energy spell modifier">
+    <PageReference>RPM18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="False Memory spell">
+    <PageReference>RPM42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Familiars">
+    <PageReference>RPM25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Draw (Potion) skill">
+    <PageReference>RPM29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feral Rage spell">
+    <PageReference>RPM42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fighting Irons spell">
+    <PageReference>RPM42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fireball spell">
+    <PageReference>RPM42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Formularies">
+    <PageReference>RPM29</PageReference>
+    <PageReference>RPM31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>Charms</SeeAlso>
+    <SeeAlso>Elixirs</SeeAlso>
+    <SeeAlso>Enchanted Items</SeeAlso>
+    <SeeAlso>Grimoires</SeeAlso>
+    <Child ReferenceText="spell trappings">
+      <PageReference>RPM19</PageReference>
+      <PageReference>RPM36</PageReference>
+    </Child>
+    <Child ReferenceText="alchemical">
+      <PageReference>RPM28</PageReference>
+      <PageReference>RPM29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Geburah">
+    <SeeAlso>Energy</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost Shirt spell">
+    <PageReference>RPM43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gift of Gab spell">
+    <PageReference>RPM43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gizmos advantage">
+    <Child ReferenceText="charms">
+      <PageReference>RPM27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Glamor Glamour spell">
+    <PageReference>RPM43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Global Positioning Sorcery spell">
+    <PageReference>RPM43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greater effects">
+    <PageReference>RPM7</PageReference>
+    <Child ReferenceText="alternative">
+      <PageReference>RPM13</PageReference>
+    </Child>
+    <Child ReferenceText="defining">
+      <PageReference>RPM8</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>RPM7-12</PageReference>
+    </Child>
+    <Child ReferenceText="multiplier">
+      <PageReference>RPM18-19</PageReference>
+    </Child>
+    <Child ReferenceText="stacking with Lesser effects">
+      <PageReference>RPM15</PageReference>
+    </Child>
+    <Child ReferenceText="used in spells">
+      <PageReference>RPM15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grenade elixir">
+    <PageReference>RPM28</PageReference>
+    <PageReference>RPM29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grimoires">
+    <PageReference>RPM30-32</PageReference>
+    <Child ReferenceText="buying">
+      <PageReference>RPM31-32</PageReference>
+    </Child>
+    <Child ReferenceText="charms and">
+      <PageReference>RPM27</PageReference>
+    </Child>
+    <Child ReferenceText="creating">
+      <PageReference>RPM32</PageReference>
+    </Child>
+    <Child ReferenceText="elixirs and">
+      <PageReference>RPM29</PageReference>
+      <PageReference>RPM31</PageReference>
+    </Child>
+    <Child ReferenceText="sales information">
+      <PageReference>RPM31-32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>RPM13</PageReference>
+    <PageReference>RPM43</PageReference>
+    <PageReference>RPM45</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>RPM3</PageReference>
+      <PageReference>RPM6</PageReference>
+      <PageReference>RPM11</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>RPM45</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 5: Allies">
+      <PageReference>RPM35</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>RPM12</PageReference>
+      <PageReference>RPM38</PageReference>
+      <PageReference>RPM39</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters">
+      <PageReference>RPM21</PageReference>
+      <PageReference>RPM28</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 1: Champions">
+      <PageReference>RPM3</PageReference>
+      <PageReference>RPM21</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 2: The Mission">
+      <PageReference>RPM3</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 3: The Enemy">
+      <PageReference>RPM3</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 4: Sidekicks">
+      <PageReference>RPM3</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 4: Enhancements">
+      <PageReference>RPM45</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>RPM46</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>RPM3</PageReference>
+      <PageReference>RPM5</PageReference>
+      <PageReference>RPM6</PageReference>
+      <PageReference>RPM13</PageReference>
+      <PageReference>RPM18</PageReference>
+      <PageReference>RPM28</PageReference>
+      <PageReference>RPM35</PageReference>
+      <PageReference>RPM36</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Urban Magics">
+      <PageReference>RPM32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hall of Records spell">
+    <PageReference>RPM44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Halt spell">
+    <PageReference>RPM44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Haste spell">
+    <PageReference>RPM44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing spells">
+    <PageReference>RPM47</PageReference>
+    <Child ReferenceText="modifier">
+      <PageReference>RPM18</PageReference>
+    </Child>
+    <Child ReferenceText="Path">
+      <PageReference>RPM7</PageReference>
+    </Child>
+    <Child ReferenceText="related">
+      <PageReference>RPM40</PageReference>
+      <PageReference>RPM41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Herb Lore skill">
+    <PageReference>RPM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden Housekeeper spell">
+    <PageReference>RPM44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Higher Purpose (Tradition) advantage">
+    <PageReference>RPM5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hinder spell">
+    <PageReference>RPM44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hod">
+    <SeeAlso>Chance</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunger spell">
+    <PageReference>RPM44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hush spell">
+    <PageReference>RPM44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Implant Mind-Shard spell">
+    <PageReference>RPM45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intercom spell">
+    <PageReference>RPM45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Itch spell">
+    <PageReference>RPM45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kether">
+    <PageReference>RPM35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kiss of Silver spell">
+    <PageReference>RPM45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legs of the Kangaroo spell">
+    <PageReference>RPM45-46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lesser effects">
+    <PageReference>RPM7</PageReference>
+    <Child ReferenceText="alternative">
+      <PageReference>RPM13</PageReference>
+    </Child>
+    <Child ReferenceText="defining">
+      <PageReference>RPM8</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>RPM7-12</PageReference>
+    </Child>
+    <Child ReferenceText="stacking with Greater effects">
+      <PageReference>RPM15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Life Preserver spell">
+    <PageReference>RPM46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light spell">
+    <PageReference>RPM46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitations">
+    <Child ReferenceText="new">
+      <PageReference>RPM33-34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Live Off the Land spell">
+    <PageReference>RPM46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locations">
+    <PageReference>RPM32-33</PageReference>
+    <Child ReferenceText="consecrating">
+      <PageReference>RPM10</PageReference>
+      <PageReference>RPM20</PageReference>
+      <PageReference>RPM21</PageReference>
+    </Child>
+    <Child ReferenceText="decan related">
+      <PageReference>RPM36</PageReference>
+    </Child>
+    <Child ReferenceText="desecrated">
+      <PageReference>RPM10</PageReference>
+      <PageReference>RPM20</PageReference>
+      <PageReference>RPM21</PageReference>
+      <PageReference>RPM43</PageReference>
+    </Child>
+    <Child ReferenceText="finding">
+      <PageReference>RPM32-33</PageReference>
+    </Child>
+    <Child ReferenceText="mana level">
+      <PageReference>RPM43</PageReference>
+    </Child>
+    <Child ReferenceText="non-adepts and">
+      <PageReference>RPM20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lockpick spell">
+    <PageReference>RPM46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luck advantage">
+    <PageReference>RPM8</PageReference>
+    <PageReference>RPM15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery (Ritual Path) advantage">
+    <PageReference>RPM5</PageReference>
+    <Child ReferenceText="affected by spells">
+      <PageReference>RPM17</PageReference>
+    </Child>
+    <Child ReferenceText="bestowed by items">
+      <PageReference>RPM33</PageReference>
+    </Child>
+    <Child ReferenceText="bestowed by spells">
+      <PageReference>RPM15</PageReference>
+    </Child>
+    <Child ReferenceText="mixing types">
+      <PageReference>RPM45</PageReference>
+    </Child>
+    <Child ReferenceText="spellcasting and">
+      <PageReference>RPM5</PageReference>
+      <PageReference>RPM20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mages">
+    <Child ReferenceText="defined">
+      <PageReference>RPM4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <Child ReferenceText="botches">
+      <PageReference>RPM52</PageReference>
+    </Child>
+    <Child ReferenceText="charms">
+      <PageReference>RPM38</PageReference>
+    </Child>
+    <Child ReferenceText="conditional rituals">
+      <PageReference>RPM25</PageReference>
+      <PageReference>RPM38</PageReference>
+    </Child>
+    <Child ReferenceText="elixirs">
+      <PageReference>RPM29</PageReference>
+    </Child>
+    <Child ReferenceText="enchanted items">
+      <PageReference>RPM35</PageReference>
+    </Child>
+    <Child ReferenceText="example charms">
+      <PageReference>RPM39-43</PageReference>
+      <PageReference>RPM46</PageReference>
+      <PageReference>RPM49-50</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>RPM46</PageReference>
+      <PageReference>RPM48</PageReference>
+      <PageReference>RPM50</PageReference>
+    </Child>
+    <Child ReferenceText="example ward">
+      <PageReference>RPM47</PageReference>
+    </Child>
+    <Child ReferenceText="wards">
+      <PageReference>RPM24-25</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>RPM10</PageReference>
+      <PageReference>RPM35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Resistance advantage">
+    <PageReference>RPM5</PageReference>
+    <Child ReferenceText="spellcasting and">
+      <PageReference>RPM5</PageReference>
+    </Child>
+    <Child ReferenceText="gained from spells">
+      <PageReference>RPM10</PageReference>
+      <PageReference>RPM15</PageReference>
+      <PageReference>RPM48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic systems">
+    <Child ReferenceText="mixing">
+      <PageReference>RPM45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical limitation">
+    <PageReference>RPM33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical tools">
+    <PageReference>RPM33</PageReference>
+    <SeeAlso>Enchanted Items</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Malkuth">
+    <SeeAlso>Undead</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana level">
+    <PageReference>RPM43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana reserve">
+    <PageReference>RPM5</PageReference>
+    <PageReference>RPM10</PageReference>
+    <PageReference>RPM21</PageReference>
+    <Child ReferenceText="Energy Reserve">
+      <PageReference>RPM5</PageReference>
+    </Child>
+    <Child ReferenceText="items and">
+      <PageReference>RPM33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mantle of Glory spell">
+    <PageReference>RPM46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Matter">
+    <Child ReferenceText="botches">
+      <PageReference>RPM52</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>RPM39</PageReference>
+      <PageReference>RPM40</PageReference>
+      <PageReference>RPM42</PageReference>
+      <PageReference>RPM45-48</PageReference>
+      <PageReference>RPM50</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>RPM11</PageReference>
+      <PageReference>RPM35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Medicine Bag spell">
+    <PageReference>RPM46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Messenger Animal spell">
+    <PageReference>RPM46-47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-magic spell modifier">
+    <PageReference>RPM18</PageReference>
+    <PageReference>RPM24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind">
+    <Child ReferenceText="botches">
+      <PageReference>RPM52</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>RPM39-47</PageReference>
+      <PageReference>RPM49-51</PageReference>
+    </Child>
+    <Child ReferenceText="wards">
+      <PageReference>RPM25</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>RPM11-12</PageReference>
+      <PageReference>RPM35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Minor Healing spell">
+    <PageReference>RPM47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missiles">
+    <Child ReferenceText="spell">
+      <PageReference>RPM17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <Child ReferenceText="wards">
+      <PageReference>RPM25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical Influence skill">
+    <PageReference>RPM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural Caster talent">
+    <PageReference>RPM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necrosis spell">
+    <PageReference>RPM47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Netzach">
+    <SeeAlso>Matter</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Nixie’s Curse spells">
+    <PageReference>RPM47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Non-adepts">
+    <Child ReferenceText="spellcasting and">
+      <PageReference>RPM19-20</PageReference>
+    </Child>
+    <Child ReferenceText="sample casting">
+      <PageReference>RPM22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonexistence">
+    <Child ReferenceText="Path of">
+      <PageReference>RPM37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Off the Grid spell">
+    <PageReference>RPM47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ointment elixir">
+    <PageReference>RPM28</PageReference>
+    <PageReference>RPM29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Panacea spell">
+    <PageReference>RPM47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pastille elixir">
+    <PageReference>RPM28</PageReference>
+    <PageReference>RPM30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path skills">
+    <PageReference>RPM4</PageReference>
+    <PageReference>RPM6-12</PageReference>
+    <SeeAlso>Rituals</SeeAlso>
+    <SeeAlso>Spells</SeeAlso>
+    <Child ReferenceText="alternative">
+      <PageReference>RPM13</PageReference>
+    </Child>
+    <Child ReferenceText="as spell stat">
+      <PageReference>RPM24</PageReference>
+    </Child>
+    <Child ReferenceText="choosing">
+      <PageReference>RPM20</PageReference>
+    </Child>
+    <Child ReferenceText="correspondences">
+      <PageReference>RPM6</PageReference>
+      <PageReference>RPM13</PageReference>
+    </Child>
+    <Child ReferenceText="default use">
+      <PageReference>RPM6</PageReference>
+    </Child>
+    <Child ReferenceText="limit">
+      <PageReference>RPM6</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>RPM19-20</PageReference>
+    </Child>
+    <Child ReferenceText="spell-effect overview">
+      <PageReference>RPM7</PageReference>
+    </Child>
+    <Child ReferenceText="spells with multiple">
+      <PageReference>RPM19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pentagram Trap spell">
+    <PageReference>RPM47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perk">
+    <Child ReferenceText="new">
+      <PageReference>RPM6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Petrify spells">
+    <PageReference>RPM47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Physics skill">
+    <PageReference>RPM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Places of power">
+    <SeeAlso>Locations</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Potion elixir">
+    <PageReference>RPM28</PageReference>
+    <PageReference>RPM30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Potions limitation">
+    <PageReference>RPM34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powder elixir">
+    <PageReference>RPM28</PageReference>
+    <PageReference>RPM30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Project Voice spell">
+    <PageReference>RPM48</PageReference>
+    <Child ReferenceText="alternative">
+      <PageReference>RPM49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid magazine">
+    <PageReference>RPM3</PageReference>
+    <SeeAlso>GURPS</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Qlippothic cults">
+    <PageReference>RPM37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quirks">
+    <Child ReferenceText="gaining">
+      <PageReference>RPM20</PageReference>
+      <PageReference>RPM26</PageReference>
+      <PageReference>RPM53</PageReference>
+    </Child>
+    <Child ReferenceText="sample">
+      <PageReference>RPM53</PageReference>
+    </Child>
+    <Child ReferenceText="charms and">
+      <PageReference>RPM26</PageReference>
+      <PageReference>RPM27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rain of Fire spell">
+    <PageReference>RPM48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Range spell modifier">
+    <PageReference>RPM18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remove Reflection spell">
+    <PageReference>RPM48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resist Cold spell">
+    <PageReference>RPM48</PageReference>
+    <Child ReferenceText="alternative">
+      <PageReference>RPM49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Resist Magic spell">
+    <PageReference>RPM48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restore spell effect">
+    <PageReference>RPM16</PageReference>
+    <Child ReferenceText="Body">
+      <PageReference>RPM7</PageReference>
+    </Child>
+    <Child ReferenceText="Chance">
+      <PageReference>RPM8</PageReference>
+    </Child>
+    <Child ReferenceText="Crossroads">
+      <PageReference>RPM9</PageReference>
+    </Child>
+    <Child ReferenceText="Energy">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Matter">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Mind">
+      <PageReference>RPM11</PageReference>
+    </Child>
+    <Child ReferenceText="Nonexistence">
+      <PageReference>RPM37</PageReference>
+    </Child>
+    <Child ReferenceText="Spirit">
+      <PageReference>RPM11</PageReference>
+    </Child>
+    <Child ReferenceText="Undead">
+      <PageReference>RPM11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ring limitation">
+    <PageReference>RPM34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual Adept advantage">
+    <PageReference>RPM4</PageReference>
+    <PageReference>RPM6</PageReference>
+    <Child ReferenceText="affected by spells">
+      <PageReference>RPM10</PageReference>
+      <PageReference>RPM15</PageReference>
+      <PageReference>RPM17</PageReference>
+    </Child>
+    <Child ReferenceText="bestowed by spells">
+      <PageReference>RPM15</PageReference>
+    </Child>
+    <Child ReferenceText="bestowed by items">
+      <PageReference>RPM33</PageReference>
+    </Child>
+    <Child ReferenceText="familiars and">
+      <PageReference>RPM25</PageReference>
+    </Child>
+    <Child ReferenceText="rituals and">
+      <PageReference>RPM14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual Magic skill">
+    <PageReference>RPM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual Mastery perk">
+    <PageReference>RPM6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual Path magic">
+    <SeeAlso>Rituals</SeeAlso>
+    <SeeAlso>Spells</SeeAlso>
+    <Child ReferenceText="variations">
+      <PageReference>RPM13</PageReference>
+    </Child>
+    <Child ReferenceText="with other systems">
+      <PageReference>RPM45</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>RPM3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rituals">
+    <PageReference>RPM4</PageReference>
+    <SeeAlso>Duration Spell Modifier</SeeAlso>
+    <SeeAlso>Enchanted Items</SeeAlso>
+    <SeeAlso>Greater Effects</SeeAlso>
+    <SeeAlso>Lesser Effects</SeeAlso>
+    <SeeAlso>Locations</SeeAlso>
+    <SeeAlso>Magery (Ritual Path) advantage</SeeAlso>
+    <SeeAlso>Magic Resistance advantage</SeeAlso>
+    <SeeAlso>Path Skills</SeeAlso>
+    <SeeAlso>Spell Effects</SeeAlso>
+    <Child ReferenceText="affecting other rituals">
+      <PageReference>RPM10</PageReference>
+      <PageReference>RPM15</PageReference>
+      <PageReference>RPM18</PageReference>
+      <PageReference>RPM24</PageReference>
+    </Child>
+    <Child ReferenceText="All-Out Defense maneuver">
+      <PageReference>RPM24</PageReference>
+    </Child>
+    <Child ReferenceText="auspicious dates and times">
+      <PageReference>RPM37</PageReference>
+    </Child>
+    <Child ReferenceText="bonuses from">
+      <PageReference>RPM15</PageReference>
+    </Child>
+    <Child ReferenceText="bound">
+      <PageReference>RPM33</PageReference>
+    </Child>
+    <Child ReferenceText="botches">
+      <PageReference>RPM20</PageReference>
+      <PageReference>RPM21</PageReference>
+      <PageReference>RPM52-53</PageReference>
+    </Child>
+    <Child ReferenceText="cancelling">
+      <PageReference>RPM22</PageReference>
+    </Child>
+    <Child ReferenceText="casting">
+      <PageReference>RPM21-22</PageReference>
+    </Child>
+    <Child ReferenceText="casting overview">
+      <PageReference>RPM14</PageReference>
+    </Child>
+    <Child ReferenceText="charms as conditional">
+      <PageReference>RPM26-27</PageReference>
+    </Child>
+    <Child ReferenceText="combining effort">
+      <PageReference>RPM25</PageReference>
+    </Child>
+    <Child ReferenceText="conditional">
+      <PageReference>RPM25-26</PageReference>
+    </Child>
+    <Child ReferenceText="conditional conversion">
+      <PageReference>RPM38</PageReference>
+    </Child>
+    <Child ReferenceText="conditional termination">
+      <PageReference>RPM18</PageReference>
+    </Child>
+    <Child ReferenceText="connection to subject">
+      <PageReference>RPM20</PageReference>
+    </Child>
+    <Child ReferenceText="decans and">
+      <PageReference>RPM29</PageReference>
+      <PageReference>RPM35-37</PageReference>
+    </Child>
+    <Child ReferenceText="defensive">
+      <PageReference>RPM24-25</PageReference>
+    </Child>
+    <Child ReferenceText="defining">
+      <PageReference>RPM15-19</PageReference>
+    </Child>
+    <Child ReferenceText="defining specific">
+      <PageReference>RPM19</PageReference>
+    </Child>
+    <Child ReferenceText="dispelling">
+      <PageReference>RPM18</PageReference>
+      <PageReference>RPM24</PageReference>
+    </Child>
+    <Child ReferenceText="divinations">
+      <PageReference>RPM24</PageReference>
+    </Child>
+    <Child ReferenceText="energy gathering">
+      <PageReference>RPM20-21</PageReference>
+      <PageReference>RPM26</PageReference>
+      <PageReference>RPM32</PageReference>
+    </Child>
+    <Child ReferenceText="energy sources">
+      <PageReference>RPM20</PageReference>
+      <PageReference>RPM21</PageReference>
+    </Child>
+    <Child ReferenceText="energy-cost formula">
+      <PageReference>RPM15</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>RPM38-51</PageReference>
+    </Child>
+    <Child ReferenceText="expiring early">
+      <PageReference>RPM22</PageReference>
+      <PageReference>RPM25</PageReference>
+    </Child>
+    <Child ReferenceText="format">
+      <PageReference>RPM38</PageReference>
+    </Child>
+    <Child ReferenceText="instant defense">
+      <PageReference>RPM24</PageReference>
+    </Child>
+    <Child ReferenceText="Magery and">
+      <PageReference>RPM5</PageReference>
+      <PageReference>RPM20</PageReference>
+    </Child>
+    <Child ReferenceText="Magic Resistance and">
+      <PageReference>RPM5</PageReference>
+    </Child>
+    <Child ReferenceText="materials">
+      <PageReference>RPM19</PageReference>
+      <PageReference>RPM29</PageReference>
+      <PageReference>RPM36</PageReference>
+    </Child>
+    <Child ReferenceText="mixing Paths">
+      <PageReference>RPM19</PageReference>
+    </Child>
+    <Child ReferenceText="Quick and Dirty">
+      <PageReference>RPM26</PageReference>
+    </Child>
+    <Child ReferenceText="quirks">
+      <PageReference>RPM20</PageReference>
+      <PageReference>RPM26</PageReference>
+      <PageReference>RPM53</PageReference>
+    </Child>
+    <Child ReferenceText="reimagining">
+      <PageReference>RPM49</PageReference>
+    </Child>
+    <Child ReferenceText="sacrifices">
+      <PageReference>RPM21</PageReference>
+    </Child>
+    <Child ReferenceText="sample botches">
+      <PageReference>RPM52-53</PageReference>
+    </Child>
+    <Child ReferenceText="sample castings">
+      <PageReference>RPM22</PageReference>
+    </Child>
+    <Child ReferenceText="sample quirks">
+      <PageReference>RPM53</PageReference>
+    </Child>
+    <Child ReferenceText="sephiroth and">
+      <PageReference>RPM13</PageReference>
+      <PageReference>RPM35-37</PageReference>
+    </Child>
+    <Child ReferenceText="skill choice">
+      <PageReference>RPM19</PageReference>
+    </Child>
+    <Child ReferenceText="skill modifiers">
+      <PageReference>RPM19-20</PageReference>
+    </Child>
+    <Child ReferenceText="stacking">
+      <PageReference>RPM15</PageReference>
+    </Child>
+    <Child ReferenceText="targeting">
+      <PageReference>RPM10</PageReference>
+      <PageReference>RPM18</PageReference>
+      <PageReference>RPM24</PageReference>
+    </Child>
+    <Child ReferenceText="time requirement">
+      <PageReference>RPM21</PageReference>
+    </Child>
+    <Child ReferenceText="time spent">
+      <PageReference>RPM6</PageReference>
+      <PageReference>RPM20</PageReference>
+    </Child>
+    <Child ReferenceText="trappings">
+      <PageReference>RPM19</PageReference>
+      <PageReference>RPM29</PageReference>
+      <PageReference>RPM35-37</PageReference>
+    </Child>
+    <Child ReferenceText="triggers">
+      <PageReference>RPM25-26</PageReference>
+    </Child>
+    <Child ReferenceText="visualizing effects">
+      <PageReference>RPM8</PageReference>
+    </Child>
+    <Child ReferenceText="wards">
+      <PageReference>RPM24-25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacred sites">
+    <SeeAlso>Locations</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrifices">
+    <PageReference>RPM21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense spell effects">
+    <PageReference>RPM15</PageReference>
+    <Child ReferenceText="Body">
+      <PageReference>RPM7</PageReference>
+    </Child>
+    <Child ReferenceText="divinations">
+      <PageReference>RPM24</PageReference>
+    </Child>
+    <Child ReferenceText="Chance">
+      <PageReference>RPM8</PageReference>
+    </Child>
+    <Child ReferenceText="Crossroads">
+      <PageReference>RPM9</PageReference>
+    </Child>
+    <Child ReferenceText="Energy">
+      <PageReference>RPM9</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Matter">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Mind">
+      <PageReference>RPM11</PageReference>
+    </Child>
+    <Child ReferenceText="Nonexistence">
+      <PageReference>RPM37</PageReference>
+    </Child>
+    <Child ReferenceText="Spirit">
+      <PageReference>RPM11</PageReference>
+    </Child>
+    <Child ReferenceText="Undead">
+      <PageReference>RPM11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sephiroth">
+    <PageReference>RPM13</PageReference>
+    <PageReference>RPM35-37</PageReference>
+    <Child ReferenceText="Natural Caster and">
+      <PageReference>RPM12</PageReference>
+    </Child>
+    <Child ReferenceText="Path names">
+      <PageReference>RPM6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Serpent’s Grace spell">
+    <PageReference>RPM49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Show of Character spell">
+    <PageReference>RPM49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signal Booster spell">
+    <PageReference>RPM49</PageReference>
+    <Child ReferenceText="alternative">
+      <PageReference>RPM49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Silence spell">
+    <PageReference>RPM49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <SeeAlso>Path Skills</SeeAlso>
+    <Child ReferenceText="core">
+      <PageReference>RPM4</PageReference>
+      <PageReference>RPM6</PageReference>
+    </Child>
+    <Child ReferenceText="alternative core">
+      <PageReference>RPM13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slow spell">
+    <PageReference>RPM49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sorcerous Covenant spell">
+    <PageReference>RPM49-50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sorcerous Mark spell">
+    <PageReference>RPM50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed spell modifier">
+    <PageReference>RPM18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell effects">
+    <PageReference>RPM7</PageReference>
+    <PageReference>RPM15-16</PageReference>
+    <SeeAlso>Greater Effects</SeeAlso>
+    <SeeAlso>Lesser Effects</SeeAlso>
+    <SeeAlso>Rituals</SeeAlso>
+    <Child ReferenceText="examples">
+      <PageReference>RPM7-12</PageReference>
+    </Child>
+    <Child ReferenceText="limits">
+      <PageReference>RPM8</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>RPM16-18</PageReference>
+    </Child>
+    <Child ReferenceText="stacking">
+      <PageReference>RPM15</PageReference>
+      <PageReference>RPM25</PageReference>
+    </Child>
+    <Child ReferenceText="tables">
+      <PageReference>RPM16</PageReference>
+      <PageReference>RPM18</PageReference>
+    </Child>
+    <Child ReferenceText="visualizing">
+      <PageReference>RPM8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <SeeAlso>Rituals</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit">
+    <Child ReferenceText="botches">
+      <PageReference>RPM52</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>RPM39-40</PageReference>
+      <PageReference>RPM44</PageReference>
+      <PageReference>RPM46</PageReference>
+      <PageReference>RPM47</PageReference>
+      <PageReference>RPM49</PageReference>
+      <PageReference>RPM51</PageReference>
+    </Child>
+    <Child ReferenceText="wards">
+      <PageReference>RPM25</PageReference>
+      <PageReference>RPM47</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>RPM12</PageReference>
+      <PageReference>RPM35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Staff limitation">
+    <PageReference>RPM34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sticks to Snakes spell">
+    <PageReference>RPM50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strengthen spell effects">
+    <PageReference>RPM16</PageReference>
+    <Child ReferenceText="Body">
+      <PageReference>RPM7</PageReference>
+    </Child>
+    <Child ReferenceText="Chance">
+      <PageReference>RPM8</PageReference>
+    </Child>
+    <Child ReferenceText="Crossroads">
+      <PageReference>RPM9</PageReference>
+    </Child>
+    <Child ReferenceText="Energy">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Matter">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Mind">
+      <PageReference>RPM11</PageReference>
+    </Child>
+    <Child ReferenceText="Nonexistence">
+      <PageReference>RPM37</PageReference>
+    </Child>
+    <Child ReferenceText="Spirit">
+      <PageReference>RPM11</PageReference>
+    </Child>
+    <Child ReferenceText="Undead">
+      <PageReference>RPM11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Subject weight spell modifier">
+    <PageReference>RPM18</PageReference>
+    <PageReference>RPM39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suspend Gravity spell">
+    <PageReference>RPM50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sylph Form spell">
+    <PageReference>RPM50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="crafting penalties">
+      <PageReference>RPM16</PageReference>
+    </Child>
+    <Child ReferenceText="decanic correspondences">
+      <PageReference>RPM35</PageReference>
+    </Child>
+    <Child ReferenceText="decanic materials">
+      <PageReference>RPM36</PageReference>
+    </Child>
+    <Child ReferenceText="grimoire">
+      <PageReference>RPM31</PageReference>
+    </Child>
+    <Child ReferenceText="ingredient">
+      <PageReference>RPM29</PageReference>
+    </Child>
+    <Child ReferenceText="safe energy threshold">
+      <PageReference>RPM26</PageReference>
+    </Child>
+    <Child ReferenceText="spell-effect summary">
+      <PageReference>RPM16</PageReference>
+    </Child>
+    <Child ReferenceText="spell modifiers">
+      <PageReference>RPM18</PageReference>
+    </Child>
+    <Child ReferenceText="charm base cost">
+      <PageReference>RPM27-28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talent">
+    <PageReference>RPM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terrify spell">
+    <PageReference>RPM50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thaumatology skill">
+    <PageReference>RPM6</PageReference>
+    <PageReference>RPM35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiara limitation">
+    <PageReference>RPM34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiphareth">
+    <SeeAlso>Crossroads</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Track Traveler spell">
+    <PageReference>RPM50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transform spell effects">
+    <PageReference>RPM16</PageReference>
+    <Child ReferenceText="Body">
+      <PageReference>RPM8</PageReference>
+    </Child>
+    <Child ReferenceText="Chance">
+      <PageReference>RPM8</PageReference>
+    </Child>
+    <Child ReferenceText="Crossroads">
+      <PageReference>RPM9</PageReference>
+    </Child>
+    <Child ReferenceText="Energy">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Matter">
+      <PageReference>RPM10</PageReference>
+    </Child>
+    <Child ReferenceText="Mind">
+      <PageReference>RPM11</PageReference>
+    </Child>
+    <Child ReferenceText="Nonexistence">
+      <PageReference>RPM37</PageReference>
+    </Child>
+    <Child ReferenceText="Spirit">
+      <PageReference>RPM11</PageReference>
+    </Child>
+    <Child ReferenceText="Undead">
+      <PageReference>RPM11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Transmogrification spell">
+    <PageReference>RPM50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trappings">
+    <Child ReferenceText="zodiacal">
+      <PageReference>RPM36-37</PageReference>
+    </Child>
+    <Child ReferenceText="decanic">
+      <PageReference>RPM29</PageReference>
+      <PageReference>RPM36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel by Wire spell">
+    <PageReference>RPM51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Form spell">
+    <PageReference>RPM51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Truthteller spell">
+    <PageReference>RPM51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead">
+    <Child ReferenceText="botches">
+      <PageReference>RPM52</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>RPM39</PageReference>
+      <PageReference>RPM51</PageReference>
+    </Child>
+    <Child ReferenceText="wards">
+      <PageReference>RPM25</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>RPM12</PageReference>
+      <PageReference>RPM35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Verdant Fecundity spell">
+    <PageReference>RPM51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wallwalker spell">
+    <PageReference>RPM51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wand limitation">
+    <PageReference>RPM34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wards">
+    <PageReference>RPM10</PageReference>
+    <PageReference>RPM24-25</PageReference>
+    <Child ReferenceText="detecting">
+      <PageReference>RPM24</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>RPM47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weaken Blood spell">
+    <PageReference>RPM51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <SeeAlso>Elixirs</SeeAlso>
+    <SeeAlso>Enchanted Items</SeeAlso>
+    <SeeAlso>Gear</SeeAlso>
+    <Child ReferenceText="charms">
+      <PageReference>RPM27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weather-working">
+    <PageReference>RPM9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weight spell modifier">
+    <PageReference>RPM18</PageReference>
+    <PageReference>RPM39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Workspace kits">
+    <PageReference>RPM28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yesod">
+    <SeeAlso>Body</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Zodiacal">
+    <Child ReferenceText="trappings">
+      <PageReference>RPM36-37</PageReference>
+    </Child>
+    <Child ReferenceText="combinations">
+      <PageReference>RPM35</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

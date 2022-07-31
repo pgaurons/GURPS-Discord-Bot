@@ -1,0 +1,4342 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abacus">
+    <PageReference>LT50</PageReference>
+    <PageReference>LT63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Abdomen, hit location">
+    <PageReference>LT102-103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acids">
+    <PageReference>LT26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acupuncture">
+    <PageReference>LT152-153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adhesives">
+    <Child ReferenceText="organic">
+      <PageReference>LT25</PageReference>
+    </Child>
+    <Child ReferenceText="mineral">
+      <PageReference>LT19-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>LT8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adzes">
+    <PageReference>LT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aeolipiles">
+    <PageReference>LT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Agriculture waste, as fuel">
+    <PageReference>LT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air bladder">
+    <PageReference>LT143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alarms">
+    <PageReference>LT123-124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemist’s kits">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alcohol">
+    <PageReference>LT25</PageReference>
+    <PageReference>LT37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alembics">
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternative technologies">
+    <PageReference>LT7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aludels">
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alum">
+    <PageReference>LT26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammunition">
+    <SeeAlso>Arrows in the Weaponry Index</SeeAlso>
+    <Child ReferenceText="cannon">
+      <PageReference>LT88</PageReference>
+    </Child>
+    <Child ReferenceText="catapult">
+      <PageReference>LT81</PageReference>
+      <PageReference>LT83</PageReference>
+    </Child>
+    <Child ReferenceText="firearms">
+      <PageReference>LT87</PageReference>
+      <PageReference>LT91</PageReference>
+      <PageReference>LT95</PageReference>
+    </Child>
+    <Child ReferenceText="heavy weapons">
+      <PageReference>LT81</PageReference>
+      <PageReference>LT83</PageReference>
+    </Child>
+    <Child ReferenceText="making">
+      <PageReference>LT96</PageReference>
+    </Child>
+    <Child ReferenceText="missile weapons">
+      <PageReference>LT78</PageReference>
+    </Child>
+    <Child ReferenceText="personal artillery">
+      <PageReference>LT84</PageReference>
+    </Child>
+    <Child ReferenceText="arrows">
+      <PageReference>LT73</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Anachronistic Skill perk">
+    <PageReference>LT9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Angle measurement">
+    <PageReference>LT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal-hair ropes">
+    <PageReference>LT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ankus">
+    <PageReference>LT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antidotes">
+    <PageReference>LT153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anvils">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aprons, leather">
+    <PageReference>LT99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aqua regia">
+    <PageReference>LT26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area measurement">
+    <PageReference>LT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arming garments">
+    <PageReference>LT101-102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>LT103-106</PageReference>
+    <SeeAlso>Helmets</SeeAlso>
+    <Child ReferenceText="chinks in">
+      <PageReference>LT101-102</PageReference>
+    </Child>
+    <Child ReferenceText="concealing">
+      <PageReference>LT102</PageReference>
+    </Child>
+    <Child ReferenceText="donning">
+      <PageReference>LT102</PageReference>
+    </Child>
+    <Child ReferenceText="edged weapons and">
+      <PageReference>LT102</PageReference>
+    </Child>
+    <Child ReferenceText="exotic">
+      <PageReference>LT105</PageReference>
+      <PageReference>LT109</PageReference>
+    </Child>
+    <Child ReferenceText="fatigue">
+      <PageReference>LT101</PageReference>
+    </Child>
+    <Child ReferenceText="fluting">
+      <PageReference>LT110</PageReference>
+    </Child>
+    <Child ReferenceText="for animals">
+      <PageReference>LT117</PageReference>
+    </Child>
+    <Child ReferenceText="improvised">
+      <PageReference>LT103</PageReference>
+    </Child>
+    <Child ReferenceText="layered">
+      <PageReference>LT103</PageReference>
+    </Child>
+    <Child ReferenceText="locations table">
+      <PageReference>LT100</PageReference>
+    </Child>
+    <Child ReferenceText="metallic">
+      <PageReference>LT106-109</PageReference>
+    </Child>
+    <Child ReferenceText="of proof">
+      <PageReference>LT110</PageReference>
+    </Child>
+    <Child ReferenceText="optional rules">
+      <PageReference>LT101</PageReference>
+    </Child>
+    <Child ReferenceText="quality">
+      <PageReference>LT105</PageReference>
+      <PageReference>LT109</PageReference>
+    </Child>
+    <Child ReferenceText="realism with">
+      <PageReference>LT101</PageReference>
+      <PageReference>LT102</PageReference>
+    </Child>
+    <Child ReferenceText="sneaking in">
+      <PageReference>LT103</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>LT110</PageReference>
+    </Child>
+    <Child ReferenceText="tailoring">
+      <PageReference>LT110</PageReference>
+    </Child>
+    <Child ReferenceText="wrong fit">
+      <PageReference>LT103</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armoury skill">
+    <PageReference>LT10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arrow curtains">
+    <PageReference>LT104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arrows">
+    <Child ReferenceText="spoons">
+      <PageReference>LT148</PageReference>
+    </Child>
+    <Child ReferenceText="guides">
+      <PageReference>LT78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificial">
+    <Child ReferenceText="limbs">
+      <PageReference>LT149</PageReference>
+    </Child>
+    <Child ReferenceText="eyes">
+      <PageReference>LT149</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artillery">
+    <SeeAlso>Artillery in the Weaponry Index</SeeAlso>
+    <Child ReferenceText="aiming fixed-mount">
+      <PageReference>LT80</PageReference>
+    </Child>
+    <Child ReferenceText="accessories">
+      <PageReference>LT79</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Asbestos">
+    <PageReference>LT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aspis">
+    <PageReference>LT115</PageReference>
+    <PageReference>LT116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astrolabes">
+    <PageReference>LT43</PageReference>
+    <PageReference>LT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astronomical aids">
+    <PageReference>LT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astronomy skill">
+    <PageReference>LT10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Auditory signals">
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Augers">
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Authentication tools">
+    <PageReference>LT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aventails">
+    <PageReference>LT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Awls">
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bagpipes">
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bags">
+    <PageReference>LT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balls, sport">
+    <PageReference>LT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bandages">
+    <PageReference>LT146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banded mail">
+    <PageReference>LT107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bandoliers">
+    <PageReference>LT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barber’s kits">
+    <PageReference>LT148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barges">
+    <PageReference>LT141</PageReference>
+    <PageReference>LT142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bark, as writing media">
+    <PageReference>LT46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barkcloth">
+    <PageReference>LT24</PageReference>
+    <PageReference>LT46</PageReference>
+    <Child ReferenceText="armor">
+      <PageReference>LT106</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Barometers">
+    <PageReference>LT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barrels">
+    <PageReference>LT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barriers">
+    <PageReference>LT118-120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bars">
+    <PageReference>LT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bascinets">
+    <PageReference>LT111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Baskets">
+    <PageReference>LT34</PageReference>
+    <Child ReferenceText="measuring">
+      <PageReference>LT43-44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bathtubs">
+    <PageReference>LT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beacon fires">
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beaded curtains">
+    <PageReference>LT32</PageReference>
+    <PageReference>LT123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beading">
+    <PageReference>LT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bedding">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beds">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beekeeper’s outfit">
+    <PageReference>LT100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Belladonna">
+    <PageReference>LT128</PageReference>
+    <PageReference>LT151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bells">
+    <Child ReferenceText="church">
+      <PageReference>LT49</PageReference>
+    </Child>
+    <Child ReferenceText="as alarms">
+      <PageReference>LT123</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Belly braces">
+    <PageReference>LT79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Belt hooks">
+    <PageReference>LT79</PageReference>
+    <PageReference>LT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beverages">
+    <PageReference>LT37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bevors">
+    <PageReference>LT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bezainting">
+    <PageReference>LT105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bindings">
+    <PageReference>LT130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Black powder">
+    <PageReference>LT84</PageReference>
+    <PageReference>LT85</PageReference>
+    <PageReference>LT95</PageReference>
+    <SeeAlso>Black-Powder Weapons in the Weaponry Index</SeeAlso>
+    <Child ReferenceText="making">
+      <PageReference>LT85</PageReference>
+    </Child>
+    <Child ReferenceText="substandard">
+      <PageReference>LT85</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Blankets">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bleeding therapy">
+    <PageReference>LT153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood Vessel Pressure technique">
+    <PageReference>LT11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blunt trauma">
+    <PageReference>LT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boats">
+    <PageReference>LT139-143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body modifications">
+    <PageReference>LT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bolts, security">
+    <PageReference>LT120</PageReference>
+    <PageReference>LT121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bone">
+    <PageReference>LT22</PageReference>
+    <SeeAlso>Shells</SeeAlso>
+    <Child ReferenceText="armor">
+      <PageReference>LT106</PageReference>
+    </Child>
+    <Child ReferenceText="skates">
+      <PageReference>LT133</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>LT71</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bonesetting technique">
+    <PageReference>LT12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boots">
+    <PageReference>LT63</PageReference>
+    <PageReference>LT98</PageReference>
+    <PageReference>LT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bottles">
+    <PageReference>LT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bows, rated ST and">
+    <PageReference>LT74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boxes">
+    <PageReference>LT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Braces and bits">
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brands">
+    <PageReference>LT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brass">
+    <PageReference>LT20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Braziers">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breaking and entering">
+    <PageReference>LT122</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breathing tubes">
+    <PageReference>LT143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brick">
+    <PageReference>LT18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bridles">
+    <PageReference>LT134</PageReference>
+    <PageReference>LT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brigs">
+    <PageReference>LT142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brigandine armor">
+    <PageReference>LT108</PageReference>
+    <PageReference>LT111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brims">
+    <PageReference>LT112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bronze">
+    <PageReference>LT20</PageReference>
+    <Child ReferenceText="armor">
+      <PageReference>LT108</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brushes">
+    <PageReference>LT36</PageReference>
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bucklers">
+    <PageReference>LT113-116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bullet-molding gear">
+    <PageReference>LT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Calculation aids">
+    <PageReference>LT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camels">
+    <Child ReferenceText="riding">
+      <PageReference>LT134</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>LT117</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Camouflage">
+    <PageReference>LT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Candles">
+    <PageReference>LT33</PageReference>
+    <PageReference>LT44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Canoes">
+    <PageReference>LT140</PageReference>
+    <PageReference>LT142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cantharides">
+    <PageReference>LT129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cards">
+    <PageReference>LT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carpenter’s kits">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carpentry tools">
+    <PageReference>LT28-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carpets">
+    <PageReference>LT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carriages">
+    <PageReference>LT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carrying">
+    <Child ReferenceText="straps">
+      <PageReference>LT36</PageReference>
+    </Child>
+    <Child ReferenceText="yokes">
+      <PageReference>LT36</PageReference>
+    </Child>
+    <Child ReferenceText="frames">
+      <PageReference>LT36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cars">
+    <PageReference>LT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carts">
+    <PageReference>LT136</PageReference>
+    <PageReference>LT146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catalog">
+    <PageReference>LT48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cataract Surgery technique">
+    <PageReference>LT12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catheters">
+    <PageReference>LT148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cautery">
+    <PageReference>LT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ceramics">
+    <PageReference>LT19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chairs">
+    <PageReference>LT33</PageReference>
+    <PageReference>LT63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chalcolithic age">
+    <PageReference>LT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charcoal">
+    <PageReference>LT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chariot Training perk">
+    <PageReference>LT9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chariots">
+    <PageReference>LT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cheek guards">
+    <PageReference>LT112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemistry">
+    <PageReference>LT25-26</PageReference>
+    <Child ReferenceText="equipment">
+      <PageReference>LT29</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>LT10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chest, hit location">
+    <PageReference>LT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chests">
+    <PageReference>LT119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chip logs">
+    <PageReference>LT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chisels">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chocolate">
+    <PageReference>LT37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chorobates">
+    <PageReference>LT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ciphers">
+    <PageReference>LT127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clepsydra">
+    <PageReference>LT44</PageReference>
+    <PageReference>LT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Climbing gear">
+    <PageReference>LT125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloaks">
+    <PageReference>LT76</PageReference>
+    <PageReference>LT99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clocks">
+    <PageReference>LT44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloth of gold/silver embellishment">
+    <PageReference>LT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloth">
+    <PageReference>LT24</PageReference>
+    <Child ReferenceText="armor">
+      <PageReference>LT103-104</PageReference>
+      <PageReference>LT110</PageReference>
+    </Child>
+    <Child ReferenceText="bags">
+      <PageReference>LT34</PageReference>
+    </Child>
+    <Child ReferenceText="fireproof">
+      <PageReference>LT100</PageReference>
+    </Child>
+    <Child ReferenceText="tools for working">
+      <PageReference>LT29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <PageReference>LT97-100</PageReference>
+    <SeeAlso>Armor</SeeAlso>
+    <SeeAlso>Helmets</SeeAlso>
+    <Child ReferenceText="camouflage">
+      <PageReference>LT126</PageReference>
+    </Child>
+    <Child ReferenceText="holdout">
+      <PageReference>LT99</PageReference>
+      <PageReference>LT100</PageReference>
+      <PageReference>LT126</PageReference>
+    </Child>
+    <Child ReferenceText="protective">
+      <PageReference>LT99-100</PageReference>
+    </Child>
+    <Child ReferenceText="Status and">
+      <PageReference>LT99</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Coaches">
+    <PageReference>LT137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coal">
+    <PageReference>LT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coats">
+    <PageReference>LT99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cobwebs">
+    <PageReference>LT146</PageReference>
+    <SeeAlso>Spider Silk</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Codes">
+    <PageReference>LT127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Codexes">
+    <PageReference>LT47</PageReference>
+    <PageReference>LT63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coercion devices">
+    <PageReference>LT130-131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coffee">
+    <PageReference>LT37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coifs">
+    <PageReference>LT111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coinage, counterfeiting">
+    <PageReference>LT128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Collar, horse">
+    <PageReference>LT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colophon">
+    <PageReference>LT48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combination gadgets">
+    <PageReference>LT14</PageReference>
+    <PageReference>LT54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combs">
+    <PageReference>LT36</PageReference>
+    <PageReference>LT63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compartmentalized containers">
+    <PageReference>LT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compasses">
+    <PageReference>LT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computation aids">
+    <PageReference>LT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concrete">
+    <PageReference>LT19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Consumer goods">
+    <PageReference>LT35-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Containers">
+    <PageReference>LT29</PageReference>
+    <PageReference>LT84</PageReference>
+    <PageReference>LT35</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>LT34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cooling equipment">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Copper">
+    <PageReference>LT20</PageReference>
+    <Child ReferenceText="armor">
+      <PageReference>LT108</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Corned powder">
+    <PageReference>LT85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmetics">
+    <PageReference>LT36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost Factor (CF)">
+    <PageReference>LT14</PageReference>
+    <SeeAlso>Quality Modifiers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cotton">
+    <PageReference>LT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Counterfeiting">
+    <PageReference>LT128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Covers, moveable">
+    <PageReference>LT116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Covert-entry tools">
+    <PageReference>LT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cranequins">
+    <PageReference>LT79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crests">
+    <PageReference>LT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crewman skill">
+    <PageReference>LT10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossbows">
+    <Child ReferenceText="rated ST and">
+      <PageReference>LT74</PageReference>
+    </Child>
+    <Child ReferenceText="climbing">
+      <PageReference>LT125</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cross-staves">
+    <PageReference>LT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crowbars">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crucibles">
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cube root extractors">
+    <PageReference>LT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cupels">
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curare">
+    <PageReference>LT129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutters (boat)">
+    <PageReference>LT142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutting for the Stone technique">
+    <PageReference>LT12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dead reckoning">
+    <PageReference>LT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deception">
+    <PageReference>LT127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detoxification">
+    <PageReference>LT153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diagnostic manuals">
+    <PageReference>LT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diagrams, sailing">
+    <PageReference>LT141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dice">
+    <PageReference>LT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dietary regimens">
+    <PageReference>LT153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dioptra">
+    <PageReference>LT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>LT10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Discus">
+    <PageReference>LT40</PageReference>
+    <PageReference>LT72</PageReference>
+    <PageReference>LT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disguise kits">
+    <PageReference>LT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disguised modifier">
+    <PageReference>LT14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distillation">
+    <PageReference>LT25</PageReference>
+    <Child ReferenceText="technique">
+      <PageReference>LT11-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Distortion, image">
+    <PageReference>LT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dividers, for navigation">
+    <PageReference>LT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diving boats">
+    <PageReference>LT143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diving gear">
+    <PageReference>LT143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Documents">
+    <SeeAlso>Writing Media</SeeAlso>
+    <Child ReferenceText="formats">
+      <PageReference>LT47</PageReference>
+    </Child>
+    <Child ReferenceText="searching">
+      <PageReference>LT47-48</PageReference>
+    </Child>
+    <Child ReferenceText="forging">
+      <PageReference>LT128</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dolls">
+    <PageReference>LT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Domestic conveniences">
+    <PageReference>LT33-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Domestication">
+    <PageReference>LT22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dominoes">
+    <PageReference>LT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doors">
+    <PageReference>LT32</PageReference>
+    <Child ReferenceText="breaking down">
+      <PageReference>LT122</PageReference>
+    </Child>
+    <Child ReferenceText="concealed">
+      <PageReference>LT119</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Draw plates">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drills">
+    <PageReference>LT28</PageReference>
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drinking, luxury items">
+    <PageReference>LT37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drugs">
+    <PageReference>LT150-152</PageReference>
+    <SeeAlso>Herbs</SeeAlso>
+    <SeeAlso>Poisons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Drums">
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dung, as fuel">
+    <PageReference>LT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dyeing">
+    <PageReference>LT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ear trumpets">
+    <PageReference>LT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth, raw material">
+    <PageReference>LT17-20</PageReference>
+    <SeeAlso>Stone</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Earthenware">
+    <PageReference>LT18-19</PageReference>
+    <Child ReferenceText="jars">
+      <PageReference>LT34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Egyptian scribe’s palette">
+    <PageReference>LT47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electrical therapy">
+    <PageReference>LT153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elephants">
+    <Child ReferenceText="riding">
+      <PageReference>LT135</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>LT117</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Embellishments">
+    <PageReference>LT38</PageReference>
+    <PageReference>LT59</PageReference>
+    <SeeAlso>Quality Modifiers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Embroidery">
+    <PageReference>LT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enamel embellishment">
+    <PageReference>LT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enforcement tools">
+    <PageReference>LT130-131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Engineer skill">
+    <PageReference>LT13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Entertainment">
+    <PageReference>LT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equines">
+    <Child ReferenceText="harnesses">
+      <PageReference>LT28</PageReference>
+    </Child>
+    <Child ReferenceText="riding">
+      <PageReference>LT133-134</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>LT117</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment Bond perk">
+    <PageReference>LT9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Quality Modifiers</SeeAlso>
+    <Child ReferenceText="buying">
+      <PageReference>LT13-14</PageReference>
+    </Child>
+    <Child ReferenceText="chemical">
+      <PageReference>LT29</PageReference>
+    </Child>
+    <Child ReferenceText="combination">
+      <PageReference>LT14</PageReference>
+      <PageReference>LT54</PageReference>
+    </Child>
+    <Child ReferenceText="cooling">
+      <PageReference>LT33</PageReference>
+    </Child>
+    <Child ReferenceText="custom">
+      <PageReference>LT14</PageReference>
+      <PageReference>LT38</PageReference>
+    </Child>
+    <Child ReferenceText="decorated">
+      <PageReference>LT37</PageReference>
+      <PageReference>LT59</PageReference>
+    </Child>
+    <Child ReferenceText="maintaining and repairing">
+      <PageReference>LT15</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>LT14</PageReference>
+    </Child>
+    <Child ReferenceText="statistics format">
+      <PageReference>LT15-16</PageReference>
+    </Child>
+    <Child ReferenceText="storing">
+      <PageReference>LT15</PageReference>
+    </Child>
+    <Child ReferenceText="bonuses">
+      <PageReference>LT16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Esoteric Medicine skill">
+    <PageReference>LT10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Etching embellishment">
+    <PageReference>LT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ether">
+    <PageReference>LT26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eye surgery instruments">
+    <PageReference>LT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eyeglasses">
+    <PageReference>LT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Face protection">
+    <PageReference>LT112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Facilities, for public events">
+    <PageReference>LT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faering">
+    <PageReference>LT142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fans">
+    <Child ReferenceText="cooling">
+      <PageReference>LT33</PageReference>
+    </Child>
+    <Child ReferenceText="combat">
+      <PageReference>LT56</PageReference>
+      <PageReference>LT65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Draw skill">
+    <PageReference>LT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue, from armor">
+    <PageReference>LT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fats, as fuel">
+    <PageReference>LT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feathers">
+    <Child ReferenceText="as embellishment">
+      <PageReference>LT38</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>LT104</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fences">
+    <PageReference>LT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fiber">
+    <PageReference>LT23</PageReference>
+    <SeeAlso>Cloth</SeeAlso>
+    <SeeAlso>Ropes</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Fifes">
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Files, smithing">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire">
+    <PageReference>LT27</PageReference>
+    <Child ReferenceText="beacon">
+      <PageReference>LT49</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>LT35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearms">
+    <PageReference>LT90</PageReference>
+    <PageReference>LT91-94</PageReference>
+    <SeeAlso>Weaponry Index</SeeAlso>
+    <Child ReferenceText="accessories">
+      <PageReference>LT96</PageReference>
+    </Child>
+    <Child ReferenceText="ammunition">
+      <PageReference>LT87</PageReference>
+    </Child>
+    <Child ReferenceText="cleaning and maintaining">
+      <PageReference>LT95</PageReference>
+    </Child>
+    <Child ReferenceText="design">
+      <PageReference>LT90-91</PageReference>
+    </Child>
+    <Child ReferenceText="loading">
+      <PageReference>LT94</PageReference>
+    </Child>
+    <Child ReferenceText="quality">
+      <PageReference>LT95</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>LT94-95</PageReference>
+    </Child>
+    <Child ReferenceText="water and">
+      <PageReference>LT90</PageReference>
+      <PageReference>LT95</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Firebows">
+    <PageReference>LT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fireproof clothing">
+    <PageReference>LT100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fireworks">
+    <PageReference>LT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="First aid equipment">
+    <PageReference>LT145-147</PageReference>
+    <Child ReferenceText="kits">
+      <PageReference>LT146</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fishing gear">
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flags, signal">
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flaking stones">
+    <PageReference>LT18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flasks">
+    <PageReference>LT84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fletcher’s kits">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flint, for starting fires">
+    <PageReference>LT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Float bridges">
+    <PageReference>LT138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Floats">
+    <PageReference>LT138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fluting, armor">
+    <PageReference>LT110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Footwear">
+    <PageReference>LT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forceps">
+    <PageReference>LT148</PageReference>
+    <PageReference>LT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forgery">
+    <PageReference>LT128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fortune-Telling skill">
+    <PageReference>LT144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fright Checks, weapons and">
+    <PageReference>LT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fringe embellishment">
+    <PageReference>LT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fuel">
+    <PageReference>LT27</PageReference>
+    <SeeAlso>Fire</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Fugu poison">
+    <PageReference>LT129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Furniture">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Furs">
+    <PageReference>LT22</PageReference>
+    <Child ReferenceText="armor">
+      <PageReference>LT104</PageReference>
+    </Child>
+    <Child ReferenceText="trim">
+      <PageReference>LT38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgets">
+    <SeeAlso>Equipment</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Games">
+    <PageReference>LT39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Geophagy">
+    <PageReference>LT153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gilding">
+    <PageReference>LT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glass">
+    <PageReference>LT19</PageReference>
+    <Child ReferenceText="bottles">
+      <PageReference>LT34</PageReference>
+    </Child>
+    <Child ReferenceText="burning">
+      <PageReference>LT35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Globes">
+    <PageReference>LT45</PageReference>
+    <PageReference>LT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glues">
+    <PageReference>LT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goat’s foot">
+    <PageReference>LT79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goggles, snow">
+    <PageReference>LT99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gorgets">
+    <PageReference>LT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grappling hooks">
+    <PageReference>LT125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grapnels">
+    <PageReference>LT125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grass ropes">
+    <PageReference>LT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grates">
+    <PageReference>LT119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grooming tools">
+    <PageReference>LT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guiges">
+    <PageReference>LT113-114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun-cleaning kits">
+    <PageReference>LT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunpowder">
+    <PageReference>LT40</PageReference>
+    <PageReference>LT85</PageReference>
+    <PageReference>LT87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>LT4</PageReference>
+    <PageReference>LT13</PageReference>
+    <PageReference>LT15</PageReference>
+    <PageReference>LT47</PageReference>
+    <PageReference>LT50</PageReference>
+    <PageReference>LT56</PageReference>
+    <PageReference>LT75</PageReference>
+    <PageReference>LT90</PageReference>
+    <PageReference>LT99</PageReference>
+    <PageReference>LT113</PageReference>
+    <PageReference>LT144</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>LT4</PageReference>
+      <PageReference>LT11</PageReference>
+      <PageReference>LT15</PageReference>
+      <PageReference>LT56-58</PageReference>
+      <PageReference>LT64</PageReference>
+      <PageReference>LT75</PageReference>
+      <PageReference>LT99</PageReference>
+      <PageReference>LT108</PageReference>
+      <PageReference>LT113</PageReference>
+      <PageReference>LT128</PageReference>
+      <PageReference>LT148</PageReference>
+    </Child>
+    <Child ReferenceText="Covert Ops">
+      <PageReference>LT4</PageReference>
+    </Child>
+    <Child ReferenceText="Dinosaurs">
+      <PageReference>LT4</PageReference>
+    </Child>
+    <Child ReferenceText="HighTech">
+      <PageReference>LT4</PageReference>
+      <PageReference>LT50</PageReference>
+      <PageReference>LT52</PageReference>
+    </Child>
+    <Child ReferenceText="LowTech Companion 1: Philosophers and Kings">
+      <PageReference>LT4</PageReference>
+      <PageReference>LT8</PageReference>
+      <PageReference>LT19</PageReference>
+      <PageReference>LT40</PageReference>
+      <PageReference>LT43</PageReference>
+      <PageReference>LT45</PageReference>
+      <PageReference>LT49</PageReference>
+      <PageReference>LT50</PageReference>
+      <PageReference>LT78</PageReference>
+      <PageReference>LT127</PageReference>
+      <PageReference>LT145-147</PageReference>
+      <PageReference>LT154</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 2: Weapons and Warriors">
+      <PageReference>LT4</PageReference>
+      <PageReference>LT8</PageReference>
+      <PageReference>LT54</PageReference>
+      <PageReference>LT56</PageReference>
+      <PageReference>LT60</PageReference>
+      <PageReference>LT61</PageReference>
+      <PageReference>LT71</PageReference>
+      <PageReference>LT87</PageReference>
+      <PageReference>LT100</PageReference>
+      <PageReference>LT101</PageReference>
+      <PageReference>LT104</PageReference>
+      <PageReference>LT113-115</PageReference>
+      <PageReference>LT139</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 3: Daily Life and Economics">
+      <PageReference>LT4</PageReference>
+      <PageReference>LT23</PageReference>
+      <PageReference>LT31</PageReference>
+      <PageReference>LT100</PageReference>
+      <PageReference>LT139</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>LT54-58</PageReference>
+      <PageReference>LT60-62</PageReference>
+      <PageReference>LT64</PageReference>
+      <PageReference>LT101</PageReference>
+      <PageReference>LT116</PageReference>
+      <PageReference>LT131</PageReference>
+    </Child>
+    <Child ReferenceText="Mass Combat">
+      <PageReference>LT101</PageReference>
+    </Child>
+    <Child ReferenceText="Swashbucklers">
+      <PageReference>LT4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hammers">
+    <PageReference>LT30</PageReference>
+    <PageReference>LT64</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hammocks">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hands-Free Driving technique">
+    <PageReference>LT12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hands-Free Riding technique">
+    <PageReference>LT12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Handwear">
+    <PageReference>LT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Harnesses">
+    <PageReference>LT27-29</PageReference>
+    <SeeAlso>Riding Gear</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Harps">
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Harpoons">
+    <Child ReferenceText="weapon">
+      <PageReference>LT72</PageReference>
+      <PageReference>LT77</PageReference>
+    </Child>
+    <Child ReferenceText="climbing">
+      <PageReference>LT125</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hats">
+    <PageReference>LT99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Headgear">
+    <PageReference>LT98-99</PageReference>
+    <PageReference>LT106</PageReference>
+    <SeeAlso>Helmets</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Headrests">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing methods and tools">
+    <PageReference>LT144-154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heat therapy">
+    <PageReference>LT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heating equipment">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heavy weapons, crew size">
+    <PageReference>LT81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helmets">
+    <Child ReferenceText="options">
+      <PageReference>LT112</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>LT111-112</PageReference>
+    </Child>
+    <Child ReferenceText="additional protection">
+      <PageReference>LT112-113</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hemlock">
+    <PageReference>LT129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hemp ropes">
+    <PageReference>LT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Herbal extracts, preparing">
+    <PageReference>LT151-152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Herbs, categories">
+    <PageReference>LT150-151</PageReference>
+    <SeeAlso>Drugs</SeeAlso>
+    <SeeAlso>Poisons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Hides">
+    <Child ReferenceText="boats">
+      <PageReference>LT140</PageReference>
+      <PageReference>LT142</PageReference>
+    </Child>
+    <Child ReferenceText="ropes">
+      <PageReference>LT24</PageReference>
+    </Child>
+    <Child ReferenceText="animal">
+      <PageReference>LT104</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit locations">
+    <PageReference>LT102-103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hobnails">
+    <PageReference>LT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holdout clothing">
+    <PageReference>LT99</PageReference>
+    <PageReference>LT100</PageReference>
+    <PageReference>LT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holsters">
+    <PageReference>LT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Honey">
+    <PageReference>LT150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hoods">
+    <PageReference>LT99</PageReference>
+    <PageReference>LT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hook maneuver">
+    <PageReference>LT54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hooks, for surgery">
+    <PageReference>LT148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horizon table">
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horn">
+    <Child ReferenceText="raw material">
+      <PageReference>LT22</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>LT71</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>LT106</PageReference>
+      <PageReference>LT110</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Horns, hunting">
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horses">
+    <SeeAlso>Equines</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Housebreaker’s kits">
+    <PageReference>LT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Housing">
+    <PageReference>LT31-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Howdah">
+    <PageReference>LT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunter-gather’s kits">
+    <PageReference>LT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Identification tools">
+    <PageReference>LT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Identifying marks">
+    <PageReference>LT128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Igloos">
+    <PageReference>LT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immersion therapy">
+    <PageReference>LT153</PageReference>
+    <PageReference>LT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvised Weapons perk">
+    <PageReference>LT63</PageReference>
+    <SeeAlso>Weapons (Improvised)</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Injured people, transporting">
+    <PageReference>LT147</PageReference>
+    <SeeAlso>Healing Methods and Tools</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Inks">
+    <PageReference>LT46</PageReference>
+    <Child ReferenceText="invisible">
+      <PageReference>LT127</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Inlay embellishment">
+    <PageReference>LT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Innumerate disadvantage">
+    <PageReference>LT10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inorganic drugs">
+    <PageReference>LT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intrusion gear">
+    <PageReference>LT125-126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inventors">
+    <PageReference>LT13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invoices">
+    <PageReference>LT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron maidens">
+    <PageReference>LT131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron">
+    <PageReference>LT20</PageReference>
+    <SeeAlso>Armor (Metallic)</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ivy ropes">
+    <PageReference>LT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jack chains">
+    <PageReference>LT105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jade armor">
+    <PageReference>LT106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jars">
+    <PageReference>LT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jazerant">
+    <PageReference>LT107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jeweler’s tools">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jewelry">
+    <PageReference>LT38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jugs">
+    <Child ReferenceText="measuring">
+      <PageReference>LT43-44</PageReference>
+    </Child>
+    <Child ReferenceText="cooling">
+      <PageReference>LT33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kamals">
+    <PageReference>LT43</PageReference>
+    <PageReference>LT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kayaks">
+    <PageReference>LT140</PageReference>
+    <PageReference>LT142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kettledrums">
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kites">
+    <PageReference>LT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kits">
+    <SeeAlso>Tool Kits</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Knots">
+    <PageReference>LT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lacquer, as poison">
+    <PageReference>LT129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ladders">
+    <PageReference>LT125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lamellar armor">
+    <PageReference>LT106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lamps">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lance skill">
+    <PageReference>LT10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lancets">
+    <PageReference>LT153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Landmark recognition">
+    <PageReference>LT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Language advantage">
+    <PageReference>LT8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lantern balloons">
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lanterns">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Latches">
+    <PageReference>LT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lathes">
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lead">
+    <PageReference>LT21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lead lines">
+    <PageReference>LT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lean-tos">
+    <PageReference>LT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leathers">
+    <PageReference>LT22</PageReference>
+    <PageReference>LT34</PageReference>
+    <PageReference>LT45</PageReference>
+    <PageReference>LT46</PageReference>
+    <PageReference>LT105</PageReference>
+    <Child ReferenceText="armor">
+      <PageReference>LT104</PageReference>
+      <PageReference>LT105</PageReference>
+      <PageReference>LT110</PageReference>
+    </Child>
+    <Child ReferenceText="pouches">
+      <PageReference>LT34</PageReference>
+    </Child>
+    <Child ReferenceText="quality">
+      <PageReference>LT105</PageReference>
+    </Child>
+    <Child ReferenceText="tools for working">
+      <PageReference>LT29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Leaves, as writing media">
+    <PageReference>LT46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legality Class (LC)">
+    <PageReference>LT15</PageReference>
+    <Child ReferenceText="armor">
+      <PageReference>LT100</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>LT53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Legionary, Roman imperial">
+    <PageReference>LT115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Length measurement">
+    <PageReference>LT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Levels, measuring">
+    <PageReference>LT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light sources">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lime">
+    <Child ReferenceText="powder">
+      <PageReference>LT130</PageReference>
+    </Child>
+    <Child ReferenceText="as adhesive">
+      <PageReference>LT19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Liquors">
+    <PageReference>LT37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Litters (transportation)">
+    <PageReference>LT136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Load-bearing gear">
+    <PageReference>LT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loadout, sample armor">
+    <PageReference>LT115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lobstertails">
+    <PageReference>LT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locked containers">
+    <PageReference>LT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lockpicks">
+    <PageReference>LT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locks, as security">
+    <PageReference>LT120-121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Logs">
+    <PageReference>LT138</PageReference>
+    <Child ReferenceText="riding on">
+      <PageReference>LT138</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Long coats">
+    <PageReference>LT99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Looms">
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lotions">
+    <PageReference>LT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luxuries">
+    <PageReference>LT36-39</PageReference>
+    <Child ReferenceText="pricing">
+      <PageReference>LT37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Luxury kits">
+    <PageReference>LT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Machinist skill">
+    <PageReference>LT10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mail">
+    <Child ReferenceText="collars">
+      <PageReference>LT113</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>LT107</PageReference>
+      <PageReference>LT110-111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Maintaining equipment">
+    <PageReference>LT15</PageReference>
+    <PageReference>LT95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Malfunctions">
+    <PageReference>LT75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manila ropes">
+    <PageReference>LT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mantlets">
+    <PageReference>LT116-117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maps">
+    <PageReference>LT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Masks">
+    <PageReference>LT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Massage">
+    <PageReference>LT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Match (mixture)">
+    <PageReference>LT84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Match covers">
+    <PageReference>LT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Matches">
+    <PageReference>LT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Materials">
+    <Child ReferenceText="organic">
+      <PageReference>LT21-25</PageReference>
+    </Child>
+    <Child ReferenceText="stone and earth">
+      <PageReference>LT17-20</PageReference>
+    </Child>
+    <Child ReferenceText="metal">
+      <PageReference>LT20-21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mattresses">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maya ball game kits">
+    <PageReference>LT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Measurement tools">
+    <PageReference>LT42-45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Measuring rods">
+    <PageReference>LT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mechanic skill">
+    <PageReference>LT10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medicine">
+    <Child ReferenceText="tech levels">
+      <PageReference>LT145</PageReference>
+    </Child>
+    <Child ReferenceText="diagnostic methods">
+      <PageReference>LT144-145</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Medieval scribal kits">
+    <PageReference>LT47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mercury">
+    <PageReference>LT21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Merkhets">
+    <PageReference>LT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mesolithic age">
+    <PageReference>LT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Messages">
+    <Child ReferenceText="sending">
+      <PageReference>LT48-49</PageReference>
+    </Child>
+    <Child ReferenceText="secret">
+      <PageReference>LT127</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Metals">
+    <PageReference>LT20-21</PageReference>
+    <PageReference>LT34</PageReference>
+    <PageReference>LT45</PageReference>
+    <SeeAlso>Armor (Metallic)</SeeAlso>
+    <Child ReferenceText="boxes">
+      <PageReference>LT34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Meteorology skill">
+    <PageReference>LT11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microscopes">
+    <PageReference>LT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Milk, as antidote">
+    <PageReference>LT153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mills, powered">
+    <PageReference>LT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mining tools">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mirrors">
+    <PageReference>LT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mittens">
+    <PageReference>LT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Moccasins">
+    <PageReference>LT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monkshood">
+    <PageReference>LT129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mortars">
+    <PageReference>LT19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounted Reload technique">
+    <PageReference>LT12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Moxibustion">
+    <PageReference>LT152-153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mud, as adhesive">
+    <PageReference>LT19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mukluks">
+    <PageReference>LT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mushrooms, deathcap">
+    <PageReference>LT129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical instruments">
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naphtha">
+    <PageReference>LT26</PageReference>
+    <PageReference>LT84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Napier’s bones">
+    <PageReference>LT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nasal strips">
+    <PageReference>LT112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naval Training perk">
+    <PageReference>LT9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Navigation">
+    <SeeAlso>Maps</SeeAlso>
+    <Child ReferenceText="skill">
+      <PageReference>LT50-51</PageReference>
+    </Child>
+    <Child ReferenceText="methods and tools">
+      <PageReference>LT50-52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neck protection">
+    <PageReference>LT112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Needle traps">
+    <PageReference>LT123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Needles">
+    <Child ReferenceText="surgery">
+      <PageReference>LT148</PageReference>
+      <PageReference>LT149</PageReference>
+    </Child>
+    <Child ReferenceText="sewing">
+      <PageReference>LT29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neolithic age">
+    <PageReference>LT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nets">
+    <Child ReferenceText="traps">
+      <PageReference>LT122</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>LT59-60</PageReference>
+      <PageReference>LT76</PageReference>
+    </Child>
+    <Child ReferenceText="fishing">
+      <PageReference>LT29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nightingale floor">
+    <PageReference>LT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nonhumans, technology">
+    <PageReference>LT8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Numerals">
+    <PageReference>LT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Observation tools">
+    <PageReference>LT41-42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Odometers">
+    <PageReference>LT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oils">
+    <Child ReferenceText="fuel">
+      <PageReference>LT27</PageReference>
+    </Child>
+    <Child ReferenceText="therapeutic">
+      <PageReference>LT151</PageReference>
+      <PageReference>LT154</PageReference>
+    </Child>
+    <Child ReferenceText="drying">
+      <PageReference>LT25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Organic materials">
+    <PageReference>LT21-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Padded boots">
+    <PageReference>LT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Padlocks">
+    <PageReference>LT121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pain control">
+    <PageReference>LT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Painting, as embellishment">
+    <PageReference>LT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Palanquins">
+    <PageReference>LT136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paleolithic age">
+    <PageReference>LT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Palimpsests">
+    <PageReference>LT46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paper">
+    <PageReference>LT24</PageReference>
+    <PageReference>LT46</PageReference>
+    <Child ReferenceText="armor">
+      <PageReference>LT106</PageReference>
+      <PageReference>LT111</PageReference>
+    </Child>
+    <Child ReferenceText="disposable">
+      <PageReference>LT127</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Papyrus">
+    <PageReference>LT46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parasols">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parchment">
+    <PageReference>LT25</PageReference>
+    <PageReference>LT46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parka">
+    <PageReference>LT99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Partitions">
+    <PageReference>LT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pavise">
+    <PageReference>LT116</PageReference>
+    <PageReference>LT117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peat, as fuel">
+    <PageReference>LT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pencils">
+    <PageReference>LT47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pens">
+    <PageReference>LT46</PageReference>
+    <PageReference>LT63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perfumes">
+    <PageReference>LT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Periplus">
+    <PageReference>LT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks, new">
+    <PageReference>LT9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal gear">
+    <PageReference>LT35-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal mobility">
+    <SeeAlso>Transportation</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Petroleum">
+    <PageReference>LT26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Physician skill">
+    <PageReference>LT11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Picks">
+    <PageReference>LT30</PageReference>
+    <SeeAlso>Weaponry Index</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Pictures">
+    <PageReference>LT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pigments">
+    <PageReference>LT26</PageReference>
+    <PageReference>LT37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pikes">
+    <SeeAlso>Weaponry Index</SeeAlso>
+    <Child ReferenceText="using">
+      <PageReference>LT55</PageReference>
+    </Child>
+    <Child ReferenceText="and shot">
+      <PageReference>LT55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pilgrim’s kits">
+    <PageReference>LT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pillories">
+    <PageReference>LT130</PageReference>
+    <PageReference>LT131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pillows">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pipes">
+    <PageReference>LT37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pit traps">
+    <PageReference>LT122-123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pith paper">
+    <PageReference>LT24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pitons">
+    <PageReference>LT125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plant resins">
+    <PageReference>LT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planting the Spear maneuver">
+    <PageReference>LT55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plaster">
+    <PageReference>LT19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plate armor">
+    <PageReference>LT107-109</PageReference>
+    <PageReference>LT110</PageReference>
+    <PageReference>LT111</PageReference>
+    <Child ReferenceText="options">
+      <PageReference>LT109-110</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pliers">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plumes">
+    <PageReference>LT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisons">
+    <PageReference>LT128-130</PageReference>
+    <SeeAlso>Herbs</SeeAlso>
+    <SeeAlso>Drugs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ponchos">
+    <PageReference>LT99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Porcelain">
+    <PageReference>LT19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Portolans">
+    <PageReference>LT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Potash">
+    <PageReference>LT26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Potsherds">
+    <PageReference>LT46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pouches">
+    <PageReference>LT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power sources">
+    <PageReference>LT27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Precarious feature">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Precious">
+    <Child ReferenceText="stones">
+      <PageReference>LT18</PageReference>
+      <PageReference>LT39</PageReference>
+    </Child>
+    <Child ReferenceText="metals">
+      <PageReference>LT21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Presses, hand-screw">
+    <PageReference>LT48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure measurement">
+    <PageReference>LT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Printing">
+    <PageReference>LT48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Probes, for surgery">
+    <PageReference>LT148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prosthetics">
+    <PageReference>LT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pry-bars">
+    <PageReference>LT122</PageReference>
+    <PageReference>LT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Public events and facilities">
+    <PageReference>LT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pufferfish poison">
+    <PageReference>LT129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pumice">
+    <PageReference>LT7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Punches, for stones">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Purging therapy">
+    <PageReference>LT153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quadrants">
+    <PageReference>LT43</PageReference>
+    <PageReference>LT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quality modifiers">
+    <PageReference>LT14</PageReference>
+    <PageReference>LT16</PageReference>
+    <Child ReferenceText="armor">
+      <PageReference>LT105</PageReference>
+      <PageReference>LT109-110</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>LT59</PageReference>
+      <PageReference>LT95-96</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Mount technique">
+    <PageReference>LT12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Racks, torture">
+    <PageReference>LT131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rafts">
+    <PageReference>LT138-139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rawhide">
+    <SeeAlso>Leathers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Razor surfaces">
+    <PageReference>LT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Razors, for grooming">
+    <PageReference>LT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realism options">
+    <Child ReferenceText="weapons">
+      <PageReference>LT75</PageReference>
+      <PageReference>LT102</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>LT101</PageReference>
+      <PageReference>LT102</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Recordkeeping tools">
+    <PageReference>LT45-48</PageReference>
+    <PageReference>LT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reeds">
+    <PageReference>LT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reference materials">
+    <PageReference>LT45-48</PageReference>
+    <Child ReferenceText="navigation">
+      <PageReference>LT51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reinforced containers">
+    <PageReference>LT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Relief embellishments">
+    <PageReference>LT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repairing equipment">
+    <PageReference>LT15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restraints">
+    <PageReference>LT130-131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Riding gear">
+    <PageReference>LT133-135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rivets, sliding">
+    <PageReference>LT109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ropes">
+    <PageReference>LT23-24</PageReference>
+    <PageReference>LT125</PageReference>
+    <PageReference>LT130</PageReference>
+    <Child ReferenceText="deterioration">
+      <PageReference>LT24</PageReference>
+    </Child>
+    <Child ReferenceText="ladder">
+      <PageReference>LT125</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rugged modifier">
+    <PageReference>LT14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rutters">
+    <PageReference>LT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saddles">
+    <PageReference>LT134</PageReference>
+    <PageReference>LT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sailboats">
+    <PageReference>LT141-142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sailing, against the wind">
+    <PageReference>LT141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Salt">
+    <PageReference>LT26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saltpeter">
+    <PageReference>LT26</PageReference>
+    <PageReference>LT84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Salves">
+    <PageReference>LT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sampans">
+    <PageReference>LT141</PageReference>
+    <PageReference>LT142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sandals">
+    <PageReference>LT63</PageReference>
+    <PageReference>LT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sandglasses">
+    <PageReference>LT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saws">
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scale armor">
+    <PageReference>LT106</PageReference>
+    <PageReference>LT110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scalpels">
+    <PageReference>LT148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scissors">
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scorifiers">
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Screens, folding">
+    <PageReference>LT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scribal equipment">
+    <PageReference>LT47</PageReference>
+    <SeeAlso>Writing Media</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrolls">
+    <PageReference>LT47</PageReference>
+    <PageReference>LT63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scutum">
+    <PageReference>LT115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seals, for identification">
+    <PageReference>LT46</PageReference>
+    <PageReference>LT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Security">
+    <PageReference>LT118-124</PageReference>
+    <Child ReferenceText="bypassing">
+      <PageReference>LT122</PageReference>
+      <PageReference>LT125-126</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sedan chairs">
+    <PageReference>LT136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sextants">
+    <PageReference>LT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shackles">
+    <PageReference>LT130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shears">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sheaths">
+    <PageReference>LT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sheets">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shells">
+    <PageReference>LT22</PageReference>
+    <PageReference>LT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shellac">
+    <PageReference>LT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shelter">
+    <PageReference>LT31-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <PageReference>LT114-116</PageReference>
+    <Child ReferenceText="as weapons">
+      <PageReference>LT61</PageReference>
+      <PageReference>LT68</PageReference>
+    </Child>
+    <Child ReferenceText="bosses">
+      <PageReference>LT113</PageReference>
+    </Child>
+    <Child ReferenceText="grips">
+      <PageReference>LT113-114</PageReference>
+    </Child>
+    <Child ReferenceText="improvised">
+      <PageReference>LT114</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>LT116</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ships">
+    <PageReference>LT139-143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoes">
+    <PageReference>LT63</PageReference>
+    <PageReference>LT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shofars">
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shooting stick">
+    <PageReference>LT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shot (ammunition)">
+    <PageReference>LT88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shovels">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signals">
+    <Child ReferenceText="visual">
+      <PageReference>LT48-49</PageReference>
+    </Child>
+    <Child ReferenceText="auditory">
+      <PageReference>LT49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Signet rings">
+    <PageReference>LT46</PageReference>
+    <PageReference>LT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silk">
+    <PageReference>LT23</PageReference>
+    <SeeAlso>Spider Silk</SeeAlso>
+    <Child ReferenceText="armor">
+      <PageReference>LT104</PageReference>
+    </Child>
+    <Child ReferenceText="ropes">
+      <PageReference>LT24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Size Modifier (SM), adjusting for">
+    <PageReference>LT8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skates">
+    <PageReference>LT133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>LT10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skis">
+    <PageReference>LT133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skytales">
+    <PageReference>LT127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sledges">
+    <PageReference>LT133</PageReference>
+    <PageReference>LT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleds">
+    <PageReference>LT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleighs">
+    <PageReference>LT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sliding rivets">
+    <PageReference>LT109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slings, for firearms">
+    <PageReference>LT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sloops">
+    <PageReference>LT142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smith’s kits">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smithing tools">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smoke signals">
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smoking, luxury items">
+    <PageReference>LT37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smuggling gear">
+    <PageReference>LT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snares">
+    <PageReference>LT123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snow gear">
+    <PageReference>LT98</PageReference>
+    <PageReference>LT99</PageReference>
+    <PageReference>LT133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snowshoes">
+    <PageReference>LT133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soaps">
+    <PageReference>LT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sounding poles">
+    <PageReference>LT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spears, fishing">
+    <PageReference>LT29</PageReference>
+    <SeeAlso>Planting the Spear Maneuver and Two-Man Pike Training Perk in the main index</SeeAlso>
+    <SeeAlso>and Spears in the Weaponry Index</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spectacles, helmet">
+    <PageReference>LT112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speculums">
+    <PageReference>LT148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spices">
+    <PageReference>LT37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spider silk">
+    <PageReference>LT23</PageReference>
+    <SeeAlso>Silk</SeeAlso>
+    <Child ReferenceText="armor">
+      <PageReference>LT104</PageReference>
+    </Child>
+    <Child ReferenceText="bandage">
+      <PageReference>LT146</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spikes">
+    <Child ReferenceText="climbing">
+      <PageReference>LT125</PageReference>
+    </Child>
+    <Child ReferenceText="barriers">
+      <PageReference>LT119</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spindles">
+    <PageReference>LT29</PageReference>
+    <PageReference>LT63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Splints">
+    <PageReference>LT146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sporting gear">
+    <PageReference>LT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spyglasses">
+    <PageReference>LT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Squares, carpentry">
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ST attribute">
+    <Child ReferenceText="combining">
+      <PageReference>LT9</PageReference>
+    </Child>
+    <Child ReferenceText="bows and crossbows and">
+      <PageReference>LT74</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Status advantage">
+    <PageReference>LT8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steam power">
+    <PageReference>LT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steel">
+    <PageReference>LT20</PageReference>
+    <SeeAlso>Armor (Metallic)</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Stems, as writing media">
+    <PageReference>LT46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stick charts">
+    <PageReference>LT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sticks, sport">
+    <PageReference>LT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stirrups">
+    <Child ReferenceText="weapons">
+      <PageReference>LT79</PageReference>
+    </Child>
+    <Child ReferenceText="riding">
+      <PageReference>LT134</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stocks, restraining">
+    <PageReference>LT130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stone">
+    <PageReference>LT17-20</PageReference>
+    <PageReference>LT46</PageReference>
+    <Child ReferenceText="armor">
+      <PageReference>LT106</PageReference>
+    </Child>
+    <Child ReferenceText="knapping tools">
+      <PageReference>LT30</PageReference>
+    </Child>
+    <Child ReferenceText="tools">
+      <PageReference>LT18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stonework’s kits">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Storage">
+    <PageReference>LT34-35</PageReference>
+    <Child ReferenceText="equipment">
+      <PageReference>LT15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Strength, combining">
+    <PageReference>LT9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strigils">
+    <PageReference>LT36</PageReference>
+    <PageReference>LT63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="String, raw material">
+    <PageReference>LT23</PageReference>
+    <PageReference>LT24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strongboxes">
+    <PageReference>LT119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Styling bonus">
+    <PageReference>LT14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Styluses">
+    <PageReference>LT47</PageReference>
+    <PageReference>LT63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Submarine skill">
+    <PageReference>LT11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sun shadow boards">
+    <PageReference>LT52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sundials">
+    <PageReference>LT44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sunstones">
+    <PageReference>LT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surfboards">
+    <PageReference>LT138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surgeon’s kits">
+    <PageReference>LT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surgery">
+    <Child ReferenceText="modifiers">
+      <PageReference>LT147</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>LT11</PageReference>
+    </Child>
+    <Child ReferenceText="Stone Age">
+      <PageReference>LT148</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>LT12</PageReference>
+    </Child>
+    <Child ReferenceText="instruments">
+      <PageReference>LT147-149</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Surveillance equipment">
+    <PageReference>LT122-124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surveyor’s">
+    <Child ReferenceText="kits">
+      <PageReference>LT43</PageReference>
+    </Child>
+    <Child ReferenceText="crosses">
+      <PageReference>LT43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <SeeAlso>Tables in the Weaponry Index</SeeAlso>
+    <Child ReferenceText="armor locations">
+      <PageReference>LT100</PageReference>
+    </Child>
+    <Child ReferenceText="artillery crew size">
+      <PageReference>LT81</PageReference>
+    </Child>
+    <Child ReferenceText="boats and ships">
+      <PageReference>LT142</PageReference>
+    </Child>
+    <Child ReferenceText="containers">
+      <PageReference>LT34</PageReference>
+    </Child>
+    <Child ReferenceText="floats">
+      <PageReference>LT138</PageReference>
+    </Child>
+    <Child ReferenceText="horizon">
+      <PageReference>LT49</PageReference>
+    </Child>
+    <Child ReferenceText="jewelry">
+      <PageReference>LT38</PageReference>
+    </Child>
+    <Child ReferenceText="land vehicles">
+      <PageReference>LT137</PageReference>
+    </Child>
+    <Child ReferenceText="rafts">
+      <PageReference>LT139</PageReference>
+    </Child>
+    <Child ReferenceText="SM adjustment">
+      <PageReference>LT8</PageReference>
+    </Child>
+    <Child ReferenceText="shields">
+      <PageReference>LT116</PageReference>
+    </Child>
+    <Child ReferenceText="storage">
+      <PageReference>LT34</PageReference>
+    </Child>
+    <Child ReferenceText="tripod mounts">
+      <PageReference>LT83</PageReference>
+    </Child>
+    <Child ReferenceText="armor">
+      <PageReference>LT110-111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables (furniture)">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tablets">
+    <PageReference>LT47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tailor’s kits">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tallies">
+    <PageReference>LT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tapestry weaving">
+    <PageReference>LT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tar">
+    <PageReference>LT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tattoos">
+    <PageReference>LT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teas">
+    <PageReference>LT37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech levels (TL)">
+    <PageReference>LT15</PageReference>
+    <Child ReferenceText="character traits and">
+      <PageReference>LT8</PageReference>
+    </Child>
+    <Child ReferenceText="medical">
+      <PageReference>LT145</PageReference>
+    </Child>
+    <Child ReferenceText="timeline">
+      <PageReference>LT6</PageReference>
+    </Child>
+    <Child ReferenceText="variants">
+      <PageReference>LT7-8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech-Level specialty">
+    <PageReference>LT16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <PageReference>LT11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature measurement">
+    <PageReference>LT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tents">
+    <PageReference>LT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thatch">
+    <PageReference>LT24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Therapies, nondrug">
+    <PageReference>LT152-154</PageReference>
+    <SeeAlso>Healing Methods and Tools</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Thermometers">
+    <PageReference>LT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thimbles">
+    <PageReference>LT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thong Throwing technique">
+    <PageReference>LT12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thorns, barriers">
+    <PageReference>LT119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thread, raw material">
+    <PageReference>LT23</PageReference>
+    <PageReference>LT24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time measurement">
+    <PageReference>LT44-45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Timers">
+    <PageReference>LT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tin">
+    <PageReference>LT21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tinder">
+    <PageReference>LT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tip Slash maneuver">
+    <PageReference>LT62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TL0: The Stone Age">
+    <PageReference>LT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TL1: The Bronze Age">
+    <PageReference>LT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TL2: The Iron Age">
+    <PageReference>LT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TL3: The Middle Ages">
+    <PageReference>LT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TL4: The Age of Sail">
+    <PageReference>LT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tobacco">
+    <PageReference>LT37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tongs">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tool kits">
+    <PageReference>LT30</PageReference>
+    <PageReference>LT36</PageReference>
+    <PageReference>LT43</PageReference>
+    <PageReference>LT47</PageReference>
+    <PageReference>LT96</PageReference>
+    <PageReference>LT126</PageReference>
+    <PageReference>LT131</PageReference>
+    <PageReference>LT146</PageReference>
+    <PageReference>LT148</PageReference>
+    <PageReference>LT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tooth, weapons">
+    <PageReference>LT71</PageReference>
+    <SeeAlso>Bone</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Torches">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Torture devices">
+    <PageReference>LT131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tourniquets">
+    <PageReference>LT145-146</PageReference>
+    <Child ReferenceText="tight">
+      <PageReference>LT146</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Toys">
+    <PageReference>LT39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traction bench">
+    <PageReference>LT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transportation">
+    <Child ReferenceText="tables">
+      <PageReference>LT137</PageReference>
+      <PageReference>LT139</PageReference>
+      <PageReference>LT142</PageReference>
+      <PageReference>LT143</PageReference>
+    </Child>
+    <Child ReferenceText="under water">
+      <PageReference>LT143</PageReference>
+    </Child>
+    <Child ReferenceText="water">
+      <PageReference>LT138-143</PageReference>
+    </Child>
+    <Child ReferenceText="land">
+      <PageReference>LT132-137</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps">
+    <PageReference>LT122-123</PageReference>
+    <Child ReferenceText="fishing">
+      <PageReference>LT29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel kits">
+    <PageReference>LT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Travois">
+    <PageReference>LT133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treadmills, trebuchet">
+    <PageReference>LT79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trepanning technique">
+    <PageReference>LT12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trephins">
+    <PageReference>LT148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tripod mount table">
+    <PageReference>LT83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tripwire">
+    <PageReference>LT123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trumpets">
+    <PageReference>LT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tunneling tools">
+    <PageReference>LT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turrets, helmet">
+    <PageReference>LT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tweezers">
+    <PageReference>LT36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-Man Pike Training perk">
+    <PageReference>LT9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Undercover clothing">
+    <PageReference>LT100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Urine flasks">
+    <PageReference>LT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Variant technological paths">
+    <PageReference>LT7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Variolation">
+    <PageReference>LT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <SeeAlso>Transportation</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Veils">
+    <PageReference>LT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vellum">
+    <PageReference>LT46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ventails">
+    <PageReference>LT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ventilation">
+    <PageReference>LT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vine ropes">
+    <PageReference>LT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Viper venom">
+    <PageReference>LT129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vision, defective">
+    <PageReference>LT42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visors">
+    <PageReference>LT112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Volume measurement">
+    <PageReference>LT43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wagons">
+    <PageReference>LT136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warming pans">
+    <PageReference>LT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Watchwords">
+    <PageReference>LT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Waterproof containers">
+    <PageReference>LT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Waterwheels">
+    <PageReference>LT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Waxes">
+    <Child ReferenceText="as fuel">
+      <PageReference>LT27</PageReference>
+    </Child>
+    <Child ReferenceText="as adhesive">
+      <PageReference>LT25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth advantage">
+    <PageReference>LT8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <Child ReferenceText="blunt trauma and">
+      <PageReference>LT102</PageReference>
+    </Child>
+    <Child ReferenceText="cleaning and maintaining">
+      <PageReference>LT95</PageReference>
+    </Child>
+    <Child ReferenceText="composition">
+      <PageReference>LT71</PageReference>
+    </Child>
+    <Child ReferenceText="Fright Checks and">
+      <PageReference>LT60</PageReference>
+    </Child>
+    <Child ReferenceText="improvised">
+      <PageReference>LT9</PageReference>
+      <PageReference>LT60</PageReference>
+      <PageReference>LT63</PageReference>
+    </Child>
+    <Child ReferenceText="legality">
+      <PageReference>LT53</PageReference>
+    </Child>
+    <Child ReferenceText="quality">
+      <PageReference>LT59</PageReference>
+    </Child>
+    <Child ReferenceText="realism options">
+      <PageReference>LT75</PageReference>
+    </Child>
+    <Child ReferenceText="reasons for prominence">
+      <PageReference>LT61</PageReference>
+    </Child>
+    <Child ReferenceText="unfamiliar">
+      <PageReference>LT60</PageReference>
+    </Child>
+    <Child ReferenceText="aiming fixed-mount">
+      <PageReference>LT80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weight measurement">
+    <PageReference>LT44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wet-weather gear">
+    <PageReference>LT99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wheelbarrows">
+    <PageReference>LT133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whips">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT64</PageReference>
+    <PageReference>LT67</PageReference>
+    <PageReference>LT70</PageReference>
+    <Child ReferenceText="for torture">
+      <PageReference>LT131</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wicker">
+    <PageReference>LT24</PageReference>
+    <Child ReferenceText="baskets">
+      <PageReference>LT34</PageReference>
+    </Child>
+    <Child ReferenceText="boats">
+      <PageReference>LT138-139</PageReference>
+      <PageReference>LT143</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Winches">
+    <PageReference>LT79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Windlasses">
+    <PageReference>LT79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Windmills">
+    <PageReference>LT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Windows">
+    <PageReference>LT119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Windroses">
+    <PageReference>LT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wire">
+    <PageReference>LT20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wolfsbane">
+    <PageReference>LT129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wood">
+    <PageReference>LT21-22</PageReference>
+    <PageReference>LT45</PageReference>
+    <Child ReferenceText="armor">
+      <PageReference>LT106</PageReference>
+      <PageReference>LT110</PageReference>
+    </Child>
+    <Child ReferenceText="containers">
+      <PageReference>LT34</PageReference>
+    </Child>
+    <Child ReferenceText="fuel">
+      <PageReference>LT27</PageReference>
+    </Child>
+    <Child ReferenceText="limbs">
+      <PageReference>LT149</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>LT71</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wool">
+    <PageReference>LT23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Writing media">
+    <SeeAlso>Documents</SeeAlso>
+    <Child ReferenceText="hard">
+      <PageReference>LT45-46</PageReference>
+    </Child>
+    <Child ReferenceText="soft">
+      <PageReference>LT46</PageReference>
+    </Child>
+    <Child ReferenceText="flat">
+      <PageReference>LT46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Writing tools">
+    <PageReference>LT46-47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yokes">
+    <PageReference>LT27</PageReference>
+    <PageReference>LT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yurts">
+    <PageReference>LT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zinc">
+    <PageReference>LT21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ahlspiesses">
+    <PageReference>LT54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ankus">
+    <PageReference>LT54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arbalests">
+    <PageReference>LT80</PageReference>
+    <PageReference>LT82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arquebus">
+    <PageReference>LT92</PageReference>
+    <PageReference>LT93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arrows">
+    <PageReference>LT63</PageReference>
+    <SeeAlso>the main index</SeeAlso>
+    <Child ReferenceText="fire">
+      <PageReference>LT86</PageReference>
+    </Child>
+    <Child ReferenceText="specialty">
+      <PageReference>LT73</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artillery">
+    <SeeAlso>the main index</SeeAlso>
+    <Child ReferenceText="gunpowder">
+      <PageReference>LT87-89</PageReference>
+    </Child>
+    <Child ReferenceText="heavy">
+      <PageReference>LT79-83</PageReference>
+    </Child>
+    <Child ReferenceText="mechanical">
+      <PageReference>LT78-84</PageReference>
+    </Child>
+    <Child ReferenceText="personal">
+      <PageReference>LT83-84</PageReference>
+    </Child>
+    <Child ReferenceText="tables">
+      <PageReference>LT81-83</PageReference>
+      <PageReference>LT88</PageReference>
+      <PageReference>LT89</PageReference>
+    </Child>
+    <Child ReferenceText="ammunition">
+      <PageReference>LT82</PageReference>
+      <PageReference>LT84</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Atlatls">
+    <PageReference>LT72</PageReference>
+    <PageReference>LT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Axes">
+    <PageReference>LT54</PageReference>
+    <PageReference>LT65</PageReference>
+    <PageReference>LT70</PageReference>
+    <Child ReferenceText="great">
+      <PageReference>LT56</PageReference>
+      <PageReference>LT70</PageReference>
+    </Child>
+    <Child ReferenceText="long">
+      <PageReference>LT58</PageReference>
+      <PageReference>LT70</PageReference>
+    </Child>
+    <Child ReferenceText="small">
+      <PageReference>LT65</PageReference>
+    </Child>
+    <Child ReferenceText="throwing">
+      <PageReference>LT64</PageReference>
+      <PageReference>LT65</PageReference>
+      <PageReference>LT70</PageReference>
+      <PageReference>LT77</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Balisongs">
+    <PageReference>LT54</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ballistae">
+    <PageReference>LT80</PageReference>
+    <PageReference>LT82</PageReference>
+    <PageReference>LT83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Batons">
+    <PageReference>LT54</PageReference>
+    <PageReference>LT67</PageReference>
+    <PageReference>LT69</PageReference>
+    <PageReference>LT72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bayonets">
+    <PageReference>LT54-55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beam slings">
+    <PageReference>LT81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bills">
+    <PageReference>LT55</PageReference>
+    <PageReference>LT68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blackjacks">
+    <PageReference>LT55</PageReference>
+    <PageReference>LT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Black-powder weapons">
+    <PageReference>LT85-87</PageReference>
+    <SeeAlso>Black Powder in the main index</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bladed hands">
+    <PageReference>LT55</PageReference>
+    <PageReference>LT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blowpipes">
+    <PageReference>LT72</PageReference>
+    <PageReference>LT76</PageReference>
+    <PageReference>LT84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blunderbusses">
+    <PageReference>LT92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bokken">
+    <PageReference>LT55</PageReference>
+    <PageReference>LT66</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bokuto">
+    <PageReference>LT55</PageReference>
+    <PageReference>LT64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bolas">
+    <PageReference>LT55</PageReference>
+    <PageReference>LT66</PageReference>
+    <PageReference>LT72</PageReference>
+    <PageReference>LT76</PageReference>
+    <Child ReferenceText="loca">
+      <PageReference>LT72</PageReference>
+    </Child>
+    <Child ReferenceText="perdida">
+      <PageReference>LT55</PageReference>
+      <PageReference>LT66</PageReference>
+      <PageReference>LT72</PageReference>
+      <PageReference>LT76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bombards">
+    <PageReference>LT87-88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bombs">
+    <PageReference>LT85-86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boomerangs">
+    <PageReference>LT72</PageReference>
+    <PageReference>LT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bows">
+    <PageReference>LT72</PageReference>
+    <SeeAlso>Arrows</SeeAlso>
+    <SeeAlso>Crossbows</SeeAlso>
+    <SeeAlso>Prodds</SeeAlso>
+    <Child ReferenceText="composite">
+      <PageReference>LT72</PageReference>
+      <PageReference>LT76</PageReference>
+    </Child>
+    <Child ReferenceText="long">
+      <PageReference>LT72</PageReference>
+      <PageReference>LT73</PageReference>
+      <PageReference>LT76</PageReference>
+    </Child>
+    <Child ReferenceText="reflex">
+      <PageReference>LT72</PageReference>
+      <PageReference>LT76</PageReference>
+    </Child>
+    <Child ReferenceText="self">
+      <PageReference>LT73</PageReference>
+    </Child>
+    <Child ReferenceText="short">
+      <PageReference>LT73</PageReference>
+      <PageReference>LT76</PageReference>
+    </Child>
+    <Child ReferenceText="ST and">
+      <PageReference>LT74</PageReference>
+    </Child>
+    <Child ReferenceText="tubular">
+      <PageReference>LT75</PageReference>
+      <PageReference>LT76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brass knuckles">
+    <PageReference>LT55</PageReference>
+    <PageReference>LT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Calivers">
+    <PageReference>LT92</PageReference>
+    <PageReference>LT93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caltrops">
+    <PageReference>LT63</PageReference>
+    <PageReference>LT123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Canes">
+    <PageReference>LT55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannon">
+    <PageReference>LT88-89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannonlocks">
+    <PageReference>LT90</PageReference>
+    <PageReference>LT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carbines">
+    <PageReference>LT92</PageReference>
+    <PageReference>LT93</PageReference>
+    <PageReference>LT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carroballistae">
+    <PageReference>LT80</PageReference>
+    <PageReference>LT82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catapults">
+    <PageReference>LT81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cavalry sabers">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cestus">
+    <PageReference>LT55</PageReference>
+    <PageReference>LT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chain whips">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chakram">
+    <PageReference>LT72</PageReference>
+    <PageReference>LT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cheiroballistra">
+    <PageReference>LT83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chung bong">
+    <PageReference>LT54</PageReference>
+    <PageReference>LT61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claymores">
+    <PageReference>LT56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloaks">
+    <PageReference>LT76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clubs">
+    <PageReference>LT55</PageReference>
+    <PageReference>LT59</PageReference>
+    <PageReference>LT60</PageReference>
+    <PageReference>LT64</PageReference>
+    <SeeAlso>Batons</SeeAlso>
+    <SeeAlso>Maces</SeeAlso>
+    <SeeAlso>Staves</SeeAlso>
+    <Child ReferenceText="knobbed">
+      <PageReference>LT58</PageReference>
+      <PageReference>LT65</PageReference>
+    </Child>
+    <Child ReferenceText="light">
+      <PageReference>LT58</PageReference>
+      <PageReference>LT65</PageReference>
+    </Child>
+    <Child ReferenceText="thonged">
+      <PageReference>LT62</PageReference>
+      <PageReference>LT66</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat fans">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combustibles">
+    <PageReference>LT84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combustion-based weapons">
+    <PageReference>LT84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crapaudeaus">
+    <PageReference>LT87</PageReference>
+    <PageReference>LT88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossbows">
+    <PageReference>LT72</PageReference>
+    <PageReference>LT76</PageReference>
+    <SeeAlso>Arrows</SeeAlso>
+    <SeeAlso>Bows</SeeAlso>
+    <SeeAlso>Prodds</SeeAlso>
+    <Child ReferenceText="climbing">
+      <PageReference>LT125</PageReference>
+    </Child>
+    <Child ReferenceText="composite">
+      <PageReference>LT72</PageReference>
+      <PageReference>LT76</PageReference>
+    </Child>
+    <Child ReferenceText="pistol">
+      <PageReference>LT73</PageReference>
+      <PageReference>LT76</PageReference>
+    </Child>
+    <Child ReferenceText="repeating">
+      <PageReference>LT73</PageReference>
+      <PageReference>LT76</PageReference>
+    </Child>
+    <Child ReferenceText="slurbow">
+      <PageReference>LT74</PageReference>
+      <PageReference>LT76</PageReference>
+    </Child>
+    <Child ReferenceText="ST and">
+      <PageReference>LT74</PageReference>
+    </Child>
+    <Child ReferenceText="steel">
+      <PageReference>LT74</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutlasses">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT65</PageReference>
+    <PageReference>LT69</PageReference>
+    <SeeAlso>Swords</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Daggers">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT67</PageReference>
+    <PageReference>LT77</PageReference>
+    <SeeAlso>Knives</SeeAlso>
+    <SeeAlso>Stilettos</SeeAlso>
+    <Child ReferenceText="other variations">
+      <PageReference>LT59</PageReference>
+      <PageReference>LT60</PageReference>
+    </Child>
+    <Child ReferenceText="rondel">
+      <PageReference>LT61</PageReference>
+      <PageReference>LT67</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Daos">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Darts">
+    <PageReference>LT72</PageReference>
+    <PageReference>LT74</PageReference>
+    <PageReference>LT77</PageReference>
+    <Child ReferenceText="slings">
+      <PageReference>LT74</PageReference>
+      <PageReference>LT76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Deer antlers">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defence guns">
+    <PageReference>LT92-93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dusack">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Erupters">
+    <PageReference>LT86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Estoc">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Falchions">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT65</PageReference>
+    <PageReference>LT69</PageReference>
+    <SeeAlso>Swords</SeeAlso>
+    <Child ReferenceText="variations">
+      <PageReference>LT58</PageReference>
+      <PageReference>LT59</PageReference>
+      <PageReference>LT61</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Falx">
+    <PageReference>LT61</PageReference>
+    <PageReference>LT62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fans, combat">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire-lances">
+    <PageReference>LT86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire-siphons">
+    <PageReference>LT84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearms">
+    <PageReference>LT90</PageReference>
+    <PageReference>LT91-94</PageReference>
+    <SeeAlso>the main index</SeeAlso>
+    <Child ReferenceText="ammunition">
+      <PageReference>LT87</PageReference>
+      <PageReference>LT91</PageReference>
+      <PageReference>LT95</PageReference>
+    </Child>
+    <Child ReferenceText="design">
+      <PageReference>LT90-91</PageReference>
+    </Child>
+    <Child ReferenceText="tables">
+      <PageReference>LT91-94</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flails">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flamethrowers">
+    <PageReference>LT86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flintlocks">
+    <PageReference>LT90</PageReference>
+    <PageReference>LT92-94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fusils">
+    <PageReference>LT92</PageReference>
+    <PageReference>LT93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gada">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Garrotes">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gastraphetes">
+    <PageReference>LT72</PageReference>
+    <PageReference>LT76</PageReference>
+    <PageReference>LT78</PageReference>
+    <PageReference>LT80</PageReference>
+    <PageReference>LT82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glaives">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gonnes">
+    <PageReference>LT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greek fire">
+    <PageReference>LT84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns">
+    <PageReference>LT87</PageReference>
+    <PageReference>LT88</PageReference>
+    <SeeAlso>Artillery</SeeAlso>
+    <SeeAlso>Firearms</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Haladies">
+    <PageReference>LT56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Halberds">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Harpoons">
+    <PageReference>LT72</PageReference>
+    <PageReference>LT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hatchets">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT65</PageReference>
+    <PageReference>LT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heavy weapons">
+    <PageReference>LT79-83</PageReference>
+    <Child ReferenceText="crew size">
+      <PageReference>LT81</PageReference>
+    </Child>
+    <Child ReferenceText="directfire">
+      <PageReference>LT79-80</PageReference>
+    </Child>
+    <Child ReferenceText="indirectfire">
+      <PageReference>LT80-81</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>LT81-82</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Horse-cutters">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hungamunga">
+    <PageReference>LT72</PageReference>
+    <PageReference>LT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iklwa">
+    <PageReference>LT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvised weapons">
+    <PageReference>LT9</PageReference>
+    <PageReference>LT63</PageReference>
+    <SeeAlso>Oar</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Incendiaries">
+    <PageReference>LT84</PageReference>
+    <SeeAlso>Bombs</SeeAlso>
+    <Child ReferenceText="spheres">
+      <PageReference>LT85</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Javelins">
+    <PageReference>LT57</PageReference>
+    <PageReference>LT69</PageReference>
+    <PageReference>LT72</PageReference>
+    <PageReference>LT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jians">
+    <PageReference>LT57</PageReference>
+    <PageReference>LT66</PageReference>
+    <PageReference>LT68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jittes">
+    <PageReference>LT57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jos">
+    <PageReference>LT57</PageReference>
+    <PageReference>LT69</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Juttes">
+    <PageReference>LT57</PageReference>
+    <PageReference>LT65-67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kakute">
+    <PageReference>LT57</PageReference>
+    <PageReference>LT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Katanas">
+    <PageReference>LT57</PageReference>
+    <PageReference>LT66</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Katar">
+    <PageReference>LT57</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Katzbalgers">
+    <PageReference>LT55</PageReference>
+    <PageReference>LT61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Khopesh">
+    <PageReference>LT57</PageReference>
+    <PageReference>LT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knife-wheels">
+    <PageReference>LT58</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knives">
+    <PageReference>LT58</PageReference>
+    <PageReference>LT67</PageReference>
+    <PageReference>LT69</PageReference>
+    <SeeAlso>Daggers</SeeAlso>
+    <SeeAlso>Stilettos</SeeAlso>
+    <Child ReferenceText="throwing">
+      <PageReference>LT75</PageReference>
+      <PageReference>LT77</PageReference>
+    </Child>
+    <Child ReferenceText="variations">
+      <PageReference>LT54-56</PageReference>
+      <PageReference>LT59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kris">
+    <PageReference>LT58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kukri">
+    <PageReference>LT58</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kusari">
+    <PageReference>LT58</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kusarigama">
+    <PageReference>LT58</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kusarijutte">
+    <PageReference>LT58</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lajatang">
+    <PageReference>LT58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lances">
+    <PageReference>LT58</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lariats">
+    <PageReference>LT76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maces">
+    <PageReference>LT58</PageReference>
+    <PageReference>LT65</PageReference>
+    <PageReference>LT70</PageReference>
+    <PageReference>LT77</PageReference>
+    <SeeAlso>Clubs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Machetes">
+    <PageReference>LT58</PageReference>
+    <SeeAlso>Swords</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Macuahuilzoctli">
+    <PageReference>LT59</PageReference>
+    <PageReference>LT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Macuahuitl">
+    <PageReference>LT59</PageReference>
+    <PageReference>LT65</PageReference>
+    <PageReference>LT69</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Main-gauches">
+    <PageReference>LT59</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Matchlocks">
+    <PageReference>LT90</PageReference>
+    <PageReference>LT92</PageReference>
+    <PageReference>LT93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mauls">
+    <PageReference>LT59</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee weapons">
+    <PageReference>LT54-71</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>LT64-71</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Metsubushi">
+    <PageReference>LT72-73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Midfa">
+    <PageReference>LT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mines, land">
+    <PageReference>LT86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miséricordes">
+    <PageReference>LT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missile weapons (musclepowered)">
+    <PageReference>LT72-78</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>LT75-78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Monankon">
+    <PageReference>LT81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monk’s spades">
+    <PageReference>LT59</PageReference>
+    <PageReference>LT68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Morningstars">
+    <PageReference>LT59</PageReference>
+    <PageReference>LT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Muskets">
+    <PageReference>LT63</PageReference>
+    <PageReference>LT92-93</PageReference>
+    <Child ReferenceText="rest">
+      <PageReference>LT96</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>LT93</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Myrmex">
+    <PageReference>LT59</PageReference>
+    <PageReference>LT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naginata">
+    <PageReference>LT59</PageReference>
+    <PageReference>LT68</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nets">
+    <PageReference>LT59-60</PageReference>
+    <PageReference>LT76</PageReference>
+    <SeeAlso>the main index</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ngao">
+    <PageReference>LT59</PageReference>
+    <PageReference>LT62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nunchaku">
+    <PageReference>LT60</PageReference>
+    <PageReference>LT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oars">
+    <PageReference>LT60</PageReference>
+    <PageReference>LT68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Panjagan">
+    <PageReference>LT78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pao">
+    <PageReference>LT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Partisans">
+    <PageReference>LT60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pata">
+    <PageReference>LT60</PageReference>
+    <PageReference>LT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pedang">
+    <PageReference>LT55</PageReference>
+    <PageReference>LT61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Petards">
+    <PageReference>LT86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Petrobolos">
+    <PageReference>LT80</PageReference>
+    <PageReference>LT82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Petronel">
+    <PageReference>LT93</PageReference>
+    <PageReference>LT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Picks">
+    <PageReference>LT60</PageReference>
+    <PageReference>LT64</PageReference>
+    <PageReference>LT65</PageReference>
+    <Child ReferenceText="tool">
+      <PageReference>LT30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pikes">
+    <PageReference>LT55</PageReference>
+    <PageReference>LT60</PageReference>
+    <PageReference>LT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pilum">
+    <PageReference>LT73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pistols">
+    <PageReference>LT63</PageReference>
+    <PageReference>LT93-94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Polearms">
+    <PageReference>LT55</PageReference>
+    <PageReference>LT56</PageReference>
+    <PageReference>LT58-60</PageReference>
+    <PageReference>LT62</PageReference>
+    <PageReference>LT68</PageReference>
+    <Child ReferenceText="broken">
+      <PageReference>LT61</PageReference>
+    </Child>
+    <Child ReferenceText="makeshift">
+      <PageReference>LT60</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Poleaxes">
+    <PageReference>LT60</PageReference>
+    <PageReference>LT68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pollaxes">
+    <PageReference>LT60</PageReference>
+    <PageReference>LT68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Polybolos">
+    <PageReference>LT80</PageReference>
+    <PageReference>LT82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prodds">
+    <PageReference>LT73</PageReference>
+    <PageReference>LT76</PageReference>
+    <SeeAlso>Crossbows</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Puckle guns">
+    <PageReference>LT92-93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Qian kun ri yue daos">
+    <PageReference>LT60</PageReference>
+    <PageReference>LT65</PageReference>
+    <PageReference>LT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quadrens">
+    <PageReference>LT60</PageReference>
+    <PageReference>LT66</PageReference>
+    <PageReference>LT67</PageReference>
+    <PageReference>LT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quarterstaves">
+    <PageReference>LT61</PageReference>
+    <PageReference>LT69</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged weapons, musclepowered">
+    <PageReference>LT72-78</PageReference>
+    <SeeAlso>Artillery</SeeAlso>
+    <SeeAlso>Firearms</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapiers">
+    <PageReference>LT61</PageReference>
+    <PageReference>LT66</PageReference>
+    <PageReference>LT68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rifles">
+    <PageReference>LT63</PageReference>
+    <PageReference>LT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rockets">
+    <PageReference>LT87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roman candle guns">
+    <PageReference>LT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rondel daggers">
+    <PageReference>LT61</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rope darts">
+    <PageReference>LT61</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sabers">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT61</PageReference>
+    <PageReference>LT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sai">
+    <PageReference>LT61</PageReference>
+    <PageReference>LT66</PageReference>
+    <PageReference>LT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scarves, weighted">
+    <PageReference>LT64</PageReference>
+    <PageReference>LT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scimitars">
+    <PageReference>LT61</PageReference>
+    <SeeAlso>Swords</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Scorpion ballistae">
+    <PageReference>LT80</PageReference>
+    <PageReference>LT82</PageReference>
+    <PageReference>LT83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scythes">
+    <PageReference>LT61</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <SeeAlso>the main index</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ships’ guns">
+    <PageReference>LT89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shotel">
+    <PageReference>LT62</PageReference>
+    <PageReference>LT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shotguns">
+    <PageReference>LT92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shurikens">
+    <PageReference>LT65</PageReference>
+    <PageReference>LT73</PageReference>
+    <PageReference>LT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sickles">
+    <PageReference>LT62</PageReference>
+    <PageReference>LT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slashing wheels">
+    <PageReference>LT62</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slings">
+    <PageReference>LT74</PageReference>
+    <PageReference>LT76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slurbows">
+    <PageReference>LT74</PageReference>
+    <PageReference>LT76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sodegarami">
+    <PageReference>LT62</PageReference>
+    <PageReference>LT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spears">
+    <PageReference>LT62</PageReference>
+    <PageReference>LT69</PageReference>
+    <PageReference>LT77</PageReference>
+    <SeeAlso>Javelins</SeeAlso>
+    <SeeAlso>Pikes</SeeAlso>
+    <SeeAlso>Polearms</SeeAlso>
+    <Child ReferenceText="variations">
+      <PageReference>LT54</PageReference>
+      <PageReference>LT57</PageReference>
+      <PageReference>LT58</PageReference>
+      <PageReference>LT60</PageReference>
+      <PageReference>LT62</PageReference>
+      <PageReference>LT72</PageReference>
+      <PageReference>LT73</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Springalds">
+    <PageReference>LT80</PageReference>
+    <PageReference>LT82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stakes, wooden">
+    <PageReference>LT64</PageReference>
+    <PageReference>LT67</PageReference>
+    <PageReference>LT77</PageReference>
+    <SeeAlso>Spears</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Staves">
+    <SeeAlso>Batons</SeeAlso>
+    <SeeAlso>Clubs</SeeAlso>
+    <SeeAlso>Polearms</SeeAlso>
+    <Child ReferenceText="other variations">
+      <PageReference>LT55</PageReference>
+      <PageReference>LT62</PageReference>
+    </Child>
+    <Child ReferenceText="quarter">
+      <PageReference>LT61</PageReference>
+      <PageReference>LT69</PageReference>
+      <PageReference>LT70</PageReference>
+    </Child>
+    <Child ReferenceText="short">
+      <PageReference>LT55</PageReference>
+      <PageReference>LT61</PageReference>
+      <PageReference>LT69</PageReference>
+    </Child>
+    <Child ReferenceText="slings">
+      <PageReference>LT74</PageReference>
+      <PageReference>LT76</PageReference>
+    </Child>
+    <Child ReferenceText="threepart">
+      <PageReference>LT62</PageReference>
+      <PageReference>LT70</PageReference>
+    </Child>
+    <Child ReferenceText="long">
+      <PageReference>LT61</PageReference>
+      <PageReference>LT69</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sticks">
+    <SeeAlso>Batons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Stilettos">
+    <PageReference>LT62</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stone-launching sticks">
+    <PageReference>LT74</PageReference>
+    <PageReference>LT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swivel-guns">
+    <PageReference>LT88</PageReference>
+    <PageReference>LT89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swords">
+    <SeeAlso>Cutlasses</SeeAlso>
+    <SeeAlso>Falchions</SeeAlso>
+    <SeeAlso>Rapiers</SeeAlso>
+    <SeeAlso>Sabers</SeeAlso>
+    <Child ReferenceText="bastard">
+      <PageReference>LT54</PageReference>
+      <PageReference>LT65</PageReference>
+      <PageReference>LT66</PageReference>
+      <PageReference>LT70</PageReference>
+    </Child>
+    <Child ReferenceText="broad">
+      <PageReference>LT55</PageReference>
+      <PageReference>LT65</PageReference>
+    </Child>
+    <Child ReferenceText="great">
+      <PageReference>LT56</PageReference>
+      <PageReference>LT70</PageReference>
+    </Child>
+    <Child ReferenceText="hook">
+      <PageReference>LT56</PageReference>
+      <PageReference>LT65</PageReference>
+      <PageReference>LT66</PageReference>
+    </Child>
+    <Child ReferenceText="long">
+      <PageReference>LT58</PageReference>
+      <PageReference>LT66</PageReference>
+      <PageReference>LT70</PageReference>
+    </Child>
+    <Child ReferenceText="other variations">
+      <PageReference>LT56</PageReference>
+      <PageReference>LT57</PageReference>
+      <PageReference>LT60-62</PageReference>
+      <PageReference>LT64</PageReference>
+    </Child>
+    <Child ReferenceText="short">
+      <PageReference>LT61</PageReference>
+      <PageReference>LT69</PageReference>
+    </Child>
+    <Child ReferenceText="small">
+      <PageReference>LT62</PageReference>
+      <PageReference>LT69</PageReference>
+    </Child>
+    <Child ReferenceText="wooden">
+      <PageReference>LT55</PageReference>
+      <PageReference>LT56</PageReference>
+      <PageReference>LT64</PageReference>
+    </Child>
+    <Child ReferenceText="back">
+      <PageReference>LT54</PageReference>
+      <PageReference>LT65</PageReference>
+      <PageReference>LT66</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="bombards">
+      <PageReference>LT88</PageReference>
+    </Child>
+    <Child ReferenceText="cannon">
+      <PageReference>LT89</PageReference>
+    </Child>
+    <Child ReferenceText="firearms">
+      <PageReference>LT91-94</PageReference>
+    </Child>
+    <Child ReferenceText="flamethrowers">
+      <PageReference>LT86</PageReference>
+    </Child>
+    <Child ReferenceText="gonnes">
+      <PageReference>LT91</PageReference>
+    </Child>
+    <Child ReferenceText="heavy weapons">
+      <PageReference>LT81-82</PageReference>
+    </Child>
+    <Child ReferenceText="mechanical artillery">
+      <PageReference>LT81-82</PageReference>
+    </Child>
+    <Child ReferenceText="melee weapons">
+      <PageReference>LT64-71</PageReference>
+    </Child>
+    <Child ReferenceText="muscle-powered ranged weapons">
+      <PageReference>LT75-78</PageReference>
+    </Child>
+    <Child ReferenceText="muskets">
+      <PageReference>LT93</PageReference>
+    </Child>
+    <Child ReferenceText="personal artillery">
+      <PageReference>LT83</PageReference>
+    </Child>
+    <Child ReferenceText="pistols">
+      <PageReference>LT94</PageReference>
+    </Child>
+    <Child ReferenceText="rifles">
+      <PageReference>LT94</PageReference>
+    </Child>
+    <Child ReferenceText="shotguns">
+      <PageReference>LT92</PageReference>
+    </Child>
+    <Child ReferenceText="blunderbusses">
+      <PageReference>LT92</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tachi">
+    <PageReference>LT62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tantsutsu">
+    <PageReference>LT93</PageReference>
+    <PageReference>LT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tebutje">
+    <PageReference>LT62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tepoztopilli">
+    <PageReference>LT62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teppos">
+    <PageReference>LT92</PageReference>
+    <PageReference>LT93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tetsubos">
+    <PageReference>LT62</PageReference>
+    <PageReference>LT70</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thonged clubs">
+    <PageReference>LT62</PageReference>
+    <PageReference>LT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throwing">
+    <Child ReferenceText="darts">
+      <PageReference>LT74</PageReference>
+      <PageReference>LT77</PageReference>
+    </Child>
+    <Child ReferenceText="knives">
+      <PageReference>LT75</PageReference>
+      <PageReference>LT77</PageReference>
+    </Child>
+    <Child ReferenceText="sticks">
+      <PageReference>LT75</PageReference>
+      <PageReference>LT77</PageReference>
+    </Child>
+    <Child ReferenceText="axes">
+      <PageReference>LT64</PageReference>
+      <PageReference>LT65</PageReference>
+      <PageReference>LT70</PageReference>
+      <PageReference>LT77</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tomahawks">
+    <PageReference>LT64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tonfas">
+    <PageReference>LT64</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trebuchet">
+    <PageReference>LT81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tridents">
+    <PageReference>LT64</PageReference>
+    <PageReference>LT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Truncheons">
+    <PageReference>LT64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Urumi">
+    <PageReference>LT64</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Veuglaires">
+    <PageReference>LT87</PageReference>
+    <PageReference>LT92</PageReference>
+    <PageReference>LT93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warhammers">
+    <PageReference>LT64</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <SeeAlso>Artillery</SeeAlso>
+    <SeeAlso>Firearms</SeeAlso>
+    <SeeAlso>Melee Weapons</SeeAlso>
+    <SeeAlso>Missile Weapons in the Weaponry Index</SeeAlso>
+    <SeeAlso>and Weapons in the main index</SeeAlso>
+    <Child ReferenceText="composition">
+      <PageReference>LT71</PageReference>
+    </Child>
+    <Child ReferenceText="improvised">
+      <PageReference>LT9</PageReference>
+      <PageReference>LT60</PageReference>
+      <PageReference>LT63</PageReference>
+    </Child>
+    <Child ReferenceText="combination">
+      <PageReference>LT14</PageReference>
+      <PageReference>LT54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weighted scarves">
+    <PageReference>LT64</PageReference>
+    <PageReference>LT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wheellocks">
+    <PageReference>LT90</PageReference>
+    <PageReference>LT92-94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wheels, slashing">
+    <PageReference>LT62</PageReference>
+    <PageReference>LT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whips">
+    <PageReference>LT56</PageReference>
+    <PageReference>LT64</PageReference>
+    <PageReference>LT67</PageReference>
+    <PageReference>LT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Winged tiger guns">
+    <PageReference>LT92</PageReference>
+    <PageReference>LT93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wooden">
+    <Child ReferenceText="swords">
+      <PageReference>LT55</PageReference>
+      <PageReference>LT56</PageReference>
+      <PageReference>LT64</PageReference>
+    </Child>
+    <Child ReferenceText="stakes">
+      <PageReference>LT64</PageReference>
+      <PageReference>LT67</PageReference>
+      <PageReference>LT77</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Woomera">
+    <PageReference>LT75</PageReference>
+    <PageReference>LT77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yawara">
+    <PageReference>LT64</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

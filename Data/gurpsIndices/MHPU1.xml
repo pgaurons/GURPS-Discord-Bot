@@ -1,0 +1,506 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Archery warrior lens">
+    <PageReference>MHPU1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archery! wildcard skill">
+    <PageReference>MHPU1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archetype (Lens) power-up">
+    <PageReference>MHPU1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blade Fencer perk">
+    <PageReference>MHPU1:21-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blurred Attack power-up">
+    <PageReference>MHPU1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bogon Stabilizer power-up">
+    <PageReference>MHPU1:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bullet With Your Name On It perk">
+    <PageReference>MHPU1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat power-ups">
+    <PageReference>MHPU1:6-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Commandos">
+    <Child ReferenceText="perks">
+      <PageReference>MHPU1:13</PageReference>
+    </Child>
+    <Child ReferenceText="power-ups">
+      <PageReference>MHPU1:13-14</PageReference>
+    </Child>
+    <Child ReferenceText="value">
+      <PageReference>MHPU1:23-24</PageReference>
+    </Child>
+    <Child ReferenceText="non-combat rule">
+      <PageReference>MHPU1:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts advantage">
+    <PageReference>MHPU1:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dead Horses Do Tell Tales power-up">
+    <PageReference>MHPU1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deductive Mastery power-up">
+    <PageReference>MHPU1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual-Weapon Fighting power-up">
+    <PageReference>MHPU1:6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual-Weapon Mastery power-up">
+    <PageReference>MHPU1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duck and Cover! power-up">
+    <PageReference>MHPU1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duct-Tape Bandage power-up">
+    <PageReference>MHPU1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Durability">
+    <PageReference>MHPU1:24</PageReference>
+    <PageReference>MHPU1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemy, The, available">
+    <PageReference>MHPU1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Critical perk">
+    <PageReference>MHPU1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equilibrist perk">
+    <PageReference>MHPU1:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Esoteric Material Bond perk 22" />
+  <IndexReference ReferenceText="EV pulse rifle">
+    <PageReference>MHPU1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fancy Meeting You Here! perk">
+    <PageReference>MHPU1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fight Smarter">
+    <Child ReferenceText="Not Harder perk">
+      <PageReference>MHPU1:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fist and foot warrior lens">
+    <PageReference>MHPU1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fist! Wildcard skill">
+    <PageReference>MHPU1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fixer power-up">
+    <PageReference>MHPU1:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <Child ReferenceText="new inventions">
+      <PageReference>MHPU1:25-26</PageReference>
+    </Child>
+    <Child ReferenceText="random tech names">
+      <PageReference>MHPU1:26</PageReference>
+    </Child>
+    <Child ReferenceText="kit-bashing">
+      <PageReference>MHPU1:23-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear Stash advantage">
+    <PageReference>MHPU1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="General power-ups">
+    <PageReference>MHPU1:6-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goldilocks Gear power-up">
+    <PageReference>MHPU1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greater Weapon Bond, power-up 7" />
+  <IndexReference ReferenceText="Gun Fu Mastery power-up">
+    <PageReference>MHPU1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>MHPU1:5</PageReference>
+    <PageReference>MHPU1:14</PageReference>
+    <Child ReferenceText="After the End 2: The New World">
+      <PageReference>MHPU1:3</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>MHPU1:3</PageReference>
+    </Child>
+    <Child ReferenceText="Gun Fu">
+      <PageReference>MHPU1:3</PageReference>
+      <PageReference>MHPU1:13</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>MHPU1:3</PageReference>
+      <PageReference>MHPU1:25</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>MHPU1:3</PageReference>
+      <PageReference>MHPU1:5</PageReference>
+      <PageReference>MHPU1:9</PageReference>
+      <PageReference>MHPU1:21</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters">
+      <PageReference>MHPU1:3</PageReference>
+      <PageReference>MHPU1:6</PageReference>
+      <PageReference>MHPU1:13</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 1: Champions">
+      <PageReference>MHPU1:3</PageReference>
+      <PageReference>MHPU1:6</PageReference>
+      <PageReference>MHPU1:7</PageReference>
+      <PageReference>MHPU1:10</PageReference>
+      <PageReference>MHPU1:11</PageReference>
+      <PageReference>MHPU1:13-15</PageReference>
+      <PageReference>MHPU1:19</PageReference>
+      <PageReference>MHPU1:20</PageReference>
+      <PageReference>MHPU1:26</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 2: The Mission">
+      <PageReference>MHPU1:3</PageReference>
+      <PageReference>MHPU1:11</PageReference>
+      <PageReference>MHPU1:12</PageReference>
+      <PageReference>MHPU1:15</PageReference>
+      <PageReference>MHPU1:24</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 3: The Enemy">
+      <PageReference>MHPU1:3</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 4: Sidekicks">
+      <PageReference>MHPU1:3</PageReference>
+      <PageReference>MHPU1:19</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 5: Applied Xenology">
+      <PageReference>MHPU1:3</PageReference>
+      <PageReference>MHPU1:6</PageReference>
+      <PageReference>MHPU1:15</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups">
+      <PageReference>MHPU1:5</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>MHPU1:3</PageReference>
+      <PageReference>MHPU1:17</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 8: Limitations">
+      <PageReference>MHPU1:3</PageReference>
+      <PageReference>MHPU1:10</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>MHPU1:5</PageReference>
+      <PageReference>MHPU1:12</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>MHPU1:5</PageReference>
+    </Child>
+    <Child ReferenceText="UltraTech">
+      <PageReference>MHPU1:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hands of a Healer perk">
+    <PageReference>MHPU1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hook Up perk">
+    <PageReference>MHPU1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunter Training power-up">
+    <PageReference>MHPU1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="I Don’t Need a Manual power-up">
+    <PageReference>MHPU1:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="I Got That! power-up">
+    <PageReference>MHPU1:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="I Have a Friend power-up">
+    <PageReference>MHPU1:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improviser power-up">
+    <PageReference>MHPU1:18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insider Glance perk">
+    <PageReference>MHPU1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inventions">
+    <Child ReferenceText="new">
+      <PageReference>MHPU1:25-26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="It’s Just a Scratch power-up">
+    <PageReference>MHPU1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kit-bashing">
+    <PageReference>MHPU1:23-24</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>MHPU1:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Knowledge Is The Best Defense perk">
+    <PageReference>MHPU1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Machine Intuition power-up">
+    <PageReference>MHPU1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mad Genius power-up">
+    <PageReference>MHPU1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical Expert power-up">
+    <PageReference>MHPU1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Make It Work perk">
+    <PageReference>MHPU1:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master Linguist power-up">
+    <PageReference>MHPU1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monster Expert power-up">
+    <PageReference>MHPU1:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <Child ReferenceText="available">
+      <PageReference>MHPU1:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="One With Your Weapon power-up">
+    <PageReference>MHPU1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <Child ReferenceText="wildcard">
+      <PageReference>MHPU1:5</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>MHPU1:11</PageReference>
+      <PageReference>MHPU1:13-15</PageReference>
+      <PageReference>MHPU1:17</PageReference>
+      <PageReference>MHPU1:20-22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power-ups">
+    <SeeAlso>specific types</SeeAlso>
+    <Child ReferenceText="buying">
+      <PageReference>MHPU1:4</PageReference>
+    </Child>
+    <Child ReferenceText="designing new">
+      <PageReference>MHPU1:5</PageReference>
+    </Child>
+    <Child ReferenceText="sidekicks and">
+      <PageReference>MHPU1:19</PageReference>
+    </Child>
+    <Child ReferenceText="sorting">
+      <PageReference>MHPU1:6</PageReference>
+    </Child>
+    <Child ReferenceText="special requirements">
+      <PageReference>MHPU1:4-5</PageReference>
+    </Child>
+    <Child ReferenceText="stacking">
+      <PageReference>MHPU1:6</PageReference>
+    </Child>
+    <Child ReferenceText="starting with">
+      <PageReference>MHPU1:4</PageReference>
+    </Child>
+    <Child ReferenceText="acquiring">
+      <PageReference>MHPU1:4-5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Precision Strike perk">
+    <PageReference>MHPU1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Professional power-ups">
+    <PageReference>MHPU1:13-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychotronic Gunner perk">
+    <PageReference>MHPU1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Push-Ups Make You Bulletproof power-up">
+    <PageReference>MHPU1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid">
+    <Child ReferenceText="#3/58: Urban Fantasy">
+      <PageReference>MHPU1:6</PageReference>
+    </Child>
+    <Child ReferenceText="#3/73: Monster Hunters II">
+      <PageReference>MHPU1:6</PageReference>
+    </Child>
+    <Child ReferenceText="#3/83: Alternate GURPS IV, #3/107: Monster Hunters III">
+      <PageReference>MHPU1:3</PageReference>
+    </Child>
+    <Child ReferenceText="#3/46: Weird Science">
+      <PageReference>MHPU1:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Shooting power-up">
+    <PageReference>MHPU1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quicksilver Strike power-up">
+    <PageReference>MHPU1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ready Steady power-up">
+    <PageReference>MHPU1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remarkably Unremarkable power-up">
+    <PageReference>MHPU1:16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rules">
+    <Child ReferenceText="new optional">
+      <PageReference>MHPU1:13</PageReference>
+      <PageReference>MHPU1:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Run and Gun power-up">
+    <PageReference>MHPU1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sage Advice perk">
+    <PageReference>MHPU1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sages">
+    <Child ReferenceText="power-ups">
+      <PageReference>MHPU1:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="power-ups for variants">
+      <PageReference>MHPU1:15</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>MHPU1:14-15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Semiautomagic Bullet perk">
+    <PageReference>MHPU1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharpshooter power-up">
+    <PageReference>MHPU1:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sidekicks">
+    <Child ReferenceText="power-ups and">
+      <PageReference>MHPU1:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayer’s Strike power-up">
+    <PageReference>MHPU1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleuths">
+    <Child ReferenceText="power-ups">
+      <PageReference>MHPU1:15-17</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>MHPU1:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sneaky Strike perk">
+    <PageReference>MHPU1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Networking advantage">
+    <PageReference>MHPU1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed Inventor power-up">
+    <PageReference>MHPU1:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed Researcher power-up">
+    <PageReference>MHPU1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steel in Hand perk">
+    <PageReference>MHPU1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="for new designs">
+      <PageReference>MHPU1:25-26</PageReference>
+    </Child>
+    <Child ReferenceText="kit-bashing time">
+      <PageReference>MHPU1:24</PageReference>
+    </Child>
+    <Child ReferenceText="tech names">
+      <PageReference>MHPU1:26</PageReference>
+    </Child>
+    <Child ReferenceText="Base Skill Penalty">
+      <PageReference>MHPU1:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech">
+    <Child ReferenceText="random names for">
+      <PageReference>MHPU1:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techies">
+    <Child ReferenceText="new inventions">
+      <PageReference>MHPU1:25-26</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>MHPU1:20</PageReference>
+    </Child>
+    <Child ReferenceText="power-ups">
+      <PageReference>MHPU1:17-20</PageReference>
+    </Child>
+    <Child ReferenceText="kit-bashing">
+      <PageReference>MHPU1:23-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <Child ReferenceText="wildcard">
+      <PageReference>MHPU1:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="The Hook Up perk">
+    <PageReference>MHPU1:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tough Guy power-up">
+    <PageReference>MHPU1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Training">
+    <Child ReferenceText="specialized">
+      <PageReference>MHPU1:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Under the hood">
+    <PageReference>MHPU1:9</PageReference>
+    <PageReference>MHPU1:12</PageReference>
+    <PageReference>MHPU1:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unique Technique perk">
+    <PageReference>MHPU1:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Utility">
+    <Child ReferenceText="power-ups">
+      <PageReference>MHPU1:10-12</PageReference>
+    </Child>
+    <Child ReferenceText="perk">
+      <PageReference>MHPU1:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Very Rapid Healing advantage">
+    <PageReference>MHPU1:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walking Against the Wind power-up">
+    <PageReference>MHPU1:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warriors">
+    <Child ReferenceText="perks">
+      <PageReference>MHPU1:21</PageReference>
+    </Child>
+    <Child ReferenceText="power-ups">
+      <PageReference>MHPU1:20-22</PageReference>
+    </Child>
+    <Child ReferenceText="lenses">
+      <PageReference>MHPU1:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Specialist power-up">
+    <PageReference>MHPU1:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard perks">
+    <Child ReferenceText="overview">
+      <PageReference>MHPU1:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard skills">
+    <Child ReferenceText="perks and">
+      <PageReference>MHPU1:10</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>MHPU1:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard techniques">
+    <Child ReferenceText="overview">
+      <PageReference>MHPU1:5</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

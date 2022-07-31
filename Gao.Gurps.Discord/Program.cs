@@ -104,7 +104,6 @@ namespace Gao.Gurps.Discord
             await _interactionService.AddModuleAsync(typeof(Slash.CalculationModule), _services);
 
             // Subscribe a handler to see if a message invokes a command.
-            _client.MessageReceived += HandleCommandAsync;
             _client.SlashCommandExecuted += HandleSlashCommandAsync;
         }
 
@@ -126,42 +125,6 @@ namespace Gao.Gurps.Discord
                 Dice.Roller.AddDailyUser(arg.User.Id);
             }
 
-        }
-
-        private async Task HandleCommandAsync(SocketMessage arg)
-        {
-            // Bail out if it's a System Message.
-            var msg = arg as SocketUserMessage;
-            if (msg == null) return;
-            if ((OptOutUtility.OptingOut(msg.Author.Id) & Model.OptOutOptions.Commands) == Model.OptOutOptions.Commands) return;
-
-            var prefix = PrefixUtility.GetPrefixFromChannelId(msg.Channel as SocketGuildChannel);
-
-            int pos = 0;
-
-#if DEBUG
-            if (msg.HasStringPrefix("🍆", ref pos))
-#else
-            if (msg.HasStringPrefix(prefix, ref pos) || msg.HasMentionPrefix(_client.CurrentUser, ref pos) )
-#endif
-            {
-                if (GuildBlockUtility.IsBlocked(msg.Channel as SocketGuildChannel))
-                {
-                    await msg.AddReactionAsync(new Emoji("👎"));
-                    return;
-                }
-                if (UserBlockUtility.IsBlocked(msg.Author.Id))
-                {
-                    await msg.AddReactionAsync(new Emoji("👎"));
-                    return;
-                }
-                var context = new SocketCommandContext(_client, msg);
-                var result = await _commands.ExecuteAsync(context, pos, _services);
-                if(result.IsSuccess)
-                {
-                    Dice.Roller.AddDailyUser(msg.Author.Id);
-                }
-            }
         }
 
         private static Task Logger(LogMessage message)

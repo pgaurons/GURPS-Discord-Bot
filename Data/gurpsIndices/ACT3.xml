@@ -1,0 +1,579 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Acrobat template option">
+    <PageReference>ACT3:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatic Feints perk">
+    <PageReference>ACT3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatic Kicks perk">
+    <PageReference>ACT3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatic Stand">
+    <Child ReferenceText="technique">
+      <PageReference>ACT3:16</PageReference>
+    </Child>
+    <Child ReferenceText="combat maneuver">
+      <PageReference>ACT3:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatics combat options">
+    <PageReference>ACT3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>ACT3:13-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arm Lock technique">
+    <PageReference>ACT3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arm ST advantage">
+    <PageReference>ACT3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Athlete lens">
+    <PageReference>ACT3:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Back Kick technique">
+    <PageReference>ACT3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balancing technique">
+    <PageReference>ACT3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banter">
+    <PageReference>ACT3:23</PageReference>
+    <PageReference>ACT3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bear Hug combat maneuver">
+    <PageReference>ACT3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Big Guy template">
+    <PageReference>ACT3:5-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bonk! combat maneuver">
+    <PageReference>ACT3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boxer template option">
+    <PageReference>ACT3:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brotherhood in Blue campaign type">
+    <PageReference>ACT3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bruce Lee template option">
+    <PageReference>ACT3:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bulletproof advice">
+    <PageReference>ACT3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buying success">
+    <PageReference>ACT3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Calculating damage">
+    <PageReference>ACT3:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaign types">
+    <PageReference>ACT3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caper campaign type">
+    <PageReference>ACT3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chases">
+    <PageReference>ACT3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Choke Hold technique">
+    <PageReference>ACT3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cinematic combat rules">
+    <PageReference>ACT3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claws advantage">
+    <PageReference>ACT3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothes and weapons">
+    <PageReference>ACT3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Pole-Vaulting perk">
+    <PageReference>ACT3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat rules">
+    <PageReference>ACT3:23-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Commandos campaign type">
+    <PageReference>ACT3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compact Frame perk">
+    <PageReference>ACT3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Convincing gunmen not to shoot">
+    <PageReference>ACT3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cowpoker perk">
+    <PageReference>ACT3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminal lens">
+    <PageReference>ACT3:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Resistance advantage">
+    <PageReference>ACT3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage">
+    <Child ReferenceText="calculating">
+      <PageReference>ACT3:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Deadly poison">
+    <PageReference>ACT3:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deadly Pose perk">
+    <PageReference>ACT3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dirty Fighting perk">
+    <PageReference>ACT3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disappear technique">
+    <PageReference>ACT3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disarming technique">
+    <PageReference>ACT3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disguised weapons">
+    <PageReference>ACT3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dive n’ Roll technique">
+    <PageReference>ACT3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dodging">
+    <PageReference>ACT3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Don’t Shoot! combat maneuver">
+    <PageReference>ACT3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dressing to kill">
+    <PageReference>ACT3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual-Weapon Attack technique">
+    <PageReference>ACT3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elbow Drop technique">
+    <PageReference>ACT3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elbow Strike technique">
+    <PageReference>ACT3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Defenses advantage">
+    <PageReference>ACT3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evade technique">
+    <PageReference>ACT3:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Excrimador template option">
+    <PageReference>ACT3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Attack advantage">
+    <PageReference>ACT3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Effort in combat">
+    <PageReference>ACT3:23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Steps combat option">
+    <PageReference>ACT3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast Guy template">
+    <PageReference>ACT3:6-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Draw skill">
+    <PageReference>ACT3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feint technique">
+    <PageReference>ACT3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fencer template option">
+    <PageReference>ACT3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fine-quality weapons">
+    <PageReference>ACT3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Finishing Move perk">
+    <PageReference>ACT3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Finishing moves suggestions">
+    <PageReference>ACT3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fists in a gunfight">
+    <Child ReferenceText="options">
+      <PageReference>ACT3:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying Jump Kick technique">
+    <PageReference>ACT3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flury of Blows combat option">
+    <PageReference>ACT3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Focused Fury perk">
+    <PageReference>ACT3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Free runner template option">
+    <PageReference>ACT3:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost template option">
+    <PageReference>ACT3:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ground Fighting technique">
+    <PageReference>ACT3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunfights and martial artists">
+    <Child ReferenceText="options">
+      <PageReference>ACT3:24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Action">
+    <PageReference>ACT3:3</PageReference>
+    <PageReference>ACT3:6</PageReference>
+    <PageReference>ACT3:16</PageReference>
+    <PageReference>ACT3:22</PageReference>
+    <PageReference>ACT3:25</PageReference>
+    <Child ReferenceText="Action 1: Heroes">
+      <PageReference>ACT3:3</PageReference>
+      <PageReference>ACT3:4</PageReference>
+      <PageReference>ACT3:5</PageReference>
+      <PageReference>ACT3:6</PageReference>
+      <PageReference>ACT3:7</PageReference>
+      <PageReference>ACT3:8</PageReference>
+      <PageReference>ACT3:9</PageReference>
+      <PageReference>ACT3:10</PageReference>
+      <PageReference>ACT3:11</PageReference>
+      <PageReference>ACT3:14</PageReference>
+      <PageReference>ACT3:15</PageReference>
+      <PageReference>ACT3:20</PageReference>
+    </Child>
+    <Child ReferenceText="Action 2: Exploits">
+      <PageReference>ACT3:3</PageReference>
+      <PageReference>ACT3:14-16</PageReference>
+      <PageReference>ACT3:18</PageReference>
+      <PageReference>ACT3:19</PageReference>
+      <PageReference>ACT3:23</PageReference>
+      <PageReference>ACT3:24</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>ACT3:14</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>ACT3:3</PageReference>
+      <PageReference>ACT3:13</PageReference>
+      <PageReference>ACT3:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Martial Arts">
+    <Child ReferenceText="suggestions for using">
+      <PageReference>ACT3:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="High-Heeled Heroine perk">
+    <PageReference>ACT3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High-Heeled Hurt perk">
+    <PageReference>ACT3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holdout penalty and clothing">
+    <PageReference>ACT3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intelligence lens">
+    <PageReference>ACT3:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron Hands perk">
+    <PageReference>ACT3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jump Kick technique">
+    <PageReference>ACT3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kayo combat maneuver">
+    <PageReference>ACT3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kicking technique">
+    <PageReference>ACT3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knee Strike technique">
+    <PageReference>ACT3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knife-fighter template option">
+    <PageReference>ACT3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knockout poison">
+    <PageReference>ACT3:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Law enforcement lens">
+    <PageReference>ACT3:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leg Lock technique">
+    <PageReference>ACT3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <PageReference>ACT3:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lethal Kick technique">
+    <PageReference>ACT3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lethal Strike technique">
+    <PageReference>ACT3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifting ST advantage">
+    <PageReference>ACT3:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial-arts master lens">
+    <PageReference>ACT3:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial-arts">
+    <Child ReferenceText="ranged weapon table">
+      <PageReference>ACT3:22</PageReference>
+    </Child>
+    <Child ReferenceText="melee weapon table">
+      <PageReference>ACT3:20-22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee weapons">
+    <PageReference>ACT3:20-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mercs campaign type">
+    <PageReference>ACT3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mighty Blows combat option">
+    <PageReference>ACT3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military lens">
+    <PageReference>ACT3:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mister Pain template option">
+    <PageReference>ACT3:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mixed martial artist template option">
+    <PageReference>ACT3:6</PageReference>
+    <PageReference>ACT3:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monkey template option">
+    <PageReference>ACT3:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple Fast-Draws">
+    <PageReference>ACT3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neck Snap technique">
+    <PageReference>ACT3:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja">
+    <Child ReferenceText="suit">
+      <PageReference>ACT3:20</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>ACT3:8-9</PageReference>
+    </Child>
+    <Child ReferenceText="advantage for">
+      <PageReference>ACT3:14-15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="No lens">
+    <PageReference>ACT3:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parkour (PK)">
+    <PageReference>ACT3:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>ACT3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Piledriver technique">
+    <PageReference>ACT3:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poison">
+    <PageReference>ACT3:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Proxy Fighting technique">
+    <PageReference>ACT3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Punk template option">
+    <PageReference>ACT3:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pushing luck">
+    <PageReference>ACT3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quality of weapons">
+    <PageReference>ACT3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged Rapid Strike combat maneuver">
+    <PageReference>ACT3:24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged weapons">
+    <PageReference>ACT3:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rappelling technique">
+    <PageReference>ACT3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rassler template option">
+    <PageReference>ACT3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retain Weapon technique">
+    <PageReference>ACT3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rich adventure lens">
+    <PageReference>ACT3:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roll with Blow technique">
+    <PageReference>ACT3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rope Up technique">
+    <PageReference>ACT3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Running Climb technique">
+    <PageReference>ACT3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Samurai template option">
+    <PageReference>ACT3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sarge template option">
+    <PageReference>ACT3:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scaling technique">
+    <PageReference>ACT3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Security lens">
+    <PageReference>ACT3:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silent death template option">
+    <PageReference>ACT3:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skidding technique">
+    <PageReference>ACT3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skull-smashing">
+    <PageReference>ACT3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sliding technique">
+    <PageReference>ACT3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slugger template option">
+    <PageReference>ACT3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sneaky fighting">
+    <PageReference>ACT3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spinning Kick technique">
+    <PageReference>ACT3:18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spinning Punch technique">
+    <PageReference>ACT3:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spinning technique">
+    <PageReference>ACT3:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spy vs">
+    <Child ReferenceText="Spy campaign type">
+      <PageReference>ACT3:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stamp Kick technique">
+    <PageReference>ACT3:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Streetfighter template option">
+    <PageReference>ACT3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Striker advantage">
+    <PageReference>ACT3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Striking ST advantage">
+    <PageReference>ACT3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Styled weapons">
+    <PageReference>ACT3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sumotori template option">
+    <PageReference>ACT3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sweeping Kick technique">
+    <PageReference>ACT3:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talent advantage">
+    <PageReference>ACT3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talking in combat">
+    <PageReference>ACT3:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Task Force campaign type">
+    <PageReference>ACT3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <PageReference>ACT3:16-19</PageReference>
+    <Child ReferenceText="as new combat options">
+      <PageReference>ACT3:25</PageReference>
+    </Child>
+    <Child ReferenceText="suitable for finishing moves">
+      <PageReference>ACT3:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techno-ninja template option">
+    <PageReference>ACT3:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <PageReference>ACT3:5-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toe Flip technique">
+    <PageReference>ACT3:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traceur template">
+    <PageReference>ACT3:9-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trademark Move perk">
+    <PageReference>ACT3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trained by a Master advantage">
+    <PageReference>ACT3:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Troubleshooters campaign type">
+    <PageReference>ACT3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tumbling">
+    <PageReference>ACT3:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uppercut technique">
+    <PageReference>ACT3:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Urban Explorer template option">
+    <PageReference>ACT3:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Urban Jungle Gym perk">
+    <PageReference>ACT3:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Very fine-quality weapons">
+    <PageReference>ACT3:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Very Rapid Strike combat maneuver">
+    <PageReference>ACT3:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vigilante Justice campaign type">
+    <PageReference>ACT3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="War Against Terror campaign type">
+    <PageReference>ACT3:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warrior of the night template option">
+    <PageReference>ACT3:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Master">
+    <Child ReferenceText="template">
+      <PageReference>ACT3:11-12</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>ACT3:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>ACT3:20-22</PageReference>
+    <Child ReferenceText="clothing and">
+      <PageReference>ACT3:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wise Master lens">
+    <PageReference>ACT3:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrench (Limb) technique">
+    <PageReference>ACT3:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zeroed (Ninja) advantage">
+    <PageReference>ACT3:14-15</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

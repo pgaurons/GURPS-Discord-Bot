@@ -1,0 +1,477 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Accommodations (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventurers’ guilds">
+    <PageReference>DF17:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies advantage">
+    <PageReference>DF17:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aristocracy">
+    <Child ReferenceText="noble courts">
+      <PageReference>DF17:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="Status">
+      <PageReference>DF17:6</PageReference>
+    </Child>
+    <Child ReferenceText="“blood will tell” bonus">
+      <PageReference>DF17:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artifact (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assistance">
+    <SeeAlso>specific guilds</SeeAlso>
+    <Child ReferenceText="sample">
+      <PageReference>DF17:8</PageReference>
+    </Child>
+    <Child ReferenceText="making requests">
+      <PageReference>DF17:7-8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Assistance roll (AR)">
+    <Child ReferenceText="modifiers">
+      <PageReference>DF17:7</PageReference>
+    </Child>
+    <Child ReferenceText="defined">
+      <PageReference>DF17:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Augury (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Backup (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blessings (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Blood will tell” bonus">
+    <PageReference>DF17:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claim to Hospitality advantage">
+    <PageReference>DF17:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical Investment advantage">
+    <PageReference>DF17:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor disadvantage">
+    <PageReference>DF17:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Congregations">
+    <PageReference>DF17:10-11</PageReference>
+    <Child ReferenceText="martialarts">
+      <PageReference>DF17:11</PageReference>
+    </Child>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Craft guilds">
+    <PageReference>DF17:12-13</PageReference>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Delving companies">
+    <PageReference>DF17:13-14</PageReference>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Extended families">
+    <PageReference>DF17:14-15</PageReference>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fanaticism disadvantage">
+    <PageReference>DF17:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Favor (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Geography terms">
+    <PageReference>DF17:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guilds">
+    <SeeAlso>specific guilds</SeeAlso>
+    <Child ReferenceText="cants">
+      <PageReference>DF17:9</PageReference>
+    </Child>
+    <Child ReferenceText="defined">
+      <PageReference>DF17:4</PageReference>
+    </Child>
+    <Child ReferenceText="descriptions explained">
+      <PageReference>DF17:4</PageReference>
+    </Child>
+    <Child ReferenceText="jurisdiction">
+      <PageReference>DF17:9</PageReference>
+    </Child>
+    <Child ReferenceText="membership benefits">
+      <PageReference>DF17:7-9</PageReference>
+    </Child>
+    <Child ReferenceText="number of">
+      <PageReference>DF17:9</PageReference>
+    </Child>
+    <Child ReferenceText="potential rewards">
+      <PageReference>DF17:4</PageReference>
+    </Child>
+    <Child ReferenceText="related traits">
+      <PageReference>DF17:4-7</PageReference>
+    </Child>
+    <Child ReferenceText="sample assistance">
+      <PageReference>DF17:8-9</PageReference>
+    </Child>
+    <Child ReferenceText="size">
+      <PageReference>DF17:9</PageReference>
+    </Child>
+    <Child ReferenceText="special languages">
+      <PageReference>DF17:9</PageReference>
+    </Child>
+    <Child ReferenceText="aspects of">
+      <PageReference>DF17:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Boardroom and Curia">
+    <PageReference>DF17:3</PageReference>
+    <SeeAlso>Pyramid</SeeAlso>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DF17:4-6</PageReference>
+      <PageReference>DF17:9-13</PageReference>
+      <PageReference>DF17:15</PageReference>
+      <PageReference>DF17:20</PageReference>
+      <PageReference>DF17:24</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DF17:8</PageReference>
+      <PageReference>DF17:10</PageReference>
+      <PageReference>DF17:17</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DF17:4-6</PageReference>
+      <PageReference>DF17:13</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF17:5</PageReference>
+      <PageReference>DF17:6</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DF17:8</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 5: Allies">
+      <PageReference>DF17:5</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 7: Clerics">
+      <PageReference>DF17:11</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 8: Treasure Tables">
+      <PageReference>DF17:8</PageReference>
+      <PageReference>DF17:11</PageReference>
+      <PageReference>DF17:17</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 9: Summoners">
+      <PageReference>DF17:5</PageReference>
+      <PageReference>DF17:10</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 10: Taverns">
+      <PageReference>DF17:5</PageReference>
+      <PageReference>DF17:10</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 11: Power-Ups">
+      <PageReference>DF17:4</PageReference>
+      <PageReference>DF17:5</PageReference>
+      <PageReference>DF17:23</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 12: Ninja">
+      <PageReference>DF17:10</PageReference>
+      <PageReference>DF17:17</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 15: Henchmen">
+      <PageReference>DF17:5</PageReference>
+      <PageReference>DF17:6</PageReference>
+      <PageReference>DF17:12</PageReference>
+      <PageReference>DF17:14</PageReference>
+      <PageReference>DF17:19</PageReference>
+      <PageReference>DF17:20</PageReference>
+      <PageReference>DF17:23</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 16: Wilderness Adventures">
+      <PageReference>DF17:10</PageReference>
+      <PageReference>DF17:18</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering: Pulling Rank">
+      <PageReference>DF17:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hermetic cabals">
+    <PageReference>DF17:15-16</PageReference>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hideout (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immunity (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="King’s men">
+    <PageReference>DF17:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kingdoms, defined">
+    <PageReference>DF17:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Languages, guild">
+    <PageReference>DF17:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lore (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mafias">
+    <PageReference>DF17:16-17</PageReference>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic items">
+    <Child ReferenceText="Status and">
+      <PageReference>DF17:6</PageReference>
+    </Child>
+    <Child ReferenceText="assistance and">
+      <PageReference>DF17:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Map (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial-arts guilds">
+    <PageReference>DF17:11</PageReference>
+    <PageReference>DF17:17</PageReference>
+    <PageReference>DF17:22-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchant houses">
+    <PageReference>DF17:18-19</PageReference>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Military companies">
+    <PageReference>DF17:19-20</PageReference>
+    <Child ReferenceText="religious">
+      <PageReference>DF17:20</PageReference>
+    </Child>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Military religious orders">
+    <PageReference>DF17:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters, Status among humans">
+    <PageReference>DF17:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounts (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New gear (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja clans">
+    <PageReference>DF17:17</PageReference>
+    <SeeAlso>Martial-Arts Guilds</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Noble courts">
+    <PageReference>DF17:20-21</PageReference>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Professions">
+    <Child ReferenceText="Status and">
+      <PageReference>DF17:6</PageReference>
+    </Child>
+    <Child ReferenceText="Tenure and">
+      <PageReference>DF17:6</PageReference>
+    </Child>
+    <Child ReferenceText="reference table">
+      <PageReference>DF17:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Provisions (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid #3/10: Crime and Grime">
+    <PageReference>DF17:25</PageReference>
+    <SeeAlso>GURPS</SeeAlso>
+    <Child ReferenceText="#3/58: Urban Fantasy II">
+      <PageReference>DF17:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rangers">
+    <PageReference>DF17:24-25</PageReference>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rank advantage">
+    <PageReference>DF17:5</PageReference>
+    <Child ReferenceText="assistance and">
+      <PageReference>DF17:7-9</PageReference>
+    </Child>
+    <Child ReferenceText="Status and">
+      <PageReference>DF17:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Recharge (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious">
+    <Child ReferenceText="military orders">
+      <PageReference>DF17:20</PageReference>
+    </Child>
+    <Child ReferenceText="spiritual societies">
+      <PageReference>DF17:21-22</PageReference>
+    </Child>
+    <Child ReferenceText="universities">
+      <PageReference>DF17:27</PageReference>
+    </Child>
+    <Child ReferenceText="congregations">
+      <PageReference>DF17:10-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Replacement (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reputation advantage">
+    <PageReference>DF17:5</PageReference>
+    <Child ReferenceText="single campaign town and">
+      <PageReference>DF17:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rewards, sample">
+    <PageReference>DF17:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense of Duty disadvantage">
+    <PageReference>DF17:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Service guilds">
+    <PageReference>DF17:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special orders (assistance)">
+    <PageReference>DF17:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spellcasting (assistance)">
+    <PageReference>DF17:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spiritual societies">
+    <PageReference>DF17:21-22</PageReference>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Status advantage">
+    <PageReference>DF17:5-6</PageReference>
+    <Child ReferenceText="monsters">
+      <PageReference>DF17:6</PageReference>
+    </Child>
+    <Child ReferenceText="profession  and">
+      <PageReference>DF17:6</PageReference>
+    </Child>
+    <Child ReferenceText="single campaign  town and">
+      <PageReference>DF17:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Students of the master">
+    <PageReference>DF17:22-23</PageReference>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sworn societies">
+    <PageReference>DF17:23-24</PageReference>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Table, assistance">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temples of the fist">
+    <PageReference>DF17:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tenure advantage">
+    <PageReference>DF17:6</PageReference>
+    <Child ReferenceText="profession and">
+      <PageReference>DF17:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thieves’ guilds">
+    <PageReference>DF17:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Town watch">
+    <PageReference>DF17:24-25</PageReference>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Towns">
+    <Child ReferenceText="single one in play">
+      <PageReference>DF17:6</PageReference>
+    </Child>
+    <Child ReferenceText="defined">
+      <PageReference>DF17:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trained by a Master advantage">
+    <PageReference>DF17:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Training (assistance)">
+    <PageReference>DF17:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transportation (assistance)">
+    <PageReference>DF17:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tribes">
+    <PageReference>DF17:26-27</PageReference>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Universities">
+    <PageReference>DF17:27</PageReference>
+    <Child ReferenceText="titles">
+      <PageReference>DF17:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles (assistance)">
+    <PageReference>DF17:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vow disadvantage">
+    <PageReference>DF17:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizards’ guilds">
+    <PageReference>DF17:12</PageReference>
+    <Child ReferenceText="hermetic cabals">
+      <PageReference>DF17:15-16</PageReference>
+    </Child>
+    <Child ReferenceText="spiritual societies">
+      <PageReference>DF17:21-22</PageReference>
+    </Child>
+    <Child ReferenceText="students of the master">
+      <PageReference>DF17:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="universities">
+      <PageReference>DF17:27</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

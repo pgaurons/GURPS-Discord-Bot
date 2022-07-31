@@ -1,0 +1,582 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abomination Sense ability">
+    <PageReference>DF20:14</PageReference>
+    <PageReference>DF20:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>DF20:4-6</PageReference>
+    <PageReference>DF20:9-10</PageReference>
+    <PageReference>DF20:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amulet Grab ability">
+    <PageReference>DF20:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-magic potion">
+    <PageReference>DF20:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attacks">
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="Slayer Training">
+      <PageReference>DF20:6</PageReference>
+      <PageReference>DF20:15</PageReference>
+    </Child>
+    <Child ReferenceText="monster flaws">
+      <PageReference>DF20:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Baneful Sacrifice perk">
+    <PageReference>DF20:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banish skill">
+    <PageReference>DF20:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banishing Blade ability">
+    <PageReference>DF20:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blinding Strike perk">
+    <PageReference>DF20:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blunt weapon modifier">
+    <PageReference>DF20:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body Control skill">
+    <PageReference>DF20:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bottled sunlight potion">
+    <PageReference>DF20:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brave perk">
+    <PageReference>DF20:6</PageReference>
+    <PageReference>DF20:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caster Sense ability">
+    <PageReference>DF20:9</PageReference>
+    <PageReference>DF20:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close to Hell Talent">
+    <PageReference>DF20:4</PageReference>
+    <PageReference>DF20:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <SeeAlso>Attacks</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Corpse Smart perk">
+    <PageReference>DF20:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Covenant of Rest perk">
+    <PageReference>DF20:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cult-breaker variation">
+    <PageReference>DF20:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dead Stop perk">
+    <PageReference>DF20:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demon-bane potion">
+    <PageReference>DF20:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demon-slayers">
+    <PageReference>DF20:4-8</PageReference>
+    <Child ReferenceText="advantages">
+      <PageReference>DF20:4-6</PageReference>
+    </Child>
+    <Child ReferenceText="making useful">
+      <PageReference>DF20:13</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DF20:4</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>DF20:6</PageReference>
+      <PageReference>DF20:8</PageReference>
+    </Child>
+    <Child ReferenceText="power-ups">
+      <PageReference>DF20:8</PageReference>
+    </Child>
+    <Child ReferenceText="shopping list">
+      <PageReference>DF20:19</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>DF20:6</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>DF20:6-8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Demon Sniffer ability">
+    <PageReference>DF20:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demons">
+    <Child ReferenceText="talismans">
+      <PageReference>DF20:22</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DF20:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dispel Magic skill">
+    <PageReference>DF20:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drain Magery skill">
+    <PageReference>DF20:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drain Mana skill">
+    <PageReference>DF20:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeon Fantasy Roleplaying Game">
+    <PageReference>DF20:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy Reserves">
+    <SeeAlso>Heroic Reserves Ability</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Gear</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Exorcism skill">
+    <PageReference>DF20:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Final Rest skill">
+    <PageReference>DF20:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>Gizmos Advantage</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="magic">
+      <PageReference>DF20:21</PageReference>
+    </Child>
+    <Child ReferenceText="monster flaws and">
+      <PageReference>DF20:20</PageReference>
+    </Child>
+    <Child ReferenceText="lists">
+      <PageReference>DF20:19-21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost Armor ability">
+    <PageReference>DF20:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost Weapon ability">
+    <PageReference>DF20:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gift of the Dead perk">
+    <PageReference>DF20:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gizmos advantage">
+    <PageReference>DF20:5</PageReference>
+    <PageReference>DF20:9</PageReference>
+    <PageReference>DF20:15</PageReference>
+    <Child ReferenceText="monster flaws and">
+      <PageReference>DF20:20</PageReference>
+    </Child>
+    <Child ReferenceText="secret weapons and">
+      <PageReference>DF20:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Go To Hell! perk">
+    <PageReference>DF20:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grenades">
+    <PageReference>DF20:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Dungeon Fantasy Treasures 2: Epic Treasures">
+    <PageReference>DF20:10</PageReference>
+    <PageReference>DF20:18-20</PageReference>
+    <PageReference>DF20:21</PageReference>
+    <PageReference>DF20:20</PageReference>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DF20:4</PageReference>
+      <PageReference>DF20:13</PageReference>
+      <PageReference>DF20:21</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF20:15</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DF20:5</PageReference>
+      <PageReference>DF20:19</PageReference>
+      <PageReference>DF20:20</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 6: 40 Artifacts">
+      <PageReference>DF20:19</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 7: Clerics">
+      <PageReference>DF20:19</PageReference>
+      <PageReference>DF20:20</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 8: Treasure Tables">
+      <PageReference>DF20:10</PageReference>
+      <PageReference>DF20:19</PageReference>
+      <PageReference>DF20:20</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 10: Taverns">
+      <PageReference>DF20:19</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 11: Power-Ups">
+      <PageReference>DF20:3</PageReference>
+      <PageReference>DF20:4</PageReference>
+      <PageReference>DF20:6</PageReference>
+      <PageReference>DF20:8</PageReference>
+      <PageReference>DF20:10</PageReference>
+      <PageReference>DF20:15</PageReference>
+      <PageReference>DF20:18</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 12: Ninja">
+      <PageReference>DF20:19</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 14: Psi">
+      <PageReference>DF20:3</PageReference>
+      <PageReference>DF20:19</PageReference>
+      <PageReference>DF20:20</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Denizens: Barbarians">
+      <PageReference>DF20:19</PageReference>
+      <PageReference>DF20:20</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Monsters">
+      <PageReference>DF20:13</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy Monsters 1">
+      <PageReference>DF20:13</PageReference>
+      <PageReference>DF20:14</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy series">
+      <PageReference>DF20:19</PageReference>
+      <PageReference>DF20:20</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>DF20:6</PageReference>
+      <PageReference>DF20:8</PageReference>
+      <PageReference>DF20:10</PageReference>
+      <PageReference>DF20:11</PageReference>
+      <PageReference>DF20:13</PageReference>
+      <PageReference>DF20:16</PageReference>
+      <PageReference>DF20:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heaven Awaits perk">
+    <PageReference>DF20:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hell Vision ability">
+    <PageReference>DF20:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heroic power items">
+    <PageReference>DF20:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heroic Reserves ability">
+    <PageReference>DF20:5</PageReference>
+    <PageReference>DF20:8</PageReference>
+    <PageReference>DF20:9</PageReference>
+    <PageReference>DF20:13</PageReference>
+    <PageReference>DF20:15</PageReference>
+    <PageReference>DF20:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden Lore skill">
+    <Child ReferenceText="uses">
+      <PageReference>DF20:20</PageReference>
+      <PageReference>DF20:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Higher Purpose advantage">
+    <PageReference>DF20:5</PageReference>
+    <PageReference>DF20:9</PageReference>
+    <PageReference>DF20:15</PageReference>
+    <PageReference>DF20:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit locations">
+    <Child ReferenceText="monster flaws">
+      <PageReference>DF20:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy Touch perk">
+    <PageReference>DF20:6</PageReference>
+    <PageReference>DF20:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy weapons">
+    <PageReference>DF20:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immunity advantage">
+    <PageReference>DF20:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron Soul ability">
+    <PageReference>DF20:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <Child ReferenceText="lack of cross-profession">
+      <PageReference>DF20:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mage-Slayer Gear perk">
+    <PageReference>DF20:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mage-slayers">
+    <PageReference>DF20:9-13</PageReference>
+    <Child ReferenceText="advantages">
+      <PageReference>DF20:9-10</PageReference>
+    </Child>
+    <Child ReferenceText="making useful">
+      <PageReference>DF20:13</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DF20:9</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>DF20:10</PageReference>
+      <PageReference>DF20:13</PageReference>
+    </Child>
+    <Child ReferenceText="power-ups">
+      <PageReference>DF20:13</PageReference>
+    </Child>
+    <Child ReferenceText="shopping list">
+      <PageReference>DF20:19</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>DF20:11</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>DF20:11-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic items">
+    <PageReference>DF20:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Resistance advantage">
+    <PageReference>DF20:10</PageReference>
+    <PageReference>DF20:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Touch perk">
+    <PageReference>DF20:6</PageReference>
+    <PageReference>DF20:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical Toughening ability">
+    <PageReference>DF20:10</PageReference>
+    <PageReference>DF20:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Materialize skill">
+    <PageReference>DF20:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental Strength skill">
+    <PageReference>DF20:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Block skill">
+    <PageReference>DF20:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monster flaws">
+    <PageReference>DF20:20</PageReference>
+    <Child ReferenceText="demonic talismans">
+      <PageReference>DF20:22</PageReference>
+    </Child>
+    <Child ReferenceText="designing weapons">
+      <PageReference>DF20:21-22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mystic template variation">
+    <PageReference>DF20:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nondetection ability">
+    <PageReference>DF20:10</PageReference>
+    <PageReference>DF20:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pentagram skill">
+    <PageReference>DF20:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <Child ReferenceText="new">
+      <PageReference>DF20:10</PageReference>
+      <PageReference>DF20:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Plane Shift skill">
+    <PageReference>DF20:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Potions">
+    <PageReference>DF20:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power items">
+    <Child ReferenceText="heroic">
+      <PageReference>DF20:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power-ups">
+    <Child ReferenceText="limited number of">
+      <PageReference>DF20:8</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>DF20:8</PageReference>
+      <PageReference>DF20:13</PageReference>
+      <PageReference>DF20:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Purifying Touch perk">
+    <PageReference>DF20:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid">
+    <Child ReferenceText="#3/109: Thaumatology V">
+      <PageReference>DF20:3</PageReference>
+    </Child>
+    <Child ReferenceText="#3/122: All Good Things">
+      <PageReference>DF20:3</PageReference>
+    </Child>
+    <Child ReferenceText="#3/61: Way of the Warrior">
+      <PageReference>DF20:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Remove Curse skill">
+    <PageReference>DF20:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Research skill">
+    <PageReference>DF20:20-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant advantage">
+    <PageReference>DF20:5</PageReference>
+    <PageReference>DF20:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rest in Pieces perk">
+    <PageReference>DF20:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret weapons">
+    <Child ReferenceText="designing">
+      <PageReference>DF20:21-22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Selective Magic Resistance ability">
+    <PageReference>DF20:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="new">
+      <PageReference>DF20:6</PageReference>
+      <PageReference>DF20:8</PageReference>
+      <PageReference>DF20:11</PageReference>
+      <PageReference>DF20:13</PageReference>
+      <PageReference>DF20:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayer Swing at Neck ability">
+    <PageReference>DF20:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayer Swing at Skull ability">
+    <PageReference>DF20:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayer Thrust to Vitals ability">
+    <PageReference>DF20:6</PageReference>
+    <PageReference>DF20:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayer Training ability">
+    <PageReference>DF20:6</PageReference>
+    <PageReference>DF20:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slayers">
+    <SeeAlso>Demon-Slayers</SeeAlso>
+    <SeeAlso>Mage-Slayers</SeeAlso>
+    <SeeAlso>Undead-Slayers</SeeAlso>
+    <Child ReferenceText="other kinds">
+      <PageReference>DF20:18</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DF20:3</PageReference>
+    </Child>
+    <Child ReferenceText="making useful">
+      <PageReference>DF20:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Solidify skill">
+    <PageReference>DF20:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specter Sight ability">
+    <PageReference>DF20:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Hardiness perk">
+    <PageReference>DF20:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell Resistance perk">
+    <PageReference>DF20:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spellpiercer ability">
+    <PageReference>DF20:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stake weapon modifier">
+    <PageReference>DF20:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suspend Magery skill">
+    <PageReference>DF20:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suspend Mana skill">
+    <PageReference>DF20:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <SeeAlso>Demon-Slayers</SeeAlso>
+    <SeeAlso>Mage-Slayers</SeeAlso>
+    <SeeAlso>Slayers</SeeAlso>
+    <SeeAlso>Undead-Slayers</SeeAlso>
+    <Child ReferenceText="differences  with other">
+      <PageReference>DF20:8</PageReference>
+    </Child>
+    <Child ReferenceText="lack of cross-profession lenses">
+      <PageReference>DF20:8</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>DF20:6-8</PageReference>
+      <PageReference>DF20:11-12</PageReference>
+      <PageReference>DF20:16-18</PageReference>
+    </Child>
+    <Child ReferenceText="creating new">
+      <PageReference>DF20:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tough Love perk">
+    <PageReference>DF20:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turning ability">
+    <PageReference>DF20:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead-bane potion">
+    <PageReference>DF20:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead-slayers">
+    <PageReference>DF20:14-18</PageReference>
+    <Child ReferenceText="advantages">
+      <PageReference>DF20:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="making useful">
+      <PageReference>DF20:13</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DF20:14</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>DF20:16</PageReference>
+      <PageReference>DF20:18</PageReference>
+    </Child>
+    <Child ReferenceText="power-ups">
+      <PageReference>DF20:18</PageReference>
+    </Child>
+    <Child ReferenceText="shopping list">
+      <PageReference>DF20:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>DF20:16</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>DF20:16-18</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>DF20:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <Child ReferenceText="modifiers">
+      <PageReference>DF20:20</PageReference>
+    </Child>
+    <Child ReferenceText="recommended">
+      <PageReference>DF20:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="secret">
+      <PageReference>DF20:21-22</PageReference>
+    </Child>
+    <Child ReferenceText="undead-slayer">
+      <PageReference>DF20:20</PageReference>
+    </Child>
+    <Child ReferenceText="holy">
+      <PageReference>DF20:21</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

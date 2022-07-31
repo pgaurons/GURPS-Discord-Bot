@@ -1,0 +1,2824 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Accelerate Pregnancy spell">
+    <PageReference>BT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accessibility limitation">
+    <PageReference>BT215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acetaminophen">
+    <PageReference>BT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Activated charcoal">
+    <PageReference>BT131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Activist template">
+    <PageReference>BT202-203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adders">
+    <PageReference>BT155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adenine">
+    <PageReference>BT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>BT210-211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventure seeds">
+    <PageReference>BT224</PageReference>
+    <PageReference>BT229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerosols">
+    <PageReference>BT167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aging">
+    <PageReference>BT50</PageReference>
+    <Child ReferenceText="anti-agathic drugs">
+      <PageReference>BT159</PageReference>
+    </Child>
+    <Child ReferenceText="ethics of immortality">
+      <PageReference>BT200-201</PageReference>
+    </Child>
+    <Child ReferenceText="genetics of">
+      <PageReference>BT183</PageReference>
+    </Child>
+    <Child ReferenceText="methuselah program nanovirus">
+      <PageReference>BT186</PageReference>
+    </Child>
+    <Child ReferenceText="simulations">
+      <PageReference>BT25</PageReference>
+    </Child>
+    <Child ReferenceText="and telomeres">
+      <PageReference>BT24</PageReference>
+      <PageReference>BT183</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Airships">
+    <PageReference>BT99-100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Algae">
+    <PageReference>BT78</PageReference>
+    <PageReference>BT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aliens">
+    <Child ReferenceText="and xenodrugs">
+      <PageReference>BT156</PageReference>
+    </Child>
+    <Child ReferenceText="hybrids">
+      <PageReference>BT38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alleles">
+    <PageReference>BT7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allergies">
+    <PageReference>BT150</PageReference>
+    <Child ReferenceText="as a quirk">
+      <PageReference>BT212</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alexander Athanatos setting">
+    <PageReference>BT217-224</PageReference>
+    <Child ReferenceText="characters">
+      <PageReference>BT223</PageReference>
+    </Child>
+    <Child ReferenceText="geography of">
+      <PageReference>BT220-221</PageReference>
+    </Child>
+    <Child ReferenceText="Great Medical School">
+      <PageReference>BT218</PageReference>
+      <PageReference>BT222</PageReference>
+    </Child>
+    <Child ReferenceText="history of">
+      <PageReference>BT218</PageReference>
+    </Child>
+    <Child ReferenceText="organizations of">
+      <PageReference>BT222-223</PageReference>
+    </Child>
+    <Child ReferenceText="technology of">
+      <PageReference>BT221-222</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alpha template">
+    <PageReference>BT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alter Nanovirus spell">
+    <PageReference>BT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambulances">
+    <PageReference>BT193-194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amino acids">
+    <PageReference>BT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Analgesics">
+    <PageReference>BT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Analyze Heredity spell">
+    <PageReference>BT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anesthesia">
+    <PageReference>BT135-136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <PageReference>BT84-94</PageReference>
+    <Child ReferenceText="modifications to">
+      <PageReference>BT87-88</PageReference>
+    </Child>
+    <Child ReferenceText="sample animals">
+      <PageReference>BT88-94</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Anthrax">
+    <PageReference>BT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anthropithekos template">
+    <PageReference>BT219</PageReference>
+    <PageReference>BT223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-agathics">
+    <SeeAlso>Aging</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Antibiotics">
+    <PageReference>BT150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antibodies">
+    <PageReference>BT129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antiproton imaging">
+    <PageReference>BT128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antirad medication">
+    <PageReference>BT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antisepsis">
+    <PageReference>BT132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antitox nanodrug">
+    <PageReference>BT161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aphrozine">
+    <PageReference>BT158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance">
+    <SeeAlso>Cosmetic Modifications</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Arachnofiber">
+    <PageReference>BT82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archaea">
+    <PageReference>BT102</PageReference>
+    <PageReference>BT104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archaeobiology">
+    <PageReference>BT14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arm blade biomod">
+    <PageReference>BT177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arsenic">
+    <PageReference>BT153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artemis lens">
+    <PageReference>BT68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificial life">
+    <PageReference>BT26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ascepaline">
+    <PageReference>BT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aspirin">
+    <PageReference>BT148</PageReference>
+    <PageReference>BT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Atavism">
+    <PageReference>BT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Athena lens">
+    <PageReference>BT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Atlas lens">
+    <PageReference>BT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Atman nanodrug">
+    <PageReference>BT161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Automed">
+    <PageReference>BT139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Autopsies">
+    <PageReference>BT139-140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Avatar template">
+    <PageReference>BT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Avery">
+    <Child ReferenceText="Oswald">
+      <PageReference>BT11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aware drug">
+    <PageReference>BT157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bacteria">
+    <PageReference>BT6</PageReference>
+    <PageReference>BT103</PageReference>
+    <Child ReferenceText="and antibiotics">
+      <PageReference>BT150</PageReference>
+    </Child>
+    <Child ReferenceText="anti-material">
+      <PageReference>BT118</PageReference>
+    </Child>
+    <Child ReferenceText="domestic">
+      <PageReference>BT107</PageReference>
+    </Child>
+    <Child ReferenceText="Escherichia coli (E" />
+    <Child ReferenceText="coli)">
+      <PageReference>BT120</PageReference>
+    </Child>
+    <Child ReferenceText="nanobacteriophages">
+      <PageReference>BT165</PageReference>
+    </Child>
+    <Child ReferenceText="Oedipus-5 bacterium">
+      <PageReference>BT116</PageReference>
+    </Child>
+    <Child ReferenceText="as protein factories">
+      <PageReference>BT120</PageReference>
+    </Child>
+    <Child ReferenceText="symbiotic">
+      <PageReference>BT120-121</PageReference>
+      <PageReference>BT165</PageReference>
+    </Child>
+    <Child ReferenceText="thiobacillus ferrooxidus">
+      <PageReference>BT106</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bag mask">
+    <PageReference>BT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bandages">
+    <PageReference>BT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic combat drug">
+    <PageReference>BT156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle jaw biomod">
+    <PageReference>BT177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Behavioral modifications">
+    <PageReference>BT43</PageReference>
+    <Child ReferenceText="neuromods">
+      <PageReference>BT179-181</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bertillonage">
+    <PageReference>BT24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biobarriers">
+    <PageReference>BT111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioblimps">
+    <PageReference>BT99-100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bio-Bombs">
+    <PageReference>BT94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bio-Booster biomod">
+    <PageReference>BT174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biobuildings">
+    <PageReference>BT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biochemistry">
+    <Child ReferenceText="alternative">
+      <PageReference>BT35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioelectric organ">
+    <PageReference>BT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioelectronics">
+    <PageReference>BT108-109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioengineer">
+    <Child ReferenceText="template">
+      <PageReference>BT203</PageReference>
+    </Child>
+    <Child ReferenceText="in Draconis setting">
+      <PageReference>BT230</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioengineering skill">
+    <PageReference>BT214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioethics">
+    <PageReference>BT194-202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biofabricator">
+    <PageReference>BT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biofilms">
+    <PageReference>BT110</PageReference>
+    <PageReference>BT111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biofilter canteen">
+    <PageReference>BT96</PageReference>
+    <PageReference>BT111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biogadgets">
+    <PageReference>BT95-96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biogenesis">
+    <PageReference>BT26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioglue">
+    <PageReference>BT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biohazards">
+    <Child ReferenceText="and lab precautions">
+      <PageReference>BT16-17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Biological control">
+    <PageReference>BT76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioluminescent fungi">
+    <PageReference>BT81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biomaterials">
+    <PageReference>BT28-29</PageReference>
+    <Child ReferenceText="economic impact of">
+      <PageReference>BT108</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Biometrics">
+    <PageReference>BT24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biomimetics">
+    <PageReference>BT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biomodifications">
+    <PageReference>BT168-191</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioroids">
+    <PageReference>BT26-27</PageReference>
+    <Child ReferenceText="and bioethics">
+      <PageReference>BT199-200</PageReference>
+    </Child>
+    <Child ReferenceText="genetic modifications">
+      <PageReference>BT61</PageReference>
+    </Child>
+    <Child ReferenceText="meta-trait">
+      <PageReference>BT214</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Biosensors">
+    <PageReference>BT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioships">
+    <PageReference>BT98-99</PageReference>
+    <Child ReferenceText="in Draconis setting">
+      <PageReference>BT226</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioshuttle template">
+    <PageReference>BT226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biosubs">
+    <PageReference>BT100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biotechnology">
+    <PageReference>BT5-35</PageReference>
+    <Child ReferenceText="basic principles">
+      <PageReference>BT6</PageReference>
+    </Child>
+    <Child ReferenceText="development pathways">
+      <PageReference>BT33</PageReference>
+    </Child>
+    <Child ReferenceText="and horror">
+      <PageReference>BT35</PageReference>
+    </Child>
+    <Child ReferenceText="magical">
+      <PageReference>BT30-33</PageReference>
+    </Child>
+    <Child ReferenceText="and steampunk">
+      <PageReference>BT33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Biotronics">
+    <PageReference>BT28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biovehicles">
+    <PageReference>BT96-101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioweapons">
+    <Child ReferenceText="fungi">
+      <PageReference>BT81</PageReference>
+    </Child>
+    <Child ReferenceText="germ warfare">
+      <PageReference>BT112-118</PageReference>
+    </Child>
+    <Child ReferenceText="insects">
+      <PageReference>BT82-83</PageReference>
+    </Child>
+    <Child ReferenceText="parasites">
+      <PageReference>BT95</PageReference>
+    </Child>
+    <Child ReferenceText="plants as detectors">
+      <PageReference>BT80</PageReference>
+    </Child>
+    <Child ReferenceText="webgun">
+      <PageReference>BT227</PageReference>
+      <PageReference>BT228</PageReference>
+    </Child>
+    <Child ReferenceText="ecological warfare">
+      <PageReference>BT112</PageReference>
+      <PageReference>BT94</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Birth control">
+    <PageReference>BT19</PageReference>
+    <PageReference>BT157</PageReference>
+    <PageReference>BT158</PageReference>
+    <PageReference>BT185</PageReference>
+    <Child ReferenceText="abortifacients">
+      <PageReference>BT149</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Black clinics">
+    <PageReference>BT194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blastocysts">
+    <PageReference>BT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood">
+    <PageReference>BT44</PageReference>
+    <Child ReferenceText="blood cop nanosymbionts">
+      <PageReference>BT165</PageReference>
+    </Child>
+    <Child ReferenceText="bone marrow upgrades">
+      <PageReference>BT182</PageReference>
+    </Child>
+    <Child ReferenceText="doping">
+      <PageReference>BT131</PageReference>
+    </Child>
+    <Child ReferenceText="perflubron blood">
+      <PageReference>BT61</PageReference>
+      <PageReference>BT131</PageReference>
+    </Child>
+    <Child ReferenceText="transfusion">
+      <PageReference>BT130</PageReference>
+    </Child>
+    <Child ReferenceText="typing">
+      <PageReference>BT25</PageReference>
+      <PageReference>BT130</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood roses">
+    <PageReference>BT80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="BodyHeat nanodrug">
+    <PageReference>BT161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bodysculpting">
+    <PageReference>BT169-173</PageReference>
+    <Child ReferenceText="clinics">
+      <PageReference>BT194</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bones">
+    <Child ReferenceText="stimulation">
+      <PageReference>BT155</PageReference>
+    </Child>
+    <Child ReferenceText="setting">
+      <PageReference>BT131</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Botanogenesis">
+    <PageReference>BT88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Botulinum toxin">
+    <PageReference>BT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brachytherapy">
+    <PageReference>BT132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brain modifications">
+    <PageReference>BT42-43</PageReference>
+    <Child ReferenceText="of animals">
+      <PageReference>BT86</PageReference>
+    </Child>
+    <Child ReferenceText="with nanosymbionts">
+      <PageReference>BT166</PageReference>
+    </Child>
+    <Child ReferenceText="neuromods">
+      <PageReference>BT179-180</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brain pod">
+    <Child ReferenceText="portable">
+      <PageReference>BT147</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brain scanning">
+    <PageReference>BT143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brownie template">
+    <PageReference>BT68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bubonic plague">
+    <PageReference>BT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burn treatment">
+    <PageReference>BT131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Calomel">
+    <PageReference>BT153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camazotz template">
+    <PageReference>BT71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cardiac Stress limitation">
+    <PageReference>BT215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cardiovascular modifications">
+    <PageReference>BT44</PageReference>
+    <SeeAlso>Blood</SeeAlso>
+    <Child ReferenceText="altered bulk">
+      <PageReference>BT170</PageReference>
+    </Child>
+    <Child ReferenceText="altered height">
+      <PageReference>BT171</PageReference>
+    </Child>
+    <Child ReferenceText="angiogenesis">
+      <PageReference>BT183</PageReference>
+    </Child>
+    <Child ReferenceText="artery cleaner nanosymbionts">
+      <PageReference>BT165</PageReference>
+    </Child>
+    <Child ReferenceText="auxiliary heart biomod">
+      <PageReference>BT175</PageReference>
+    </Child>
+    <Child ReferenceText="boosted heart biomod">
+      <PageReference>BT174</PageReference>
+    </Child>
+    <Child ReferenceText="smart cardiovascular net">
+      <PageReference>BT189</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cancer treatment">
+    <PageReference>BT132</PageReference>
+    <Child ReferenceText="with genetic surgery">
+      <PageReference>BT182</PageReference>
+    </Child>
+    <Child ReferenceText="with nanosymbionts">
+      <PageReference>BT165</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cells">
+    <PageReference>BT6</PageReference>
+    <Child ReferenceText="cell communion">
+      <PageReference>BT166-167</PageReference>
+    </Child>
+    <Child ReferenceText="cellular batteries">
+      <PageReference>BT109</PageReference>
+    </Child>
+    <Child ReferenceText="and genetic surgery">
+      <PageReference>BT181</PageReference>
+      <PageReference>BT182-183</PageReference>
+    </Child>
+    <Child ReferenceText="regeneration">
+      <PageReference>BT133</PageReference>
+      <PageReference>BT166</PageReference>
+    </Child>
+    <Child ReferenceText="replication">
+      <PageReference>BT7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chameleon skin">
+    <PageReference>BT45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chargaff">
+    <Child ReferenceText="Erwin">
+      <PageReference>BT11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chelating drugs">
+    <PageReference>BT131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chimeras">
+    <PageReference>BT15</PageReference>
+    <PageReference>BT31</PageReference>
+    <PageReference>BT38</PageReference>
+    <PageReference>BT52</PageReference>
+    <Child ReferenceText="in Alexander Athanatos setting">
+      <PageReference>BT219</PageReference>
+    </Child>
+    <Child ReferenceText="chimeric retrovirus">
+      <PageReference>BT121</PageReference>
+    </Child>
+    <Child ReferenceText="meta-trait">
+      <PageReference>BT214</PageReference>
+    </Child>
+    <Child ReferenceText="plants">
+      <PageReference>BT79</PageReference>
+    </Child>
+    <Child ReferenceText="in steampunk">
+      <PageReference>BT34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chirality">
+    <PageReference>BT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chloral hydrate">
+    <PageReference>BT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chloroform">
+    <PageReference>BT135</PageReference>
+    <PageReference>BT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chromosomes">
+    <PageReference>BT6</PageReference>
+    <Child ReferenceText="artificial">
+      <PageReference>BT12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chronic Pain disadvantage">
+    <PageReference>BT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chronos template">
+    <PageReference>BT72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chronowombs">
+    <PageReference>BT21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chrysalis machine">
+    <PageReference>BT133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleaning eels">
+    <PageReference>BT93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloning">
+    <PageReference>BT22-24</PageReference>
+    <Child ReferenceText="in Alexander Athanatos setting">
+      <PageReference>BT222</PageReference>
+      <PageReference>BT223</PageReference>
+    </Child>
+    <Child ReferenceText="of genes">
+      <PageReference>BT12-13</PageReference>
+    </Child>
+    <Child ReferenceText="of plants">
+      <PageReference>BT77</PageReference>
+    </Child>
+    <Child ReferenceText="religion and ethics of">
+      <PageReference>BT196-197</PageReference>
+    </Child>
+    <Child ReferenceText="and transplants">
+      <PageReference>BT141</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <Child ReferenceText="posthuman">
+      <PageReference>BT207</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Computed tomography (CT) scanning">
+    <PageReference>BT128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <PageReference>BT28-29</PageReference>
+    <Child ReferenceText="biotronic virus">
+      <PageReference>BT186</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Conjugation">
+    <PageReference>BT13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Construction">
+    <Child ReferenceText="using coral">
+      <PageReference>BT93</PageReference>
+    </Child>
+    <Child ReferenceText="using bacteria">
+      <PageReference>BT108</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact drugs">
+    <PageReference>BT167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Containment tubes">
+    <PageReference>BT16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contamination">
+    <PageReference>BT116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contraceptives">
+    <SeeAlso>Birth Control</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Corporations">
+    <PageReference>BT192-193</PageReference>
+    <Child ReferenceText="biotech executive template">
+      <PageReference>BT204</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Corrosion control">
+    <PageReference>BT106</PageReference>
+    <PageReference>BT111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmetic modifications">
+    <PageReference>BT44-46</PageReference>
+    <Child ReferenceText="altering appearance with biomods">
+      <PageReference>BT169</PageReference>
+      <PageReference>BT170</PageReference>
+    </Child>
+    <Child ReferenceText="coldadaptive fur biomod">
+      <PageReference>BT174</PageReference>
+    </Child>
+    <Child ReferenceText="facial reconstruction">
+      <PageReference>BT25</PageReference>
+    </Child>
+    <Child ReferenceText="highbiotech fur">
+      <PageReference>BT185</PageReference>
+    </Child>
+    <Child ReferenceText="with nanosymbionts">
+      <PageReference>BT165-166</PageReference>
+    </Child>
+    <Child ReferenceText="with proteus nanovirus">
+      <PageReference>BT185</PageReference>
+      <PageReference>BT186</PageReference>
+    </Child>
+    <Child ReferenceText="polykeratin disguise">
+      <PageReference>BT177</PageReference>
+    </Child>
+    <Child ReferenceText="sensa-skin biomod">
+      <PageReference>BT177</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crash kit">
+    <PageReference>BT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Create Chimera spell">
+    <PageReference>BT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crediline">
+    <PageReference>BT157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Creutzfield-Jacob disease">
+    <PageReference>BT104</PageReference>
+    <PageReference>BT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crick">
+    <Child ReferenceText="Francis">
+      <PageReference>BT11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cryonics">
+    <PageReference>BT144-147</PageReference>
+    <Child ReferenceText="bioethics of 199-200" />
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Familiarity advantage">
+    <PageReference>BT210-211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cyanoacrylate">
+    <PageReference>BT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cytosine">
+    <PageReference>BT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark Angel Bioroid lens">
+    <PageReference>BT72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="De Vries">
+    <Child ReferenceText="Hugo">
+      <PageReference>BT33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Decomposition">
+    <PageReference>BT140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Decontamination">
+    <PageReference>BT114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deep learning">
+    <PageReference>BT143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defibrillator">
+    <PageReference>BT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delphís lens">
+    <PageReference>BT89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demoral">
+    <PageReference>BT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deoxyribonucleic acid">
+    <SeeAlso>DNA</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Designer plagues">
+    <PageReference>BT116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Devolutionary modifications">
+    <PageReference>BT52-53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diagnosis">
+    <PageReference>BT125-129</PageReference>
+    <Child ReferenceText="diagnosis bed">
+      <PageReference>BT128</PageReference>
+    </Child>
+    <Child ReferenceText="diagnostic camera">
+      <PageReference>BT127</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>BT214</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dialysis">
+    <PageReference>BT132-133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diana template">
+    <PageReference>BT68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Digestive modifications">
+    <PageReference>BT46-47</PageReference>
+    <Child ReferenceText="chloromorphosis nanovirus">
+      <PageReference>BT188</PageReference>
+    </Child>
+    <Child ReferenceText="liver upgrade biomod">
+      <PageReference>BT174-175</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Digitigrade posture feature">
+    <PageReference>BT51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dimethyl sulfoxide (DMSO)">
+    <PageReference>BT157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Directional osmotic film">
+    <PageReference>BT111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>BT212-213</PageReference>
+    <Child ReferenceText="unintended">
+      <PageReference>BT61-62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Divination">
+    <PageReference>BT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="DNA eraser retrovirus">
+    <PageReference>BT6</PageReference>
+    <PageReference>BT11</PageReference>
+    <PageReference>BT19</PageReference>
+    <PageReference>BT121</PageReference>
+    <Child ReferenceText="base pairs">
+      <PageReference>BT6</PageReference>
+      <PageReference>BT8</PageReference>
+    </Child>
+    <Child ReferenceText="ethics of profiling">
+      <PageReference>BT198</PageReference>
+    </Child>
+    <Child ReferenceText="fingerprinting">
+      <PageReference>BT9</PageReference>
+    </Child>
+    <Child ReferenceText="recombinant">
+      <PageReference>BT11</PageReference>
+    </Child>
+    <Child ReferenceText="repair with nanosymbionts">
+      <PageReference>BT166</PageReference>
+    </Child>
+    <Child ReferenceText="sequencing">
+      <PageReference>BT7</PageReference>
+    </Child>
+    <Child ReferenceText="testing procedures">
+      <PageReference>BT8-10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dominance advantage">
+    <PageReference>BT211</PageReference>
+    <Child ReferenceText="using pheromones">
+      <PageReference>BT48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Doolittle Dolphin template">
+    <PageReference>BT89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Draconis setting">
+    <PageReference>BT224-230</PageReference>
+    <Child ReferenceText="characters">
+      <PageReference>BT229-230</PageReference>
+    </Child>
+    <Child ReferenceText="organizations of">
+      <PageReference>BT229</PageReference>
+    </Child>
+    <Child ReferenceText="technology of">
+      <PageReference>BT225-228</PageReference>
+    </Child>
+    <Child ReferenceText="variants">
+      <PageReference>BT230</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drones">
+    <PageReference>BT100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drugs">
+    <PageReference>BT148-161</PageReference>
+    <Child ReferenceText="cheap">
+      <PageReference>BT153</PageReference>
+    </Child>
+    <Child ReferenceText="delivery systems">
+      <PageReference>BT167</PageReference>
+    </Child>
+    <Child ReferenceText="designing">
+      <PageReference>BT160</PageReference>
+    </Child>
+    <Child ReferenceText="healing">
+      <PageReference>BT151-152</PageReference>
+    </Child>
+    <Child ReferenceText="names of">
+      <PageReference>BT159</PageReference>
+    </Child>
+    <Child ReferenceText="nootropic">
+      <PageReference>BT154</PageReference>
+    </Child>
+    <Child ReferenceText="pharmacogenomic">
+      <PageReference>BT160</PageReference>
+    </Child>
+    <Child ReferenceText="produced by fungi">
+      <PageReference>BT81</PageReference>
+    </Child>
+    <Child ReferenceText="produced by parasites">
+      <PageReference>BT94</PageReference>
+    </Child>
+    <Child ReferenceText="storage and handling">
+      <PageReference>BT153</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drylander template">
+    <PageReference>BT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Early Maturation feature">
+    <PageReference>BT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ease Labor spell">
+    <PageReference>BT31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Easy Childbirth feature">
+    <PageReference>BT58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ebola">
+    <PageReference>BT113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ecological engineer or ecoteur template">
+    <PageReference>BT204-205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ecstasy glands">
+    <PageReference>BT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Élan vital">
+    <PageReference>BT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electrocardiograph">
+    <PageReference>BT127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emergency support unit">
+    <PageReference>BT136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Encapsulated cell implants">
+    <PageReference>BT120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Endoscopy">
+    <PageReference>BT127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy">
+    <Child ReferenceText="production by microorganisms">
+      <PageReference>BT105</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Muscles meta-trait">
+    <PageReference>BT213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Reflexes meta-trait">
+    <PageReference>BT213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Environment">
+    <Child ReferenceText="effects and ethics of biotechnology">
+      <PageReference>BT201-202</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enzymes">
+    <PageReference>BT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Epidemiologist template">
+    <PageReference>BT205-206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <Child ReferenceText="costs and quality modifiers">
+      <PageReference>BT15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Eros template">
+    <PageReference>BT72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Erythropoietin">
+    <PageReference>BT154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Estrus">
+    <PageReference>BT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ether">
+    <PageReference>BT135</PageReference>
+    <PageReference>BT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eugenics">
+    <PageReference>BT10</PageReference>
+    <PageReference>BT36-37</PageReference>
+    <PageReference>BT42</PageReference>
+    <Child ReferenceText="ethics of">
+      <PageReference>BT197-198</PageReference>
+    </Child>
+    <Child ReferenceText="eugeneering">
+      <PageReference>BT37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Eukaryotes">
+    <PageReference>BT7</PageReference>
+    <PageReference>BT103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Experimental procedures">
+    <PageReference>BT41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extended Fertility feature">
+    <PageReference>BT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fauxflesh">
+    <PageReference>BT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Februus template">
+    <PageReference>BT73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Felicia template">
+    <PageReference>BT73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fenris lens">
+    <PageReference>BT74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fertility treatments">
+    <PageReference>BT19-20</PageReference>
+    <PageReference>BT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fetal development">
+    <Child ReferenceText="external">
+      <PageReference>BT58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Filtration modifications">
+    <SeeAlso>Digestive Modifications</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Fingerprints">
+    <PageReference>BT25</PageReference>
+    <Child ReferenceText="genetic">
+      <PageReference>BT9</PageReference>
+    </Child>
+    <Child ReferenceText="removal">
+      <PageReference>BT171</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="First aid">
+    <PageReference>BT123-125</PageReference>
+    <Child ReferenceText="first aid kit">
+      <PageReference>BT124</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fleshbed">
+    <PageReference>BT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flunitrazipam">
+    <PageReference>BT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Focus nanodrug">
+    <PageReference>BT162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forensics">
+    <Child ReferenceText="forensic pathologist template">
+      <PageReference>BT206-207</PageReference>
+    </Child>
+    <Child ReferenceText="using bacteria">
+      <PageReference>BT107</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>BT25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Franklin">
+    <Child ReferenceText="Rosalind">
+      <PageReference>BT11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fugu lens">
+    <PageReference>BT73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fungi">
+    <PageReference>BT81-82</PageReference>
+    <PageReference>BT103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Funk">
+    <Child ReferenceText="Casimir">
+      <PageReference>BT157</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fur">
+    <SeeAlso>Cosmetic Modifications</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Furry lens">
+    <PageReference>BT73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gaia Hypothesis">
+    <PageReference>BT101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ganesh template">
+    <PageReference>BT92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Garbage disposal biogadget">
+    <PageReference>BT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gastric lavage">
+    <PageReference>BT131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gene therapy">
+    <SeeAlso>Genetic Surgery</SeeAlso>
+    <Child ReferenceText="Geneaology determination">
+      <PageReference>BT8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Genericillin">
+    <PageReference>BT150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genes">
+    <PageReference>BT6</PageReference>
+    <SeeAlso>Gengineering</SeeAlso>
+    <Child ReferenceText="genefixing">
+      <PageReference>BT64</PageReference>
+    </Child>
+    <Child ReferenceText="genetic castes">
+      <PageReference>BT40</PageReference>
+    </Child>
+    <Child ReferenceText="genetic copyright">
+      <PageReference>BT198-199</PageReference>
+    </Child>
+    <Child ReferenceText="genetic counseling">
+      <PageReference>BT199</PageReference>
+    </Child>
+    <Child ReferenceText="genetic defects">
+      <PageReference>BT18</PageReference>
+      <PageReference>BT8</PageReference>
+    </Child>
+    <Child ReferenceText="genetic mixing">
+      <PageReference>BT68</PageReference>
+    </Child>
+    <Child ReferenceText="genetic profiling">
+      <PageReference>BT9</PageReference>
+    </Child>
+    <Child ReferenceText="genetic reconstruction">
+      <PageReference>BT14</PageReference>
+    </Child>
+    <Child ReferenceText="genetic scanner">
+      <PageReference>BT8</PageReference>
+    </Child>
+    <Child ReferenceText="genetic simulation">
+      <PageReference>BT10</PageReference>
+    </Child>
+    <Child ReferenceText="genetic surgery">
+      <PageReference>BT14</PageReference>
+      <PageReference>BT181-184</PageReference>
+      <PageReference>BT185</PageReference>
+    </Child>
+    <Child ReferenceText="genetic tattoos">
+      <PageReference>BT45</PageReference>
+    </Child>
+    <Child ReferenceText="genetic testing">
+      <PageReference>BT199</PageReference>
+    </Child>
+    <Child ReferenceText="genetics labs">
+      <PageReference>BT16</PageReference>
+    </Child>
+    <Child ReferenceText="genetikones">
+      <PageReference>BT218</PageReference>
+    </Child>
+    <Child ReferenceText="genomancy">
+      <PageReference>BT31</PageReference>
+    </Child>
+    <Child ReferenceText="genome libraries">
+      <PageReference>BT27</PageReference>
+    </Child>
+    <Child ReferenceText="genotype">
+      <PageReference>BT6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gengineering">
+    <PageReference>BT5</PageReference>
+    <PageReference>BT12-15</PageReference>
+    <PageReference>BT17-18</PageReference>
+    <Child ReferenceText="of animals">
+      <PageReference>BT84-94</PageReference>
+    </Child>
+    <Child ReferenceText="character template">
+      <PageReference>BT203</PageReference>
+    </Child>
+    <Child ReferenceText="cost of">
+      <PageReference>BT65-66</PageReference>
+      <PageReference>BT89</PageReference>
+    </Child>
+    <Child ReferenceText="of fungi">
+      <PageReference>BT81-82</PageReference>
+    </Child>
+    <Child ReferenceText="germline">
+      <PageReference>BT13</PageReference>
+      <PageReference>BT36-38</PageReference>
+    </Child>
+    <Child ReferenceText="human">
+      <PageReference>BT36-74</PageReference>
+    </Child>
+    <Child ReferenceText="of insects">
+      <PageReference>BT82-84</PageReference>
+    </Child>
+    <Child ReferenceText="gengineered traits">
+      <PageReference>BT42-65</PageReference>
+    </Child>
+    <Child ReferenceText="of plants">
+      <PageReference>BT78-81</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Germ warfare">
+    <SeeAlso>Bioweapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Gestalt brain matrix">
+    <PageReference>BT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant Attributes table">
+    <PageReference>BT64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gilgamesh template">
+    <PageReference>BT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gills">
+    <PageReference>BT56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glandular modifications">
+    <PageReference>BT47-49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gothic lens">
+    <PageReference>BT73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grafting">
+    <PageReference>BT78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravanol">
+    <Child ReferenceText="157 Growth tanks">
+      <PageReference>BT20-21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Guanine">
+    <PageReference>BT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guardian template">
+    <PageReference>BT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guardians nanosymbionts">
+    <PageReference>BT165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Fantasy">
+    <PageReference>BT217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Greece">
+    <PageReference>BT217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Magic">
+    <PageReference>BT30</PageReference>
+    <PageReference>BT134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Mysteries">
+    <PageReference>BT140</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Powers">
+    <PageReference>BT65</PageReference>
+    <PageReference>BT134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Space">
+    <PageReference>BT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Ultra-Tech">
+    <PageReference>BT9</PageReference>
+    <PageReference>BT27</PageReference>
+    <PageReference>BT227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Haeckel">
+    <Child ReferenceText="Ernst">
+      <PageReference>BT34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Halothane">
+    <PageReference>BT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hardened Mandibles modification">
+    <PageReference>BT84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heart modifications">
+    <SeeAlso>Cardiovascular Modifications</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Heart-lung machine">
+    <PageReference>BT136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heat stroke treatment">
+    <PageReference>BT131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heavy Worlder template">
+    <PageReference>BT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hellkitchen">
+    <PageReference>BT16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hellspawn spell">
+    <PageReference>BT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helot template">
+    <PageReference>BT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hepaclean nanodrug">
+    <PageReference>BT162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Herakles template">
+    <PageReference>BT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heredity">
+    <PageReference>BT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hermaphroditism feature">
+    <PageReference>BT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hermaphromorphs">
+    <PageReference>BT59</PageReference>
+    <Child ReferenceText="surgery">
+      <PageReference>BT173</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hibernation chamber">
+    <PageReference>BT147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hippocrates">
+    <PageReference>BT218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High-Pressure Lungs feature">
+    <PageReference>BT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hoffman">
+    <Child ReferenceText="Felix">
+      <PageReference>BT148</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Homo superior">
+    <PageReference>BT38</PageReference>
+    <PageReference>BT67-70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horizontal gene transfer">
+    <PageReference>BT13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hormones">
+    <PageReference>BT43</PageReference>
+    <PageReference>BT47</PageReference>
+    <Child ReferenceText="anabolic steroids">
+      <PageReference>BT154</PageReference>
+    </Child>
+    <Child ReferenceText="growth hormones">
+      <PageReference>BT154</PageReference>
+    </Child>
+    <Child ReferenceText="and hormonereliant species">
+      <PageReference>BT87-88</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hospitals">
+    <PageReference>BT193</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Human Genome Project">
+    <PageReference>BT8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hydroponics">
+    <PageReference>BT78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypercoagulin">
+    <PageReference>BT151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypoxyline">
+    <PageReference>BT156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immortality">
+    <SeeAlso>Aging</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Immune system modifications">
+    <PageReference>BT49</PageReference>
+    <Child ReferenceText="genetic vaccination">
+      <PageReference>BT183</PageReference>
+    </Child>
+    <Child ReferenceText="immunity nanodrugs">
+      <PageReference>BT162</PageReference>
+    </Child>
+    <Child ReferenceText="immunosuppression">
+      <PageReference>BT141</PageReference>
+    </Child>
+    <Child ReferenceText="panimmunity nanosymbionts">
+      <PageReference>BT164</PageReference>
+    </Child>
+    <Child ReferenceText="panimmunity nanoviruses">
+      <PageReference>BT162</PageReference>
+    </Child>
+    <Child ReferenceText="spleen augmentation biomod">
+      <PageReference>BT175</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Immunity to a Specific Disease perk">
+    <PageReference>BT211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Implants">
+    <PageReference>BT167</PageReference>
+    <Child ReferenceText="in biovehicles">
+      <PageReference>BT100</PageReference>
+    </Child>
+    <Child ReferenceText="cosmetic">
+      <PageReference>BT120</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Imprinting">
+    <PageReference>BT30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="In vitro fertilization">
+    <PageReference>BT19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Increased Fecundity feature">
+    <PageReference>BT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Industrial plants">
+    <PageReference>BT80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infection">
+    <PageReference>BT132</PageReference>
+    <Child ReferenceText="increased infectivity">
+      <PageReference>BT114</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinite Worlds">
+    <PageReference>BT222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Influenza">
+    <PageReference>BT114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injections">
+    <PageReference>BT167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insects">
+    <PageReference>BT82-84</PageReference>
+    <Child ReferenceText="as disease vectors">
+      <PageReference>BT117</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Insulin">
+    <PageReference>BT12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insurance">
+    <PageReference>BT134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interferon">
+    <PageReference>BT151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intolerance disadvantage">
+    <PageReference>BT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intravenous fluids">
+    <PageReference>BT131-132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Introns">
+    <PageReference>BT7</PageReference>
+    <Child ReferenceText="intron messages">
+      <PageReference>BT45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intubation kit">
+    <PageReference>BT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron lung">
+    <PageReference>BT136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ishtar template">
+    <PageReference>BT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jagrilla Hound template">
+    <PageReference>BT89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jointwork">
+    <PageReference>BT171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="K-10 template">
+    <PageReference>BT90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kidney modifications">
+    <PageReference>BT47</PageReference>
+    <Child ReferenceText="highefficiency kidney biomod">
+      <PageReference>BT174</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Laboratories">
+    <PageReference>BT15-17</PageReference>
+    <PageReference>BT25</PageReference>
+    <Child ReferenceText="lab assistant job description">
+      <PageReference>BT210</PageReference>
+    </Child>
+    <Child ReferenceText="laboratory tests">
+      <PageReference>BT127</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ladon lens">
+    <PageReference>BT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lamarckism">
+    <PageReference>BT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laser therapy">
+    <PageReference>BT132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Law">
+    <PageReference>BT201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lepus template">
+    <PageReference>BT74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lethe drug">
+    <PageReference>BT157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lidocaine">
+    <PageReference>BT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Life support">
+    <PageReference>BT136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifebanks">
+    <PageReference>BT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifespan modifications">
+    <PageReference>BT50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light Menses feature">
+    <PageReference>BT58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light Worlder template">
+    <PageReference>BT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limb modifications">
+    <SeeAlso>Morphological Changes</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Linked traits">
+    <PageReference>BT62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lithotripsy">
+    <PageReference>BT133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Liver modifications">
+    <SeeAlso>Digestive Modifications</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Living chips">
+    <PageReference>BT109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Longevity drugs">
+    <PageReference>BT158-159</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lovelock">
+    <Child ReferenceText="James">
+      <PageReference>BT101</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Low-Pressure Lungs feature">
+    <PageReference>BT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low Rejection Threshold perk">
+    <PageReference>BT211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luminol">
+    <PageReference>BT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lungs">
+    <SeeAlso>Respiratory Modifications</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <PageReference>BT30-33</PageReference>
+    <Child ReferenceText="and Alexander Athanatos setting">
+      <PageReference>BT223</PageReference>
+    </Child>
+    <Child ReferenceText="and drugs">
+      <PageReference>BT161</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnetic resonance imaging (MRI)">
+    <PageReference>BT128</PageReference>
+    <Child ReferenceText="hypersensitive magnetic resonance imaging (HyMRI)">
+      <PageReference>BT129</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Manipulate DNA spell">
+    <PageReference>BT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medicine">
+    <PageReference>BT122-147</PageReference>
+    <Child ReferenceText="basic examination">
+      <PageReference>BT126</PageReference>
+    </Child>
+    <Child ReferenceText="character templates">
+      <PageReference>BT207-209</PageReference>
+    </Child>
+    <Child ReferenceText="medical treatment chart">
+      <PageReference>BT125</PageReference>
+    </Child>
+    <Child ReferenceText="and microorganisms">
+      <PageReference>BT119-121</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Medicine! skill">
+    <PageReference>BT214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melatan">
+    <PageReference>BT158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee Attack limitation">
+    <PageReference>BT215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mendel">
+    <Child ReferenceText="Gregor">
+      <PageReference>BT6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Meperidine hydrochloride">
+    <PageReference>BT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Merging nanovirus">
+    <PageReference>BT188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Messenger RNA">
+    <PageReference>BT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metabolic modifications">
+    <Child ReferenceText="with nanosymbionts">
+      <PageReference>BT166</PageReference>
+    </Child>
+    <Child ReferenceText="with genetic surgery">
+      <PageReference>BT182</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-traits">
+    <PageReference>BT213-214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microbe">
+    <SeeAlso>Microorganisms</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Microgravity nanosymbionts">
+    <PageReference>BT165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microinjection">
+    <PageReference>BT12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microorganisms">
+    <PageReference>BT102-121</PageReference>
+    <Child ReferenceText="and biological control">
+      <PageReference>BT76-77</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Miniature Attributes table">
+    <PageReference>BT63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mining">
+    <PageReference>BT106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mistaken Identity disadvantage">
+    <PageReference>BT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mitigator limitation">
+    <Child ReferenceText="215 Mitochondria">
+      <PageReference>BT24</PageReference>
+      <PageReference>BT103</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mnemosin">
+    <PageReference>BT155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modafinil">
+    <PageReference>BT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modified Genetic Inheritance feature">
+    <PageReference>BT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modifiers">
+    <PageReference>BT214-215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monkey Plus template">
+    <PageReference>BT90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Morlock nanodrug">
+    <PageReference>BT162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Morphine">
+    <PageReference>BT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Morphological changes">
+    <PageReference>BT51-53</PageReference>
+    <Child ReferenceText="and animals">
+      <PageReference>BT86</PageReference>
+      <PageReference>BT87</PageReference>
+    </Child>
+    <Child ReferenceText="limb replacement transplants">
+      <PageReference>BT175</PageReference>
+      <PageReference>BT178</PageReference>
+    </Child>
+    <Child ReferenceText="xenotransplants">
+      <PageReference>BT178</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mosquitos">
+    <Child ReferenceText="smart">
+      <PageReference>BT84</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Musculo-skeletal modifications">
+    <PageReference>BT53-54</PageReference>
+    <Child ReferenceText="bone marrow upgrades">
+      <PageReference>BT182</PageReference>
+    </Child>
+    <Child ReferenceText="muscle grafts">
+      <PageReference>BT172</PageReference>
+    </Child>
+    <Child ReferenceText="muscle reinforcement biomod">
+      <PageReference>BT176</PageReference>
+    </Child>
+    <Child ReferenceText="polykeratin grafts">
+      <PageReference>BT177</PageReference>
+    </Child>
+    <Child ReferenceText="skeletal strengthening nanovirus">
+      <PageReference>BT189</PageReference>
+    </Child>
+    <Child ReferenceText="unsupported strength limitation">
+      <PageReference>BT215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Musk drugs">
+    <PageReference>BT158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mycoprotein">
+    <PageReference>BT78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nano-Fever quirk">
+    <PageReference>BT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanotechnology">
+    <PageReference>BT161-167</PageReference>
+    <Child ReferenceText="delivery systems">
+      <PageReference>BT167</PageReference>
+    </Child>
+    <Child ReferenceText="nanodrugs">
+      <PageReference>BT161-163</PageReference>
+    </Child>
+    <Child ReferenceText="nano-imaging">
+      <PageReference>BT129</PageReference>
+    </Child>
+    <Child ReferenceText="nanostasis">
+      <PageReference>BT147</PageReference>
+    </Child>
+    <Child ReferenceText="nanosymbionts">
+      <PageReference>BT164-167</PageReference>
+    </Child>
+    <Child ReferenceText="nanoviruses">
+      <PageReference>BT12</PageReference>
+      <PageReference>BT104</PageReference>
+      <PageReference>BT115</PageReference>
+      <PageReference>BT163</PageReference>
+      <PageReference>BT184-191</PageReference>
+    </Child>
+    <Child ReferenceText="nanowarfare">
+      <PageReference>BT191</PageReference>
+    </Child>
+    <Child ReferenceText="storage and handling of nanomachines">
+      <PageReference>BT153</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Narcotics">
+    <PageReference>BT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nature versus nurture">
+    <PageReference>BT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromorphosis nanovirus">
+    <PageReference>BT188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neo-Coon template">
+    <PageReference>BT90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neogenesis">
+    <PageReference>BT27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neo-Gorilla template">
+    <PageReference>BT92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neo-Horse template">
+    <PageReference>BT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neo-Pinniped template">
+    <PageReference>BT92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neo-vampire bat">
+    <PageReference>BT93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NERV">
+    <PageReference>BT156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nervous system modifications">
+    <PageReference>BT54-55</PageReference>
+    <Child ReferenceText="neural augmentation biomod">
+      <PageReference>BT176</PageReference>
+    </Child>
+    <Child ReferenceText="neuromods">
+      <PageReference>BT179</PageReference>
+    </Child>
+    <Child ReferenceText="with proteus nanovirus">
+      <PageReference>BT186-187</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neural inhibitor">
+    <PageReference>BT136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neurological Disorder disadvantage">
+    <PageReference>BT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neuropreservation">
+    <PageReference>BT145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neuropsychology">
+    <PageReference>BT143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neurotransmitters">
+    <PageReference>BT3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neurovine">
+    <PageReference>BT157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nif plants">
+    <PageReference>BT79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninhydrin">
+    <PageReference>BT25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nitrous oxide">
+    <PageReference>BT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Degeneration in Zero-G perk">
+    <PageReference>BT211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nurse template">
+    <PageReference>BT207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nutricrops">
+    <PageReference>BT78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Octosap template">
+    <PageReference>BT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Olympiads">
+    <PageReference>BT218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Omega lens">
+    <PageReference>BT66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Operating theater">
+    <PageReference>BT138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Organelles">
+    <PageReference>BT103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Organleggers">
+    <PageReference>BT194-195</PageReference>
+    <Child ReferenceText="character template">
+      <PageReference>BT207-208</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Orion template">
+    <PageReference>BT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oviparous">
+    <PageReference>BT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oxygen">
+    <Child ReferenceText="absorption and storage of">
+      <PageReference>BT45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Painaway">
+    <PageReference>BT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pandora template">
+    <PageReference>BT69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pantropy">
+    <PageReference>BT38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parahumans">
+    <PageReference>BT14</PageReference>
+    <PageReference>BT39</PageReference>
+    <Child ReferenceText="and bioethics">
+      <PageReference>BT199-200</PageReference>
+    </Child>
+    <Child ReferenceText="and cultural familiarity">
+      <PageReference>BT211</PageReference>
+    </Child>
+    <Child ReferenceText="in Draconis setting">
+      <PageReference>BT230</PageReference>
+    </Child>
+    <Child ReferenceText="templates">
+      <PageReference>BT67-74</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Parthenogenesis">
+    <PageReference>BT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paternity testing">
+    <PageReference>BT8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="PCR machine">
+    <PageReference>BT7</PageReference>
+    <PageReference>BT12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Penicillin">
+    <PageReference>BT150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peracetamol">
+    <PageReference>BT149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perflubron blood">
+    <PageReference>BT61</PageReference>
+    <PageReference>BT131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perfume glands">
+    <PageReference>BT175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>BT211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pest-resistant plants">
+    <PageReference>BT79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peter Pan process">
+    <PageReference>BT155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phage therapy">
+    <PageReference>BT119</PageReference>
+    <Child ReferenceText="phage-impregnated bandages">
+      <PageReference>BT124</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pharm animals">
+    <PageReference>BT85</PageReference>
+    <PageReference>BT88</PageReference>
+    <PageReference>BT94</PageReference>
+    <Child ReferenceText="pharm goat">
+      <PageReference>BT93</PageReference>
+    </Child>
+    <Child ReferenceText="pharm plants">
+      <PageReference>BT80</PageReference>
+    </Child>
+    <Child ReferenceText="as protein factories">
+      <PageReference>BT120</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Phenotype">
+    <PageReference>BT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pheromones">
+    <Child ReferenceText="modifications">
+      <PageReference>BT48</PageReference>
+    </Child>
+    <Child ReferenceText="pheromone gland biomod">
+      <PageReference>BT176</PageReference>
+    </Child>
+    <Child ReferenceText="sex pheromones">
+      <PageReference>BT47</PageReference>
+      <PageReference>BT158</PageReference>
+    </Child>
+    <Child ReferenceText="genetically targeted">
+      <PageReference>BT158</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Photosynthesis">
+    <PageReference>BT105</PageReference>
+    <Child ReferenceText="photosynthetic film">
+      <PageReference>BT111</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Photozyme solar film">
+    <PageReference>BT106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Physician">
+    <Child ReferenceText="in Draconis setting">
+      <PageReference>BT230</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>BT214</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BT208-209</PageReference>
+    </Child>
+    <Child ReferenceText="in Alexander Athanatos setting">
+      <PageReference>BT223</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pills">
+    <PageReference>BT167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plants">
+    <PageReference>BT77-81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plasmids">
+    <PageReference>BT12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plasmodium">
+    <PageReference>BT110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poison treatment">
+    <PageReference>BT131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pollution control">
+    <PageReference>BT106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Polymerase chain reaction machine">
+    <SeeAlso>PCR Machine</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Polysaccharides">
+    <PageReference>BT35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Portable clinical analyzer">
+    <PageReference>BT127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Positron emission tomography (PET)">
+    <PageReference>BT128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prehensile">
+    <Child ReferenceText="tongue">
+      <PageReference>BT45</PageReference>
+    </Child>
+    <Child ReferenceText="trunk">
+      <PageReference>BT51</PageReference>
+    </Child>
+    <Child ReferenceText="toes">
+      <PageReference>BT51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Preservation">
+    <PageReference>BT144-147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure-Tolerant Lungs perk">
+    <PageReference>BT211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prions">
+    <PageReference>BT104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Procaine">
+    <PageReference>BT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prokaryotes">
+    <PageReference>BT7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prometheus lens">
+    <PageReference>BT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Propofol">
+    <PageReference>BT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Proteins">
+    <PageReference>BT6</PageReference>
+    <PageReference>BT11</PageReference>
+    <Child ReferenceText="prions">
+      <PageReference>BT104</PageReference>
+    </Child>
+    <Child ReferenceText="and protein-coding genes">
+      <PageReference>BT8</PageReference>
+    </Child>
+    <Child ReferenceText="and protein factories">
+      <PageReference>BT120</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Protozoa">
+    <PageReference>BT102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic drugs">
+    <PageReference>BT160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quinine">
+    <PageReference>BT153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quirks">
+    <PageReference>BT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rabbit fever">
+    <PageReference>BT114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiotherapy">
+    <PageReference>BT132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranger template">
+    <PageReference>BT74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reanimation nanovirus">
+    <PageReference>BT163</PageReference>
+    <PageReference>BT188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reattachers">
+    <PageReference>BT133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recapitulation theory">
+    <PageReference>BT34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recovery">
+    <PageReference>BT139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regeneration">
+    <PageReference>BT50</PageReference>
+    <Child ReferenceText="with genetic surgery">
+      <PageReference>BT184</PageReference>
+    </Child>
+    <Child ReferenceText="with nanosymbionts">
+      <PageReference>BT166</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Remove Fetus spell">
+    <PageReference>BT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reproductive Control perk">
+    <PageReference>BT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reproductive modifications">
+    <PageReference>BT58</PageReference>
+    <Child ReferenceText="androwomb biomod">
+      <PageReference>BT175</PageReference>
+    </Child>
+    <Child ReferenceText="of animals">
+      <PageReference>BT86</PageReference>
+    </Child>
+    <Child ReferenceText="Eros Plus biomod">
+      <PageReference>BT171</PageReference>
+    </Child>
+    <Child ReferenceText="exotic genitalia">
+      <PageReference>BT59</PageReference>
+    </Child>
+    <Child ReferenceText="gamete alterations">
+      <PageReference>BT183</PageReference>
+      <PageReference>BT184</PageReference>
+    </Child>
+    <Child ReferenceText="sex change biomod">
+      <PageReference>BT170</PageReference>
+    </Child>
+    <Child ReferenceText="testicle tuck biomod">
+      <PageReference>BT172</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reproductive technology">
+    <PageReference>BT19-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reputation advantage">
+    <PageReference>BT211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires Low Gravity limitation">
+    <PageReference>BT215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Residential trees">
+    <PageReference>BT80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant advantage">
+    <PageReference>BT211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Respiratory modifications">
+    <PageReference>BT55-56</PageReference>
+    <Child ReferenceText="high-pressure lungs feature">
+      <PageReference>BT212</PageReference>
+    </Child>
+    <Child ReferenceText="hyper-lungs biomod">
+      <PageReference>BT174</PageReference>
+    </Child>
+    <Child ReferenceText="low-pressure lungs feature">
+      <PageReference>BT212</PageReference>
+    </Child>
+    <Child ReferenceText="lung cleaners nanosymbiont">
+      <PageReference>BT165</PageReference>
+    </Child>
+    <Child ReferenceText="pressuretolerant lungs perk">
+      <PageReference>BT211</PageReference>
+    </Child>
+    <Child ReferenceText="respirocytes nanosymbiont">
+      <PageReference>BT166</PageReference>
+    </Child>
+    <Child ReferenceText="thin atmosphere biomod">
+      <PageReference>BT176</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Restricted Diet disadvantage">
+    <PageReference>BT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restriction enzymes">
+    <PageReference>BT11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retroviruses">
+    <PageReference>BT12</PageReference>
+    <PageReference>BT104</PageReference>
+    <PageReference>BT121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Revive capsules">
+    <PageReference>BT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ribonucleic acid">
+    <SeeAlso>RNA</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ribosomes">
+    <PageReference>BT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="RNA">
+    <SeeAlso>Messenger RNA</SeeAlso>
+    <Child ReferenceText="Rootstock">
+      <PageReference>BT78</PageReference>
+    </Child>
+    <Child ReferenceText="sample dating">
+      <PageReference>BT10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sapience">
+    <PageReference>BT85</PageReference>
+    <PageReference>BT86</PageReference>
+    <Child ReferenceText="sapient buildings">
+      <PageReference>BT101</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scion">
+    <PageReference>BT78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scopolamine">
+    <PageReference>BT157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret disadvantage">
+    <PageReference>BT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sedatives">
+    <PageReference>BT152</PageReference>
+    <PageReference>BT158</PageReference>
+    <Child ReferenceText="anti-sed">
+      <PageReference>BT157</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Selective breeding">
+    <PageReference>BT5</PageReference>
+    <PageReference>BT10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-repair modifications">
+    <PageReference>BT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-replicating modification">
+    <PageReference>BT61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Selkie template">
+    <PageReference>BT71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Senior citizen template">
+    <PageReference>BT210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense Disease spell">
+    <PageReference>BT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense Nano spell">
+    <PageReference>BT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensory modifications">
+    <PageReference>BT56-57</PageReference>
+    <Child ReferenceText="cat’s eye transplant">
+      <PageReference>BT178</PageReference>
+    </Child>
+    <Child ReferenceText="eye upgrades">
+      <PageReference>BT173</PageReference>
+    </Child>
+    <Child ReferenceText="eyesight correction">
+      <PageReference>BT169</PageReference>
+    </Child>
+    <Child ReferenceText="with nanosymbionts">
+      <PageReference>BT166</PageReference>
+    </Child>
+    <Child ReferenceText="ocular treatments">
+      <PageReference>BT120</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sequence DNA spell">
+    <PageReference>BT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sevoflurane">
+    <PageReference>BT135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sex cell production">
+    <Child ReferenceText="artificial">
+      <PageReference>BT19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sex selection">
+    <PageReference>BT64</PageReference>
+    <Child ReferenceText="more than two sexes">
+      <PageReference>BT59</PageReference>
+    </Child>
+    <Child ReferenceText="and sex ratios">
+      <PageReference>BT64</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sex-linked traits">
+    <PageReference>BT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sexual modifications">
+    <SeeAlso>Reproductive Modifications</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sexual Orientation feature">
+    <PageReference>BT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sheep">
+    <PageReference>BT5</PageReference>
+    <PageReference>BT23</PageReference>
+    <PageReference>BT24</PageReference>
+    <Child ReferenceText="self-shearing">
+      <PageReference>BT94</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shock">
+    <PageReference>BT125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shorter Gestation feature">
+    <PageReference>BT59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Siduri lens">
+    <PageReference>BT67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Size modifications">
+    <PageReference>BT62-64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skeletal modifications">
+    <SeeAlso>Musculo-Skeletal Modifications</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>BT214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skin modifications">
+    <SeeAlso>Cosmetic Modifications</SeeAlso>
+    <Child ReferenceText="solarskin nanovirus">
+      <PageReference>BT189</PageReference>
+    </Child>
+    <Child ReferenceText="aquaskin nanovirus">
+      <PageReference>BT188</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skullcat">
+    <PageReference>BT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slave species">
+    <PageReference>BT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleep-state modifications">
+    <PageReference>BT44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slime molds">
+    <PageReference>BT110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sludges">
+    <PageReference>BT110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smelling salts">
+    <PageReference>BT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sobriety pill">
+    <PageReference>BT158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Regard advantage">
+    <PageReference>BT211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma disadvantage">
+    <PageReference>BT213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sodium pentothal (sodium thiopental)">
+    <PageReference>BT135</PageReference>
+    <PageReference>BT157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Space Cat template">
+    <PageReference>BT91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spacecraft">
+    <PageReference>BT98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spacer template">
+    <PageReference>BT71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spartan template">
+    <PageReference>BT74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specialization">
+    <PageReference>BT40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Species">
+    <Child ReferenceText="species modification">
+      <PageReference>BT37-38</PageReference>
+      <PageReference>BT39</PageReference>
+      <PageReference>BT42</PageReference>
+    </Child>
+    <Child ReferenceText="species-jumping">
+      <PageReference>BT114</PageReference>
+    </Child>
+    <Child ReferenceText="creating new species">
+      <PageReference>BT87</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Speech modifications">
+    <Child ReferenceText="and animals">
+      <PageReference>BT87</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spellgraft spell">
+    <PageReference>BT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sphygmomanometer">
+    <PageReference>BT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spleen modifications">
+    <SeeAlso>Immune System Modifications</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sponge computers">
+    <PageReference>BT29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Squidpack">
+    <PageReference>BT96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stasine">
+    <PageReference>BT159</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stasis">
+    <Child ReferenceText="temporal">
+      <PageReference>BT147</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stem cells">
+    <PageReference>BT22</PageReference>
+    <PageReference>BT197</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steroids">
+    <PageReference>BT154</PageReference>
+    <Child ReferenceText="super-steroids">
+      <PageReference>BT156</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stethoscope">
+    <PageReference>BT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stimulants">
+    <PageReference>BT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stress Atavism disadvantage">
+    <PageReference>BT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sucrochemicals">
+    <PageReference>BT109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sulfanilamide">
+    <PageReference>BT150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superstim">
+    <PageReference>BT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surgery">
+    <PageReference>BT135-143</PageReference>
+    <PageReference>BT168-184</PageReference>
+    <Child ReferenceText="cinematic">
+      <PageReference>BT138</PageReference>
+    </Child>
+    <Child ReferenceText="exploratory">
+      <PageReference>BT127</PageReference>
+    </Child>
+    <Child ReferenceText="robotic">
+      <PageReference>BT137</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>BT214</PageReference>
+    </Child>
+    <Child ReferenceText="and telemedicine">
+      <PageReference>BT142</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Surgical instruments">
+    <PageReference>BT138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surrogate motherhood">
+    <PageReference>BT20</PageReference>
+    <Child ReferenceText="in Alexander Athanatos setting">
+      <PageReference>BT223</PageReference>
+    </Child>
+    <Child ReferenceText="cross-species surrogacy perk">
+      <PageReference>BT58</PageReference>
+    </Child>
+    <Child ReferenceText="job description">
+      <PageReference>BT210</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Surveillance infection">
+    <PageReference>BT107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suspended animation">
+    <PageReference>BT146-147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Switchable enhancement">
+    <PageReference>BT214</PageReference>
+    <Child ReferenceText="and body parts">
+      <PageReference>BT215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbiotic parasites">
+    <PageReference>BT94-95</PageReference>
+    <Child ReferenceText="symbiotic plants">
+      <PageReference>BT79</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Synthetic skin">
+    <PageReference>BT111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taboo traits">
+    <PageReference>BT64</PageReference>
+    <PageReference>BT65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tails">
+    <SeeAlso>Morphological Changes</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Tartar emetic">
+    <PageReference>BT153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tek-Rat template">
+    <PageReference>BT74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telemedicine">
+    <PageReference>BT142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telomeres">
+    <PageReference>BT24</PageReference>
+    <PageReference>BT223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <Child ReferenceText="racial">
+      <PageReference>BT41</PageReference>
+      <PageReference>BT66-74</PageReference>
+      <PageReference>BT89-93</PageReference>
+    </Child>
+    <Child ReferenceText="and racial point cost">
+      <PageReference>BT65</PageReference>
+    </Child>
+    <Child ReferenceText="character">
+      <PageReference>BT202-210</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tempo drug">
+    <PageReference>BT156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temporary Disadvantage limitation">
+    <PageReference>BT215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terminally Ill disadvantage">
+    <PageReference>BT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terraforming">
+    <PageReference>BT109</PageReference>
+    <Child ReferenceText="in Draconis setting">
+      <PageReference>BT228</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Terrorism">
+    <PageReference>BT117</PageReference>
+    <Child ReferenceText="bioterrorist lens">
+      <PageReference>BT203</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Test subject job description">
+    <PageReference>BT210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thymine">
+    <PageReference>BT6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiresia template">
+    <PageReference>BT70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tissue Engineering">
+    <PageReference>BT26</PageReference>
+    <Child ReferenceText="and transplants">
+      <PageReference>BT141</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Torpine">
+    <PageReference>BT157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toxic compounds">
+    <PageReference>BT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trach kit">
+    <PageReference>BT124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transduction">
+    <PageReference>BT13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transfer Pregnancy spell">
+    <PageReference>BT32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transformation">
+    <Child ReferenceText="by genetic modification">
+      <PageReference>BT60-61</PageReference>
+    </Child>
+    <Child ReferenceText="as gene transfer">
+      <PageReference>BT13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Transgenic">
+    <PageReference>BT13</PageReference>
+    <Child ReferenceText="minor modifications">
+      <PageReference>BT44-46</PageReference>
+    </Child>
+    <Child ReferenceText="natural weapons">
+      <PageReference>BT45-46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Transplants">
+    <PageReference>BT26</PageReference>
+    <PageReference>BT141-143</PageReference>
+    <Child ReferenceText="hair">
+      <PageReference>BT169</PageReference>
+      <PageReference>BT171</PageReference>
+    </Child>
+    <Child ReferenceText="limb replacement">
+      <PageReference>BT175</PageReference>
+      <PageReference>BT178</PageReference>
+    </Child>
+    <Child ReferenceText="low rejection threshold perk">
+      <PageReference>BT211</PageReference>
+    </Child>
+    <Child ReferenceText="xenotransplants">
+      <PageReference>BT178</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Treatment-resistant">
+    <PageReference>BT114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trigger limitation">
+    <PageReference>BT215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Triton template">
+    <PageReference>BT71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trust hormones">
+    <PageReference>BT48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tularemia">
+    <PageReference>BT114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tylenol, 149 “Typhoid Mary, ” 117" />
+  <IndexReference ReferenceText="Übermenschen">
+    <PageReference>BT39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultrasound imaging">
+    <PageReference>BT128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unnatural Features disadvantage">
+    <PageReference>BT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unsupported Strength limitation">
+    <PageReference>BT215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Biochemistry disadvantage">
+    <PageReference>BT212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uplifts">
+    <PageReference>BT86</PageReference>
+    <Child ReferenceText="and bioethics">
+      <PageReference>BT199-200</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic">
+      <PageReference>BT92</PageReference>
+    </Child>
+    <Child ReferenceText="and cultural familiarity">
+      <PageReference>BT211</PageReference>
+    </Child>
+    <Child ReferenceText="in Draconis setting">
+      <PageReference>BT227</PageReference>
+      <PageReference>BT230</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ursaline">
+    <PageReference>BT151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ursamorph template">
+    <PageReference>BT93</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vaccines">
+    <PageReference>BT119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vacuum Adaptation modification">
+    <Child ReferenceText="insect">
+      <PageReference>BT84</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vector modifications">
+    <PageReference>BT115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <PageReference>BT96-103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Venom">
+    <PageReference>BT49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ventilator">
+    <PageReference>BT136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Verazene nanodrug">
+    <PageReference>BT162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Viruses">
+    <PageReference>BT104</PageReference>
+    <PageReference>BT184-191</PageReference>
+    <SeeAlso>Nanotechnology</SeeAlso>
+    <Child ReferenceText="as target-seeking pathogens">
+      <PageReference>BT115</PageReference>
+    </Child>
+    <Child ReferenceText="virus-hunting nanosymbionts">
+      <PageReference>BT166</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vital signs">
+    <PageReference>BT126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vitamins">
+    <PageReference>BT157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vitrification">
+    <PageReference>BT145-146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voice modifications">
+    <PageReference>BT173</PageReference>
+    <Child ReferenceText="skeleton tongue biomod">
+      <PageReference>BT175</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Void Dancer template">
+    <PageReference>BT72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voidshark bioship">
+    <PageReference>BT99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warp Fetus spell">
+    <PageReference>BT33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Watson">
+    <Child ReferenceText="James">
+      <PageReference>BT11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Webgun">
+    <PageReference>BT227</PageReference>
+    <PageReference>BT228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wideawake">
+    <PageReference>BT152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wilmut">
+    <Child ReferenceText="Ian">
+      <PageReference>BT23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wings">
+    <SeeAlso>Morphological Changes</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Woese">
+    <Child ReferenceText="Carl">
+      <PageReference>BT103</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="World trees">
+    <PageReference>BT80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Xeno-pheromones">
+    <PageReference>BT48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Xenosculpting">
+    <PageReference>BT172-173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="X-rays">
+    <PageReference>BT127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zoogenetic plants">
+    <PageReference>BT81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zoogloeal organisms">
+    <PageReference>BT110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zygotes">
+    <PageReference>BT36</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

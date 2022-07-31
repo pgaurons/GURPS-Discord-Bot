@@ -1,0 +1,518 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="required">
+      <PageReference>DFS5-7</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>DFS4</PageReference>
+    </Child>
+    <Child ReferenceText="effect limit and">
+      <PageReference>DFS11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Air college">
+    <PageReference>DFS15-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal college">
+    <PageReference>DFS17-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area spells">
+    <PageReference>DFS12-13</PageReference>
+    <Child ReferenceText="Resisted">
+      <PageReference>DFS14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Backfire">
+    <PageReference>DFS4</PageReference>
+    <PageReference>DFS8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bardic Talent advantage">
+    <PageReference>DFS4</PageReference>
+    <PageReference>DFS7</PageReference>
+    <Child ReferenceText="effect limit and">
+      <PageReference>DFS11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bards">
+    <PageReference>DFS4</PageReference>
+    <PageReference>DFS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blocking (combat option)">
+    <PageReference>DFS12-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blocking spells">
+    <PageReference>DFS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body Control college">
+    <PageReference>DFS20-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical spell list">
+    <PageReference>DFS6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colleges">
+    <Child ReferenceText="list">
+      <PageReference>DFS73</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>DFS4</PageReference>
+      <PageReference>DFS15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Communication and Empathy college">
+    <PageReference>DFS23-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defense options">
+    <PageReference>DFS12-14</PageReference>
+    <Child ReferenceText="Blocking spells">
+      <PageReference>DFS14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dodging">
+    <PageReference>DFS12-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Druids">
+    <PageReference>DFS4</PageReference>
+    <PageReference>DFS6-7</PageReference>
+    <Child ReferenceText="spell list">
+      <PageReference>DFS7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth college">
+    <PageReference>DFS27-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy Reserve advantage">
+    <PageReference>DFS9</PageReference>
+    <PageReference>DFS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy">
+    <PageReference>DFS4</PageReference>
+    <Child ReferenceText="advantage">
+      <PageReference>DFS9</PageReference>
+      <PageReference>DFS10</PageReference>
+    </Child>
+    <Child ReferenceText="canceling spells">
+      <PageReference>DFS11</PageReference>
+    </Child>
+    <Child ReferenceText="cost to cast">
+      <PageReference>DFS9-10</PageReference>
+      <PageReference>DFS11</PageReference>
+    </Child>
+    <Child ReferenceText="effect limit and">
+      <PageReference>DFS10-11</PageReference>
+    </Child>
+    <Child ReferenceText="failure and cost">
+      <PageReference>DFS8</PageReference>
+    </Child>
+    <Child ReferenceText="recovering">
+      <PageReference>DFS10</PageReference>
+      <PageReference>DFS38</PageReference>
+    </Child>
+    <Child ReferenceText="skill and">
+      <PageReference>DFS10</PageReference>
+      <PageReference>DFS75</PageReference>
+    </Child>
+    <Child ReferenceText="to power spells">
+      <PageReference>DFS9-10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire college">
+    <PageReference>DFS29-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Food college">
+    <PageReference>DFS32-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gate college">
+    <PageReference>DFS34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glossary">
+    <PageReference>DFS4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing college">
+    <PageReference>DFS35-40</PageReference>
+    <Child ReferenceText="special rules">
+      <PageReference>DFS35-36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit Points">
+    <Child ReferenceText="to power spells">
+      <PageReference>DFS10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion college">
+    <PageReference>DFS40-42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Information spells">
+    <PageReference>DFS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knowledge college">
+    <PageReference>DFS42-45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light and Darkness college">
+    <PageReference>DFS45-48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Long-distance modifiers">
+    <PageReference>DFS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery advantage">
+    <PageReference>DFS4</PageReference>
+    <PageReference>DFS7</PageReference>
+    <PageReference>DFS8</PageReference>
+    <Child ReferenceText="effect limit and">
+      <PageReference>DFS11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Resistance advantage">
+    <PageReference>DFS6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic items">
+    <Child ReferenceText="spells as">
+      <PageReference>DFS15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Making and Breaking college">
+    <PageReference>DFS48-50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana">
+    <PageReference>DFS4</PageReference>
+    <PageReference>DFS7-8</PageReference>
+    <Child ReferenceText="permanent spells and">
+      <PageReference>DFS12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Maps">
+    <Child ReferenceText="Area spells">
+      <PageReference>DFS12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee spells">
+    <PageReference>DFS13</PageReference>
+    <Child ReferenceText="Blocking vs" />
+    <Child ReferenceText="">
+      <PageReference>DFS14</PageReference>
+    </Child>
+    <Child ReferenceText="dissipating held">
+      <PageReference>DFS13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-Spells college">
+    <PageReference>DFS50-53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Control college">
+    <PageReference>DFS53-56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missile spells">
+    <PageReference>DFS13-14</PageReference>
+    <Child ReferenceText="Blocking vs">
+      <PageReference>DFS14</PageReference>
+    </Child>
+    <Child ReferenceText="dissipating held">
+      <PageReference>DFS13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Movement college">
+    <PageReference>DFS56-59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nature’s strength">
+    <PageReference>DFS4</PageReference>
+    <PageReference>DFS6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromantic college">
+    <PageReference>DFS59-61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parrying">
+    <PageReference>DFS12-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plant college">
+    <PageReference>DFS61-63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Investiture advantage">
+    <PageReference>DFS4</PageReference>
+    <PageReference>DFS5</PageReference>
+    <Child ReferenceText="effect limit and">
+      <PageReference>DFS11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Investiture (Druidic) advantage">
+    <PageReference>DFS4</PageReference>
+    <PageReference>DFS6</PageReference>
+    <Child ReferenceText="effect limit and">
+      <PageReference>DFS11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power items">
+    <PageReference>DFS9</PageReference>
+    <Child ReferenceText="replenishing">
+      <PageReference>DFS10</PageReference>
+    </Child>
+    <Child ReferenceText="staffs as">
+      <PageReference>DFS9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Protection and Warning college">
+    <PageReference>DFS63-65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realms">
+    <PageReference>DFS5-8</PageReference>
+    <Child ReferenceText="overview">
+      <PageReference>DFS4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Regular spells">
+    <PageReference>DFS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resisted spells">
+    <PageReference>DFS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sanctity">
+    <PageReference>DFS4</PageReference>
+    <PageReference>DFS5</PageReference>
+    <Child ReferenceText="permanent spells and">
+      <PageReference>DFS12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrolls">
+    <PageReference>DFS5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="casting time and">
+      <PageReference>DFS10</PageReference>
+      <PageReference>DFS75</PageReference>
+    </Child>
+    <Child ReferenceText="cost to maintain and">
+      <PageReference>DFS11</PageReference>
+    </Child>
+    <Child ReferenceText="effective">
+      <PageReference>DFS4</PageReference>
+      <PageReference>DFS8</PageReference>
+    </Child>
+    <Child ReferenceText="energy cost and">
+      <PageReference>DFS10</PageReference>
+      <PageReference>DFS75</PageReference>
+    </Child>
+    <Child ReferenceText="base">
+      <PageReference>DFS4</PageReference>
+      <PageReference>DFS8</PageReference>
+      <PageReference>DFS9</PageReference>
+      <PageReference>DFS75</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sound college">
+    <PageReference>DFS66-68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special spells">
+    <PageReference>DFS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speaking from Experience">
+    <PageReference>DFS5</PageReference>
+    <PageReference>DFS16</PageReference>
+    <PageReference>DFS23</PageReference>
+    <PageReference>DFS24</PageReference>
+    <PageReference>DFS28</PageReference>
+    <PageReference>DFS33</PageReference>
+    <PageReference>DFS38</PageReference>
+    <PageReference>DFS49</PageReference>
+    <PageReference>DFS52</PageReference>
+    <PageReference>DFS69</PageReference>
+    <PageReference>DFS70</PageReference>
+    <PageReference>DFS77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spellcasting talent">
+    <PageReference>DFS4</PageReference>
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Mana</SeeAlso>
+    <SeeAlso>Nature’s Strength</SeeAlso>
+    <SeeAlso>Sanctity</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spellbooks">
+    <PageReference>DFS5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Area Spells</SeeAlso>
+    <SeeAlso>Colleges</SeeAlso>
+    <SeeAlso>Defense Options</SeeAlso>
+    <SeeAlso>Energy</SeeAlso>
+    <SeeAlso>Mana</SeeAlso>
+    <SeeAlso>Melee Spells</SeeAlso>
+    <SeeAlso>Missile Spells</SeeAlso>
+    <SeeAlso>Nature’s Strength</SeeAlso>
+    <SeeAlso>Realms</SeeAlso>
+    <SeeAlso>Sanctity</SeeAlso>
+    <SeeAlso>Skills</SeeAlso>
+    <Child ReferenceText="bardic">
+      <PageReference>DFS7</PageReference>
+    </Child>
+    <Child ReferenceText="battle map and">
+      <PageReference>DFS12</PageReference>
+    </Child>
+    <Child ReferenceText="Blocking">
+      <PageReference>DFS14</PageReference>
+    </Child>
+    <Child ReferenceText="canceling">
+      <PageReference>DFS4</PageReference>
+      <PageReference>DFS11</PageReference>
+    </Child>
+    <Child ReferenceText="caster">
+      <PageReference>DFS4</PageReference>
+      <PageReference>DFS9</PageReference>
+    </Child>
+    <Child ReferenceText="casting">
+      <PageReference>DFS8-12</PageReference>
+    </Child>
+    <Child ReferenceText="casting time">
+      <PageReference>DFS9</PageReference>
+      <PageReference>DFS15</PageReference>
+    </Child>
+    <Child ReferenceText="casting time and skill">
+      <PageReference>DFS10</PageReference>
+      <PageReference>DFS75</PageReference>
+    </Child>
+    <Child ReferenceText="casting while maintaining">
+      <PageReference>DFS11-12</PageReference>
+    </Child>
+    <Child ReferenceText="changing maintained">
+      <PageReference>DFS11</PageReference>
+    </Child>
+    <Child ReferenceText="classes">
+      <PageReference>DFS4</PageReference>
+      <PageReference>DFS12-14</PageReference>
+    </Child>
+    <Child ReferenceText="clerical">
+      <PageReference>DFS5-6</PageReference>
+    </Child>
+    <Child ReferenceText="concentration and maintenance">
+      <PageReference>DFS11</PageReference>
+    </Child>
+    <Child ReferenceText="critical failure">
+      <PageReference>DFS4</PageReference>
+      <PageReference>DFS8</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>DFS4</PageReference>
+    </Child>
+    <Child ReferenceText="dissipating held">
+      <PageReference>DFS13</PageReference>
+    </Child>
+    <Child ReferenceText="distraction and">
+      <PageReference>DFS8-9</PageReference>
+    </Child>
+    <Child ReferenceText="druidic">
+      <PageReference>DFS6-7</PageReference>
+    </Child>
+    <Child ReferenceText="duration">
+      <PageReference>DFS11-12</PageReference>
+      <PageReference>DFS15</PageReference>
+    </Child>
+    <Child ReferenceText="duration of Missile">
+      <PageReference>DFS13-14</PageReference>
+    </Child>
+    <Child ReferenceText="failure">
+      <PageReference>DFS8</PageReference>
+    </Child>
+    <Child ReferenceText="for NPCs">
+      <PageReference>DFS3</PageReference>
+    </Child>
+    <Child ReferenceText="Information">
+      <PageReference>DFS14</PageReference>
+    </Child>
+    <Child ReferenceText="injury and">
+      <PageReference>DFS8-9</PageReference>
+    </Child>
+    <Child ReferenceText="jet">
+      <PageReference>DFS12</PageReference>
+    </Child>
+    <Child ReferenceText="learning new">
+      <PageReference>DFS5</PageReference>
+    </Child>
+    <Child ReferenceText="limits on effect">
+      <PageReference>DFS10</PageReference>
+    </Child>
+    <Child ReferenceText="maintaining">
+      <PageReference>DFS4</PageReference>
+      <PageReference>DFS11-12</PageReference>
+    </Child>
+    <Child ReferenceText="permanent">
+      <PageReference>DFS12</PageReference>
+    </Child>
+    <Child ReferenceText="prerequisite overview">
+      <PageReference>DFS4</PageReference>
+      <PageReference>DFS15</PageReference>
+    </Child>
+    <Child ReferenceText="prerequisite table">
+      <PageReference>DFS73-79</PageReference>
+    </Child>
+    <Child ReferenceText="Regular">
+      <PageReference>DFS12</PageReference>
+    </Child>
+    <Child ReferenceText="Resisted">
+      <PageReference>DFS14</PageReference>
+    </Child>
+    <Child ReferenceText="ritual needed">
+      <PageReference>DFS10</PageReference>
+    </Child>
+    <Child ReferenceText="Special">
+      <PageReference>DFS14</PageReference>
+    </Child>
+    <Child ReferenceText="special ability vs" />
+    <Child ReferenceText="">
+      <PageReference>DFS6</PageReference>
+    </Child>
+    <Child ReferenceText="spell vs" />
+    <Child ReferenceText="">
+      <PageReference>DFS6</PageReference>
+    </Child>
+    <Child ReferenceText="subject">
+      <PageReference>DFS4</PageReference>
+      <PageReference>DFS9</PageReference>
+    </Child>
+    <Child ReferenceText="success">
+      <PageReference>DFS8</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>DFS73-79</PageReference>
+    </Child>
+    <Child ReferenceText="wizardly">
+      <PageReference>DFS7-8</PageReference>
+    </Child>
+    <Child ReferenceText="as magic items">
+      <PageReference>DFS15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Staffs">
+    <PageReference>DFS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural energy">
+    <PageReference>DFS4</PageReference>
+    <SeeAlso>Mana</SeeAlso>
+    <SeeAlso>Nature’s Strength</SeeAlso>
+    <SeeAlso>Sanctity</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="long-distance modifiers">
+      <PageReference>DFS14</PageReference>
+    </Child>
+    <Child ReferenceText="prerequisite">
+      <PageReference>DFS73-79</PageReference>
+    </Child>
+    <Child ReferenceText="spell list">
+      <PageReference>DFS73-79</PageReference>
+    </Child>
+    <Child ReferenceText="critical spell failure">
+      <PageReference>DFS8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Water college">
+    <PageReference>DFS68-71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weather college">
+    <PageReference>DFS71-72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizards">
+    <PageReference>DFS4</PageReference>
+    <PageReference>DFS7-8</PageReference>
+    <Child ReferenceText="prerequisites">
+      <PageReference>DFS8</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

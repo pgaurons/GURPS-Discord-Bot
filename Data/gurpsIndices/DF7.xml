@@ -1,0 +1,555 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Agni">
+    <PageReference>DF7:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Apollo">
+    <PageReference>DF7:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Apparel of the Adventuress">
+    <PageReference>DF7:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aspergillum of High Power">
+    <PageReference>DF7:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bacchus">
+    <PageReference>DF7:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Celestial PCs">
+    <PageReference>DF7:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ceres">
+    <PageReference>DF7:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chaotic morality">
+    <PageReference>DF7:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Character abilities and gods">
+    <PageReference>DF7:6</PageReference>
+    <SeeAlso>Priests</SeeAlso>
+    <SeeAlso>Special Powers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleric template">
+    <PageReference>DF7:6</PageReference>
+    <SeeAlso>Priests</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine">
+    <SeeAlso>Gods</SeeAlso>
+    <Child ReferenceText="realms">
+      <PageReference>DF7:5-7</PageReference>
+    </Child>
+    <Child ReferenceText="elements">
+      <PageReference>DF7:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Druid template">
+    <PageReference>DF7:6</PageReference>
+    <SeeAlso>Priests</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeon fantasy vs">
+    <Child ReferenceText="reality">
+      <PageReference>DF7:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder-spawn">
+    <PageReference>DF7:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elements, divine">
+    <PageReference>DF7:6</PageReference>
+    <SeeAlso>Gods</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <PageReference>DF7:33-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evil cleric lens">
+    <PageReference>DF7:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evil morality">
+    <PageReference>DF7:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flamethrowers">
+    <PageReference>DF7:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gods">
+    <SeeAlso>Divine</SeeAlso>
+    <SeeAlso>Morality And Gods</SeeAlso>
+    <SeeAlso>Pantheons</SeeAlso>
+    <Child ReferenceText="artificers">
+      <PageReference>DF7:9-10</PageReference>
+    </Child>
+    <Child ReferenceText="city">
+      <PageReference>DF7:11-12</PageReference>
+    </Child>
+    <Child ReferenceText="death, 13-14earth">
+      <PageReference>DF7:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="fire">
+      <PageReference>DF7:16-17</PageReference>
+    </Child>
+    <Child ReferenceText="frenzy">
+      <PageReference>DF7:32</PageReference>
+    </Child>
+    <Child ReferenceText="harvest">
+      <PageReference>DF7:8-9</PageReference>
+    </Child>
+    <Child ReferenceText="healing">
+      <PageReference>DF7:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="horses">
+      <PageReference>DF7:32</PageReference>
+    </Child>
+    <Child ReferenceText="hunting">
+      <PageReference>DF7:17-18</PageReference>
+    </Child>
+    <Child ReferenceText="love and fertility">
+      <PageReference>DF7:18-20</PageReference>
+    </Child>
+    <Child ReferenceText="luck">
+      <PageReference>DF7:32</PageReference>
+    </Child>
+    <Child ReferenceText="messengers and rogues">
+      <PageReference>DF7:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="night">
+      <PageReference>DF7:23</PageReference>
+    </Child>
+    <Child ReferenceText="rivers">
+      <PageReference>DF7:32</PageReference>
+    </Child>
+    <Child ReferenceText="scholarship">
+      <PageReference>DF7:32</PageReference>
+    </Child>
+    <Child ReferenceText="sea">
+      <PageReference>DF7:25-27</PageReference>
+    </Child>
+    <Child ReferenceText="storm">
+      <PageReference>DF7:4</PageReference>
+      <PageReference>DF7:27-28</PageReference>
+    </Child>
+    <Child ReferenceText="sun">
+      <PageReference>DF7:28-29</PageReference>
+    </Child>
+    <Child ReferenceText="war">
+      <PageReference>DF7:30-31</PageReference>
+    </Child>
+    <Child ReferenceText="agriculture">
+      <PageReference>DF7:8-9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Good morality">
+    <PageReference>DF7:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greek deities">
+    <PageReference>DF7:4</PageReference>
+    <PageReference>DF7:25</PageReference>
+    <PageReference>DF7:27</PageReference>
+    <PageReference>DF7:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DF7:3-5</PageReference>
+      <PageReference>DF7:11</PageReference>
+      <PageReference>DF7:30</PageReference>
+      <PageReference>DF7:34</PageReference>
+      <PageReference>DF7:36</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventures">
+      <PageReference>DF7:3</PageReference>
+      <PageReference>DF7:7-9</PageReference>
+      <PageReference>DF7:23</PageReference>
+      <PageReference>DF7:30</PageReference>
+      <PageReference>DF7:33-36</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DF7:11</PageReference>
+      <PageReference>DF7:35</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF7:3</PageReference>
+      <PageReference>DF7:6</PageReference>
+      <PageReference>DF7:7</PageReference>
+      <PageReference>DF7:11</PageReference>
+      <PageReference>DF7:30</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DF7:9</PageReference>
+      <PageReference>DF7:10</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 5: Allies">
+      <PageReference>DF7:3</PageReference>
+      <PageReference>DF7:6</PageReference>
+      <PageReference>DF7:7</PageReference>
+      <PageReference>DF7:17</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>DF7:3</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>DF7:3</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>DF7:3</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>DF7:3</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>DF7:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Half-spirits">
+    <PageReference>DF7:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hindu deities">
+    <PageReference>DF7:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy hunters">
+    <PageReference>DF7:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy relics">
+    <PageReference>DF7:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy symbol weapons">
+    <PageReference>DF7:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy warriors">
+    <Child ReferenceText="artificers">
+      <PageReference>DF7:10</PageReference>
+    </Child>
+    <Child ReferenceText="city">
+      <PageReference>DF7:12</PageReference>
+    </Child>
+    <Child ReferenceText="death">
+      <PageReference>DF7:14</PageReference>
+    </Child>
+    <Child ReferenceText="earth">
+      <PageReference>DF7:15</PageReference>
+    </Child>
+    <Child ReferenceText="fire">
+      <PageReference>DF7:16</PageReference>
+    </Child>
+    <Child ReferenceText="harvest">
+      <PageReference>DF7:8</PageReference>
+    </Child>
+    <Child ReferenceText="healing">
+      <PageReference>DF7:21</PageReference>
+    </Child>
+    <Child ReferenceText="hunting">
+      <PageReference>DF7:18</PageReference>
+    </Child>
+    <Child ReferenceText="love and fertility">
+      <PageReference>DF7:20</PageReference>
+    </Child>
+    <Child ReferenceText="messengers and rogues">
+      <PageReference>DF7:23</PageReference>
+    </Child>
+    <Child ReferenceText="night">
+      <PageReference>DF7:24</PageReference>
+    </Child>
+    <Child ReferenceText="sea">
+      <PageReference>DF7:26</PageReference>
+    </Child>
+    <Child ReferenceText="storms">
+      <PageReference>DF7:28</PageReference>
+    </Child>
+    <Child ReferenceText="sun">
+      <PageReference>DF7:29</PageReference>
+    </Child>
+    <Child ReferenceText="war">
+      <PageReference>DF7:31</PageReference>
+    </Child>
+    <Child ReferenceText="agriculture">
+      <PageReference>DF7:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy water">
+    <PageReference>DF7:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infernal PCs">
+    <PageReference>DF7:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infused">
+    <PageReference>DF7:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insane amorality">
+    <PageReference>DF7:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Items of power">
+    <PageReference>DF7:35-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leadership of pantheons">
+    <PageReference>DF7:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lens used">
+    <PageReference>DF7:6</PageReference>
+    <SeeAlso>Priests</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Loki">
+    <PageReference>DF7:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic items">
+    <PageReference>DF7:35-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Morality and gods">
+    <PageReference>DF7:5</PageReference>
+    <SeeAlso>Gods</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mortal followers">
+    <PageReference>DF7:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple realms">
+    <PageReference>DF7:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nature morality">
+    <PageReference>DF7:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neutral morality">
+    <PageReference>DF7:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Norse deities">
+    <PageReference>DF7:4</PageReference>
+    <PageReference>DF7:16</PageReference>
+    <PageReference>DF7:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Odin">
+    <PageReference>DF7:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oil of Kingship">
+    <PageReference>DF7:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pan">
+    <PageReference>DF7:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pantheons, overview">
+    <PageReference>DF7:4-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pele">
+    <PageReference>DF7:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poseidon">
+    <PageReference>DF7:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Investure (PI) advantage">
+    <PageReference>DF7:7</PageReference>
+    <SeeAlso>Spell Lists</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Priests">
+    <Child ReferenceText="artificers">
+      <PageReference>DF7:10</PageReference>
+    </Child>
+    <Child ReferenceText="city">
+      <PageReference>DF7:12</PageReference>
+    </Child>
+    <Child ReferenceText="death">
+      <PageReference>DF7:13</PageReference>
+    </Child>
+    <Child ReferenceText="earth">
+      <PageReference>DF7:15</PageReference>
+    </Child>
+    <Child ReferenceText="fire">
+      <PageReference>DF7:16</PageReference>
+    </Child>
+    <Child ReferenceText="harvest">
+      <PageReference>DF7:8</PageReference>
+    </Child>
+    <Child ReferenceText="healing">
+      <PageReference>DF7:21</PageReference>
+    </Child>
+    <Child ReferenceText="hunting">
+      <PageReference>DF7:17</PageReference>
+    </Child>
+    <Child ReferenceText="love and fertility">
+      <PageReference>DF7:19</PageReference>
+    </Child>
+    <Child ReferenceText="messengers and rogues">
+      <PageReference>DF7:22</PageReference>
+    </Child>
+    <Child ReferenceText="night">
+      <PageReference>DF7:24</PageReference>
+    </Child>
+    <Child ReferenceText="sea">
+      <PageReference>DF7:26</PageReference>
+    </Child>
+    <Child ReferenceText="storms">
+      <PageReference>DF7:29</PageReference>
+    </Child>
+    <Child ReferenceText="sun">
+      <PageReference>DF7:29</PageReference>
+    </Child>
+    <Child ReferenceText="war">
+      <PageReference>DF7:30-31</PageReference>
+    </Child>
+    <Child ReferenceText="agriculture">
+      <PageReference>DF7:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Priest spells">
+    <SeeAlso>Spell lists</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Realms, divine">
+    <PageReference>DF7:5-7</PageReference>
+    <SeeAlso>Gods</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Real-world gods in dungeon fantasy">
+    <PageReference>DF7:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recommended GURPS books">
+    <PageReference>DF7:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Relics, holy">
+    <PageReference>DF7:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roman deities">
+    <PageReference>DF7:8</PageReference>
+    <PageReference>DF7:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacred scalpel">
+    <PageReference>DF7:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacred Shovel of Zombie Beheading">
+    <PageReference>DF7:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sexton’s Special Shovel">
+    <PageReference>DF7:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills, useless">
+    <PageReference>DF7:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sky father">
+    <PageReference>DF7:4</PageReference>
+    <PageReference>DF7:7</PageReference>
+    <PageReference>DF7:27</PageReference>
+    <PageReference>DF7:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special powers">
+    <Child ReferenceText="artificers">
+      <PageReference>DF7:9-10</PageReference>
+    </Child>
+    <Child ReferenceText="city">
+      <PageReference>DF7:11-12</PageReference>
+    </Child>
+    <Child ReferenceText="death">
+      <PageReference>DF7:13</PageReference>
+    </Child>
+    <Child ReferenceText="earth">
+      <PageReference>DF7:15</PageReference>
+    </Child>
+    <Child ReferenceText="fire">
+      <PageReference>DF7:16</PageReference>
+    </Child>
+    <Child ReferenceText="harvest">
+      <PageReference>DF7:8</PageReference>
+    </Child>
+    <Child ReferenceText="healing">
+      <PageReference>DF7:21</PageReference>
+    </Child>
+    <Child ReferenceText="hunting">
+      <PageReference>DF7:17</PageReference>
+    </Child>
+    <Child ReferenceText="love and fertility">
+      <PageReference>DF7:19</PageReference>
+    </Child>
+    <Child ReferenceText="messengers and rogues">
+      <PageReference>DF7:22</PageReference>
+    </Child>
+    <Child ReferenceText="night">
+      <PageReference>DF7:24</PageReference>
+    </Child>
+    <Child ReferenceText="sea">
+      <PageReference>DF7:25-26</PageReference>
+    </Child>
+    <Child ReferenceText="storms">
+      <PageReference>DF7:27</PageReference>
+    </Child>
+    <Child ReferenceText="sun">
+      <PageReference>DF7:29</PageReference>
+    </Child>
+    <Child ReferenceText="war">
+      <PageReference>DF7:30</PageReference>
+    </Child>
+    <Child ReferenceText="agriculture">
+      <PageReference>DF7:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell lists">
+    <Child ReferenceText="artificer">
+      <PageReference>DF7:10</PageReference>
+    </Child>
+    <Child ReferenceText="city">
+      <PageReference>DF7:12</PageReference>
+    </Child>
+    <Child ReferenceText="death">
+      <PageReference>DF7:13-14</PageReference>
+    </Child>
+    <Child ReferenceText="earth">
+      <PageReference>DF7:15</PageReference>
+    </Child>
+    <Child ReferenceText="fire">
+      <PageReference>DF7:16-17</PageReference>
+    </Child>
+    <Child ReferenceText="harvest">
+      <PageReference>DF7:9</PageReference>
+    </Child>
+    <Child ReferenceText="healing">
+      <PageReference>DF7:21</PageReference>
+    </Child>
+    <Child ReferenceText="hunting">
+      <PageReference>DF7:18</PageReference>
+    </Child>
+    <Child ReferenceText="love and fertility">
+      <PageReference>DF7:20</PageReference>
+    </Child>
+    <Child ReferenceText="messengers and rogues">
+      <PageReference>DF7:22-23</PageReference>
+    </Child>
+    <Child ReferenceText="night">
+      <PageReference>DF7:24-25</PageReference>
+    </Child>
+    <Child ReferenceText="sea">
+      <PageReference>DF7:27</PageReference>
+    </Child>
+    <Child ReferenceText="storms">
+      <PageReference>DF7:28</PageReference>
+    </Child>
+    <Child ReferenceText="sun">
+      <PageReference>DF7:29</PageReference>
+    </Child>
+    <Child ReferenceText="war">
+      <PageReference>DF7:31</PageReference>
+    </Child>
+    <Child ReferenceText="agriculture">
+      <PageReference>DF7:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Staff of Earthquakes">
+    <PageReference>DF7:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates used">
+    <PageReference>DF7:4</PageReference>
+    <PageReference>DF7:6</PageReference>
+    <SeeAlso>Priests</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Thor">
+    <PageReference>DF7:27</PageReference>
+    <PageReference>DF7:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiamat">
+    <PageReference>DF7:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Useless” skills">
+    <PageReference>DF7:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vesta">
+    <PageReference>DF7:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>DF7:33</PageReference>
+    <PageReference>DF7:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zeus">
+    <PageReference>DF7:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zhu Rong">
+    <PageReference>DF7:16</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

@@ -1,0 +1,1111 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Advantage-based magic">
+    <PageReference>M201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aging elixir">
+    <PageReference>M214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air spells">
+    <PageReference>M23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemical Antidote elixir">
+    <PageReference>M217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemical charms">
+    <PageReference>M220</PageReference>
+    <Child ReferenceText="items">
+      <PageReference>M210</PageReference>
+    </Child>
+    <Child ReferenceText="items, using">
+      <PageReference>M212</PageReference>
+    </Child>
+    <Child ReferenceText="laboratories">
+      <PageReference>M211</PageReference>
+    </Child>
+    <Child ReferenceText="talismans">
+      <PageReference>M220</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemists">
+    <PageReference>M18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy skill">
+    <PageReference>M210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy">
+    <PageReference>M210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alkahest">
+    <PageReference>M220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate magic rituals">
+    <PageReference>M9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate prerequisites">
+    <PageReference>M200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternative magic systems">
+    <PageReference>M199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Always on” items">
+    <PageReference>M19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amulets">
+    <PageReference>M220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Analysis of alchemical charms">
+    <PageReference>M220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Analysis of elixirs">
+    <PageReference>M212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Control elixirs">
+    <PageReference>M213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal spells">
+    <PageReference>M29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area spells">
+    <PageReference>M11</PageReference>
+    <Child ReferenceText="on a battle map">
+      <PageReference>M13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artist (Calligraphy) skill">
+    <PageReference>M207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attractiveness elixir">
+    <PageReference>M216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Availability">
+    <Child ReferenceText="of elixirs">
+      <PageReference>M213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Awakening elixir">
+    <PageReference>M217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bane spell">
+    <PageReference>M18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle elixir">
+    <PageReference>M214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beast-Speech elixir">
+    <PageReference>M213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bird Control elixir">
+    <PageReference>M213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bless spell">
+    <PageReference>M200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blocking spells">
+    <PageReference>M8</PageReference>
+    <PageReference>M12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body control spells">
+    <PageReference>M35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brokers">
+    <PageReference>M21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buying magic items">
+    <PageReference>M20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Canceling spells">
+    <PageReference>M10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cantrips">
+    <PageReference>M203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caster">
+    <PageReference>M7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Casting spells">
+    <PageReference>M7</PageReference>
+    <Child ReferenceText="symbol magic">
+      <PageReference>M206</PageReference>
+    </Child>
+    <Child ReferenceText="syntactic spells">
+      <PageReference>M203</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ceremonial magic">
+    <PageReference>M12</PageReference>
+    <PageReference>M16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Changing maintained spells">
+    <PageReference>M10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charisma elixir">
+    <PageReference>M218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charms">
+    <Child ReferenceText="alchemical">
+      <PageReference>M220</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemistry">
+    <PageReference>M212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Classes">
+    <Child ReferenceText="spell">
+      <PageReference>M11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical Investment advantage">
+    <PageReference>M199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical magic">
+    <PageReference>M199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colleges of magic">
+    <PageReference>M11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Abilities elixirs">
+    <PageReference>M214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Communication and Empathy spells">
+    <PageReference>M44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concentration and maintenance">
+    <PageReference>M10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Controlling magic items">
+    <PageReference>M19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Controlling PC enchantment">
+    <PageReference>M17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost">
+    <Child ReferenceText="of elixirs">
+      <PageReference>M213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Craftsmanship elixir">
+    <PageReference>M219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Critical failure">
+    <PageReference>M7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Critical spell failure table">
+    <PageReference>M7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death elixir">
+    <PageReference>M215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Designing wizard characters">
+    <PageReference>M15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detecting elixirs">
+    <PageReference>M212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detection of alchemical charms">
+    <PageReference>M220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Devotional Enchantment spell">
+    <PageReference>M199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Discipline of Faith disadvantage">
+    <PageReference>M199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dispel Possession spell">
+    <PageReference>M200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dissipating spells">
+    <PageReference>M14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distill spell">
+    <PageReference>M211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distraction">
+    <PageReference>M7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragonslaying elixir">
+    <PageReference>M213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drunkenness elixir">
+    <PageReference>M219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duration of spells">
+    <PageReference>M9</PageReference>
+    <Child ReferenceText="of syntactic spells">
+      <PageReference>M203</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Duration types">
+    <PageReference>M10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth spells">
+    <PageReference>M50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Economics and enchantment">
+    <PageReference>M21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elixirs">
+    <PageReference>M212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emergencies Only limitation">
+    <PageReference>M201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchanters">
+    <PageReference>M21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchanting">
+    <PageReference>M16</PageReference>
+    <Child ReferenceText="success rolls">
+      <PageReference>M17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchantment spells">
+    <PageReference>M10</PageReference>
+    <PageReference>M14</PageReference>
+    <PageReference>M56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enchantment">
+    <Child ReferenceText="quick and dirty">
+      <PageReference>M17</PageReference>
+      <PageReference>M22</PageReference>
+    </Child>
+    <Child ReferenceText="slow and sure">
+      <PageReference>M18</PageReference>
+      <PageReference>M22</PageReference>
+    </Child>
+    <Child ReferenceText="without items">
+      <PageReference>M18</PageReference>
+    </Child>
+    <Child ReferenceText="without spells">
+      <PageReference>M18</PageReference>
+    </Child>
+    <Child ReferenceText="second-hand">
+      <PageReference>M21</PageReference>
+    </Child>
+    <Child ReferenceText="economics and">
+      <PageReference>M21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Endurance elixir">
+    <PageReference>M214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy cost">
+    <PageReference>M8</PageReference>
+    <Child ReferenceText="of syntactic spells">
+      <PageReference>M203</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Essential Acid spell">
+    <PageReference>M211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Essential Earth spell">
+    <PageReference>M211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eternal Rest elixir">
+    <PageReference>M217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exotic preparations">
+    <PageReference>M220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Failure">
+    <PageReference>M7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fear elixir">
+    <PageReference>M215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fertility elixir">
+    <PageReference>M217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fetching and Carrying elixir">
+    <PageReference>M214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Final Rest spell">
+    <PageReference>M200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Finding a teacher">
+    <PageReference>M6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Finger tracing">
+    <PageReference>M208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire Resistance elixir">
+    <PageReference>M216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire spells">
+    <PageReference>M72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fireball spell">
+    <PageReference>M12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flight elixir">
+    <PageReference>M216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Food spells">
+    <PageReference>M77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foolishness elixir">
+    <PageReference>M215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foresight elixir">
+    <PageReference>M218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forgetfulness elixir">
+    <PageReference>M219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Formulary">
+    <PageReference>M211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Formulas">
+    <Child ReferenceText="alchemical">
+      <PageReference>M211</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Friendship elixir">
+    <PageReference>M219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frustration elixir">
+    <PageReference>M215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Futhark runes">
+    <PageReference>M208</PageReference>
+    <PageReference>M209</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteer advantage">
+    <PageReference>M211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteer alchemists">
+    <PageReference>M211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gambling elixir">
+    <PageReference>M216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gate spells">
+    <PageReference>M80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gizmo advantage">
+    <PageReference>M211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glossary">
+    <PageReference>M5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GMing syntactic magic">
+    <PageReference>M204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grimoire">
+    <PageReference>M6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gullibility elixir">
+    <PageReference>M219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hardheartedness elixir">
+    <PageReference>M218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hatred elixir">
+    <PageReference>M215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing elixir">
+    <PageReference>M217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing spells">
+    <PageReference>M88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Health elixir">
+    <PageReference>M217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hearing elixir">
+    <PageReference>M219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Herb Lore skill">
+    <PageReference>M211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High skill and cost to maintain">
+    <PageReference>M10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Holy” spells">
+    <PageReference>M200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Homunculus">
+    <PageReference>M221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horsemanship elixir">
+    <PageReference>M214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hostile elixirs">
+    <PageReference>M214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hybridization elixir">
+    <PageReference>M217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Identifying magic items">
+    <PageReference>M19</PageReference>
+    <PageReference>M212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ideogram symbols">
+    <PageReference>M206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion and Creation spells">
+    <PageReference>M95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvisational magic">
+    <PageReference>M201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Information spells">
+    <PageReference>M13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ingredients">
+    <Child ReferenceText="magic">
+      <PageReference>M8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury">
+    <PageReference>M7</PageReference>
+    <PageReference>M12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Instantaneous spells">
+    <PageReference>M10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interruptions">
+    <PageReference>M18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inventing new elixirs">
+    <PageReference>M212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inventing new spells">
+    <PageReference>M14</PageReference>
+    <PageReference>M202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invisibility elixir">
+    <PageReference>M216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invulnerability elixir">
+    <PageReference>M214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Items">
+    <Child ReferenceText="magic">
+      <PageReference>M16</PageReference>
+    </Child>
+    <Child ReferenceText="multiply enchanted">
+      <PageReference>M18</PageReference>
+    </Child>
+    <Child ReferenceText="alchemical">
+      <PageReference>M210</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jealousy elixir">
+    <PageReference>M215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Journeyman enchanters">
+    <PageReference>M21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Keen Sight elixir">
+    <PageReference>M219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knowledge spells">
+    <PageReference>M100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laboratories">
+    <Child ReferenceText="alchemical">
+      <PageReference>M211</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lasting spells">
+    <PageReference>M10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leadership elixir">
+    <PageReference>M214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Learning magic">
+    <PageReference>M6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lecherousness elixir">
+    <PageReference>M215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lichdom elixir">
+    <PageReference>M217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light and Darkness spells">
+    <PageReference>M110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lightning spell">
+    <PageReference>M12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limits on effect">
+    <PageReference>M9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Linking syntactic spells">
+    <PageReference>M204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Long Slumber elixir">
+    <PageReference>M217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Long-distance modifiers">
+    <PageReference>M14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Love elixir">
+    <PageReference>M219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luck elixir">
+    <PageReference>M216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Madness elixir">
+    <PageReference>M215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery">
+    <PageReference>M5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic ingredients">
+    <PageReference>M8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic items">
+    <PageReference>M16</PageReference>
+    <Child ReferenceText="buying">
+      <PageReference>M20</PageReference>
+    </Child>
+    <Child ReferenceText="identifying">
+      <PageReference>M19</PageReference>
+      <PageReference>M212</PageReference>
+    </Child>
+    <Child ReferenceText="selling">
+      <PageReference>M21</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>M19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Resistance elixir">
+    <PageReference>M216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic resistance">
+    <Child ReferenceText="to elixirs">
+      <PageReference>M213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic rituals">
+    <PageReference>M8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic staffs">
+    <PageReference>M13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <Child ReferenceText="ceremonial">
+      <PageReference>M12</PageReference>
+      <PageReference>M16</PageReference>
+    </Child>
+    <Child ReferenceText="clerical">
+      <PageReference>M199</PageReference>
+    </Child>
+    <Child ReferenceText="colleges of">
+      <PageReference>M11</PageReference>
+    </Child>
+    <Child ReferenceText="improvisational">
+      <PageReference>M201</PageReference>
+    </Child>
+    <Child ReferenceText="learning">
+      <PageReference>M6</PageReference>
+    </Child>
+    <Child ReferenceText="principles of">
+      <PageReference>M5</PageReference>
+    </Child>
+    <Child ReferenceText="ritual">
+      <PageReference>M200</PageReference>
+    </Child>
+    <Child ReferenceText="symbol">
+      <PageReference>M205</PageReference>
+    </Child>
+    <Child ReferenceText="syntactic">
+      <PageReference>M202</PageReference>
+    </Child>
+    <Child ReferenceText="wildcard">
+      <PageReference>M202</PageReference>
+    </Child>
+    <Child ReferenceText="advantage-based">
+      <PageReference>M201</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical Abilities elixirs">
+    <PageReference>M216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magically potent minerals">
+    <PageReference>M222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maintaining spells">
+    <PageReference>M9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Making alchemical items">
+    <PageReference>M210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Making and Breaking spells">
+    <PageReference>M115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana">
+    <PageReference>M5</PageReference>
+    <PageReference>M6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master enchanters">
+    <PageReference>M21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mature spell">
+    <PageReference>M211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical elixirs">
+    <PageReference>M217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee spells">
+    <PageReference>M11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Memory elixir">
+    <PageReference>M219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental Abilities elixirs">
+    <PageReference>M218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental Control elixirs">
+    <PageReference>M219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-spells">
+    <PageReference>M121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Control spells">
+    <PageReference>M133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minerals">
+    <Child ReferenceText="magically potent">
+      <PageReference>M222</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Missile spells">
+    <PageReference>M12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monk’s Banquet spell">
+    <PageReference>M200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Movement spells">
+    <PageReference>M142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple words">
+    <PageReference>M203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiply enchanted items">
+    <PageReference>M18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Music elixir">
+    <PageReference>M219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromantic spells">
+    <PageReference>M149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nouns">
+    <PageReference>M202</PageReference>
+    <PageReference>M206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Odium elixir">
+    <PageReference>M215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ogham alphabet">
+    <PageReference>M209</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ointment">
+    <PageReference>M213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One try spells">
+    <PageReference>M10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Other ritual idioms">
+    <PageReference>M200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pain Resistance elixir">
+    <PageReference>M216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parchment symbol casting">
+    <PageReference>M207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pastille">
+    <PageReference>M213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perception">
+    <PageReference>M212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Permanent spells">
+    <PageReference>M10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Philosopher’s Stone">
+    <PageReference>M221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plant spells">
+    <PageReference>M161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Player-created spells">
+    <PageReference>M15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Potion">
+    <PageReference>M213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powder">
+    <PageReference>M213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Investiture advantage">
+    <PageReference>M200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power of a magic item">
+    <PageReference>M17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powerstone costs">
+    <PageReference>M20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prerequisite chains">
+    <Child ReferenceText="shortening">
+      <PageReference>M201</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Prerequisite count">
+    <PageReference>M200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prerequisites">
+    <PageReference>M6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Principles of magic">
+    <PageReference>M5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Protection and Warning spells">
+    <PageReference>M166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick and dirty enchantment">
+    <PageReference>M17</PageReference>
+    <PageReference>M20</PageReference>
+    <PageReference>M22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reanimation elixir">
+    <PageReference>M217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regeneration elixir">
+    <PageReference>M218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regular spells">
+    <PageReference>M11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious Rank advantage">
+    <PageReference>M199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Renaming spells">
+    <PageReference>M201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resisting spells">
+    <PageReference>M13</PageReference>
+    <Child ReferenceText="of syntactic spells">
+      <PageReference>M204</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Resurrection elixir">
+    <PageReference>M218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retention enhancement">
+    <PageReference>M201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual idioms">
+    <PageReference>M200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual magic">
+    <PageReference>M200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rituals">
+    <Child ReferenceText="magic">
+      <PageReference>M8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sanctity">
+    <PageReference>M199</PageReference>
+    <PageReference>M200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrolls">
+    <PageReference>M207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Second-hand enchantments">
+    <PageReference>M21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret spells">
+    <PageReference>M9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secrets">
+    <Child ReferenceText="alchemical">
+      <PageReference>M211</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-Love elixir">
+    <PageReference>M215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Selling magic items">
+    <PageReference>M21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensing mana">
+    <PageReference>M6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shortening prerequisite chains">
+    <PageReference>M201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills and Physical Abilities Elixirs">
+    <PageReference>M219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleep elixir">
+    <PageReference>M218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slow and sure enchantment">
+    <PageReference>M18</PageReference>
+    <PageReference>M20</PageReference>
+    <PageReference>M22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Solvent">
+    <Child ReferenceText="universal">
+      <PageReference>M220</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sound spells">
+    <PageReference>M171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed elixir">
+    <PageReference>M214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell classes">
+    <PageReference>M11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell defaults">
+    <PageReference>M202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell descriptions">
+    <PageReference>M22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell results of syntactic spells">
+    <PageReference>M204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell table">
+    <PageReference>M223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <PageReference>M5</PageReference>
+    <Child ReferenceText="area">
+      <PageReference>M11</PageReference>
+    </Child>
+    <Child ReferenceText="blocking">
+      <PageReference>M8</PageReference>
+      <PageReference>M12</PageReference>
+    </Child>
+    <Child ReferenceText="canceling">
+      <PageReference>M10</PageReference>
+    </Child>
+    <Child ReferenceText="casting">
+      <PageReference>M7</PageReference>
+    </Child>
+    <Child ReferenceText="clerical">
+      <PageReference>M199</PageReference>
+    </Child>
+    <Child ReferenceText="dissipating">
+      <PageReference>M14</PageReference>
+    </Child>
+    <Child ReferenceText="duration of">
+      <PageReference>M9</PageReference>
+    </Child>
+    <Child ReferenceText="enchantment">
+      <PageReference>M10</PageReference>
+      <PageReference>M14</PageReference>
+    </Child>
+    <Child ReferenceText="information">
+      <PageReference>M13</PageReference>
+    </Child>
+    <Child ReferenceText="instantaneous">
+      <PageReference>M10</PageReference>
+    </Child>
+    <Child ReferenceText="inventing">
+      <PageReference>M14</PageReference>
+    </Child>
+    <Child ReferenceText="lasting">
+      <PageReference>M10</PageReference>
+    </Child>
+    <Child ReferenceText="maintaining">
+      <PageReference>M9</PageReference>
+    </Child>
+    <Child ReferenceText="melee">
+      <PageReference>M11</PageReference>
+    </Child>
+    <Child ReferenceText="missile">
+      <PageReference>M12</PageReference>
+    </Child>
+    <Child ReferenceText="one try">
+      <PageReference>M10</PageReference>
+    </Child>
+    <Child ReferenceText="permanent">
+      <PageReference>M10</PageReference>
+    </Child>
+    <Child ReferenceText="player-created">
+      <PageReference>M15</PageReference>
+    </Child>
+    <Child ReferenceText="regular">
+      <PageReference>M11</PageReference>
+    </Child>
+    <Child ReferenceText="resisted">
+      <PageReference>M13</PageReference>
+    </Child>
+    <Child ReferenceText="secret">
+      <PageReference>M9</PageReference>
+    </Child>
+    <Child ReferenceText="temporary">
+      <PageReference>M10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Staffs">
+    <Child ReferenceText="magic">
+      <PageReference>M13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stealth elixir">
+    <PageReference>M214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strength elixir">
+    <PageReference>M214</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subject">
+    <PageReference>M7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Success rolls for enchanting">
+    <PageReference>M17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Success">
+    <PageReference>M7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbol Drawing skill">
+    <PageReference>M205</PageReference>
+    <PageReference>M208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbol magic">
+    <PageReference>M205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbol tokens">
+    <PageReference>M208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbolic inscriptions">
+    <PageReference>M207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Syntactic magic">
+    <PageReference>M202</PageReference>
+    <Child ReferenceText="GMing">
+      <PageReference>M204</PageReference>
+    </Child>
+    <Child ReferenceText="linking">
+      <PageReference>M204</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Teacher">
+    <PageReference>M6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technological spells">
+    <PageReference>M175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temporary spells">
+    <PageReference>M10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thaumatology skill">
+    <PageReference>M15</PageReference>
+    <PageReference>M200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time and cost to make alchemical charms">
+    <PageReference>M220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time to cast spells">
+    <PageReference>M7</PageReference>
+    <Child ReferenceText="syntactic spells">
+      <PageReference>M203</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tranquility elixir">
+    <PageReference>M218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transform">
+    <PageReference>M204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transformation elixir">
+    <PageReference>M216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Sight elixir">
+    <PageReference>M216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Truth elixir">
+    <PageReference>M219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turn Zombie spell">
+    <PageReference>M200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal Antidote elixir">
+    <PageReference>M218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal solvent">
+    <PageReference>M220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unluckiness elixir">
+    <PageReference>M215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Used enchantments">
+    <PageReference>M21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Using a symbol-enchanted item">
+    <PageReference>M208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Using alchemical charms">
+    <PageReference>M220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Using alchemical items">
+    <PageReference>M212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Using magic items">
+    <PageReference>M19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Variations">
+    <PageReference>M199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Verbs">
+    <PageReference>M202</PageReference>
+    <PageReference>M206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vigil spell">
+    <PageReference>M200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water Breathing elixir">
+    <PageReference>M216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water spells">
+    <PageReference>M184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Water-Walking elixir">
+    <PageReference>M216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weakness elixir">
+    <PageReference>M215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weather spells">
+    <PageReference>M193</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whole-language symbol magic">
+    <PageReference>M206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild talents">
+    <PageReference>M201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard magic">
+    <PageReference>M202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wisdom elixir">
+    <PageReference>M219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizard alchemists">
+    <PageReference>M211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wizard characters">
+    <PageReference>M15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Words of power">
+    <PageReference>M203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Words">
+    <PageReference>M202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Youth elixir">
+    <PageReference>M218</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

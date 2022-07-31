@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abilities">
+    <SeeAlso>Advantages</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Accessibility limitation">
+    <PageReference>PU8:4-5</PageReference>
+    <PageReference>PU8:16</PageReference>
+    <Child ReferenceText="either/or">
+      <PageReference>PU8:6</PageReference>
+    </Child>
+    <Child ReferenceText="Environmental vs">
+      <PageReference>PU8:13</PageReference>
+    </Child>
+    <Child ReferenceText="on disadvantages">
+      <PageReference>PU8:6</PageReference>
+    </Child>
+    <Child ReferenceText="partially applied">
+      <PageReference>PU8:6-7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Active Defense limitation">
+    <PageReference>PU8:10</PageReference>
+    <Child ReferenceText="Independent">
+      <PageReference>PU8:10</PageReference>
+    </Child>
+    <Child ReferenceText="under the hood">
+      <PageReference>PU8:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <SeeAlso>Limitations</SeeAlso>
+    <SeeAlso>specific limitations</SeeAlso>
+    <Child ReferenceText="as disadvantages">
+      <PageReference>PU8:7</PageReference>
+    </Child>
+    <Child ReferenceText="below the minimum cost">
+      <PageReference>PU8:7</PageReference>
+    </Child>
+    <Child ReferenceText="causing mental breakdowns">
+      <PageReference>PU8:18</PageReference>
+    </Child>
+    <Child ReferenceText="character point-powered">
+      <PageReference>PU8:9</PageReference>
+    </Child>
+    <Child ReferenceText="divisor based reductions">
+      <PageReference>PU8:7-8</PageReference>
+    </Child>
+    <Child ReferenceText="duplicated">
+      <PageReference>PU8:8</PageReference>
+    </Child>
+    <Child ReferenceText="halved">
+      <PageReference>PU8:9</PageReference>
+    </Child>
+    <Child ReferenceText="internal">
+      <PageReference>PU8:9</PageReference>
+    </Child>
+    <Child ReferenceText="latent">
+      <PageReference>PU8:9</PageReference>
+    </Child>
+    <Child ReferenceText="leveled">
+      <PageReference>PU8:6-7</PageReference>
+    </Child>
+    <Child ReferenceText="modifier limit">
+      <PageReference>PU8:7</PageReference>
+    </Child>
+    <Child ReferenceText="partly limited">
+      <PageReference>PU8:6-7</PageReference>
+    </Child>
+    <Child ReferenceText="potential">
+      <PageReference>PU8:8-9</PageReference>
+    </Child>
+    <Child ReferenceText="spells as">
+      <PageReference>PU8:5</PageReference>
+    </Child>
+    <Child ReferenceText="alternative">
+      <PageReference>PU8:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aftermath limitation">
+    <PageReference>PU8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out limitation">
+    <PageReference>PU8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Concentrate limitation">
+    <PageReference>PU8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternative abilities">
+    <PageReference>PU8:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Apprentice Gadgeteer ability">
+    <PageReference>PU8:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aspected limitation">
+    <PageReference>PU8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attracts Threats limitation">
+    <PageReference>PU8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Backlash limitation">
+    <PageReference>PU8:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blockable limitation">
+    <PageReference>PU8:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood Agent">
+    <Child ReferenceText="Reversed limitation">
+      <PageReference>PU8:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Budding Language Talent ability">
+    <PageReference>PU8:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Can Be Parried limitation">
+    <PageReference>PU8:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cardiac Stress limitation">
+    <PageReference>PU8:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cerebral Stress limitation">
+    <PageReference>PU8:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Character point-powered abilities">
+    <PageReference>PU8:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact Agent limitation">
+    <PageReference>PU8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corrupting limitation">
+    <PageReference>PU8:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Costs Fatigue">
+    <Child ReferenceText="Variable limitation">
+      <PageReference>PU8:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Costs Hit Points limitation">
+    <PageReference>PU8:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cybernetics">
+    <PageReference>PU8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <Child ReferenceText="irresistible">
+      <PageReference>PU8:18</PageReference>
+    </Child>
+    <Child ReferenceText="limitations on">
+      <PageReference>PU8:5</PageReference>
+    </Child>
+    <Child ReferenceText="advantages as">
+      <PageReference>PU8:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Divisor-based reduction">
+    <PageReference>PU8:7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Easily Resisted limitation">
+    <PageReference>PU8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Either/or limitations">
+    <PageReference>PU8:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Environmental limitation">
+    <PageReference>PU8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fickle limitation">
+    <PageReference>PU8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flight advantage">
+    <PageReference>PU8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadget limitations">
+    <Child ReferenceText="variant">
+      <PageReference>PU8:5</PageReference>
+      <PageReference>PU8:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Glamour limitation">
+    <PageReference>PU8:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Granted by (Other) limitation">
+    <PageReference>PU8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>PU8:3</PageReference>
+    <PageReference>PU8:4</PageReference>
+    <PageReference>PU8:6</PageReference>
+    <PageReference>PU8:7</PageReference>
+    <PageReference>PU8:9</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>PU8:3</PageReference>
+      <PageReference>PU8:6</PageReference>
+      <PageReference>PU8:16</PageReference>
+    </Child>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>PU8:3</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>PU8:3</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 9: Summoners">
+      <PageReference>PU8:3</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>PU8:3</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>PU8:3</PageReference>
+      <PageReference>PU8:7</PageReference>
+      <PageReference>PU8:12</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts: Yrth Fighting Styles">
+      <PageReference>PU8:3</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 4: Enhancements">
+      <PageReference>PU8:10</PageReference>
+      <PageReference>PU8:14</PageReference>
+      <PageReference>PU8:18</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 5: Impulse Buys">
+      <PageReference>PU8:3</PageReference>
+      <PageReference>PU8:9</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>PU8:3</PageReference>
+      <PageReference>PU8:8-10</PageReference>
+      <PageReference>PU8:13</PageReference>
+      <PageReference>PU8:15</PageReference>
+      <PageReference>PU8:16</PageReference>
+      <PageReference>PU8:18</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>PU8:3</PageReference>
+      <PageReference>PU8:11</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering">
+      <PageReference>PU8:3</PageReference>
+    </Child>
+    <Child ReferenceText="Supers">
+      <PageReference>PU8:3</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>PU8:3</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Chinese Elemental Powers">
+      <PageReference>PU8:3</PageReference>
+    </Child>
+    <Child ReferenceText="Zombies">
+      <PageReference>PU8:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard to Use limitation">
+    <PageReference>PU8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hearing-Based limitation">
+    <PageReference>PU8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immediate Preparation Required limitation">
+    <PageReference>PU8:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Increased Immunity limitation">
+    <PageReference>PU8:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Informal limitation">
+    <PageReference>PU8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insubstantial Only limitation">
+    <PageReference>PU8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Internal advantages">
+    <PageReference>PU8:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Irresistible disadvantages">
+    <PageReference>PU8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Latent advantages">
+    <PageReference>PU8:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitations">
+    <SeeAlso>Advantages</SeeAlso>
+    <Child ReferenceText="as power modifiers">
+      <PageReference>PU8:16</PageReference>
+    </Child>
+    <Child ReferenceText="cautions">
+      <PageReference>PU8:5</PageReference>
+      <PageReference>PU8:11</PageReference>
+    </Child>
+    <Child ReferenceText="criteria for">
+      <PageReference>PU8:10</PageReference>
+    </Child>
+    <Child ReferenceText="disadvantages with">
+      <PageReference>PU8:5</PageReference>
+    </Child>
+    <Child ReferenceText="either/or">
+      <PageReference>PU8:6</PageReference>
+    </Child>
+    <Child ReferenceText="excessive">
+      <PageReference>PU8:7</PageReference>
+    </Child>
+    <Child ReferenceText="for irresistible disadvantages">
+      <PageReference>PU8:18</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>PU8:10-19</PageReference>
+    </Child>
+    <Child ReferenceText="notation">
+      <PageReference>PU8:11</PageReference>
+    </Child>
+    <Child ReferenceText="partially applied">
+      <PageReference>PU8:6-7</PageReference>
+    </Child>
+    <Child ReferenceText="range-related">
+      <PageReference>PU8:12</PageReference>
+      <PageReference>PU8:16</PageReference>
+      <PageReference>PU8:17-19</PageReference>
+    </Child>
+    <Child ReferenceText="ritual">
+      <PageReference>PU8:5</PageReference>
+    </Child>
+    <Child ReferenceText="supernaturally appropriate">
+      <PageReference>PU8:5</PageReference>
+      <PageReference>PU8:9</PageReference>
+      <PageReference>PU8:12</PageReference>
+      <PageReference>PU8:18</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>PU8:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="specific limitations" />
+    <Child ReferenceText="as character inspiration">
+      <PageReference>PU8:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited Patron ability">
+    <PageReference>PU8:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnetic limitation">
+    <PageReference>PU8:15</PageReference>
+    <PageReference>PU8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Malfunctions">
+    <Child ReferenceText="natural">
+      <PageReference>PU8:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Maximum Duration limitation">
+    <PageReference>PU8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental breakdowns">
+    <PageReference>PU8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minimum Duration limitation">
+    <PageReference>PU8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minimum Range limitation">
+    <PageReference>PU8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missing Damage Effect limitation">
+    <PageReference>PU8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mitigator (Horde Intelligence) limitation">
+    <PageReference>PU8:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No DR Reduction limitation">
+    <PageReference>PU8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Incendiary Effect limitation">
+    <PageReference>PU8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Only When Berserk limitation">
+    <PageReference>PU8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Periodic Recharge limitation">
+    <PageReference>PU8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power modifiers">
+    <PageReference>PU8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Range-related limitations">
+    <PageReference>PU8:12</PageReference>
+    <PageReference>PU8:16</PageReference>
+    <PageReference>PU8:17-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reduced Duration limitation">
+    <PageReference>PU8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Required Disadvantage limitation">
+    <PageReference>PU8:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires (Attribute) Roll limitation">
+    <PageReference>PU8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires Concentrate limitation">
+    <PageReference>PU8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires Low Gravity limitation">
+    <PageReference>PU8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires Reaction Roll limitation">
+    <PageReference>PU8:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires Ready limitation">
+    <PageReference>PU8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires (Skill) Roll limitation">
+    <PageReference>PU8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual limitations">
+    <PageReference>PU8:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Schrödinger’s advantages">
+    <PageReference>PU8:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret advantages">
+    <PageReference>PU8:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense-Based">
+    <Child ReferenceText="Reversed limitation">
+      <PageReference>PU8:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Short-Range limitation">
+    <PageReference>PU8:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skill Enhancement Only limitation">
+    <PageReference>PU8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specific limitation">
+    <PageReference>PU8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Substantial Only limitation">
+    <PageReference>PU8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernaturally appropriate options">
+    <PageReference>PU8:5</PageReference>
+    <PageReference>PU8:9</PageReference>
+    <PageReference>PU8:12</PageReference>
+    <PageReference>PU8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Table">
+    <Child ReferenceText="limitations">
+      <PageReference>PU8:20-21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Temporary Disadvantage limitation">
+    <PageReference>PU8:18</PageReference>
+    <Child ReferenceText="Shutdown">
+      <PageReference>PU8:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Terminal Condition limitation">
+    <PageReference>PU8:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terror advantage">
+    <PageReference>PU8:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Touch-Based limitation">
+    <PageReference>PU8:17</PageReference>
+    <Child ReferenceText="Reversed">
+      <PageReference>PU8:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trigger">
+    <Child ReferenceText="Extended limitation">
+      <PageReference>PU8:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unconscious Only limitation">
+    <PageReference>PU8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uncontrollable Trigger limitation">
+    <PageReference>PU8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unreliable limitation">
+    <Child ReferenceText="latent advantages and">
+      <PageReference>PU8:9</PageReference>
+    </Child>
+    <Child ReferenceText="natural Malfunction variation">
+      <PageReference>PU8:15</PageReference>
+    </Child>
+    <Child ReferenceText="derivations of">
+      <PageReference>PU8:10</PageReference>
+      <PageReference>PU8:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unsupported limitation">
+    <PageReference>PU8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Usually On limitation">
+    <PageReference>PU8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visible limitation">
+    <PageReference>PU8:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vision-Based limitation">
+    <PageReference>PU8:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weaponized limitation">
+    <PageReference>PU8:19</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

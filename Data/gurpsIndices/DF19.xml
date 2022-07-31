@@ -1,0 +1,1192 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Adept power-up">
+    <PageReference>DF19:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>DF19:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Affliction enhancements as spell modifiers">
+    <PageReference>DF19:15</PageReference>
+    <Child ReferenceText="specific spells">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alarm spell">
+    <PageReference>DF19:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemical formulary equipment modifier">
+    <PageReference>DF19:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy (Infusions) skill">
+    <PageReference>DF19:5</PageReference>
+    <Child ReferenceText="infusions">
+      <PageReference>DF19:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy labs, backpack">
+    <PageReference>DF19:18</PageReference>
+    <SeeAlso>Workspace</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Altered Traits spell modifier">
+    <PageReference>DF19:15</PageReference>
+    <Child ReferenceText="specific spells">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <PageReference>DF19:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animate Object spell">
+    <PageReference>DF19:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arcane Fire spell">
+    <PageReference>DF19:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arcanist character type">
+    <PageReference>DF19:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arcanum">
+    <Child ReferenceText="conditional spells">
+      <PageReference>DF19:20</PageReference>
+    </Child>
+    <Child ReferenceText="determining spell stats">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+    <Child ReferenceText="dispelling">
+      <PageReference>DF19:21</PageReference>
+      <PageReference>DF19:26</PageReference>
+    </Child>
+    <Child ReferenceText="equivalent colleges">
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>DF19:23-26</PageReference>
+      <PageReference>DF19:28</PageReference>
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="infusions">
+      <PageReference>DF19:19</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Area of Effect spell modifier">
+    <PageReference>DF19:15</PageReference>
+    <Child ReferenceText="specific spells">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Augury">
+    <Child ReferenceText="equivalent colleges">
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>DF19:28</PageReference>
+      <PageReference>DF19:29</PageReference>
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bestows a (Bonus or Penalty) spell modifier">
+    <PageReference>DF19:15</PageReference>
+    <Child ReferenceText="specific spells">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bewitchment spell">
+    <PageReference>DF19:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Black Blade spell">
+    <PageReference>DF19:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blocking spells">
+    <PageReference>DF19:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bond of Servitude for (Class) spell">
+    <PageReference>DF19:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bulwark spell">
+    <PageReference>DF19:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Casting roll">
+    <PageReference>DF19:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Casting time">
+    <PageReference>DF19:17</PageReference>
+    <Child ReferenceText="grimoires and">
+      <PageReference>DF19:18</PageReference>
+    </Child>
+    <Child ReferenceText="prepared casting">
+      <PageReference>DF19:19-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Castings">
+    <SeeAlso>Spells</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Censure spell">
+    <PageReference>DF19:24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Circles">
+    <Child ReferenceText="power-up">
+      <PageReference>DF19:7</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>DF19:5</PageReference>
+    </Child>
+    <Child ReferenceText="casting">
+      <PageReference>DF19:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Colleges, Paths and">
+    <PageReference>DF19:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Complimentary skills">
+    <PageReference>DF19:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Components">
+    <PageReference>DF19:5</PageReference>
+    <PageReference>DF19:18</PageReference>
+    <Child ReferenceText="butchering skill">
+      <PageReference>DF19:5</PageReference>
+    </Child>
+    <Child ReferenceText="Gizmos and">
+      <PageReference>DF19:4</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>DF19:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Conditional spells">
+    <PageReference>DF19:20</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>DF19:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cone of Flame spell">
+    <PageReference>DF19:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Control spell effects">
+    <PageReference>DF19:14</PageReference>
+    <Child ReferenceText="Arcanum">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Augury">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Demonology">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="Elementalism">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>DF19:23-25</PageReference>
+      <PageReference>DF19:27-30</PageReference>
+    </Child>
+    <Child ReferenceText="Mesmerism">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="Necromancy">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="Protection">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="Transfiguration">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Create Golem Warrior spell">
+    <PageReference>DF19:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Create spell effects">
+    <PageReference>DF19:14-15</PageReference>
+    <Child ReferenceText="Arcanum">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Augury">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Demonology">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="Elementalism">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>DF19:23-27</PageReference>
+      <PageReference>DF19:29</PageReference>
+    </Child>
+    <Child ReferenceText="Mesmerism">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="Necromancy">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="Protection">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+    <Child ReferenceText="Transfiguration">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Create Undead Servitor spell">
+    <PageReference>DF19:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Creeping Frost spell">
+    <PageReference>DF19:25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Resistance advantage, limits">
+    <PageReference>DF19:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage spell modifier">
+    <PageReference>DF19:15-16</PageReference>
+    <Child ReferenceText="conjured weapons">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+    <Child ReferenceText="enhancements and">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+    <Child ReferenceText="limits">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="options">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+    <Child ReferenceText="specific spells">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+    <Child ReferenceText="vampiric">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dead language equipment modifier">
+    <PageReference>DF19:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonology">
+    <Child ReferenceText="equivalent colleges">
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>DF19:24</PageReference>
+      <PageReference>DF19:27</PageReference>
+      <PageReference>DF19:29-30</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>DF19:11-12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Destroy spell effects">
+    <PageReference>DF19:14</PageReference>
+    <Child ReferenceText="Arcanum">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Augury">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Demonology">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="Elementalism">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>DF19:24</PageReference>
+      <PageReference>DF19:26</PageReference>
+      <PageReference>DF19:28</PageReference>
+    </Child>
+    <Child ReferenceText="Mesmerism">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="Necromancy">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="Protection">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+    <Child ReferenceText="Transfiguration">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Diabolist character type">
+    <PageReference>DF19:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dispelling">
+    <PageReference>DF19:21</PageReference>
+    <Child ReferenceText="spell">
+      <PageReference>DF19:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Divination">
+    <PageReference>DF19:21</PageReference>
+    <SeeAlso>Sense spell effects</SeeAlso>
+    <Child ReferenceText="spell examples">
+      <PageReference>DF19:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Duration spell modifier">
+    <PageReference>DF19:16</PageReference>
+    <Child ReferenceText="specific spells">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder Things">
+    <PageReference>DF19:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="(Elemental) Blast spell">
+    <PageReference>DF19:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elementalism">
+    <Child ReferenceText="equivalent colleges">
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>DF19:24-27</PageReference>
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Encrypted equipment modifier">
+    <PageReference>DF19:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <SeeAlso>Components</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Essentialist character type">
+    <PageReference>DF19:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Field Caster power-up">
+    <PageReference>DF19:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firebomb spell">
+    <PageReference>DF19:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flesh Mask spell">
+    <PageReference>DF19:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Focused Aptitude perk">
+    <PageReference>DF19:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frozen Bonds spell">
+    <PageReference>DF19:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <PageReference>DF19:18</PageReference>
+    <PageReference>DF19:19</PageReference>
+    <PageReference>DF19:21</PageReference>
+    <SeeAlso>Components</SeeAlso>
+    <SeeAlso>Infusions</SeeAlso>
+    <SeeAlso>Scripts</SeeAlso>
+    <Child ReferenceText="conjured weapons">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Girded spell modifier">
+    <PageReference>DF19:16</PageReference>
+    <Child ReferenceText="specific spells">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gizmos advantage">
+    <PageReference>DF19:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glossary">
+    <PageReference>DF19:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greater Solidify Spirit spell">
+    <PageReference>DF19:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grimoires">
+    <PageReference>DF19:18</PageReference>
+    <PageReference>DF19:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Basic Set">
+    <PageReference>DF19:12</PageReference>
+    <SeeAlso>Pyramid</SeeAlso>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DF19:3</PageReference>
+      <PageReference>DF19:5</PageReference>
+      <PageReference>DF19:10</PageReference>
+      <PageReference>DF19:11</PageReference>
+      <PageReference>DF19:13</PageReference>
+      <PageReference>DF19:16</PageReference>
+      <PageReference>DF19:20</PageReference>
+      <PageReference>DF19:27</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DF19:9</PageReference>
+      <PageReference>DF19:12</PageReference>
+      <PageReference>DF19:13</PageReference>
+      <PageReference>DF19:18</PageReference>
+      <PageReference>DF19:19</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DF19:4</PageReference>
+      <PageReference>DF19:5</PageReference>
+      <PageReference>DF19:19</PageReference>
+      <PageReference>DF19:28</PageReference>
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF19:8</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DF19:4</PageReference>
+      <PageReference>DF19:7</PageReference>
+      <PageReference>DF19:18</PageReference>
+      <PageReference>DF19:20</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 9: Summoners">
+      <PageReference>DF19:13</PageReference>
+      <PageReference>DF19:25</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 11: Power-Ups">
+      <PageReference>DF19:6</PageReference>
+      <PageReference>DF19:7</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 12: Ninja">
+      <PageReference>DF19:7</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 14: Psi">
+      <PageReference>DF19:7</PageReference>
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 15: Henchmen">
+      <PageReference>DF19:9</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>DF19:10</PageReference>
+      <PageReference>DF19:11</PageReference>
+      <PageReference>DF19:12</PageReference>
+      <PageReference>DF19:13</PageReference>
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters 1: Champions">
+      <PageReference>DF19:3</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 4: Enhancements">
+      <PageReference>DF19:24</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 5: Impulse Buys">
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>DF19:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing">
+    <PageReference>DF19:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hellfire Aura spell">
+    <PageReference>DF19:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Henchmen, incanters as">
+    <PageReference>DF19:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion spell">
+    <PageReference>DF19:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusionist character type">
+    <PageReference>DF19:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incantation Gift advantage">
+    <PageReference>DF19:4</PageReference>
+    <Child ReferenceText="Path limits">
+      <PageReference>DF19:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Incantations">
+    <PageReference>DF19:5</PageReference>
+    <PageReference>DF19:19</PageReference>
+    <SeeAlso>Spells</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Incanter-barbarian lens">
+    <PageReference>DF19:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incanter-bard lens">
+    <PageReference>DF19:7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incanter-cleric lens">
+    <PageReference>DF19:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incanter-druid lens">
+    <PageReference>DF19:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incanter-evil cleric lens">
+    <PageReference>DF19:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incanter-holy warrior lens">
+    <PageReference>DF19:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incanter-knight lens">
+    <PageReference>DF19:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incanter-martial artist lens">
+    <PageReference>DF19:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incanter-scout lens">
+    <PageReference>DF19:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incanter-swashbuckler lens">
+    <PageReference>DF19:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incanter-thief lens">
+    <PageReference>DF19:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incanter-unholy warrior lens">
+    <PageReference>DF19:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incanter-wizard lens">
+    <PageReference>DF19:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incanters">
+    <Child ReferenceText="crosstraining lenses">
+      <PageReference>DF19:7-9</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>DF19:5</PageReference>
+    </Child>
+    <Child ReferenceText="lens">
+      <PageReference>DF19:9</PageReference>
+    </Child>
+    <Child ReferenceText="power-ups">
+      <PageReference>DF19:6-7</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>DF19:5</PageReference>
+      <PageReference>DF19:10-14</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>DF19:5-6</PageReference>
+    </Child>
+    <Child ReferenceText="advantages">
+      <PageReference>DF19:4-5</PageReference>
+      <PageReference>DF19:6-7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Infusions">
+    <PageReference>DF19:19</PageReference>
+    <SeeAlso>Spells</SeeAlso>
+    <SeeAlso>Workspace</SeeAlso>
+    <Child ReferenceText="definition">
+      <PageReference>DF19:5</PageReference>
+    </Child>
+    <Child ReferenceText="forms">
+      <PageReference>DF19:19</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>DF19:5</PageReference>
+    </Child>
+    <Child ReferenceText="spoiled">
+      <PageReference>DF19:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Invisibility spell">
+    <PageReference>DF19:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jinx spell">
+    <PageReference>DF19:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <PageReference>DF19:7-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lesser Solidify Spirit spell">
+    <PageReference>DF19:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitations, as spell modifiers">
+    <PageReference>DF19:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mage-Arrow spell">
+    <PageReference>DF19:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic slots">
+    <PageReference>DF19:5</PageReference>
+    <PageReference>DF19:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic systems">
+    <PageReference>DF19:3</PageReference>
+    <PageReference>DF19:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana level">
+    <PageReference>DF19:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mesmerism">
+    <Child ReferenceText="equivalent colleges">
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>DF19:24</PageReference>
+      <PageReference>DF19:27</PageReference>
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>DF19:12-13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-spells">
+    <PageReference>DF19:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Methodical Ritual perk">
+    <PageReference>DF19:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mule’s Strength spell">
+    <PageReference>DF19:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necrologist character type">
+    <PageReference>DF19:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromancy">
+    <Child ReferenceText="equivalent colleges">
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>DF19:24</PageReference>
+      <PageReference>DF19:25</PageReference>
+      <PageReference>DF19:29</PageReference>
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Occultus Oculus spell">
+    <PageReference>DF19:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Partial Shapeshifting (Bat Wings) spell">
+    <PageReference>DF19:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Path skills">
+    <PageReference>DF19:10-14</PageReference>
+    <SeeAlso>Spells</SeeAlso>
+    <Child ReferenceText="complimentary">
+      <PageReference>DF19:4</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>DF19:5</PageReference>
+    </Child>
+    <Child ReferenceText="determining traits in spells">
+      <PageReference>DF19:20</PageReference>
+    </Child>
+    <Child ReferenceText="effect limits">
+      <PageReference>DF19:5</PageReference>
+      <PageReference>DF19:10-11</PageReference>
+    </Child>
+    <Child ReferenceText="equivalent colleges">
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DF19:10-11</PageReference>
+    </Child>
+    <Child ReferenceText="penalty">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+    <Child ReferenceText="spell points">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Peel Back the Skin spell">
+    <PageReference>DF19:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>DF19:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plants">
+    <PageReference>DF19:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Portable workspace kits">
+    <SeeAlso>Workspace</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Power-ups">
+    <PageReference>DF19:6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Professional Skill (Dungeon Butcher) skill">
+    <PageReference>DF19:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Protection">
+    <Child ReferenceText="equivalent colleges">
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>DF19:24-25</PageReference>
+      <PageReference>DF19:29</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>DF19:13-14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionics">
+    <PageReference>DF19:13</PageReference>
+    <Child ReferenceText="wards against">
+      <PageReference>DF19:22</PageReference>
+      <PageReference>DF19:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyramid #3/43: Thaumatology III">
+    <PageReference>DF19:3</PageReference>
+    <SeeAlso>GURPS</SeeAlso>
+    <Child ReferenceText="#3/66: The Laws of Magic">
+      <PageReference>DF19:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiant Shield spell">
+    <PageReference>DF19:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Range spell modifier">
+    <PageReference>DF19:16</PageReference>
+    <Child ReferenceText="specific spells">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Red Blade spell">
+    <PageReference>DF19:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repair Undead spell">
+    <PageReference>DF19:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restore spell effects">
+    <PageReference>DF19:14</PageReference>
+    <Child ReferenceText="Arcanum">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Augury">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Demonology">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Elementalism">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="example spell">
+      <PageReference>DF19:29</PageReference>
+    </Child>
+    <Child ReferenceText="Mesmerism">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="Necromancy">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="Protection">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="Transfiguration">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual Magic (Incantation) skill">
+    <PageReference>DF19:5</PageReference>
+    <Child ReferenceText="definition">
+      <PageReference>DF19:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual paraphernalia">
+    <PageReference>DF19:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual Path magic">
+    <Child ReferenceText="incantation magic vs">
+      <PageReference>DF19:3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rituals">
+    <SeeAlso>Spells</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Rote Invocation power-up">
+    <PageReference>DF19:7</PageReference>
+    <PageReference>DF19:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrifice">
+    <Child ReferenceText="power-up">
+      <PageReference>DF19:6</PageReference>
+      <PageReference>DF19:7</PageReference>
+    </Child>
+    <Child ReferenceText="voluntary">
+      <PageReference>DF19:22</PageReference>
+    </Child>
+    <Child ReferenceText="blocking spells and">
+      <PageReference>DF19:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Safeguard spell">
+    <PageReference>DF19:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Script grammarye equipment modifier">
+    <PageReference>DF19:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scripts">
+    <PageReference>DF19:20</PageReference>
+    <SeeAlso>Spells</SeeAlso>
+    <Child ReferenceText="definition">
+      <PageReference>DF19:5</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>DF19:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrolls">
+    <SeeAlso>Grimoires</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Scry spell">
+    <PageReference>DF19:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense spell effects">
+    <PageReference>DF19:14</PageReference>
+    <Child ReferenceText="Arcanum">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Augury">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Demonology">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Elementalism">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>DF19:28</PageReference>
+      <PageReference>DF19:29</PageReference>
+    </Child>
+    <Child ReferenceText="Mesmerism">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="Necromancy">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="Protection">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="Transfiguration">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Simulacrums">
+    <PageReference>DF19:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>DF19:5</PageReference>
+    <Child ReferenceText="complimentary">
+      <PageReference>DF19:4</PageReference>
+    </Child>
+    <Child ReferenceText="Path">
+      <PageReference>DF19:10-14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Solidify Spirit spells">
+    <PageReference>DF19:27</PageReference>
+    <PageReference>DF19:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed spell modifier">
+    <PageReference>DF19:16</PageReference>
+    <Child ReferenceText="specific spells">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell points (SP)">
+    <Child ReferenceText="skill penalty and">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+    <Child ReferenceText="overview">
+      <PageReference>DF19:5</PageReference>
+      <PageReference>DF19:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <SeeAlso>Casting Time</SeeAlso>
+    <SeeAlso>Components</SeeAlso>
+    <SeeAlso>Gear</SeeAlso>
+    <SeeAlso>Path Skills</SeeAlso>
+    <SeeAlso>Sacrifice</SeeAlso>
+    <SeeAlso>Workspace</SeeAlso>
+    <Child ReferenceText="blocking">
+      <PageReference>DF19:20</PageReference>
+    </Child>
+    <Child ReferenceText="building">
+      <PageReference>DF19:14-22</PageReference>
+    </Child>
+    <Child ReferenceText="casting roll">
+      <PageReference>DF19:17</PageReference>
+    </Child>
+    <Child ReferenceText="circles">
+      <PageReference>DF19:5</PageReference>
+      <PageReference>DF19:7</PageReference>
+      <PageReference>DF19:17</PageReference>
+    </Child>
+    <Child ReferenceText="conditional">
+      <PageReference>DF19:20</PageReference>
+    </Child>
+    <Child ReferenceText="defining specific">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+    <Child ReferenceText="determining traits used by">
+      <PageReference>DF19:20</PageReference>
+    </Child>
+    <Child ReferenceText="dispelling">
+      <PageReference>DF19:21</PageReference>
+      <PageReference>DF19:26</PageReference>
+    </Child>
+    <Child ReferenceText="effect examples">
+      <PageReference>DF19:11-14</PageReference>
+    </Child>
+    <Child ReferenceText="effect overview">
+      <PageReference>DF19:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="effect restrictions">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="incantations">
+      <PageReference>DF19:19</PageReference>
+    </Child>
+    <Child ReferenceText="infusions">
+      <PageReference>DF19:5</PageReference>
+      <PageReference>DF19:19</PageReference>
+    </Child>
+    <Child ReferenceText="limited">
+      <PageReference>DF19:15</PageReference>
+    </Child>
+    <Child ReferenceText="magic slots">
+      <PageReference>DF19:5</PageReference>
+      <PageReference>DF19:19</PageReference>
+    </Child>
+    <Child ReferenceText="mana level">
+      <PageReference>DF19:10</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>DF19:15-17</PageReference>
+      <PageReference>DF19:21</PageReference>
+    </Child>
+    <Child ReferenceText="multiple Path skills">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+    <Child ReferenceText="negating">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+    <Child ReferenceText="overview of examples">
+      <PageReference>DF19:23</PageReference>
+    </Child>
+    <Child ReferenceText="prepared">
+      <PageReference>DF19:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="protective">
+      <PageReference>DF19:22</PageReference>
+    </Child>
+    <Child ReferenceText="reasons for normal casting">
+      <PageReference>DF19:17</PageReference>
+    </Child>
+    <Child ReferenceText="related character traits">
+      <PageReference>DF19:4-5</PageReference>
+      <PageReference>DF19:6-7</PageReference>
+    </Child>
+    <Child ReferenceText="restrictions on">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="sacrifice">
+      <PageReference>DF19:22</PageReference>
+    </Child>
+    <Child ReferenceText="scripts">
+      <PageReference>DF19:5</PageReference>
+      <PageReference>DF19:20</PageReference>
+    </Child>
+    <Child ReferenceText="skill penalty">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+    <Child ReferenceText="spell points">
+      <PageReference>DF19:5</PageReference>
+      <PageReference>DF19:14</PageReference>
+    </Child>
+    <Child ReferenceText="stacking">
+      <PageReference>DF19:21-22</PageReference>
+    </Child>
+    <Child ReferenceText="standard magic and">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+    <Child ReferenceText="warding">
+      <PageReference>DF19:22</PageReference>
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="affecting other spells">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirits">
+    <PageReference>DF19:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standard magic, incantation magic vs">
+    <Child ReferenceText="">
+      <PageReference>DF19:3</PageReference>
+      <PageReference>DF19:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Strengthen spell effects">
+    <PageReference>DF19:14</PageReference>
+    <Child ReferenceText="Arcanum">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Augury">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Demonology">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Elementalism">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>DF19:24</PageReference>
+      <PageReference>DF19:27-30</PageReference>
+    </Child>
+    <Child ReferenceText="Mesmerism">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="Necromancy">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="Protection">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="Transfiguration">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Subject Weight spell modifier">
+    <PageReference>DF19:16</PageReference>
+    <Child ReferenceText="specific spells">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Summon Flaming Skull spell">
+    <PageReference>DF19:29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Summoned spell modifier">
+    <PageReference>DF19:16-17</PageReference>
+    <Child ReferenceText="specific spells">
+      <PageReference>DF19:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Symbol Drawing (Scripts) skill">
+    <PageReference>DF19:5</PageReference>
+    <Child ReferenceText="circles">
+      <PageReference>DF19:17</PageReference>
+      <PageReference>DF19:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="spell effects">
+      <PageReference>DF19:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="spell penalty">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+    <Child ReferenceText="damage">
+      <PageReference>DF19:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Template">
+    <PageReference>DF19:5-6</PageReference>
+    <Child ReferenceText="lenses">
+      <PageReference>DF19:7-9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Transfiguration">
+    <Child ReferenceText="equivalent colleges">
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>DF19:27</PageReference>
+      <PageReference>DF19:28</PageReference>
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="Path of">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Transform spell effects">
+    <PageReference>DF19:14-15</PageReference>
+    <Child ReferenceText="Arcanum">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Augury">
+      <PageReference>DF19:11</PageReference>
+    </Child>
+    <Child ReferenceText="Demonology">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="Elementalism">
+      <PageReference>DF19:12</PageReference>
+    </Child>
+    <Child ReferenceText="example spells">
+      <PageReference>DF19:27</PageReference>
+      <PageReference>DF19:28</PageReference>
+      <PageReference>DF19:30</PageReference>
+    </Child>
+    <Child ReferenceText="Mesmerism">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="Necromancy">
+      <PageReference>DF19:13</PageReference>
+    </Child>
+    <Child ReferenceText="Protection">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+    <Child ReferenceText="Transfiguration">
+      <PageReference>DF19:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Transmogrifier character type">
+    <PageReference>DF19:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Twist of Fate spell">
+    <PageReference>DF19:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background (Incantation Mage) advantage">
+    <PageReference>DF19:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampiric spells">
+    <PageReference>DF19:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ward for (Class) spell">
+    <PageReference>DF19:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warder character type">
+    <PageReference>DF19:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warding">
+    <PageReference>DF19:22</PageReference>
+    <PageReference>DF19:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warrior simulacrums">
+    <PageReference>DF19:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons, conjured">
+    <PageReference>DF19:21</PageReference>
+    <SeeAlso>Damage Spell Modifier</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Whiplash spell">
+    <PageReference>DF19:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Workspace">
+    <Child ReferenceText="Gizmos and">
+      <PageReference>DF19:4</PageReference>
+    </Child>
+    <Child ReferenceText="kits">
+      <PageReference>DF19:18</PageReference>
+    </Child>
+    <Child ReferenceText="power-up">
+      <PageReference>DF19:7</PageReference>
+    </Child>
+    <Child ReferenceText="prepared casting and">
+      <PageReference>DF19:19</PageReference>
+    </Child>
+    <Child ReferenceText="circles">
+      <PageReference>DF19:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrathchild spell">
+    <PageReference>DF19:30</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

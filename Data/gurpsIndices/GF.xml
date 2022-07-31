@@ -1,0 +1,1159 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Accessories">
+    <PageReference>GF41-43</PageReference>
+    <Child ReferenceText="adding">
+      <PageReference>GF40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Accuracy bonus">
+    <PageReference>GF12</PageReference>
+    <PageReference>GF40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accurizing">
+    <PageReference>GF40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Action genre">
+    <PageReference>GF6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acute Vision advantage">
+    <PageReference>GF13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>GF13-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advice">
+    <Child ReferenceText="giving in combat">
+      <PageReference>GF12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerial Target Shooter perk option">
+    <PageReference>GF22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aiming">
+    <PageReference>GF12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Akimbo">
+    <PageReference>GF4</PageReference>
+    <Child ReferenceText="perk">
+      <PageReference>GF17</PageReference>
+      <PageReference>GF32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies in combat">
+    <PageReference>GF12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Attacks">
+    <PageReference>GF10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Altered Time Rate advantage">
+    <PageReference>GF9</PageReference>
+    <PageReference>GF13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambidexterity advantage">
+    <PageReference>GF13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammunition">
+    <Child ReferenceText="as specialty">
+      <PageReference>GF24</PageReference>
+    </Child>
+    <Child ReferenceText="bonus">
+      <PageReference>GF39</PageReference>
+    </Child>
+    <Child ReferenceText="reloading">
+      <PageReference>GF4</PageReference>
+      <PageReference>GF21</PageReference>
+      <PageReference>GF27</PageReference>
+      <PageReference>GF32</PageReference>
+      <PageReference>GF42</PageReference>
+      <PageReference>GF43</PageReference>
+    </Child>
+    <Child ReferenceText="as perk">
+      <PageReference>GF19-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Arching Shot Imbuement">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area Defense perk">
+    <PageReference>GF17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armorer’s Gift perk">
+    <PageReference>GF17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Army of One perk">
+    <PageReference>GF17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arsenal limitation">
+    <PageReference>GF16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Back to the Wall perk option">
+    <PageReference>GF22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Back-to-back in combat">
+    <PageReference>GF12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bank Shot Imbuement">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bank Shot perk">
+    <PageReference>GF17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Behind-the-Back Shot technique">
+    <PageReference>GF25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bend the Bullet perk">
+    <PageReference>GF17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blind Fighting skill">
+    <PageReference>GF23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Books">
+    <Child ReferenceText="inspirational">
+      <PageReference>GF48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Breaking Blow skill">
+    <PageReference>GF23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breath Control skill">
+    <PageReference>GF24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bubba cup holders">
+    <PageReference>GF42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buddy bandaging in combat">
+    <PageReference>GF12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bullet ballet">
+    <PageReference>GF7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bullet Time (ETS benefit)">
+    <PageReference>GF14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bullpups">
+    <PageReference>GF40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burning Strike Imbuement">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cavalry Training technique">
+    <PageReference>GF25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chicago Typewriter perk option">
+    <PageReference>GF22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cinematic Knockback perk">
+    <PageReference>GF17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cinematic Option perk">
+    <PageReference>GF17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close-Hip Shooting technique">
+    <PageReference>GF26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close-Quarters Battle technique">
+    <PageReference>GF26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Closing the distance">
+    <PageReference>GF7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Driving technique">
+    <PageReference>GF26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Piloting technique">
+    <PageReference>GF26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Riding technique">
+    <PageReference>GF26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combination weapons">
+    <PageReference>GF38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Comics">
+    <Child ReferenceText="inspirational">
+      <PageReference>GF48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Communicating in combat">
+    <PageReference>GF12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Companions in combat">
+    <PageReference>GF12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compensators">
+    <PageReference>GF41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concealed back holsters">
+    <PageReference>GF42-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concealed Carry Permit perk">
+    <PageReference>GF17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conic Blast Imbuement">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Connoisseur skill">
+    <PageReference>GF24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Converting">
+    <Child ReferenceText="a semiautomatic to full-automatic">
+      <PageReference>GF40-41</PageReference>
+    </Child>
+    <Child ReferenceText="a long arm into a bullpup">
+      <PageReference>GF40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cookie Cutter perk">
+    <PageReference>GF17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cool Under Fire perk">
+    <PageReference>GF18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossbow Fu style">
+    <PageReference>GF34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cross-Trained perk">
+    <PageReference>GF18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cult of the .45">
+    <PageReference>GF39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cult weapons">
+    <PageReference>GF39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Customizing guns">
+    <PageReference>GF40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutting Strike Imbuement">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="CZ Model 75">
+    <PageReference>GF36</PageReference>
+    <PageReference>GF37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deadeye perk">
+    <PageReference>GF12</PageReference>
+    <PageReference>GF18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deagle cult">
+    <PageReference>GF39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deceptive Attack combat option">
+    <PageReference>GF11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Default use of techniques">
+    <PageReference>GF25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Desirable advantages">
+    <PageReference>GF14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dial-a-Round perk">
+    <PageReference>GF18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disarming technique">
+    <PageReference>GF26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dodging Bullets (ETS benefit)">
+    <PageReference>GF14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Double Trouble style">
+    <PageReference>GF9</PageReference>
+    <PageReference>GF31-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Double-Loading technique">
+    <PageReference>GF27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dramatic Death perk">
+    <PageReference>GF18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drawing first">
+    <Child ReferenceText="determining">
+      <PageReference>GF8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual Ready perk">
+    <PageReference>GF18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual-Weapon Attack">
+    <Child ReferenceText="technique">
+      <PageReference>GF10</PageReference>
+      <PageReference>GF27</PageReference>
+    </Child>
+    <Child ReferenceText="combat option">
+      <PageReference>GF10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Early Adopter perk">
+    <PageReference>GF18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy weapons">
+    <Child ReferenceText="fast-firing">
+      <PageReference>GF11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Dodge advantage">
+    <PageReference>GF13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Time Sense advantage">
+    <PageReference>GF14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Tracking advantage">
+    <PageReference>GF15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancements">
+    <Child ReferenceText="new">
+      <PageReference>GF15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <PageReference>GF36-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Attack advantage">
+    <PageReference>GF9</PageReference>
+    <PageReference>GF15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fanning firearms">
+    <PageReference>GF4</PageReference>
+    <PageReference>GF11</PageReference>
+    <Child ReferenceText="technique">
+      <PageReference>GF27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-draw back scabbards">
+    <PageReference>GF43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Draw Opponent’s Weapon technique">
+    <PageReference>GF27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-draw rigs">
+    <PageReference>GF43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Draw skill">
+    <PageReference>GF8</PageReference>
+    <PageReference>GF10</PageReference>
+    <PageReference>GF14</PageReference>
+    <PageReference>GF18-21</PageReference>
+    <PageReference>GF42-43</PageReference>
+    <Child ReferenceText="described">
+      <PageReference>GF24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fastest Gun in the West perk">
+    <PageReference>GF18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-firing firearms">
+    <PageReference>GF11</PageReference>
+    <Child ReferenceText="technique">
+      <PageReference>GF27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Feint technique">
+    <PageReference>GF27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fiction">
+    <Child ReferenceText="inspirational">
+      <PageReference>GF44-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fictional guns">
+    <PageReference>GF38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Films">
+    <Child ReferenceText="inspirational">
+      <PageReference>GF44-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearms">
+    <SeeAlso>Guns</SeeAlso>
+    <SeeAlso>specific types of guns</SeeAlso>
+    <Child ReferenceText="accessories">
+      <PageReference>GF41-43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fireball Shot perk">
+    <PageReference>GF18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="First-person shooter (FPS) games">
+    <Child ReferenceText="representing">
+      <PageReference>GF47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fitting a gun to its owner">
+    <PageReference>GF41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flank Shot technique">
+    <PageReference>GF27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flimsy Cover perk">
+    <PageReference>GF19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying Leap skill">
+    <PageReference>GF24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forceful Blow Imbuement">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Franchi PA3">
+    <PageReference>GF37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Future Kill style">
+    <PageReference>GF32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="German Engineering cult">
+    <PageReference>GF39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Getting close to targets">
+    <PageReference>GF7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gizmos advantage">
+    <PageReference>GF15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grip Mastery perk">
+    <PageReference>GF19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guided Weapon Imbuement">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun fu">
+    <Child ReferenceText="definition">
+      <PageReference>GF4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun Rack limitation">
+    <PageReference>GF16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun Sense perk">
+    <PageReference>GF19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun Shticks perk">
+    <PageReference>GF19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun Whisperer perk">
+    <PageReference>GF19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun! skill">
+    <PageReference>GF24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns">
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="benefits for">
+      <PageReference>GF39</PageReference>
+    </Child>
+    <Child ReferenceText="combination">
+      <PageReference>GF38</PageReference>
+    </Child>
+    <Child ReferenceText="cults">
+      <PageReference>GF39</PageReference>
+    </Child>
+    <Child ReferenceText="customization">
+      <PageReference>GF40-41</PageReference>
+    </Child>
+    <Child ReferenceText="drawbacks for">
+      <PageReference>GF39</PageReference>
+    </Child>
+    <Child ReferenceText="fictional">
+      <PageReference>GF38</PageReference>
+    </Child>
+    <Child ReferenceText="mook">
+      <PageReference>GF39</PageReference>
+    </Child>
+    <Child ReferenceText="movie">
+      <PageReference>GF39</PageReference>
+    </Child>
+    <Child ReferenceText="obtaining">
+      <PageReference>GF36</PageReference>
+    </Child>
+    <Child ReferenceText="permitted with styles">
+      <PageReference>GF31</PageReference>
+    </Child>
+    <Child ReferenceText="stats">
+      <PageReference>GF36-39</PageReference>
+    </Child>
+    <Child ReferenceText="accessories">
+      <PageReference>GF41-43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunslinger advantage">
+    <PageReference>GF8</PageReference>
+    <PageReference>GF10</PageReference>
+    <PageReference>GF13</PageReference>
+    <PageReference>GF14</PageReference>
+    <PageReference>GF16</PageReference>
+    <PageReference>GF17</PageReference>
+    <PageReference>GF21</PageReference>
+    <PageReference>GF24</PageReference>
+    <PageReference>GF25</PageReference>
+    <PageReference>GF30</PageReference>
+    <Child ReferenceText="description">
+      <PageReference>GF15-16</PageReference>
+      <PageReference>GF40-41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>GF7</PageReference>
+    <PageReference>GF11</PageReference>
+    <PageReference>GF36</PageReference>
+    <PageReference>GF41</PageReference>
+    <PageReference>GF42</PageReference>
+    <Child ReferenceText="Action 1: Heroes">
+      <PageReference>GF3</PageReference>
+      <PageReference>GF24</PageReference>
+    </Child>
+    <Child ReferenceText="Action 2: Exploits">
+      <PageReference>GF3</PageReference>
+    </Child>
+    <Child ReferenceText="Age of Napoleon">
+      <PageReference>GF35</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>GF3</PageReference>
+      <PageReference>GF14</PageReference>
+      <PageReference>GF15</PageReference>
+      <PageReference>GF40</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>GF3</PageReference>
+      <PageReference>GF6</PageReference>
+      <PageReference>GF10-12</PageReference>
+      <PageReference>GF16</PageReference>
+      <PageReference>GF18</PageReference>
+      <PageReference>GF21</PageReference>
+      <PageReference>GF22</PageReference>
+      <PageReference>GF28</PageReference>
+      <PageReference>GF31</PageReference>
+      <PageReference>GF36-48</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech: Pulp Guns">
+      <PageReference>GF36</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech: Pulp Guns 1">
+      <PageReference>GF44</PageReference>
+      <PageReference>GF46</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech: Pulp Guns 2">
+      <PageReference>GF41</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>GF3</PageReference>
+      <PageReference>GF7-9</PageReference>
+      <PageReference>GF31</PageReference>
+      <PageReference>GF43</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts: Fairbairn Close Combat Systems">
+      <PageReference>GF3</PageReference>
+      <PageReference>GF9</PageReference>
+      <PageReference>GF26</PageReference>
+    </Child>
+    <Child ReferenceText="Old West">
+      <PageReference>GF5</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 1: Imbuements">
+      <PageReference>GF30</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>GF19</PageReference>
+    </Child>
+    <Child ReferenceText="Ultra-Tech">
+      <PageReference>GF36</PageReference>
+      <PageReference>GF38</PageReference>
+      <PageReference>GF40</PageReference>
+      <PageReference>GF44</PageReference>
+      <PageReference>GF45</PageReference>
+      <PageReference>GF47</PageReference>
+      <PageReference>GF48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K USP Match">
+    <PageReference>GF37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hand Cannon perk">
+    <PageReference>GF19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hand Howitzer weapon benefit">
+    <PageReference>GF39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Handguns">
+    <SeeAlso>Guns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Hands-Free Riding technique">
+    <PageReference>GF28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard-Core weapon benefit">
+    <PageReference>GF39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High-speed shooting">
+    <PageReference>GF11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="History">
+    <PageReference>GF5-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holsters">
+    <PageReference>GF42-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Homing Weapon Imbuement">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hong Kong action genre">
+    <PageReference>GF6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imbuement Skills">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IMI Galil MAR">
+    <PageReference>GF37</PageReference>
+    <PageReference>GF38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immediate Action">
+    <Child ReferenceText="technique">
+      <PageReference>GF28</PageReference>
+    </Child>
+    <Child ReferenceText="combat option">
+      <PageReference>GF28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Incendiary Weapon Imbuement">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Indestructible weapon benefit">
+    <PageReference>GF39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinite Ammunition perk">
+    <PageReference>GF19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Instant Arsenal Disarm technique">
+    <PageReference>GF28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intuitive Armorer perk">
+    <PageReference>GF20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invisibility Art skill">
+    <PageReference>GF24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Just Winged Him perk">
+    <PageReference>GF20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kung fu and gun fu">
+    <PageReference>GF9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lightning Fingers perk">
+    <PageReference>GF20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitations">
+    <Child ReferenceText="new">
+      <PageReference>GF15-16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Long arms">
+    <SeeAlso>Guns</SeeAlso>
+    <Child ReferenceText="stats">
+      <PageReference>GF37-38</PageReference>
+    </Child>
+    <Child ReferenceText="converting">
+      <PageReference>GF40</PageReference>
+      <PageReference>GF41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Machine gun cases">
+    <PageReference>GF43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mag knuckles">
+    <PageReference>GF42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magazine modifications">
+    <PageReference>GF43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial arts and gun fu">
+    <PageReference>GF9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mexican standoffs">
+    <PageReference>GF4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mikhail’s Army cult">
+    <PageReference>GF39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miroku-Browning BPS Field">
+    <PageReference>GF37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Model limitation">
+    <PageReference>GF16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mook guns">
+    <PageReference>GF39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mossberg Model 500 ATP6 Cruiser">
+    <PageReference>GF37</PageReference>
+    <PageReference>GF38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Motorized Training perk">
+    <PageReference>GF20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounted">
+    <Child ReferenceText="shooting while">
+      <PageReference>GF8</PageReference>
+      <PageReference>GF25-26</PageReference>
+      <PageReference>GF28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounted Shooting technique">
+    <PageReference>GF28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Movie guns">
+    <PageReference>GF39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple">
+    <Child ReferenceText="shots to kill">
+      <PageReference>GF9</PageReference>
+    </Child>
+    <Child ReferenceText="targets">
+      <PageReference>GF10</PageReference>
+    </Child>
+    <Child ReferenceText="attacks">
+      <PageReference>GF9-10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple Lock-Ons enhancement">
+    <PageReference>GF15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-Shot Imbuement">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-Strike enhancement">
+    <PageReference>GF15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Muzzle">
+    <Child ReferenceText="weights">
+      <PageReference>GF42</PageReference>
+    </Child>
+    <Child ReferenceText="ports">
+      <PageReference>GF42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Muzzle Flamethrower perk">
+    <PageReference>GF20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New York reloads">
+    <PageReference>GF4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Next Time">
+    <Child ReferenceText="It’s Your Head Shtick">
+      <PageReference>GF19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="No Friendly Fire perk">
+    <PageReference>GF20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obtaining guns">
+    <PageReference>GF36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Offensive maneuvers">
+    <PageReference>GF9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Off-Hand Weapon Training perk">
+    <PageReference>GF20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Off-Screen Reload perk option">
+    <PageReference>GF22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="On Alert perk option">
+    <PageReference>GF22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One shot to kill">
+    <PageReference>GF9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-Armed Bandit perk">
+    <PageReference>GF21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-Man Army style">
+    <PageReference>GF9</PageReference>
+    <PageReference>GF32-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pants-Positive Safety perk">
+    <PageReference>GF21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Penetrating Strike Imbuement">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>GF16-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pistol-Fist perk">
+    <PageReference>GF21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pistols">
+    <PageReference>GF36-37</PageReference>
+    <SeeAlso>Guns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Precision Aiming">
+    <Child ReferenceText="technique">
+      <PageReference>GF28-29</PageReference>
+    </Child>
+    <Child ReferenceText="combat option">
+      <PageReference>GF12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Prediction Shot combat option">
+    <PageReference>GF11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Publication history">
+    <PageReference>GF3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Mount technique">
+    <PageReference>GF29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Reload perk">
+    <PageReference>GF21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-readying nearby weapons">
+    <PageReference>GF10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Sheathe perk">
+    <PageReference>GF21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Shot technique">
+    <PageReference>GF29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Swap perk">
+    <PageReference>GF21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Range">
+    <Child ReferenceText="simplified">
+      <PageReference>GF7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged">
+    <Child ReferenceText="feints">
+      <PageReference>GF12</PageReference>
+    </Child>
+    <Child ReferenceText="disarms">
+      <PageReference>GF11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged Rapid Strike combat option">
+    <PageReference>GF10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rate of fire">
+    <PageReference>GF10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Real guns">
+    <PageReference>GF36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recoil Rocket perk">
+    <PageReference>GF21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reloading">
+    <PageReference>GF4</PageReference>
+    <PageReference>GF32</PageReference>
+    <Child ReferenceText="aids">
+      <PageReference>GF43</PageReference>
+    </Child>
+    <Child ReferenceText="related perks">
+      <PageReference>GF19-21</PageReference>
+    </Child>
+    <Child ReferenceText="related techniques">
+      <PageReference>GF27</PageReference>
+    </Child>
+    <Child ReferenceText="with Double Trouble">
+      <PageReference>GF32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Resolving standoffs">
+    <PageReference>GF8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retain Weapon technique">
+    <PageReference>GF29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rifles">
+    <PageReference>GF37</PageReference>
+    <PageReference>GF38</PageReference>
+    <SeeAlso>Guns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Rope Shooter perk">
+    <PageReference>GF21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruger KP90">
+    <PageReference>GF37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scabbards">
+    <PageReference>GF42-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scattergun perk">
+    <PageReference>GF21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scenery">
+    <Child ReferenceText="shooting up">
+      <PageReference>GF12</PageReference>
+      <PageReference>GF19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Science-fiction genre">
+    <PageReference>GF6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Semiautomatic pistols">
+    <PageReference>GF36-37</PageReference>
+    <PageReference>GF40-41</PageReference>
+    <SeeAlso>Guns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shattershot Imbuement">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shockwave Imbuement">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoot ’Em Up! combat option">
+    <PageReference>GF12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shooter! skill">
+    <PageReference>GF24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shooting">
+    <Child ReferenceText="on the move">
+      <PageReference>GF7-8</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>GF16</PageReference>
+    </Child>
+    <Child ReferenceText="while mounted">
+      <PageReference>GF8</PageReference>
+      <PageReference>GF25-26</PageReference>
+      <PageReference>GF28</PageReference>
+    </Child>
+    <Child ReferenceText="for effect">
+      <PageReference>GF8-9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shooting Between Raindrops (ETS benefit)">
+    <PageReference>GF14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shortening">
+    <Child ReferenceText="a long arm">
+      <PageReference>GF41</PageReference>
+    </Child>
+    <Child ReferenceText="a handgun">
+      <PageReference>GF41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shotguns">
+    <PageReference>GF37-38</PageReference>
+    <SeeAlso>Guns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shots needed to kill">
+    <PageReference>GF9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silencer perk">
+    <PageReference>GF21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Simplified range">
+    <PageReference>GF7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Single Skill limitation">
+    <PageReference>GF15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>GF23-25</PageReference>
+    <Child ReferenceText="levels">
+      <PageReference>GF23</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>GF24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleep with One Eye Open perk option">
+    <PageReference>GF22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleeve">
+    <Child ReferenceText="magazine loaders">
+      <PageReference>GF43</PageReference>
+    </Child>
+    <Child ReferenceText="holsters">
+      <PageReference>GF43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slings">
+    <PageReference>GF42-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sniper style">
+    <PageReference>GF9</PageReference>
+    <PageReference>GF33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speedload magazine holders">
+    <PageReference>GF43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spraying fire">
+    <PageReference>GF10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standard Operating Procedure perk">
+    <PageReference>GF22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standoffs">
+    <PageReference>GF8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Staying Seated technique">
+    <PageReference>GF29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stealthy Attack Imbuement">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stone-Cold Killer Shtick">
+    <PageReference>GF19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Style Familiarity perk">
+    <PageReference>GF16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Style Perks">
+    <PageReference>GF16-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Styles">
+    <PageReference>GF31-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Style! skill options">
+    <PageReference>GF25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-Fast Draw (ETS benefit)">
+    <PageReference>GF14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural capabilities">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supplier perk">
+    <PageReference>GF22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sure-Footed perk">
+    <PageReference>GF22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tack Driver perk option">
+    <PageReference>GF23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactical">
+    <Child ReferenceText="food">
+      <PageReference>GF42</PageReference>
+    </Child>
+    <Child ReferenceText="energy drinks">
+      <PageReference>GF42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tacticool">
+    <Child ReferenceText="perk">
+      <PageReference>GF22</PageReference>
+    </Child>
+    <Child ReferenceText="gadgets">
+      <PageReference>GF42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tap-Rack-Bang perk">
+    <PageReference>GF22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Targeted Attack technique">
+    <PageReference>GF29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <PageReference>GF25-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Television">
+    <Child ReferenceText="inspirational">
+      <PageReference>GF44-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Terms">
+    <PageReference>GF4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thumbing firearms">
+    <PageReference>GF4</PageReference>
+    <PageReference>GF11</PageReference>
+    <Child ReferenceText="technique">
+      <PageReference>GF29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Timed Dodge technique">
+    <PageReference>GF29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracer Eyes perk">
+    <PageReference>GF22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trick Reload Shtick">
+    <PageReference>GF19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trick Shooter perk">
+    <PageReference>GF22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tricky shooting">
+    <PageReference>GF11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Twirl Shtick">
+    <PageReference>GF19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-handed thumbing">
+    <PageReference>GF11</PageReference>
+    <Child ReferenceText="technique">
+      <PageReference>GF30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Type limitation">
+    <PageReference>GF16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultimate Shootist style">
+    <PageReference>GF9</PageReference>
+    <PageReference>GF34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Underbarrel pistol mounts">
+    <PageReference>GF42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Upside-Down Shooting perk">
+    <PageReference>GF23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Using techniques together">
+    <PageReference>GF25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles and shooting">
+    <PageReference>GF8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Video games">
+    <Child ReferenceText="representing">
+      <PageReference>GF47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Walking Armory perk">
+    <PageReference>GF23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wall o’ Lead Shtick">
+    <PageReference>GF19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Way of the Galaxy style">
+    <PageReference>GF35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Way of the West style">
+    <PageReference>GF9</PageReference>
+    <PageReference>GF35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Bond perk">
+    <PageReference>GF23</PageReference>
+    <PageReference>GF41</PageReference>
+    <PageReference>GF42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <SeeAlso>Guns</SeeAlso>
+    <Child ReferenceText="permitted with styles">
+      <PageReference>GF31</PageReference>
+      <PageReference>GF34</PageReference>
+    </Child>
+    <Child ReferenceText="combination">
+      <PageReference>GF38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Western genre">
+    <PageReference>GF5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whirlwind Attack technique">
+    <PageReference>GF30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard skills">
+    <PageReference>GF24</PageReference>
+    <PageReference>GF25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wondernines">
+    <PageReference>GF4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zen Marksmanship skill">
+    <PageReference>GF24</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

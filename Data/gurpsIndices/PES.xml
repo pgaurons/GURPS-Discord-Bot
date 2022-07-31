@@ -1,0 +1,1093 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abilities">
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Powers</SeeAlso>
+    <SeeAlso>Senses</SeeAlso>
+    <SeeAlso>specific senses</SeeAlso>
+    <Child ReferenceText="enhancing skills">
+      <PageReference>PES10</PageReference>
+    </Child>
+    <Child ReferenceText="listed by powers">
+      <PageReference>PES32-33</PageReference>
+    </Child>
+    <Child ReferenceText="long-term fatigue and">
+      <PageReference>PES7</PageReference>
+    </Child>
+    <Child ReferenceText="senses as attacks">
+      <PageReference>PES9</PageReference>
+    </Child>
+    <Child ReferenceText="stunts">
+      <PageReference>PES9</PageReference>
+    </Child>
+    <Child ReferenceText="alternative">
+      <PageReference>PES9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Acceleration sense abilities">
+    <PageReference>PES27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accelerometer perk">
+    <PageReference>PES26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accessory perks">
+    <PageReference>PES26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acoustic sense abilities">
+    <PageReference>PES19-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Active Electroreception">
+    <Child ReferenceText="advantage">
+      <PageReference>PES8</PageReference>
+    </Child>
+    <Child ReferenceText="long-term fatigue and">
+      <PageReference>PES7</PageReference>
+    </Child>
+    <Child ReferenceText="ability">
+      <PageReference>PES10</PageReference>
+      <PageReference>PES17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Advanced Electronic power modifier">
+    <PageReference>PES5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>PES7-8</PageReference>
+    <SeeAlso>Abilities</SeeAlso>
+    <SeeAlso>Powers</SeeAlso>
+    <Child ReferenceText="modifiers">
+      <PageReference>PES8-9</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>PES26</PageReference>
+      <PageReference>PES31</PageReference>
+    </Child>
+    <Child ReferenceText="Talents">
+      <PageReference>PES4</PageReference>
+      <PageReference>PES5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Analytical Hearing ability">
+    <PageReference>PES20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Analytical Smell ability">
+    <PageReference>PES24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Analytical Taste ability">
+    <PageReference>PES24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archer’s Trance ability">
+    <PageReference>PES28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Augmented Pinnae ability">
+    <PageReference>PES20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad Sight disadvantage">
+    <PageReference>PES12</PageReference>
+    <Child ReferenceText="new versions">
+      <PageReference>PES12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle Arc ability">
+    <PageReference>PES28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biological (Passive) power modifier">
+    <PageReference>PES4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood Group Analyzer ability">
+    <PageReference>PES24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood Taste ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cable Jack advantage">
+    <PageReference>PES8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Capacitive Mesh ability">
+    <PageReference>PES18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemical sense abilities">
+    <PageReference>PES23-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi power modifier">
+    <PageReference>PES5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi sense abilities">
+    <PageReference>PES25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Circuit Probe perk">
+    <PageReference>PES26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic power modifier">
+    <PageReference>PES5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Costs Fatigue limitation">
+    <PageReference>PES7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutaneous Chemical Sense ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Darksense ability">
+    <PageReference>PES28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Darksight ability">
+    <PageReference>PES12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect advantage">
+    <Child ReferenceText="classification">
+      <PageReference>PES6</PageReference>
+    </Child>
+    <Child ReferenceText="fields and">
+      <PageReference>PES7</PageReference>
+    </Child>
+    <Child ReferenceText="range">
+      <PageReference>PES6</PageReference>
+    </Child>
+    <Child ReferenceText="arc">
+      <PageReference>PES6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Diagnostic Scan ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <Child ReferenceText="new">
+      <PageReference>PES12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Discriminatory senses">
+    <PageReference>PES6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine power modifier">
+    <PageReference>PES5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eagle Eyes ability">
+    <PageReference>PES13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electric current abilities">
+    <PageReference>PES17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electric field abilities">
+    <PageReference>PES17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electric sense abilities">
+    <PageReference>PES17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electromagnetic radiation sense abilities">
+    <PageReference>PES11-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronic power modifier">
+    <PageReference>PES5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Reality ability">
+    <PageReference>PES29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Senses power">
+    <PageReference>PES4</PageReference>
+    <Child ReferenceText="ability list">
+      <PageReference>PES32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Extreme Ultrasonic Hearing ability">
+    <PageReference>PES22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eye Protection ability">
+    <PageReference>PES14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eyes">
+    <SeeAlso>Vision</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Farsight ability">
+    <PageReference>PES13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue">
+    <Child ReferenceText="long-term">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Feelers ability">
+    <PageReference>PES22</PageReference>
+    <Child ReferenceText="long">
+      <PageReference>PES23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Field Sense advantage">
+    <PageReference>PES17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Field senses">
+    <PageReference>PES7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gamma ray sense abilities">
+    <PageReference>PES16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gene Sequencer ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genescan ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genomic sense abilities">
+    <PageReference>PES25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glare Adaptation ability">
+    <PageReference>PES14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravimetry ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravitational sense abilities">
+    <PageReference>PES25-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>PES3</PageReference>
+    <PageReference>PES7</PageReference>
+    <PageReference>PES21</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>PES3</PageReference>
+      <PageReference>PES4</PageReference>
+    </Child>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>PES3</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>PES3</PageReference>
+      <PageReference>PES7</PageReference>
+    </Child>
+    <Child ReferenceText="Low-Tech Companion 1">
+      <PageReference>PES31</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>PES4</PageReference>
+      <PageReference>PES5</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>PES26</PageReference>
+      <PageReference>PES28</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>PES3</PageReference>
+      <PageReference>PES4</PageReference>
+      <PageReference>PES7-10</PageReference>
+      <PageReference>PES26</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>PES4</PageReference>
+    </Child>
+    <Child ReferenceText="Space">
+      <PageReference>PES3</PageReference>
+      <PageReference>PES26</PageReference>
+    </Child>
+    <Child ReferenceText="Supers">
+      <PageReference>PES17</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>PES4</PageReference>
+      <PageReference>PES5</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology: Chinese Elemental Powers">
+      <PageReference>PES5</PageReference>
+      <PageReference>PES7</PageReference>
+      <PageReference>PES25</PageReference>
+    </Child>
+    <Child ReferenceText="Ultra-Tech">
+      <PageReference>PES3</PageReference>
+      <PageReference>PES7</PageReference>
+      <PageReference>PES8</PageReference>
+      <PageReference>PES13</PageReference>
+      <PageReference>PES26</PageReference>
+      <PageReference>PES27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hearing">
+    <Child ReferenceText="arc">
+      <PageReference>PES6</PageReference>
+    </Child>
+    <Child ReferenceText="classification">
+      <PageReference>PES6</PageReference>
+    </Child>
+    <Child ReferenceText="loudness effects">
+      <PageReference>PES21</PageReference>
+    </Child>
+    <Child ReferenceText="loudness levels">
+      <PageReference>PES21</PageReference>
+    </Child>
+    <Child ReferenceText="range">
+      <PageReference>PES6</PageReference>
+    </Child>
+    <Child ReferenceText="tunnels and">
+      <PageReference>PES22</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>PES19-22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="HF/DF ability">
+    <PageReference>PES11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hunting Sonar ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES19</PageReference>
+    <Child ReferenceText="long-term fatigue and">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hydrophony ability">
+    <PageReference>PES21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypercognition power">
+    <PageReference>PES4</PageReference>
+    <Child ReferenceText="ability list">
+      <PageReference>PES32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypersensory abilities">
+    <PageReference>PES28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypersensory modifiers">
+    <PageReference>PES8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illumination levels">
+    <PageReference>PES13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illumination perk">
+    <PageReference>PES26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imaging Sonar ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES19</PageReference>
+    <Child ReferenceText="long-term fatigue and">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Immune Spectrum Detection ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infrared Sight ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infrasonic Hearing ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infravision advantage">
+    <PageReference>PES7-8</PageReference>
+    <Child ReferenceText="classification">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Inner Awareness ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Internal Magnetometer ability">
+    <PageReference>PES18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IQ rolls">
+    <Child ReferenceText="Talents and">
+      <PageReference>PES4</PageReference>
+    </Child>
+    <Child ReferenceText="abilities and">
+      <PageReference>PES10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ladar abilities">
+    <PageReference>PES12-16</PageReference>
+    <Child ReferenceText="classification">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ladar Implants ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laser Microphone ability">
+    <PageReference>PES14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laser Spectrometry ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laser Targeting ability">
+    <PageReference>PES14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lateral Line ability">
+    <PageReference>PES22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light Amplification ability">
+    <PageReference>PES15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locational Hearing ability">
+    <PageReference>PES20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Long enhancements">
+    <PageReference>PES9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Long Feelers ability">
+    <PageReference>PES23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Long-Range Smell perk">
+    <PageReference>PES26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loudness">
+    <Child ReferenceText="levels">
+      <PageReference>PES21</PageReference>
+    </Child>
+    <Child ReferenceText="effects">
+      <PageReference>PES21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical power modifier">
+    <PageReference>PES5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnetic Field Sense ability">
+    <PageReference>PES18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnetic fields abilities">
+    <PageReference>PES18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnetic sense abilities">
+    <PageReference>PES17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnetism Detection ability">
+    <PageReference>PES18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnifiers ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mass Perception ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Megahertz Sonar advantage">
+    <PageReference>PES7</PageReference>
+    <PageReference>PES8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee Attack limitation">
+    <PageReference>PES6</PageReference>
+    <Child ReferenceText="near-field senses and">
+      <PageReference>PES6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Metal Detection ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES18</PageReference>
+    <Child ReferenceText="long-term fatigue and">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Metal Detector ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Micro-Touch ability">
+    <PageReference>PES23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microphonics ability">
+    <PageReference>PES20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microscopic enhancement">
+    <PageReference>PES9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microscopic Sight ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modifiers">
+    <PageReference>PES8-9</PageReference>
+    <Child ReferenceText="normal senses and">
+      <PageReference>PES9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nature power modifier">
+    <PageReference>PES5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nav Implants ability">
+    <PageReference>PES27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Near Infrared Vision advantage">
+    <PageReference>PES8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night Sight ability">
+    <PageReference>PES15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Depth Perception limitations">
+    <PageReference>PES16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Increase in Vertical Arc limitation">
+    <PageReference>PES16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nondirectional limitation">
+    <PageReference>PES9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Object Reading ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Odor of Fear ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Omnivision ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Only (Sense) limitation">
+    <PageReference>PES5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orientation sense abilities">
+    <PageReference>PES27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Page at a Glance perk">
+    <PageReference>PES31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Para-Radar Imaging ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES27</PageReference>
+    <Child ReferenceText="longterm fatigue and">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Para-sense abilities">
+    <PageReference>PES27</PageReference>
+    <Child ReferenceText="classification">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Passive Electroreception ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Passive Sonar ability">
+    <PageReference>PES20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perceptual speed abilities">
+    <PageReference>PES30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perfect Pitch perk">
+    <PageReference>PES31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peripheral Vision advantage">
+    <PageReference>PES16</PageReference>
+    <Child ReferenceText="special limitations">
+      <PageReference>PES16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>PES26</PageReference>
+    <PageReference>PES31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Polarization Detection perk">
+    <PageReference>PES26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <SeeAlso>Abilities</SeeAlso>
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Senses</SeeAlso>
+    <Child ReferenceText="benefits of Talents">
+      <PageReference>PES4</PageReference>
+    </Child>
+    <Child ReferenceText="including sensory abilities in">
+      <PageReference>PES5</PageReference>
+    </Child>
+    <Child ReferenceText="sources">
+      <PageReference>PES4-5</PageReference>
+    </Child>
+    <Child ReferenceText="ability lists">
+      <PageReference>PES32-33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Precise enhancement">
+    <PageReference>PES8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure Gauge ability">
+    <PageReference>PES23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure Sense ability">
+    <PageReference>PES23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure sense class of abilities">
+    <PageReference>PES22-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Profiling enhancement">
+    <PageReference>PES8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Proteomic sense abilities">
+    <PageReference>PES24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Proximity Sense ability">
+    <PageReference>PES18</PageReference>
+    <Child ReferenceText="long-term fatigue and">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic power modifier">
+    <PageReference>PES5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radar abilities">
+    <PageReference>PES11-12</PageReference>
+    <Child ReferenceText="classification">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Radar Detection ability">
+    <PageReference>PES12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radar Detector ability">
+    <PageReference>PES12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radar Imaging ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES12</PageReference>
+    <Child ReferenceText="long-term fatigue and">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Radar Implants ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation Scanner ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation Sense ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radio abilities">
+    <PageReference>PES11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radio Receiver perk">
+    <PageReference>PES26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radio Source Detection ability">
+    <PageReference>PES11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reading speed">
+    <PageReference>PES23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reality Testing ability">
+    <PageReference>PES29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reflexive enhancement">
+    <PageReference>PES7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restricted Arc limitation">
+    <PageReference>PES9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rewired ability">
+    <PageReference>PES30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robust Sense perk">
+    <PageReference>PES26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Savant power modifier">
+    <PageReference>PES4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scanning Sense advantage">
+    <PageReference>PES8</PageReference>
+    <Child ReferenceText="arc">
+      <PageReference>PES6</PageReference>
+    </Child>
+    <Child ReferenceText="new limitation">
+      <PageReference>PES9</PageReference>
+    </Child>
+    <Child ReferenceText="range">
+      <PageReference>PES6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Seismic Sense ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense rolls">
+    <PageReference>PES9</PageReference>
+    <Child ReferenceText="abilities and">
+      <PageReference>PES9</PageReference>
+    </Child>
+    <Child ReferenceText="Talents  and">
+      <PageReference>PES4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Senses">
+    <SeeAlso>Abilities</SeeAlso>
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Powers</SeeAlso>
+    <Child ReferenceText="arc">
+      <PageReference>PES6</PageReference>
+    </Child>
+    <Child ReferenceText="as attacks">
+      <PageReference>PES9</PageReference>
+    </Child>
+    <Child ReferenceText="definition">
+      <PageReference>PES4</PageReference>
+    </Child>
+    <Child ReferenceText="field">
+      <PageReference>PES7</PageReference>
+    </Child>
+    <Child ReferenceText="general aspects of">
+      <PageReference>PES6-7</PageReference>
+    </Child>
+    <Child ReferenceText="hierarchy">
+      <PageReference>PES6-7</PageReference>
+    </Child>
+    <Child ReferenceText="hierarchy chart">
+      <PageReference>PES7</PageReference>
+    </Child>
+    <Child ReferenceText="near-field">
+      <PageReference>PES6</PageReference>
+    </Child>
+    <Child ReferenceText="passive">
+      <PageReference>PES7</PageReference>
+    </Child>
+    <Child ReferenceText="range">
+      <PageReference>PES6</PageReference>
+      <PageReference>PES10</PageReference>
+    </Child>
+    <Child ReferenceText="skills and">
+      <PageReference>PES9-10</PageReference>
+    </Child>
+    <Child ReferenceText="active">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensor Implants power">
+    <PageReference>PES5</PageReference>
+    <Child ReferenceText="ability list">
+      <PageReference>PES32-33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensory Focus power">
+    <PageReference>PES5</PageReference>
+    <Child ReferenceText="ability list">
+      <PageReference>PES33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensory Hairs ability">
+    <PageReference>PES22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensory knowledge abilities">
+    <PageReference>PES30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensory Link ability">
+    <PageReference>PES30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensory Refocus ability">
+    <PageReference>PES31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shared senses abilities">
+    <PageReference>PES30-31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sight">
+    <Child ReferenceText="human vision">
+      <PageReference>PES15</PageReference>
+    </Child>
+    <Child ReferenceText="illumination levels">
+      <PageReference>PES13</PageReference>
+    </Child>
+    <Child ReferenceText="reading speed">
+      <PageReference>PES23</PageReference>
+    </Child>
+    <Child ReferenceText="classification">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Signal Detection">
+    <Child ReferenceText="range penalties">
+      <PageReference>PES6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="vision modifiers and">
+      <PageReference>PES15</PageReference>
+    </Child>
+    <Child ReferenceText="enhancing abilities">
+      <PageReference>PES9-10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smell">
+    <Child ReferenceText="classification">
+      <PageReference>PES6</PageReference>
+    </Child>
+    <Child ReferenceText="range">
+      <PageReference>PES6</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>PES23-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sonar abilities">
+    <PageReference>PES19</PageReference>
+    <Child ReferenceText="classification">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sonar Implants ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spy-Ray ability">
+    <PageReference>PES27</PageReference>
+    <Child ReferenceText="long-term fatigue and">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stethoscopic enhancement">
+    <PageReference>PES8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stop Motion ability">
+    <PageReference>PES30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super power modifier">
+    <PageReference>PES5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-Balance ability">
+    <PageReference>PES27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-Hearing ability">
+    <PageReference>PES20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-Smell ability">
+    <PageReference>PES24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-Taste ability">
+    <PageReference>PES24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-Touch ability">
+    <PageReference>PES23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superscience power modifier">
+    <PageReference>PES5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supersenses power">
+    <PageReference>PES5</PageReference>
+    <Child ReferenceText="ability list">
+      <PageReference>PES33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Switchable enhancement">
+    <PageReference>PES7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Synesthesia abilities">
+    <PageReference>PES31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Synesthesia perk">
+    <PageReference>PES31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="T-Ray Imaging ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES12</PageReference>
+    <Child ReferenceText="long-term fatigue and">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="T-Ray Implants ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="loudness">
+      <PageReference>PES21</PageReference>
+    </Child>
+    <Child ReferenceText="sensory hierarchy chart">
+      <PageReference>PES7</PageReference>
+    </Child>
+    <Child ReferenceText="illumination">
+      <PageReference>PES13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactile Imaging ability">
+    <PageReference>PES23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactile senses">
+    <Child ReferenceText="classification">
+      <PageReference>PES6</PageReference>
+      <PageReference>PES7</PageReference>
+    </Child>
+    <Child ReferenceText="reading speed">
+      <PageReference>PES23</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>PES22-23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <Child ReferenceText="limitation">
+      <PageReference>PES5</PageReference>
+    </Child>
+    <Child ReferenceText="benefits of getting">
+      <PageReference>PES4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Targeting enhancement">
+    <PageReference>PES8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Targeting Hearing ability">
+    <PageReference>PES20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Targeting Only limitation">
+    <PageReference>PES8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taste">
+    <Child ReferenceText="classification">
+      <PageReference>PES6</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>PES24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Telecommunication advantage">
+    <PageReference>PES8</PageReference>
+    <Child ReferenceText="range">
+      <PageReference>PES6</PageReference>
+    </Child>
+    <Child ReferenceText="range penalties">
+      <PageReference>PES6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tetrachromatism perk">
+    <PageReference>PES26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thermal Infrared Vision advantage">
+    <PageReference>PES8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thermal Locator ability">
+    <PageReference>PES15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thermal Sense ability">
+    <PageReference>PES15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thought Tracking ability">
+    <PageReference>PES29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Threat Detection ability">
+    <PageReference>PES29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Touch">
+    <SeeAlso>Tactile Senses</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Triangulation ability">
+    <PageReference>PES10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Truth Sense ability">
+    <PageReference>PES29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultrascan ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultrasonic Hearing ability">
+    <PageReference>PES21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultrasonography ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES19</PageReference>
+    <Child ReferenceText="long-term fatigue and">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultrasound Scanner ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultraviolet Sight ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Under the hood">
+    <PageReference>PES6</PageReference>
+    <PageReference>PES26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal enhancement">
+    <PageReference>PES8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal Smell perk">
+    <PageReference>PES26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vertical Only limitation">
+    <PageReference>PES16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vibration sense abilities">
+    <PageReference>PES22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vibration Sense advantage">
+    <PageReference>PES8</PageReference>
+    <Child ReferenceText="arc">
+      <PageReference>PES6</PageReference>
+    </Child>
+    <Child ReferenceText="classification">
+      <PageReference>PES7</PageReference>
+    </Child>
+    <Child ReferenceText="range">
+      <PageReference>PES6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vibratory sense abilities">
+    <PageReference>PES19-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vision">
+    <Child ReferenceText="arc">
+      <PageReference>PES6</PageReference>
+    </Child>
+    <Child ReferenceText="classification">
+      <PageReference>PES6</PageReference>
+      <PageReference>PES7</PageReference>
+    </Child>
+    <Child ReferenceText="extra eyes and">
+      <PageReference>PES16</PageReference>
+    </Child>
+    <Child ReferenceText="illumination levels and">
+      <PageReference>PES13</PageReference>
+    </Child>
+    <Child ReferenceText="impairment">
+      <PageReference>PES12</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers for rolls">
+      <PageReference>PES15</PageReference>
+    </Child>
+    <Child ReferenceText="range">
+      <PageReference>PES6</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>PES12-16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Visual Profiling ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voice Profiling ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warpsense ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wiretap ability">
+    <PageReference>PES17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="X-ray sense abilities">
+    <PageReference>PES16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="X-Ray Vision ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES16</PageReference>
+    <Child ReferenceText="long-term fatigue and">
+      <PageReference>PES7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Zoom ability">
+    <PageReference>PES10</PageReference>
+    <PageReference>PES16</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

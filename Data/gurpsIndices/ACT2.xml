@@ -1,0 +1,1795 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Accumulated Complementary Total (ACT)">
+    <PageReference>ACT2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acquiring gear">
+    <PageReference>ACT2:6-7</PageReference>
+    <Child ReferenceText="Assistance Roll">
+      <PageReference>ACT2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatic">
+    <Child ReferenceText="guard">
+      <PageReference>ACT2:37</PageReference>
+    </Child>
+    <Child ReferenceText="stand">
+      <PageReference>ACT2:37</PageReference>
+    </Child>
+    <Child ReferenceText="evade">
+      <PageReference>ACT2:37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <Child ReferenceText="plot steps">
+      <PageReference>ACT2:11</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>ACT2:6-8</PageReference>
+    </Child>
+    <Child ReferenceText="directing the action">
+      <PageReference>ACT2:43-47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerial surveillance Assistance Roll">
+    <PageReference>ACT2:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="After-action activities">
+    <PageReference>ACT2:46-47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alarms">
+    <Child ReferenceText="triggering">
+      <PageReference>ACT2:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammo">
+    <Child ReferenceText="keeping track of">
+      <PageReference>ACT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Area electronic surveillance">
+    <PageReference>ACT2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arson">
+    <PageReference>ACT2:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artillery">
+    <PageReference>ACT2:25</PageReference>
+    <PageReference>ACT2:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assassins in campaigns">
+    <PageReference>ACT2:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assembling kit">
+    <PageReference>ACT2:6-7</PageReference>
+    <Child ReferenceText="Assistance Roll">
+      <PageReference>ACT2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Assistance Rolls (AR)">
+    <PageReference>ACT2:44-45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Athletics in combat">
+    <PageReference>ACT2:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attack maneuver">
+    <PageReference>ACT2:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attacks during chases">
+    <PageReference>ACT2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Audio">
+    <Child ReferenceText="surveillance">
+      <PageReference>ACT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="bugs">
+      <PageReference>ACT2:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="BAD">
+    <SeeAlso>Basic Abstract Difficulty</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="BAD guys">
+    <PageReference>ACT2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bailout Assistance Roll">
+    <PageReference>ACT2:44-45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balancing on something narrow">
+    <PageReference>ACT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banter">
+    <PageReference>ACT2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bar DR and HP">
+    <PageReference>ACT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barrier BAD-ness">
+    <PageReference>ACT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bashing doors">
+    <PageReference>ACT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic Abstract Difficulty (BAD)">
+    <PageReference>ACT2:4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Batteries">
+    <Child ReferenceText="keeping track of">
+      <PageReference>ACT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Beacons">
+    <PageReference>ACT2:9</PageReference>
+    <PageReference>ACT2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Binding a target">
+    <PageReference>ACT2:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biometric locks">
+    <PageReference>ACT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Black market">
+    <PageReference>ACT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blasting doors">
+    <PageReference>ACT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bleeding">
+    <PageReference>ACT2:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blending in">
+    <PageReference>ACT2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boats">
+    <Child ReferenceText="using to get in">
+      <PageReference>ACT2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bodyguard duty">
+    <PageReference>ACT2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bomb disposal">
+    <PageReference>ACT2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bomb tricks">
+    <PageReference>ACT2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bonds">
+    <Child ReferenceText="escaping from">
+      <PageReference>ACT2:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Booby traps">
+    <PageReference>ACT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boost to reach high area">
+    <PageReference>ACT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bosses (enemy)">
+    <PageReference>ACT2:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brainwashing">
+    <PageReference>ACT2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breaking into vehicles">
+    <PageReference>ACT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bribery">
+    <PageReference>ACT2:15</PageReference>
+    <Child ReferenceText="Assistance Roll">
+      <PageReference>ACT2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Briefings about the job">
+    <PageReference>ACT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brotherhood in Blue campaigns">
+    <PageReference>ACT2:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bugs">
+    <Child ReferenceText="planting">
+      <PageReference>ACT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>ACT2:13</PageReference>
+    </Child>
+    <Child ReferenceText="concealing">
+      <PageReference>ACT2:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Buildings">
+    <Child ReferenceText="explosives and">
+      <PageReference>ACT2:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bulletproof Nudity combat rule">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buying lucky breaks">
+    <PageReference>ACT2:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buying success">
+    <PageReference>ACT2:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cameras">
+    <PageReference>ACT2:12</PageReference>
+    <PageReference>ACT2:18</PageReference>
+    <PageReference>ACT2:30</PageReference>
+    <Child ReferenceText="digital">
+      <PageReference>ACT2:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Camouflaged positions">
+    <PageReference>ACT2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaign types">
+    <PageReference>ACT2:43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannon Fodder combat rule">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caper campaigns">
+    <PageReference>ACT2:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Captured">
+    <Child ReferenceText="what happens when">
+      <PageReference>ACT2:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cash Assistance Roll">
+    <PageReference>ACT2:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cell phones">
+    <Child ReferenceText="monitoring">
+      <PageReference>ACT2:14</PageReference>
+    </Child>
+    <Child ReferenceText="problems">
+      <PageReference>ACT2:8</PageReference>
+      <PageReference>ACT2:9</PageReference>
+    </Child>
+    <Child ReferenceText="as beacons">
+      <PageReference>ACT2:9</PageReference>
+      <PageReference>ACT2:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chase Rolls">
+    <Child ReferenceText="maneuvers">
+      <PageReference>ACT2:32</PageReference>
+    </Child>
+    <Child ReferenceText="sequence">
+      <PageReference>ACT2:32</PageReference>
+    </Child>
+    <Child ReferenceText="34 Chases">
+      <PageReference>ACT2:31-35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Checkpoint security">
+    <PageReference>ACT2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cinematic combat rules">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cinematic Explosions combat rule">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cinematic Knockback combat rule">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleaners in campaigns">
+    <PageReference>ACT2:26</PageReference>
+    <PageReference>ACT2:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleaning behind the squad">
+    <PageReference>ACT2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleanup of WMD">
+    <PageReference>ACT2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clients">
+    <Child ReferenceText="finding">
+      <PageReference>ACT2:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Climbing">
+    <PageReference>ACT2:18-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code-cracking">
+    <PageReference>ACT2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Collateral damage during chases">
+    <PageReference>ACT2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <PageReference>ACT2:36-39</PageReference>
+    <Child ReferenceText="during chases">
+      <PageReference>ACT2:35</PageReference>
+    </Child>
+    <Child ReferenceText="while mobile">
+      <PageReference>ACT2:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Commandos">
+    <Child ReferenceText="tactics">
+      <PageReference>ACT2:28</PageReference>
+    </Child>
+    <Child ReferenceText="campaigns">
+      <PageReference>ACT2:43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Commercial travel">
+    <PageReference>ACT2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Communications">
+    <PageReference>ACT2:8-9</PageReference>
+    <PageReference>ACT2:8</PageReference>
+    <PageReference>ACT2:9</PageReference>
+    <PageReference>ACT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Complementary skills">
+    <PageReference>ACT2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <Child ReferenceText="sabotage">
+      <PageReference>ACT2:25</PageReference>
+    </Child>
+    <Child ReferenceText="security">
+      <PageReference>ACT2:30</PageReference>
+    </Child>
+    <Child ReferenceText="bugs">
+      <PageReference>ACT2:13</PageReference>
+      <PageReference>ACT2:13</PageReference>
+      <PageReference>ACT2:30</PageReference>
+      <PageReference>ACT2:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact mikes">
+    <PageReference>ACT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concealed carry">
+    <PageReference>ACT2:10</PageReference>
+    <PageReference>ACT2:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concealing traps">
+    <PageReference>ACT2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact poisons">
+    <PageReference>ACT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contacts and Contact Groups">
+    <PageReference>ACT2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Container DR and HP">
+    <PageReference>ACT2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Control Rating rules">
+    <Child ReferenceText="using">
+      <PageReference>ACT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Conventional mikes">
+    <PageReference>ACT2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corpses">
+    <PageReference>ACT2:11</PageReference>
+    <Child ReferenceText="disposing of">
+      <PageReference>ACT2:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost of living rules">
+    <Child ReferenceText="using">
+      <PageReference>ACT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Counter-countermeasures">
+    <Child ReferenceText="electronic">
+      <PageReference>ACT2:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Countersniper system">
+    <PageReference>ACT2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Countersurveillance">
+    <PageReference>ACT2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cover-ups">
+    <PageReference>ACT2:26</PageReference>
+    <Child ReferenceText="Assistance Roll">
+      <PageReference>ACT2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Crippling injury rules">
+    <Child ReferenceText="using">
+      <PageReference>ACT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="CT scanners">
+    <PageReference>ACT2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cuffs">
+    <PageReference>ACT2:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cutting power">
+    <PageReference>ACT2:22</PageReference>
+    <PageReference>ACT2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage during chases">
+    <PageReference>ACT2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deception">
+    <PageReference>ACT2:26-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deductions from physical evidence">
+    <PageReference>ACT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defenses during chases">
+    <PageReference>ACT2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defusing">
+    <SeeAlso>Disarming</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Demolition Men in campaigns">
+    <PageReference>ACT2:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Destruction">
+    <PageReference>ACT2:24-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detecting">
+    <SeeAlso>Finding</SeeAlso>
+    <SeeAlso>Searches</SeeAlso>
+    <Child ReferenceText="WMD">
+      <PageReference>ACT2:29</PageReference>
+    </Child>
+    <Child ReferenceText="security sensors">
+      <PageReference>ACT2:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Digging for job information">
+    <PageReference>ACT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diplomacy to gain information">
+    <PageReference>ACT2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disappearing during combat">
+    <PageReference>ACT2:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disarming">
+    <Child ReferenceText="security sensors">
+      <PageReference>ACT2:22</PageReference>
+    </Child>
+    <Child ReferenceText="WMD">
+      <PageReference>ACT2:29</PageReference>
+    </Child>
+    <Child ReferenceText="bombs">
+      <PageReference>ACT2:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disease outbreak">
+    <PageReference>ACT2:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disembark/Embark maneuver">
+    <PageReference>ACT2:32</PageReference>
+    <PageReference>ACT2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divers">
+    <Child ReferenceText="getting in">
+      <PageReference>ACT2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Diving into openings">
+    <PageReference>ACT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dogs">
+    <Child ReferenceText="as guards">
+      <PageReference>ACT2:18</PageReference>
+      <PageReference>ACT2:46</PageReference>
+    </Child>
+    <Child ReferenceText="as bomb detectors">
+      <PageReference>ACT2:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Do Nothing maneuver options">
+    <PageReference>ACT2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doors">
+    <PageReference>ACT2:20-21</PageReference>
+    <Child ReferenceText="attached hardware DR and HP">
+      <PageReference>ACT2:21</PageReference>
+    </Child>
+    <Child ReferenceText="DR and HP">
+      <PageReference>ACT2:21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drawing aggression">
+    <PageReference>ACT2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ducking into cover/shadows">
+    <PageReference>ACT2:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dumb Mooks combat rule">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dumpster-diving">
+    <PageReference>ACT2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duty disadvantage">
+    <PageReference>ACT2:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Economic rules">
+    <Child ReferenceText="using">
+      <PageReference>ACT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Electric fences">
+    <PageReference>ACT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electromagnetic car stoppers">
+    <PageReference>ACT2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronic locks">
+    <PageReference>ACT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronic media">
+    <Child ReferenceText="falsifying">
+      <PageReference>ACT2:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronic security">
+    <PageReference>ACT2:29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Embark maneuver">
+    <PageReference>ACT2:32</PageReference>
+    <PageReference>ACT2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emergency Action maneuver">
+    <PageReference>ACT2:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Encouragement during combat">
+    <PageReference>ACT2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Encryption">
+    <PageReference>ACT2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Endoscopes">
+    <PageReference>ACT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemies">
+    <PageReference>ACT2:45-46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Escape">
+    <Child ReferenceText="from prisons">
+      <PageReference>ACT2:42</PageReference>
+    </Child>
+    <Child ReferenceText="from restraints">
+      <PageReference>ACT2:42</PageReference>
+    </Child>
+    <Child ReferenceText="from a chase">
+      <PageReference>ACT2:34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Evidence collection">
+    <PageReference>ACT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exotic restraints">
+    <PageReference>ACT2:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosives">
+    <PageReference>ACT2:24-25</PageReference>
+    <Child ReferenceText="as traps">
+      <PageReference>ACT2:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Exposure to WMD">
+    <PageReference>ACT2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra effort in combat">
+    <PageReference>ACT2:37-38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Face Men in campaigns">
+    <PageReference>ACT2:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Facilities Assistance Roll">
+    <PageReference>ACT2:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fact-finding roleplaying">
+    <PageReference>ACT2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fake identification">
+    <PageReference>ACT2:26</PageReference>
+    <Child ReferenceText="Assistance Roll">
+      <PageReference>ACT2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Falls">
+    <PageReference>ACT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="False evidence">
+    <PageReference>ACT2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Falsifying records">
+    <PageReference>ACT2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast Reloads combat rule">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-talk to gain information">
+    <PageReference>ACT2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue rules">
+    <Child ReferenceText="using">
+      <PageReference>ACT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fences (security)">
+    <Child ReferenceText="types">
+      <PageReference>ACT2:20</PageReference>
+    </Child>
+    <Child ReferenceText="climbing">
+      <PageReference>ACT2:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Feverish defense">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="File searches">
+    <PageReference>ACT2:14</PageReference>
+    <Child ReferenceText="Assistance Roll">
+      <PageReference>ACT2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Finding">
+    <SeeAlso>Searches</SeeAlso>
+    <Child ReferenceText="clients">
+      <PageReference>ACT2:6</PageReference>
+    </Child>
+    <Child ReferenceText="electronic surveillance">
+      <PageReference>ACT2:30</PageReference>
+    </Child>
+    <Child ReferenceText="the MacGuffin">
+      <PageReference>ACT2:23</PageReference>
+    </Child>
+    <Child ReferenceText="opportunities/jobs">
+      <PageReference>ACT2:6</PageReference>
+    </Child>
+    <Child ReferenceText="bombs">
+      <PageReference>ACT2:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire support Assistance Roll">
+    <PageReference>ACT2:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="First aid">
+    <PageReference>ACT2:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fitting in social settings">
+    <PageReference>ACT2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flares as traps">
+    <PageReference>ACT2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flashy fighting">
+    <PageReference>ACT2:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flesh Wounds combat rule">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flex cuffs">
+    <PageReference>ACT2:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flipping a weapon to hand">
+    <PageReference>ACT2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fooling polygraphs">
+    <PageReference>ACT2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Force maneuver">
+    <PageReference>ACT2:32</PageReference>
+    <PageReference>ACT2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forced Entry skill and teamwork">
+    <PageReference>ACT2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forcing doors">
+    <PageReference>ACT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forensic accounting">
+    <PageReference>ACT2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Formations">
+    <PageReference>ACT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fragile gear">
+    <PageReference>ACT2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fright Check rules">
+    <Child ReferenceText="using">
+      <PageReference>ACT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteering to make gear">
+    <PageReference>ACT2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gate DR and HP">
+    <PageReference>ACT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <Child ReferenceText="Assistance Roll">
+      <PageReference>ACT2:45</PageReference>
+    </Child>
+    <Child ReferenceText="fragile">
+      <PageReference>ACT2:8</PageReference>
+    </Child>
+    <Child ReferenceText="repurposing">
+      <PageReference>ACT2:13</PageReference>
+    </Child>
+    <Child ReferenceText="searches of">
+      <PageReference>ACT2:8</PageReference>
+      <PageReference>ACT2:29</PageReference>
+    </Child>
+    <Child ReferenceText="security">
+      <PageReference>ACT2:30</PageReference>
+    </Child>
+    <Child ReferenceText="acquiring">
+      <PageReference>ACT2:6-7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Getting away">
+    <PageReference>ACT2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Getting in">
+    <PageReference>ACT2:18-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glass">
+    <PageReference>ACT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gliders">
+    <Child ReferenceText="using to get in">
+      <PageReference>ACT2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Go-to skills">
+    <PageReference>ACT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grabbing the goods">
+    <PageReference>ACT2:23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grand theft auto">
+    <PageReference>ACT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grenades as traps">
+    <PageReference>ACT2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grille DR and HP">
+    <PageReference>ACT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guard animals">
+    <PageReference>ACT2:18</PageReference>
+    <PageReference>ACT2:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guards">
+    <SeeAlso>Security</SeeAlso>
+    <Child ReferenceText="checkpoint security">
+      <PageReference>ACT2:29</PageReference>
+    </Child>
+    <Child ReferenceText="patrols">
+      <PageReference>ACT2:18</PageReference>
+    </Child>
+    <Child ReferenceText="tricking to escape">
+      <PageReference>ACT2:42</PageReference>
+    </Child>
+    <Child ReferenceText="bodyguards">
+      <PageReference>ACT2:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun Control Law combat rule">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunfire and security sensors">
+    <PageReference>ACT2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns as melee weapons">
+    <PageReference>ACT2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunslinger advantage">
+    <PageReference>ACT2:33</PageReference>
+    <PageReference>ACT2:35-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>ACT2:3</PageReference>
+    <PageReference>ACT2:4</PageReference>
+    <Child ReferenceText="Action">
+      <PageReference>ACT2:4</PageReference>
+      <PageReference>ACT2:47</PageReference>
+    </Child>
+    <Child ReferenceText="Action 1: Heroes">
+      <PageReference>ACT2:3</PageReference>
+      <PageReference>ACT2:7</PageReference>
+      <PageReference>ACT2:13</PageReference>
+      <PageReference>ACT2:16</PageReference>
+      <PageReference>ACT2:24</PageReference>
+      <PageReference>ACT2:36</PageReference>
+      <PageReference>ACT2:39</PageReference>
+      <PageReference>ACT2:41</PageReference>
+      <PageReference>ACT2:43</PageReference>
+      <PageReference>ACT2:44</PageReference>
+      <PageReference>ACT2:46</PageReference>
+      <PageReference>ACT2:47</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>ACT2:4</PageReference>
+      <PageReference>ACT2:31</PageReference>
+      <PageReference>ACT2:33</PageReference>
+      <PageReference>ACT2:36</PageReference>
+      <PageReference>ACT2:41</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>ACT2:38</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>ACT2:38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hackers in campaigns">
+    <PageReference>ACT2:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hacking">
+    <PageReference>ACT2:13</PageReference>
+    <PageReference>ACT2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hands bound behind back">
+    <PageReference>ACT2:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hardware deductions">
+    <PageReference>ACT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Henchmen">
+    <PageReference>ACT2:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heroic charge">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hide maneuver">
+    <PageReference>ACT2:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hiding">
+    <Child ReferenceText="items">
+      <PageReference>ACT2:12</PageReference>
+    </Child>
+    <Child ReferenceText="items in a car">
+      <PageReference>ACT2:10</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>ACT2:10</PageReference>
+      <PageReference>ACT2:37</PageReference>
+    </Child>
+    <Child ReferenceText="in a crowd">
+      <PageReference>ACT2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="High-tech challenges">
+    <PageReference>ACT2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Home-cooked explosives">
+    <PageReference>ACT2:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hotwiring vehicles">
+    <PageReference>ACT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Housekeeping skill">
+    <PageReference>ACT2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hydrophones">
+    <PageReference>ACT2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Identify verification">
+    <PageReference>ACT2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illumination">
+    <PageReference>ACT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impersonation">
+    <PageReference>ACT2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvement through study rules">
+    <Child ReferenceText="using">
+      <PageReference>ACT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Incendiaries as traps">
+    <PageReference>ACT2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infiltrators in campaigns">
+    <PageReference>ACT2:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infinite Ammunition combat rule">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury during chases">
+    <PageReference>ACT2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insertion">
+    <PageReference>ACT2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inspection of gear">
+    <PageReference>ACT2:8</PageReference>
+    <PageReference>ACT2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intelligence gathering">
+    <PageReference>ACT2:11-14</PageReference>
+    <SeeAlso>Finding</SeeAlso>
+    <SeeAlso>Searches</SeeAlso>
+    <SeeAlso>Social Engineering</SeeAlso>
+    <Child ReferenceText="Assistance Roll">
+      <PageReference>ACT2:45</PageReference>
+    </Child>
+    <Child ReferenceText="roleplaying">
+      <PageReference>ACT2:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intercepts">
+    <PageReference>ACT2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interrogations">
+    <PageReference>ACT2:16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interviews">
+    <PageReference>ACT2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Investigators in campaigns">
+    <PageReference>ACT2:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jobs">
+    <Child ReferenceText="finding">
+      <PageReference>ACT2:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumping">
+    <PageReference>ACT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Keeping track of expendables">
+    <PageReference>ACT2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Keyboard bugs">
+    <PageReference>ACT2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lab forensics">
+    <PageReference>ACT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laser beams">
+    <PageReference>ACT2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laser mikes">
+    <PageReference>ACT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leading the target">
+    <PageReference>ACT2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legality rules">
+    <Child ReferenceText="using">
+      <PageReference>ACT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifting items">
+    <PageReference>ACT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lights (illumination)">
+    <PageReference>ACT2:9</PageReference>
+    <Child ReferenceText="stats for common">
+      <PageReference>ACT2:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Listening">
+    <PageReference>ACT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Live capture">
+    <PageReference>ACT2:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Location of job">
+    <PageReference>ACT2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locks">
+    <PageReference>ACT2:20</PageReference>
+    <PageReference>ACT2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luck advantage">
+    <PageReference>ACT2:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lucky breaks">
+    <Child ReferenceText="buying">
+      <PageReference>ACT2:41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="MacGyver repairs">
+    <PageReference>ACT2:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic rules">
+    <Child ReferenceText="using">
+      <PageReference>ACT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Making an impression">
+    <PageReference>ACT2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Making everybody useful">
+    <PageReference>ACT2:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manipulation">
+    <PageReference>ACT2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mechanical locks">
+    <PageReference>ACT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medevac Assistance Roll">
+    <PageReference>ACT2:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical assistance">
+    <PageReference>ACT2:40-42</PageReference>
+    <Child ReferenceText="Assistance Roll">
+      <PageReference>ACT2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Medics in campaigns">
+    <PageReference>ACT2:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee combat">
+    <PageReference>ACT2:36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mercenaries campaigns">
+    <PageReference>ACT2:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metal detectors">
+    <PageReference>ACT2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Microphones">
+    <PageReference>ACT2:12</PageReference>
+    <PageReference>ACT2:13</PageReference>
+    <PageReference>ACT2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Millimeter-wave cameras">
+    <PageReference>ACT2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mines">
+    <PageReference>ACT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mission plan">
+    <PageReference>ACT2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mobile phones">
+    <SeeAlso>Cell Phones</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mobility Escape maneuver">
+    <PageReference>ACT2:32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mobility Pursuit maneuver">
+    <PageReference>ACT2:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monitoring">
+    <PageReference>ACT2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mook Marksmanship combat rule">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mooks">
+    <PageReference>ACT2:45-46</PageReference>
+    <Child ReferenceText="leaders">
+      <PageReference>ACT2:46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mortal wounds">
+    <Child ReferenceText="medical assistance and">
+      <PageReference>ACT2:40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Motion detectors">
+    <PageReference>ACT2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Motivations for heroes">
+    <PageReference>ACT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Move and Attack maneuver">
+    <PageReference>ACT2:33</PageReference>
+    <PageReference>ACT2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Move maneuver">
+    <PageReference>ACT2:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-party chases">
+    <PageReference>ACT2:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-tasking in combat">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Near miss extra effort">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New cinematic combat rules">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obvious clues">
+    <PageReference>ACT2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Opportunities">
+    <Child ReferenceText="finding">
+      <PageReference>ACT2:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ordering a client to cover">
+    <PageReference>ACT2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orders as motivation">
+    <PageReference>ACT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Other planes of existence rules">
+    <Child ReferenceText="using">
+      <PageReference>ACT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Overdose">
+    <Child ReferenceText="medical aid for">
+      <PageReference>ACT2:41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Paper media">
+    <Child ReferenceText="falsifying">
+      <PageReference>ACT2:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Parachutes">
+    <Child ReferenceText="using to get in">
+      <PageReference>ACT2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Parkour">
+    <PageReference>ACT2:19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Passenger actions in vehicle chases">
+    <PageReference>ACT2:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pat-downs">
+    <PageReference>ACT2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrols">
+    <PageReference>ACT2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Permission from superiors">
+    <PageReference>ACT2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Photography">
+    <PageReference>ACT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Physical searches">
+    <PageReference>ACT2:11-12</PageReference>
+    <Child ReferenceText="Assistance Roll">
+      <PageReference>ACT2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pinhead mikes">
+    <PageReference>ACT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plague outbreak">
+    <PageReference>ACT2:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planning">
+    <PageReference>ACT2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Player guidance of success">
+    <PageReference>ACT2:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Playing dead">
+    <PageReference>ACT2:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plot steps">
+    <PageReference>ACT2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisoning">
+    <Child ReferenceText="medical aid for">
+      <PageReference>ACT2:41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Polygraphs">
+    <PageReference>ACT2:16</PageReference>
+    <PageReference>ACT2:27</PageReference>
+    <PageReference>ACT2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power">
+    <Child ReferenceText="restoring">
+      <PageReference>ACT2:40</PageReference>
+    </Child>
+    <Child ReferenceText="cutting">
+      <PageReference>ACT2:22</PageReference>
+      <PageReference>ACT2:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Protective gear against WMD">
+    <PageReference>ACT2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Providing security">
+    <PageReference>ACT2:27-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Proximity sensors">
+    <PageReference>ACT2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prying open doors">
+    <PageReference>ACT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic rules">
+    <Child ReferenceText="using">
+      <PageReference>ACT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psy-ops">
+    <PageReference>ACT2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Public speaking to gain information">
+    <PageReference>ACT2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pulling items">
+    <PageReference>ACT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pursuers in a chase">
+    <PageReference>ACT2:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quarry in a chase">
+    <PageReference>ACT2:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick searches">
+    <PageReference>ACT2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radio direction finders">
+    <PageReference>ACT2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radio intercept">
+    <PageReference>ACT2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ram maneuver">
+    <PageReference>ACT2:33</PageReference>
+    <PageReference>ACT2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Range band table for chases">
+    <PageReference>ACT2:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid reload">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rappelling">
+    <PageReference>ACT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Razor wire">
+    <PageReference>ACT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rearming security sensors">
+    <PageReference>ACT2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Records searches">
+    <PageReference>ACT2:14</PageReference>
+    <Child ReferenceText="Assistance Roll">
+      <PageReference>ACT2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Regular Contests rules">
+    <Child ReferenceText="using">
+      <PageReference>ACT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reloads">
+    <Child ReferenceText="keeping track of">
+      <PageReference>ACT2:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Remote-controlled weapons">
+    <PageReference>ACT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repairs">
+    <PageReference>ACT2:41-42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Replacement gear Assistance Roll">
+    <PageReference>ACT2:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repurposing gadgets">
+    <PageReference>ACT2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requisitions for gear">
+    <PageReference>ACT2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Researching files and records">
+    <PageReference>ACT2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restoring power">
+    <PageReference>ACT2:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resuscitation">
+    <PageReference>ACT2:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reverse maneuver">
+    <PageReference>ACT2:33</PageReference>
+    <PageReference>ACT2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robots">
+    <Child ReferenceText="stats">
+      <PageReference>ACT2:46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rounds in chases">
+    <PageReference>ACT2:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Running climb">
+    <PageReference>ACT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Running">
+    <Child ReferenceText="turning at end of">
+      <PageReference>ACT2:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sabotage">
+    <PageReference>ACT2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Safecracking">
+    <PageReference>ACT2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Savoir-faire to gain information">
+    <PageReference>ACT2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrounging for gear">
+    <PageReference>ACT2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Searches">
+    <SeeAlso>Finding</SeeAlso>
+    <SeeAlso>Intelligence Gathering</SeeAlso>
+    <Child ReferenceText="gear">
+      <PageReference>ACT2:8</PageReference>
+      <PageReference>ACT2:29</PageReference>
+    </Child>
+    <Child ReferenceText="physical">
+      <PageReference>ACT2:11-12</PageReference>
+      <PageReference>ACT2:45</PageReference>
+    </Child>
+    <Child ReferenceText="gear">
+      <PageReference>ACT2:8</PageReference>
+      <PageReference>ACT2:29</PageReference>
+    </Child>
+    <Child ReferenceText="files and records">
+      <PageReference>ACT2:14</PageReference>
+      <PageReference>ACT2:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Second wind in combat">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Security">
+    <SeeAlso>Surveillance</SeeAlso>
+    <Child ReferenceText="electronic">
+      <PageReference>ACT2:29-30</PageReference>
+    </Child>
+    <Child ReferenceText="locks">
+      <PageReference>ACT2:20</PageReference>
+      <PageReference>ACT2:22</PageReference>
+    </Child>
+    <Child ReferenceText="systems">
+      <PageReference>ACT2:21-22</PageReference>
+    </Child>
+    <Child ReferenceText="tools">
+      <PageReference>ACT2:30</PageReference>
+    </Child>
+    <Child ReferenceText="cameras">
+      <PageReference>ACT2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Security sensors">
+    <Child ReferenceText="disarming">
+      <PageReference>ACT2:22</PageReference>
+    </Child>
+    <Child ReferenceText="rearming">
+      <PageReference>ACT2:22</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>ACT2:22</PageReference>
+    </Child>
+    <Child ReferenceText="detecting">
+      <PageReference>ACT2:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Seismic detectors">
+    <PageReference>ACT2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensors">
+    <SeeAlso>Security Sensors</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Serendipity advantage">
+    <PageReference>ACT2:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serendipity as motivation">
+    <PageReference>ACT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Setting traps">
+    <PageReference>ACT2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Severing doors">
+    <PageReference>ACT2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sex appeal to gain information">
+    <PageReference>ACT2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shakedowns">
+    <PageReference>ACT2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shaking it off in combat">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shielded rooms">
+    <PageReference>ACT2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shooters in campaigns">
+    <PageReference>ACT2:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shooting made easy">
+    <PageReference>ACT2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shooting two guns">
+    <PageReference>ACT2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shotguns">
+    <Child ReferenceText="shooting">
+      <PageReference>ACT2:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoving">
+    <Child ReferenceText="stuff into people">
+      <PageReference>ACT2:37</PageReference>
+    </Child>
+    <Child ReferenceText="people into stuff">
+      <PageReference>ACT2:37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Simplified range">
+    <PageReference>ACT2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Simplified rapid fire">
+    <PageReference>ACT2:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skidding">
+    <PageReference>ACT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills in boldface">
+    <PageReference>ACT2:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <Child ReferenceText="key action">
+      <PageReference>ACT2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sliding">
+    <PageReference>ACT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smart fences">
+    <PageReference>ACT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smashing people against walls">
+    <PageReference>ACT2:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smuggling">
+    <PageReference>ACT2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sneaking out">
+    <PageReference>ACT2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sneaky fighting">
+    <PageReference>ACT2:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sniping">
+    <PageReference>ACT2:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social engineering">
+    <PageReference>ACT2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SOP">
+    <Child ReferenceText="rule">
+      <PageReference>ACT2:8</PageReference>
+    </Child>
+    <Child ReferenceText="of group">
+      <PageReference>ACT2:8-10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Special combat situations">
+    <PageReference>ACT2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spike mikes">
+    <PageReference>ACT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spinning at end of run">
+    <PageReference>ACT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spotting during combat">
+    <PageReference>ACT2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spotting trouble">
+    <PageReference>ACT2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spy vs">
+    <Child ReferenceText="Spy campaigns">
+      <PageReference>ACT2:43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Squeezing through openings">
+    <PageReference>ACT2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standard operating procedure">
+    <SeeAlso>SOP</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Standoffs">
+    <PageReference>ACT2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Static in communications">
+    <PageReference>ACT2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Static maneuvers">
+    <PageReference>ACT2:34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Staying alert">
+    <PageReference>ACT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stealth">
+    <PageReference>ACT2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stethoscopes">
+    <PageReference>ACT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stop maneuver">
+    <PageReference>ACT2:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Straitjacket">
+    <PageReference>ACT2:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strength">
+    <Child ReferenceText="using to escape">
+      <PageReference>ACT2:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stunt Escape maneuver">
+    <PageReference>ACT2:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stunt maneuver">
+    <PageReference>ACT2:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subdual of target">
+    <PageReference>ACT2:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subtlety">
+    <PageReference>ACT2:9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super Silencers combat rule">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surveillance">
+    <PageReference>ACT2:12</PageReference>
+    <PageReference>ACT2:29</PageReference>
+    <PageReference>ACT2:30</PageReference>
+    <PageReference>ACT2:44</PageReference>
+    <SeeAlso>Cameras</SeeAlso>
+    <SeeAlso>Microphones</SeeAlso>
+    <SeeAlso>Security</SeeAlso>
+    <Child ReferenceText="countersurveillance">
+      <PageReference>ACT2:30</PageReference>
+    </Child>
+    <Child ReferenceText="of secure areas">
+      <PageReference>ACT2:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sweeping for electronic surveillance">
+    <PageReference>ACT2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swinging">
+    <PageReference>ACT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Switcharoo">
+    <PageReference>ACT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Switches in security systems">
+    <PageReference>ACT2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tackling a client">
+    <PageReference>ACT2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactical analysis during combat">
+    <PageReference>ACT2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactical combat rules">
+    <Child ReferenceText="using">
+      <PageReference>ACT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactical communication networks">
+    <PageReference>ACT2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactical radar">
+    <PageReference>ACT2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tailing">
+    <PageReference>ACT2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tamping charges">
+    <PageReference>ACT2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Target of job">
+    <PageReference>ACT2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Task Force campaigns">
+    <PageReference>ACT2:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teamwork">
+    <PageReference>ACT2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech level rules">
+    <Child ReferenceText="using">
+      <PageReference>ACT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Technical means Assistance Roll">
+    <PageReference>ACT2:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ten rules to use sparingly">
+    <PageReference>ACT2:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Threats">
+    <PageReference>ACT2:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Three-way chases">
+    <PageReference>ACT2:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time Use Sheets rules">
+    <Child ReferenceText="using">
+      <PageReference>ACT2:44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tossing lines">
+    <PageReference>ACT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracking beacon">
+    <PageReference>ACT2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trails left by others">
+    <PageReference>ACT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Training sequence">
+    <PageReference>ACT2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transportation">
+    <SeeAlso>Travel to Locations</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps">
+    <PageReference>ACT2:22-23</PageReference>
+    <PageReference>ACT2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel to locations">
+    <PageReference>ACT2:7-8</PageReference>
+    <Child ReferenceText="Assistance Roll">
+      <PageReference>ACT2:45</PageReference>
+    </Child>
+    <Child ReferenceText="commercial">
+      <PageReference>ACT2:8</PageReference>
+    </Child>
+    <Child ReferenceText="NPC controls">
+      <PageReference>ACT2:8</PageReference>
+    </Child>
+    <Child ReferenceText="on foot">
+      <PageReference>ACT2:8</PageReference>
+    </Child>
+    <Child ReferenceText="PC controls">
+      <PageReference>ACT2:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Traversing something narrow">
+    <PageReference>ACT2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tricking guards to escape">
+    <PageReference>ACT2:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Triggering alarms">
+    <PageReference>ACT2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tripwire weapons">
+    <PageReference>ACT2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Troubleshooters campaigns">
+    <PageReference>ACT2:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Truth serum">
+    <PageReference>ACT2:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tumbling">
+    <PageReference>ACT2:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TV Action Violence combat rule">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unarmed Etiquette combat rule">
+    <PageReference>ACT2:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Underwater shooting">
+    <PageReference>ACT2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uttering threats in combat">
+    <PageReference>ACT2:39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Validating false identification">
+    <PageReference>ACT2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <SeeAlso>Chases</SeeAlso>
+    <SeeAlso>Travel to Locations</SeeAlso>
+    <Child ReferenceText="hiding items in">
+      <PageReference>ACT2:10</PageReference>
+    </Child>
+    <Child ReferenceText="hotwiring">
+      <PageReference>ACT2:23</PageReference>
+    </Child>
+    <Child ReferenceText="stealing">
+      <PageReference>ACT2:23</PageReference>
+    </Child>
+    <Child ReferenceText="breaking into">
+      <PageReference>ACT2:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Venom">
+    <Child ReferenceText="medical aid for">
+      <PageReference>ACT2:41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Video bugs">
+    <PageReference>ACT2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vigilante Justice campaigns">
+    <PageReference>ACT2:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Violence">
+    <Child ReferenceText="forms of">
+      <PageReference>ACT2:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Visual surveillance">
+    <PageReference>ACT2:12</PageReference>
+    <SeeAlso>Cameras</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="War Against Terror campaigns">
+    <PageReference>ACT2:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Watch">
+    <Child ReferenceText="keeping">
+      <PageReference>ACT2:28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Watching">
+    <PageReference>ACT2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons of Mass Destruction">
+    <PageReference>ACT2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wheel Men in campaigns">
+    <PageReference>ACT2:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="When things go wrong">
+    <PageReference>ACT2:40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wipeouts">
+    <PageReference>ACT2:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wire Rats in campaigns">
+    <PageReference>ACT2:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wiretaps">
+    <PageReference>ACT2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wiring a metallic object">
+    <PageReference>ACT2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="WMD">
+    <PageReference>ACT2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Word on the street">
+    <PageReference>ACT2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrongs as motivation">
+    <PageReference>ACT2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="X-ray machines">
+    <PageReference>ACT2:30</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

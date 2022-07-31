@@ -1,0 +1,3514 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="360° Vision advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="3-D Movement enhancement">
+    <PageReference>P74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Abilities">
+    <PageReference>P7-8</PageReference>
+    <PageReference>P38</PageReference>
+    <Child ReferenceText="absolute">
+      <PageReference>P117-119</PageReference>
+    </Child>
+    <Child ReferenceText="active">
+      <PageReference>P153</PageReference>
+    </Child>
+    <Child ReferenceText="adding">
+      <PageReference>P34-37</PageReference>
+      <PageReference>P199</PageReference>
+    </Child>
+    <Child ReferenceText="alternative">
+      <PageReference>P11</PageReference>
+    </Child>
+    <Child ReferenceText="always on">
+      <PageReference>P153</PageReference>
+    </Child>
+    <Child ReferenceText="building">
+      <PageReference>P38-119</PageReference>
+    </Child>
+    <Child ReferenceText="choosing">
+      <PageReference>P9-19</PageReference>
+    </Child>
+    <Child ReferenceText="combining">
+      <PageReference>P171</PageReference>
+    </Child>
+    <Child ReferenceText="communications">
+      <PageReference>P14</PageReference>
+      <PageReference>P148</PageReference>
+    </Child>
+    <Child ReferenceText="crippled">
+      <PageReference>P156</PageReference>
+    </Child>
+    <Child ReferenceText="cyberpunk">
+      <PageReference>P116</PageReference>
+    </Child>
+    <Child ReferenceText="default">
+      <PageReference>P173-174</PageReference>
+    </Child>
+    <Child ReferenceText="detecting">
+      <PageReference>P163-164</PageReference>
+    </Child>
+    <Child ReferenceText="exertion">
+      <PageReference>P159</PageReference>
+    </Child>
+    <Child ReferenceText="fantasy">
+      <PageReference>P116</PageReference>
+    </Child>
+    <Child ReferenceText="finalizing">
+      <PageReference>P114-115</PageReference>
+    </Child>
+    <Child ReferenceText="horror">
+      <PageReference>P116</PageReference>
+      <PageReference>P210</PageReference>
+    </Child>
+    <Child ReferenceText="improving">
+      <PageReference>P34-37</PageReference>
+      <PageReference>P199</PageReference>
+    </Child>
+    <Child ReferenceText="inappropriate">
+      <PageReference>P10</PageReference>
+    </Child>
+    <Child ReferenceText="influence">
+      <PageReference>P14-16</PageReference>
+      <PageReference>P148-149</PageReference>
+    </Child>
+    <Child ReferenceText="information">
+      <PageReference>P14</PageReference>
+      <PageReference>P16-17</PageReference>
+      <PageReference>P149-150</PageReference>
+    </Child>
+    <Child ReferenceText="martial arts">
+      <PageReference>P116-117</PageReference>
+    </Child>
+    <Child ReferenceText="mental">
+      <PageReference>P14-17</PageReference>
+      <PageReference>P148-150</PageReference>
+      <PageReference>P154</PageReference>
+    </Child>
+    <Child ReferenceText="movement">
+      <PageReference>P12-14</PageReference>
+      <PageReference>P147-148</PageReference>
+    </Child>
+    <Child ReferenceText="mythic">
+      <PageReference>P117</PageReference>
+    </Child>
+    <Child ReferenceText="notation">
+      <PageReference>P115</PageReference>
+    </Child>
+    <Child ReferenceText="number">
+      <PageReference>P19</PageReference>
+    </Child>
+    <Child ReferenceText="partially limited">
+      <PageReference>P46</PageReference>
+    </Child>
+    <Child ReferenceText="passive">
+      <PageReference>P153</PageReference>
+    </Child>
+    <Child ReferenceText="PC">
+      <PageReference>P184</PageReference>
+    </Child>
+    <Child ReferenceText="physical">
+      <PageReference>P154</PageReference>
+    </Child>
+    <Child ReferenceText="potential">
+      <PageReference>P34-37</PageReference>
+    </Child>
+    <Child ReferenceText="pulp">
+      <PageReference>P116-117</PageReference>
+    </Child>
+    <Child ReferenceText="racial">
+      <PageReference>P180</PageReference>
+    </Child>
+    <Child ReferenceText="resisting">
+      <PageReference>P158</PageReference>
+      <PageReference>P169</PageReference>
+    </Child>
+    <Child ReferenceText="sample">
+      <PageReference>P136-151</PageReference>
+    </Child>
+    <Child ReferenceText="science fiction">
+      <PageReference>P116</PageReference>
+    </Child>
+    <Child ReferenceText="secret">
+      <PageReference>P31</PageReference>
+    </Child>
+    <Child ReferenceText="senses">
+      <PageReference>P14</PageReference>
+      <PageReference>P17</PageReference>
+      <PageReference>P150</PageReference>
+    </Child>
+    <Child ReferenceText="space opera">
+      <PageReference>P117</PageReference>
+    </Child>
+    <Child ReferenceText="special-case">
+      <PageReference>P115-119</PageReference>
+    </Child>
+    <Child ReferenceText="success rolls">
+      <PageReference>P157-161</PageReference>
+    </Child>
+    <Child ReferenceText="super">
+      <PageReference>P117</PageReference>
+    </Child>
+    <Child ReferenceText="switchable">
+      <PageReference>P153</PageReference>
+    </Child>
+    <Child ReferenceText="transient">
+      <PageReference>P153-154</PageReference>
+    </Child>
+    <Child ReferenceText="turning off/on">
+      <PageReference>P153-157</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Abilities Only limitation">
+    <PageReference>P119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Absorptive Change enhancement">
+    <PageReference>P75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accelerated Healing enhancement">
+    <PageReference>P96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accessibility limitation">
+    <PageReference>P99</PageReference>
+    <Child ReferenceText="as power modifier">
+      <PageReference>P25</PageReference>
+    </Child>
+    <Child ReferenceText="for magic">
+      <PageReference>P116</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Accurate enhancement">
+    <PageReference>P99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Active Change enhancement">
+    <PageReference>P75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Active Defense limitation">
+    <PageReference>P110</PageReference>
+    <PageReference>P112</PageReference>
+    <PageReference>P167-168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Active enhancement">
+    <PageReference>P83-84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Active IR advantage">
+    <PageReference>P72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Active Only limitation">
+    <PageReference>P69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Active uses">
+    <PageReference>P153</PageReference>
+    <PageReference>P173</PageReference>
+    <Child ReferenceText="detecting">
+      <PageReference>P163</PageReference>
+    </Child>
+    <Child ReferenceText="multiple feats">
+      <PageReference>P158</PageReference>
+    </Child>
+    <Child ReferenceText="power defenses">
+      <PageReference>P168-169</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Active vs">
+    <Child ReferenceText="passive abilities">
+      <PageReference>P153</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>P39-98</PageReference>
+    <SeeAlso>specific advantage</SeeAlso>
+    <Child ReferenceText="as Talents">
+      <PageReference>P29</PageReference>
+    </Child>
+    <Child ReferenceText="exotic">
+      <PageReference>P188</PageReference>
+    </Child>
+    <Child ReferenceText="level limits">
+      <PageReference>P31</PageReference>
+    </Child>
+    <Child ReferenceText="multiple copies">
+      <PageReference>P12</PageReference>
+      <PageReference>P28</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>P90-98</PageReference>
+    </Child>
+    <Child ReferenceText="supernatural">
+      <PageReference>P186-188</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <PageReference>P192-199</PageReference>
+    <Child ReferenceText="modern">
+      <PageReference>P213</PageReference>
+    </Child>
+    <Child ReferenceText="mythic fantasy">
+      <PageReference>P208</PageReference>
+    </Child>
+    <Child ReferenceText="psionic">
+      <PageReference>P219</PageReference>
+    </Child>
+    <Child ReferenceText="science fiction">
+      <PageReference>P222</PageReference>
+    </Child>
+    <Child ReferenceText="secret powers">
+      <PageReference>P217</PageReference>
+    </Child>
+    <Child ReferenceText="super">
+      <PageReference>P234</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Affects Insubstantial enhancement">
+    <PageReference>P99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Affects Others enhancement">
+    <PageReference>P107-108</PageReference>
+    <Child ReferenceText="on Shapeshifting">
+      <PageReference>P74</PageReference>
+    </Child>
+    <Child ReferenceText="on Shrinking">
+      <PageReference>P76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Affects Self enhancement">
+    <PageReference>P51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Affects Substantial enhancement">
+    <PageReference>P99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Affliction advantage">
+    <PageReference>P9</PageReference>
+    <PageReference>P39-41</PageReference>
+    <Child ReferenceText="as countermeasure">
+      <PageReference>P21</PageReference>
+      <PageReference>P31</PageReference>
+    </Child>
+    <Child ReferenceText="beneficial">
+      <PageReference>P40</PageReference>
+    </Child>
+    <Child ReferenceText="inanimate targets">
+      <PageReference>P40</PageReference>
+    </Child>
+    <Child ReferenceText="physical transformations">
+      <PageReference>P17</PageReference>
+    </Child>
+    <Child ReferenceText="resisting">
+      <PageReference>P169</PageReference>
+    </Child>
+    <Child ReferenceText="stopping time">
+      <PageReference>P118</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Affliction Only limitation">
+    <PageReference>P51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air">
+    <Child ReferenceText="power">
+      <PageReference>P121</PageReference>
+    </Child>
+    <Child ReferenceText="attacks">
+      <PageReference>P137</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aliens">
+    <PageReference>P219</PageReference>
+    <PageReference>P221-222</PageReference>
+    <PageReference>P230</PageReference>
+    <PageReference>P232</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies advantage">
+    <PageReference>P41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out limitation">
+    <PageReference>P49</PageReference>
+    <PageReference>P110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alter Reality enhancement">
+    <PageReference>P80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Altered Time Rate advantage">
+    <PageReference>P41-42</PageReference>
+    <Child ReferenceText="stopping time">
+      <PageReference>P118</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate Form advantage">
+    <PageReference>P18</PageReference>
+    <PageReference>P74-75</PageReference>
+    <Child ReferenceText="projection">
+      <PageReference>P44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternative abilities">
+    <PageReference>P11</PageReference>
+    <Child ReferenceText="crippling">
+      <PageReference>P156</PageReference>
+    </Child>
+    <Child ReferenceText="with power modifiers">
+      <PageReference>P28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Always On limitation">
+    <PageReference>P99-100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambient energies">
+    <PageReference>P24</PageReference>
+    <PageReference>P156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amphibious advantage">
+    <PageReference>P13</PageReference>
+    <PageReference>P42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Analyzing enhancement">
+    <PageReference>P47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anchored limitation">
+    <PageReference>P89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Control power">
+    <PageReference>P121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Empathy advantage">
+    <PageReference>P15</PageReference>
+    <PageReference>P48-49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <Child ReferenceText="super">
+      <PageReference>P225</PageReference>
+    </Child>
+    <Child ReferenceText="upgraded">
+      <PageReference>P211</PageReference>
+    </Child>
+    <Child ReferenceText="alien">
+      <PageReference>P222</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animation limitation">
+    <PageReference>P83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-Magic power">
+    <PageReference>P121-122</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-powers">
+    <PageReference>P20-21</PageReference>
+    <PageReference>P31-32</PageReference>
+    <Child ReferenceText="channeled energies">
+      <PageReference>P24</PageReference>
+    </Child>
+    <Child ReferenceText="in play">
+      <PageReference>P155</PageReference>
+    </Child>
+    <Child ReferenceText="magical">
+      <PageReference>P121-122</PageReference>
+    </Child>
+    <Child ReferenceText="moral">
+      <PageReference>P27</PageReference>
+    </Child>
+    <Child ReferenceText="Neutralize">
+      <PageReference>P98</PageReference>
+    </Child>
+    <Child ReferenceText="psionic">
+      <PageReference>P28</PageReference>
+      <PageReference>P122</PageReference>
+    </Child>
+    <Child ReferenceText="Static">
+      <PageReference>P11</PageReference>
+      <PageReference>P98</PageReference>
+    </Child>
+    <Child ReferenceText="super">
+      <PageReference>P29</PageReference>
+      <PageReference>P122</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Antipsi power">
+    <PageReference>P122</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-Super power">
+    <PageReference>P122</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Area Effect enhancement">
+    <PageReference>P98</PageReference>
+    <PageReference>P100</PageReference>
+    <PageReference>P172</PageReference>
+    <Child ReferenceText="on Telekinesis">
+      <PageReference>P82</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>P145-146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor Divisor modifier">
+    <PageReference>P100</PageReference>
+    <PageReference>P172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aspected limitation">
+    <PageReference>P110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Astral Projection power">
+    <PageReference>P122-123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attacks">
+    <PageReference>P9-11</PageReference>
+    <PageReference>P158</PageReference>
+    <Child ReferenceText="balancing">
+      <PageReference>P186</PageReference>
+    </Child>
+    <Child ReferenceText="benchmarks">
+      <PageReference>P117</PageReference>
+    </Child>
+    <Child ReferenceText="elemental">
+      <PageReference>P137-142</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>P136-145</PageReference>
+    </Child>
+    <Child ReferenceText="instant-death">
+      <PageReference>P118</PageReference>
+    </Child>
+    <Child ReferenceText="mental">
+      <PageReference>P143-144</PageReference>
+    </Child>
+    <Child ReferenceText="poisons">
+      <PageReference>P144-145</PageReference>
+    </Child>
+    <Child ReferenceText="ST-based">
+      <PageReference>P146</PageReference>
+    </Child>
+    <Child ReferenceText="supernatural">
+      <PageReference>P142-144</PageReference>
+    </Child>
+    <Child ReferenceText="tables">
+      <PageReference>P137</PageReference>
+      <PageReference>P141</PageReference>
+      <PageReference>P145</PageReference>
+    </Child>
+    <Child ReferenceText="unerring">
+      <PageReference>P117</PageReference>
+    </Child>
+    <Child ReferenceText="unstoppable">
+      <PageReference>P118</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>P164-167</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attraction enhancement">
+    <PageReference>P45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attraction/Repulsion limitation">
+    <PageReference>P83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attributes">
+    <PageReference>P10</PageReference>
+    <Child ReferenceText="as abilities">
+      <PageReference>P13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Auditory Only limitation">
+    <PageReference>P95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aura enhancement">
+    <PageReference>P100</PageReference>
+    <PageReference>P164-165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aware enhancement">
+    <PageReference>P43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Awe advantage">
+    <PageReference>P84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Awe and Confusion Check Table">
+    <PageReference>P85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Backlash limitation">
+    <PageReference>P104</PageReference>
+    <PageReference>P110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bane limitation">
+    <PageReference>P71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Based on (Different Attribute) enhancement">
+    <PageReference>P9</PageReference>
+    <PageReference>P100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Binding advantage">
+    <PageReference>P9</PageReference>
+    <PageReference>P42-43</PageReference>
+    <PageReference>P161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioenergy power">
+    <PageReference>P123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biological powers">
+    <Child ReferenceText="origins">
+      <PageReference>P180</PageReference>
+    </Child>
+    <Child ReferenceText="power modifier">
+      <PageReference>P26</PageReference>
+    </Child>
+    <Child ReferenceText="special rules">
+      <PageReference>P175</PageReference>
+    </Child>
+    <Child ReferenceText="as superpowers">
+      <PageReference>P182</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bio-Scan enhancement">
+    <PageReference>P72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blessed advantage">
+    <PageReference>P16</PageReference>
+    <PageReference>P30</PageReference>
+    <PageReference>P43</PageReference>
+    <PageReference>P186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blessing enhancement">
+    <PageReference>P87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blind Only limitation">
+    <PageReference>P89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blink enhancement">
+    <PageReference>P89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blockable limitation">
+    <PageReference>P110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood Agent modifier">
+    <PageReference>P100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body Alteration power">
+    <PageReference>P123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body Control power">
+    <PageReference>P123-124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bombardment limitation">
+    <PageReference>P100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bouncing enhancement">
+    <PageReference>P80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Built-in firearms">
+    <PageReference>P54</PageReference>
+    <PageReference>P116</PageReference>
+    <PageReference>P138</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>P136-137</PageReference>
+    </Child>
+    <Child ReferenceText="shots">
+      <PageReference>P54</PageReference>
+      <PageReference>P159</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Burst enhancement">
+    <PageReference>P81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <PageReference>P199-202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Can Carry Objects enhancement">
+    <PageReference>P108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannot Memorize Forms limitation">
+    <PageReference>P75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Capped limitation">
+    <PageReference>P51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catfall advantage">
+    <PageReference>P43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chameleon advantage">
+    <PageReference>P18</PageReference>
+    <PageReference>P43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Channeled energies">
+    <PageReference>P24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Channeling advantage">
+    <PageReference>P14</PageReference>
+    <PageReference>P43-44</PageReference>
+    <PageReference>P186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chaos power">
+    <PageReference>P124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <PageReference>P183-192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi powers">
+    <Child ReferenceText="origins">
+      <PageReference>P180</PageReference>
+    </Child>
+    <Child ReferenceText="power modifier">
+      <PageReference>P26</PageReference>
+    </Child>
+    <Child ReferenceText="pulp">
+      <PageReference>P209-210</PageReference>
+    </Child>
+    <Child ReferenceText="source">
+      <PageReference>P7</PageReference>
+    </Child>
+    <Child ReferenceText="special rules">
+      <PageReference>P175</PageReference>
+    </Child>
+    <Child ReferenceText="wuxia">
+      <PageReference>P207</PageReference>
+    </Child>
+    <Child ReferenceText="as super-powers">
+      <PageReference>P182</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clairsentience advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P44-45</PageReference>
+    <PageReference>P163</PageReference>
+    <PageReference>P196</PageReference>
+    <Child ReferenceText="Obscure">
+      <PageReference>P64</PageReference>
+    </Child>
+    <Child ReferenceText="projection">
+      <PageReference>P44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clinging advantage">
+    <PageReference>P13</PageReference>
+    <PageReference>P45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cold/Ice">
+    <Child ReferenceText="power">
+      <PageReference>P124</PageReference>
+    </Child>
+    <Child ReferenceText="attacks">
+      <PageReference>P137-138</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Collateral damage">
+    <PageReference>P165</PageReference>
+    <Child ReferenceText="from Power Parry">
+      <PageReference>P168</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Collective enhancement">
+    <PageReference>P92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <PageReference>P164-169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combining powers">
+    <PageReference>P170-172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Common Sense advantage">
+    <PageReference>P45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Communications abilities">
+    <PageReference>P14</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>P148</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Compartmentalized Mind advantage">
+    <PageReference>P44</PageReference>
+    <PageReference>P67</PageReference>
+    <PageReference>P81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cone enhancement">
+    <PageReference>P100-101</PageReference>
+    <PageReference>P172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Confusion advantage">
+    <PageReference>P84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Conscious enhancement">
+    <PageReference>P45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Constricting enhancement">
+    <PageReference>P43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Constriction Attack advantage">
+    <PageReference>P45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Construct enhancement">
+    <PageReference>P48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact Agent modifier">
+    <PageReference>P101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Control advantage">
+    <PageReference>P10</PageReference>
+    <PageReference>P90-92</PageReference>
+    <PageReference>P161</PageReference>
+    <PageReference>P163</PageReference>
+    <Child ReferenceText="as defense">
+      <PageReference>P168</PageReference>
+    </Child>
+    <Child ReferenceText="godlike">
+      <PageReference>P92</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Controllable enhancement">
+    <PageReference>P43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Coordinated Attack">
+    <PageReference>P165-166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmetic limitation">
+    <PageReference>P92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic enhancement">
+    <PageReference>P26</PageReference>
+    <PageReference>P97</PageReference>
+    <PageReference>P101</PageReference>
+    <Child ReferenceText="anti-powers">
+      <PageReference>P32</PageReference>
+    </Child>
+    <Child ReferenceText="countermeasures">
+      <PageReference>P21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic powers">
+    <PageReference>P21</PageReference>
+    <Child ReferenceText="adding">
+      <PageReference>P36</PageReference>
+    </Child>
+    <Child ReferenceText="as super-powers">
+      <PageReference>P182</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>P124-125</PageReference>
+    </Child>
+    <Child ReferenceText="origins">
+      <PageReference>P180</PageReference>
+    </Child>
+    <Child ReferenceText="power modifier">
+      <PageReference>P26</PageReference>
+      <PageReference>P101</PageReference>
+    </Child>
+    <Child ReferenceText="source">
+      <PageReference>P7</PageReference>
+    </Child>
+    <Child ReferenceText="special rules">
+      <PageReference>P175</PageReference>
+    </Child>
+    <Child ReferenceText="tiered">
+      <PageReference>P32</PageReference>
+      <PageReference>P101</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Costs Fatigue limitation">
+    <PageReference>P101</PageReference>
+    <Child ReferenceText="as power modifier">
+      <PageReference>P25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Costs Hit Points limitation">
+    <PageReference>P110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Countermeasures">
+    <PageReference>P20-21</PageReference>
+    <Child ReferenceText="elemental">
+      <PageReference>P27</PageReference>
+    </Child>
+    <Child ReferenceText="in play">
+      <PageReference>P193</PageReference>
+    </Child>
+    <Child ReferenceText="insulators vs" />
+    <Child ReferenceText="">
+      <PageReference>P24</PageReference>
+    </Child>
+    <Child ReferenceText="mundane">
+      <PageReference>P20</PageReference>
+    </Child>
+    <Child ReferenceText="nature">
+      <PageReference>P28</PageReference>
+    </Child>
+    <Child ReferenceText="powers without">
+      <PageReference>P21</PageReference>
+    </Child>
+    <Child ReferenceText="psionic">
+      <PageReference>P28</PageReference>
+      <PageReference>P177-178</PageReference>
+    </Child>
+    <Child ReferenceText="secrecy">
+      <PageReference>P202</PageReference>
+    </Child>
+    <Child ReferenceText="super">
+      <PageReference>P29</PageReference>
+      <PageReference>P178</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Create advantage">
+    <PageReference>P10</PageReference>
+    <PageReference>P92-94</PageReference>
+    <PageReference>P161</PageReference>
+    <PageReference>P163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Creation enhancement">
+    <PageReference>P76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Creation Pool">
+    <PageReference>P93-94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crippling abilities and powers">
+    <PageReference>P156</PageReference>
+    <Child ReferenceText="biological">
+      <PageReference>P175</PageReference>
+    </Child>
+    <Child ReferenceText="chi">
+      <PageReference>P175</PageReference>
+    </Child>
+    <Child ReferenceText="psi">
+      <PageReference>P177</PageReference>
+    </Child>
+    <Child ReferenceText="via extra effort">
+      <PageReference>P160</PageReference>
+    </Child>
+    <Child ReferenceText="via power defenses">
+      <PageReference>P167-169</PageReference>
+    </Child>
+    <Child ReferenceText="via stunts">
+      <PageReference>P170-172</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cure Affliction enhancement">
+    <PageReference>P51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curses">
+    <PageReference>P9</PageReference>
+    <PageReference>P39</PageReference>
+    <PageReference>P54</PageReference>
+    <PageReference>P87</PageReference>
+    <PageReference>P102</PageReference>
+    <PageReference>P118</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>P142-143</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cursing enhancement">
+    <PageReference>P87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cyclic enhancement">
+    <PageReference>P101</PageReference>
+    <PageReference>P172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Modifiers">
+    <PageReference>P101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Reduction advantage">
+    <PageReference>P53</PageReference>
+    <PageReference>P118-119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Resistance advantage">
+    <PageReference>P12</PageReference>
+    <PageReference>P45-46</PageReference>
+    <PageReference>P118</PageReference>
+    <PageReference>P169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Danger Sense advantage">
+    <PageReference>P16</PageReference>
+    <PageReference>P46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark Vision advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P46-47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Darkness power">
+    <PageReference>P125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death power">
+    <PageReference>P125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Default abilities">
+    <PageReference>P173-174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defenses">
+    <PageReference>P11-12</PageReference>
+    <Child ReferenceText="balancing">
+      <PageReference>P186</PageReference>
+    </Child>
+    <Child ReferenceText="benchmarks">
+      <PageReference>P117</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>P145-147</PageReference>
+    </Child>
+    <Child ReferenceText="extending">
+      <PageReference>P173</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Delay enhancement">
+    <PageReference>P102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Derange limitation">
+    <PageReference>P97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Destruction enhancement">
+    <PageReference>P94</PageReference>
+    <Child ReferenceText="disintegration">
+      <PageReference>P118</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Destructive Parry enhancement">
+    <PageReference>P103</PageReference>
+    <PageReference>P165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detachable Head enhancement">
+    <PageReference>P52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P47</PageReference>
+    <PageReference>P161</PageReference>
+    <PageReference>P163-164</PageReference>
+    <PageReference>P187</PageReference>
+    <Child ReferenceText="Obscure">
+      <PageReference>P64</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Digital Mind advantage">
+    <PageReference>P130</PageReference>
+    <PageReference>P188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Digital Oracle advantage">
+    <PageReference>P65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dimension Travel power">
+    <PageReference>P125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Directed enhancement">
+    <PageReference>P68-69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Directional Sound advantage">
+    <PageReference>P81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>P10</PageReference>
+    <PageReference>P189</PageReference>
+    <Child ReferenceText="affecting abilities">
+      <PageReference>P157</PageReference>
+    </Child>
+    <Child ReferenceText="limits">
+      <PageReference>P184</PageReference>
+    </Child>
+    <Child ReferenceText="required">
+      <PageReference>P21-23</PageReference>
+      <PageReference>P156</PageReference>
+      <PageReference>P190</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Discriminatory enhancement">
+    <PageReference>P59</PageReference>
+    <PageReference>P98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Discriminatory senses">
+    <PageReference>P17</PageReference>
+    <PageReference>P47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distraction and injury">
+    <PageReference>P155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine Inspiration advantage">
+    <PageReference>P63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine powers">
+    <PageReference>P30</PageReference>
+    <Child ReferenceText="as superpowers">
+      <PageReference>P182</PageReference>
+    </Child>
+    <Child ReferenceText="example">
+      <PageReference>P126</PageReference>
+    </Child>
+    <Child ReferenceText="origins">
+      <PageReference>P180</PageReference>
+    </Child>
+    <Child ReferenceText="power modifier">
+      <PageReference>P26-27</PageReference>
+    </Child>
+    <Child ReferenceText="source">
+      <PageReference>P7</PageReference>
+    </Child>
+    <Child ReferenceText="special rules">
+      <PageReference>P175-176</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dominance advantage">
+    <PageReference>P187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Double Knockback enhancement">
+    <PageReference>P101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doubling enhancement">
+    <PageReference>P71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drift limitation">
+    <PageReference>P89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drifting enhancement">
+    <PageReference>P172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual enhancement">
+    <PageReference>P103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duplication advantage">
+    <PageReference>P48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dynamic enhancement">
+    <PageReference>P43</PageReference>
+    <PageReference>P76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth">
+    <Child ReferenceText="power">
+      <PageReference>P126</PageReference>
+    </Child>
+    <Child ReferenceText="attacks">
+      <PageReference>P139</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elastic Skin advantage">
+    <PageReference>P18</PageReference>
+    <PageReference>P48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electricity">
+    <Child ReferenceText="power">
+      <PageReference>P126</PageReference>
+    </Child>
+    <Child ReferenceText="attacks">
+      <PageReference>P139</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Electrokinesis power">
+    <PageReference>P126-127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental powers">
+    <PageReference>P30</PageReference>
+    <Child ReferenceText="as superpowers">
+      <PageReference>P182</PageReference>
+    </Child>
+    <Child ReferenceText="attacks">
+      <PageReference>P137-142</PageReference>
+    </Child>
+    <Child ReferenceText="power modifier">
+      <PageReference>P27</PageReference>
+    </Child>
+    <Child ReferenceText="special rules">
+      <PageReference>P176</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Emanation limitation">
+    <PageReference>P102</PageReference>
+    <PageReference>P165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emergencies Only limitation">
+    <PageReference>P102</PageReference>
+    <PageReference>P156-157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emotion Control limitation">
+    <PageReference>P61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Empathic limitation">
+    <PageReference>P51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Empathy advantage">
+    <PageReference>P15</PageReference>
+    <PageReference>P48-49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy Reserves">
+    <PageReference>P119</PageReference>
+    <Child ReferenceText="extra effort">
+      <PageReference>P161</PageReference>
+    </Child>
+    <Child ReferenceText="Leech">
+      <PageReference>P96</PageReference>
+    </Child>
+    <Child ReferenceText="power modifiers">
+      <PageReference>P25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Engulfing enhancement">
+    <PageReference>P45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Move advantage">
+    <PageReference>P13</PageReference>
+    <PageReference>P49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Tracking advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancements">
+    <SeeAlso>specific enhancements</SeeAlso>
+    <Child ReferenceText="temporary">
+      <PageReference>P172-173</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>P107-109</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Environmental limitation">
+    <PageReference>P49</PageReference>
+    <PageReference>P64</PageReference>
+    <PageReference>P110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Erosive enhancement">
+    <PageReference>P108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ESP power">
+    <PageReference>P127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evil power">
+    <PageReference>P127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extended Duration enhancement">
+    <PageReference>P102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extended enhancement">
+    <PageReference>P66</PageReference>
+    <PageReference>P70</PageReference>
+    <PageReference>P95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extended (Special) enhancement">
+    <PageReference>P52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="External limitation">
+    <PageReference>P90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Attack advantage">
+    <PageReference>P49-50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra effort">
+    <PageReference>P160-161</PageReference>
+    <Child ReferenceText="for resistance">
+      <PageReference>P169</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Recoil limitation">
+    <PageReference>P102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue Only limitation">
+    <PageReference>P70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue Recovery enhancement">
+    <PageReference>P70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fearlessness advantage">
+    <PageReference>P169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feather Fall enhancement">
+    <PageReference>P43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fickle limitation">
+    <PageReference>P24</PageReference>
+    <PageReference>P110-111</PageReference>
+    <Child ReferenceText="spirit powers">
+      <PageReference>P28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Finite Thickness limitation">
+    <PageReference>P67</PageReference>
+    <PageReference>P74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fit advantage">
+    <PageReference>P169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flawed limitation">
+    <PageReference>P75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flight advantage">
+    <PageReference>P13</PageReference>
+    <PageReference>P50</PageReference>
+    <PageReference>P163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Focus">
+    <PageReference>P7</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>P121-136</PageReference>
+    </Child>
+    <Child ReferenceText="opposed">
+      <PageReference>P31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Follow-Up modifier">
+    <PageReference>P39</PageReference>
+    <PageReference>P102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Force Constructs power">
+    <PageReference>P127-128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Force Extension enhancement">
+    <PageReference>P78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Force Field enhancement">
+    <PageReference>P108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Force fields">
+    <PageReference>P46</PageReference>
+    <PageReference>P108</PageReference>
+    <PageReference>P173</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>P146-147</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fragmentation enhancement">
+    <PageReference>P102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fringe limitation">
+    <PageReference>P57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FTL enhancement">
+    <PageReference>P82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Full Memory Access enhancement">
+    <PageReference>P67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Full Power Only limitation">
+    <PageReference>P80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Futuristic SF genre">
+    <PageReference>P220-222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgets">
+    <SeeAlso>Superscience</SeeAlso>
+    <Child ReferenceText="minor">
+      <PageReference>P227</PageReference>
+    </Child>
+    <Child ReferenceText="Modular Abilities as">
+      <PageReference>P64</PageReference>
+    </Child>
+    <Child ReferenceText="Neutralize and Static vs" />
+    <Child ReferenceText="">
+      <PageReference>P97</PageReference>
+    </Child>
+    <Child ReferenceText="powers">
+      <PageReference>P107</PageReference>
+    </Child>
+    <Child ReferenceText="super">
+      <PageReference>P229</PageReference>
+    </Child>
+    <Child ReferenceText="as countermeasures">
+      <PageReference>P20</PageReference>
+      <PageReference>P28-29</PageReference>
+      <PageReference>P177-178</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Game Time modifier">
+    <PageReference>P108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genre">
+    <PageReference>P203-234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glamour limitation">
+    <PageReference>P111</PageReference>
+    <PageReference>P169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glossary">
+    <PageReference>P235-236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gods">
+    <PageReference>P183</PageReference>
+    <PageReference>P185</PageReference>
+    <PageReference>P204-205</PageReference>
+    <PageReference>P213</PageReference>
+    <PageReference>P215</PageReference>
+    <PageReference>P224-225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Good power">
+    <PageReference>P128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravity power">
+    <PageReference>P128</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravity-Ripple Comm advantage">
+    <PageReference>P81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Growth advantage">
+    <PageReference>P18</PageReference>
+    <PageReference>P50-51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guided enhancement">
+    <PageReference>P103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns">
+    <PageReference>P226-227</PageReference>
+    <SeeAlso>Built-in firearms</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <Child ReferenceText="Cabal">
+      <PageReference>P214</PageReference>
+    </Child>
+    <Child ReferenceText="Cliffhangers">
+      <PageReference>P209</PageReference>
+    </Child>
+    <Child ReferenceText="Dragons">
+      <PageReference>P206</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>P203</PageReference>
+      <PageReference>P206-207</PageReference>
+      <PageReference>P213</PageReference>
+    </Child>
+    <Child ReferenceText="Illuminati University">
+      <PageReference>P215</PageReference>
+    </Child>
+    <Child ReferenceText="Infinite Worlds">
+      <PageReference>P210</PageReference>
+      <PageReference>P229</PageReference>
+    </Child>
+    <Child ReferenceText="Lensman">
+      <PageReference>P220</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>P94</PageReference>
+      <PageReference>P131</PageReference>
+      <PageReference>P180</PageReference>
+      <PageReference>P188-189</PageReference>
+      <PageReference>P207</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>P5</PageReference>
+      <PageReference>P207</PageReference>
+    </Child>
+    <Child ReferenceText="Mysteries">
+      <PageReference>P193</PageReference>
+    </Child>
+    <Child ReferenceText="Psionics">
+      <PageReference>P4-5</PageReference>
+    </Child>
+    <Child ReferenceText="Religion">
+      <PageReference>P5</PageReference>
+    </Child>
+    <Child ReferenceText="Shapeshifters">
+      <PageReference>P4</PageReference>
+    </Child>
+    <Child ReferenceText="Space">
+      <PageReference>P221</PageReference>
+    </Child>
+    <Child ReferenceText="Spirits">
+      <PageReference>P5</PageReference>
+    </Child>
+    <Child ReferenceText="Steampunk">
+      <PageReference>P224</PageReference>
+    </Child>
+    <Child ReferenceText="Supers">
+      <PageReference>P4-5</PageReference>
+    </Child>
+    <Child ReferenceText="Traveller">
+      <PageReference>P220</PageReference>
+    </Child>
+    <Child ReferenceText="Ultra-Tech">
+      <PageReference>P218</PageReference>
+    </Child>
+    <Child ReferenceText="Voodoo">
+      <PageReference>P214</PageReference>
+    </Child>
+    <Child ReferenceText="Banestorm">
+      <PageReference>P204</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hands-Free enhancement">
+    <PageReference>P86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard to Kill advantage">
+    <PageReference>P169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard to Use limitation">
+    <PageReference>P107</PageReference>
+    <PageReference>P111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hazard enhancement">
+    <PageReference>P96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing">
+    <Child ReferenceText="power">
+      <PageReference>P128</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>P19</PageReference>
+      <PageReference>P51</PageReference>
+      <PageReference>P161</PageReference>
+      <PageReference>P194-195</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heals FP enhancement">
+    <PageReference>P96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hearing">
+    <PageReference>P17</PageReference>
+    <PageReference>P51</PageReference>
+    <Child ReferenceText="Obscure">
+      <PageReference>P64</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heat/Fire">
+    <Child ReferenceText="power">
+      <PageReference>P129</PageReference>
+    </Child>
+    <Child ReferenceText="attacks">
+      <PageReference>P139</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hermaphromorph advantage">
+    <PageReference>P18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High Pain Threshold advantage">
+    <PageReference>P169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Homing enhancement">
+    <PageReference>P103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horizontal Only limitation">
+    <PageReference>P80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypersensory">
+    <Child ReferenceText="limitation">
+      <PageReference>P69</PageReference>
+    </Child>
+    <Child ReferenceText="enhancement">
+      <PageReference>P46-47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperspectral Vision advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P51-52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illuminated advantage">
+    <PageReference>P187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion">
+    <Child ReferenceText="power">
+      <PageReference>P129</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>P15</PageReference>
+      <PageReference>P94-95</PageReference>
+      <PageReference>P161</PageReference>
+      <PageReference>P163</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Immersive enhancement">
+    <PageReference>P69-70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immunity advantage">
+    <SeeAlso>Resistant</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Implants">
+    <PageReference>P10</PageReference>
+    <PageReference>P116</PageReference>
+    <PageReference>P230</PageReference>
+    <SeeAlso>Built-in firearms</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvised Forms enhancement">
+    <PageReference>P75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incendiary enhancement">
+    <PageReference>P102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Increased Range enhancement">
+    <PageReference>P103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Independence enhancement">
+    <PageReference>P95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Independent Body Parts advantage">
+    <PageReference>P52-53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Independent enhancement">
+    <PageReference>P61</PageReference>
+    <PageReference>P108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infiltration enhancement">
+    <PageReference>P53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Influence abilities">
+    <PageReference>P14-16</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>P148-149</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Information abilities">
+    <PageReference>P14</PageReference>
+    <PageReference>P16-17</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>P149-150</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Infravision advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Initiative enhancement">
+    <PageReference>P95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury Tolerance advantage">
+    <PageReference>P52-53</PageReference>
+    <PageReference>P118-119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Innate Attack advantage">
+    <PageReference>P9</PageReference>
+    <PageReference>P53-55</PageReference>
+    <PageReference>P161</PageReference>
+    <Child ReferenceText="parry">
+      <PageReference>P167-168</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Innate Attack skill">
+    <PageReference>P39-40</PageReference>
+    <PageReference>P54-55</PageReference>
+    <PageReference>P113</PageReference>
+    <PageReference>P158</PageReference>
+    <PageReference>P164</PageReference>
+    <Child ReferenceText="parry">
+      <PageReference>P168</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Inspired enhancement">
+    <PageReference>P56</PageReference>
+    <PageReference>P65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Instant Reattachment enhancement">
+    <PageReference>P52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insubstantial Only limitation">
+    <PageReference>P111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Insubstantiality advantage">
+    <PageReference>P19</PageReference>
+    <PageReference>P55-56</PageReference>
+    <PageReference>P119</PageReference>
+    <PageReference>P167</PageReference>
+    <PageReference>P195</PageReference>
+    <Child ReferenceText="projection">
+      <PageReference>P44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Insulators">
+    <PageReference>P24</PageReference>
+    <Child ReferenceText="elemental">
+      <PageReference>P27</PageReference>
+    </Child>
+    <Child ReferenceText="nature">
+      <PageReference>P28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Interplanar enhancement">
+    <PageReference>P57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intuition advantage">
+    <PageReference>P16</PageReference>
+    <PageReference>P56</PageReference>
+    <PageReference>P161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invasive enhancement">
+    <PageReference>P62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invisibility advantage">
+    <PageReference>P19</PageReference>
+    <PageReference>P56-57</PageReference>
+    <PageReference>P195</PageReference>
+    <SeeAlso>Invisible</SeeAlso>
+    <SeeAlso>72-73</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Invulnerability">
+    <PageReference>P118-119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jet enhancement">
+    <PageReference>P103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumper advantage">
+    <PageReference>P13</PageReference>
+    <PageReference>P57-58</PageReference>
+    <PageReference>P197-198</PageReference>
+    <Child ReferenceText="projection">
+      <PageReference>P44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kinetic Energy">
+    <Child ReferenceText="power">
+      <PageReference>P129</PageReference>
+    </Child>
+    <Child ReferenceText="attacks">
+      <PageReference>P139-140</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Large Items enhancement">
+    <PageReference>P76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leech advantage">
+    <PageReference>P10</PageReference>
+    <PageReference>P96-97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Life power">
+    <PageReference>P130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lift Only limitation">
+    <PageReference>P83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifting ST advantage">
+    <PageReference>P58-59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light">
+    <Child ReferenceText="power">
+      <PageReference>P130</PageReference>
+    </Child>
+    <Child ReferenceText="attacks">
+      <PageReference>P140</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Light Insensitive enhancement">
+    <PageReference>P74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lighter Than Air limitation">
+    <PageReference>P80</PageReference>
+    <PageReference>P87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitations">
+    <SeeAlso>specific limitations</SeeAlso>
+    <Child ReferenceText="in play">
+      <PageReference>P156</PageReference>
+    </Child>
+    <Child ReferenceText="new">
+      <PageReference>P110-112</PageReference>
+    </Child>
+    <Child ReferenceText="gadget">
+      <PageReference>P107</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited Access limitation">
+    <PageReference>P57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited limitation">
+    <PageReference>P62-65</PageReference>
+    <PageReference>P70-71</PageReference>
+    <PageReference>P78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited Use limitation">
+    <PageReference>P103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Link enhancement">
+    <PageReference>P39</PageReference>
+    <PageReference>P103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Long-Range enhancement">
+    <PageReference>P108-109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low Signature enhancement">
+    <PageReference>P103</PageReference>
+    <PageReference>P163</PageReference>
+    <PageReference>P172</PageReference>
+    <Child ReferenceText="special effects">
+      <PageReference>P113</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Luck advantage">
+    <PageReference>P59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Machine Telepathy power">
+    <PageReference>P130-131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery advantage">
+    <PageReference>P29</PageReference>
+    <PageReference>P131</PageReference>
+    <PageReference>P187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic Resistance advantage">
+    <PageReference>P169</PageReference>
+    <PageReference>P177</PageReference>
+    <PageReference>P187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magical powers">
+    <Child ReferenceText="example">
+      <PageReference>P131</PageReference>
+    </Child>
+    <Child ReferenceText="mythic">
+      <PageReference>P206-207</PageReference>
+    </Child>
+    <Child ReferenceText="origins">
+      <PageReference>P180-181</PageReference>
+    </Child>
+    <Child ReferenceText="power modifier">
+      <PageReference>P27</PageReference>
+      <PageReference>P187</PageReference>
+    </Child>
+    <Child ReferenceText="psionic">
+      <PageReference>P181</PageReference>
+    </Child>
+    <Child ReferenceText="secret">
+      <PageReference>P214-215</PageReference>
+    </Child>
+    <Child ReferenceText="source">
+      <PageReference>P7</PageReference>
+    </Child>
+    <Child ReferenceText="special rules">
+      <PageReference>P176-177</PageReference>
+    </Child>
+    <Child ReferenceText="as superpowers">
+      <PageReference>P182</PageReference>
+      <PageReference>P229</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnetic limitation">
+    <PageReference>P111-112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magnetism power">
+    <PageReference>P131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Malediction enhancement">
+    <PageReference>P9</PageReference>
+    <PageReference>P103</PageReference>
+    <Child ReferenceText="beneficial">
+      <PageReference>P40</PageReference>
+    </Child>
+    <Child ReferenceText="Cone">
+      <PageReference>P101</PageReference>
+    </Child>
+    <Child ReferenceText="in combat">
+      <PageReference>P165</PageReference>
+    </Child>
+    <Child ReferenceText="on Leech">
+      <PageReference>P96</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana">
+    <PageReference>P24</PageReference>
+    <PageReference>P27</PageReference>
+    <PageReference>P59</PageReference>
+    <PageReference>P207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana Damper advantage">
+    <PageReference>P59</PageReference>
+    <PageReference>P187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana Enhancer advantage">
+    <PageReference>P59</PageReference>
+    <PageReference>P187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana Sensitive limitation">
+    <PageReference>P27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maneuverable enhancement">
+    <PageReference>P80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Manifestation enhancement">
+    <PageReference>P60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mastery enhancement">
+    <PageReference>P60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Matter Control power">
+    <PageReference>P131-132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Matter Eater enhancement">
+    <PageReference>P86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maximum Duration limitation">
+    <PageReference>P111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maximum Height limitation">
+    <PageReference>P87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medium advantage">
+    <PageReference>P14</PageReference>
+    <PageReference>P59-60</PageReference>
+    <PageReference>P186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meld enhancement">
+    <PageReference>P67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee Attack limitation">
+    <PageReference>P9</PageReference>
+    <PageReference>P103-104</PageReference>
+    <PageReference>P164-165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Memory Bank enhancement">
+    <PageReference>P62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental abilities">
+    <PageReference>P14-17</PageReference>
+    <Child ReferenceText="attacks">
+      <PageReference>P143-144</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>P148-150</PageReference>
+    </Child>
+    <Child ReferenceText="physical vs" />
+    <Child ReferenceText="">
+      <PageReference>P154</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental enhancement">
+    <PageReference>P95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metabolism Control advantage">
+    <PageReference>P19</PageReference>
+    <PageReference>P60</PageReference>
+    <PageReference>P169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metamorphoses">
+    <PageReference>P18</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>P151</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Meta-traits">
+    <Child ReferenceText="Alternate Forms">
+      <PageReference>P19</PageReference>
+      <PageReference>P74</PageReference>
+    </Child>
+    <Child ReferenceText="abilities as">
+      <PageReference>P136</PageReference>
+      <PageReference>P145</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Microscopic Vision advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P60-61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mimicry advantage">
+    <PageReference>P14</PageReference>
+    <PageReference>P61</PageReference>
+    <PageReference>P161</PageReference>
+    <PageReference>P163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Control advantage">
+    <PageReference>P15</PageReference>
+    <PageReference>P61</PageReference>
+    <PageReference>P157</PageReference>
+    <PageReference>P161</PageReference>
+    <PageReference>P195</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Probe advantage">
+    <PageReference>P15</PageReference>
+    <PageReference>P61-62</PageReference>
+    <PageReference>P161</PageReference>
+    <PageReference>P195</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Reading advantage">
+    <PageReference>P15</PageReference>
+    <PageReference>P61-62</PageReference>
+    <PageReference>P163</PageReference>
+    <PageReference>P195</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Shield advantage">
+    <PageReference>P12</PageReference>
+    <PageReference>P62</PageReference>
+    <PageReference>P169</PageReference>
+    <PageReference>P173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mindlink advantage">
+    <PageReference>P187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minimum Duration limitation">
+    <PageReference>P111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minimum Range limitation">
+    <PageReference>P111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Missing Damage Effect limitation">
+    <PageReference>P102</PageReference>
+    <PageReference>P112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mobile enhancement">
+    <PageReference>P104</PageReference>
+    <PageReference>P172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modern adventure genre">
+    <PageReference>P208-213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modifiers">
+    <PageReference>P99-112</PageReference>
+    <SeeAlso>Enhancements</SeeAlso>
+    <SeeAlso>Limitations</SeeAlso>
+    <SeeAlso>and Power modifiers</SeeAlso>
+    <Child ReferenceText="multiplicative">
+      <PageReference>P102</PageReference>
+    </Child>
+    <Child ReferenceText="required">
+      <PageReference>P31</PageReference>
+    </Child>
+    <Child ReferenceText="special">
+      <PageReference>P99</PageReference>
+    </Child>
+    <Child ReferenceText="ST-based damage">
+      <PageReference>P146</PageReference>
+    </Child>
+    <Child ReferenceText="on Talents">
+      <PageReference>P29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Modular Abilities advantage">
+    <PageReference>P62-64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <PageReference>P206</PageReference>
+    <PageReference>P210</PageReference>
+    <PageReference>P212-213</PageReference>
+    <PageReference>P232</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Moral powers">
+    <PageReference>P30</PageReference>
+    <PageReference>P182</PageReference>
+    <Child ReferenceText="power modifier">
+      <PageReference>P27</PageReference>
+    </Child>
+    <Child ReferenceText="special rules">
+      <PageReference>P177</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="More Weight enhancement">
+    <PageReference>P76-77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Morph advantage">
+    <PageReference>P18</PageReference>
+    <PageReference>P74-75</PageReference>
+    <PageReference>P167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Move Only limitation">
+    <PageReference>P83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Movement abilities">
+    <PageReference>P167</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>P147-148</PageReference>
+    </Child>
+    <Child ReferenceText="FP cost">
+      <PageReference>P159</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple Contacts enhancement">
+    <PageReference>P62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple feats">
+    <PageReference>P158-159</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple Lock-Ons enhancement">
+    <PageReference>P49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-Strike enhancement">
+    <PageReference>P49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mundane limitation">
+    <PageReference>P69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mythic fantasy genre">
+    <PageReference>P203-208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Natural Phenomena enhancement">
+    <PageReference>P92</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nature powers">
+    <PageReference>P182</PageReference>
+    <Child ReferenceText="as superpowers">
+      <PageReference>P182</PageReference>
+    </Child>
+    <Child ReferenceText="power modifier">
+      <PageReference>P28</PageReference>
+    </Child>
+    <Child ReferenceText="special rules">
+      <PageReference>P177</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Needs Sample limitation">
+    <PageReference>P75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Negated disadvantage enhancement">
+    <PageReference>P41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neutralize advantage">
+    <PageReference>P10</PageReference>
+    <PageReference>P97-98</PageReference>
+    <Child ReferenceText="Accessibility on">
+      <PageReference>P99</PageReference>
+    </Child>
+    <Child ReferenceText="as countermeasure">
+      <PageReference>P20</PageReference>
+      <PageReference>P31</PageReference>
+    </Child>
+    <Child ReferenceText="Protected Power">
+      <PageReference>P69</PageReference>
+      <PageReference>P169</PageReference>
+    </Child>
+    <Child ReferenceText="vs" />
+    <Child ReferenceText="non-powers">
+      <PageReference>P97</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neutrino Comm advantage">
+    <PageReference>P81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night Vision advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Intercept enhancement">
+    <PageReference>P72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Memorization Required enhancement">
+    <PageReference>P75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Reattachment limitation">
+    <PageReference>P52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Signature enhancement">
+    <PageReference>P103</PageReference>
+    <PageReference>P163-164</PageReference>
+    <PageReference>P172</PageReference>
+    <Child ReferenceText="special effects">
+      <PageReference>P113</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="No Strain enhancement">
+    <PageReference>P89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Vertical Move limitation">
+    <PageReference>P56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Wounding limitation">
+    <PageReference>P102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Noisy limitation">
+    <PageReference>P56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Non-Combat Speed limitation">
+    <PageReference>P42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Non-Reciprocal Damage enhancement">
+    <PageReference>P75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Normals">
+    <PageReference>P194</PageReference>
+    <PageReference>P209</PageReference>
+    <PageReference>P216-217</PageReference>
+    <Child ReferenceText="competent">
+      <PageReference>P208-209</PageReference>
+    </Child>
+    <Child ReferenceText="super">
+      <PageReference>P229</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nuisance Effect limitation">
+    <PageReference>P104</PageReference>
+    <Child ReferenceText="as power modifier">
+      <PageReference>P25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Obscure advantage">
+    <PageReference>P10</PageReference>
+    <PageReference>P64-65</PageReference>
+    <PageReference>P163</PageReference>
+    <Child ReferenceText="as countermeasure">
+      <PageReference>P21</PageReference>
+      <PageReference>P31</PageReference>
+    </Child>
+    <Child ReferenceText="as defense">
+      <PageReference>P168</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Once On, Stays On enhancement">
+    <PageReference>P75</PageReference>
+    <PageReference>P109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One Ability limitation">
+    <PageReference>P97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One Attack Only limitation">
+    <PageReference>P79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One Power limitation">
+    <PageReference>P98</PageReference>
+    <PageReference>P119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-Way enhancement">
+    <PageReference>P77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ongoing effects">
+    <PageReference>P155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Only Heals FP limitation">
+    <PageReference>P96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Onset limitation">
+    <PageReference>P104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Opposed powers">
+    <PageReference>P21</PageReference>
+    <PageReference>P30-32</PageReference>
+    <Child ReferenceText="Neutralize">
+      <PageReference>P98</PageReference>
+    </Child>
+    <Child ReferenceText="power defenses with">
+      <PageReference>P168</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Oracle advantage">
+    <PageReference>P16</PageReference>
+    <PageReference>P65</PageReference>
+    <PageReference>P187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Order power">
+    <PageReference>P132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Origins">
+    <PageReference>P179-182</PageReference>
+    <Child ReferenceText="modern adventure">
+      <PageReference>P211</PageReference>
+    </Child>
+    <Child ReferenceText="mythic fantasy">
+      <PageReference>P205</PageReference>
+    </Child>
+    <Child ReferenceText="PC">
+      <PageReference>P184</PageReference>
+    </Child>
+    <Child ReferenceText="plots and">
+      <PageReference>P192</PageReference>
+    </Child>
+    <Child ReferenceText="psionic">
+      <PageReference>P218</PageReference>
+    </Child>
+    <Child ReferenceText="science fiction">
+      <PageReference>P221</PageReference>
+    </Child>
+    <Child ReferenceText="secret powers">
+      <PageReference>P216</PageReference>
+    </Child>
+    <Child ReferenceText="super">
+      <PageReference>P227</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Overhead enhancement">
+    <PageReference>P104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pact limitation">
+    <PageReference>P104</PageReference>
+    <Child ReferenceText="required disadvantages">
+      <PageReference>P23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Panoptic enhancement">
+    <PageReference>P39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parabolic Hearing advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parachute enhancement">
+    <PageReference>P43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Para-Radar advantage">
+    <PageReference>P17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Passive Only limitation">
+    <PageReference>P69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Passive vs">
+    <Child ReferenceText="active abilities">
+      <PageReference>P153</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrons advantage">
+    <PageReference>P65-66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Penetrating Vision advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P66</PageReference>
+    <PageReference>P196</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peripheral Vision advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>P66</PageReference>
+    <Child ReferenceText="Accessory">
+      <PageReference>P51</PageReference>
+      <PageReference>P79</PageReference>
+      <PageReference>P85</PageReference>
+    </Child>
+    <Child ReferenceText="special effects">
+      <PageReference>P114</PageReference>
+    </Child>
+    <Child ReferenceText="supercostumes">
+      <PageReference>P226</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Permeation advantage">
+    <PageReference>P14</PageReference>
+    <PageReference>P66-67</PageReference>
+    <PageReference>P167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Persistent enhancement">
+    <PageReference>P104</PageReference>
+    <PageReference>P172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Petrifaction">
+    <PageReference>P118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Physical abilities, mental vs">
+    <Child ReferenceText="">
+      <PageReference>P154</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Physical transformations">
+    <PageReference>P17-19</PageReference>
+    <PageReference>P167</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>P150-151</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Planetary limitation">
+    <PageReference>P50</PageReference>
+    <PageReference>P80</PageReference>
+    <PageReference>P87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plant Control power">
+    <PageReference>P132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plant Empathy advantage">
+    <PageReference>P15</PageReference>
+    <PageReference>P48-49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plot points">
+    <PageReference>P192</PageReference>
+    <PageReference>P199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poison">
+    <PageReference>P9</PageReference>
+    <PageReference>P40</PageReference>
+    <PageReference>P55</PageReference>
+    <PageReference>P93</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>P144-145</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Possession advantage">
+    <PageReference>P15</PageReference>
+    <PageReference>P67-68</PageReference>
+    <PageReference>P157</PageReference>
+    <PageReference>P195</PageReference>
+    <Child ReferenceText="when projecting">
+      <PageReference>P67</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Block">
+    <PageReference>P168-169</PageReference>
+    <Child ReferenceText="extra effort for">
+      <PageReference>P160</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power defenses">
+    <PageReference>P167-169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Dodge">
+    <PageReference>P167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Investiture advantage">
+    <PageReference>P29-30</PageReference>
+    <PageReference>P126</PageReference>
+    <PageReference>P187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power level">
+    <PageReference>P183-184</PageReference>
+    <Child ReferenceText="futuristic SF">
+      <PageReference>P220</PageReference>
+    </Child>
+    <Child ReferenceText="modern adventure">
+      <PageReference>P208</PageReference>
+    </Child>
+    <Child ReferenceText="mythic fantasy">
+      <PageReference>P204</PageReference>
+    </Child>
+    <Child ReferenceText="psionics">
+      <PageReference>P217</PageReference>
+    </Child>
+    <Child ReferenceText="secret powers">
+      <PageReference>P214</PageReference>
+    </Child>
+    <Child ReferenceText="supers">
+      <PageReference>P223</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power modifiers">
+    <PageReference>P7-8</PageReference>
+    <PageReference>P99</PageReference>
+    <SeeAlso>specific modifier</SeeAlso>
+    <Child ReferenceText="evaluating">
+      <PageReference>P20-29</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>P26-29</PageReference>
+      <PageReference>P121-136</PageReference>
+    </Child>
+    <Child ReferenceText="finalizing">
+      <PageReference>P25</PageReference>
+    </Child>
+    <Child ReferenceText="in play">
+      <PageReference>P156</PageReference>
+    </Child>
+    <Child ReferenceText="naming">
+      <PageReference>P26</PageReference>
+    </Child>
+    <Child ReferenceText="quick reference">
+      <PageReference>P25</PageReference>
+    </Child>
+    <Child ReferenceText="stacking">
+      <PageReference>P28</PageReference>
+    </Child>
+    <Child ReferenceText="zero-cost">
+      <PageReference>P25</PageReference>
+      <PageReference>P27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Parry">
+    <PageReference>P167-168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power skills">
+    <PageReference>P162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power techniques">
+    <PageReference>P162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Theft enhancement">
+    <PageReference>P97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <PageReference>P7</PageReference>
+    <Child ReferenceText="adding">
+      <PageReference>P34-37</PageReference>
+      <PageReference>P199</PageReference>
+      <PageReference>P202</PageReference>
+    </Child>
+    <Child ReferenceText="balancing">
+      <PageReference>P186</PageReference>
+    </Child>
+    <Child ReferenceText="combining">
+      <PageReference>P170-172</PageReference>
+    </Child>
+    <Child ReferenceText="controlling">
+      <PageReference>P190-192</PageReference>
+    </Child>
+    <Child ReferenceText="creating">
+      <PageReference>P6-37</PageReference>
+    </Child>
+    <Child ReferenceText="crippled">
+      <PageReference>P156</PageReference>
+    </Child>
+    <Child ReferenceText="defending with">
+      <PageReference>P167-169</PageReference>
+    </Child>
+    <Child ReferenceText="improving">
+      <PageReference>P34-37</PageReference>
+      <PageReference>P199</PageReference>
+    </Child>
+    <Child ReferenceText="in action">
+      <PageReference>P152-178</PageReference>
+    </Child>
+    <Child ReferenceText="latent">
+      <PageReference>P34-36</PageReference>
+    </Child>
+    <Child ReferenceText="learning">
+      <PageReference>P35</PageReference>
+      <PageReference>P162</PageReference>
+      <PageReference>P189-190</PageReference>
+    </Child>
+    <Child ReferenceText="monster-only">
+      <PageReference>P210</PageReference>
+    </Child>
+    <Child ReferenceText="opposed">
+      <PageReference>P21</PageReference>
+      <PageReference>P30-32</PageReference>
+    </Child>
+    <Child ReferenceText="PC vs" />
+  </IndexReference>
+  <IndexReference ReferenceText="NPC">
+    <PageReference>P33</PageReference>
+    <PageReference>P185</PageReference>
+    <SeeAlso>specific power</SeeAlso>
+    <Child ReferenceText="player-created">
+      <PageReference>P8</PageReference>
+      <PageReference>P37</PageReference>
+    </Child>
+    <Child ReferenceText="prevalence">
+      <PageReference>P201-202</PageReference>
+    </Child>
+    <Child ReferenceText="relationships">
+      <PageReference>P30-32</PageReference>
+      <PageReference>P181</PageReference>
+    </Child>
+    <Child ReferenceText="sample">
+      <PageReference>P121-136</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>P33-34</PageReference>
+    </Child>
+    <Child ReferenceText="structure">
+      <PageReference>P31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Precise enhancement">
+    <PageReference>P97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Precognition advantage">
+    <PageReference>P16</PageReference>
+    <PageReference>P68-69</PageReference>
+    <PageReference>P163</PageReference>
+    <PageReference>P187</PageReference>
+    <PageReference>P196-197</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prerequisites">
+    <PageReference>P31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Presence enhancement">
+    <PageReference>P84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Probability Alteration power">
+    <PageReference>P132-133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Profiling enhancement">
+    <PageReference>P47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Projected Form limitation">
+    <PageReference>P75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Projectile limitation">
+    <PageReference>P80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Projection">
+    <PageReference>P44</PageReference>
+    <Child ReferenceText="Affects Insubstantial/Substantial vs" />
+    <Child ReferenceText="">
+      <PageReference>P99</PageReference>
+    </Child>
+    <Child ReferenceText="Alternate Form">
+      <PageReference>P75</PageReference>
+    </Child>
+    <Child ReferenceText="enhancement">
+      <PageReference>P44</PageReference>
+    </Child>
+    <Child ReferenceText="Insubstantial Only vs" />
+    <Child ReferenceText="">
+      <PageReference>P111</PageReference>
+    </Child>
+    <Child ReferenceText="limitation">
+      <PageReference>P56</PageReference>
+      <PageReference>P58</PageReference>
+      <PageReference>P89</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Protected Power advantage">
+    <PageReference>P69</PageReference>
+    <PageReference>P169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Protected Sense advantage">
+    <PageReference>P12</PageReference>
+    <PageReference>P69</PageReference>
+    <PageReference>P169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi Static advantage">
+    <SeeAlso>Static advantage</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionics">
+    <Child ReferenceText="genre">
+      <PageReference>P217-219</PageReference>
+    </Child>
+    <Child ReferenceText="magical">
+      <PageReference>P181</PageReference>
+    </Child>
+    <Child ReferenceText="origins">
+      <PageReference>P181</PageReference>
+      <PageReference>P218</PageReference>
+    </Child>
+    <Child ReferenceText="power modifier">
+      <PageReference>P28</PageReference>
+    </Child>
+    <Child ReferenceText="science fiction">
+      <PageReference>P221</PageReference>
+    </Child>
+    <Child ReferenceText="source">
+      <PageReference>P7</PageReference>
+    </Child>
+    <Child ReferenceText="special rules">
+      <PageReference>P177-178</PageReference>
+    </Child>
+    <Child ReferenceText="as super-powers">
+      <PageReference>P182</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychokinesis power">
+    <PageReference>P133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychometry advantage">
+    <PageReference>P16</PageReference>
+    <PageReference>P69</PageReference>
+    <PageReference>P161</PageReference>
+    <PageReference>P163-164</PageReference>
+    <PageReference>P187</PageReference>
+    <Child ReferenceText="Obscure">
+      <PageReference>P64</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Quirks">
+    <PageReference>P10</PageReference>
+    <Child ReferenceText="special effects">
+      <PageReference>P114</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Racial Memory advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation">
+    <Child ReferenceText="power">
+      <PageReference>P133</PageReference>
+    </Child>
+    <Child ReferenceText="attacks">
+      <PageReference>P140</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation enhancement">
+    <PageReference>P102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation Tolerance advantage">
+    <PageReference>P12</PageReference>
+    <PageReference>P70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged enhancement">
+    <PageReference>P9</PageReference>
+    <PageReference>P105</PageReference>
+    <PageReference>P164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Fire enhancement">
+    <PageReference>P105</PageReference>
+    <PageReference>P173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapier Wit advantage">
+    <PageReference>P15</PageReference>
+    <PageReference>P70</PageReference>
+    <PageReference>P161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realism">
+    <PageReference>P183</PageReference>
+    <PageReference>P200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reattachment enhancement">
+    <PageReference>P71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reattachment Only limitation">
+    <PageReference>P52</PageReference>
+    <PageReference>P71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reawakened advantage">
+    <PageReference>P187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recall limitation">
+    <PageReference>P77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reciprocal Rest enhancement">
+    <PageReference>P75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reduced Fatigue Cost enhancement">
+    <PageReference>P105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reduced Range limitation">
+    <PageReference>P105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reflexive enhancement">
+    <PageReference>P109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regeneration advantage">
+    <PageReference>P19</PageReference>
+    <PageReference>P70-71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regrowth advantage">
+    <PageReference>P19</PageReference>
+    <PageReference>P71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reliable enhancement">
+    <PageReference>P57</PageReference>
+    <PageReference>P109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remote enhancement">
+    <PageReference>P48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repeated attempts">
+    <PageReference>P159</PageReference>
+    <Child ReferenceText="combining powers">
+      <PageReference>P171</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Required Disadvantage limitation">
+    <PageReference>P104</PageReference>
+    <PageReference>P112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Required disadvantages">
+    <PageReference>P21-23</PageReference>
+    <PageReference>P156</PageReference>
+    <PageReference>P190</PageReference>
+    <Child ReferenceText="chi">
+      <PageReference>P26</PageReference>
+    </Child>
+    <Child ReferenceText="divine">
+      <PageReference>P26</PageReference>
+    </Child>
+    <Child ReferenceText="moral">
+      <PageReference>P27</PageReference>
+    </Child>
+    <Child ReferenceText="spirit">
+      <PageReference>P28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires (Attribute) Roll limitation">
+    <PageReference>P112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires Concentrate limitation">
+    <PageReference>P112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires Low Gravity limitation">
+    <PageReference>P45</PageReference>
+    <PageReference>P79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires Reaction Roll limitation">
+    <PageReference>P111-112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires Ready limitation">
+    <PageReference>P112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Requires Surface limitation">
+    <PageReference>P50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant advantage">
+    <PageReference>P12</PageReference>
+    <PageReference>P71-72</PageReference>
+    <PageReference>P169</PageReference>
+    <Child ReferenceText="as countermeasure">
+      <PageReference>P31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistible limitation">
+    <PageReference>P98</PageReference>
+    <PageReference>P105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restorations">
+    <PageReference>P19</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>P151</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ricochet">
+    <PageReference>P166-167</PageReference>
+    <Child ReferenceText="enhancement">
+      <PageReference>P109</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sapience enhancement">
+    <PageReference>P77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scanner enhancement">
+    <PageReference>P72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scanning Sense advantages">
+    <PageReference>P17</PageReference>
+    <PageReference>P72</PageReference>
+    <PageReference>P163</PageReference>
+    <Child ReferenceText="Obscure">
+      <PageReference>P64</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Second Nature enhancement">
+    <PageReference>P44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secondary characteristics">
+    <PageReference>P10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret powers genre">
+    <PageReference>P214-217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secure enhancement">
+    <PageReference>P82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Selective Area enhancement">
+    <PageReference>P105</PageReference>
+    <PageReference>P172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Selective Effect enhancement">
+    <PageReference>P105</PageReference>
+    <PageReference>P109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Selectivity enhancement">
+    <PageReference>P105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense abilities">
+    <PageReference>P14</PageReference>
+    <PageReference>P17</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>P150</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense of Perception enhancement">
+    <PageReference>P86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense-Based modifier">
+    <PageReference>P9</PageReference>
+    <PageReference>P105-106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensie enhancement">
+    <PageReference>P82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensitive enhancement">
+    <PageReference>P69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensitive Touch advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sequential limitation">
+    <PageReference>P48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serendipity advantage">
+    <PageReference>P73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadow Form advantage">
+    <PageReference>P19</PageReference>
+    <PageReference>P73-74</PageReference>
+    <PageReference>P167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shapeshifting advantages">
+    <PageReference>P18</PageReference>
+    <PageReference>P74-75</PageReference>
+    <PageReference>P197</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Short-Range limitation">
+    <PageReference>P112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shrinking advantage">
+    <PageReference>P18</PageReference>
+    <PageReference>P75-76</PageReference>
+    <PageReference>P167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Side Effect enhancement">
+    <PageReference>P106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silence advantage">
+    <PageReference>P76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Single Skill limitation">
+    <PageReference>P49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Size Modifier">
+    <PageReference>P76</PageReference>
+    <Child ReferenceText="resisting Affliction">
+      <PageReference>P40</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>P10</PageReference>
+    <Child ReferenceText="abilities enhancing">
+      <PageReference>P162-163</PageReference>
+    </Child>
+    <Child ReferenceText="chi powers">
+      <PageReference>P175</PageReference>
+      <PageReference>P188</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic">
+      <PageReference>P188</PageReference>
+    </Child>
+    <Child ReferenceText="enhancing abilities with">
+      <PageReference>P161</PageReference>
+    </Child>
+    <Child ReferenceText="power">
+      <PageReference>P162</PageReference>
+    </Child>
+    <Child ReferenceText="Talents affecting">
+      <PageReference>P188</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slow Recharge limitation">
+    <PageReference>P119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snatcher advantage">
+    <PageReference>P13</PageReference>
+    <PageReference>P76-77</PageReference>
+    <Child ReferenceText="granting wishes">
+      <PageReference>P119</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Social enhancement">
+    <PageReference>P63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sonar Comm advantage">
+    <PageReference>P81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sound/Vibration">
+    <Child ReferenceText="power">
+      <PageReference>P133-134</PageReference>
+    </Child>
+    <Child ReferenceText="attacks">
+      <PageReference>P140</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Source">
+    <PageReference>P7</PageReference>
+    <SeeAlso>specific source</SeeAlso>
+    <Child ReferenceText="affecting FP use">
+      <PageReference>P178</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>P121-136</PageReference>
+    </Child>
+    <Child ReferenceText="origin vs" />
+    <Child ReferenceText="">
+      <PageReference>P179</PageReference>
+    </Child>
+    <Child ReferenceText="special rules">
+      <PageReference>P174-178</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Speak Underwater advantage">
+    <PageReference>P14</PageReference>
+    <PageReference>P78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speak With Animals advantage">
+    <PageReference>P14</PageReference>
+    <PageReference>P77</PageReference>
+    <PageReference>P188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speak With Plants advantage">
+    <PageReference>P14</PageReference>
+    <PageReference>P77</PageReference>
+    <PageReference>P188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special effects">
+    <PageReference>P39</PageReference>
+    <PageReference>P113-114</PageReference>
+    <Child ReferenceText="detection">
+      <PageReference>P163</PageReference>
+    </Child>
+    <Child ReferenceText="fictional abilities">
+      <PageReference>P116</PageReference>
+    </Child>
+    <Child ReferenceText="guns">
+      <PageReference>P54</PageReference>
+    </Child>
+    <Child ReferenceText="in play">
+      <PageReference>P114</PageReference>
+      <PageReference>P170</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Special Movement limitation">
+    <PageReference>P58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special Portal limitation">
+    <PageReference>P58</PageReference>
+    <PageReference>P89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special Rapport advantage">
+    <PageReference>P77-78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special Recharge limitation">
+    <PageReference>P119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specialized limitation">
+    <PageReference>P44</PageReference>
+    <PageReference>P48-49</PageReference>
+    <PageReference>P60</PageReference>
+    <PageReference>P68</PageReference>
+    <PageReference>P77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Specific limitation">
+    <PageReference>P45</PageReference>
+    <PageReference>P66</PageReference>
+    <PageReference>P79</PageReference>
+    <PageReference>P83</PageReference>
+    <PageReference>P87-88</PageReference>
+    <PageReference>P112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <PageReference>P188-189</PageReference>
+    <PageReference>P207</PageReference>
+    <SeeAlso>Magical powers</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Control power">
+    <PageReference>P134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Empathy advantage">
+    <PageReference>P15</PageReference>
+    <PageReference>P48-49</PageReference>
+    <PageReference>P186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Jumper advantage">
+    <PageReference>P57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit powers">
+    <Child ReferenceText="power modifier">
+      <PageReference>P28</PageReference>
+    </Child>
+    <Child ReferenceText="source">
+      <PageReference>P7</PageReference>
+    </Child>
+    <Child ReferenceText="special rules">
+      <PageReference>P178</PageReference>
+    </Child>
+    <Child ReferenceText="origins">
+      <PageReference>P181</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirits">
+    <PageReference>P185</PageReference>
+    <PageReference>P213</PageReference>
+    <PageReference>P230-231</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Static advantage">
+    <PageReference>P11</PageReference>
+    <PageReference>P98</PageReference>
+    <Child ReferenceText="Accessibility on">
+      <PageReference>P99</PageReference>
+    </Child>
+    <Child ReferenceText="as countermeasure">
+      <PageReference>P20</PageReference>
+      <PageReference>P31</PageReference>
+    </Child>
+    <Child ReferenceText="Protected Power">
+      <PageReference>P69</PageReference>
+    </Child>
+    <Child ReferenceText="vs" />
+    <Child ReferenceText="non-powers">
+      <PageReference>P97</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Static limitation">
+    <PageReference>P95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steal (Other Score) enhancement">
+    <PageReference>P96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Steal Youth enhancement">
+    <PageReference>P96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stethoscopic enhancement">
+    <PageReference>P73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stigmata enhancement">
+    <PageReference>P95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strength (ST)">
+    <SeeAlso>Attributes</SeeAlso>
+    <Child ReferenceText="modified damage">
+      <PageReference>P146</PageReference>
+    </Child>
+    <Child ReferenceText="lifting weights">
+      <PageReference>P58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Strength-Based (ST-Based) enhancement">
+    <PageReference>P103-104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stretching advantage">
+    <PageReference>P18</PageReference>
+    <PageReference>P78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Striking ST advantage">
+    <PageReference>P78-79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stunts">
+    <PageReference>P170-174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stunts Only limitation">
+    <PageReference>P119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Submerged enhancement">
+    <PageReference>P88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subsonic Hearing advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subsonic Speech advantage">
+    <PageReference>P14</PageReference>
+    <PageReference>P78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suffocating enhancement">
+    <PageReference>P43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suggestion limitation">
+    <PageReference>P61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super Climbing advantage">
+    <PageReference>P13</PageReference>
+    <PageReference>P79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super Jump advantage">
+    <PageReference>P13</PageReference>
+    <PageReference>P79-80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super Luck advantage">
+    <PageReference>P80-81</PageReference>
+    <Child ReferenceText="granting wishes">
+      <PageReference>P119</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Super teams">
+    <PageReference>P232-234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-Effort enhancement">
+    <PageReference>P58</PageReference>
+    <PageReference>P83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural attacks">
+    <PageReference>P142-144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-powers">
+    <Child ReferenceText="power modifier">
+      <PageReference>P29</PageReference>
+    </Child>
+    <Child ReferenceText="special rules">
+      <PageReference>P178</PageReference>
+    </Child>
+    <Child ReferenceText="origins">
+      <PageReference>P182</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Supers genre">
+    <PageReference>P222-234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superscience">
+    <PageReference>P180</PageReference>
+    <PageReference>P212</PageReference>
+    <SeeAlso>Gadgets</SeeAlso>
+    <Child ReferenceText="power modifier">
+      <PageReference>P10</PageReference>
+      <PageReference>P107</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Super-Speed enhancement">
+    <PageReference>P42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surge enhancement">
+    <PageReference>P102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surprise Attack enhancement">
+    <PageReference>P104</PageReference>
+    <PageReference>P109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swarm enhancement">
+    <PageReference>P53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Switchability">
+    <PageReference>P153-154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Switchable">
+    <Child ReferenceText="enhancement">
+      <PageReference>P98</PageReference>
+      <PageReference>P109</PageReference>
+    </Child>
+    <Child ReferenceText="body parts">
+      <PageReference>P10</PageReference>
+      <PageReference>P18</PageReference>
+      <PageReference>P81</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Takes Extra Time limitation">
+    <PageReference>P106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Takes Recharge limitation">
+    <PageReference>P106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <PageReference>P7-8</PageReference>
+    <SeeAlso>specific power</SeeAlso>
+    <Child ReferenceText="adding">
+      <PageReference>P34</PageReference>
+      <PageReference>P37</PageReference>
+      <PageReference>P199</PageReference>
+    </Child>
+    <Child ReferenceText="affecting cinematic skills">
+      <PageReference>P188</PageReference>
+    </Child>
+    <Child ReferenceText="combining">
+      <PageReference>P171</PageReference>
+    </Child>
+    <Child ReferenceText="existing advantages as">
+      <PageReference>P29</PageReference>
+    </Child>
+    <Child ReferenceText="in play">
+      <PageReference>P157-158</PageReference>
+    </Child>
+    <Child ReferenceText="mundane">
+      <PageReference>P29</PageReference>
+      <PageReference>P35</PageReference>
+    </Child>
+    <Child ReferenceText="pricing">
+      <PageReference>P29</PageReference>
+    </Child>
+    <Child ReferenceText="resistance">
+      <PageReference>P169</PageReference>
+    </Child>
+    <Child ReferenceText="starting">
+      <PageReference>P34</PageReference>
+    </Child>
+    <Child ReferenceText="with Untrainable">
+      <PageReference>P107</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Targeting enhancement">
+    <PageReference>P86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <Child ReferenceText="default abilities">
+      <PageReference>P174</PageReference>
+    </Child>
+    <Child ReferenceText="power">
+      <PageReference>P162</PageReference>
+    </Child>
+    <Child ReferenceText="Coordinated Attack">
+      <PageReference>P166</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Telecommunication advantages">
+    <PageReference>P14</PageReference>
+    <PageReference>P81-82</PageReference>
+    <PageReference>P163</PageReference>
+    <Child ReferenceText="Obscure">
+      <PageReference>P65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Telecontrol enhancement">
+    <PageReference>P67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telekinesis advantage">
+    <PageReference>P14</PageReference>
+    <PageReference>P82-83</PageReference>
+    <PageReference>P161</PageReference>
+    <PageReference>P163</PageReference>
+    <Child ReferenceText="with Possession">
+      <PageReference>P67</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Telepathy power">
+    <PageReference>P134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teleportation power">
+    <PageReference>P134-135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telescopic Vision advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telesend advantage">
+    <PageReference>P14</PageReference>
+    <PageReference>P81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature Control advantage">
+    <PageReference>P83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature Tolerance advantage">
+    <PageReference>P12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temporal Stasis enhancement">
+    <PageReference>P118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temporary Disadvantage limitation">
+    <PageReference>P106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temporary enhancements">
+    <PageReference>P172-173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terminal Condition limitation">
+    <PageReference>P112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terrain Adaptation advantage">
+    <PageReference>P13</PageReference>
+    <PageReference>P83-84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terror advantage">
+    <PageReference>P15</PageReference>
+    <PageReference>P84</PageReference>
+    <PageReference>P161</PageReference>
+    <PageReference>P187</PageReference>
+    <Child ReferenceText="Fearlessness">
+      <PageReference>P169</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tight-beam burning attacks">
+    <PageReference>P113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time Mastery power">
+    <PageReference>P135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time-Spanning enhancement">
+    <PageReference>P109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Touch Only limitation">
+    <SeeAlso>Melee Attack</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracking enhancement">
+    <PageReference>P89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transferable enhancement">
+    <PageReference>P78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transhuman Space">
+    <PageReference>P221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transmutation enhancement">
+    <PageReference>P94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transmutations">
+    <PageReference>P19</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>P151</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="T-Ray Vision advantage">
+    <PageReference>P72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trigger conditions">
+    <PageReference>P34-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trigger limitation">
+    <PageReference>P106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Faith advantage">
+    <PageReference>P16</PageReference>
+    <PageReference>P30</PageReference>
+    <PageReference>P84-85</PageReference>
+    <PageReference>P161</PageReference>
+    <PageReference>P187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Sight enhancement">
+    <PageReference>P73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tunnel enhancement">
+    <PageReference>P89</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tunneling advantage">
+    <PageReference>P14</PageReference>
+    <PageReference>P85-86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turning enhancement">
+    <PageReference>P84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultra-Fine enhancement">
+    <PageReference>P73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultrahearing advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultrasonic Speech advantage">
+    <PageReference>P14</PageReference>
+    <PageReference>P78</PageReference>
+    <PageReference>P81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultravision advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unbreakable Bones advantage">
+    <PageReference>P53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unconsciousness">
+    <PageReference>P155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uncontrollable limitation">
+    <PageReference>P106</PageReference>
+    <PageReference>P156-157</PageReference>
+    <Child ReferenceText="new abilities">
+      <PageReference>P34</PageReference>
+      <PageReference>P37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Uncontrollable Trigger limitation">
+    <PageReference>P106-107</PageReference>
+    <PageReference>P112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Underwater enhancement">
+    <PageReference>P107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal Digestion advantage">
+    <PageReference>P86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal enhancement">
+    <PageReference>P60</PageReference>
+    <PageReference>P77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unliving Forms Only limitation">
+    <PageReference>P75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unreliable limitation">
+    <PageReference>P107</PageReference>
+    <Child ReferenceText="new abilities">
+      <PageReference>P34</PageReference>
+      <PageReference>P37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Untrainable limitation">
+    <PageReference>P107</PageReference>
+    <Child ReferenceText="new abilities">
+      <PageReference>P34</PageReference>
+      <PageReference>P37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background advantage">
+    <PageReference>P31</PageReference>
+    <PageReference>P184-186</PageReference>
+    <Child ReferenceText="attacks">
+      <PageReference>P138</PageReference>
+    </Child>
+    <Child ReferenceText="futuristic SF">
+      <PageReference>P220</PageReference>
+    </Child>
+    <Child ReferenceText="modern adventure">
+      <PageReference>P209</PageReference>
+    </Child>
+    <Child ReferenceText="mythic fantasy">
+      <PageReference>P204</PageReference>
+      <PageReference>P207</PageReference>
+    </Child>
+    <Child ReferenceText="psionics">
+      <PageReference>P217</PageReference>
+    </Child>
+    <Child ReferenceText="secret powers">
+      <PageReference>P214</PageReference>
+    </Child>
+    <Child ReferenceText="supers">
+      <PageReference>P223</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Usually On">
+    <Child ReferenceText="limitation">
+      <PageReference>P100</PageReference>
+      <PageReference>P112</PageReference>
+    </Child>
+    <Child ReferenceText="enhancement">
+      <PageReference>P109</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampiric Bite advantage">
+    <PageReference>P86</PageReference>
+    <SeeAlso>Leech advantage</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampirism power">
+    <PageReference>P135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Variable enhancement">
+    <PageReference>P107</PageReference>
+    <PageReference>P173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Variant traits">
+    <PageReference>P113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vertical Only limitation">
+    <PageReference>P80</PageReference>
+    <PageReference>P87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Very Rapid Fire enhancement">
+    <PageReference>P105</PageReference>
+    <PageReference>P109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vibration Sense advantage">
+    <PageReference>P17</PageReference>
+    <PageReference>P86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visible limitation">
+    <PageReference>P112</PageReference>
+    <PageReference>P164</PageReference>
+    <Child ReferenceText="special effects">
+      <PageReference>P113</PageReference>
+    </Child>
+    <Child ReferenceText="supers">
+      <PageReference>P228</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vision">
+    <PageReference>P17</PageReference>
+    <PageReference>P87</PageReference>
+    <Child ReferenceText="Obscure">
+      <PageReference>P64-65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Visual enhancement">
+    <PageReference>P60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visual Only limitation">
+    <PageReference>P95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Visualization advantage">
+    <PageReference>P87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voice Library enhancement">
+    <PageReference>P61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walk on Air advantage">
+    <PageReference>P13</PageReference>
+    <PageReference>P87-88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walk on Liquid advantage">
+    <PageReference>P13</PageReference>
+    <PageReference>P88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wall enhancement">
+    <PageReference>P173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warp advantage">
+    <PageReference>P13</PageReference>
+    <PageReference>P88-89</PageReference>
+    <PageReference>P161</PageReference>
+    <PageReference>P163</PageReference>
+    <PageReference>P167</PageReference>
+    <PageReference>P197-198</PageReference>
+    <Child ReferenceText="projection">
+      <PageReference>P44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Water">
+    <Child ReferenceText="power">
+      <PageReference>P135-136</PageReference>
+    </Child>
+    <Child ReferenceText="attacks">
+      <PageReference>P140</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Mounts">
+    <PageReference>P138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weather Control power">
+    <PageReference>P136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild abilities">
+    <PageReference>P6</PageReference>
+    <PageReference>P8</PageReference>
+    <PageReference>P20</PageReference>
+    <PageReference>P25</PageReference>
+    <PageReference>P27</PageReference>
+    <PageReference>P31-32</PageReference>
+    <PageReference>P34</PageReference>
+    <PageReference>P39</PageReference>
+    <PageReference>P101</PageReference>
+    <PageReference>P110</PageReference>
+    <PageReference>P173-174</PageReference>
+    <PageReference>P186-189</PageReference>
+    <Child ReferenceText="Neutralize and Static vs" />
+    <Child ReferenceText="">
+      <PageReference>P97</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild Ability enhancement">
+    <PageReference>P90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild Talent advantage">
+    <PageReference>P89-90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wishing enhancement">
+    <PageReference>P59</PageReference>
+    <PageReference>P73</PageReference>
+    <PageReference>P80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Words of Power enhancement">
+    <PageReference>P70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="World-Spanning enhancement">
+    <PageReference>P109</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

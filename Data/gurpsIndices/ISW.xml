@@ -1,0 +1,2080 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Academician template">
+    <PageReference>ISW146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Addiction disadvantage">
+    <PageReference>ISW135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Administrative rank">
+    <PageReference>ISW138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>ISW134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventure seeds">
+    <PageReference>ISW237</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advertising">
+    <PageReference>ISW70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advisory Board">
+    <Child ReferenceText="Terran Confederation">
+      <PageReference>ISW54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Agencies">
+    <Child ReferenceText="Terran Confederation">
+      <PageReference>ISW55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Agidda">
+    <PageReference>ISW113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Agrippa-class 1">
+    <Child ReferenceText="000-dton corvette">
+      <PageReference>ISW215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Air/rafts">
+    <PageReference>ISW168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Albadawi period">
+    <PageReference>ISW34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Albadawi">
+    <Child ReferenceText="Manuel">
+      <PageReference>ISW35</PageReference>
+      <PageReference>ISW36</PageReference>
+      <PageReference>ISW45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="al-Ghazali">
+    <Child ReferenceText="Umar bin-Abdallah">
+      <PageReference>ISW44</PageReference>
+      <PageReference>ISW68</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alpha Centauri">
+    <PageReference>ISW114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate Interstellar Wars">
+    <PageReference>ISW236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternative campaigns">
+    <PageReference>ISW232</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anachronisms">
+    <PageReference>ISW85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anakundu">
+    <PageReference>ISW80</PageReference>
+    <Child ReferenceText="racial template">
+      <PageReference>ISW143</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Anarchy government type">
+    <PageReference>ISW99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ancients">
+    <PageReference>ISW13</PageReference>
+    <PageReference>ISW85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Answerin">
+    <PageReference>ISW81</PageReference>
+    <Child ReferenceText="racial template">
+      <PageReference>ISW144</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Apishlun">
+    <PageReference>ISW108</PageReference>
+    <Child ReferenceText="subsector">
+      <PageReference>ISW107</PageReference>
+      <PageReference>ISW229</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance advantage">
+    <PageReference>ISW134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archimedes Station">
+    <PageReference>ISW21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Architecture">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW75</PageReference>
+    </Child>
+    <Child ReferenceText="Terran">
+      <PageReference>ISW52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ariirkii">
+    <PageReference>ISW37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armed merchant marine">
+    <PageReference>ISW65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>ISW162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Army">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW93</PageReference>
+    </Child>
+    <Child ReferenceText="Terran">
+      <PageReference>ISW62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Asteroid Belt world">
+    <PageReference>ISW96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Asteroidenbergwerke GmbH">
+    <PageReference>ISW67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Athenian Democracy government type">
+    <PageReference>ISW99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Athlete template">
+    <PageReference>ISW146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Athletics">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW75</PageReference>
+    </Child>
+    <Child ReferenceText="Terran">
+      <PageReference>ISW53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Atmospheric taints">
+    <PageReference>ISW125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attorney template">
+    <PageReference>ISW147</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Awareness">
+    <PageReference>ISW135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bannerjee-class 400-dton system defense boat">
+    <PageReference>ISW210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barnard’s Star">
+    <PageReference>ISW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barren (Ice) world">
+    <PageReference>ISW96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barren (Rock) world">
+    <PageReference>ISW96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic trade system">
+    <PageReference>ISW178</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle of Three Suns">
+    <PageReference>ISW40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bawapab language">
+    <PageReference>ISW134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Behmer Aktiengesellschaft">
+    <PageReference>ISW67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Belter template">
+    <PageReference>ISW148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biographies">
+    <PageReference>ISW41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biotechnology">
+    <PageReference>ISW160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Birth">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW72</PageReference>
+    </Child>
+    <Child ReferenceText="Terran">
+      <PageReference>ISW50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Black-flag Terrans">
+    <PageReference>ISW24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blue helmet">
+    <PageReference>ISW21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Branch routes">
+    <PageReference>ISW177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breakout">
+    <PageReference>ISW31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bridge systems">
+    <PageReference>ISW172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bureau of Colonization">
+    <PageReference>ISW66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bureaucrat template">
+    <PageReference>ISW148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bwaps">
+    <PageReference>ISW82</PageReference>
+    <Child ReferenceText="racial template">
+      <PageReference>ISW144</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <PageReference>ISW228</PageReference>
+    <SeeAlso>ds</SeeAlso>
+    <SeeAlso>234</SeeAlso>
+    <Child ReferenceText="alternative">
+      <PageReference>ISW232</PageReference>
+    </Child>
+    <Child ReferenceText="goals">
+      <PageReference>ISW230</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Capella subsector">
+    <PageReference>ISW118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Capitalist template">
+    <PageReference>ISW148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Careers">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW73</PageReference>
+    </Child>
+    <Child ReferenceText="Terran">
+      <PageReference>ISW51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cash on Delivery adventure seed">
+    <PageReference>ISW237</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Caste government type">
+    <PageReference>ISW99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Celestial bodies (in combat)">
+    <PageReference>ISW225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Challenges to Imperial rule">
+    <PageReference>ISW30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Character packages">
+    <Child ReferenceText="campaign">
+      <PageReference>ISW231</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <PageReference>ISW133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chauvinism">
+    <PageReference>ISW72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Childhood">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW72</PageReference>
+    </Child>
+    <Child ReferenceText="Terran">
+      <PageReference>ISW50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chrysolite">
+    <PageReference>ISW118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Civil affairs">
+    <PageReference>ISW64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Civilian control">
+    <PageReference>ISW54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clan/Tribal government type">
+    <PageReference>ISW99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Class system">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW73</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical Investment advantage">
+    <PageReference>ISW134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor disadvantage">
+    <PageReference>ISW135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Collectivism">
+    <PageReference>ISW70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colonial administration">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW56</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Colonial expansion">
+    <PageReference>ISW29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colonist template">
+    <PageReference>ISW149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Colonization campaign">
+    <PageReference>ISW234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat rounds">
+    <PageReference>ISW219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Commerce Raiding campaign">
+    <PageReference>ISW232</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Common ships">
+    <PageReference>ISW201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Communications gear">
+    <PageReference>ISW162</PageReference>
+    <Child ReferenceText="systems">
+      <PageReference>ISW172</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer Hacking skill">
+    <PageReference>ISW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computer Programming skill">
+    <PageReference>ISW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <Child ReferenceText="systems">
+      <PageReference>ISW172</PageReference>
+    </Child>
+    <Child ReferenceText="personal">
+      <PageReference>ISW162</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Conservatism">
+    <PageReference>ISW69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Consolidation Wars">
+    <PageReference>ISW15</PageReference>
+    <PageReference>ISW18</PageReference>
+    <PageReference>ISW29</PageReference>
+    <PageReference>ISW72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Consumables and extras">
+    <PageReference>ISW201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact era">
+    <PageReference>ISW24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contact procedures">
+    <PageReference>ISW184</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Convergent evolution">
+    <PageReference>ISW13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Convoy escort">
+    <PageReference>ISW60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corporate merchant fleets">
+    <PageReference>ISW66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corporate Official job">
+    <PageReference>ISW157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corporate State government type">
+    <PageReference>ISW99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corporations">
+    <Child ReferenceText="major">
+      <PageReference>ISW67</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Corrosive atmosphere">
+    <PageReference>ISW97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmopolitanism">
+    <PageReference>ISW9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost of living">
+    <PageReference>ISW143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Courtesy rank">
+    <PageReference>ISW143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Covert operations">
+    <PageReference>ISW176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crockett-class 100-dton picket ship">
+    <PageReference>ISW203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Familiarity advantage">
+    <PageReference>ISW134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Culture">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW74</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Curious disadvantage">
+    <PageReference>ISW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cybernetics">
+    <PageReference>ISW160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage control phase (in combat)">
+    <PageReference>ISW225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Darmine">
+    <PageReference>ISW39</PageReference>
+    <PageReference>ISW40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deck plans">
+    <Child ReferenceText="Gashiddaclass 400-dton Imperial patrol cruiser">
+      <PageReference>ISW212</PageReference>
+    </Child>
+    <Child ReferenceText="Hero-class 200-dton private merchant">
+      <PageReference>ISW207</PageReference>
+    </Child>
+    <Child ReferenceText="Lightning-class 400-dton frontier merchant">
+      <PageReference>ISW209</PageReference>
+    </Child>
+    <Child ReferenceText="Crockett-class 100-dton picket ship">
+      <PageReference>ISW204</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Decline of the nation-state">
+    <PageReference>ISW8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deep space jumps">
+    <PageReference>ISW171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Degen">
+    <Child ReferenceText="Josep">
+      <PageReference>ISW35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Describing Worlds">
+    <PageReference>ISW95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Desert (Ice) world">
+    <PageReference>ISW96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Desert (Rock) world">
+    <PageReference>ISW96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detection and communication phase (in combat)">
+    <PageReference>ISW221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dictatorship government type">
+    <PageReference>ISW99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dilettante template">
+    <PageReference>ISW149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dingir">
+    <PageReference>ISW35</PageReference>
+    <PageReference>ISW110</PageReference>
+    <Child ReferenceText="subsector">
+      <PageReference>ISW109</PageReference>
+      <PageReference>ISW229</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Diplomat template">
+    <PageReference>ISW150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Direct fire phase (in combat)">
+    <PageReference>ISW223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>ISW135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disciplines of Faith disadvantage">
+    <PageReference>ISW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dishaan">
+    <PageReference>ISW83</PageReference>
+    <Child ReferenceText="racial template">
+      <PageReference>ISW144</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Doctor template">
+    <PageReference>ISW150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Draft">
+    <Child ReferenceText="The">
+      <PageReference>ISW51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Droyne">
+    <PageReference>ISW85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dumushir regime">
+    <PageReference>ISW33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dumushir">
+    <Child ReferenceText="Kidarneri">
+      <PageReference>ISW34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Duty disadvantage">
+    <PageReference>ISW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duusirka subsector">
+    <PageReference>ISW105</PageReference>
+    <PageReference>ISW229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Education">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW72</PageReference>
+    </Child>
+    <Child ReferenceText="Terran">
+      <PageReference>ISW50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Efficiency">
+    <PageReference>ISW71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eighth Interstellar War">
+    <PageReference>ISW35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electronics">
+    <Child ReferenceText="Imperial">
+      <PageReference>ISW161</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ember">
+    <PageReference>ISW115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Empty Peace">
+    <PageReference>ISW7</PageReference>
+    <PageReference>ISW29</PageReference>
+    <Child ReferenceText="playing in">
+      <PageReference>ISW30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Endgame">
+    <Child ReferenceText="playing out">
+      <PageReference>ISW38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Entertainer template">
+    <PageReference>ISW150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Entertainment">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Environment">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Envoys">
+    <PageReference>ISW24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Erasharshi">
+    <Child ReferenceText="Kadur">
+      <PageReference>ISW27</PageReference>
+      <PageReference>ISW31</PageReference>
+      <PageReference>ISW44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="ESP">
+    <PageReference>ISW135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Espionage">
+    <PageReference>ISW234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Estigarribia">
+    <Child ReferenceText="Hiroshi">
+      <PageReference>ISW47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Evolution">
+    <Child ReferenceText="convergent">
+      <PageReference>ISW13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Expeditionary forces">
+    <PageReference>ISW61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exploration">
+    <PageReference>ISW233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Facing (in combat)">
+    <PageReference>ISW220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FarStar Association">
+    <PageReference>ISW67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feudal government type">
+    <PageReference>ISW99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feudalism">
+    <Child ReferenceText="corporate">
+      <PageReference>ISW13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fifth Interstellar War">
+    <PageReference>ISW32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Financing">
+    <PageReference>ISW174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="First colonies">
+    <PageReference>ISW21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="First contact">
+    <PageReference>ISW22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="First Imperium">
+    <PageReference>ISW4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="First Interstellar War">
+    <PageReference>ISW7</PageReference>
+    <PageReference>ISW25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fourth Interstellar War">
+    <PageReference>ISW30</PageReference>
+    <PageReference>ISW32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Free Traders Foundation">
+    <PageReference>ISW26</PageReference>
+    <Child ReferenceText="movement">
+      <PageReference>ISW26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Free Traders">
+    <PageReference>ISW66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gadgeteer advantage">
+    <PageReference>ISW134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Galaxy Map">
+    <PageReference>ISW100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Garden world">
+    <PageReference>ISW96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gargarin">
+    <Child ReferenceText="Yuri">
+      <PageReference>ISW21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gashidda">
+    <PageReference>ISW36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gashidda-class 400-dton Imperial patrol cruiser">
+    <PageReference>ISW211</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="G-carriers">
+    <PageReference>ISW168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <Child ReferenceText="personal">
+      <PageReference>ISW162</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gemini subsector">
+    <PageReference>ISW120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gender roles">
+    <PageReference>ISW133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="General Assembly">
+    <Child ReferenceText="Terran Confederation">
+      <PageReference>ISW54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Generating worlds">
+    <PageReference>ISW121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Generation ships">
+    <PageReference>ISW22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Geonee">
+    <PageReference>ISW39</PageReference>
+    <PageReference>ISW40</PageReference>
+    <PageReference>ISW84</PageReference>
+    <Child ReferenceText="language">
+      <PageReference>ISW134</PageReference>
+    </Child>
+    <Child ReferenceText="racial template">
+      <PageReference>ISW144</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Glacier world">
+    <PageReference>ISW96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goals">
+    <Child ReferenceText="campaign">
+      <PageReference>ISW230</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Government Official job">
+    <PageReference>ISW157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Governors">
+    <PageReference>ISW78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grand Tour campaign seed">
+    <PageReference>ISW235</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grav modules">
+    <PageReference>ISW22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great Ministers of the Four Quarters">
+    <PageReference>ISW78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Great Schism">
+    <PageReference>ISW38</PageReference>
+    <PageReference>ISW40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Green badge">
+    <PageReference>ISW119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greenhouse world">
+    <PageReference>ISW96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ground forces">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ground warfare">
+    <PageReference>ISW232</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunner skill">
+    <PageReference>ISW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunnery modifiers (in combat)">
+    <PageReference>ISW227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hardrada-class 800-dton commerce raider">
+    <PageReference>ISW213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Harmonious Repose-class 200-dton yacht">
+    <PageReference>ISW208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hasegawa Limited">
+    <PageReference>ISW67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hasegawa">
+    <Child ReferenceText="Yukio">
+      <PageReference>ISW43</PageReference>
+      <PageReference>ISW66</PageReference>
+      <PageReference>ISW67</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hellenic Industries Limited">
+    <PageReference>ISW67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hero-class 200-dton private merchant">
+    <PageReference>ISW206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hierarchy">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="High Frontier Development Consortium">
+    <PageReference>ISW68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High TL advantage">
+    <PageReference>ISW134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High Vilani">
+    <PageReference>ISW15</PageReference>
+    <Child ReferenceText="language">
+      <PageReference>ISW134</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hill and Masterson">
+    <PageReference>ISW68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Home rule">
+    <PageReference>ISW131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Honesty disadvantage">
+    <PageReference>ISW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Human origins">
+    <PageReference>ISW13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Igsiirdi">
+    <PageReference>ISW77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iiken-class 100-dton scout/courier">
+    <PageReference>ISW205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iilike">
+    <PageReference>ISW34</PageReference>
+    <PageReference>ISW35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iinu">
+    <PageReference>ISW104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imperial 10-dton missile fighter">
+    <PageReference>ISW201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imperial-kimashargur allegiance">
+    <PageReference>ISW98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imperial Terra">
+    <PageReference>ISW37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imperial-Vegan allegiance">
+    <PageReference>ISW98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imperium">
+    <PageReference>ISW69</PageReference>
+    <Child ReferenceText="administration">
+      <PageReference>ISW78</PageReference>
+    </Child>
+    <Child ReferenceText="allegiance">
+      <PageReference>ISW98</PageReference>
+    </Child>
+    <Child ReferenceText="Client State allegiance">
+      <PageReference>ISW98</PageReference>
+    </Child>
+    <Child ReferenceText="Code of Honor">
+      <PageReference>ISW135</PageReference>
+    </Child>
+    <Child ReferenceText="collapse">
+      <PageReference>ISW39</PageReference>
+    </Child>
+    <Child ReferenceText="hierarchy">
+      <PageReference>ISW78</PageReference>
+    </Child>
+    <Child ReferenceText="military rank">
+      <PageReference>ISW140</PageReference>
+    </Child>
+    <Child ReferenceText="society">
+      <PageReference>ISW15</PageReference>
+    </Child>
+    <Child ReferenceText="status">
+      <PageReference>ISW137</PageReference>
+    </Child>
+    <Child ReferenceText="surrender">
+      <PageReference>ISW40</PageReference>
+    </Child>
+    <Child ReferenceText="technology">
+      <PageReference>ISW160</PageReference>
+    </Child>
+    <Child ReferenceText="wealth">
+      <PageReference>ISW142</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Imperium boardgame">
+    <PageReference>ISW4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Indomitable-class 30">
+    <Child ReferenceText="000-dton battleship">
+      <PageReference>ISW217</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Inferno">
+    <PageReference>ISW120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interface operations">
+    <PageReference>ISW170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="International affairs">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Interplanetary travel">
+    <PageReference>ISW173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interstellar exploration">
+    <PageReference>ISW182</PageReference>
+    <Child ReferenceText="trade">
+      <PageReference>ISW177</PageReference>
+    </Child>
+    <Child ReferenceText="travel">
+      <PageReference>ISW174</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intolerance disadvantage">
+    <PageReference>ISW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jobs">
+    <PageReference>ISW157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Journalist template">
+    <PageReference>ISW151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jump drive">
+    <PageReference>ISW22</PageReference>
+    <PageReference>ISW169</PageReference>
+    <Child ReferenceText="mishaps">
+      <PageReference>ISW171</PageReference>
+    </Child>
+    <Child ReferenceText="operations">
+      <PageReference>ISW171</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Junction">
+    <PageReference>ISW114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kaareshur">
+    <PageReference>ISW103</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kargash-class 2">
+    <Child ReferenceText="000-dton Imperial light cruiser">
+      <PageReference>ISW216</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Karl Marx-class 1">
+    <Child ReferenceText="000-dton heavy free trader">
+      <PageReference>ISW214</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kaufmann Sternenschiffbau AG">
+    <PageReference>ISW68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Khugi">
+    <Child ReferenceText="Sharrukin">
+      <PageReference>ISW42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Known universe">
+    <PageReference>ISW95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kovacs">
+    <Child ReferenceText="Arpad">
+      <PageReference>ISW39</PageReference>
+      <PageReference>ISW46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kushuggi">
+    <PageReference>ISW18</PageReference>
+    <Child ReferenceText="sector">
+      <PageReference>ISW13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Languages advantage">
+    <PageReference>ISW134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Launch and docking phase (in combat)">
+    <PageReference>ISW224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legacy of War campaign seed">
+    <PageReference>ISW236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legal Immunity advantage">
+    <PageReference>ISW134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legion of the Frontier">
+    <PageReference>ISW94</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leisure">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Life support systems">
+    <PageReference>ISW173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lightning-class 400-dton frontier merchant">
+    <PageReference>ISW208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Likushan">
+    <Child ReferenceText="Shana">
+      <PageReference>ISW24</PageReference>
+      <PageReference>ISW42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Liriinan">
+    <PageReference>ISW102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Longevity">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW75</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Long-range exploration">
+    <PageReference>ISW62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low TL disadvantage">
+    <PageReference>ISW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low Vilani">
+    <PageReference>ISW15</PageReference>
+    <PageReference>ISW73</PageReference>
+    <Child ReferenceText="language">
+      <PageReference>ISW134</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Main Fleets campaign">
+    <PageReference>ISW232</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Major nation-states">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW56</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Major routes">
+    <PageReference>ISW177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maneuver drives">
+    <PageReference>ISW169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maneuver phase (in combat)">
+    <PageReference>ISW221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mapping a subsector">
+    <PageReference>ISW121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marine Corps">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Marine template">
+    <PageReference>ISW151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marines">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW91</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Markhashi">
+    <PageReference>ISW35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Masterminds of Terra campaign seed">
+    <PageReference>ISW236</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical Equipment">
+    <PageReference>ISW165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchant organization">
+    <PageReference>ISW66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchant rank">
+    <PageReference>ISW141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchant types">
+    <PageReference>ISW65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mesa">
+    <PageReference>ISW119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meshan">
+    <PageReference>ISW110</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meson cannon">
+    <PageReference>ISW36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military occupation">
+    <PageReference>ISW65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military police">
+    <PageReference>ISW64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military rank">
+    <PageReference>ISW139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miniphant">
+    <PageReference>ISW52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minor routes">
+    <PageReference>ISW177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mirabilis">
+    <PageReference>ISW29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Miracle drugs”">
+    <PageReference>ISW166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Misexit">
+    <PageReference>ISW171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Misjump">
+    <PageReference>ISW172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Movement phase (in combat)">
+    <PageReference>ISW222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Muan Gwi">
+    <PageReference>ISW105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Muan Issler">
+    <PageReference>ISW106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Muan Kwoyen">
+    <PageReference>ISW37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mutual assimilation">
+    <PageReference>ISW12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanotechnology">
+    <PageReference>ISW161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="National governments">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="National sovereignty">
+    <PageReference>ISW8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nation-state">
+    <Child ReferenceText="decline of">
+      <PageReference>ISW8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Naval bases">
+    <PageReference>ISW59</PageReference>
+    <PageReference>ISW129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naval rank">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW90</PageReference>
+      <PageReference>ISW141</PageReference>
+    </Child>
+    <Child ReferenceText="Terran">
+      <PageReference>ISW140</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Naval strategy">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW92</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Navigation skill">
+    <PageReference>ISW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Navy">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW57</PageReference>
+      <PageReference>ISW89</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Neodog">
+    <PageReference>ISW52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New millennium">
+    <PageReference>ISW19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New York">
+    <Child ReferenceText="Treaty of">
+      <PageReference>ISW20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninth Interstellar War">
+    <PageReference>ISW36</PageReference>
+    <PageReference>ISW37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Non-aligned allegiance">
+    <PageReference>ISW98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Novotny Factoring">
+    <PageReference>ISW68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nugiiri">
+    <PageReference>ISW85</PageReference>
+    <Child ReferenceText="racial template">
+      <PageReference>ISW145</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nusku">
+    <PageReference>ISW12</PageReference>
+    <PageReference>ISW29</PageReference>
+    <PageReference>ISW30</PageReference>
+    <PageReference>ISW33</PageReference>
+    <PageReference>ISW35</PageReference>
+    <PageReference>ISW112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occupation campaign">
+    <PageReference>ISW233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occupational templates">
+    <PageReference>ISW146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occupied worlds">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Official history">
+    <PageReference>ISW19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Opening moves">
+    <PageReference>ISW24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Operations">
+    <Child ReferenceText="Terran army">
+      <PageReference>ISW65</PageReference>
+      <PageReference>ISW59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Organic toxins">
+    <PageReference>ISW125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Organization">
+    <Child ReferenceText="Terran army">
+      <PageReference>ISW63</PageReference>
+      <PageReference>ISW58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Outback region">
+    <PageReference>ISW32</PageReference>
+    <PageReference>ISW120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Overconfidence disadvantage">
+    <PageReference>ISW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oynprith language">
+    <PageReference>ISW134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parsec">
+    <PageReference>ISW95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peacekeeping">
+    <PageReference>ISW8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peraspera">
+    <PageReference>ISW115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Per-capita income">
+    <PageReference>ISW132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Personal gear">
+    <PageReference>ISW162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Petty emperors">
+    <PageReference>ISW78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pharmaceuticals">
+    <PageReference>ISW160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phidippides-class 200-dton fast courier">
+    <PageReference>ISW205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Philosophy skill">
+    <PageReference>ISW137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phoenix expeditions">
+    <PageReference>ISW57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Piloting skill">
+    <PageReference>ISW137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Placing populations">
+    <PageReference>ISW127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Placing worlds">
+    <PageReference>ISW121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plagues">
+    <PageReference>ISW30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planetary defense">
+    <PageReference>ISW65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planetary invasion">
+    <PageReference>ISW65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planetary-defense army">
+    <PageReference>ISW64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Point defense and missile fire phase (in combat)">
+    <PageReference>ISW224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Point totals">
+    <PageReference>ISW133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Policeman template">
+    <PageReference>ISW152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Political organization">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW53</PageReference>
+      <PageReference>ISW76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Political parties">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Politician template">
+    <PageReference>ISW152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pollutants">
+    <PageReference>ISW125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Population categories">
+    <PageReference>ISW127</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Populations">
+    <Child ReferenceText="placing">
+      <PageReference>ISW127</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power projection">
+    <PageReference>ISW59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Precedent">
+    <PageReference>ISW76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pre-Garden world">
+    <PageReference>ISW96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Procyon">
+    <PageReference>ISW32</PageReference>
+    <PageReference>ISW35</PageReference>
+    <PageReference>ISW114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Progress">
+    <Child ReferenceText="technological">
+      <PageReference>ISW9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Prometheus">
+    <PageReference>ISW10</PageReference>
+    <PageReference>ISW29</PageReference>
+    <PageReference>ISW114</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prosthetics">
+    <PageReference>ISW160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Protective gear">
+    <PageReference>ISW162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Provincial governors">
+    <PageReference>ISW78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionics">
+    <PageReference>ISW135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychokinesis">
+    <PageReference>ISW135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychology">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW69</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Public service">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Racial templates">
+    <PageReference>ISW143</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ramming modifiers (in combat)">
+    <PageReference>ISW227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Redwing Express">
+    <Child ReferenceText="Incorporated">
+      <PageReference>ISW68</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious rank">
+    <PageReference>ISW141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Representative Democracy government type">
+    <PageReference>ISW99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retirement">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Richtofen-class 400-dton missile corvette">
+    <PageReference>ISW210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rim Province">
+    <PageReference>ISW13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rogue template">
+    <PageReference>ISW153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saris-Yenisei bridge">
+    <PageReference>ISW120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Savoir-Faire skill">
+    <PageReference>ISW137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scientist job">
+    <PageReference>ISW158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scientist template">
+    <PageReference>ISW154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrounger job">
+    <PageReference>ISW158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Second Interstellar War">
+    <PageReference>ISW27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secretariat">
+    <Child ReferenceText="Terran Confederation">
+      <PageReference>ISW54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Secretary-General">
+    <Child ReferenceText="Terran Confederation">
+      <PageReference>ISW53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensor modifiers (in combat)">
+    <PageReference>ISW227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensors">
+    <Child ReferenceText="systems">
+      <PageReference>ISW172</PageReference>
+    </Child>
+    <Child ReferenceText="personal">
+      <PageReference>ISW167</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sequence of action">
+    <PageReference>ISW220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Settlement patterns">
+    <Child ReferenceText="Vilani">
+      <PageReference>ISW79</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Seventh Interstellar War">
+    <PageReference>ISW34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadow Emperor">
+    <PageReference>ISW36</PageReference>
+    <PageReference>ISW76</PageReference>
+    <PageReference>ISW78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shamshir-class 1">
+    <Child ReferenceText="000-dton Imperial destroyer escort">
+      <PageReference>ISW215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharrukin clan">
+    <PageReference>ISW41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharrukin">
+    <Child ReferenceText="Arashir">
+      <PageReference>ISW34-37</PageReference>
+      <PageReference>ISW42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharrukin">
+    <Child ReferenceText="Eneri">
+      <PageReference>ISW33</PageReference>
+      <PageReference>ISW41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharrukin">
+    <Child ReferenceText="Khugi">
+      <PageReference>ISW34</PageReference>
+      <PageReference>ISW37</PageReference>
+      <PageReference>ISW38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharrukin">
+    <Child ReferenceText="Ushan">
+      <PageReference>ISW41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharurshid standard 10">
+    <Child ReferenceText="000-dton line freighter">
+      <PageReference>ISW217</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharurshid standard 2">
+    <Child ReferenceText="000-dton branch freighter">
+      <PageReference>ISW216</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharurshid standard 2">
+    <Child ReferenceText="000-dton passenger liner">
+      <PageReference>ISW216</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shiphandling skill">
+    <PageReference>ISW137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shulgiasu">
+    <PageReference>ISW107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shulimik">
+    <PageReference>ISW34</PageReference>
+    <PageReference>ISW35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shululsish">
+    <PageReference>ISW102</PageReference>
+    <Child ReferenceText="subsector">
+      <PageReference>ISW101</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shuruppak">
+    <PageReference>ISW33</PageReference>
+    <PageReference>ISW35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Siege mentality">
+    <PageReference>ISW53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Siege of Terra">
+    <PageReference>ISW27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sionnach">
+    <PageReference>ISW116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sirius">
+    <PageReference>ISW111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sixth Interstellar War">
+    <PageReference>ISW33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>ISW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smutny Associates">
+    <PageReference>ISW68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Regard advantage">
+    <PageReference>ISW134</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma disadvantage">
+    <PageReference>ISW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social unrest">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sol">
+    <PageReference>ISW114</PageReference>
+    <Child ReferenceText="subsector">
+      <PageReference>ISW112</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Soldier job">
+    <PageReference>ISW158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soldier template">
+    <PageReference>ISW154</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special rules (in combat)">
+    <PageReference>ISW225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speculative trade">
+    <PageReference>ISW178</PageReference>
+    <Child ReferenceText="system">
+      <PageReference>ISW180</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Speeders">
+    <PageReference>ISW168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spy template">
+    <PageReference>ISW155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standard 100-dton interplanetary shuttle">
+    <PageReference>ISW203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standard 10-dton lifeboat">
+    <PageReference>ISW202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standard 20-dton assault craft">
+    <PageReference>ISW202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standard 30-dton ship’s boat">
+    <PageReference>ISW202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standard atmosphere">
+    <PageReference>ISW97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standards of living">
+    <Child ReferenceText="Terran">
+      <PageReference>ISW49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="StarLeaper One">
+    <PageReference>ISW23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="StarLeaper-class 1">
+    <Child ReferenceText="000-dton exploration vessel">
+      <PageReference>ISW214</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Starship Bridge Officer template">
+    <PageReference>ISW155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starship Commander template">
+    <PageReference>ISW156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starship Crewman job">
+    <PageReference>ISW158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starship Deckhand template">
+    <PageReference>ISW156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starship Engineer template">
+    <PageReference>ISW157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starships">
+    <PageReference>ISW169</PageReference>
+    <Child ReferenceText="combat">
+      <PageReference>ISW219</PageReference>
+    </Child>
+    <Child ReferenceText="costs">
+      <PageReference>ISW174</PageReference>
+    </Child>
+    <Child ReferenceText="design">
+      <PageReference>ISW187</PageReference>
+    </Child>
+    <Child ReferenceText="operations">
+      <PageReference>ISW173</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Status">
+    <PageReference>ISW137</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strider">
+    <Child ReferenceText="Lorette">
+      <PageReference>ISW43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Subgiant world">
+    <PageReference>ISW96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subject races">
+    <PageReference>ISW80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sublight interstellar travel">
+    <PageReference>ISW174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suerrat">
+    <PageReference>ISW39</PageReference>
+    <PageReference>ISW40</PageReference>
+    <PageReference>ISW86</PageReference>
+    <Child ReferenceText="language">
+      <PageReference>ISW134</PageReference>
+    </Child>
+    <Child ReferenceText="racial template">
+      <PageReference>ISW145</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Suffocating atmosphere">
+    <PageReference>ISW97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supreme governors">
+    <PageReference>ISW78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Survey operations">
+    <PageReference>ISW182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival gear">
+    <PageReference>ISW167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Susceptible disadvantage">
+    <PageReference>ISW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suspended animation">
+    <PageReference>ISW166</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="System defense">
+    <PageReference>ISW60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="System survey">
+    <PageReference>ISW62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactical combat system">
+    <PageReference>ISW219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tainted atmosphere">
+    <PageReference>ISW97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talent advantage">
+    <PageReference>ISW135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technological progress">
+    <PageReference>ISW9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technology">
+    <PageReference>ISW159</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telepathy">
+    <PageReference>ISW135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teleportation">
+    <PageReference>ISW135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terra">
+    <PageReference>ISW48</PageReference>
+    <Child ReferenceText="administrative rank">
+      <PageReference>ISW138</PageReference>
+    </Child>
+    <Child ReferenceText="allegiance">
+      <PageReference>ISW98</PageReference>
+    </Child>
+    <Child ReferenceText="and colonists">
+      <PageReference>ISW40</PageReference>
+    </Child>
+    <Child ReferenceText="architecture">
+      <PageReference>ISW52</PageReference>
+    </Child>
+    <Child ReferenceText="athletics">
+      <PageReference>ISW53</PageReference>
+    </Child>
+    <Child ReferenceText="birth and childhood">
+      <PageReference>ISW50</PageReference>
+    </Child>
+    <Child ReferenceText="careers">
+      <PageReference>ISW51</PageReference>
+    </Child>
+    <Child ReferenceText="Client State allegiance">
+      <PageReference>ISW98</PageReference>
+    </Child>
+    <Child ReferenceText="colonial administration">
+      <PageReference>ISW56</PageReference>
+    </Child>
+    <Child ReferenceText="colonies">
+      <PageReference>ISW10</PageReference>
+    </Child>
+    <Child ReferenceText="conquest">
+      <PageReference>ISW10</PageReference>
+    </Child>
+    <Child ReferenceText="counteroffensive">
+      <PageReference>ISW28</PageReference>
+    </Child>
+    <Child ReferenceText="discontents">
+      <PageReference>ISW233</PageReference>
+    </Child>
+    <Child ReferenceText="education">
+      <PageReference>ISW50</PageReference>
+    </Child>
+    <Child ReferenceText="entertainment">
+      <PageReference>ISW52</PageReference>
+    </Child>
+    <Child ReferenceText="environment">
+      <PageReference>ISW48</PageReference>
+    </Child>
+    <Child ReferenceText="free traders campaign">
+      <PageReference>ISW229</PageReference>
+    </Child>
+    <Child ReferenceText="ground forces">
+      <PageReference>ISW62</PageReference>
+    </Child>
+    <Child ReferenceText="ground tactics">
+      <PageReference>ISW65</PageReference>
+    </Child>
+    <Child ReferenceText="international affairs">
+      <PageReference>ISW49</PageReference>
+    </Child>
+    <Child ReferenceText="leisure">
+      <PageReference>ISW52</PageReference>
+    </Child>
+    <Child ReferenceText="major nation-states">
+      <PageReference>ISW56</PageReference>
+    </Child>
+    <Child ReferenceText="Marine corps">
+      <PageReference>ISW59</PageReference>
+    </Child>
+    <Child ReferenceText="merchant marine">
+      <PageReference>ISW65</PageReference>
+    </Child>
+    <Child ReferenceText="military rank">
+      <PageReference>ISW139</PageReference>
+    </Child>
+    <Child ReferenceText="national governments">
+      <PageReference>ISW55</PageReference>
+    </Child>
+    <Child ReferenceText="naval tactics">
+      <PageReference>ISW61</PageReference>
+    </Child>
+    <Child ReferenceText="navy">
+      <PageReference>ISW57</PageReference>
+    </Child>
+    <Child ReferenceText="neighborhood">
+      <PageReference>ISW101</PageReference>
+    </Child>
+    <Child ReferenceText="occupied worlds">
+      <PageReference>ISW57</PageReference>
+    </Child>
+    <Child ReferenceText="political organization">
+      <PageReference>ISW53</PageReference>
+    </Child>
+    <Child ReferenceText="political parties">
+      <PageReference>ISW55</PageReference>
+    </Child>
+    <Child ReferenceText="public service">
+      <PageReference>ISW51</PageReference>
+    </Child>
+    <Child ReferenceText="religious rank">
+      <PageReference>ISW141</PageReference>
+    </Child>
+    <Child ReferenceText="retirement">
+      <PageReference>ISW51</PageReference>
+    </Child>
+    <Child ReferenceText="social unrest">
+      <PageReference>ISW49</PageReference>
+    </Child>
+    <Child ReferenceText="standards of living">
+      <PageReference>ISW49</PageReference>
+    </Child>
+    <Child ReferenceText="Starport Authority">
+      <PageReference>ISW68</PageReference>
+    </Child>
+    <Child ReferenceText="status">
+      <PageReference>ISW137</PageReference>
+    </Child>
+    <Child ReferenceText="strategy">
+      <PageReference>ISW60</PageReference>
+    </Child>
+    <Child ReferenceText="technology">
+      <PageReference>ISW159</PageReference>
+    </Child>
+    <Child ReferenceText="wealth">
+      <PageReference>ISW142</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Terran 10-dton light fighter">
+    <PageReference>ISW202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terran Confederation">
+    <PageReference>ISW7</PageReference>
+    <PageReference>ISW8</PageReference>
+    <PageReference>ISW38</PageReference>
+    <PageReference>ISW40</PageReference>
+    <PageReference>ISW53</PageReference>
+    <Child ReferenceText="agencies">
+      <PageReference>ISW55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Terran-Vilani allegiance">
+    <PageReference>ISW98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thalassa">
+    <PageReference>ISW117</PageReference>
+    <Child ReferenceText="subsector">
+      <PageReference>ISW116</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Theocracy government type">
+    <PageReference>ISW99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Third Imperium">
+    <PageReference>ISW4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Third Interstellar War">
+    <PageReference>ISW27</PageReference>
+    <PageReference>ISW28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Topornin/Rostovtzeff">
+    <PageReference>ISW68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toxic atmosphere">
+    <PageReference>ISW97</PageReference>
+    <Child ReferenceText="organic">
+      <PageReference>ISW125</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trade routes">
+    <PageReference>ISW177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel times">
+    <PageReference>ISW173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treaty of Ensulur">
+    <PageReference>ISW36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Treaty of New York">
+    <PageReference>ISW20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tunguska">
+    <PageReference>ISW119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Underkings">
+    <PageReference>ISW78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unexplored planets">
+    <PageReference>ISW116</PageReference>
+    <PageReference>ISW119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="United Nations Space Coordination Agency">
+    <PageReference>ISW21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="United Nations">
+    <PageReference>ISW7</PageReference>
+    <PageReference>ISW19</PageReference>
+    <PageReference>ISW53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="United Worlds Organization">
+    <PageReference>ISW26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="UNSCA">
+    <PageReference>ISW21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unskilled Laborer job">
+    <PageReference>ISW158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uplift">
+    <PageReference>ISW52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Urima subsector">
+    <PageReference>ISW103</PageReference>
+    <PageReference>ISW229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ushiin">
+    <PageReference>ISW104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vegans">
+    <PageReference>ISW35</PageReference>
+    <PageReference>ISW36</PageReference>
+    <PageReference>ISW88</PageReference>
+    <Child ReferenceText="allegiance">
+      <PageReference>ISW98</PageReference>
+    </Child>
+    <Child ReferenceText="language">
+      <PageReference>ISW134</PageReference>
+    </Child>
+    <Child ReferenceText="Polity">
+      <PageReference>ISW18</PageReference>
+      <PageReference>ISW36</PageReference>
+    </Child>
+    <Child ReferenceText="racial template">
+      <PageReference>ISW145</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <PageReference>ISW168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vilani">
+    <PageReference>ISW69</PageReference>
+    <Child ReferenceText="administrative rank">
+      <PageReference>ISW138</PageReference>
+    </Child>
+    <Child ReferenceText="and glory">
+      <PageReference>ISW89</PageReference>
+    </Child>
+    <Child ReferenceText="architecture">
+      <PageReference>ISW75</PageReference>
+    </Child>
+    <Child ReferenceText="aristocracy">
+      <PageReference>ISW23</PageReference>
+    </Child>
+    <Child ReferenceText="army">
+      <PageReference>ISW93</PageReference>
+    </Child>
+    <Child ReferenceText="army rank">
+      <PageReference>ISW93</PageReference>
+    </Child>
+    <Child ReferenceText="athletics">
+      <PageReference>ISW75</PageReference>
+    </Child>
+    <Child ReferenceText="birth">
+      <PageReference>ISW72</PageReference>
+    </Child>
+    <Child ReferenceText="campaign">
+      <PageReference>ISW234</PageReference>
+    </Child>
+    <Child ReferenceText="careers">
+      <PageReference>ISW73</PageReference>
+    </Child>
+    <Child ReferenceText="childhood">
+      <PageReference>ISW72</PageReference>
+    </Child>
+    <Child ReferenceText="class system">
+      <PageReference>ISW73</PageReference>
+    </Child>
+    <Child ReferenceText="culture">
+      <PageReference>ISW74</PageReference>
+    </Child>
+    <Child ReferenceText="dissidents">
+      <PageReference>ISW76</PageReference>
+    </Child>
+    <Child ReferenceText="education">
+      <PageReference>ISW72</PageReference>
+    </Child>
+    <Child ReferenceText="exploration">
+      <PageReference>ISW17</PageReference>
+    </Child>
+    <Child ReferenceText="hero">
+      <PageReference>ISW71</PageReference>
+    </Child>
+    <Child ReferenceText="Imperial administration">
+      <PageReference>ISW78</PageReference>
+    </Child>
+    <Child ReferenceText="Imperial hierarchy">
+      <PageReference>ISW78</PageReference>
+    </Child>
+    <Child ReferenceText="Imperium">
+      <PageReference>ISW12</PageReference>
+      <PageReference>ISW76</PageReference>
+    </Child>
+    <Child ReferenceText="longevity">
+      <PageReference>ISW75</PageReference>
+    </Child>
+    <Child ReferenceText="marines">
+      <PageReference>ISW91</PageReference>
+    </Child>
+    <Child ReferenceText="military">
+      <PageReference>ISW89</PageReference>
+    </Child>
+    <Child ReferenceText="naval rank">
+      <PageReference>ISW90</PageReference>
+    </Child>
+    <Child ReferenceText="naval strategy">
+      <PageReference>ISW92</PageReference>
+    </Child>
+    <Child ReferenceText="navy">
+      <PageReference>ISW89</PageReference>
+    </Child>
+    <Child ReferenceText="political organization">
+      <PageReference>ISW76</PageReference>
+    </Child>
+    <Child ReferenceText="psychology">
+      <PageReference>ISW69</PageReference>
+    </Child>
+    <Child ReferenceText="racial template">
+      <PageReference>ISW146</PageReference>
+    </Child>
+    <Child ReferenceText="religious rank">
+      <PageReference>ISW142</PageReference>
+    </Child>
+    <Child ReferenceText="secret societies">
+      <PageReference>ISW76</PageReference>
+    </Child>
+    <Child ReferenceText="settlement patterns">
+      <PageReference>ISW79</PageReference>
+    </Child>
+    <Child ReferenceText="way of life">
+      <PageReference>ISW72</PageReference>
+    </Child>
+    <Child ReferenceText="way of war">
+      <PageReference>ISW89</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vostok I">
+    <PageReference>ISW21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth">
+    <PageReference>ISW142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons (personal)">
+    <PageReference>ISW167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Workaholic disadvantage">
+    <PageReference>ISW136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="World types">
+    <PageReference>ISW96</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Worlds">
+    <Child ReferenceText="placing">
+      <PageReference>ISW121</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Yangila">
+    <Child ReferenceText="Sharik">
+      <PageReference>ISW30-33</PageReference>
+      <PageReference>ISW45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Zheng He-class 800-dton survey vessel">
+    <PageReference>ISW211</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

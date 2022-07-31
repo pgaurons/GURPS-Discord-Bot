@@ -1,0 +1,721 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Acceleration bonus">
+    <PageReference>SS54-56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acceleration">
+    <PageReference>SS5</PageReference>
+    <PageReference>SS6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accuracy">
+    <PageReference>SS5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantaged status">
+    <PageReference>SS55</PageReference>
+    <PageReference>SS57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Air performance">
+    <PageReference>SS35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Airlocks">
+    <PageReference>SS10</PageReference>
+    <PageReference>SS41-42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambush">
+    <PageReference>SS48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammunition">
+    <PageReference>SS47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antimatter">
+    <PageReference>SS20</PageReference>
+    <PageReference>SS23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>SS10-13</PageReference>
+    <PageReference>SS29-30</PageReference>
+    <Child ReferenceText="indestructible">
+      <PageReference>SS29-30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificial gravity">
+    <PageReference>SS29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Atmospheres">
+    <PageReference>SS30</PageReference>
+    <PageReference>SS40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attaching to ships">
+    <PageReference>SS15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attack vector">
+    <PageReference>SS55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attacks">
+    <PageReference>SS57-60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Automation">
+    <PageReference>SS29</PageReference>
+    <SeeAlso>Workspaces</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bearing">
+    <PageReference>SS57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boarding">
+    <PageReference>SS41-44</PageReference>
+    <PageReference>SS65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Booster stage">
+    <PageReference>SS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breaches">
+    <PageReference>SS43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cargo">
+    <PageReference>SS13</PageReference>
+    <PageReference>SS43-44</PageReference>
+    <Child ReferenceText="bay doors">
+      <PageReference>SS43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Casualties">
+    <PageReference>SS62-63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloaking device">
+    <PageReference>SS13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Closing maneuver">
+    <PageReference>SS55-56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Collisions">
+    <PageReference>SS55</PageReference>
+    <PageReference>SS61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat scale">
+    <PageReference>SS48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Comm/sensor arrays">
+    <PageReference>SS14-15</PageReference>
+    <PageReference>SS33</PageReference>
+    <PageReference>SS44-46</PageReference>
+    <PageReference>SS52-53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Command">
+    <PageReference>SS50-51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <PageReference>SS14</PageReference>
+    <PageReference>SS31</PageReference>
+    <PageReference>SS44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contragravity lifter">
+    <PageReference>SS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Control room">
+    <PageReference>SS14</PageReference>
+    <PageReference>SS33</PageReference>
+    <PageReference>SS51</PageReference>
+    <Child ReferenceText="control stations">
+      <PageReference>SS51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Controlled drift">
+    <PageReference>SS56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cosmic power">
+    <PageReference>SS31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost">
+    <PageReference>SS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crew 6">
+    <PageReference>SS10</PageReference>
+    <PageReference>SS29</PageReference>
+    <PageReference>SS33-34</PageReference>
+    <Child ReferenceText="automation and">
+      <PageReference>SS29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage">
+    <PageReference>SS60</PageReference>
+    <PageReference>SS61</PageReference>
+    <Child ReferenceText="resistance">
+      <PageReference>SS61</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Decade scale">
+    <PageReference>SS5</PageReference>
+    <PageReference>SS10-13</PageReference>
+    <PageReference>SS16</PageReference>
+    <PageReference>SS66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defensive ECM">
+    <PageReference>SS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delta-V">
+    <PageReference>SS6</PageReference>
+    <PageReference>SS21</PageReference>
+    <PageReference>SS37</PageReference>
+    <PageReference>SS49</PageReference>
+    <PageReference>SS54-55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Design features">
+    <PageReference>SS29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Destruction">
+    <PageReference>SS61-62</PageReference>
+    <Child ReferenceText="systems">
+      <PageReference>SS62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Detection">
+    <PageReference>SS45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disabled systems">
+    <PageReference>SS62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distances in combat">
+    <PageReference>SS48-49</PageReference>
+    <PageReference>SS55-57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Docking">
+    <PageReference>SS42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dodge">
+    <PageReference>SS60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drift">
+    <PageReference>SS56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emergency power">
+    <PageReference>SS52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Emergency thrust">
+    <PageReference>SS52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Encounter distance">
+    <PageReference>SS48-49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Encounter velocity">
+    <PageReference>SS49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Engine room">
+    <PageReference>SS15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Engineering">
+    <PageReference>SS51-52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Escape">
+    <PageReference>SS65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evasive action">
+    <PageReference>SS56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosions">
+    <PageReference>SS59</PageReference>
+    <PageReference>SS62-63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exposed systems">
+    <PageReference>SS66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="External clamp">
+    <PageReference>SS15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FTL travel">
+    <PageReference>SS40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Facing">
+    <PageReference>SS55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Factory">
+    <PageReference>SS16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast passes">
+    <PageReference>SS49</PageReference>
+    <PageReference>SS54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fixed mount">
+    <PageReference>SS57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <PageReference>SS47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Force screen">
+    <PageReference>SS16</PageReference>
+    <PageReference>SS31-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Formation">
+    <PageReference>SS65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Free equipment">
+    <PageReference>SS10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Freefall skill">
+    <PageReference>SS63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fuel">
+    <PageReference>SS17</PageReference>
+    <PageReference>SS33</PageReference>
+    <PageReference>SS46-47</PageReference>
+    <Child ReferenceText="fuel tanks">
+      <PageReference>SS17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravity systems">
+    <PageReference>SS29-30</PageReference>
+    <PageReference>SS33</PageReference>
+    <Child ReferenceText="gravitic compensators">
+      <PageReference>SS29</PageReference>
+    </Child>
+    <Child ReferenceText="pseudo-velocity">
+      <PageReference>SS33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ground fire">
+    <PageReference>SS65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Habitat">
+    <PageReference>SS17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hangar bay">
+    <PageReference>SS18</PageReference>
+    <PageReference>SS43</PageReference>
+    <Child ReferenceText="bay doors">
+      <PageReference>SS43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit Points">
+    <Child ReferenceText="negative">
+      <PageReference>SS61-62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit locations">
+    <PageReference>SS5</PageReference>
+    <PageReference>SS61</PageReference>
+    <PageReference>SS66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holding course">
+    <PageReference>SS56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Huge ships">
+    <PageReference>SS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hull breaches">
+    <PageReference>SS43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hull sections">
+    <PageReference>SS5</PageReference>
+    <PageReference>SS8-9</PageReference>
+    <PageReference>SS58</PageReference>
+    <PageReference>SS61</PageReference>
+    <Child ReferenceText="restrictions">
+      <PageReference>SS9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyperdrive">
+    <PageReference>SS40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jet engine">
+    <PageReference>SS19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jump drive">
+    <PageReference>SS41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jump gate">
+    <PageReference>SS19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Landing">
+    <PageReference>SS40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leadership">
+    <PageReference>SS50-51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Life support">
+    <PageReference>SS17</PageReference>
+    <PageReference>SS46-47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lightsails">
+    <PageReference>SS39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magsails">
+    <PageReference>SS39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maneuver drives">
+    <PageReference>SS36-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maneuvers">
+    <PageReference>SS53</PageReference>
+    <PageReference>SS55-56</PageReference>
+    <PageReference>SS65</PageReference>
+    <Child ReferenceText="modifiers">
+      <PageReference>SS55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Midnight Sun-class ship">
+    <PageReference>SS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mining equipment">
+    <PageReference>SS19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Movement on the ship">
+    <PageReference>SS63-64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-purpose systems">
+    <PageReference>SS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-tasking">
+    <PageReference>SS50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Multiple targets">
+    <PageReference>SS58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NMP propulsion">
+    <PageReference>SS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Navigation">
+    <PageReference>SS52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occupancy">
+    <PageReference>SS6</PageReference>
+    <PageReference>SS17</PageReference>
+    <PageReference>SS35</PageReference>
+    <PageReference>SS46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Open areas">
+    <PageReference>SS19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orbit">
+    <Child ReferenceText="getting to">
+      <PageReference>SS37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Orbital shuttle">
+    <PageReference>SS7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Passage tubes">
+    <PageReference>SS42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Passengers">
+    <PageReference>SS20</PageReference>
+    <PageReference>SS34</PageReference>
+    <Child ReferenceText="seating">
+      <PageReference>SS20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Performance">
+    <PageReference>SS34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Piloting">
+    <PageReference>SS53</PageReference>
+    <PageReference>SS55-56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Point Defense">
+    <PageReference>SS53</PageReference>
+    <PageReference>SS59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Points">
+    <PageReference>SS6</PageReference>
+    <PageReference>SS9-10</PageReference>
+    <PageReference>SS20</PageReference>
+    <PageReference>SS25</PageReference>
+    <PageReference>SS31</PageReference>
+    <PageReference>SS51-52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power plants">
+    <PageReference>SS20</PageReference>
+    <PageReference>SS46-47</PageReference>
+    <Child ReferenceText="fuel">
+      <PageReference>SS46-47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Precision attacks">
+    <PageReference>SS66</PageReference>
+    <SeeAlso>Hit Locations</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiation damage">
+    <PageReference>SS63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radiators">
+    <PageReference>SS31</PageReference>
+    <PageReference>SS65-66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ram rockets">
+    <PageReference>SS30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ramscoop">
+    <PageReference>SS21</PageReference>
+    <PageReference>SS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Range">
+    <PageReference>SS48-49</PageReference>
+    <PageReference>SS55-57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rate of fire">
+    <PageReference>SS57-59</PageReference>
+    <Child ReferenceText="rapid fire">
+      <PageReference>SS59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction engines">
+    <PageReference>SS21-24</PageReference>
+    <PageReference>SS37-38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction mass">
+    <PageReference>SS46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reactionless engines">
+    <PageReference>SS24</PageReference>
+    <PageReference>SS38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reactionless stardrive">
+    <PageReference>SS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reconfigurable systems">
+    <PageReference>SS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Refinery equipment">
+    <PageReference>SS19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Relative velocity">
+    <PageReference>SS59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Repair">
+    <PageReference>SS10</PageReference>
+    <PageReference>SS18</PageReference>
+    <PageReference>SS46</PageReference>
+    <PageReference>SS64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rescue">
+    <PageReference>SS64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retreating">
+    <PageReference>SS56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robot arm">
+    <PageReference>SS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scaling">
+    <PageReference>SS5</PageReference>
+    <SeeAlso>Decade Scale</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensors">
+    <PageReference>SS44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Setting design switches">
+    <PageReference>SS31-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Singularity drive">
+    <PageReference>SS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Size modifier">
+    <PageReference>SS6</PageReference>
+    <PageReference>SS8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Small ships">
+    <PageReference>SS65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soft-landing system">
+    <PageReference>SS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Solar panels">
+    <PageReference>SS25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Space sails">
+    <PageReference>SS25</PageReference>
+    <PageReference>SS39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spin gravity">
+    <PageReference>SS30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spinal battery">
+    <PageReference>SS57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Star Flower-class ship">
+    <PageReference>SS6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stardrives">
+    <PageReference>SS25</PageReference>
+    <PageReference>SS40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stasis web">
+    <PageReference>SS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Statistics">
+    <PageReference>SS5-6</PageReference>
+    <PageReference>SS8</PageReference>
+    <PageReference>SS34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stealth">
+    <PageReference>SS30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Streamlined">
+    <PageReference>SS9-10</PageReference>
+    <PageReference>SS30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surge damage">
+    <PageReference>SS63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surprise">
+    <PageReference>SS48-49</PageReference>
+    <PageReference>SS51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Systems">
+    <PageReference>SS5</PageReference>
+    <PageReference>SS9-10</PageReference>
+    <PageReference>SS24</PageReference>
+    <Child ReferenceText="reconfigurable">
+      <PageReference>SS24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactics">
+    <PageReference>SS51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tasks">
+    <PageReference>SS50-54</PageReference>
+    <Child ReferenceText="command">
+      <PageReference>SS50-51</PageReference>
+    </Child>
+    <Child ReferenceText="communication">
+      <PageReference>SS53-54</PageReference>
+    </Child>
+    <Child ReferenceText="damage control">
+      <PageReference>SS54</PageReference>
+    </Child>
+    <Child ReferenceText="engineering">
+      <PageReference>SS51-52</PageReference>
+    </Child>
+    <Child ReferenceText="gunnery">
+      <PageReference>SS53</PageReference>
+    </Child>
+    <Child ReferenceText="navigation">
+      <PageReference>SS52</PageReference>
+    </Child>
+    <Child ReferenceText="NPC">
+      <PageReference>SS54</PageReference>
+    </Child>
+    <Child ReferenceText="piloting">
+      <PageReference>SS53</PageReference>
+    </Child>
+    <Child ReferenceText="pre-battle">
+      <PageReference>SS51</PageReference>
+    </Child>
+    <Child ReferenceText="sensory">
+      <PageReference>SS52-53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Teleport projector">
+    <PageReference>SS18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Total energy conversion">
+    <PageReference>SS20</PageReference>
+    <PageReference>SS23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Towing">
+    <PageReference>SS15</PageReference>
+    <PageReference>SS66</PageReference>
+    <Child ReferenceText="tractor beams">
+      <PageReference>SS66</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tramp freighter">
+    <PageReference>SS6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel">
+    <PageReference>SS36-38</PageReference>
+    <Child ReferenceText="distances">
+      <PageReference>SS36</PageReference>
+    </Child>
+    <Child ReferenceText="Solar System">
+      <PageReference>SS37</PageReference>
+    </Child>
+    <Child ReferenceText="transfer orbits">
+      <PageReference>SS38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel time">
+    <PageReference>SS38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turn length">
+    <PageReference>SS48-50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uncontrolled drift">
+    <PageReference>SS56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Upper stage">
+    <PageReference>SS7</PageReference>
+    <PageReference>SS26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicle performance">
+    <PageReference>SS25</PageReference>
+    <PageReference>SS34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicle statistics">
+    <PageReference>SS5-6</PageReference>
+    <PageReference>SS8</PageReference>
+    <PageReference>SS34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Volatile systems">
+    <PageReference>SS62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warheads">
+    <PageReference>SS61</PageReference>
+    <PageReference>SS68</PageReference>
+    <Child ReferenceText="conventional">
+      <PageReference>SS61</PageReference>
+    </Child>
+    <Child ReferenceText="nuclear and antimatter">
+      <PageReference>SS68</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Warp drive">
+    <PageReference>SS41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth">
+    <PageReference>SS34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>SS26-29</PageReference>
+    <PageReference>SS31</PageReference>
+    <PageReference>SS33</PageReference>
+    <PageReference>SS57-61</PageReference>
+    <PageReference>SS67-68</PageReference>
+    <Child ReferenceText="ballistic">
+      <PageReference>SS28-29</PageReference>
+      <PageReference>SS59-61</PageReference>
+      <PageReference>SS68</PageReference>
+    </Child>
+    <Child ReferenceText="beam">
+      <PageReference>SS28</PageReference>
+      <PageReference>SS31</PageReference>
+      <PageReference>SS33</PageReference>
+      <PageReference>SS58</PageReference>
+      <PageReference>SS60</PageReference>
+      <PageReference>SS67</PageReference>
+    </Child>
+    <Child ReferenceText="launcher">
+      <PageReference>SS29</PageReference>
+      <PageReference>SS68</PageReference>
+    </Child>
+    <Child ReferenceText="tables">
+      <PageReference>SS67-68</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>SS28</PageReference>
+    </Child>
+    <Child ReferenceText="firing">
+      <PageReference>SS57-60</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wings">
+    <PageReference>SS30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Workspaces">
+    <PageReference>SS10</PageReference>
+    <PageReference>SS29</PageReference>
+    <PageReference>SS33</PageReference>
+    <SeeAlso>Automation</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Wormholes">
+    <PageReference>SS41</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

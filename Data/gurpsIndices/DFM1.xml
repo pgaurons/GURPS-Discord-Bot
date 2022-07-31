@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="new">
+      <PageReference>DFM1:35-36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <Child ReferenceText="giant">
+      <PageReference>DFM1:16</PageReference>
+    </Child>
+    <Child ReferenceText="mundane">
+      <PageReference>DFM1:21</PageReference>
+      <PageReference>DFM1:22</PageReference>
+    </Child>
+    <Child ReferenceText="dire">
+      <PageReference>DFM1:13</PageReference>
+      <PageReference>DFM1:17</PageReference>
+      <PageReference>DFM1:20</PageReference>
+      <PageReference>DFM1:26</PageReference>
+      <PageReference>DFM1:27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Arms">
+    <Child ReferenceText="independent">
+      <PageReference>DFM1:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Berserker monster prefix">
+    <PageReference>DFM1:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breath attacks">
+    <Child ReferenceText="variants">
+      <PageReference>DFM1:26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cestus">
+    <PageReference>DFM1:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chain weapons">
+    <Child ReferenceText="tricks">
+      <PageReference>DFM1:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chaos monster prefix">
+    <PageReference>DFM1:36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Constructs">
+    <PageReference>DFM1:5</PageReference>
+    <PageReference>DFM1:8</PageReference>
+    <PageReference>DFM1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Reduction advantage">
+    <PageReference>DFM1:35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demons">
+    <Child ReferenceText="monsters classed as">
+      <PageReference>DFM1:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Detachable Hand enhancement">
+    <PageReference>DFM1:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Determined monster prefix">
+    <PageReference>DFM1:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dinomobs">
+    <PageReference>DFM1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dire animals">
+    <PageReference>DFM1:13</PageReference>
+    <PageReference>DFM1:17</PageReference>
+    <PageReference>DFM1:20</PageReference>
+    <PageReference>DFM1:26</PageReference>
+    <PageReference>DFM1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distorted monster prefix">
+    <PageReference>DFM1:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine servitors">
+    <PageReference>DFM1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeons">
+    <Child ReferenceText="theme">
+      <PageReference>DFM1:37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder Things">
+    <PageReference>DFM1:9</PageReference>
+    <PageReference>DFM1:14</PageReference>
+    <PageReference>DFM1:28</PageReference>
+    <PageReference>DFM1:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental">
+    <Child ReferenceText="monsters">
+      <PageReference>DFM1:15</PageReference>
+    </Child>
+    <Child ReferenceText="monster prefix">
+      <PageReference>DFM1:37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhancements">
+    <Child ReferenceText="new">
+      <PageReference>DFM1:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Faeries">
+    <Child ReferenceText="monsters classed as">
+      <PageReference>DFM1:29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Feet">
+    <Child ReferenceText="independent">
+      <PageReference>DFM1:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flame lord template">
+    <PageReference>DFM1:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghostly monster prefix">
+    <PageReference>DFM1:37-38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>DFM1:4</PageReference>
+    <Child ReferenceText="Basic Set">
+      <PageReference>DFM1:35</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>DFM1:3</PageReference>
+      <PageReference>DFM1:35</PageReference>
+      <PageReference>DFM1:37</PageReference>
+      <PageReference>DFM1:39</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DFM1:8-10</PageReference>
+      <PageReference>DFM1:35</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 2: Dungeons">
+      <PageReference>DFM1:3-5</PageReference>
+      <PageReference>DFM1:8</PageReference>
+      <PageReference>DFM1:9</PageReference>
+      <PageReference>DFM1:11</PageReference>
+      <PageReference>DFM1:15</PageReference>
+      <PageReference>DFM1:17</PageReference>
+      <PageReference>DFM1:18</PageReference>
+      <PageReference>DFM1:21</PageReference>
+      <PageReference>DFM1:30</PageReference>
+      <PageReference>DFM1:25</PageReference>
+      <PageReference>DFM1:38-40</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DFM1:3</PageReference>
+      <PageReference>DFM1:19</PageReference>
+      <PageReference>DFM1:23</PageReference>
+      <PageReference>DFM1:24</PageReference>
+      <PageReference>DFM1:26</PageReference>
+      <PageReference>DFM1:33</PageReference>
+      <PageReference>DFM1:35</PageReference>
+      <PageReference>DFM1:40</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 5: Allies">
+      <PageReference>DFM1:3</PageReference>
+      <PageReference>DFM1:4</PageReference>
+      <PageReference>DFM1:39</PageReference>
+      <PageReference>DFM1:40</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 6: 40 Artifacts">
+      <PageReference>DFM1:3</PageReference>
+      <PageReference>DFM1:40</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 8: Treasure Tables">
+      <PageReference>DFM1:37</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 9: Summoners">
+      <PageReference>DFM1:3</PageReference>
+      <PageReference>DFM1:4</PageReference>
+      <PageReference>DFM1:23</PageReference>
+      <PageReference>DFM1:30</PageReference>
+      <PageReference>DFM1:39</PageReference>
+      <PageReference>DFM1:40</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 10: Taverns">
+      <PageReference>DFM1:3</PageReference>
+      <PageReference>DFM1:40</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 11: Power-Ups">
+      <PageReference>DFM1:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hands">
+    <Child ReferenceText="independent">
+      <PageReference>DFM1:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Independent Body Parts advantage">
+    <PageReference>DFM1:35-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Instant Reattachment enhancement">
+    <PageReference>DFM1:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Juggernaut monster prefix">
+    <PageReference>DFM1:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lairs">
+    <PageReference>DFM1:4</PageReference>
+    <PageReference>DFM1:6</PageReference>
+    <PageReference>DFM1:18</PageReference>
+    <PageReference>DFM1:20</PageReference>
+    <PageReference>DFM1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legs">
+    <Child ReferenceText="independent">
+      <PageReference>DFM1:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Limitations">
+    <Child ReferenceText="new">
+      <PageReference>DFM1:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mindwarpers">
+    <Child ReferenceText="minions of">
+      <PageReference>DFM1:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <SeeAlso>specific classes</SeeAlso>
+    <Child ReferenceText="boss">
+      <PageReference>DFM1:38</PageReference>
+    </Child>
+    <Child ReferenceText="classes">
+      <PageReference>DFM1:4</PageReference>
+    </Child>
+    <Child ReferenceText="prefixes">
+      <PageReference>DFM1:36-38</PageReference>
+    </Child>
+    <Child ReferenceText="suggested boss">
+      <PageReference>DFM1:7</PageReference>
+      <PageReference>DFM1:13</PageReference>
+      <PageReference>DFM1:16</PageReference>
+      <PageReference>DFM1:20</PageReference>
+      <PageReference>DFM1:23</PageReference>
+      <PageReference>DFM1:34</PageReference>
+    </Child>
+    <Child ReferenceText="suggested fodder">
+      <PageReference>DFM1:8</PageReference>
+      <PageReference>DFM1:11</PageReference>
+      <PageReference>DFM1:17</PageReference>
+      <PageReference>DFM1:18</PageReference>
+      <PageReference>DFM1:22</PageReference>
+    </Child>
+    <Child ReferenceText="altering standard">
+      <PageReference>DFM1:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mundane">
+    <Child ReferenceText="animals">
+      <PageReference>DFM1:21</PageReference>
+      <PageReference>DFM1:22</PageReference>
+    </Child>
+    <Child ReferenceText="giant animals">
+      <PageReference>DFM1:16</PageReference>
+    </Child>
+    <Child ReferenceText="monsters classed as">
+      <PageReference>DFM1:6</PageReference>
+      <PageReference>DFM1:11</PageReference>
+      <PageReference>DFM1:18</PageReference>
+      <PageReference>DFM1:25</PageReference>
+      <PageReference>DFM1:30</PageReference>
+      <PageReference>DFM1:31</PageReference>
+      <PageReference>DFM1:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="No Reattachment limitation">
+    <PageReference>DFM1:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Possessed monster prefix">
+    <PageReference>DFM1:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psycho Killer monster prefix">
+    <PageReference>DFM1:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ravenous monster prefix">
+    <PageReference>DFM1:38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reattachment Only limitation">
+    <PageReference>DFM1:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sickles">
+    <PageReference>DFM1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slimes">
+    <Child ReferenceText="monsters classed as">
+      <PageReference>DFM1:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slorn riders">
+    <PageReference>DFM1:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slughemoth">
+    <PageReference>DFM1:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spell list">
+    <Child ReferenceText="Demons From Between the Stars">
+      <PageReference>DFM1:9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Teclá">
+    <PageReference>DFM1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <Child ReferenceText="throttler">
+      <PageReference>DFM1:30</PageReference>
+    </Child>
+    <Child ReferenceText="flame lord">
+      <PageReference>DFM1:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Theme dungeons">
+    <PageReference>DFM1:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throttler template">
+    <PageReference>DFM1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps">
+    <Child ReferenceText="monster as">
+      <PageReference>DFM1:19</PageReference>
+      <PageReference>DFM1:22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Treasure">
+    <Child ReferenceText="monster-specific">
+      <PageReference>DFM1:6</PageReference>
+      <PageReference>DFM1:12</PageReference>
+      <PageReference>DFM1:18</PageReference>
+      <PageReference>DFM1:31</PageReference>
+    </Child>
+    <Child ReferenceText="tips">
+      <PageReference>DFM1:4</PageReference>
+      <PageReference>DFM1:37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead">
+    <Child ReferenceText="monsters classed as">
+      <PageReference>DFM1:12</PageReference>
+      <PageReference>DFM1:19</PageReference>
+      <PageReference>DFM1:23</PageReference>
+      <PageReference>DFM1:32</PageReference>
+    </Child>
+    <Child ReferenceText="monster prefix">
+      <PageReference>DFM1:38</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

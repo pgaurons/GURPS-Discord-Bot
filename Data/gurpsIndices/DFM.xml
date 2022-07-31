@@ -1,0 +1,964 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Adventurers">
+    <Child ReferenceText="useful traits">
+      <PageReference>DFM4-6</PageReference>
+    </Child>
+    <Child ReferenceText="Resurrection restrictions">
+      <PageReference>DFM49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal class">
+    <PageReference>DFM14</PageReference>
+    <SeeAlso>Dire Animal Class</SeeAlso>
+    <SeeAlso>Giant Animal Class</SeeAlso>
+    <Child ReferenceText="examples">
+      <PageReference>DFM16-17</PageReference>
+      <PageReference>DFM39-41</PageReference>
+      <PageReference>DFM56</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animals">
+    <SeeAlso>Animal Class</SeeAlso>
+    <SeeAlso>Dire Animal Class</SeeAlso>
+    <SeeAlso>Giant Animal Class</SeeAlso>
+    <SeeAlso>Hybrid Class</SeeAlso>
+    <Child ReferenceText="dealing with">
+      <PageReference>DFM6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Arc of vision">
+    <PageReference>DFM8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Classes">
+    <PageReference>DFM14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <PageReference>DFM6-7</PageReference>
+    <Child ReferenceText="army of monsters">
+      <PageReference>DFM7</PageReference>
+    </Child>
+    <Child ReferenceText="added armor and weapons">
+      <PageReference>DFM33</PageReference>
+    </Child>
+    <Child ReferenceText="avoiding">
+      <PageReference>DFM5</PageReference>
+    </Child>
+    <Child ReferenceText="body part as weapon">
+      <PageReference>DFM39</PageReference>
+    </Child>
+    <Child ReferenceText="boss tactics">
+      <PageReference>DFM7</PageReference>
+      <PageReference>DFM59</PageReference>
+    </Child>
+    <Child ReferenceText="corrosion attacks">
+      <PageReference>DFM50</PageReference>
+    </Child>
+    <Child ReferenceText="elemental attacks">
+      <PageReference>DFM16</PageReference>
+    </Child>
+    <Child ReferenceText="flying">
+      <PageReference>DFM27</PageReference>
+    </Child>
+    <Child ReferenceText="homeground advantage">
+      <PageReference>DFM6-7</PageReference>
+    </Child>
+    <Child ReferenceText="key rules">
+      <PageReference>DFM6</PageReference>
+    </Child>
+    <Child ReferenceText="multi-hex figures">
+      <PageReference>DFM7-8</PageReference>
+    </Child>
+    <Child ReferenceText="pack tactics">
+      <PageReference>DFM7</PageReference>
+    </Child>
+    <Child ReferenceText="prepared monsters">
+      <PageReference>DFM7</PageReference>
+    </Child>
+    <Child ReferenceText="reach">
+      <PageReference>DFM8</PageReference>
+    </Child>
+    <Child ReferenceText="touch attacks">
+      <PageReference>DFM53</PageReference>
+    </Child>
+    <Child ReferenceText="small-monster tactics">
+      <PageReference>DFM36</PageReference>
+    </Child>
+    <Child ReferenceText="swarm attacks">
+      <PageReference>DFM8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Construct class">
+    <PageReference>DFM14</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFM17-19</PageReference>
+      <PageReference>DFM35</PageReference>
+      <PageReference>DFM43-44</PageReference>
+      <PageReference>DFM54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Counters">
+    <PageReference>DFM7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Creating monsters">
+    <PageReference>DFM61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demon class">
+    <PageReference>DFM14</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFM16</PageReference>
+      <PageReference>DFM20</PageReference>
+      <PageReference>DFM21</PageReference>
+      <PageReference>DFM35-36</PageReference>
+      <PageReference>DFM45-46</PageReference>
+      <PageReference>DFM56-57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Diagram">
+    <Child ReferenceText="multi-hex figures">
+      <PageReference>DFM8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dire animal class">
+    <PageReference>DFM14</PageReference>
+    <SeeAlso>Animals</SeeAlso>
+    <Child ReferenceText="examples">
+      <PageReference>DFM16</PageReference>
+      <PageReference>DFM24</PageReference>
+      <PageReference>DFM27-28</PageReference>
+      <PageReference>DFM32-33</PageReference>
+      <PageReference>DFM37</PageReference>
+      <PageReference>DFM38</PageReference>
+      <PageReference>DFM49-50</PageReference>
+      <PageReference>DFM57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine servitor class">
+    <PageReference>DFM14</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>DFM18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dumb monsters">
+    <PageReference>DFM7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elder Thing class">
+    <PageReference>DFM14</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFM19-20</PageReference>
+      <PageReference>DFM26-27</PageReference>
+      <PageReference>DFM41-42</PageReference>
+      <PageReference>DFM51-52</PageReference>
+      <PageReference>DFM59-60</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental">
+    <Child ReferenceText="class">
+      <PageReference>DFM14</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>DFM24-26</PageReference>
+    </Child>
+    <Child ReferenceText="attacks">
+      <PageReference>DFM16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Exploiting weaknesses">
+    <PageReference>DFM4-5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faerie class">
+    <PageReference>DFM14</PageReference>
+    <Child ReferenceText="example">
+      <PageReference>DFM55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying">
+    <PageReference>DFM27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant animal class">
+    <PageReference>DFM14</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFM21</PageReference>
+      <PageReference>DFM30-32</PageReference>
+      <SeeAlso>Animals</SeeAlso>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GM preparation">
+    <PageReference>DFM3</PageReference>
+    <PageReference>DFM15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hybrid class">
+    <PageReference>DFM14</PageReference>
+    <SeeAlso>Animals</SeeAlso>
+    <Child ReferenceText="example">
+      <PageReference>DFM35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mold on other monsters">
+    <PageReference>DFM43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters as traps">
+    <PageReference>DFM37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Movement">
+    <PageReference>DFM8</PageReference>
+    <Child ReferenceText="flying">
+      <PageReference>DFM27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-hex figures">
+    <PageReference>DFM7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mundane class">
+    <PageReference>DFM14</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFM17</PageReference>
+      <PageReference>DFM20-23</PageReference>
+      <PageReference>DFM29-30</PageReference>
+      <PageReference>DFM33-36</PageReference>
+      <PageReference>DFM41</PageReference>
+      <PageReference>DFM42</PageReference>
+      <PageReference>DFM44</PageReference>
+      <PageReference>DFM47</PageReference>
+      <PageReference>DFM55-61</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Negotiation">
+    <PageReference>DFM5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plant class">
+    <PageReference>DFM14</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFM19</PageReference>
+      <PageReference>DFM28-29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Player knowledge">
+    <PageReference>DFM5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Possessed minions">
+    <PageReference>DFM59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic powers">
+    <PageReference>DFM59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reach">
+    <PageReference>DFM8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction penalty">
+    <PageReference>DFM5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reading stats">
+    <PageReference>DFM15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Recognition by adventurers">
+    <PageReference>DFM4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Record sheets">
+    <PageReference>DFM64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Size Modifier (SM)">
+    <PageReference>DFM7-8</PageReference>
+    <Child ReferenceText="reach and">
+      <PageReference>DFM8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slime class">
+    <PageReference>DFM14</PageReference>
+    <Child ReferenceText="examples">
+      <PageReference>DFM26</PageReference>
+      <PageReference>DFM38-39</PageReference>
+      <PageReference>DFM42-49</PageReference>
+      <PageReference>DFM52-53</PageReference>
+      <PageReference>DFM58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Speaking from Experience">
+    <PageReference>DFM6</PageReference>
+    <PageReference>DFM13</PageReference>
+    <PageReference>DFM21</PageReference>
+    <PageReference>DFM26</PageReference>
+    <PageReference>DFM29</PageReference>
+    <PageReference>DFM35</PageReference>
+    <PageReference>DFM41</PageReference>
+    <PageReference>DFM44</PageReference>
+    <PageReference>DFM46</PageReference>
+    <PageReference>DFM51</PageReference>
+    <PageReference>DFM57</PageReference>
+    <PageReference>DFM58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit class">
+    <PageReference>DFM14</PageReference>
+    <SeeAlso>Undead</SeeAlso>
+    <Child ReferenceText="example">
+      <PageReference>DFM52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Table">
+    <Child ReferenceText="counter sizes">
+      <PageReference>DFM8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactics">
+    <SeeAlso>Combat</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Trickery">
+    <PageReference>DFM5-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead">
+    <SeeAlso>Spirit Class</SeeAlso>
+    <Child ReferenceText="enhanced">
+      <PageReference>DFM40</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>DFM23-24</PageReference>
+      <PageReference>DFM27</PageReference>
+      <PageReference>DFM36-37</PageReference>
+      <PageReference>DFM40</PageReference>
+      <PageReference>DFM47-48</PageReference>
+      <PageReference>DFM50-51</PageReference>
+      <PageReference>DFM58-59</PageReference>
+      <PageReference>DFM62</PageReference>
+    </Child>
+    <Child ReferenceText="class">
+      <PageReference>DFM14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="360° Vision">
+    <PageReference>DFM9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Altered Time Rate">
+    <PageReference>DFM9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate Form">
+    <PageReference>DFM9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amphibious">
+    <PageReference>DFM9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arm ST">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brachiator">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cast-Iron Stomach">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catfall">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chameleon">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compartmentalized Mind">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Constriction Attack">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Resistance">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark Vision">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diffuse">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Discriminatory">
+    <Child ReferenceText="Taste">
+      <PageReference>DFM10</PageReference>
+    </Child>
+    <Child ReferenceText="Smell">
+      <PageReference>DFM10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Doesn’t Breathe">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doesn’t Eat or Drink">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doesn’t Sleep">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Move">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Time Sense">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Arms">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra-Flexible">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Heads">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Legs">
+    <PageReference>DFM10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Life">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flight">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gills">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Higher Purpose">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Homogeneous">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immunity">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Indomitable">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infectious Attack">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infravision">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury Reduction">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invisibility">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Limited Camouflage">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nictitating Membrane">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Blood">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Brain">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Eyes">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Head">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Neck">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Vitals">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure Support">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regeneration">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regrowth">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resist Good">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sealed">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensitive Touch">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silence">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Single-Minded">
+    <PageReference>DFM11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slippery">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sonar">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spider Climb">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Subsonic Hearing">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super Jump">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural Durability">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature Tolerance">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terrain Adaptation">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terror">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universal Digestion">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unkillable">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unliving">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vibration Sense">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aerial">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Automaton">
+    <PageReference>DFM12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad Grip">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad Smell">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle Rage">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brittle">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannot Float">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannot Learn">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cold-Blooded">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dependency">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disturbing Voice">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine Curse">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dread">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidebound">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horizontal">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Incurious">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invertebrate">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifebane">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mute">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Fine Manipulators">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Manipulators">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Sense of Smell/Taste">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Odious Racial Habit">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quadruped">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reprogrammable">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sadism">
+    <PageReference>DFM13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Semi-Upright">
+    <PageReference>DFM14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sessile">
+    <PageReference>DFM14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slave Mentality">
+    <PageReference>DFM14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slithers">
+    <PageReference>DFM14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uncontrollable Appetite">
+    <PageReference>DFM14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unhealing">
+    <PageReference>DFM14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unnatural">
+    <PageReference>DFM14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vermiform">
+    <PageReference>DFM14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vulnerability">
+    <PageReference>DFM14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weakness">
+    <PageReference>DFM14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild Animal">
+    <PageReference>DFM14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acid spider">
+    <PageReference>DFM16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ape">
+    <Child ReferenceText="giant">
+      <PageReference>DFM30</PageReference>
+    </Child>
+    <Child ReferenceText="gladiator">
+      <PageReference>DFM32-33</PageReference>
+    </Child>
+    <Child ReferenceText="flesh-eating">
+      <PageReference>DFM27-28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="as-Sharak">
+    <PageReference>DFM16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bat">
+    <Child ReferenceText="swarm">
+      <PageReference>DFM54-55</PageReference>
+    </Child>
+    <Child ReferenceText="foul">
+      <PageReference>DFM28</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bear">
+    <PageReference>DFM16-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bronze spider">
+    <PageReference>DFM17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bugbear">
+    <PageReference>DFM17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ciuaclá">
+    <PageReference>DFM18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Constrictor">
+    <Child ReferenceText="giant">
+      <PageReference>DFM31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Corpse golem">
+    <PageReference>DFM18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crushroom">
+    <PageReference>DFM19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demon from Between  the Stars">
+    <PageReference>DFM19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demon of Old">
+    <PageReference>DFM20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dinoman">
+    <PageReference>DFM20-21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dire wolf">
+    <PageReference>DFM21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doomchild">
+    <PageReference>DFM21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragon">
+    <PageReference>DFM21-23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Draug">
+    <PageReference>DFM23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electric jelly">
+    <PageReference>DFM24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elemental">
+    <PageReference>DFM24-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Erupting slime">
+    <PageReference>DFM26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eye of death">
+    <PageReference>DFM26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flaming skull">
+    <PageReference>DFM27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flesh-eating ape">
+    <PageReference>DFM27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foul bat">
+    <PageReference>DFM28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frost snake">
+    <PageReference>DFM28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fungus">
+    <PageReference>DFM28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gargoyle">
+    <PageReference>DFM29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost">
+    <PageReference>DFM50-51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant animals">
+    <PageReference>DFM30-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gladiator ape">
+    <PageReference>DFM32-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goblin">
+    <PageReference>DFM33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goblin-kin">
+    <PageReference>DFM33-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Golem">
+    <Child ReferenceText="swordsman">
+      <PageReference>DFM35</PageReference>
+    </Child>
+    <Child ReferenceText="stone">
+      <PageReference>DFM54</PageReference>
+    </Child>
+    <Child ReferenceText="corpse">
+      <PageReference>DFM18-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Golem-armor swordsman">
+    <PageReference>DFM35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gryphon">
+    <PageReference>DFM35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hellhound">
+    <PageReference>DFM35-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hobgoblin">
+    <PageReference>DFM34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horde pygmy">
+    <PageReference>DFM36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horde zombie">
+    <PageReference>DFM36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horrid skull">
+    <PageReference>DFM37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ice weasel">
+    <PageReference>DFM37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ice wyrm">
+    <PageReference>DFM38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jelly">
+    <PageReference>DFM38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Karkadann">
+    <PageReference>DFM39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leaping leech">
+    <PageReference>DFM40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lich">
+    <PageReference>DFM40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lion">
+    <PageReference>DFM40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lizard man">
+    <PageReference>DFM41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mindwarper">
+    <PageReference>DFM41-42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Minotaur">
+    <PageReference>DFM42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mold">
+    <PageReference>DFM42-43</PageReference>
+    <Child ReferenceText="on other monsters">
+      <PageReference>DFM43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Obsidian jaguar">
+    <PageReference>DFM43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ogre">
+    <PageReference>DFM44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ooze">
+    <PageReference>DFM44-45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orc">
+    <PageReference>DFM34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peshkali">
+    <PageReference>DFM45-46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pudding">
+    <PageReference>DFM46-47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rat">
+    <Child ReferenceText="swarm">
+      <PageReference>DFM54-55</PageReference>
+    </Child>
+    <Child ReferenceText="giant">
+      <PageReference>DFM30-31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rock mite">
+    <PageReference>DFM47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Siege beast">
+    <PageReference>DFM47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skeleton">
+    <PageReference>DFM47-48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skull">
+    <Child ReferenceText="horrid">
+      <PageReference>DFM37</PageReference>
+    </Child>
+    <Child ReferenceText="flaming">
+      <PageReference>DFM27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slime">
+    <PageReference>DFM48-49</PageReference>
+    <Child ReferenceText="erupting">
+      <PageReference>DFM26</PageReference>
+    </Child>
+    <Child ReferenceText="undead">
+      <PageReference>DFM58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slorn">
+    <PageReference>DFM49-50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slugbeast">
+    <PageReference>DFM50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snake">
+    <Child ReferenceText="swarm">
+      <PageReference>DFM54-55</PageReference>
+    </Child>
+    <Child ReferenceText="giant">
+      <PageReference>DFM31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Specter">
+    <PageReference>DFM50-51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sphere of madness">
+    <PageReference>DFM51-52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spider">
+    <Child ReferenceText="giant">
+      <PageReference>DFM31-32</PageReference>
+    </Child>
+    <Child ReferenceText="acid">
+      <PageReference>DFM16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit guardian">
+    <PageReference>DFM52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spore cloud">
+    <PageReference>DFM52-53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stone golem">
+    <PageReference>DFM54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swarms">
+    <PageReference>DFM54-55</PageReference>
+    <Child ReferenceText="attacks">
+      <PageReference>DFM8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sword spirit">
+    <PageReference>DFM55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throttler">
+    <PageReference>DFM55-56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiger">
+    <PageReference>DFM56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toxifier">
+    <PageReference>DFM56-57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Triger">
+    <Child ReferenceText="57 Troll">
+      <PageReference>DFM57-58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead slime">
+    <PageReference>DFM58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampire">
+    <PageReference>DFM58-59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Viper">
+    <Child ReferenceText="giant">
+      <PageReference>DFM31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Void brute">
+    <PageReference>DFM59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Watcher at the edge of time">
+    <PageReference>DFM59-60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Werewolf">
+    <PageReference>DFM60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildman">
+    <PageReference>DFM60-61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombie">
+    <PageReference>DFM62</PageReference>
+    <Child ReferenceText="horde">
+      <PageReference>DFM36-37</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

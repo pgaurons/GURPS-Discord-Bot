@@ -1,0 +1,1228 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Acid spider">
+    <PageReference>DF2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatics skill">
+    <PageReference>DF2:7-8</PageReference>
+    <PageReference>DF2:12</PageReference>
+    <PageReference>DF2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acting skill">
+    <PageReference>DF2:10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acute Taste and Smell">
+    <PageReference>DF2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acute Vision">
+    <PageReference>DF2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemy skill">
+    <PageReference>DF2:3</PageReference>
+    <PageReference>DF2:9</PageReference>
+    <PageReference>DF2:14</PageReference>
+    <PageReference>DF2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Analyze Magic">
+    <PageReference>DF2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal Handling skill">
+    <PageReference>DF2:10</PageReference>
+    <PageReference>DF2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance">
+    <PageReference>DF2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <PageReference>DF2:12</PageReference>
+    <Child ReferenceText="sleeping in">
+      <PageReference>DF2:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armoury skill">
+    <PageReference>DF2:3</PageReference>
+    <PageReference>DF2:14</PageReference>
+    <PageReference>DF2:19</PageReference>
+    <Child ReferenceText="Body Armor">
+      <PageReference>DF2:14</PageReference>
+    </Child>
+    <Child ReferenceText="Missile Weapons">
+      <PageReference>DF2:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artifacts">
+    <PageReference>DF2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="as-Sharak">
+    <PageReference>DF2:21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Athletics">
+    <PageReference>DF2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balancing encounters">
+    <PageReference>DF2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balancing parties">
+    <PageReference>DF2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Batchala">
+    <PageReference>DF2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boating skill">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body Sense skill">
+    <PageReference>DF2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boss fights">
+    <PageReference>DF2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breaking Blow skill">
+    <PageReference>DF2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camouflage skill">
+    <PageReference>DF2:5</PageReference>
+    <PageReference>DF2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camping">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Captivate skill">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carousing skill">
+    <PageReference>DF2:4</PageReference>
+    <PageReference>DF2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cartography skill">
+    <PageReference>DF2:6</PageReference>
+    <PageReference>DF2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charisma">
+    <PageReference>DF2:4</PageReference>
+    <PageReference>DF2:10</PageReference>
+    <PageReference>DF2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cheap gear">
+    <PageReference>DF2:3-4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clerical Investment">
+    <PageReference>DF2:3</PageReference>
+    <PageReference>DF2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Climbing skill">
+    <PageReference>DF2:7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <PageReference>DF2:10-12</PageReference>
+    <Child ReferenceText="inspirational leadership">
+      <PageReference>DF2:11</PageReference>
+    </Child>
+    <Child ReferenceText="support skills">
+      <PageReference>DF2:11-12</PageReference>
+    </Child>
+    <Child ReferenceText="taunting">
+      <PageReference>DF2:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Communicating">
+    <PageReference>DF2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Connoisseur skill">
+    <PageReference>DF2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Continual Light">
+    <PageReference>DF2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Counterfeiting skill">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminal record">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crushroom">
+    <PageReference>DF2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Adaptability">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cure Disease">
+    <PageReference>DF2:4</PageReference>
+    <PageReference>DF2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Current Affairs skill">
+    <PageReference>DF2:4</PageReference>
+    <PageReference>DF2:15</PageReference>
+    <PageReference>DF2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curses">
+    <PageReference>DF2:9</PageReference>
+    <PageReference>DF2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dancing skill">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Danger Sense">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Darkness">
+    <PageReference>DF2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect Lies skill">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detect Magic">
+    <PageReference>DF2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diagnosis skill">
+    <PageReference>DF2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diguise (Animals) skill">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diplomacy skill">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dire wolf">
+    <PageReference>DF2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disarming traps">
+    <PageReference>DF2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disguise skill">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dodge">
+    <PageReference>DF2:12</PageReference>
+    <PageReference>DF2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doomchild">
+    <PageReference>DF2:22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doors">
+    <PageReference>DF2:6-7</PageReference>
+    <PageReference>DF2:18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeons">
+    <PageReference>DF2:16-17</PageReference>
+    <PageReference>DF2:19-20</PageReference>
+    <PageReference>DF2:27</PageReference>
+    <Child ReferenceText="balancing">
+      <PageReference>DF2:27</PageReference>
+    </Child>
+    <Child ReferenceText="encounters">
+      <PageReference>DF2:20</PageReference>
+    </Child>
+    <Child ReferenceText="special features">
+      <PageReference>DF2:19</PageReference>
+    </Child>
+    <Child ReferenceText="types of">
+      <PageReference>DF2:16-17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Eidetic Memory">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Encounters">
+    <PageReference>DF2:20</PageReference>
+    <PageReference>DF2:27</PageReference>
+    <Child ReferenceText="balancing">
+      <PageReference>DF2:27</PageReference>
+    </Child>
+    <Child ReferenceText="types of">
+      <PageReference>DF2:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Erupting slime">
+    <PageReference>DF2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Escape skill">
+    <PageReference>DF2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Esoteric Medicine skill">
+    <PageReference>DF2:11</PageReference>
+    <PageReference>DF2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exorcism skill">
+    <PageReference>DF2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Falling damage">
+    <PageReference>DF2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Talk skill">
+    <PageReference>DF2:10</PageReference>
+    <PageReference>DF2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue loss">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Filch skill">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Finding traps">
+    <PageReference>DF2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="First Aid skill">
+    <PageReference>DF2:11</PageReference>
+    <PageReference>DF2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fishing skill">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flaming skull">
+    <PageReference>DF2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flesh-eating ape">
+    <PageReference>DF2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foraging">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forced Entry skill">
+    <PageReference>DF2:8</PageReference>
+    <PageReference>DF2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forgery skill">
+    <PageReference>DF2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foul bat">
+    <PageReference>DF2:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frost snake">
+    <PageReference>DF2:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gambling skill">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Game balance">
+    <PageReference>DF2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <Child ReferenceText="light sources">
+      <PageReference>DF2:6</PageReference>
+    </Child>
+    <Child ReferenceText="acquiring">
+      <PageReference>DF2:3-4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gesture skill">
+    <PageReference>DF2:7</PageReference>
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Getting caught">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant rat">
+    <PageReference>DF2:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glow">
+    <PageReference>DF2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Golem-armor swordsman">
+    <PageReference>DF2:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hazardous Materials skill">
+    <PageReference>DF2:9</PageReference>
+    <PageReference>DF2:13</PageReference>
+    <PageReference>DF2:19</PageReference>
+    <Child ReferenceText="Magical">
+      <PageReference>DF2:9</PageReference>
+      <PageReference>DF2:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hazards">
+    <PageReference>DF2:8</PageReference>
+    <PageReference>DF2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing">
+    <PageReference>DF2:11</PageReference>
+    <PageReference>DF2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heraldry skill">
+    <PageReference>DF2:9</PageReference>
+    <PageReference>DF2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden Lore skill">
+    <PageReference>DF2:9-10</PageReference>
+    <PageReference>DF2:14</PageReference>
+    <PageReference>DF2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High Manual Dexterity">
+    <PageReference>DF2:9</PageReference>
+    <PageReference>DF2:13</PageReference>
+    <PageReference>DF2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Higher Purpose">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hiking skill">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holdout skill">
+    <PageReference>DF2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holiness">
+    <PageReference>DF2:9</PageReference>
+    <PageReference>DF2:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horde zombie">
+    <PageReference>DF2:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypnotism skill">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infravision">
+    <PageReference>DF2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interrogation skill">
+    <PageReference>DF2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Intimidation skill">
+    <PageReference>DF2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumping skill">
+    <PageReference>DF2:7-8</PageReference>
+    <PageReference>DF2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knot-Tying skill">
+    <PageReference>DF2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Leadership skill">
+    <PageReference>DF2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifting skill">
+    <PageReference>DF2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifting ST">
+    <PageReference>DF2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light Jet">
+    <PageReference>DF2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light">
+    <PageReference>DF2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lip Reading skill">
+    <PageReference>DF2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lockpicking skill">
+    <PageReference>DF2:8</PageReference>
+    <PageReference>DF2:13</PageReference>
+    <PageReference>DF2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locks">
+    <PageReference>DF2:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loot">
+    <PageReference>DF2:13-15</PageReference>
+    <PageReference>DF2:28-29</PageReference>
+    <Child ReferenceText="getting a good price">
+      <PageReference>DF2:14</PageReference>
+    </Child>
+    <Child ReferenceText="how much?">
+      <PageReference>DF2:29</PageReference>
+    </Child>
+    <Child ReferenceText="splitting">
+      <PageReference>DF2:14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mage Sight">
+    <PageReference>DF2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mapping">
+    <PageReference>DF2:6</PageReference>
+    <PageReference>DF2:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marching order">
+    <PageReference>DF2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meals">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meditation skill">
+    <PageReference>DF2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchant skill">
+    <PageReference>DF2:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchants’ Guild">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mimicry skill">
+    <PageReference>DF2:7</PageReference>
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mindwarper">
+    <PageReference>DF2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Money">
+    <PageReference>DF2:3-5</PageReference>
+    <PageReference>DF2:14</PageReference>
+    <Child ReferenceText="extra">
+      <PageReference>DF2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <PageReference>DF2:9-10</PageReference>
+    <PageReference>DF2:13</PageReference>
+    <PageReference>DF2:18</PageReference>
+    <PageReference>DF2:21-27</PageReference>
+    <Child ReferenceText="balancing">
+      <PageReference>DF2:18</PageReference>
+      <PageReference>DF2:27</PageReference>
+    </Child>
+    <Child ReferenceText="exploiting weaknesses">
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="samples">
+      <PageReference>DF2:21-26</PageReference>
+    </Child>
+    <Child ReferenceText="valuable pieces of">
+      <PageReference>DF2:13</PageReference>
+    </Child>
+    <Child ReferenceText="weaknesses">
+      <PageReference>DF2:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical Composition skill">
+    <PageReference>DF2:4</PageReference>
+    <PageReference>DF2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical Influence skill">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Musical Instrument skill">
+    <PageReference>DF2:4</PageReference>
+    <PageReference>DF2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naturalist skill">
+    <PageReference>DF2:5</PageReference>
+    <PageReference>DF2:9</PageReference>
+    <PageReference>DF2:13</PageReference>
+    <PageReference>DF2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Navigation skill">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Negotiation">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neutralize Poison">
+    <PageReference>DF2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Observation skill">
+    <PageReference>DF2:5-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obstacles">
+    <PageReference>DF2:7-8</PageReference>
+    <PageReference>DF2:18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occultism skill">
+    <PageReference>DF2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Panhandling skill">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parkour">
+    <PageReference>DF2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parley">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Party order">
+    <PageReference>DF2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Penalties">
+    <PageReference>DF2:6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perception">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Performance skill">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Persuade skill">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peshkali">
+    <PageReference>DF2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pharmacy skill">
+    <PageReference>DF2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Physiology skill">
+    <PageReference>DF2:10</PageReference>
+    <PageReference>DF2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Picking locks">
+    <PageReference>DF2:8</PageReference>
+    <PageReference>DF2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pickpocket skill">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poetry skill">
+    <PageReference>DF2:4</PageReference>
+    <PageReference>DF2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisons skill">
+    <PageReference>DF2:3</PageReference>
+    <PageReference>DF2:9</PageReference>
+    <PageReference>DF2:12-13</PageReference>
+    <PageReference>DF2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Posting watch">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Blow skill">
+    <PageReference>DF2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Investiture">
+    <PageReference>DF2:9</PageReference>
+    <PageReference>DF2:14-15</PageReference>
+    <PageReference>DF2:28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prisoners">
+    <PageReference>DF2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Propoganda skill">
+    <PageReference>DF2:4</PageReference>
+    <PageReference>DF2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prospecting skill">
+    <PageReference>DF2:14</PageReference>
+    <PageReference>DF2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychology skill">
+    <PageReference>DF2:10</PageReference>
+    <PageReference>DF2:12</PageReference>
+    <Child ReferenceText="monsters and">
+      <PageReference>DF2:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Public Speaking skill">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Punch, Sean">
+    <PageReference>DF2:2</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Purchasing gear">
+    <PageReference>DF2:3-4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quests">
+    <PageReference>DF2:4</PageReference>
+    <PageReference>DF2:17</PageReference>
+    <Child ReferenceText="rumors of">
+      <PageReference>DF2:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious Ritual skill">
+    <PageReference>DF2:12</PageReference>
+    <PageReference>DF2:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remove Curse">
+    <PageReference>DF2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Research skill">
+    <PageReference>DF2:4</PageReference>
+    <PageReference>DF2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Riding skill">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rogues in battle">
+    <PageReference>DF2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saving the PCs">
+    <PageReference>DF2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Savoir-Faire skill">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scouting">
+    <PageReference>DF2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scrounging skill">
+    <PageReference>DF2:3</PageReference>
+    <PageReference>DF2:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Seamanship skill">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sean Punch">
+    <PageReference>DF2:2</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Search skill">
+    <PageReference>DF2:13</PageReference>
+    <PageReference>DF2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret doors">
+    <PageReference>DF2:6-7</PageReference>
+    <PageReference>DF2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serendipity">
+    <PageReference>DF2:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sex Appeal skill">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadowing skill">
+    <PageReference>DF2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Siege beast">
+    <PageReference>DF2:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signaling">
+    <PageReference>DF2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Singing skill">
+    <PageReference>DF2:4</PageReference>
+    <PageReference>DF2:11-12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skiing skill">
+    <PageReference>DF2:5</PageReference>
+    <PageReference>DF2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skill">
+    <Child ReferenceText="Acrobatics">
+      <PageReference>DF2:7</PageReference>
+      <PageReference>DF2:8</PageReference>
+      <PageReference>DF2:12</PageReference>
+      <PageReference>DF2:19</PageReference>
+    </Child>
+    <Child ReferenceText="Acting">
+      <PageReference>DF2:10-11</PageReference>
+    </Child>
+    <Child ReferenceText="Alchemy">
+      <PageReference>DF2:3</PageReference>
+      <PageReference>DF2:9</PageReference>
+      <PageReference>DF2:14</PageReference>
+      <PageReference>DF2:19</PageReference>
+    </Child>
+    <Child ReferenceText="Animal Handling">
+      <PageReference>DF2:10</PageReference>
+      <PageReference>DF2:12</PageReference>
+    </Child>
+    <Child ReferenceText="Armoury">
+      <PageReference>DF2:3</PageReference>
+      <PageReference>DF2:14</PageReference>
+      <PageReference>DF2:19</PageReference>
+    </Child>
+    <Child ReferenceText="Boating">
+      <PageReference>DF2:5</PageReference>
+    </Child>
+    <Child ReferenceText="Body Sense">
+      <PageReference>DF2:9</PageReference>
+    </Child>
+    <Child ReferenceText="Breaking Blow">
+      <PageReference>DF2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Camouflage">
+      <PageReference>DF2:5</PageReference>
+      <PageReference>DF2:11</PageReference>
+    </Child>
+    <Child ReferenceText="Captivate">
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Carousing">
+      <PageReference>DF2:4</PageReference>
+      <PageReference>DF2:17</PageReference>
+    </Child>
+    <Child ReferenceText="Cartography">
+      <PageReference>DF2:6</PageReference>
+      <PageReference>DF2:15</PageReference>
+    </Child>
+    <Child ReferenceText="Climbing">
+      <PageReference>DF2:7-8</PageReference>
+    </Child>
+    <Child ReferenceText="Connoisseur">
+      <PageReference>DF2:14</PageReference>
+    </Child>
+    <Child ReferenceText="Counterfeiting">
+      <PageReference>DF2:4</PageReference>
+    </Child>
+    <Child ReferenceText="Current Affairs">
+      <PageReference>DF2:4</PageReference>
+      <PageReference>DF2:15</PageReference>
+      <PageReference>DF2:17</PageReference>
+    </Child>
+    <Child ReferenceText="Dancing">
+      <PageReference>DF2:4</PageReference>
+    </Child>
+    <Child ReferenceText="Detect Lies">
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Diagnosis">
+      <PageReference>DF2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Diguise (Animals)">
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Diplomacy">
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Disguise">
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Escape">
+      <PageReference>DF2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Esoteric Medicine">
+      <PageReference>DF2:11</PageReference>
+      <PageReference>DF2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Exorcism">
+      <PageReference>DF2:9</PageReference>
+    </Child>
+    <Child ReferenceText="Fast-Talk">
+      <PageReference>DF2:10</PageReference>
+      <PageReference>DF2:14</PageReference>
+    </Child>
+    <Child ReferenceText="Filch">
+      <PageReference>DF2:4</PageReference>
+    </Child>
+    <Child ReferenceText="First Aid">
+      <PageReference>DF2:11</PageReference>
+      <PageReference>DF2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Fishing">
+      <PageReference>DF2:5</PageReference>
+    </Child>
+    <Child ReferenceText="Forced Entry">
+      <PageReference>DF2:8</PageReference>
+      <PageReference>DF2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Forgery">
+      <PageReference>DF2:14</PageReference>
+    </Child>
+    <Child ReferenceText="Gambling">
+      <PageReference>DF2:4</PageReference>
+    </Child>
+    <Child ReferenceText="Gesture">
+      <PageReference>DF2:7</PageReference>
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Hazardous Materials">
+      <PageReference>DF2:9</PageReference>
+      <PageReference>DF2:13</PageReference>
+      <PageReference>DF2:19</PageReference>
+    </Child>
+    <Child ReferenceText="Heraldry">
+      <PageReference>DF2:9</PageReference>
+      <PageReference>DF2:14</PageReference>
+    </Child>
+    <Child ReferenceText="Hidden Lore">
+      <PageReference>DF2:9-10</PageReference>
+      <PageReference>DF2:14</PageReference>
+      <PageReference>DF2:17</PageReference>
+    </Child>
+    <Child ReferenceText="Hiking">
+      <PageReference>DF2:5</PageReference>
+    </Child>
+    <Child ReferenceText="Holdout">
+      <PageReference>DF2:12</PageReference>
+    </Child>
+    <Child ReferenceText="Hypnotism">
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Interrogation">
+      <PageReference>DF2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Intimidation">
+      <PageReference>DF2:12</PageReference>
+    </Child>
+    <Child ReferenceText="Jumping">
+      <PageReference>DF2:7-8</PageReference>
+      <PageReference>DF2:19</PageReference>
+    </Child>
+    <Child ReferenceText="Knot Tying">
+      <PageReference>DF2:12</PageReference>
+    </Child>
+    <Child ReferenceText="Leadership">
+      <PageReference>DF2:11</PageReference>
+    </Child>
+    <Child ReferenceText="Lifting">
+      <PageReference>DF2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Lip Reading">
+      <PageReference>DF2:7</PageReference>
+    </Child>
+    <Child ReferenceText="Lockpicking">
+      <PageReference>DF2:8</PageReference>
+      <PageReference>DF2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Lockpicking">
+      <PageReference>DF2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Meditation">
+      <PageReference>DF2:15</PageReference>
+    </Child>
+    <Child ReferenceText="Merchant">
+      <PageReference>DF2:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="Mimicry">
+      <PageReference>DF2:7</PageReference>
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Musical Composition">
+      <PageReference>DF2:4</PageReference>
+      <PageReference>DF2:15</PageReference>
+    </Child>
+    <Child ReferenceText="Musical Influence">
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Musical Instrument">
+      <PageReference>DF2:4</PageReference>
+      <PageReference>DF2:11</PageReference>
+    </Child>
+    <Child ReferenceText="Naturalist">
+      <PageReference>DF2:5</PageReference>
+      <PageReference>DF2:9</PageReference>
+      <PageReference>DF2:13</PageReference>
+      <PageReference>DF2:17</PageReference>
+    </Child>
+    <Child ReferenceText="Navigation">
+      <PageReference>DF2:5</PageReference>
+    </Child>
+    <Child ReferenceText="Observation">
+      <PageReference>DF2:5-7</PageReference>
+    </Child>
+    <Child ReferenceText="Occultism">
+      <PageReference>DF2:9</PageReference>
+    </Child>
+    <Child ReferenceText="Panhandling">
+      <PageReference>DF2:4</PageReference>
+    </Child>
+    <Child ReferenceText="Performance">
+      <PageReference>DF2:4</PageReference>
+    </Child>
+    <Child ReferenceText="Persuade">
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Pharmacy">
+      <PageReference>DF2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Physiology">
+      <PageReference>DF2:10</PageReference>
+      <PageReference>DF2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Pickpocket">
+      <PageReference>DF2:4</PageReference>
+    </Child>
+    <Child ReferenceText="Poetry">
+      <PageReference>DF2:4</PageReference>
+      <PageReference>DF2:15</PageReference>
+    </Child>
+    <Child ReferenceText="Poisons">
+      <PageReference>DF2:3</PageReference>
+      <PageReference>DF2:9</PageReference>
+      <PageReference>DF2:12-13</PageReference>
+      <PageReference>DF2:19</PageReference>
+    </Child>
+    <Child ReferenceText="Power Blow">
+      <PageReference>DF2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Propoganda">
+      <PageReference>DF2:4</PageReference>
+      <PageReference>DF2:15</PageReference>
+    </Child>
+    <Child ReferenceText="Prospecting">
+      <PageReference>DF2:14</PageReference>
+      <PageReference>DF2:17</PageReference>
+    </Child>
+    <Child ReferenceText="Psychology (Monster)">
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Psychology">
+      <PageReference>DF2:12</PageReference>
+    </Child>
+    <Child ReferenceText="Public Speaking">
+      <PageReference>DF2:4</PageReference>
+    </Child>
+    <Child ReferenceText="Religious Ritual">
+      <PageReference>DF2:12</PageReference>
+      <PageReference>DF2:14-15</PageReference>
+    </Child>
+    <Child ReferenceText="Research">
+      <PageReference>DF2:4</PageReference>
+      <PageReference>DF2:17</PageReference>
+    </Child>
+    <Child ReferenceText="Riding">
+      <PageReference>DF2:5</PageReference>
+    </Child>
+    <Child ReferenceText="Savoir-Faire">
+      <PageReference>DF2:4</PageReference>
+    </Child>
+    <Child ReferenceText="Scrounging">
+      <PageReference>DF2:3</PageReference>
+      <PageReference>DF2:15</PageReference>
+    </Child>
+    <Child ReferenceText="Seamanship">
+      <PageReference>DF2:5</PageReference>
+    </Child>
+    <Child ReferenceText="Search">
+      <PageReference>DF2:13</PageReference>
+      <PageReference>DF2:29</PageReference>
+    </Child>
+    <Child ReferenceText="Sex Appeal">
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Shadowing">
+      <PageReference>DF2:7</PageReference>
+    </Child>
+    <Child ReferenceText="Singing">
+      <PageReference>DF2:4</PageReference>
+      <PageReference>DF2:11-12</PageReference>
+    </Child>
+    <Child ReferenceText="Skiing">
+      <PageReference>DF2:5</PageReference>
+      <PageReference>DF2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Sleight of Hand">
+      <PageReference>DF2:4</PageReference>
+    </Child>
+    <Child ReferenceText="Smuggling">
+      <PageReference>DF2:4</PageReference>
+    </Child>
+    <Child ReferenceText="SpeedReading">
+      <PageReference>DF2:14</PageReference>
+    </Child>
+    <Child ReferenceText="Stealth">
+      <PageReference>DF2:7</PageReference>
+      <PageReference>DF2:11</PageReference>
+      <PageReference>DF2:20</PageReference>
+    </Child>
+    <Child ReferenceText="Strategy">
+      <PageReference>DF2:11</PageReference>
+    </Child>
+    <Child ReferenceText="Streetwise">
+      <PageReference>DF2:4</PageReference>
+      <PageReference>DF2:15</PageReference>
+      <PageReference>DF2:17</PageReference>
+    </Child>
+    <Child ReferenceText="Suggest">
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Surgery">
+      <PageReference>DF2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Survival">
+      <PageReference>DF2:4-5</PageReference>
+      <PageReference>DF2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Sway Emotions">
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Swimming">
+      <PageReference>DF2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Tactics">
+      <PageReference>DF2:11</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>DF2:9</PageReference>
+      <PageReference>DF2:11</PageReference>
+      <PageReference>DF2:13-14</PageReference>
+      <PageReference>DF2:19</PageReference>
+    </Child>
+    <Child ReferenceText="Theology">
+      <PageReference>DF2:4</PageReference>
+      <PageReference>DF2:9</PageReference>
+      <PageReference>DF2:15</PageReference>
+      <PageReference>DF2:17</PageReference>
+    </Child>
+    <Child ReferenceText="Throwing">
+      <PageReference>DF2:8</PageReference>
+    </Child>
+    <Child ReferenceText="Tracking">
+      <PageReference>DF2:5</PageReference>
+      <PageReference>DF2:7</PageReference>
+    </Child>
+    <Child ReferenceText="Traps">
+      <PageReference>DF2:5-8</PageReference>
+      <PageReference>DF2:12-13</PageReference>
+      <PageReference>DF2:19-20</PageReference>
+    </Child>
+    <Child ReferenceText="Urban Survival">
+      <PageReference>DF2:4</PageReference>
+      <PageReference>DF2:17</PageReference>
+    </Child>
+    <Child ReferenceText="Ventriloquism">
+      <PageReference>DF2:10</PageReference>
+    </Child>
+    <Child ReferenceText="Veterinary">
+      <PageReference>DF2:13</PageReference>
+    </Child>
+    <Child ReferenceText="Weather Sense">
+      <PageReference>DF2:5</PageReference>
+    </Child>
+    <Child ReferenceText="Writing">
+      <PageReference>DF2:4</PageReference>
+      <PageReference>DF2:15</PageReference>
+    </Child>
+    <Child ReferenceText="Herb Lore">
+      <PageReference>DF2:3</PageReference>
+    </Child>
+    <Child ReferenceText="Merchant">
+      <PageReference>DF2:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleeping in armor">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleight of Hand skill">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smuggling skill">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Chameleon">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma (Criminal Record)">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Speed-Reading skill">
+    <PageReference>DF2:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sponsors">
+    <PageReference>DF2:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stealth skill">
+    <PageReference>DF2:7</PageReference>
+    <PageReference>DF2:11</PageReference>
+    <PageReference>DF2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stone golem">
+    <PageReference>DF2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strategy skill">
+    <PageReference>DF2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Streetwise skill">
+    <PageReference>DF2:4</PageReference>
+    <PageReference>DF2:15</PageReference>
+    <PageReference>DF2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strength, team effort">
+    <PageReference>DF2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suggest skill">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sunlight">
+    <PageReference>DF2:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surgery skill">
+    <PageReference>DF2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival skill">
+    <PageReference>DF2:4-5</PageReference>
+    <PageReference>DF2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sway Emotions skill">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swimming skill">
+    <PageReference>DF2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactics skill">
+    <PageReference>DF2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taunting">
+    <PageReference>DF2:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teamwork">
+    <PageReference>DF2:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thaumatology skill">
+    <PageReference>DF2:9</PageReference>
+    <PageReference>DF2:11</PageReference>
+    <PageReference>DF2:13-14</PageReference>
+    <PageReference>DF2:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Theology skill">
+    <PageReference>DF2:4</PageReference>
+    <PageReference>DF2:9</PageReference>
+    <PageReference>DF2:15</PageReference>
+    <PageReference>DF2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throwing skill">
+    <PageReference>DF2:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time for travel">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Town adventures">
+    <PageReference>DF2:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Toxifier">
+    <PageReference>DF2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracking skill">
+    <PageReference>DF2:5</PageReference>
+    <PageReference>DF2:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trademark moves">
+    <PageReference>DF2:27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps skill">
+    <PageReference>DF2:5-8</PageReference>
+    <PageReference>DF2:12-13</PageReference>
+    <PageReference>DF2:19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traps">
+    <PageReference>DF2:8-9</PageReference>
+    <PageReference>DF2:18-20</PageReference>
+    <Child ReferenceText="samples">
+      <PageReference>DF2:20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Travel">
+    <PageReference>DF2:5</PageReference>
+    <PageReference>DF2:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trickery">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Triger">
+    <PageReference>DF2:26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="True Faith (Turning)">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unique items">
+    <PageReference>DF2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Urban Survival skill">
+    <PageReference>DF2:4</PageReference>
+    <PageReference>DF2:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ventriloquism skill">
+    <PageReference>DF2:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Veterinary skill">
+    <PageReference>DF2:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Watches">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weaknesses">
+    <PageReference>DF2:10</PageReference>
+    <PageReference>DF2:20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth">
+    <PageReference>DF2:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weather Sense skill">
+    <PageReference>DF2:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wilderness">
+    <PageReference>DF2:20</PageReference>
+    <PageReference>DF2:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Writing skill">
+    <PageReference>DF2:4</PageReference>
+    <PageReference>DF2:15</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

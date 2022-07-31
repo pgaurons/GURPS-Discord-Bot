@@ -1,0 +1,1209 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abastor Square">
+    <PageReference>BSA38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Abydos">
+    <Child ReferenceText="historical">
+      <PageReference>BSA17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Admission to college">
+    <PageReference>BSA24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <PageReference>BSA58-59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Agartha">
+    <PageReference>BSA4</PageReference>
+    <PageReference>BSA5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Agarthan ethnic group">
+    <PageReference>BSA8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alchemists’ Guild">
+    <PageReference>BSA27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambrose Street">
+    <PageReference>BSA32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anchor Street">
+    <PageReference>BSA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Andronica">
+    <Child ReferenceText="Megethia">
+      <PageReference>BSA41</PageReference>
+      <PageReference>BSA53-54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Andronicus Road">
+    <PageReference>BSA32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balcony at Ravensbeak Tower">
+    <PageReference>BSA42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bay of Lemures">
+    <PageReference>BSA4</PageReference>
+    <PageReference>BSA11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bethlehem Road">
+    <PageReference>BSA32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Birth rate">
+    <PageReference>BSA13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bjornsson">
+    <Child ReferenceText="Ragnar">
+      <PageReference>BSA55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Blake">
+    <Child ReferenceText="Master Prospectus">
+      <PageReference>BSA33</PageReference>
+      <PageReference>BSA52-53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Blasphemy">
+    <PageReference>BSA14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blood of the Martyrs">
+    <PageReference>BSA19</PageReference>
+    <PageReference>BSA28-29</PageReference>
+    <PageReference>BSA54</PageReference>
+    <Child ReferenceText="typical">
+      <PageReference>BSA29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bloodless Arena">
+    <PageReference>BSA16</PageReference>
+    <PageReference>BSA34</PageReference>
+    <PageReference>BSA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bogbottom Dump">
+    <PageReference>BSA34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bogiron Alley">
+    <PageReference>BSA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boneflower inn">
+    <PageReference>BSA39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boneshanks">
+    <PageReference>BSA42</PageReference>
+    <PageReference>BSA47-48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brand Arisson’s Shop">
+    <PageReference>BSA40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bridgegate Road">
+    <PageReference>BSA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carl of the Naglfari">
+    <Child ReferenceText="typical">
+      <PageReference>BSA29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Carrying arms">
+    <PageReference>BSA14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cat Fairy">
+    <PageReference>BSA57</PageReference>
+    <Child ReferenceText="spells">
+      <PageReference>BSA57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cathedral of St">
+    <Child ReferenceText="Lazarus">
+      <PageReference>BSA7</PageReference>
+      <PageReference>BSA15</PageReference>
+      <PageReference>BSA18</PageReference>
+      <PageReference>BSA41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Celestine Road">
+    <PageReference>BSA32-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chamber of Melting Souls">
+    <PageReference>BSA42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <PageReference>BSA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charon Bridge">
+    <PageReference>BSA43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chronology">
+    <PageReference>BSA16-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Church of Lazarus">
+    <PageReference>BSA6-7</PageReference>
+    <PageReference>BSA14</PageReference>
+    <PageReference>BSA22</PageReference>
+    <Child ReferenceText="views on Curia">
+      <PageReference>BSA7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Church of St">
+    <Child ReferenceText="Samuel Hood">
+      <PageReference>BSA45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Church law">
+    <PageReference>BSA14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Church saints">
+    <PageReference>BSA7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Citadel of Birds">
+    <PageReference>BSA15</PageReference>
+    <PageReference>BSA20</PageReference>
+    <PageReference>BSA42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clay Street">
+    <PageReference>BSA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clergy">
+    <PageReference>BSA7</PageReference>
+    <PageReference>BSA9</PageReference>
+    <PageReference>BSA17</PageReference>
+    <PageReference>BSA22</PageReference>
+    <Child ReferenceText="typical">
+      <PageReference>BSA22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cobble Road">
+    <PageReference>BSA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Commoners">
+    <PageReference>BSA9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corpseflayers’ Guild">
+    <PageReference>BSA28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Counties of Agartha">
+    <PageReference>BSA4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminals">
+    <PageReference>BSA28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crown of Thorns restaurant">
+    <PageReference>BSA35-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Culture of the city">
+    <PageReference>BSA15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curia">
+    <PageReference>BSA7</PageReference>
+    <PageReference>BSA8</PageReference>
+    <PageReference>BSA17-19</PageReference>
+    <PageReference>BSA28</PageReference>
+    <SeeAlso>Petrine Church</SeeAlso>
+    <Child ReferenceText="views on Abydos">
+      <PageReference>BSA7</PageReference>
+      <PageReference>BSA9</PageReference>
+      <PageReference>BSA10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Currency">
+    <PageReference>BSA12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Curriculum of the college">
+    <PageReference>BSA24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Customs of the city">
+    <PageReference>BSA15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Dead crows” (coins)">
+    <PageReference>BSA12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deathless Monks">
+    <PageReference>BSA23</PageReference>
+    <PageReference>BSA45</PageReference>
+    <PageReference>BSA50-51</PageReference>
+    <Child ReferenceText="oath">
+      <PageReference>BSA23</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>BSA23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Defenses">
+    <PageReference>BSA11</PageReference>
+    <PageReference>BSA20-22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Degrees awarded by the college">
+    <PageReference>BSA24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demetrios">
+    <Child ReferenceText="Brother">
+      <PageReference>BSA45</PageReference>
+      <PageReference>BSA50-51</PageReference>
+      <PageReference>BSA54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Demons">
+    <PageReference>BSA14</PageReference>
+    <PageReference>BSA43</PageReference>
+    <PageReference>BSA56-58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diabolism">
+    <PageReference>BSA14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disease">
+    <PageReference>BSA9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Docks">
+    <PageReference>BSA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doctors in Abydos">
+    <PageReference>BSA13</PageReference>
+    <PageReference>BSA34</PageReference>
+    <PageReference>BSA39</PageReference>
+    <Child ReferenceText="Doctrine of the Church">
+      <PageReference>BSA6-7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dogs">
+    <PageReference>BSA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doukaina, Sophia, 15 Drusiana, Lady">
+    <PageReference>BSA15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duels">
+    <PageReference>BSA14</PageReference>
+    <PageReference>BSA25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dungeon">
+    <PageReference>BSA42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dwarves">
+    <PageReference>BSA8</PageReference>
+    <PageReference>BSA25</PageReference>
+    <PageReference>BSA33</PageReference>
+    <PageReference>BSA39</PageReference>
+    <PageReference>BSA45</PageReference>
+    <Child ReferenceText="saint of">
+      <PageReference>BSA7</PageReference>
+      <PageReference>BSA16</PageReference>
+    </Child>
+    <Child ReferenceText="trade with">
+      <PageReference>BSA10</PageReference>
+      <PageReference>BSA11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Economy">
+    <PageReference>BSA12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Electors">
+    <PageReference>BSA5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elixirs">
+    <Child ReferenceText="new">
+      <PageReference>BSA27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Elysium elixir">
+    <Child ReferenceText="27 Enoch Road">
+      <PageReference>BSA33-34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ethnicity">
+    <PageReference>BSA8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eumenides Guild">
+    <PageReference>BSA14</PageReference>
+    <PageReference>BSA22</PageReference>
+    <PageReference>BSA27</PageReference>
+    <PageReference>BSA37</PageReference>
+    <PageReference>BSA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eye in the Cloud book shop">
+    <PageReference>BSA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Faculty of the college">
+    <PageReference>BSA25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="False Resurrection spell">
+    <PageReference>BSA27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Felicia Hill’s Shop">
+    <PageReference>BSA40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Festivals">
+    <PageReference>BSA16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fine arts">
+    <PageReference>BSA15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flesh Library">
+    <PageReference>BSA26-27</PageReference>
+    <PageReference>BSA38</PageReference>
+    <PageReference>BSA52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flesh scrolls">
+    <PageReference>BSA19</PageReference>
+    <PageReference>BSA26-27</PageReference>
+    <PageReference>BSA52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foreign relations">
+    <PageReference>BSA9-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foreign visitors">
+    <PageReference>BSA10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Founding of Abydos">
+    <PageReference>BSA5</PageReference>
+    <PageReference>BSA16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fowlmarket Road">
+    <PageReference>BSA34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Freyja’s Cats brothel">
+    <PageReference>BSA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gabrielle Boneshanks">
+    <Child ReferenceText="Lady Raven">
+      <PageReference>BSA42</PageReference>
+      <PageReference>BSA47-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gangs">
+    <PageReference>BSA28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Garden of Tenelope">
+    <PageReference>BSA34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gates">
+    <PageReference>BSA30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gebura Town">
+    <PageReference>BSA44-45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gentry">
+    <PageReference>BSA8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Geography">
+    <PageReference>BSA4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghent">
+    <Child ReferenceText="Guildmaster Tobias">
+      <PageReference>BSA40</PageReference>
+      <PageReference>BSA51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost Troupe">
+    <PageReference>BSA16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost Wind spell">
+    <PageReference>BSA27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glabras">
+    <Child ReferenceText="Philopos">
+      <PageReference>BSA15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Glittertooth">
+    <PageReference>BSA56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gorice Hall">
+    <PageReference>BSA41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gorice Road">
+    <PageReference>BSA35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gorice Road Theater">
+    <PageReference>BSA16</PageReference>
+    <PageReference>BSA35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Government">
+    <PageReference>BSA5</PageReference>
+    <PageReference>BSA14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grendel Road">
+    <PageReference>BSA34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guilds">
+    <PageReference>BSA27-28</PageReference>
+    <PageReference>BSA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Banestorm">
+    <PageReference>BSA3</PageReference>
+    <PageReference>BSA23</PageReference>
+    <PageReference>BSA43</PageReference>
+    <PageReference>BSA51</PageReference>
+    <PageReference>BSA55</PageReference>
+    <PageReference>BSA59</PageReference>
+    <Child ReferenceText="Bio-Tech">
+      <PageReference>BSA57</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>BSA4</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>BSA43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hall of Justice">
+    <PageReference>BSA36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hand of Glory">
+    <PageReference>BSA14</PageReference>
+    <PageReference>BSA15</PageReference>
+    <PageReference>BSA19</PageReference>
+    <PageReference>BSA23</PageReference>
+    <PageReference>BSA45</PageReference>
+    <PageReference>BSA50</PageReference>
+    <PageReference>BSA54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hanged Men">
+    <PageReference>BSA29</PageReference>
+    <PageReference>BSA55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hawk">
+    <Child ReferenceText="Senator Donovan">
+      <PageReference>BSA41</PageReference>
+      <PageReference>BSA49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Health and disease">
+    <PageReference>BSA9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hecate Club">
+    <PageReference>BSA26</PageReference>
+    <PageReference>BSA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hellkittens">
+    <PageReference>BSA57-58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heresy">
+    <PageReference>BSA14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="History">
+    <PageReference>BSA16-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holidays">
+    <PageReference>BSA16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy Blood, Order of">
+    <SeeAlso>Deathless Monks</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy orders">
+    <PageReference>BSA7</PageReference>
+    <PageReference>BSA9</PageReference>
+    <PageReference>BSA17</PageReference>
+    <PageReference>BSA22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hood">
+    <Child ReferenceText="Samuel">
+      <PageReference>BSA7</PageReference>
+      <PageReference>BSA6</PageReference>
+      <PageReference>BSA16</PageReference>
+      <PageReference>BSA17</PageReference>
+      <PageReference>BSA44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hook">
+    <Child ReferenceText="Edward">
+      <PageReference>BSA19</PageReference>
+      <PageReference>BSA28</PageReference>
+      <PageReference>BSA54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hourglass Road">
+    <PageReference>BSA35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="House of Angerbod">
+    <PageReference>BSA37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="House of Dr">
+    <Child ReferenceText="Gideon Balsamon">
+      <PageReference>BSA34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="House of Eleazar">
+    <PageReference>BSA39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="House of Ghent">
+    <PageReference>BSA40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="House of Ogmund">
+    <PageReference>BSA40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="House of Prospectus Blake">
+    <PageReference>BSA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="House of Starkad Kolsson">
+    <PageReference>BSA37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Idolatry">
+    <PageReference>BSA14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Industry">
+    <PageReference>BSA12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Infernal Devices">
+    <PageReference>BSA35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iscariot">
+    <Child ReferenceText="Judas">
+      <PageReference>BSA7</PageReference>
+      <PageReference>BSA23</PageReference>
+      <PageReference>BSA29</PageReference>
+      <PageReference>BSA32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jack-in-Irons inn">
+    <PageReference>BSA39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jarl of the Naglfari">
+    <PageReference>BSA29</PageReference>
+    <PageReference>BSA55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jews">
+    <PageReference>BSA8</PageReference>
+    <PageReference>BSA11</PageReference>
+    <PageReference>BSA39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jon of Kadia’s Shop">
+    <PageReference>BSA41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Judas Iscariot">
+    <PageReference>BSA7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Judd Verminsbane’s Shop">
+    <PageReference>BSA43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kadia House">
+    <PageReference>BSA41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kadia’s Way">
+    <PageReference>BSA35-36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kerberus House">
+    <PageReference>BSA36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knackery">
+    <PageReference>BSA40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knights">
+    <PageReference>BSA22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lady Raven">
+    <PageReference>BSA5</PageReference>
+    <PageReference>BSA16</PageReference>
+    <SeeAlso>Ravens (Guards)</SeeAlso>
+    <Child ReferenceText="specific women">
+      <PageReference>BSA5</PageReference>
+      <PageReference>BSA16-19</PageReference>
+      <PageReference>BSA42</PageReference>
+      <PageReference>BSA47-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lake Styx">
+    <PageReference>BSA4</PageReference>
+    <PageReference>BSA5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Law">
+    <PageReference>BSA14-15</PageReference>
+    <PageReference>BSA42-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lazarite Church">
+    <SeeAlso>Church of Lazarus</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Lazarus Awakens painting">
+    <PageReference>BSA15</PageReference>
+    <PageReference>BSA41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lazarus">
+    <Child ReferenceText="biblical">
+      <PageReference>BSA6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lazarus Clark">
+    <Child ReferenceText="Copyist shop">
+      <PageReference>BSA32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lazarus Hall">
+    <PageReference>BSA38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legion of the Polished Bone">
+    <PageReference>BSA11</PageReference>
+    <PageReference>BSA18-20</PageReference>
+    <PageReference>BSA30</PageReference>
+    <PageReference>BSA36</PageReference>
+    <PageReference>BSA42</PageReference>
+    <Child ReferenceText="description">
+      <PageReference>BSA21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lemures">
+    <PageReference>BSA4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lesser Zombie spell">
+    <PageReference>BSA27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lich Merchants’ Guild">
+    <PageReference>BSA28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lich Street">
+    <PageReference>BSA36-37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loaves and Fishes food stand">
+    <PageReference>BSA35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lodin Forkbeard’s Smithy">
+    <PageReference>BSA33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lostgate Road">
+    <PageReference>BSA37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lostgate Tower">
+    <PageReference>BSA27</PageReference>
+    <PageReference>BSA37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lost Gospels of Lazarus">
+    <PageReference>BSA6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic and the law">
+    <PageReference>BSA14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Makarios the Pious">
+    <PageReference>BSA16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana level">
+    <PageReference>BSA4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mandrake’s Thirst tavern">
+    <PageReference>BSA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Map of the city">
+    <PageReference>BSA31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Master William Auric’s Shop">
+    <PageReference>BSA32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Meat market">
+    <PageReference>BSA37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Megalos">
+    <PageReference>BSA9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Michael Kalamanos Square">
+    <PageReference>BSA36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Militia">
+    <PageReference>BSA22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monastery of St">
+    <Child ReferenceText="Judas Iscariot">
+      <PageReference>BSA32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Monastery of the Holy Blood">
+    <PageReference>BSA23</PageReference>
+    <PageReference>BSA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Morgarten">
+    <Child ReferenceText="Michael">
+      <PageReference>BSA15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mother Gramble’s Rooming House">
+    <PageReference>BSA35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naglfari">
+    <PageReference>BSA19</PageReference>
+    <PageReference>BSA27-29</PageReference>
+    <PageReference>BSA37</PageReference>
+    <PageReference>BSA40</PageReference>
+    <PageReference>BSA44</PageReference>
+    <PageReference>BSA55</PageReference>
+    <PageReference>BSA59</PageReference>
+    <Child ReferenceText="typical carl">
+      <PageReference>BSA29</PageReference>
+    </Child>
+    <Child ReferenceText="jarl">
+      <PageReference>BSA29</PageReference>
+      <PageReference>BSA55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Narses the Pious">
+    <Child ReferenceText="Archbishop">
+      <PageReference>BSA7</PageReference>
+      <PageReference>BSA19</PageReference>
+      <PageReference>BSA46-47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Necromancy">
+    <Child ReferenceText="effects of use">
+      <PageReference>BSA12-13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nicasia House">
+    <PageReference>BSA26</PageReference>
+    <PageReference>BSA38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nicodorus">
+    <Child ReferenceText="Abbot">
+      <PageReference>BSA45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nightingale">
+    <Child ReferenceText="Canidia">
+      <PageReference>BSA15</PageReference>
+      <PageReference>BSA35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nomad Lands">
+    <PageReference>BSA10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Norse paganism">
+    <PageReference>BSA8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Northgate Street">
+    <PageReference>BSA38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Northgate Tenements">
+    <PageReference>BSA38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Northland Guard">
+    <PageReference>BSA11</PageReference>
+    <PageReference>BSA18</PageReference>
+    <PageReference>BSA21</PageReference>
+    <PageReference>BSA30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Northlanders">
+    <PageReference>BSA8</PageReference>
+    <PageReference>BSA11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Northmen’s Block">
+    <PageReference>BSA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oakenbeard">
+    <Child ReferenceText="Gilli">
+      <PageReference>BSA7</PageReference>
+      <PageReference>BSA16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Office of Magister Abraham ben Jacob">
+    <PageReference>BSA39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Old City">
+    <PageReference>BSA32-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Old Temple Road">
+    <PageReference>BSA39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Opal Lane">
+    <PageReference>BSA39-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Order of the Holy Blood">
+    <SeeAlso>Deathless Monks</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Organization of the Church">
+    <PageReference>BSA7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Other nations of Yrth">
+    <PageReference>BSA10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Other religions">
+    <PageReference>BSA7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pagans">
+    <PageReference>BSA8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Petrine Church">
+    <PageReference>BSA7</PageReference>
+    <PageReference>BSA11</PageReference>
+    <PageReference>BSA54</PageReference>
+    <SeeAlso>Curia</SeeAlso>
+    <SeeAlso>Blood of Martyrs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Psilena">
+    <Child ReferenceText="Raven Captain Anastasia">
+      <PageReference>BSA49-50</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pirates">
+    <PageReference>BSA22</PageReference>
+    <PageReference>BSA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poor Brothers of St">
+    <Child ReferenceText="Judas Iscariot">
+      <PageReference>BSA23</PageReference>
+      <PageReference>BSA32</PageReference>
+    </Child>
+    <Child ReferenceText="typical">
+      <PageReference>BSA23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Population">
+    <PageReference>BSA8</PageReference>
+    <PageReference>BSA13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Preservation of the Dead elixir">
+    <PageReference>BSA27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Priests">
+    <PageReference>BSA7</PageReference>
+    <PageReference>BSA9</PageReference>
+    <PageReference>BSA17</PageReference>
+    <PageReference>BSA22</PageReference>
+    <Child ReferenceText="typical">
+      <PageReference>BSA22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Privateers">
+    <PageReference>BSA22</PageReference>
+    <PageReference>BSA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Proctors">
+    <PageReference>BSA25</PageReference>
+    <PageReference>BSA26</PageReference>
+    <PageReference>BSA38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Punishments">
+    <PageReference>BSA15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Qlippoth">
+    <PageReference>BSA8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quartedec">
+    <PageReference>BSA10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ragamuffin Scrag">
+    <PageReference>BSA37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapier fencing">
+    <PageReference>BSA12</PageReference>
+    <PageReference>BSA19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ravenjoy">
+    <Child ReferenceText="Lady Raven Nicasia">
+      <PageReference>BSA5</PageReference>
+      <PageReference>BSA16-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ravens (guards)">
+    <PageReference>BSA5</PageReference>
+    <PageReference>BSA10</PageReference>
+    <PageReference>BSA11</PageReference>
+    <PageReference>BSA14-15</PageReference>
+    <PageReference>BSA18-21</PageReference>
+    <PageReference>BSA23</PageReference>
+    <PageReference>BSA42</PageReference>
+    <PageReference>BSA58-60</PageReference>
+    <Child ReferenceText="typical captain">
+      <PageReference>BSA49-50</PageReference>
+    </Child>
+    <Child ReferenceText="typical guard">
+      <PageReference>BSA20-21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ravensbeak Tower">
+    <PageReference>BSA42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ravensmarch">
+    <PageReference>BSA10</PageReference>
+    <PageReference>BSA19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rebels">
+    <PageReference>BSA28-29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resurrection spell">
+    <PageReference>BSA7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="River Charon">
+    <PageReference>BSA4</PageReference>
+    <PageReference>BSA11</PageReference>
+    <PageReference>BSA43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="River reeks">
+    <PageReference>BSA43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roofrats">
+    <PageReference>BSA29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rose and Serpent inn">
+    <PageReference>BSA35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rose Society">
+    <PageReference>BSA12</PageReference>
+    <PageReference>BSA19</PageReference>
+    <PageReference>BSA25</PageReference>
+    <PageReference>BSA53</PageReference>
+    <PageReference>BSA59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sabelia">
+    <Child ReferenceText="Doctor">
+      <PageReference>BSA25-27</PageReference>
+      <PageReference>BSA38</PageReference>
+      <PageReference>BSA51-52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sad Agnes’ Well">
+    <PageReference>BSA35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saints of the Church">
+    <PageReference>BSA7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Samael’s Court">
+    <PageReference>BSA37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sardis">
+    <PageReference>BSA4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Senate">
+    <PageReference>BSA5</PageReference>
+    <PageReference>BSA36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shop of Aethera Chessman">
+    <PageReference>BSA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shop of Helga Mousakina">
+    <Child ReferenceText="Master Mortician">
+      <PageReference>BSA36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shop of Joshua Kane">
+    <PageReference>BSA40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shop of Tom and Paul Malakes">
+    <PageReference>BSA36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silent Maze">
+    <PageReference>BSA15</PageReference>
+    <PageReference>BSA42-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Simon Wickman’s Shop">
+    <PageReference>BSA32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sisters of Magdalene">
+    <PageReference>BSA24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skeletons">
+    <PageReference>BSA11</PageReference>
+    <PageReference>BSA13</PageReference>
+    <PageReference>BSA21</PageReference>
+    <PageReference>BSA34</PageReference>
+    <PageReference>BSA37</PageReference>
+    <SeeAlso>Zombies</SeeAlso>
+    <Child ReferenceText="typical guard">
+      <PageReference>BSA21</PageReference>
+    </Child>
+    <Child ReferenceText="typical horse">
+      <PageReference>BSA22</PageReference>
+    </Child>
+    <Child ReferenceText="typical knight">
+      <PageReference>BSA22</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slaughter Row">
+    <PageReference>BSA40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slaves">
+    <PageReference>BSA9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snorrison">
+    <Child ReferenceText="Ogmund">
+      <PageReference>BSA40-41</PageReference>
+      <PageReference>BSA54-55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Social class and status">
+    <PageReference>BSA8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Society of Solomon">
+    <PageReference>BSA25</PageReference>
+    <PageReference>BSA36</PageReference>
+    <PageReference>BSA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <Child ReferenceText="new">
+      <PageReference>BSA27</PageReference>
+      <PageReference>BSA57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="St">
+    <Child ReferenceText="Dunstan’s Row">
+      <PageReference>BSA33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="St">
+    <Child ReferenceText="Magdalene’s Church">
+      <PageReference>BSA38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="St">
+    <Child ReferenceText="Magdalene’s College">
+      <PageReference>BSA24-27</PageReference>
+      <PageReference>BSA38</PageReference>
+      <PageReference>BSA58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="St">
+    <Child ReferenceText="Magdalene’s Convent">
+      <PageReference>BSA38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="St">
+    <Child ReferenceText="Magdalene’s Road">
+      <PageReference>BSA38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="St">
+    <Child ReferenceText="Martha’s Road">
+      <PageReference>BSA38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Samuel’s Street">
+    <PageReference>BSA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stephen’s Street">
+    <PageReference>BSA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Status and social class">
+    <PageReference>BSA8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stephanos">
+    <Child ReferenceText="Praetor Basil">
+      <PageReference>BSA19</PageReference>
+      <PageReference>BSA48-49</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Student body">
+    <PageReference>BSA25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Student societies">
+    <PageReference>BSA25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stylites">
+    <PageReference>BSA16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tagarina, Chancellor Patricia, 25 Tanners’ Row">
+    <PageReference>BSA40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taxes">
+    <PageReference>BSA12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech level">
+    <PageReference>BSA12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Template">
+    <Child ReferenceText="new">
+      <PageReference>BSA47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Temple Road Synagogue">
+    <PageReference>BSA39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tenemos">
+    <PageReference>BSA4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thanatos’ House of Bestial Revenants">
+    <PageReference>BSA37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Theatrical arts">
+    <PageReference>BSA16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thulin’s Folk">
+    <SeeAlso>Dwarves</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Tithes">
+    <PageReference>BSA12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tower of Faith">
+    <PageReference>BSA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Towers of the city">
+    <PageReference>BSA30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transfer Pregnancy spell">
+    <PageReference>BSA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Twins (landmark)">
+    <PageReference>BSA41-43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead">
+    <SeeAlso>Necromancy</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Unnaturally extended lives">
+    <PageReference>BSA12-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Using setting in existing campaign">
+    <PageReference>BSA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampires">
+    <PageReference>BSA23</PageReference>
+    <PageReference>BSA45</PageReference>
+    <PageReference>BSA59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vat Road">
+    <PageReference>BSA40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Venture Street">
+    <PageReference>BSA40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Verdandi Road">
+    <PageReference>BSA41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Violations of canon law">
+    <PageReference>BSA14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voting franchise">
+    <PageReference>BSA5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walls surrounding the city">
+    <PageReference>BSA30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Windspider Hill">
+    <PageReference>BSA41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Windspider House">
+    <PageReference>BSA41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wolfskull inn">
+    <PageReference>BSA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Works of art">
+    <PageReference>BSA15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yuki’s Teashop">
+    <PageReference>BSA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zeldornia">
+    <PageReference>BSA4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombies">
+    <PageReference>BSA12</PageReference>
+    <PageReference>BSA13</PageReference>
+    <PageReference>BSA15</PageReference>
+    <PageReference>BSA16</PageReference>
+    <PageReference>BSA22</PageReference>
+    <PageReference>BSA28</PageReference>
+    <PageReference>BSA32</PageReference>
+    <PageReference>BSA37</PageReference>
+    <SeeAlso>Skeletons</SeeAlso>
+    <Child ReferenceText="as defense">
+      <PageReference>BSA11</PageReference>
+      <PageReference>BSA18</PageReference>
+      <PageReference>BSA22</PageReference>
+      <PageReference>BSA27</PageReference>
+    </Child>
+    <Child ReferenceText="law and">
+      <PageReference>BSA14</PageReference>
+      <PageReference>BSA15</PageReference>
+    </Child>
+    <Child ReferenceText="new spell">
+      <PageReference>BSA27</PageReference>
+    </Child>
+    <Child ReferenceText="views of Lazarite Church about">
+      <PageReference>BSA6</PageReference>
+      <PageReference>BSA7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombie Body template">
+    <PageReference>BSA47</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

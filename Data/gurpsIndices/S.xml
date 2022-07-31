@@ -1,0 +1,2481 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="3D Spatial Sense advantage">
+    <PageReference>S219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Absorption factor">
+    <PageReference>S84</PageReference>
+    <PageReference>S85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatics skill">
+    <PageReference>S224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adams">
+    <Child ReferenceText="Douglas">
+      <PageReference>S12</PageReference>
+      <PageReference>S20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Addiction disadvantage">
+    <PageReference>S220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>S219-220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <PageReference>S208-213</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alien">
+    <PageReference>S24</PageReference>
+    <PageReference>S135</PageReference>
+    <PageReference>S146</PageReference>
+    <PageReference>S215</PageReference>
+    <PageReference>S219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aliens">
+    <PageReference>S21-22</PageReference>
+    <PageReference>S134-170</PageReference>
+    <Child ReferenceText="Alien Rights League">
+      <PageReference>S26</PageReference>
+      <PageReference>S205</PageReference>
+    </Child>
+    <Child ReferenceText="archaeology">
+      <PageReference>S12</PageReference>
+    </Child>
+    <Child ReferenceText="behavior">
+      <PageReference>S167-169</PageReference>
+    </Child>
+    <Child ReferenceText="body plans">
+      <PageReference>S150-154</PageReference>
+    </Child>
+    <Child ReferenceText="and campaign design">
+      <PageReference>S8</PageReference>
+      <PageReference>S135-136</PageReference>
+    </Child>
+    <Child ReferenceText="carrying capacity of worlds">
+      <PageReference>S92</PageReference>
+    </Child>
+    <Child ReferenceText="as characters">
+      <PageReference>S218-219</PageReference>
+    </Child>
+    <Child ReferenceText="classification systems">
+      <PageReference>S175</PageReference>
+    </Child>
+    <Child ReferenceText="communication">
+      <PageReference>S163-164</PageReference>
+    </Child>
+    <Child ReferenceText="enclaves">
+      <PageReference>S98</PageReference>
+    </Child>
+    <Child ReferenceText="frequency of worlds">
+      <PageReference>S70-71</PageReference>
+    </Child>
+    <Child ReferenceText="governments">
+      <PageReference>S24</PageReference>
+      <PageReference>S199-201</PageReference>
+    </Child>
+    <Child ReferenceText="habitats">
+      <PageReference>S89</PageReference>
+      <PageReference>S143</PageReference>
+      <PageReference>S175</PageReference>
+    </Child>
+    <Child ReferenceText="hives and hive minds">
+      <PageReference>S168</PageReference>
+      <PageReference>S199-200</PageReference>
+    </Child>
+    <Child ReferenceText="intelligence">
+      <PageReference>S166</PageReference>
+    </Child>
+    <Child ReferenceText="lifespan of">
+      <PageReference>S159</PageReference>
+    </Child>
+    <Child ReferenceText="machine civilizations">
+      <PageReference>S200</PageReference>
+    </Child>
+    <Child ReferenceText="metabolism of">
+      <PageReference>S156</PageReference>
+      <PageReference>S157-158</PageReference>
+    </Child>
+    <Child ReferenceText="metamorphosis and shapeshifting">
+      <PageReference>S153</PageReference>
+      <PageReference>S165</PageReference>
+    </Child>
+    <Child ReferenceText="mobility">
+      <PageReference>S146-149</PageReference>
+    </Child>
+    <Child ReferenceText="population density of">
+      <PageReference>S175</PageReference>
+    </Child>
+    <Child ReferenceText="Precursors">
+      <PageReference>S22</PageReference>
+      <PageReference>S181</PageReference>
+    </Child>
+    <Child ReferenceText="psychological traits of">
+      <PageReference>S169-170</PageReference>
+      <PageReference>S175-176</PageReference>
+      <PageReference>S211</PageReference>
+      <PageReference>S225</PageReference>
+    </Child>
+    <Child ReferenceText="reproduction of">
+      <PageReference>S158-161</PageReference>
+      <PageReference>S167-168</PageReference>
+    </Child>
+    <Child ReferenceText="senses of">
+      <PageReference>S161-162</PageReference>
+      <PageReference>S164</PageReference>
+    </Child>
+    <Child ReferenceText="size of">
+      <PageReference>S148-149</PageReference>
+      <PageReference>S151</PageReference>
+    </Child>
+    <Child ReferenceText="skins and hides">
+      <PageReference>S155</PageReference>
+      <PageReference>S157</PageReference>
+    </Child>
+    <Child ReferenceText="special abilities of">
+      <PageReference>S165-166</PageReference>
+    </Child>
+    <Child ReferenceText="trophic level">
+      <PageReference>S143</PageReference>
+    </Child>
+    <Child ReferenceText="with unusual biochemistry">
+      <PageReference>S138-140</PageReference>
+      <PageReference>S154-155</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alliance government type">
+    <PageReference>S22</PageReference>
+    <PageReference>S191-193</PageReference>
+    <Child ReferenceText="alternate names of">
+      <PageReference>S200</PageReference>
+    </Child>
+    <Child ReferenceText="as planetary governments">
+      <PageReference>S201</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Alpha Centauri">
+    <PageReference>S13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Alternate Identity advantage">
+    <PageReference>S219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Amnesia disadvantage">
+    <PageReference>S221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Anarchy government type">
+    <PageReference>S22</PageReference>
+    <PageReference>S190-191</PageReference>
+    <Child ReferenceText="alternate names of">
+      <PageReference>S200</PageReference>
+    </Child>
+    <Child ReferenceText="as planetary governments">
+      <PageReference>S201</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Anderson">
+    <Child ReferenceText="Poul">
+      <PageReference>S14</PageReference>
+      <PageReference>S19</PageReference>
+      <PageReference>S20</PageReference>
+      <PageReference>S23</PageReference>
+      <PageReference>S50</PageReference>
+      <PageReference>S51</PageReference>
+      <PageReference>S74</PageReference>
+      <PageReference>S129</PageReference>
+      <PageReference>S135</PageReference>
+      <PageReference>S181</PageReference>
+      <PageReference>S197</PageReference>
+      <PageReference>S215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Animal skills">
+    <PageReference>S224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Antimatter">
+    <Child ReferenceText="as a resource">
+      <PageReference>S181</PageReference>
+    </Child>
+    <Child ReferenceText="rockets">
+      <PageReference>S33</PageReference>
+    </Child>
+    <Child ReferenceText="pion drives">
+      <PageReference>S33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Appearance">
+    <PageReference>S221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armies">
+    <PageReference>S187-190</PageReference>
+    <Child ReferenceText="organization of">
+      <PageReference>S188</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Artificial intelligences (AIs)">
+    <PageReference>S56</PageReference>
+    <Child ReferenceText="as characters">
+      <PageReference>S218</PageReference>
+    </Child>
+    <Child ReferenceText="and machine civilizations">
+      <PageReference>S200</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Asaro">
+    <Child ReferenceText="Catherine">
+      <PageReference>S9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Asimov">
+    <Child ReferenceText="Isaac">
+      <PageReference>S14</PageReference>
+      <PageReference>S21</PageReference>
+      <PageReference>S22</PageReference>
+      <PageReference>S27</PageReference>
+      <PageReference>S200</PageReference>
+      <PageReference>S218</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Asteroids">
+    <PageReference>S76</PageReference>
+    <PageReference>S130-131</PageReference>
+    <Child ReferenceText="habitats">
+      <PageReference>S132</PageReference>
+    </Child>
+    <Child ReferenceText="placing asteroid belts">
+      <PageReference>S109</PageReference>
+      <PageReference>S110</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Astronauts">
+    <PageReference>S215</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>S226</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Astronomical unit (AU)">
+    <PageReference>S68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Atmospheres">
+    <PageReference>S78-81</PageReference>
+    <Child ReferenceText="determining pressure">
+      <PageReference>S86</PageReference>
+    </Child>
+    <Child ReferenceText="toxic">
+      <PageReference>S78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Autotrophs">
+    <PageReference>S141</PageReference>
+    <PageReference>S143-144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Axial tilt">
+    <PageReference>S118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Babylon 5">
+    <PageReference>S8</PageReference>
+    <PageReference>S13</PageReference>
+    <PageReference>S16</PageReference>
+    <PageReference>S17</PageReference>
+    <PageReference>S21</PageReference>
+    <PageReference>S27</PageReference>
+    <PageReference>S29</PageReference>
+    <PageReference>S218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad Sight disadvantage">
+    <PageReference>S221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banks, Iain M">
+    <Child ReferenceText="">
+      <PageReference>S18</PageReference>
+      <PageReference>S19</PageReference>
+      <PageReference>S21</PageReference>
+      <PageReference>S22</PageReference>
+      <PageReference>S133</PageReference>
+      <PageReference>S191</PageReference>
+      <PageReference>S200</PageReference>
+      <PageReference>S235</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Barnes">
+    <Child ReferenceText="John">
+      <PageReference>S18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic Speed">
+    <PageReference>S138</PageReference>
+    <PageReference>S139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Battlestar Galactica">
+    <PageReference>S14</PageReference>
+    <PageReference>S15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Baum, L">
+    <Child ReferenceText="Frank">
+      <PageReference>S216</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bear">
+    <Child ReferenceText="Greg">
+      <PageReference>S51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Benford">
+    <Child ReferenceText="Gregory">
+      <PageReference>S200</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Beowulf">
+    <PageReference>S135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bester">
+    <Child ReferenceText="Alfred">
+      <PageReference>S218</PageReference>
+      <PageReference>S228</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioengineering skill">
+    <PageReference>S224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioroids">
+    <PageReference>S54</PageReference>
+    <Child ReferenceText="as soldiers">
+      <PageReference>S189</PageReference>
+    </Child>
+    <Child ReferenceText="and uploading">
+      <PageReference>S57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Biotechnology">
+    <PageReference>S51-54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Black holes">
+    <PageReference>S126</PageReference>
+    <Child ReferenceText="as a resource">
+      <PageReference>S181</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Blackbody temperature">
+    <PageReference>S84</PageReference>
+    <PageReference>S113</PageReference>
+    <PageReference>S130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blish">
+    <Child ReferenceText="James">
+      <PageReference>S13</PageReference>
+      <PageReference>S21</PageReference>
+      <PageReference>S52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Boating skill">
+    <PageReference>S224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bode’s Law">
+    <PageReference>S108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bounty hunters">
+    <PageReference>S17</PageReference>
+    <Child ReferenceText="adventure seed">
+      <PageReference>S212</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>S227</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bova">
+    <Child ReferenceText="Ben">
+      <PageReference>S29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brackett">
+    <Child ReferenceText="Leigh">
+      <PageReference>S14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brin">
+    <Child ReferenceText="David">
+      <PageReference>S16</PageReference>
+      <PageReference>S21</PageReference>
+      <PageReference>S37</PageReference>
+      <PageReference>S54</PageReference>
+      <PageReference>S56</PageReference>
+      <PageReference>S175</PageReference>
+      <PageReference>S217</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Browsers">
+    <PageReference>S144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bujold">
+    <Child ReferenceText="Lois McMaster">
+      <PageReference>S9</PageReference>
+      <PageReference>S15</PageReference>
+      <PageReference>S51</PageReference>
+      <PageReference>S191</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bunch">
+    <Child ReferenceText="Chris">
+      <PageReference>S23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bureaucrats">
+    <PageReference>S17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burroughs">
+    <Child ReferenceText="Edgar Rice">
+      <PageReference>S14</PageReference>
+      <PageReference>S22</PageReference>
+      <PageReference>S29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Busby, F">
+    <Child ReferenceText="M" />
+    <Child ReferenceText="">
+      <PageReference>S23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Caidin">
+    <Child ReferenceText="Martin">
+      <PageReference>S216</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Calendar">
+    <Child ReferenceText="local">
+      <PageReference>S118</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaign design">
+    <PageReference>S7</PageReference>
+    <Child ReferenceText="tone">
+      <PageReference>S9</PageReference>
+    </Child>
+    <Child ReferenceText="types of campaigns">
+      <PageReference>S11-20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Campbell, John W">
+    <Child ReferenceText="">
+      <PageReference>S166</PageReference>
+      <PageReference>S217</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cannot Speak disadvantage">
+    <PageReference>S221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Capek">
+    <Child ReferenceText="Karel">
+      <PageReference>S218</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cargo">
+    <PageReference>S48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Carnivores">
+    <PageReference>S144-145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catapults">
+    <PageReference>S34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chandler, A">
+    <Child ReferenceText="Bertram">
+      <PageReference>S19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <PageReference>S214-235</PageReference>
+    <Child ReferenceText="common origins">
+      <PageReference>S65</PageReference>
+    </Child>
+    <Child ReferenceText="templates">
+      <PageReference>S226-235</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Charisma advantage">
+    <PageReference>S219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chasers">
+    <PageReference>S145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemosynthesis">
+    <PageReference>S141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cherryh, C">
+    <Child ReferenceText="J" />
+    <Child ReferenceText="">
+      <PageReference>S13</PageReference>
+      <PageReference>S15</PageReference>
+      <PageReference>S19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Civil rights">
+    <PageReference>S173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Civilizations">
+    <SeeAlso>Societies</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Clades">
+    <PageReference>S165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clarke, Arthur C">
+    <Child ReferenceText="">
+      <PageReference>S6</PageReference>
+      <PageReference>S12</PageReference>
+      <PageReference>S20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Clockwork Orange">
+    <Child ReferenceText="A">
+      <PageReference>S186</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cloning">
+    <PageReference>S52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor disadvantages">
+    <PageReference>S221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cole">
+    <Child ReferenceText="Allan">
+      <PageReference>S23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Colonies">
+    <PageReference>S90</PageReference>
+    <Child ReferenceText="Office of Colonial Affairs">
+      <PageReference>S25</PageReference>
+      <PageReference>S203</PageReference>
+    </Child>
+    <Child ReferenceText="population of">
+      <PageReference>S92</PageReference>
+    </Child>
+    <Child ReferenceText="secondary">
+      <PageReference>S121-123</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Colonists">
+    <Child ReferenceText="template">
+      <PageReference>S227</PageReference>
+    </Child>
+    <Child ReferenceText="adventure seed">
+      <PageReference>S212</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Comets">
+    <PageReference>S131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Communications">
+    <PageReference>S55-57</PageReference>
+    <Child ReferenceText="shipboard">
+      <PageReference>S46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <PageReference>S55-57</PageReference>
+    <Child ReferenceText="shipboard">
+      <PageReference>S43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Con Man template">
+    <PageReference>S228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Consumers">
+    <PageReference>S142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Control Rating (CR)">
+    <PageReference>S173-174</PageReference>
+    <Child ReferenceText="of planets">
+      <PageReference>S94</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Corporate State government type">
+    <PageReference>S23</PageReference>
+    <PageReference>S195-196</PageReference>
+    <Child ReferenceText="alternate names of">
+      <PageReference>S200</PageReference>
+    </Child>
+    <Child ReferenceText="as planetary governments">
+      <PageReference>S201</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Corporations">
+    <PageReference>S26</PageReference>
+    <PageReference>S98</PageReference>
+    <PageReference>S205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corruptibility">
+    <PageReference>S174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Adaptability advantage">
+    <PageReference>S219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cultural Familiarity advantage">
+    <PageReference>S219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cybernetics">
+    <PageReference>S216</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cycler stations">
+    <PageReference>S35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="De Bergerac">
+    <Child ReferenceText="Cyrano">
+      <PageReference>S29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="De Camp, L">
+    <Child ReferenceText="Sprague">
+      <PageReference>S12</PageReference>
+      <PageReference>S14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Decomposers">
+    <PageReference>S144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defenses">
+    <PageReference>S61</PageReference>
+    <Child ReferenceText="shipboard">
+      <PageReference>S45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Delany, Samuel R">
+    <Child ReferenceText="">
+      <PageReference>S17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Delta-V">
+    <PageReference>S32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dependency disadvantage">
+    <PageReference>S221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detective template">
+    <PageReference>S228</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dick, Philip K">
+    <Child ReferenceText="">
+      <PageReference>S20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Digital Mind advantage">
+    <PageReference>S219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diplomatic Corps">
+    <PageReference>S24</PageReference>
+    <PageReference>S202</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>S220-224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Distances">
+    <PageReference>S68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disturbing Voice disadvantage">
+    <PageReference>S221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doctor template">
+    <PageReference>S229</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dr">
+    <Child ReferenceText="Who">
+      <PageReference>S20</PageReference>
+      <PageReference>S21</PageReference>
+      <PageReference>S200</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drake">
+    <Child ReferenceText="David">
+      <PageReference>S15</PageReference>
+      <PageReference>S16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drives">
+    <PageReference>S31-42</PageReference>
+    <Child ReferenceText="antimatter pion">
+      <PageReference>S33</PageReference>
+    </Child>
+    <Child ReferenceText="catapults and tethers, 34-35 Dean">
+      <PageReference>S36</PageReference>
+    </Child>
+    <Child ReferenceText="designing star drives">
+      <PageReference>S41</PageReference>
+    </Child>
+    <Child ReferenceText="diametric">
+      <PageReference>S36</PageReference>
+    </Child>
+    <Child ReferenceText="hyperdrives">
+      <PageReference>S37-38</PageReference>
+    </Child>
+    <Child ReferenceText="inertialess">
+      <PageReference>S40</PageReference>
+    </Child>
+    <Child ReferenceText="ion">
+      <PageReference>S32</PageReference>
+    </Child>
+    <Child ReferenceText="jump">
+      <PageReference>S38-39</PageReference>
+    </Child>
+    <Child ReferenceText="maneuver">
+      <PageReference>S31-37</PageReference>
+      <PageReference>S32</PageReference>
+    </Child>
+    <Child ReferenceText="probability">
+      <PageReference>S39</PageReference>
+    </Child>
+    <Child ReferenceText="reaction">
+      <PageReference>S31-33</PageReference>
+    </Child>
+    <Child ReferenceText="reactionless">
+      <PageReference>S36-37</PageReference>
+    </Child>
+    <Child ReferenceText="rockets">
+      <PageReference>S31-33</PageReference>
+    </Child>
+    <Child ReferenceText="sails">
+      <PageReference>S33-34</PageReference>
+    </Child>
+    <Child ReferenceText="star">
+      <PageReference>S37-42</PageReference>
+    </Child>
+    <Child ReferenceText="total conversion">
+      <PageReference>S33</PageReference>
+    </Child>
+    <Child ReferenceText="warp">
+      <PageReference>S40-41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Duck Dodgers in the 24 1/2 Century">
+    <PageReference>S135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dyson">
+    <Child ReferenceText="Freeman">
+      <PageReference>S12</PageReference>
+      <PageReference>S133</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Earth diameter">
+    <PageReference>S68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ecology">
+    <PageReference>S141</PageReference>
+    <Child ReferenceText="and alien behavior">
+      <PageReference>S167</PageReference>
+    </Child>
+    <Child ReferenceText="and effect on society">
+      <PageReference>S175</PageReference>
+    </Child>
+    <Child ReferenceText="and size of creatures">
+      <PageReference>S150</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Economics">
+    <PageReference>S180-184</PageReference>
+    <Child ReferenceText="economic freedom">
+      <PageReference>S173</PageReference>
+    </Child>
+    <Child ReferenceText="economic output">
+      <PageReference>S180</PageReference>
+    </Child>
+    <Child ReferenceText="of planets">
+      <PageReference>S95</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Electrical disadvantage">
+    <PageReference>S221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Empire government type">
+    <PageReference>S23</PageReference>
+    <PageReference>S197-199</PageReference>
+    <PageReference>S200</PageReference>
+    <Child ReferenceText="as planetary governments">
+      <PageReference>S201</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemy disadvantage">
+    <PageReference>S221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Engineers">
+    <PageReference>S20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Environment Suit skill">
+    <PageReference>S224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Environments">
+    <PageReference>S142</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Erotic Art skill">
+    <PageReference>S224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Explorers">
+    <Child ReferenceText="as player characters">
+      <PageReference>S11</PageReference>
+      <PageReference>S215</PageReference>
+    </Child>
+    <Child ReferenceText="template">
+      <PageReference>S230</PageReference>
+    </Child>
+    <Child ReferenceText="adventure seed">
+      <PageReference>S212</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Explosives skill">
+    <PageReference>S224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Farscape">
+    <PageReference>S219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Federation government type">
+    <PageReference>S23</PageReference>
+    <PageReference>S193-195</PageReference>
+    <Child ReferenceText="alternate names of">
+      <PageReference>S200</PageReference>
+    </Child>
+    <Child ReferenceText="as planetary governments">
+      <PageReference>S201</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Feudalism">
+    <PageReference>S199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Filter feeding">
+    <PageReference>S144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firefly">
+    <PageReference>S27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flynn">
+    <Child ReferenceText="Michael">
+      <PageReference>S29</PageReference>
+      <PageReference>S31</PageReference>
+      <PageReference>S93</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Forbidden zones">
+    <PageReference>S107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ford, John M">
+    <Child ReferenceText="">
+      <PageReference>S197</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Forward">
+    <Child ReferenceText="Robert">
+      <PageReference>S33</PageReference>
+      <PageReference>S140</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Foster">
+    <Child ReferenceText="Alan Dean">
+      <PageReference>S23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fragile disadvantage">
+    <PageReference>S221</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Free Trade League">
+    <PageReference>S26</PageReference>
+    <PageReference>S205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="FTL Radio">
+    <PageReference>S45-57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gagarin">
+    <Child ReferenceText="Yuri">
+      <PageReference>S215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Galaxies">
+    <PageReference>S68-70</PageReference>
+    <Child ReferenceText="galactic alliances">
+      <PageReference>S193</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gas giants">
+    <PageReference>S77</PageReference>
+    <Child ReferenceText="arrangements of">
+      <PageReference>S107</PageReference>
+    </Child>
+    <Child ReferenceText="determining size">
+      <PageReference>S110</PageReference>
+      <PageReference>S115</PageReference>
+    </Child>
+    <Child ReferenceText="and moons">
+      <PageReference>S111</PageReference>
+      <PageReference>S124-125</PageReference>
+    </Child>
+    <Child ReferenceText="placing">
+      <PageReference>S110</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gathering">
+    <PageReference>S144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Generation ships">
+    <PageReference>S37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Genetic engineering">
+    <PageReference>S52</PageReference>
+    <PageReference>S216</PageReference>
+    <PageReference>S217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="G-Experience advantage">
+    <PageReference>S220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gibson">
+    <Child ReferenceText="William">
+      <PageReference>S17</PageReference>
+      <PageReference>S18</PageReference>
+      <PageReference>S19</PageReference>
+      <PageReference>S51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="G-Intolerance disadvantage">
+    <PageReference>S222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goddard">
+    <Child ReferenceText="Robert">
+      <PageReference>S6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Godwin">
+    <Child ReferenceText="Francis">
+      <PageReference>S6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Goonan">
+    <Child ReferenceText="Katherine Ann">
+      <PageReference>S51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Governments">
+    <PageReference>S190-202</PageReference>
+    <Child ReferenceText="alternate names of">
+      <PageReference>S200</PageReference>
+    </Child>
+    <Child ReferenceText="avenues to power">
+      <PageReference>S174-175</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravity">
+    <Child ReferenceText="shipboard">
+      <PageReference>S43</PageReference>
+    </Child>
+    <Child ReferenceText="surface">
+      <PageReference>S85-86</PageReference>
+    </Child>
+    <Child ReferenceText="and buoyancy">
+      <PageReference>S150</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gravity trade model">
+    <PageReference>S95</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grazing">
+    <PageReference>S144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Green Lantern Corps">
+    <PageReference>S215</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greenhouse factor">
+    <PageReference>S84</PageReference>
+    <PageReference>S85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Griffiths">
+    <Child ReferenceText="George">
+      <PageReference>S6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Reign of Steel">
+    <PageReference>S218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Steampunk">
+    <PageReference>S29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Habitats">
+    <Child ReferenceText="artificial">
+      <PageReference>S132</PageReference>
+    </Child>
+    <Child ReferenceText="alien">
+      <PageReference>S143</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Haldeman">
+    <Child ReferenceText="Joe">
+      <PageReference>S15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hale">
+    <Child ReferenceText="Edward Everett">
+      <PageReference>S6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Halo">
+    <PageReference>S133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hamilton">
+    <Child ReferenceText="Edmond">
+      <PageReference>S215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Harrison">
+    <Child ReferenceText="Harry">
+      <PageReference>S13</PageReference>
+      <PageReference>S17</PageReference>
+      <PageReference>S18</PageReference>
+      <PageReference>S20</PageReference>
+      <PageReference>S235</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heinlein">
+    <Child ReferenceText="Robert">
+      <PageReference>S7</PageReference>
+      <PageReference>S13</PageReference>
+      <PageReference>S15</PageReference>
+      <PageReference>S16</PageReference>
+      <PageReference>S18</PageReference>
+      <PageReference>S19</PageReference>
+      <PageReference>S21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heppenheimer, T">
+    <Child ReferenceText="A" />
+    <Child ReferenceText="">
+      <PageReference>S13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Herbert">
+    <Child ReferenceText="Frank">
+      <PageReference>S21</PageReference>
+      <PageReference>S29</PageReference>
+      <PageReference>S61</PageReference>
+      <PageReference>S181</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Herbivores">
+    <PageReference>S144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High TL advantage">
+    <PageReference>S220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hijackers">
+    <PageReference>S145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Homeworlds">
+    <PageReference>S89</PageReference>
+    <Child ReferenceText="population of">
+      <PageReference>S92</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypnotism skill">
+    <PageReference>S224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imperiums">
+    <PageReference>S199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improved G-Tolerance advantage">
+    <PageReference>S220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Increased Life Support disadvantage">
+    <PageReference>S222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inner limit radius">
+    <PageReference>S106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Interstellar Trade Commission">
+    <PageReference>S24</PageReference>
+    <PageReference>S202-203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jones, D">
+    <Child ReferenceText="F" />
+    <Child ReferenceText="">
+      <PageReference>S218</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jump drives">
+    <PageReference>S38-39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kepler">
+    <Child ReferenceText="Johannes">
+      <PageReference>S6</PageReference>
+      <PageReference>S218</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kornbluth">
+    <Child ReferenceText="Cyril">
+      <PageReference>S166</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="K-strategy">
+    <PageReference>S159</PageReference>
+    <PageReference>S160</PageReference>
+    <PageReference>S161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kuiper Belt">
+    <PageReference>S131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lagrange points">
+    <PageReference>S13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Languages advantage">
+    <PageReference>S220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laumer">
+    <Child ReferenceText="Keith">
+      <PageReference>S19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Law">
+    <PageReference>S184-187</PageReference>
+    <Child ReferenceText="in alliances">
+      <PageReference>S192</PageReference>
+    </Child>
+    <Child ReferenceText="in anarchies">
+      <PageReference>S191</PageReference>
+    </Child>
+    <Child ReferenceText="in corporate states">
+      <PageReference>S195</PageReference>
+    </Child>
+    <Child ReferenceText="corruptibility">
+      <PageReference>S174</PageReference>
+    </Child>
+    <Child ReferenceText="in empires">
+      <PageReference>S198</PageReference>
+    </Child>
+    <Child ReferenceText="in federations">
+      <PageReference>S194</PageReference>
+    </Child>
+    <Child ReferenceText="legal restrictions">
+      <PageReference>S173</PageReference>
+    </Child>
+    <Child ReferenceText="punishment severity">
+      <PageReference>S174</PageReference>
+    </Child>
+    <Child ReferenceText="and Special Justice Group">
+      <PageReference>S26</PageReference>
+      <PageReference>S204</PageReference>
+    </Child>
+    <Child ReferenceText="ubiquitous law enforcement">
+      <PageReference>S56</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lecherousness disadvantage">
+    <PageReference>S222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Life">
+    <PageReference>S136-141</PageReference>
+    <Child ReferenceText="artificial">
+      <PageReference>S54</PageReference>
+      <PageReference>S141</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Life pods">
+    <PageReference>S48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Life support">
+    <PageReference>S43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lifebane disadvantage">
+    <PageReference>S222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light-year (ly)">
+    <PageReference>S68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Linguistics skill">
+    <PageReference>S224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lip Reading skill">
+    <PageReference>S225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lost in Space">
+    <PageReference>S20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lucian of Samosata">
+    <PageReference>S218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luminosity">
+    <PageReference>S103</PageReference>
+    <Child ReferenceText="luminosity class">
+      <PageReference>S100</PageReference>
+    </Child>
+    <Child ReferenceText="and massive stars">
+      <PageReference>S126</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Macro-Life">
+    <PageReference>S191</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery advantage">
+    <PageReference>S220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Maneuver drives">
+    <SeeAlso>Drives</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Maps">
+    <Child ReferenceText="preferred scale">
+      <PageReference>S72</PageReference>
+    </Child>
+    <Child ReferenceText="galactic">
+      <PageReference>S67-72</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Marines">
+    <PageReference>S15</PageReference>
+    <PageReference>S194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical skills">
+    <PageReference>S225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medicine">
+    <PageReference>S52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Merchants">
+    <PageReference>S216</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>S230</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Metaplot">
+    <PageReference>S209</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military forces">
+    <PageReference>S187-190</PageReference>
+    <Child ReferenceText="in alliances">
+      <PageReference>S192</PageReference>
+    </Child>
+    <Child ReferenceText="in anarchies">
+      <PageReference>S190-191</PageReference>
+    </Child>
+    <Child ReferenceText="in corporate states">
+      <PageReference>S195</PageReference>
+    </Child>
+    <Child ReferenceText="in empires">
+      <PageReference>S198</PageReference>
+      <PageReference>S193</PageReference>
+    </Child>
+    <Child ReferenceText="mercenaries">
+      <PageReference>S14</PageReference>
+      <PageReference>S26</PageReference>
+      <PageReference>S98</PageReference>
+      <PageReference>S187</PageReference>
+      <PageReference>S205</PageReference>
+      <PageReference>S213</PageReference>
+    </Child>
+    <Child ReferenceText="Mercenary Regulatory Agency">
+      <PageReference>S24</PageReference>
+      <PageReference>S203</PageReference>
+    </Child>
+    <Child ReferenceText="player character teams">
+      <PageReference>S214</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Military Rank advantage">
+    <PageReference>S189</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Milton">
+    <Child ReferenceText="John">
+      <PageReference>S67</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mimicry skill">
+    <PageReference>S225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mobile Suit Gundam">
+    <PageReference>S13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Money">
+    <PageReference>S182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <PageReference>S135</PageReference>
+    <PageReference>S211-212</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Moons">
+    <SeeAlso>Satellites</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Nanotechnology">
+    <PageReference>S58-60</PageReference>
+    <Child ReferenceText="and military logistics">
+      <PageReference>S189</PageReference>
+    </Child>
+    <Child ReferenceText="nanosymbiosis">
+      <PageReference>S53</PageReference>
+    </Child>
+    <Child ReferenceText="swarms and goo">
+      <PageReference>S59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Navies">
+    <PageReference>S25</PageReference>
+    <PageReference>S98</PageReference>
+    <PageReference>S203</PageReference>
+    <PageReference>S213</PageReference>
+    <Child ReferenceText="in empires">
+      <PageReference>S198</PageReference>
+    </Child>
+    <Child ReferenceText="organization of">
+      <PageReference>S188</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Navigation errors">
+    <PageReference>S42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="News services">
+    <PageReference>S26</PageReference>
+    <PageReference>S205</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Niven">
+    <Child ReferenceText="Larry">
+      <PageReference>S12</PageReference>
+      <PageReference>S20</PageReference>
+      <PageReference>S21</PageReference>
+      <PageReference>S22</PageReference>
+      <PageReference>S23</PageReference>
+      <PageReference>S33</PageReference>
+      <PageReference>S43</PageReference>
+      <PageReference>S50</PageReference>
+      <PageReference>S60</PageReference>
+      <PageReference>S73</PageReference>
+      <PageReference>S130</PageReference>
+      <PageReference>S133</PageReference>
+      <PageReference>S135</PageReference>
+      <PageReference>S186</PageReference>
+      <PageReference>S191</PageReference>
+      <PageReference>S197</PageReference>
+      <PageReference>S217</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Norton">
+    <Child ReferenceText="Andre">
+      <PageReference>S16</PageReference>
+      <PageReference>S19</PageReference>
+      <PageReference>S22</PageReference>
+      <PageReference>S25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Omnivores">
+    <PageReference>S145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="O’Neill, Gerald K">
+    <Child ReferenceText="">
+      <PageReference>S12</PageReference>
+      <PageReference>S13</PageReference>
+      <PageReference>S132</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Oort Cloud">
+    <PageReference>S131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orbital eccentricity">
+    <PageReference>S116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orbital period">
+    <PageReference>S115-116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Orbital spacing">
+    <PageReference>S108-109</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Organization, The, ” 26">
+    <PageReference>S206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Organizations">
+    <PageReference>S24</PageReference>
+    <PageReference>S202-206</PageReference>
+    <Child ReferenceText="and campaign design">
+      <PageReference>S7</PageReference>
+    </Child>
+    <Child ReferenceText="government">
+      <PageReference>S24-26</PageReference>
+      <PageReference>S202-205</PageReference>
+    </Child>
+    <Child ReferenceText="private">
+      <PageReference>S26-27</PageReference>
+      <PageReference>S205-206</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Orwell">
+    <Child ReferenceText="George">
+      <PageReference>S18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Outer limit radius">
+    <PageReference>S106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Outposts">
+    <PageReference>S90</PageReference>
+    <Child ReferenceText="and campaign design">
+      <PageReference>S8</PageReference>
+    </Child>
+    <Child ReferenceText="population of">
+      <PageReference>S93</PageReference>
+    </Child>
+    <Child ReferenceText="secondary">
+      <PageReference>S121-122</PageReference>
+      <PageReference>S123</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pacifism disadvantage">
+    <PageReference>S222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paleontology skill">
+    <PageReference>S225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pantropy">
+    <PageReference>S52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parasites">
+    <PageReference>S145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parsec (pc)">
+    <PageReference>S68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrol">
+    <Child ReferenceText="in alliances">
+      <PageReference>S192</PageReference>
+    </Child>
+    <Child ReferenceText="in federations">
+      <PageReference>S193</PageReference>
+    </Child>
+    <Child ReferenceText="the">
+      <PageReference>S25</PageReference>
+      <PageReference>S98</PageReference>
+      <PageReference>S203-204</PageReference>
+      <PageReference>S213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Phobia disadvantage">
+    <PageReference>S222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Piloting skill">
+    <PageReference>S225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Piper, H">
+    <Child ReferenceText="Beam">
+      <PageReference>S12</PageReference>
+      <PageReference>S15</PageReference>
+      <PageReference>S22</PageReference>
+      <PageReference>S193</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pirates">
+    <PageReference>S17</PageReference>
+    <PageReference>S98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pitch Black">
+    <PageReference>S24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Planets">
+    <PageReference>S27</PageReference>
+    <Child ReferenceText="affinity score">
+      <PageReference>S88</PageReference>
+    </Child>
+    <Child ReferenceText="atmospheric characteristics">
+      <PageReference>S78-81</PageReference>
+      <PageReference>S86</PageReference>
+    </Child>
+    <Child ReferenceText="axial tilt">
+      <PageReference>S118</PageReference>
+    </Child>
+    <Child ReferenceText="bases and installations on">
+      <PageReference>S96-98</PageReference>
+    </Child>
+    <Child ReferenceText="carrying capacity">
+      <PageReference>S91</PageReference>
+    </Child>
+    <Child ReferenceText="climate">
+      <PageReference>S83-84</PageReference>
+    </Child>
+    <Child ReferenceText="control rating">
+      <PageReference>S94</PageReference>
+    </Child>
+    <Child ReferenceText="depth of detail">
+      <PageReference>S66-67</PageReference>
+    </Child>
+    <Child ReferenceText="design 73-98" />
+    <Child ReferenceText="determining populations">
+      <PageReference>S91-93</PageReference>
+      <PageReference>S122-123</PageReference>
+    </Child>
+    <Child ReferenceText="dramatic roles">
+      <PageReference>S63-66</PageReference>
+    </Child>
+    <Child ReferenceText="economics of">
+      <PageReference>S95</PageReference>
+    </Child>
+    <Child ReferenceText="gas giants">
+      <PageReference>S107</PageReference>
+    </Child>
+    <Child ReferenceText="geologic activity">
+      <PageReference>S119</PageReference>
+    </Child>
+    <Child ReferenceText="governments of">
+      <PageReference>S201-202</PageReference>
+    </Child>
+    <Child ReferenceText="gravity">
+      <PageReference>S85-86</PageReference>
+    </Child>
+    <Child ReferenceText="habitability score">
+      <PageReference>S88</PageReference>
+      <PageReference>S121</PageReference>
+    </Child>
+    <Child ReferenceText="hydrographic characteristics">
+      <PageReference>S81-82</PageReference>
+    </Child>
+    <Child ReferenceText="local calendar">
+      <PageReference>S118</PageReference>
+    </Child>
+    <Child ReferenceText="orbital eccentricity">
+      <PageReference>S115</PageReference>
+    </Child>
+    <Child ReferenceText="orbital period">
+      <PageReference>S115</PageReference>
+    </Child>
+    <Child ReferenceText="placing moons">
+      <PageReference>S111-112</PageReference>
+    </Child>
+    <Child ReferenceText="resonant">
+      <PageReference>S125</PageReference>
+    </Child>
+    <Child ReferenceText="retention of volatiles">
+      <PageReference>S86</PageReference>
+    </Child>
+    <Child ReferenceText="rogue">
+      <PageReference>S128-129</PageReference>
+    </Child>
+    <Child ReferenceText="rotation period">
+      <PageReference>S117</PageReference>
+    </Child>
+    <Child ReferenceText="settlement type">
+      <PageReference>S89</PageReference>
+    </Child>
+    <Child ReferenceText="size">
+      <PageReference>S84-86</PageReference>
+    </Child>
+    <Child ReferenceText="society type">
+      <PageReference>S93-94</PageReference>
+      <PageReference>S123</PageReference>
+    </Child>
+    <Child ReferenceText="terraformed">
+      <PageReference>S129</PageReference>
+    </Child>
+    <Child ReferenceText="tidal braking">
+      <PageReference>S117</PageReference>
+    </Child>
+    <Child ReferenceText="tidelocked">
+      <PageReference>S125</PageReference>
+    </Child>
+    <Child ReferenceText="trade between">
+      <PageReference>S95-96</PageReference>
+    </Child>
+    <Child ReferenceText="types of">
+      <PageReference>S75-77</PageReference>
+      <PageReference>S113-114</PageReference>
+      <PageReference>S224</PageReference>
+    </Child>
+    <Child ReferenceText="world unity">
+      <PageReference>S93</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Poe">
+    <Child ReferenceText="Edgar Allen">
+      <PageReference>S6</PageReference>
+      <PageReference>S217</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pohl">
+    <Child ReferenceText="Frederik">
+      <PageReference>S13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Politics">
+    <Child ReferenceText="avenues to power">
+      <PageReference>S174-175</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Population Rating (PR)">
+    <PageReference>S91</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Postal Authority">
+    <PageReference>S25</PageReference>
+    <PageReference>S204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pouncers">
+    <PageReference>S145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pournelle">
+    <Child ReferenceText="Jerry">
+      <PageReference>S22</PageReference>
+      <PageReference>S23</PageReference>
+      <PageReference>S25</PageReference>
+      <PageReference>S29</PageReference>
+      <PageReference>S33</PageReference>
+      <PageReference>S43</PageReference>
+      <PageReference>S197</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Power">
+    <PageReference>S60</PageReference>
+    <Child ReferenceText="shipboard">
+      <PageReference>S47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pratchett">
+    <Child ReferenceText="Terry">
+      <PageReference>S20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Primary producers">
+    <SeeAlso>Autotrophs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionics">
+    <PageReference>S217-218</PageReference>
+    <Child ReferenceText="powers in aliens">
+      <PageReference>S166</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Studies Institute">
+      <PageReference>S27</PageReference>
+      <PageReference>S206</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pulsars">
+    <PageReference>S126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pythagorean formula">
+    <PageReference>S68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Racial Memory advantage">
+    <PageReference>S220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ramjets">
+    <Child ReferenceText="Bussard">
+      <PageReference>S34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rangers">
+    <PageReference>S16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rebellions">
+    <PageReference>S16</PageReference>
+    <PageReference>S98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Red Dwarf">
+    <PageReference>S20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Relativity effects">
+    <PageReference>S36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant advantage">
+    <PageReference>S220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resnick">
+    <Child ReferenceText="Mike">
+      <PageReference>S17</PageReference>
+      <PageReference>S27</PageReference>
+      <PageReference>S227</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Resource Value Modifier (RVM)">
+    <PageReference>S87</PageReference>
+    <PageReference>S121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Restricted Diet disadvantage">
+    <PageReference>S222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reynolds">
+    <Child ReferenceText="Alistair">
+      <PageReference>S12</PageReference>
+      <PageReference>S18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ringworlds">
+    <PageReference>S133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robinson">
+    <Child ReferenceText="Kim Stanley">
+      <PageReference>S18</PageReference>
+      <PageReference>S20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Robots">
+    <PageReference>S56</PageReference>
+    <Child ReferenceText="bush robots">
+      <PageReference>S56</PageReference>
+    </Child>
+    <Child ReferenceText="as characters">
+      <PageReference>S218</PageReference>
+    </Child>
+    <Child ReferenceText="machine civilizations">
+      <PageReference>S200</PageReference>
+    </Child>
+    <Child ReferenceText="as soldiers">
+      <PageReference>S189</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rockets">
+    <PageReference>S31-33</PageReference>
+    <Child ReferenceText="principles of">
+      <PageReference>S31</PageReference>
+    </Child>
+    <Child ReferenceText="types of">
+      <PageReference>S32-33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rosettes">
+    <PageReference>S133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rotation period">
+    <PageReference>S117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="R-strategy">
+    <PageReference>S159</PageReference>
+    <PageReference>S160</PageReference>
+    <PageReference>S161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Russell">
+    <Child ReferenceText="Eric Frank">
+      <PageReference>S19</PageReference>
+      <PageReference>S231</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Saberhagen">
+    <Child ReferenceText="Fred">
+      <PageReference>S141</PageReference>
+      <PageReference>S200</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sails">
+    <PageReference>S33-34</PageReference>
+    <Child ReferenceText="in hyperspace">
+      <PageReference>S38</PageReference>
+    </Child>
+    <Child ReferenceText="light">
+      <PageReference>S33</PageReference>
+    </Child>
+    <Child ReferenceText="magnetic">
+      <PageReference>S34</PageReference>
+    </Child>
+    <Child ReferenceText="plasma">
+      <PageReference>S34</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Satellites">
+    <Child ReferenceText="and gas giants">
+      <PageReference>S111</PageReference>
+      <PageReference>S124-125</PageReference>
+    </Child>
+    <Child ReferenceText="orbital period">
+      <PageReference>S117</PageReference>
+    </Child>
+    <Child ReferenceText="orbital radius">
+      <PageReference>S115</PageReference>
+    </Child>
+    <Child ReferenceText="placing">
+      <PageReference>S111</PageReference>
+    </Child>
+    <Child ReferenceText="size of">
+      <PageReference>S112</PageReference>
+    </Child>
+    <Child ReferenceText="tidal braking">
+      <PageReference>S117</PageReference>
+    </Child>
+    <Child ReferenceText="of brown dwarfs">
+      <PageReference>S128</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Savoir-Faire skill">
+    <PageReference>S225</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scale and Scope">
+    <PageReference>S8-9</PageReference>
+    <Child ReferenceText="campaign design">
+      <PageReference>S8</PageReference>
+    </Child>
+    <Child ReferenceText="distances">
+      <PageReference>S68</PageReference>
+    </Child>
+    <Child ReferenceText="escalating scale">
+      <PageReference>S10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scavengers">
+    <PageReference>S144-145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Schroeder">
+    <Child ReferenceText="Karl">
+      <PageReference>S51</PageReference>
+      <PageReference>S128</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Science Fiction">
+    <Child ReferenceText="planetary romance">
+      <PageReference>S14</PageReference>
+    </Child>
+    <Child ReferenceText="and realism">
+      <PageReference>S11</PageReference>
+      <PageReference>S67</PageReference>
+    </Child>
+    <Child ReferenceText="hard and soft">
+      <PageReference>S7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Scientists">
+    <Child ReferenceText="template">
+      <PageReference>S231</PageReference>
+    </Child>
+    <Child ReferenceText="adventure seed">
+      <PageReference>S213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Secret agents">
+    <Child ReferenceText="template">
+      <PageReference>S231</PageReference>
+    </Child>
+    <Child ReferenceText="adventure seed">
+      <PageReference>S213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Security and Intelligence Agency">
+    <PageReference>S25</PageReference>
+    <PageReference>S204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Security officer template">
+    <PageReference>S232</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensors">
+    <PageReference>S46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sheckley">
+    <Child ReferenceText="Robert">
+      <PageReference>S20</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shelley">
+    <Child ReferenceText="Mary">
+      <PageReference>S218</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sickbay">
+    <PageReference>S47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Simmons">
+    <Child ReferenceText="Dan">
+      <PageReference>S21</PageReference>
+      <PageReference>S29</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>S224-226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Smith">
+    <Child ReferenceText="Cordwainer">
+      <PageReference>S186</PageReference>
+      <PageReference>S217</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smith, E">
+    <Child ReferenceText="E" />
+    <Child ReferenceText="“Doc”">
+      <PageReference>S6</PageReference>
+      <PageReference>S10</PageReference>
+      <PageReference>S16</PageReference>
+      <PageReference>S40</PageReference>
+      <PageReference>S50</PageReference>
+      <PageReference>S87</PageReference>
+      <PageReference>S175</PageReference>
+      <PageReference>S215</PageReference>
+      <PageReference>S231</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smith, L">
+    <Child ReferenceText="Neil">
+      <PageReference>S18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Snow line radius">
+    <PageReference>S106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Chameleon advantage">
+    <PageReference>S220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Science skill">
+    <PageReference>S226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Social Stigma disadvantage">
+    <PageReference>S222</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Societies">
+    <PageReference>S22</PageReference>
+    <PageReference>S172-189</PageReference>
+    <Child ReferenceText="and alien behavior">
+      <PageReference>S167-168</PageReference>
+      <PageReference>S199-201</PageReference>
+    </Child>
+    <Child ReferenceText="and biology">
+      <PageReference>S175-176</PageReference>
+    </Child>
+    <Child ReferenceText="and campaign design">
+      <PageReference>S7</PageReference>
+      <PageReference>S8</PageReference>
+      <PageReference>S22-23</PageReference>
+      <PageReference>S172-173</PageReference>
+    </Child>
+    <Child ReferenceText="corruptibility">
+      <PageReference>S174</PageReference>
+    </Child>
+    <Child ReferenceText="and economics">
+      <PageReference>S180-184</PageReference>
+    </Child>
+    <Child ReferenceText="and law">
+      <PageReference>S184-187</PageReference>
+    </Child>
+    <Child ReferenceText="and military forces">
+      <PageReference>S187-190</PageReference>
+    </Child>
+    <Child ReferenceText="and psionics">
+      <PageReference>S218</PageReference>
+    </Child>
+    <Child ReferenceText="and robots">
+      <PageReference>S218</PageReference>
+    </Child>
+    <Child ReferenceText="and social control">
+      <PageReference>S174</PageReference>
+    </Child>
+    <Child ReferenceText="and technology">
+      <PageReference>S177-180</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Solar mass">
+    <PageReference>S101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soldiers">
+    <Child ReferenceText="template">
+      <PageReference>S233</PageReference>
+    </Child>
+    <Child ReferenceText="adventure seed">
+      <PageReference>S213</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Space: 1889">
+    <PageReference>S29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spaceships">
+    <PageReference>S30-48</PageReference>
+    <Child ReferenceText="bioships">
+      <PageReference>S54</PageReference>
+    </Child>
+    <Child ReferenceText="crews of player characters">
+      <PageReference>S215</PageReference>
+    </Child>
+    <Child ReferenceText="drives">
+      <PageReference>S31-42</PageReference>
+    </Child>
+    <Child ReferenceText="as plot elements">
+      <PageReference>S30</PageReference>
+    </Child>
+    <Child ReferenceText="shipboard systems">
+      <PageReference>S43-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Space flight 29-30">
+    <Child ReferenceText="by creatures">
+      <PageReference>S148</PageReference>
+    </Child>
+    <Child ReferenceText="early accounts">
+      <PageReference>S6</PageReference>
+      <PageReference>S29</PageReference>
+    </Child>
+    <Child ReferenceText="estimating space traffic">
+      <PageReference>S96</PageReference>
+    </Child>
+    <Child ReferenceText="and story requirements">
+      <PageReference>S30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Space knights">
+    <PageReference>S215</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>S234</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Space stations">
+    <PageReference>S8</PageReference>
+    <PageReference>S132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Space workers">
+    <PageReference>S20</PageReference>
+    <Child ReferenceText="template">
+      <PageReference>S234</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spaceports">
+    <PageReference>S97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spacer skill">
+    <PageReference>S226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special Justice Group">
+    <PageReference>S26</PageReference>
+    <PageReference>S98</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spectral class">
+    <PageReference>S100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spinrad">
+    <Child ReferenceText="Norman">
+      <PageReference>S18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Square-cube law">
+    <PageReference>S148-149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stableford">
+    <Child ReferenceText="Brian">
+      <PageReference>S228</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stapledon">
+    <Child ReferenceText="Olaf">
+      <PageReference>S217</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Star drives">
+    <SeeAlso>Drives</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Star T rek">
+    <PageReference>S8</PageReference>
+    <PageReference>S12</PageReference>
+    <PageReference>S13</PageReference>
+    <PageReference>S15</PageReference>
+    <PageReference>S16</PageReference>
+    <PageReference>S20</PageReference>
+    <PageReference>S23</PageReference>
+    <PageReference>S27</PageReference>
+    <PageReference>S29</PageReference>
+    <PageReference>S47</PageReference>
+    <PageReference>S50</PageReference>
+    <PageReference>S166</PageReference>
+    <PageReference>S181</PageReference>
+    <PageReference>S193</PageReference>
+    <PageReference>S200</PageReference>
+    <PageReference>S215</PageReference>
+    <PageReference>S218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Star Wars">
+    <PageReference>S15</PageReference>
+    <PageReference>S21</PageReference>
+    <PageReference>S23</PageReference>
+    <PageReference>S61</PageReference>
+    <PageReference>S197</PageReference>
+    <PageReference>S215</PageReference>
+    <PageReference>S227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stargate">
+    <PageReference>S21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stars">
+    <PageReference>S100-107</PageReference>
+    <Child ReferenceText="brown dwarf">
+      <PageReference>S128</PageReference>
+      <PageReference>S129</PageReference>
+    </Child>
+    <Child ReferenceText="classification of">
+      <PageReference>S100</PageReference>
+    </Child>
+    <Child ReferenceText="determining age of">
+      <PageReference>S101-102</PageReference>
+    </Child>
+    <Child ReferenceText="determining radius">
+      <PageReference>S104</PageReference>
+    </Child>
+    <Child ReferenceText="distribution within galaxies">
+      <PageReference>S70</PageReference>
+    </Child>
+    <Child ReferenceText="effective temperature">
+      <PageReference>S102</PageReference>
+    </Child>
+    <Child ReferenceText="flare">
+      <PageReference>S127</PageReference>
+    </Child>
+    <Child ReferenceText="main sequence">
+      <PageReference>S102</PageReference>
+      <PageReference>S104</PageReference>
+    </Child>
+    <Child ReferenceText="massive">
+      <PageReference>S126</PageReference>
+    </Child>
+    <Child ReferenceText="multiple stars">
+      <PageReference>S100</PageReference>
+      <PageReference>S105</PageReference>
+      <PageReference>S115</PageReference>
+    </Child>
+    <Child ReferenceText="neutron">
+      <PageReference>S126</PageReference>
+    </Child>
+    <Child ReferenceText="orbital zones of">
+      <PageReference>S106</PageReference>
+    </Child>
+    <Child ReferenceText="placing planets">
+      <PageReference>S107-111</PageReference>
+    </Child>
+    <Child ReferenceText="red dwarf">
+      <PageReference>S127</PageReference>
+    </Child>
+    <Child ReferenceText="stellar evolution">
+      <PageReference>S103</PageReference>
+    </Child>
+    <Child ReferenceText="stellar mass">
+      <PageReference>S101</PageReference>
+    </Child>
+    <Child ReferenceText="white dwarf">
+      <PageReference>S100</PageReference>
+      <PageReference>S104</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Startowns">
+    <PageReference>S206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stasheff">
+    <Child ReferenceText="Christopher">
+      <PageReference>S7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Status advantage">
+    <PageReference>S220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stephenson">
+    <Child ReferenceText="Neal">
+      <PageReference>S580</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sterling">
+    <Child ReferenceText="Bruce">
+      <PageReference>S18</PageReference>
+      <PageReference>S51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stress Atavism disadvantage">
+    <PageReference>S223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Submarine skill">
+    <PageReference>S227</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural Features disadvantage">
+    <PageReference>S223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Susceptible disadvantage">
+    <PageReference>S223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suspended animation">
+    <PageReference>S53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superscience">
+    <Child ReferenceText="emergent">
+      <PageReference>S30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Survey Service">
+    <PageReference>S26</PageReference>
+    <PageReference>S204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swarms">
+    <PageReference>S153</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="“Swords and spaceships, ” 61" />
+  <IndexReference ReferenceText="Symbionts">
+    <PageReference>S146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tachyons">
+    <PageReference>S38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactics skill">
+    <PageReference>S226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talent advantages">
+    <PageReference>S220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tall">
+    <Child ReferenceText="Stephen">
+      <PageReference>S113</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Technician template">
+    <PageReference>S235</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technology">
+    <PageReference>S49-61</PageReference>
+    <Child ReferenceText="assumptions">
+      <PageReference>S50</PageReference>
+    </Child>
+    <Child ReferenceText="and campaign design">
+      <PageReference>S8</PageReference>
+    </Child>
+    <Child ReferenceText="controlling">
+      <PageReference>S177-179</PageReference>
+    </Child>
+    <Child ReferenceText="and crime">
+      <PageReference>S186</PageReference>
+    </Child>
+    <Child ReferenceText="and daily life">
+      <PageReference>S177</PageReference>
+    </Child>
+    <Child ReferenceText="economic effect of">
+      <PageReference>S181-182</PageReference>
+    </Child>
+    <Child ReferenceText="and gravity">
+      <PageReference>S44</PageReference>
+    </Child>
+    <Child ReferenceText="losing">
+      <PageReference>S179-180</PageReference>
+    </Child>
+    <Child ReferenceText="and military forces">
+      <PageReference>S189</PageReference>
+    </Child>
+    <Child ReferenceText="miracles">
+      <PageReference>S29</PageReference>
+      <PageReference>S50-51</PageReference>
+    </Child>
+    <Child ReferenceText="and world design">
+      <PageReference>S90-91</PageReference>
+      <PageReference>S122</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tectonic activity">
+    <PageReference>S120-121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teleportation">
+    <PageReference>S46</PageReference>
+    <PageReference>S60</PageReference>
+    <Child ReferenceText="and interstellar gates">
+      <PageReference>S39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Terraforming">
+    <PageReference>S129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tethers">
+    <PageReference>S35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Theocracies">
+    <PageReference>S199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thief template">
+    <PageReference>S235</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrust-to-mass ratio">
+    <PageReference>S36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tidal braking">
+    <PageReference>S117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Time dilation">
+    <SeeAlso>Relativity effects</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Time Travel">
+    <Child ReferenceText="and jump drives">
+      <PageReference>S39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="and Interstellar Trade Commission">
+    <PageReference>S193</PageReference>
+    <PageReference>S26</PageReference>
+    <PageReference>S205</PageReference>
+    <PageReference>S24</PageReference>
+    <PageReference>S202-203</PageReference>
+    <Child ReferenceText="in corporate states">
+      <PageReference>S196</PageReference>
+    </Child>
+    <Child ReferenceText="designing trade routes">
+      <PageReference>S96</PageReference>
+    </Child>
+    <Child ReferenceText="in empires">
+      <PageReference>S199</PageReference>
+    </Child>
+    <Child ReferenceText="estimating trade volume">
+      <PageReference>S95</PageReference>
+    </Child>
+    <Child ReferenceText="in federations">
+      <PageReference>S194</PageReference>
+    </Child>
+    <Child ReferenceText="gravity model">
+      <PageReference>S95</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Transhuman Space">
+    <PageReference>S51</PageReference>
+    <PageReference>S141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transparent society">
+    <PageReference>S56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transportation">
+    <PageReference>S60</PageReference>
+    <Child ReferenceText="interstellar">
+      <PageReference>S7</PageReference>
+    </Child>
+    <Child ReferenceText="and military forces">
+      <PageReference>S190</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trappers">
+    <PageReference>S145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traveller">
+    <PageReference>S18</PageReference>
+    <PageReference>S21</PageReference>
+    <PageReference>S23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="and Tsiolkovsky Equation">
+    <PageReference>S6</PageReference>
+    <PageReference>S29</PageReference>
+    <PageReference>S31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Universities">
+    <PageReference>S27</PageReference>
+    <PageReference>S98</PageReference>
+    <PageReference>S206</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Biochemistry disadvantage">
+    <PageReference>S223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uplift">
+    <PageReference>S54</PageReference>
+    <PageReference>S217</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Urban Survival skill">
+    <PageReference>S226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Utopias">
+    <PageReference>S63</PageReference>
+    <Child ReferenceText="anarchist">
+      <PageReference>S190</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vance">
+    <Child ReferenceText="Jack">
+      <PageReference>S10</PageReference>
+      <PageReference>S12</PageReference>
+      <PageReference>S14</PageReference>
+      <PageReference>S20</PageReference>
+      <PageReference>S21</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Varley">
+    <Child ReferenceText="John">
+      <PageReference>S12</PageReference>
+      <PageReference>S29</PageReference>
+      <PageReference>S51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Verne">
+    <Child ReferenceText="Jules">
+      <PageReference>S6</PageReference>
+      <PageReference>S7</PageReference>
+      <PageReference>S10</PageReference>
+      <PageReference>S29</PageReference>
+      <PageReference>S215</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vinge">
+    <Child ReferenceText="Vernor">
+      <PageReference>S200</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Volcanism">
+    <PageReference>S119-120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Voltaire">
+    <PageReference>S29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vulnerability disadvantage">
+    <PageReference>S223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warp drives">
+    <PageReference>S40-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weakness disadvantage">
+    <PageReference>S223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>S61</PageReference>
+    <Child ReferenceText="shipboard">
+      <PageReference>S44-45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weber">
+    <Child ReferenceText="David">
+      <PageReference>S16</PageReference>
+      <PageReference>S29</PageReference>
+      <PageReference>S38</PageReference>
+      <PageReference>S47</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weird Science skill">
+    <PageReference>S226</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weirdness Magnet disadvantage">
+    <PageReference>S223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wells, H">
+    <Child ReferenceText="G" />
+    <Child ReferenceText="">
+      <PageReference>S6</PageReference>
+      <PageReference>S29</PageReference>
+      <PageReference>S54</PageReference>
+      <PageReference>S215</PageReference>
+      <PageReference>S218</PageReference>
+      <PageReference>S219</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="White">
+    <Child ReferenceText="James">
+      <PageReference>S8</PageReference>
+      <PageReference>S177</PageReference>
+      <PageReference>S229</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Williams">
+    <Child ReferenceText="Walter Jon">
+      <PageReference>S50</PageReference>
+      <PageReference>S51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Williamson">
+    <Child ReferenceText="Jack">
+      <PageReference>S200</PageReference>
+      <PageReference>S215</PageReference>
+      <PageReference>S218</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wolf-Rayet variables">
+    <PageReference>S126</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Worlds">
+    <SeeAlso>Planets</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Wormholes">
+    <Child ReferenceText="and star drives">
+      <PageReference>S39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wright, John C">
+    <Child ReferenceText="">
+      <PageReference>S51</PageReference>
+      <PageReference>S56</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wylie">
+    <Child ReferenceText="Philip">
+      <PageReference>S216</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Xenophilia disadvantage">
+    <PageReference>S224</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zahn">
+    <Child ReferenceText="Timothy">
+      <PageReference>S15</PageReference>
+      <PageReference>S19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Zeroed advantage">
+    <PageReference>S220</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>

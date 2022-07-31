@@ -1,0 +1,1694 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Accidental hero lens">
+    <PageReference>MH1:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acquire Knowledge advantage variant">
+    <PageReference>MH1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adamic language">
+    <PageReference>MH1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Adrenal-Muscular Trigger ability">
+    <PageReference>MH1:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <Child ReferenceText="suitable">
+      <PageReference>MH1:22-25</PageReference>
+    </Child>
+    <Child ReferenceText="list">
+      <PageReference>MH1:23</PageReference>
+    </Child>
+    <Child ReferenceText="heroic">
+      <PageReference>MH1:23-25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Campaigns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammunition">
+    <SeeAlso>Firearms</SeeAlso>
+    <Child ReferenceText="reloading presses">
+      <PageReference>MH1:56</PageReference>
+    </Child>
+    <Child ReferenceText="special">
+      <PageReference>MH1:63</PageReference>
+    </Child>
+    <Child ReferenceText="tracking">
+      <PageReference>MH1:53</PageReference>
+      <PageReference>MH1:58</PageReference>
+    </Child>
+    <Child ReferenceText="options">
+      <PageReference>MH1:63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ancient Writings Language">
+    <PageReference>MH1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Angels">
+    <Child ReferenceText="language">
+      <PageReference>MH1:24</PageReference>
+    </Child>
+    <Child ReferenceText="information skills">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+    <Child ReferenceText="racial template">
+      <PageReference>MH1:51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Anti-psi">
+    <PageReference>MH1:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor of Faith ability">
+    <PageReference>MH1:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arrows">
+    <PageReference>MH1:60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artifacts">
+    <Child ReferenceText="holy">
+      <PageReference>MH1:51</PageReference>
+      <PageReference>MH1:57</PageReference>
+    </Child>
+    <Child ReferenceText="as energy source">
+      <PageReference>MH1:36</PageReference>
+      <PageReference>MH1:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Atoner lens">
+    <PageReference>MH1:6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attacks">
+    <SeeAlso>Holy Attacks</SeeAlso>
+    <Child ReferenceText="perks">
+      <PageReference>MH1:10</PageReference>
+      <PageReference>MH1:25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aura Reading ability">
+    <PageReference>MH1:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Autoteleport ability">
+    <PageReference>MH1:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Avenger lens">
+    <PageReference>MH1:6-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Backpacks">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Balloons">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bandages">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Batteries">
+    <PageReference>MH1:52-53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bayonets">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bear were-form">
+    <PageReference>MH1:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Binah skill">
+    <PageReference>MH1:33</PageReference>
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Binoculars">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bioenhancement power">
+    <PageReference>MH1:40-42</PageReference>
+    <Child ReferenceText="abilities">
+      <PageReference>MH1:41-42</PageReference>
+    </Child>
+    <Child ReferenceText="power modifier">
+      <PageReference>MH1:41</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>MH1:42</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>MH1:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Blade! wildcard skill">
+    <PageReference>MH1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blessed">
+    <Child ReferenceText="advantage">
+      <PageReference>MH1:23</PageReference>
+    </Child>
+    <Child ReferenceText="ability">
+      <PageReference>MH1:43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Body bags">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bolt cutters">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bolts">
+    <Child ReferenceText="crossbow">
+      <PageReference>MH1:60</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bonus points">
+    <Child ReferenceText="wildcard">
+      <PageReference>MH1:28</PageReference>
+      <PageReference>MH1:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Born War-Leader Talent">
+    <PageReference>MH1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bottles">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bows">
+    <PageReference>MH1:60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brave perk">
+    <PageReference>MH1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breath-Holding ability">
+    <PageReference>MH1:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Budgeting">
+    <PageReference>MH1:53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camcorders">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cameras">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <Child ReferenceText="types">
+      <PageReference>MH1:5-6</PageReference>
+    </Child>
+    <Child ReferenceText="player guidance">
+      <PageReference>MH1:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cell phones">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cellular Restoration ability">
+    <PageReference>MH1:1</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cerebral-Motor Multitasking ability">
+    <PageReference>MH1:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chainsaws">
+    <PageReference>MH1:60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chalk">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Champions">
+    <PageReference>MH1:4</PageReference>
+    <SeeAlso>Character Creation</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Character creation">
+    <Child ReferenceText="points">
+      <PageReference>MH1:5</PageReference>
+    </Child>
+    <Child ReferenceText="sidekicks">
+      <PageReference>MH1:19</PageReference>
+    </Child>
+    <Child ReferenceText="templates">
+      <PageReference>MH1:9-21</PageReference>
+      <PageReference>MH1:48-51</PageReference>
+    </Child>
+    <Child ReferenceText="lenses">
+      <PageReference>MH1:6-9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Character points">
+    <Child ReferenceText="other uses for">
+      <PageReference>MH1:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Charms">
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+    <Child ReferenceText="magical">
+      <PageReference>MH1:38-39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chesed skill">
+    <PageReference>MH1:33</PageReference>
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Chokmah skill">
+    <PageReference>MH1:33</PageReference>
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Chosen one lens">
+    <PageReference>MH1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chupacabras">
+    <Child ReferenceText="information skills">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cigarette lighters">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Circadian Rhythm Control ability">
+    <PageReference>MH1:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cleansers">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clergy lens">
+    <PageReference>MH1:7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Climbing kits">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close to Heaven Talent">
+    <PageReference>MH1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <Child ReferenceText="protective">
+      <PageReference>MH1:59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Collections">
+    <Child ReferenceText="grimoire">
+      <PageReference>MH1:56-57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Teleport ability">
+    <PageReference>MH1:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Commando template">
+    <PageReference>MH1:9-10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Communication gear">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compulsive Thrill Seeking disadvantage">
+    <PageReference>MH1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Computers">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Containers">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost factor">
+    <Child ReferenceText="determining">
+      <PageReference>MH1:54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cost of living">
+    <PageReference>MH1:53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Craftiness Talent">
+    <PageReference>MH1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crash kits">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminal lens">
+    <PageReference>MH1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crossbows">
+    <PageReference>MH1:60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crusader template">
+    <PageReference>MH1:10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cryokinesis ability">
+    <PageReference>MH1:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cryptids">
+    <Child ReferenceText="information skills">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage">
+    <SeeAlso>Holy Attacks</SeeAlso>
+    <Child ReferenceText="reducing">
+      <PageReference>MH1:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Death">
+    <Child ReferenceText="coming back from">
+      <PageReference>MH1:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Defend the Faith advantage variant">
+    <PageReference>MH1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demolition gear">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Demons">
+    <Child ReferenceText="language">
+      <PageReference>MH1:24</PageReference>
+    </Child>
+    <Child ReferenceText="racial template">
+      <PageReference>MH1:49-50</PageReference>
+    </Child>
+    <Child ReferenceText="information skills">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Demonspawn racial template">
+    <PageReference>MH1:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Desecration">
+    <PageReference>MH1:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Destiny">
+    <Child ReferenceText="disadvantage">
+      <PageReference>MH1:24</PageReference>
+    </Child>
+    <Child ReferenceText="points">
+      <PageReference>MH1:23-24</PageReference>
+      <PageReference>MH1:31</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>MH1:23-24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Detective! wildcard skill">
+    <PageReference>MH1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Detonators">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dhampir racial template">
+    <PageReference>MH1:51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>MH1:25</PageReference>
+    <Child ReferenceText="limit">
+      <PageReference>MH1:26</PageReference>
+    </Child>
+    <Child ReferenceText="list">
+      <PageReference>MH1:26</PageReference>
+    </Child>
+    <Child ReferenceText="motivational">
+      <PageReference>MH1:7</PageReference>
+    </Child>
+    <Child ReferenceText="suitable">
+      <PageReference>MH1:25-26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Discriminatory Hearing ability">
+    <PageReference>MH1:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Discriminatory Smell ability">
+    <PageReference>MH1:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disguise kits">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divinations">
+    <PageReference>MH1:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Divine Curse disadvantage">
+    <PageReference>MH1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drills">
+    <PageReference>MH1:60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drugs">
+    <Child ReferenceText="psi">
+      <PageReference>MH1:58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual Shooting advantage">
+    <PageReference>MH1:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duct tape">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duty disadvantage">
+    <PageReference>MH1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dynamite">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eagle Eyes ability">
+    <PageReference>MH1:41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eagle were-form">
+    <PageReference>MH1:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ectocognitive wave detectors (EWDs)">
+    <PageReference>MH1:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemies disadvantage">
+    <PageReference>MH1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enemy, The, defined">
+    <PageReference>MH1:4</PageReference>
+    <SeeAlso>Monsters</SeeAlso>
+    <Child ReferenceText="Lore! and">
+      <PageReference>MH1:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Ground Move ability">
+    <PageReference>MH1:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Speed ability">
+    <PageReference>MH1:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Epidermal Resilience ability">
+    <PageReference>MH1:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equilibrium Enhancement ability">
+    <PageReference>MH1:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment Bond perk">
+    <PageReference>MH1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ESP power">
+    <SeeAlso>Psionics</SeeAlso>
+    <Child ReferenceText="Talent">
+      <PageReference>MH1:48</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>MH1:45-46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ethereal barrier cords">
+    <PageReference>MH1:57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exoteleport ability">
+    <PageReference>MH1:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Experiment template">
+    <PageReference>MH1:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Life ability">
+    <PageReference>MH1:31</PageReference>
+    <PageReference>MH1:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eyes of the Dead ability">
+    <PageReference>MH1:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fae">
+    <Child ReferenceText="information skills">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fanaticism disadvantage">
+    <PageReference>MH1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Film">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearms">
+    <PageReference>MH1:61-62</PageReference>
+    <SeeAlso>Ammunition</SeeAlso>
+    <Child ReferenceText="accessories">
+      <PageReference>MH1:55</PageReference>
+    </Child>
+    <Child ReferenceText="hearing shots">
+      <PageReference>MH1:61</PageReference>
+    </Child>
+    <Child ReferenceText="improvised">
+      <PageReference>MH1:62-63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="First aid kits">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flamethrowers">
+    <SeeAlso>Liquid Projectors</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Flares">
+    <PageReference>MH1:54</PageReference>
+    <PageReference>MH1:60</PageReference>
+    <Child ReferenceText="ammunition option">
+      <PageReference>MH1:63</PageReference>
+    </Child>
+    <Child ReferenceText="guns">
+      <PageReference>MH1:62</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Flashlights">
+    <PageReference>MH1:54</PageReference>
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Food">
+    <PageReference>MH1:53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Footwear">
+    <PageReference>MH1:59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fuel">
+    <PageReference>MH1:53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gasoline">
+    <PageReference>MH1:53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gear">
+    <SeeAlso>Firearms</SeeAlso>
+    <SeeAlso>Weapons</SeeAlso>
+    <Child ReferenceText="budgets">
+      <PageReference>MH1:53</PageReference>
+    </Child>
+    <Child ReferenceText="common">
+      <PageReference>MH1:54-56</PageReference>
+    </Child>
+    <Child ReferenceText="esoteric">
+      <PageReference>MH1:56</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>MH1:54</PageReference>
+      <PageReference>MH1:55</PageReference>
+      <PageReference>MH1:59</PageReference>
+    </Child>
+    <Child ReferenceText="mystical">
+      <PageReference>MH1:56-57</PageReference>
+    </Child>
+    <Child ReferenceText="protective">
+      <PageReference>MH1:59</PageReference>
+    </Child>
+    <Child ReferenceText="psi">
+      <PageReference>MH1:57-58</PageReference>
+    </Child>
+    <Child ReferenceText="replacing">
+      <PageReference>MH1:53</PageReference>
+    </Child>
+    <Child ReferenceText="selling used">
+      <PageReference>MH1:53</PageReference>
+    </Child>
+    <Child ReferenceText="tech level">
+      <PageReference>MH1:52</PageReference>
+    </Child>
+    <Child ReferenceText="tracking">
+      <PageReference>MH1:52-53</PageReference>
+      <PageReference>MH1:58</PageReference>
+    </Child>
+    <Child ReferenceText="basic">
+      <PageReference>MH1:54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Geburah skill">
+    <PageReference>MH1:32</PageReference>
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost blasters">
+    <PageReference>MH1:58</PageReference>
+    <PageReference>MH1:62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost Weapon">
+    <Child ReferenceText="advantage variant">
+      <PageReference>MH1:23</PageReference>
+    </Child>
+    <Child ReferenceText="ability">
+      <PageReference>MH1:43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghosts">
+    <Child ReferenceText="information skills">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Glow sticks">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Go-bars">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Goggles">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grapnels">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greater Sense Chance">
+    <PageReference>MH1:34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greed disadvantage">
+    <PageReference>MH1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grenades">
+    <PageReference>MH1:63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grimoires">
+    <PageReference>MH1:39</PageReference>
+    <PageReference>MH1:56-57</PageReference>
+    <Child ReferenceText="defining rituals in">
+      <PageReference>MH1:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun Fu perks">
+    <PageReference>MH1:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun skill">
+    <Child ReferenceText="reasons for">
+      <PageReference>MH1:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun! wildcard skill">
+    <PageReference>MH1:10</PageReference>
+    <PageReference>MH1:29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns">
+    <SeeAlso>Firearms</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunslinger advantage">
+    <PageReference>MH1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>MH1:5</PageReference>
+    <PageReference>MH1:15</PageReference>
+    <PageReference>MH1:32</PageReference>
+    <Child ReferenceText="Action 1: Heroes">
+      <PageReference>MH1:4</PageReference>
+      <PageReference>MH1:19</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>MH1:4</PageReference>
+      <PageReference>MH1:5</PageReference>
+      <PageReference>MH1:22</PageReference>
+      <PageReference>MH1:24</PageReference>
+      <PageReference>MH1:25</PageReference>
+      <PageReference>MH1:40</PageReference>
+      <PageReference>MH1:61</PageReference>
+    </Child>
+    <Child ReferenceText="Gun Fu">
+      <PageReference>MH1:4</PageReference>
+      <PageReference>MH1:10</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech">
+      <PageReference>MH1:4</PageReference>
+      <PageReference>MH1:58</PageReference>
+      <PageReference>MH1:59</PageReference>
+      <PageReference>MH1:61</PageReference>
+      <PageReference>MH1:63</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>MH1:4</PageReference>
+    </Child>
+    <Child ReferenceText="Loadouts: Monster Hunters">
+      <PageReference>MH1:4</PageReference>
+      <PageReference>MH1:58</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>MH1:40</PageReference>
+      <PageReference>MH1:44</PageReference>
+    </Child>
+    <Child ReferenceText="Powers: Divine Favor">
+      <PageReference>MH1:4</PageReference>
+      <PageReference>MH1:42</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>MH1:4</PageReference>
+      <PageReference>MH1:45</PageReference>
+    </Child>
+    <Child ReferenceText="Psis">
+      <PageReference>MH1:4</PageReference>
+      <PageReference>MH1:45</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>MH1:4</PageReference>
+      <PageReference>MH1:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Headgear">
+    <Child ReferenceText="protective">
+      <PageReference>MH1:58</PageReference>
+      <PageReference>MH1:59</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Headsets">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing">
+    <Child ReferenceText="points and">
+      <PageReference>MH1:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hearing shots">
+    <PageReference>MH1:61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heroic Feats ability">
+    <PageReference>MH1:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Higher Purpose advantage">
+    <PageReference>MH1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hired Gun lens">
+    <PageReference>MH1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hod skill">
+    <PageReference>MH1:32</PageReference>
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Holsters">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy attacks">
+    <PageReference>MH1:51</PageReference>
+    <Child ReferenceText="items used in">
+      <PageReference>MH1:57</PageReference>
+      <PageReference>MH1:59</PageReference>
+      <PageReference>MH1:63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy symbol">
+    <PageReference>MH1:57</PageReference>
+    <Child ReferenceText="damage from">
+      <PageReference>MH1:51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Holy water">
+    <PageReference>MH1:57</PageReference>
+    <PageReference>MH1:63</PageReference>
+    <Child ReferenceText="damage from">
+      <PageReference>MH1:51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvised Weapon perk">
+    <PageReference>MH1:25</PageReference>
+    <SeeAlso>Weapons (Improvised)</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Inhuman template">
+    <PageReference>MH1:13-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inhuman Tongue Language">
+    <PageReference>MH1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury Tolerance (Unliving) ability">
+    <PageReference>MH1:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury">
+    <SeeAlso>Holy Attacks</SeeAlso>
+    <Child ReferenceText="reducing">
+      <PageReference>MH1:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intrusion gear">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inventor! wildcard skill">
+    <PageReference>MH1:29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kits">
+    <Child ReferenceText="medical">
+      <PageReference>MH1:56</PageReference>
+    </Child>
+    <Child ReferenceText="tool">
+      <PageReference>MH1:55-56</PageReference>
+    </Child>
+    <Child ReferenceText="magical">
+      <PageReference>MH1:57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Labs">
+    <PageReference>MH1:55-56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Languages advantage">
+    <PageReference>MH1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lanterns">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Law Enforcement lens">
+    <PageReference>MH1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lay on Hands ability">
+    <PageReference>MH1:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <Child ReferenceText="motivational">
+      <PageReference>MH1:6-9</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Libraries">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light sources">
+    <PageReference>MH1:56</PageReference>
+    <Child ReferenceText="gun">
+      <PageReference>MH1:55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lighters">
+    <PageReference>MH1:54</PageReference>
+    <Child ReferenceText="spray cans and">
+      <PageReference>MH1:63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Liquid projectors">
+    <PageReference>MH1:62</PageReference>
+    <Child ReferenceText="modifiers">
+      <PageReference>MH1:61</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lockpicks">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lore! wildcard skill">
+    <PageReference>MH1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luck advantage">
+    <Child ReferenceText="skills and">
+      <PageReference>MH1:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lycanthropes">
+    <Child ReferenceText="racial template">
+      <PageReference>MH1:50-51</PageReference>
+    </Child>
+    <Child ReferenceText="information skills">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Magery advantage">
+    <PageReference>MH1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic">
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+    <Child ReferenceText="workspace kits">
+      <PageReference>MH1:57</PageReference>
+    </Child>
+    <Child ReferenceText="supplies">
+      <PageReference>MH1:57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Malkuth skill">
+    <PageReference>MH1:33</PageReference>
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana reserves">
+    <PageReference>MH1:36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Media players">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medic! wildcard skill">
+    <PageReference>MH1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Medical supplies">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee weapons">
+    <PageReference>MH1:59-60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental Blow ability">
+    <PageReference>MH1:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental shields">
+    <PageReference>MH1:58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Control ability">
+    <PageReference>MH1:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind disruptors">
+    <PageReference>MH1:58</PageReference>
+    <PageReference>MH1:62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Probe ability">
+    <PageReference>MH1:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Reading ability">
+    <PageReference>MH1:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Shield ability">
+    <PageReference>MH1:43</PageReference>
+    <PageReference>MH1:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mindwipe ability">
+    <PageReference>MH1:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Miraculous recoveries">
+    <PageReference>MH1:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mirrors">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mission, The, defined">
+    <PageReference>MH1:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monster hunters">
+    <SeeAlso>Character Creation</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Monsters">
+    <SeeAlso>Holy Attacks</SeeAlso>
+    <Child ReferenceText="racial templates">
+      <PageReference>MH1:49-51</PageReference>
+    </Child>
+    <Child ReferenceText="information skills and">
+      <PageReference>MH1:16</PageReference>
+      <PageReference>MH1:30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Multi-tools">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mummies">
+    <Child ReferenceText="information skills">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Muscle-Powered Ranged Weapons">
+    <PageReference>MH1:60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mystic Coincidence ability">
+    <PageReference>MH1:43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mystical">
+    <Child ReferenceText="workspace kits">
+      <PageReference>MH1:57</PageReference>
+    </Child>
+    <Child ReferenceText="supplies">
+      <PageReference>MH1:57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mysticism power">
+    <PageReference>MH1:42-43</PageReference>
+    <Child ReferenceText="abilities">
+      <PageReference>MH1:43-45</PageReference>
+    </Child>
+    <Child ReferenceText="power modifier">
+      <PageReference>MH1:43</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>MH1:45</PageReference>
+    </Child>
+    <Child ReferenceText="Talent">
+      <PageReference>MH1:45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nail guns">
+    <PageReference>MH1:62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Netzach skill">
+    <PageReference>MH1:33</PageReference>
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Neural Computational Matrix ability">
+    <PageReference>MH1:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neutralizers">
+    <PageReference>MH1:58</PageReference>
+    <PageReference>MH1:62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Notebooks">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Obsession disadvantage">
+    <PageReference>MH1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Occult knowledge">
+    <PageReference>MH1:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ocular Adaptability ability">
+    <PageReference>MH1:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Off-Hand Weapon Training perk">
+    <PageReference>MH1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Operative lens">
+    <PageReference>MH1:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Optics">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parapsychologist Talent">
+    <PageReference>MH1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parasites">
+    <Child ReferenceText="information skills">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Path skills">
+    <PageReference>MH1:32-33</PageReference>
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Patrons advantage">
+    <PageReference>MH1:24</PageReference>
+    <PageReference>MH1:53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="PDAs">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pencils">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <Child ReferenceText="new">
+      <PageReference>MH1:25</PageReference>
+    </Child>
+    <Child ReferenceText="gun">
+      <PageReference>MH1:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Philanthropist lens">
+    <PageReference>MH1:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Phones">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="PK Shield ability">
+    <PageReference>MH1:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Plastique">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Points">
+    <SeeAlso>Bonus Points</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Pool cues">
+    <PageReference>MH1:60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power modifiers">
+    <PageReference>MH1:41</PageReference>
+    <PageReference>MH1:43</PageReference>
+    <PageReference>MH1:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <SeeAlso>Bioenhancement Power</SeeAlso>
+    <SeeAlso>Mysticism Power</SeeAlso>
+    <SeeAlso>Psionics Power</SeeAlso>
+    <Child ReferenceText="magic and">
+      <PageReference>MH1:42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Prayer ability">
+    <PageReference>MH1:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Precognition ability">
+    <PageReference>MH1:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prophetic Dreams advantage">
+    <PageReference>MH1:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Protective clothing">
+    <PageReference>MH1:59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi Sense ability">
+    <PageReference>MH1:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi template">
+    <PageReference>MH1:14-15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi-block drug">
+    <PageReference>MH1:58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi-boost drug">
+    <PageReference>MH1:58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psi-tech">
+    <PageReference>MH1:57-58</PageReference>
+    <PageReference>MH1:62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psionic">
+    <Child ReferenceText="power modifier">
+      <PageReference>MH1:45</PageReference>
+    </Child>
+    <Child ReferenceText="powers">
+      <PageReference>MH1:45-48</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>MH1:48</PageReference>
+    </Child>
+    <Child ReferenceText="Talents">
+      <PageReference>MH1:48</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>MH1:45-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychic Healing ability">
+    <PageReference>MH1:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychokinesis power">
+    <SeeAlso>Psionics</SeeAlso>
+    <Child ReferenceText="Talent">
+      <PageReference>MH1:48</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>MH1:46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychometry ability">
+    <PageReference>MH1:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychotronics">
+    <PageReference>MH1:57-58</PageReference>
+    <PageReference>MH1:62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pyrokinesis ability">
+    <PageReference>MH1:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quality modifiers">
+    <PageReference>MH1:54</PageReference>
+    <PageReference>MH1:55</PageReference>
+    <PageReference>MH1:59-61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Reload perk">
+    <PageReference>MH1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Radios">
+    <PageReference>MH1:54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reflex sights">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reloading presses">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Remote Senses ability">
+    <PageReference>MH1:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant advantage">
+    <PageReference>MH1:24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant to Evil Supernatural Powers ability">
+    <PageReference>MH1:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual Adept advantage">
+    <PageReference>MH1:25</PageReference>
+    <PageReference>MH1:33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual Mastery perk">
+    <PageReference>MH1:25</PageReference>
+    <Child ReferenceText="defining rituals for">
+      <PageReference>MH1:39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ritual Path magic">
+    <SeeAlso>Grimoires</SeeAlso>
+    <Child ReferenceText="blocking spells">
+      <PageReference>MH1:37</PageReference>
+    </Child>
+    <Child ReferenceText="casting spells">
+      <PageReference>MH1:36-37</PageReference>
+    </Child>
+    <Child ReferenceText="charms">
+      <PageReference>MH1:38-39</PageReference>
+    </Child>
+    <Child ReferenceText="conditional rituals">
+      <PageReference>MH1:38-39</PageReference>
+    </Child>
+    <Child ReferenceText="defensive rituals">
+      <PageReference>MH1:37</PageReference>
+    </Child>
+    <Child ReferenceText="defining rituals">
+      <PageReference>MH1:33-35</PageReference>
+      <PageReference>MH1:39</PageReference>
+    </Child>
+    <Child ReferenceText="effects table">
+      <PageReference>MH1:33</PageReference>
+    </Child>
+    <Child ReferenceText="energy accumulation">
+      <PageReference>MH1:35-36</PageReference>
+    </Child>
+    <Child ReferenceText="examples">
+      <PageReference>MH1:37-38</PageReference>
+    </Child>
+    <Child ReferenceText="Greater-effect examples">
+      <PageReference>MH1:32-33</PageReference>
+    </Child>
+    <Child ReferenceText="Greater effects multiplier">
+      <PageReference>MH1:35</PageReference>
+    </Child>
+    <Child ReferenceText="learning">
+      <PageReference>MH1:32-33</PageReference>
+    </Child>
+    <Child ReferenceText="Lesser-effect examples">
+      <PageReference>MH1:32-33</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>MH1:34-35</PageReference>
+    </Child>
+    <Child ReferenceText="multiple effects">
+      <PageReference>MH1:34</PageReference>
+    </Child>
+    <Child ReferenceText="nonadepts and">
+      <PageReference>MH1:36</PageReference>
+    </Child>
+    <Child ReferenceText="performing">
+      <PageReference>MH1:33</PageReference>
+    </Child>
+    <Child ReferenceText="powers and">
+      <PageReference>MH1:42</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>MH1:32-33</PageReference>
+      <PageReference>MH1:35</PageReference>
+    </Child>
+    <Child ReferenceText="wards">
+      <PageReference>MH1:35</PageReference>
+    </Child>
+    <Child ReferenceText="working together">
+      <PageReference>MH1:39</PageReference>
+    </Child>
+    <Child ReferenceText="adding complexity">
+      <PageReference>MH1:33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rogues">
+    <SeeAlso>Monsters</SeeAlso>
+    <Child ReferenceText="information skills and">
+      <PageReference>MH1:16</PageReference>
+      <PageReference>MH1:30</PageReference>
+    </Child>
+    <Child ReferenceText="defined">
+      <PageReference>MH1:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ropes">
+    <PageReference>MH1:56</PageReference>
+    <Child ReferenceText="ethereal barrier cord">
+      <PageReference>MH1:57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrifices">
+    <Child ReferenceText="as energy source">
+      <PageReference>MH1:36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sage template">
+    <PageReference>MH1:15-17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Salaries">
+    <PageReference>MH1:53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saws">
+    <PageReference>MH1:60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Science! wildcard skill">
+    <PageReference>MH1:30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scissors">
+    <PageReference>MH1:60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scopes">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Screwdrivers">
+    <PageReference>MH1:60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sense of Duty disadvantage">
+    <PageReference>MH1:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shock and Awe ability">
+    <PageReference>MH1:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shovels">
+    <PageReference>MH1:60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sidekicks">
+    <PageReference>MH1:4</PageReference>
+    <Child ReferenceText="creating">
+      <PageReference>MH1:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sights">
+    <Child ReferenceText="gun">
+      <PageReference>MH1:55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Signature Gear advantage">
+    <PageReference>MH1:53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silencers">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silver">
+    <Child ReferenceText="lycanthropes and">
+      <PageReference>MH1:50</PageReference>
+    </Child>
+    <Child ReferenceText="weapon option">
+      <PageReference>MH1:59</PageReference>
+      <PageReference>MH1:31</PageReference>
+    </Child>
+    <Child ReferenceText="Luck and">
+      <PageReference>MH1:15</PageReference>
+    </Child>
+    <Child ReferenceText="monster knowledge">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+    <Child ReferenceText="Path">
+      <PageReference>MH1:32-33</PageReference>
+    </Child>
+    <Child ReferenceText="power">
+      <PageReference>MH1:42</PageReference>
+      <PageReference>MH1:45</PageReference>
+      <PageReference>MH1:48</PageReference>
+    </Child>
+    <Child ReferenceText="suitable">
+      <PageReference>MH1:27-28</PageReference>
+    </Child>
+    <Child ReferenceText="wildcard">
+      <PageReference>MH1:28-91</PageReference>
+    </Child>
+    <Child ReferenceText="ammunition option">
+      <PageReference>MH1:63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sleuth template">
+    <PageReference>MH1:17-18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slings">
+    <Child ReferenceText="gun">
+      <PageReference>MH1:55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smite ability">
+    <PageReference>MH1:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soldier lens">
+    <PageReference>MH1:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spells">
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Spiricoms">
+    <PageReference>MH1:58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Channeling ability">
+    <PageReference>MH1:44</PageReference>
+    <PageReference>MH1:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Communication ability">
+    <PageReference>MH1:44</PageReference>
+    <PageReference>MH1:46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirit Empathy ability">
+    <PageReference>MH1:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spirits">
+    <Child ReferenceText="information skills">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Spray cans">
+    <PageReference>MH1:63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stacking Spells">
+    <PageReference>MH1:37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Super Jump ability">
+    <PageReference>MH1:42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supernatural Sense ability">
+    <PageReference>MH1:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Surgical kits">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="disadvantages">
+      <PageReference>MH1:26</PageReference>
+    </Child>
+    <Child ReferenceText="firearms">
+      <PageReference>MH1:62</PageReference>
+    </Child>
+    <Child ReferenceText="grimoire">
+      <PageReference>MH1:57</PageReference>
+    </Child>
+    <Child ReferenceText="patron budget">
+      <PageReference>MH1:53</PageReference>
+    </Child>
+    <Child ReferenceText="protective clothing">
+      <PageReference>MH1:59</PageReference>
+    </Child>
+    <Child ReferenceText="ritual effect">
+      <PageReference>MH1:35</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>MH1:27-28</PageReference>
+    </Child>
+    <Child ReferenceText="spell effects">
+      <PageReference>MH1:33</PageReference>
+    </Child>
+    <Child ReferenceText="advantages">
+      <PageReference>MH1:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactical lights">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talent advantage">
+    <PageReference>MH1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talents">
+    <Child ReferenceText="power">
+      <PageReference>MH1:42</PageReference>
+      <PageReference>MH1:45</PageReference>
+      <PageReference>MH1:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Talker! wildcard skill">
+    <PageReference>MH1:30-31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tape">
+    <Child ReferenceText="duct">
+      <PageReference>MH1:54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Targeting lasers">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tech level">
+    <Child ReferenceText="gear">
+      <PageReference>MH1:52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techie template">
+    <PageReference>MH1:18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telecontrol ability">
+    <PageReference>MH1:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telekinesis ability">
+    <PageReference>MH1:46-47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telepathy power">
+    <SeeAlso>Psionics</SeeAlso>
+    <Child ReferenceText="Talent">
+      <PageReference>MH1:48</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>MH1:47-48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Teleportation power">
+    <SeeAlso>Psionics</SeeAlso>
+    <Child ReferenceText="Talent">
+      <PageReference>MH1:48</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>MH1:48</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Telescan ability">
+    <PageReference>MH1:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telesend ability">
+    <PageReference>MH1:48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature Control ability">
+    <PageReference>MH1:47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <PageReference>MH1:9-21</PageReference>
+    <Child ReferenceText="racial">
+      <PageReference>MH1:49-51</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ten-Hut! wildcard skill">
+    <PageReference>MH1:31</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terminology">
+    <PageReference>MH1:4</PageReference>
+    <Child ReferenceText="magic">
+      <PageReference>MH1:32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thermite">
+    <PageReference>MH1:55</PageReference>
+    <Child ReferenceText="ammunition option">
+      <PageReference>MH1:63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrown weapons">
+    <PageReference>MH1:61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tier irons">
+    <PageReference>MH1:60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiger were-form">
+    <PageReference>MH1:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiphareth skill">
+    <PageReference>MH1:32</PageReference>
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Tonfas">
+    <PageReference>MH1:60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tool kits">
+    <PageReference>MH1:55-56</PageReference>
+    <Child ReferenceText="magical">
+      <PageReference>MH1:57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trademark Move perk">
+    <PageReference>MH1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turn Evil ability">
+    <PageReference>MH1:44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Undead">
+    <Child ReferenceText="information skills">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="UV bulbs">
+    <PageReference>MH1:56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vampires">
+    <Child ReferenceText="racial template">
+      <PageReference>MH1:51</PageReference>
+    </Child>
+    <Child ReferenceText="information skills">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <PageReference>MH1:53</PageReference>
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vests">
+    <Child ReferenceText="protective">
+      <PageReference>MH1:59</PageReference>
+    </Child>
+    <Child ReferenceText="load-bearing">
+      <PageReference>MH1:54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Visualization ability">
+    <PageReference>MH1:45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warding">
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+    <Child ReferenceText="magical">
+      <PageReference>MH1:35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Warrior template">
+    <PageReference>MH1:19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Watches">
+    <Child ReferenceText="wrist">
+      <PageReference>MH1:54</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wealth advantage">
+    <PageReference>MH1:53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Bond perk">
+    <PageReference>MH1:25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <SeeAlso>Ammunition</SeeAlso>
+    <Child ReferenceText="firearms">
+      <PageReference>MH1:61-62</PageReference>
+    </Child>
+    <Child ReferenceText="hearing shots">
+      <PageReference>MH1:61</PageReference>
+    </Child>
+    <Child ReferenceText="grenades">
+      <PageReference>MH1:63</PageReference>
+    </Child>
+    <Child ReferenceText="improvised">
+      <PageReference>MH1:60</PageReference>
+      <PageReference>MH1:62-63</PageReference>
+    </Child>
+    <Child ReferenceText="melee">
+      <PageReference>MH1:59-60</PageReference>
+    </Child>
+    <Child ReferenceText="modifiers">
+      <PageReference>MH1:59</PageReference>
+      <PageReference>MH1:60</PageReference>
+      <PageReference>MH1:61</PageReference>
+    </Child>
+    <Child ReferenceText="perks">
+      <PageReference>MH1:10</PageReference>
+      <PageReference>MH1:25</PageReference>
+    </Child>
+    <Child ReferenceText="psi">
+      <PageReference>MH1:57-58</PageReference>
+      <PageReference>MH1:62</PageReference>
+    </Child>
+    <Child ReferenceText="ranged">
+      <PageReference>MH1:60-63</PageReference>
+    </Child>
+    <Child ReferenceText="thrown">
+      <PageReference>MH1:61</PageReference>
+    </Child>
+    <Child ReferenceText="accessories">
+      <PageReference>MH1:55</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Were-forms">
+    <PageReference>MH1:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard skills">
+    <PageReference>MH1:28-31</PageReference>
+    <Child ReferenceText="bonus points">
+      <PageReference>MH1:28-29</PageReference>
+      <PageReference>MH1:31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wire cutters">
+    <PageReference>MH1:55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Witches">
+    <Child ReferenceText="template">
+      <PageReference>MH1:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="information skills">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wolf were-form">
+    <PageReference>MH1:50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wood">
+    <Child ReferenceText="stakes">
+      <PageReference>MH1:55</PageReference>
+    </Child>
+    <Child ReferenceText="ammunition option">
+      <PageReference>MH1:63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Workspace kits">
+    <Child ReferenceText="magical">
+      <PageReference>MH1:57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Yesod skill">
+    <PageReference>MH1:32</PageReference>
+    <SeeAlso>Ritual Path Magic</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Yeti">
+    <Child ReferenceText="information skills">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Zombies">
+    <Child ReferenceText="information skills">
+      <PageReference>MH1:16</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

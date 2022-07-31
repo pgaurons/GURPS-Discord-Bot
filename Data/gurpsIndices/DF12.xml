@@ -1,0 +1,473 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abilities">
+    <PageReference>DF12:5-6</PageReference>
+    <Child ReferenceText="table">
+      <PageReference>DF12:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armored modifier">
+    <PageReference>DF12:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Artifacts">
+    <PageReference>DF12:17-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assassin">
+    <PageReference>DF12:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barbed weapons">
+    <PageReference>DF12:17</PageReference>
+    <PageReference>DF12:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bladed hands">
+    <PageReference>DF12:13</PageReference>
+    <PageReference>DF12:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blinding gas">
+    <PageReference>DF12:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blowpipes">
+    <PageReference>DF12:12</PageReference>
+    <PageReference>DF12:13</PageReference>
+    <Child ReferenceText="mounts">
+      <PageReference>DF12:15</PageReference>
+    </Child>
+    <Child ReferenceText="powders">
+      <PageReference>DF12:16</PageReference>
+    </Child>
+    <Child ReferenceText="saya">
+      <PageReference>DF12:15</PageReference>
+      <PageReference>DF12:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bo">
+    <PageReference>DF12:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <PageReference>DF12:3</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Catfall ability">
+    <PageReference>DF12:5</PageReference>
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chemicals">
+    <PageReference>DF12:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chunin">
+    <PageReference>DF12:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chunin no sais">
+    <PageReference>DF12:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clans">
+    <PageReference>DF12:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Climbing poles">
+    <PageReference>DF12:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Danger Sense ability">
+    <PageReference>DF12:5</PageReference>
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dark modifier">
+    <PageReference>DF12:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual Ready perk">
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Dodge ability">
+    <PageReference>DF12:5</PageReference>
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Parry ability">
+    <PageReference>DF12:5</PageReference>
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Equipment">
+    <PageReference>DF12:12-19</PageReference>
+    <Child ReferenceText="selecting">
+      <PageReference>DF12:15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Extending bo">
+    <PageReference>DF12:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fireboxes">
+    <PageReference>DF12:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fukiyas">
+    <PageReference>DF12:12</PageReference>
+    <SeeAlso>Blowpipes</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Fukumi-baris">
+    <PageReference>DF12:12</PageReference>
+    <PageReference>DF12:14</PageReference>
+    <Child ReferenceText="of piercing">
+      <PageReference>DF12:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Genin">
+    <PageReference>DF12:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS Dungeon Fantasy">
+    <PageReference>DF12:3</PageReference>
+    <PageReference>DF12:12</PageReference>
+    <Child ReferenceText="Dungeon Fantasy 1: Adventurers">
+      <PageReference>DF12:4</PageReference>
+      <PageReference>DF12:6</PageReference>
+      <PageReference>DF12:13</PageReference>
+      <PageReference>DF12:15-17</PageReference>
+      <PageReference>DF12:19</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 3: The Next Level">
+      <PageReference>DF12:3</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 4: Sages">
+      <PageReference>DF12:4</PageReference>
+      <PageReference>DF12:9</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 8: Treasure Tables">
+      <PageReference>DF12:18</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>DF12:3</PageReference>
+      <PageReference>DF12:13</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>DF12:4</PageReference>
+      <PageReference>DF12:6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Han-kyus">
+    <PageReference>DF12:12</PageReference>
+    <PageReference>DF12:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heavily Armored modifier">
+    <PageReference>DF12:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hook maneuver">
+    <PageReference>DF12:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jonin">
+    <PageReference>DF12:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jonin no ninja-tos">
+    <PageReference>DF12:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Juttes">
+    <PageReference>DF12:12</PageReference>
+    <PageReference>DF12:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kamas">
+    <PageReference>DF12:12</PageReference>
+    <PageReference>DF12:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Killing Strike ability">
+    <PageReference>DF12:5</PageReference>
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kittates">
+    <PageReference>DF12:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kusaris">
+    <PageReference>DF12:17</PageReference>
+    <PageReference>DF12:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kusarigamas">
+    <PageReference>DF12:12-14</PageReference>
+    <PageReference>DF12:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kusarijuttes">
+    <PageReference>DF12:13</PageReference>
+    <PageReference>DF12:14</PageReference>
+    <PageReference>DF12:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lenses">
+    <PageReference>DF12:8-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lethal Weapon ability">
+    <PageReference>DF12:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light modifier">
+    <PageReference>DF12:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Magic items">
+    <PageReference>DF12:17-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Masters">
+    <Child ReferenceText="of missiles">
+      <PageReference>DF12:8</PageReference>
+    </Child>
+    <Child ReferenceText="of stealth">
+      <PageReference>DF12:8</PageReference>
+    </Child>
+    <Child ReferenceText="of tools">
+      <PageReference>DF12:8</PageReference>
+    </Child>
+    <Child ReferenceText="of death">
+      <PageReference>DF12:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee weapons">
+    <PageReference>DF12:12-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Metsubushis">
+    <PageReference>DF12:13</PageReference>
+    <SeeAlso>Blowpipes</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind fog">
+    <PageReference>DF12:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Shield ability">
+    <PageReference>DF12:5</PageReference>
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nandemo kusaris">
+    <PageReference>DF12:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Needles, mouth">
+    <PageReference>DF12:12</PageReference>
+    <PageReference>DF12:14</PageReference>
+    <PageReference>DF12:13</PageReference>
+    <PageReference>DF12:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja-barbarian lens">
+    <PageReference>DF12:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja-bard lens">
+    <PageReference>DF12:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja-cleric lens">
+    <PageReference>DF12:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja-druid lens">
+    <PageReference>DF12:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja-holy warrior lens">
+    <PageReference>DF12:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja-knight lens">
+    <PageReference>DF12:10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja lens">
+    <PageReference>DF12:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja Mail modifier">
+    <PageReference>DF12:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja-martial artist lens">
+    <PageReference>DF12:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja-scout lens">
+    <PageReference>DF12:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja-swashbuckler lens">
+    <PageReference>DF12:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja Talent">
+    <PageReference>DF12:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja-thief lens">
+    <PageReference>DF12:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja Tools ability">
+    <PageReference>DF12:5-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja-tos">
+    <PageReference>DF12:13</PageReference>
+    <PageReference>DF12:14</PageReference>
+    <PageReference>DF12:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja Training power">
+    <PageReference>DF12:4-6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja weapon modifier">
+    <PageReference>DF12:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja-wizard lens">
+    <PageReference>DF12:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Okusarigamas">
+    <PageReference>DF12:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One With Shadows ability">
+    <PageReference>DF12:6</PageReference>
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Paralytic slime">
+    <PageReference>DF12:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perfect Balance ability">
+    <PageReference>DF12:6</PageReference>
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Peripheral Vision ability">
+    <PageReference>DF12:6</PageReference>
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perk, new">
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pitch Dark modifier">
+    <PageReference>DF12:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Poisons">
+    <PageReference>DF12:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powders">
+    <PageReference>DF12:16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power modifier (PM)">
+    <PageReference>DF12:4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quiet modifier">
+    <PageReference>DF12:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rafts">
+    <PageReference>DF12:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged weapons">
+    <PageReference>DF12:12-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reversible modifier">
+    <PageReference>DF12:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sais">
+    <PageReference>DF12:13</PageReference>
+    <PageReference>DF12:14</PageReference>
+    <PageReference>DF12:17</PageReference>
+    <PageReference>DF12:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sayas">
+    <PageReference>DF12:15</PageReference>
+    <PageReference>DF12:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadow Walker ability">
+    <PageReference>DF12:6</PageReference>
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sheaths">
+    <PageReference>DF12:15</PageReference>
+    <PageReference>DF12:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shifting Visage ability">
+    <PageReference>DF12:6</PageReference>
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shokosu gis">
+    <PageReference>DF12:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shurikens">
+    <PageReference>DF12:13</PageReference>
+    <PageReference>DF12:14</PageReference>
+    <Child ReferenceText="of piercing">
+      <PageReference>DF12:18</PageReference>
+    </Child>
+    <Child ReferenceText="storm">
+      <PageReference>DF12:19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Silence ability">
+    <PageReference>DF12:6</PageReference>
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Storm shurikens">
+    <PageReference>DF12:18-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suits">
+    <PageReference>DF12:16-17</PageReference>
+    <Child ReferenceText="shokosu">
+      <PageReference>DF12:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Super Jump ability">
+    <PageReference>DF12:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Superior Weapon Holder modifier">
+    <PageReference>DF12:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supremely Quiet modifier">
+    <PageReference>DF12:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tabis">
+    <PageReference>DF12:15</PageReference>
+    <PageReference>DF12:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="weapons">
+      <PageReference>DF12:14</PageReference>
+    </Child>
+    <Child ReferenceText="abilities">
+      <PageReference>DF12:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tantos">
+    <PageReference>DF12:13</PageReference>
+    <PageReference>DF12:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Templates">
+    <PageReference>DF12:8</PageReference>
+    <PageReference>DF12:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tobu tabis">
+    <PageReference>DF12:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tonfas">
+    <PageReference>DF12:13</PageReference>
+    <PageReference>DF12:14</PageReference>
+    <PageReference>DF12:19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tools">
+    <PageReference>DF12:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Torches">
+    <PageReference>DF12:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tsubas">
+    <PageReference>DF12:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vow disadvantage">
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Way">
+    <Child ReferenceText="of Shadows">
+      <PageReference>DF12:7</PageReference>
+      <PageReference>DF12:8</PageReference>
+    </Child>
+    <Child ReferenceText="of the Mind">
+      <PageReference>DF12:7</PageReference>
+    </Child>
+    <Child ReferenceText="of Tools">
+      <PageReference>DF12:7</PageReference>
+      <PageReference>DF12:8</PageReference>
+    </Child>
+    <Child ReferenceText="of Death">
+      <PageReference>DF12:7</PageReference>
+      <PageReference>DF12:8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Holder modifier">
+    <PageReference>DF12:17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Master advantage">
+    <PageReference>DF12:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <PageReference>DF12:12-14</PageReference>
+    <Child ReferenceText="maneuver">
+      <PageReference>DF12:13</PageReference>
+    </Child>
+    <Child ReferenceText="modifier">
+      <PageReference>DF12:13</PageReference>
+    </Child>
+  </IndexReference>
+</IndexReferenceCollection>

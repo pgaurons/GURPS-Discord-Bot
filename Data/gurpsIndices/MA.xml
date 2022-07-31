@@ -1,0 +1,2845 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="ABA Bando style">
+    <PageReference>MA151-152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Abu Dhabi Combat Club">
+    <PageReference>MA19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatic Attack">
+    <PageReference>MA107</PageReference>
+    <PageReference>MA131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatic Feints Skill Adaptation perk">
+    <PageReference>MA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatic Kicks Skill Adaptation perk">
+    <PageReference>MA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatic movement">
+    <PageReference>MA105-107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatic Stand">
+    <PageReference>MA98</PageReference>
+    <Child ReferenceText="technique">
+      <PageReference>MA65</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Acrobatics skill">
+    <PageReference>MA54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Actions in combat, multiple">
+    <PageReference>MA128</PageReference>
+    <SeeAlso>Attack</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Active defense options">
+    <PageReference>MA121-125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>MA42-53</PageReference>
+    <Child ReferenceText="desirable">
+      <PageReference>MA43</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Africa, history">
+    <PageReference>MA19</PageReference>
+    <SeeAlso>Iklwa Fighting</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Aggressive Parry technique">
+    <PageReference>MA65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aikido style">
+    <PageReference>MA149</PageReference>
+    <PageReference>MA162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aikijutsu style">
+    <PageReference>MA149</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aim combat maneuver">
+    <PageReference>MA97</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Attack combat maneuver">
+    <PageReference>MA97-98</PageReference>
+    <PageReference>MA128</PageReference>
+    <Child ReferenceText="grappling and">
+      <PageReference>MA114</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Altered Time Rate advantage">
+    <PageReference>MA42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Applegate, Rex">
+    <PageReference>MA24</PageReference>
+    <PageReference>MA182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Archers, yeomen">
+    <PageReference>MA16</PageReference>
+    <SeeAlso>Archery Styles and Heroic Archer Advantage</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Archery styles">
+    <PageReference>MA7</PageReference>
+    <PageReference>MA181</PageReference>
+    <SeeAlso>Arrows</SeeAlso>
+    <SeeAlso>Horse Archery Technique</SeeAlso>
+    <SeeAlso>Kyudo Style</SeeAlso>
+    <SeeAlso>Kyujutsu Style</SeeAlso>
+    <SeeAlso>Ranged</SeeAlso>
+    <SeeAlso>Quick-Shooting Bows</SeeAlso>
+    <SeeAlso>Yabusame Style</SeeAlso>
+    <SeeAlso>and Zen Archery Skill</SeeAlso>
+    <Child ReferenceText="foot style">
+      <PageReference>MA181</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Arm or Wrist Lock technique">
+    <PageReference>MA65</PageReference>
+    <PageReference>MA116</PageReference>
+    <PageReference>MA118-119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armatura Equestris style">
+    <PageReference>MA150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armatura style">
+    <PageReference>MA150</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armed Grapple technique">
+    <PageReference>MA67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor (for training or competition)">
+    <PageReference>MA234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor Familiarity perk">
+    <PageReference>MA49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Arrows">
+    <Child ReferenceText="blunt">
+      <PageReference>MA232</PageReference>
+    </Child>
+    <Child ReferenceText="bowel raker">
+      <PageReference>MA232</PageReference>
+    </Child>
+    <Child ReferenceText="frog crotch">
+      <PageReference>MA232</PageReference>
+    </Child>
+    <Child ReferenceText="humming bulb">
+      <PageReference>MA232</PageReference>
+    </Child>
+    <Child ReferenceText="willow leaf">
+      <PageReference>MA232</PageReference>
+    </Child>
+    <Child ReferenceText="barbed">
+      <PageReference>MA232</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Asia, history">
+    <PageReference>MA8-14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assassin template">
+    <PageReference>MA31-32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Atarashii Naginata style">
+    <PageReference>MA187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attack">
+    <Child ReferenceText="multiple">
+      <PageReference>MA126-128</PageReference>
+    </Child>
+    <Child ReferenceText="combat maneuver">
+      <PageReference>MA98</PageReference>
+      <PageReference>MA128</PageReference>
+      <PageReference>MA131</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Attack from Above technique">
+    <PageReference>MA67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Autohypnosis skill">
+    <PageReference>MA54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Axe Kick technique">
+    <PageReference>MA67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Back Kick technique">
+    <PageReference>MA67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Back Strike technique">
+    <PageReference>MA67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Backbreaker technique">
+    <PageReference>MA82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bad reenactments">
+    <PageReference>MA26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bajutsu style">
+    <PageReference>MA151</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bandaging severe wounds">
+    <PageReference>MA138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bando style">
+    <PageReference>MA14</PageReference>
+    <PageReference>MA151-152</PageReference>
+    <Child ReferenceText="animal forms">
+      <PageReference>MA151</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Banister sliding">
+    <PageReference>MA105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Banshay style">
+    <PageReference>MA14</PageReference>
+    <PageReference>MA176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bartitsu style">
+    <PageReference>MA167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barton-Wright, E">
+    <Child ReferenceText="W" />
+    <Child ReferenceText="">
+      <PageReference>MA18</PageReference>
+      <PageReference>MA167</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Basic attacks">
+    <PageReference>MA90</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bayonet fighting style">
+    <PageReference>MA197</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bear hug combat option">
+    <PageReference>MA117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beat combat maneuver">
+    <PageReference>MA100-101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beginning students as PCs">
+    <PageReference>MA30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Belts and grading">
+    <PageReference>MA172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Berserkers">
+    <PageReference>MA179</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bind Weapon technique">
+    <PageReference>MA67-68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Binding technique">
+    <PageReference>MA82-83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Biting Mastery perk">
+    <PageReference>MA49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bleeding">
+    <PageReference>MA138</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blind Fighting skill">
+    <PageReference>MA54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blinding a foe">
+    <PageReference>MA72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Block combat option, multiple">
+    <PageReference>MA123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Body Control">
+    <Child ReferenceText="skill">
+      <PageReference>MA54</PageReference>
+    </Child>
+    <Child ReferenceText="power">
+      <PageReference>MA46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bodhidharma">
+    <PageReference>MA7</PageReference>
+    <PageReference>MA9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bojutsu style">
+    <PageReference>MA192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Botte segrete">
+    <PageReference>MA18</PageReference>
+    <PageReference>MA86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boxe Française, La, style">
+    <PageReference>MA193</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boxers (resistance group)">
+    <PageReference>MA9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Boxing">
+    <Child ReferenceText="Bare-Knuckle style">
+      <PageReference>MA153</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>MA55</PageReference>
+    </Child>
+    <Child ReferenceText="styles">
+      <PageReference>MA6</PageReference>
+      <PageReference>MA16</PageReference>
+      <PageReference>MA162</PageReference>
+      <PageReference>MA152-153</PageReference>
+    </Child>
+    <Child ReferenceText="Ancient Greek style">
+      <PageReference>MA153</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Brawling skill">
+    <PageReference>MA55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brazil, history">
+    <PageReference>MA8</PageReference>
+    <PageReference>MA20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brazilian Jiu-jitsu">
+    <PageReference>MA8</PageReference>
+    <PageReference>MA20</PageReference>
+    <PageReference>MA167-168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breakfall technique">
+    <PageReference>MA68-69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breaking Blow skill">
+    <PageReference>MA55</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breastplate, sparring">
+    <PageReference>MA234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breath of Dragon Innate Attack advantage">
+    <PageReference>MA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bullet Time optional rule">
+    <PageReference>MA133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burma, history">
+    <PageReference>MA14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bushi">
+    <PageReference>MA251</PageReference>
+    <SeeAlso>Bushido Code of Honor Disadvantage and Samurai</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bushido Code of Honor disadvantage">
+    <PageReference>MA7</PageReference>
+    <PageReference>MA53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buzzsaw ball-and-chain">
+    <PageReference>MA223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <Child ReferenceText="hybrid">
+      <PageReference>MA239-241</PageReference>
+    </Child>
+    <Child ReferenceText="realistic">
+      <PageReference>MA236-238</PageReference>
+    </Child>
+    <Child ReferenceText="secret abilities">
+      <PageReference>MA240</PageReference>
+    </Child>
+    <Child ReferenceText="setting">
+      <PageReference>MA241-247</PageReference>
+    </Child>
+    <Child ReferenceText="themes">
+      <PageReference>MA247-250</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic">
+      <PageReference>MA238-239</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cane fighting style">
+    <PageReference>MA157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Canne de Combat, La, style">
+    <PageReference>MA157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Capoeira style">
+    <PageReference>MA11</PageReference>
+    <PageReference>MA20</PageReference>
+    <PageReference>MA153-154</PageReference>
+    <PageReference>MA251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cavalry Training technique">
+    <PageReference>MA69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chambara">
+    <PageReference>MA29</PageReference>
+    <PageReference>MA239</PageReference>
+    <PageReference>MA251</PageReference>
+    <SeeAlso>Campaigns Cinematic</SeeAlso>
+    <SeeAlso>Characters Cinematic</SeeAlso>
+    <SeeAlso>Cinematic Abilities and Prerequisites</SeeAlso>
+    <SeeAlso>and Combat Cinematic</SeeAlso>
+    <Child ReferenceText="attacks">
+      <PageReference>MA128-129</PageReference>
+    </Child>
+    <Child ReferenceText="defenses">
+      <PageReference>MA129</PageReference>
+    </Child>
+    <Child ReferenceText="fighting">
+      <PageReference>MA128-130</PageReference>
+    </Child>
+    <Child ReferenceText="movement">
+      <PageReference>MA128</PageReference>
+    </Child>
+    <Child ReferenceText="special feats">
+      <PageReference>MA129-130</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Change Posture combat maneuver">
+    <PageReference>MA98-99</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Character templates">
+    <PageReference>MA31-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <SeeAlso>Del Duque</SeeAlso>
+    <SeeAlso>Froste Adrian</SeeAlso>
+    <SeeAlso>Kai Lin</SeeAlso>
+    <SeeAlso>and NPCs</SeeAlso>
+    <Child ReferenceText="realistic">
+      <PageReference>MA236-237</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic">
+      <PageReference>MA30</PageReference>
+      <PageReference>MA238</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Charging foes">
+    <PageReference>MA106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Charlemont, Joseph">
+    <PageReference>MA193</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi Projection power">
+    <PageReference>MA46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi Resistance perk">
+    <PageReference>MA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chi">
+    <PageReference>MA11</PageReference>
+    <PageReference>MA50</PageReference>
+    <PageReference>MA251</PageReference>
+    <Child ReferenceText="powers">
+      <PageReference>MA46</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Chin Na style">
+    <PageReference>MA154</PageReference>
+    <PageReference>MA162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="China, history">
+    <PageReference>MA6-10</PageReference>
+    <PageReference>MA242-243</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chinese horse-cutter fighting style">
+    <PageReference>MA187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Chojun Miyagi">
+    <PageReference>MA170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Choke Hold technique">
+    <PageReference>MA69</PageReference>
+    <PageReference>MA116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cinematic abilities and prerequisites">
+    <PageReference>MA141</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Classifying martial arts">
+    <PageReference>MA162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Claws advantage">
+    <PageReference>MA42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clinch Skill Adaptation perk">
+    <PageReference>MA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close combat">
+    <SeeAlso>Combat and Techniques</SeeAlso>
+    <Child ReferenceText="long weapons and">
+      <PageReference>MA117</PageReference>
+    </Child>
+    <Child ReferenceText="options">
+      <PageReference>MA114-119</PageReference>
+    </Child>
+    <Child ReferenceText="pain and">
+      <PageReference>MA119</PageReference>
+    </Child>
+    <Child ReferenceText="technique">
+      <PageReference>MA69</PageReference>
+    </Child>
+    <Child ReferenceText="body morphology and">
+      <PageReference>MA114-117</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Code of Honor disadvantage">
+    <PageReference>MA53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Art skill">
+    <PageReference>MA55-56</PageReference>
+    <PageReference>MA113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Riding technique">
+    <PageReference>MA69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Sport skill">
+    <PageReference>MA55-56</PageReference>
+    <PageReference>MA113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <SeeAlso>Close Combat</SeeAlso>
+    <SeeAlso>Extra Effort in Combat</SeeAlso>
+    <SeeAlso>Melee</SeeAlso>
+    <SeeAlso>Ranged</SeeAlso>
+    <SeeAlso>Techniques</SeeAlso>
+    <SeeAlso>Throwing Dirt</SeeAlso>
+    <SeeAlso>Tournament Combat</SeeAlso>
+    <SeeAlso>Unarmed Combat</SeeAlso>
+    <SeeAlso>and Untrained Fighters</SeeAlso>
+    <Child ReferenceText="maneuvers">
+      <PageReference>MA97-108</PageReference>
+    </Child>
+    <Child ReferenceText="options">
+      <PageReference>MA109-125</PageReference>
+    </Child>
+    <Child ReferenceText="options to speed up">
+      <PageReference>MA126</PageReference>
+    </Child>
+    <Child ReferenceText="realistic">
+      <PageReference>MA237-238</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>MA55</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic">
+      <PageReference>MA125-133</PageReference>
+      <PageReference>MA238-239</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combinations">
+    <Child ReferenceText="techniques">
+      <PageReference>MA109</PageReference>
+    </Child>
+    <Child ReferenceText="optional rule">
+      <PageReference>MA80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Committed Attack combat maneuver">
+    <PageReference>MA99-100</PageReference>
+    <PageReference>MA128</PageReference>
+    <Child ReferenceText="grappling and">
+      <PageReference>MA114</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Concealed carry rigs">
+    <PageReference>MA218</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concentration and the martial arts">
+    <PageReference>MA130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Connoisseur skill">
+    <PageReference>MA56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contender template">
+    <PageReference>MA32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Contest of Wills">
+    <PageReference>MA130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cops">
+    <SeeAlso>Police</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Corbett, James J">
+    <Child ReferenceText="">
+      <PageReference>MA23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Corpo fechado">
+    <PageReference>MA11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cotton Stomach perk">
+    <PageReference>MA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Counterattack technique">
+    <PageReference>MA70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crack technique">
+    <PageReference>MA70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Crimefighter template">
+    <PageReference>MA32-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cross Parry optional rule">
+    <PageReference>MA121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cups (guard)">
+    <PageReference>MA234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dagger Fighting style">
+    <PageReference>MA155</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage Resistance advantage">
+    <PageReference>MA43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Death Fist style">
+    <PageReference>MA207-208</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Decapitating hood">
+    <PageReference>MA223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deceptive Attack">
+    <PageReference>MA121</PageReference>
+    <Child ReferenceText="common">
+      <PageReference>MA111</PageReference>
+    </Child>
+    <Child ReferenceText="countering">
+      <PageReference>MA100</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Defendu style">
+    <PageReference>MA24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Defensive">
+    <Child ReferenceText="Grip">
+      <PageReference>MA102</PageReference>
+      <PageReference>MA109</PageReference>
+      <PageReference>MA111</PageReference>
+    </Child>
+    <Child ReferenceText="Attack combat maneuver">
+      <PageReference>MA100</PageReference>
+      <PageReference>MA128</PageReference>
+      <PageReference>MA131</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Del Duque (character)">
+    <PageReference>MA33</PageReference>
+    <PageReference>MA140</PageReference>
+    <PageReference>MA240</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Delusions disadvantage">
+    <PageReference>MA53-54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Di">
+    <SeeAlso>Te</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Dirty tricks">
+    <PageReference>MA76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <PageReference>MA53-54</PageReference>
+    <Child ReferenceText="common">
+      <PageReference>MA53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disarming technique">
+    <PageReference>MA70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dismemberment">
+    <PageReference>MA136</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Diving">
+    <PageReference>MA107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Do, definition">
+    <PageReference>MA148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dodges, limiting">
+    <PageReference>MA122-123</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doom pincers">
+    <PageReference>MA223</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dragon-Man Kung Fu style">
+    <PageReference>MA208-209</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drop Kick technique">
+    <PageReference>MA70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drunken Fighting perk">
+    <PageReference>MA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual-Weapon">
+    <Child ReferenceText="Defense technique">
+      <PageReference>MA83</PageReference>
+    </Child>
+    <Child ReferenceText="Attack technique">
+      <PageReference>MA83</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Duelist template">
+    <PageReference>MA34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ear Clap technique">
+    <PageReference>MA70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Egypt, history">
+    <PageReference>MA19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Elbow">
+    <Child ReferenceText="Strike technique">
+      <PageReference>MA71</PageReference>
+    </Child>
+    <Child ReferenceText="Drop technique">
+      <PageReference>MA70-71</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Defenses advantage">
+    <PageReference>MA43-44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Time Sense advantage">
+    <PageReference>MA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Entangle technique">
+    <PageReference>MA71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Épée fencing style">
+    <PageReference>MA160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Escrima style">
+    <PageReference>MA12</PageReference>
+    <PageReference>MA155-156</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Esoteric Medicine">
+    <PageReference>MA56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Europe">
+    <Child ReferenceText="setting">
+      <PageReference>MA244-245</PageReference>
+    </Child>
+    <Child ReferenceText="history">
+      <PageReference>MA7-8</PageReference>
+      <PageReference>MA15-18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Evade technique">
+    <PageReference>MA71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evading">
+    <PageReference>MA105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Evaluate combat maneuver">
+    <PageReference>MA100</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exotic Hand Strike technique">
+    <PageReference>MA71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Exotic Weapon Training perk">
+    <PageReference>MA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Expert Skill skill">
+    <PageReference>MA56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="External styles, definition">
+    <PageReference>MA162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Attack advantage">
+    <PageReference>MA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra effort in combat">
+    <PageReference>MA131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Hit Points">
+    <PageReference>MA49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eye-Gouging technique">
+    <PageReference>MA71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eye-Pluck technique">
+    <PageReference>MA72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eye-Poke">
+    <Child ReferenceText="Double technique">
+      <PageReference>MA88</PageReference>
+    </Child>
+    <Child ReferenceText="lethal">
+      <PageReference>MA72</PageReference>
+    </Child>
+    <Child ReferenceText="technique">
+      <PageReference>MA72</PageReference>
+    </Child>
+    <Child ReferenceText="Defense technique">
+      <PageReference>MA88</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Eye-Rake technique">
+    <PageReference>MA72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fairbairn Close Combat Training">
+    <PageReference>MA182-183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fairbairn, William E">
+    <Child ReferenceText="">
+      <PageReference>MA8</PageReference>
+      <PageReference>MA23-24</PageReference>
+      <PageReference>MA182</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Faking abilities">
+    <PageReference>MA130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fantasy settings">
+    <PageReference>MA245</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-Draw skill">
+    <PageReference>MA56-57</PageReference>
+    <PageReference>MA103</PageReference>
+    <Child ReferenceText="odd positions and">
+      <PageReference>MA103-104</PageReference>
+    </Child>
+    <Child ReferenceText="turn order and">
+      <PageReference>MA103</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fear and martial artists">
+    <PageReference>MA113</PageReference>
+    <PageReference>MA130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fearlessness advantage">
+    <PageReference>MA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fechtbücher">
+    <PageReference>MA7</PageReference>
+    <PageReference>MA16</PageReference>
+    <PageReference>MA17</PageReference>
+    <PageReference>MA251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Feints">
+    <PageReference>MA121</PageReference>
+    <SeeAlso>Beat Combat Maneuver and Ruse Combat Maneuver</SeeAlso>
+    <Child ReferenceText="combat maneuver">
+      <PageReference>MA100-101</PageReference>
+    </Child>
+    <Child ReferenceText="countering">
+      <PageReference>MA100</PageReference>
+    </Child>
+    <Child ReferenceText="defensive">
+      <PageReference>MA101</PageReference>
+    </Child>
+    <Child ReferenceText="multiple attacks and">
+      <PageReference>MA127</PageReference>
+    </Child>
+    <Child ReferenceText="non-combat skills and">
+      <PageReference>MA101</PageReference>
+    </Child>
+    <Child ReferenceText="ranged">
+      <PageReference>MA121</PageReference>
+    </Child>
+    <Child ReferenceText="spotting">
+      <PageReference>MA101</PageReference>
+    </Child>
+    <Child ReferenceText="technique">
+      <PageReference>MA73</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fencing parries combat options">
+    <PageReference>MA122</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fencing styles">
+    <PageReference>MA156-159</PageReference>
+    <SeeAlso>Sport Fencing Styles</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Feverish Defense combat option">
+    <PageReference>MA131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fictional styles">
+    <PageReference>MA207-210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fighting While Seated technique">
+    <PageReference>MA83</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Finger Lock technique">
+    <PageReference>MA73</PageReference>
+    <PageReference>MA118-119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flexibility advantage">
+    <PageReference>MA44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flurry of Blows combat option">
+    <PageReference>MA131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying Atomic Wedgie technique">
+    <PageReference>MA88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying Attack">
+    <PageReference>MA107</PageReference>
+    <PageReference>MA131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying Fists Innate Attack advantage">
+    <PageReference>MA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying Jump Kick technique">
+    <PageReference>MA83-84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying Leap skill">
+    <PageReference>MA57</PageReference>
+    <PageReference>MA129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flying Lunge technique">
+    <PageReference>MA83-84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foil fencing style">
+    <PageReference>MA160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Folk beliefs">
+    <PageReference>MA11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foot guards">
+    <PageReference>MA234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forceful Chi Talent">
+    <PageReference>MA47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Force-Swordsmanship style">
+    <PageReference>MA209</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Form Mastery perk">
+    <PageReference>MA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frauds as characters">
+    <PageReference>MA35</PageReference>
+    <SeeAlso>Trained by a Fraud Lens and Faking Abilities</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Freefighting style">
+    <PageReference>MA210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Freeing hands">
+    <PageReference>MA117-118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="French Smallsword style">
+    <PageReference>MA159</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Froste, Adrian (character)">
+    <PageReference>MA28</PageReference>
+    <PageReference>MA37</PageReference>
+    <PageReference>MA96</PageReference>
+    <PageReference>MA211</PageReference>
+    <PageReference>MA235</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Funakoshi Gichin">
+    <PageReference>MA14</PageReference>
+    <PageReference>MA23</PageReference>
+    <PageReference>MA24</PageReference>
+    <PageReference>MA169</PageReference>
+    <PageReference>MA170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Furusiyya style">
+    <PageReference>MA159-161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gama">
+    <PageReference>MA23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Games skill">
+    <PageReference>MA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gatka">
+    <PageReference>MA10</PageReference>
+    <PageReference>MA157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ghost Knife Innate Attack advantage">
+    <PageReference>MA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Giant Step combat option">
+    <PageReference>MA131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gizmos advantage">
+    <PageReference>MA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gladiators">
+    <PageReference>MA6</PageReference>
+    <PageReference>MA15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Glaive fighting style">
+    <PageReference>MA187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gloves">
+    <Child ReferenceText="mixed martial arts">
+      <PageReference>MA233</PageReference>
+    </Child>
+    <Child ReferenceText="open-palmed">
+      <PageReference>MA233</PageReference>
+    </Child>
+    <Child ReferenceText="boxing">
+      <PageReference>MA233</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Goju Ryu style">
+    <PageReference>MA170-171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gracie family">
+    <PageReference>MA8</PageReference>
+    <PageReference>MA20</PageReference>
+    <PageReference>MA167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grand Disarm technique">
+    <PageReference>MA84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grappling">
+    <PageReference>MA51</PageReference>
+    <PageReference>MA67</PageReference>
+    <PageReference>MA76</PageReference>
+    <PageReference>MA79</PageReference>
+    <PageReference>MA114</PageReference>
+    <PageReference>MA117-119</PageReference>
+    <SeeAlso>Armed Grapple Technique</SeeAlso>
+    <SeeAlso>Freeing Hands</SeeAlso>
+    <SeeAlso>Leg Grapple Technique</SeeAlso>
+    <SeeAlso>and Locks</SeeAlso>
+    <Child ReferenceText="all-out and strike">
+      <PageReference>MA118</PageReference>
+    </Child>
+    <Child ReferenceText="defense while">
+      <PageReference>MA121-122</PageReference>
+    </Child>
+    <Child ReferenceText="knock two foes together">
+      <PageReference>MA118</PageReference>
+    </Child>
+    <Child ReferenceText="multiple attacks and">
+      <PageReference>MA128</PageReference>
+    </Child>
+    <Child ReferenceText="one hand and">
+      <PageReference>MA116</PageReference>
+      <PageReference>MA119</PageReference>
+    </Child>
+    <Child ReferenceText="ramming target">
+      <PageReference>MA118</PageReference>
+    </Child>
+    <Child ReferenceText="shifting">
+      <PageReference>MA117-118</PageReference>
+    </Child>
+    <Child ReferenceText="using legs">
+      <PageReference>MA79</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Great Lunge combat option">
+    <PageReference>MA131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Greece">
+    <Child ReferenceText="setting">
+      <PageReference>MA241-242</PageReference>
+    </Child>
+    <Child ReferenceText="history">
+      <PageReference>MA6-7</PageReference>
+      <PageReference>MA15-16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grip Mastery perk">
+    <PageReference>MA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ground Fighting technique">
+    <PageReference>MA73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ground Guard perk">
+    <PageReference>MA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Group Performance skill">
+    <PageReference>MA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun Control Law optional rule">
+    <PageReference>MA132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunslinger advantage">
+    <PageReference>MA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <Child ReferenceText="Basic Set">
+      <PageReference>MA29</PageReference>
+      <PageReference>MA45</PageReference>
+      <PageReference>MA47</PageReference>
+      <PageReference>MA48</PageReference>
+      <PageReference>MA53</PageReference>
+      <PageReference>MA54</PageReference>
+      <PageReference>MA56</PageReference>
+      <PageReference>MA58</PageReference>
+      <PageReference>MA60</PageReference>
+      <PageReference>MA86</PageReference>
+      <PageReference>MA96</PageReference>
+      <PageReference>MA97</PageReference>
+      <PageReference>MA98</PageReference>
+      <PageReference>MA114</PageReference>
+      <PageReference>MA124</PageReference>
+      <PageReference>MA126</PageReference>
+      <PageReference>MA134</PageReference>
+      <PageReference>MA136</PageReference>
+      <PageReference>MA137</PageReference>
+      <PageReference>MA212</PageReference>
+      <PageReference>MA215</PageReference>
+      <PageReference>MA216</PageReference>
+      <PageReference>MA217</PageReference>
+      <PageReference>MA219</PageReference>
+      <PageReference>MA222</PageReference>
+      <PageReference>MA237</PageReference>
+    </Child>
+    <Child ReferenceText="Magic">
+      <PageReference>MA189</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>MA30</PageReference>
+      <PageReference>MA46</PageReference>
+    </Child>
+    <Child ReferenceText="Ultra-Tech">
+      <PageReference>MA211</PageReference>
+    </Child>
+    <Child ReferenceText="Banestorm">
+      <PageReference>MA189</PageReference>
+      <PageReference>MA245</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Halitosis Attack technique">
+    <PageReference>MA88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hammer Fist technique">
+    <PageReference>MA73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hand Catch technique">
+    <PageReference>MA84</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hand of Death Innate Attack advantage">
+    <PageReference>MA46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hand wraps">
+    <PageReference>MA233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hand-Clap Parry technique">
+    <PageReference>MA84-85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Handcuffing technique">
+    <PageReference>MA73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hands-Free Riding technique">
+    <PageReference>MA73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hapkido style">
+    <PageReference>MA161</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hard styles, definition">
+    <PageReference>MA162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Head Butt technique">
+    <PageReference>MA74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Head Lock technique">
+    <PageReference>MA74</PageReference>
+    <PageReference>MA116</PageReference>
+    <PageReference>MA118-119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heavy bag (for training)">
+    <PageReference>MA233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Helmet, sparring">
+    <PageReference>MA234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heroic Archer advantage">
+    <PageReference>MA45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Heroic Charge combat option">
+    <PageReference>MA131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hidden Lore skill">
+    <PageReference>MA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit locations">
+    <PageReference>MA137</PageReference>
+    <Child ReferenceText="limited by target’s posture">
+      <PageReference>MA98-99</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hobby skill">
+    <PageReference>MA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holds">
+    <SeeAlso>Grappling</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Hook technique">
+    <PageReference>MA74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hoplology Expert Skill">
+    <PageReference>MA56</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hoplomachia style">
+    <PageReference>MA161-162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Horse Archery technique">
+    <PageReference>MA74</PageReference>
+    <PageReference>MA77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="HRD">
+    <PageReference>MA163-164</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hsing I Chuan style">
+    <PageReference>MA162-163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hung Gar Kung Fu style">
+    <PageReference>MA22</PageReference>
+    <PageReference>MA163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hwa Rang Do style">
+    <PageReference>MA163-164</PageReference>
+    <SeeAlso>Hwarang</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Hwarang">
+    <PageReference>MA14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hyoho Niten Ichi Ryu style">
+    <SeeAlso>Nito Ryu style</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Hypnotic Hands skill">
+    <PageReference>MA61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="I Ho Chu’an">
+    <PageReference>MA9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iaido style">
+    <PageReference>MA175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iaijutsu style">
+    <PageReference>MA174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iklwa Fighting style">
+    <PageReference>MA197</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Imperial Stormtrooper Marksmanship Academy optional rule">
+    <PageReference>MA132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Improvised Weapon perk">
+    <PageReference>MA50</PageReference>
+    <SeeAlso>Weapons Improvised</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="India, history">
+    <PageReference>MA10</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Indonesia, history">
+    <PageReference>MA12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Initial Carving technique">
+    <PageReference>MA85</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injuries">
+    <Child ReferenceText="lasting and permanent">
+      <PageReference>MA138</PageReference>
+    </Child>
+    <Child ReferenceText="partial">
+      <PageReference>MA136</PageReference>
+    </Child>
+    <Child ReferenceText="realistic">
+      <PageReference>MA136-139</PageReference>
+    </Child>
+    <Child ReferenceText="stun vs" />
+    <Child ReferenceText="real">
+      <PageReference>MA138</PageReference>
+    </Child>
+    <Child ReferenceText="cinematic">
+      <PageReference>MA139</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury Tolerance advantage">
+    <PageReference>MA45</PageReference>
+    <PageReference>MA115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Innate Attack advantage">
+    <PageReference>MA45-47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Inner Balance Talent">
+    <PageReference>MA47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Instructor template">
+    <PageReference>MA34-35</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Internal styles, definition">
+    <PageReference>MA162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Iron Body Parts perk">
+    <PageReference>MA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Israel, history">
+    <PageReference>MA19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Isshinryu style">
+    <PageReference>MA171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Italian School fencing style">
+    <PageReference>MA156-157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jam technique">
+    <PageReference>MA74-75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Japan, history">
+    <PageReference>MA7-8</PageReference>
+    <PageReference>MA12-14</PageReference>
+    <PageReference>MA243</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jeet Kune Do style">
+    <PageReference>MA24</PageReference>
+    <PageReference>MA162</PageReference>
+    <PageReference>MA164-165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jojutsu style">
+    <PageReference>MA192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jousting">
+    <PageReference>MA7</PageReference>
+    <PageReference>MA135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Judicial combat">
+    <PageReference>MA135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Judo">
+    <Child ReferenceText="style">
+      <PageReference>MA8</PageReference>
+      <PageReference>MA135</PageReference>
+      <PageReference>MA166</PageReference>
+      <PageReference>MA162</PageReference>
+      <PageReference>MA172</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>MA57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Judo Throw technique">
+    <PageReference>MA75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jujutsu style">
+    <PageReference>MA8</PageReference>
+    <PageReference>MA166-168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jukenjutsu style">
+    <PageReference>MA197</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jump Kick technique">
+    <PageReference>MA75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumping skill">
+    <PageReference>MA57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jutsu, definition">
+    <PageReference>MA148</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kachin Bando style">
+    <PageReference>MA152</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kai Lian (character)">
+    <PageReference>MA5</PageReference>
+    <PageReference>MA39</PageReference>
+    <PageReference>MA63</PageReference>
+    <PageReference>MA235</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kajukenbo style">
+    <PageReference>MA168</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kalaripayit style">
+    <PageReference>MA10</PageReference>
+    <PageReference>MA11</PageReference>
+    <PageReference>MA20</PageReference>
+    <PageReference>MA168-169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Karate">
+    <SeeAlso>Funakoshi Gichin and Mas Oyama</SeeAlso>
+    <Child ReferenceText="style">
+      <PageReference>MA8</PageReference>
+      <PageReference>MA14</PageReference>
+      <PageReference>MA162</PageReference>
+      <PageReference>MA169-172</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>MA57</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kempo style">
+    <PageReference>MA172-173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kendo style">
+    <PageReference>MA20</PageReference>
+    <PageReference>MA135</PageReference>
+    <PageReference>MA172</PageReference>
+    <PageReference>MA175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kenjutsu style">
+    <PageReference>MA173-175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kenpo">
+    <PageReference>MA251</PageReference>
+    <SeeAlso>Kempo and Kenjutsu</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ki">
+    <SeeAlso>Chi</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Kiai">
+    <PageReference>MA251</PageReference>
+    <Child ReferenceText="skill">
+      <PageReference>MA58</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Kicking technique">
+    <PageReference>MA75-76</PageReference>
+    <SeeAlso>Acrobatic Kicks Skill Adaptation Perk</SeeAlso>
+    <SeeAlso>Axe Kick Technique</SeeAlso>
+    <SeeAlso>Back Kick Technique</SeeAlso>
+    <SeeAlso>Drop Kick Technique</SeeAlso>
+    <SeeAlso>Flying Jump Kick Technique</SeeAlso>
+    <SeeAlso>Jump Kick Technique</SeeAlso>
+    <SeeAlso>Lethal Kick Technique</SeeAlso>
+    <SeeAlso>Pole-Vault Kick Technique</SeeAlso>
+    <SeeAlso>Push Kick Technique</SeeAlso>
+    <SeeAlso>Shin Kicks Combat Option</SeeAlso>
+    <SeeAlso>and Stamp Kick Technique</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Kirkpinar">
+    <PageReference>MA19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knee">
+    <Child ReferenceText="Strike technique">
+      <PageReference>MA76</PageReference>
+    </Child>
+    <Child ReferenceText="Drop technique">
+      <PageReference>MA76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Knightly mounted combat styles">
+    <PageReference>MA175-177</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Knot-Tying skill">
+    <PageReference>MA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kobujutsu">
+    <PageReference>MA178</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Korea, history">
+    <PageReference>MA8</PageReference>
+    <PageReference>MA14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Krabi Krabong">
+    <PageReference>MA14</PageReference>
+    <PageReference>MA176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Krav Maga">
+    <PageReference>MA19</PageReference>
+    <PageReference>MA183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kris">
+    <PageReference>MA11</PageReference>
+    <PageReference>MA12</PageReference>
+    <PageReference>MA219</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kumango Silat style">
+    <PageReference>MA190</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kung fu">
+    <PageReference>MA6</PageReference>
+    <PageReference>MA7</PageReference>
+    <PageReference>MA8</PageReference>
+    <PageReference>MA155</PageReference>
+    <Child ReferenceText="northern vs" />
+  </IndexReference>
+  <IndexReference ReferenceText="southern styles">
+    <PageReference>MA10</PageReference>
+    <SeeAlso>Chin Na Style</SeeAlso>
+    <SeeAlso>Hsing I Chuan Style</SeeAlso>
+    <SeeAlso>Hung Gar Kung Fu Style</SeeAlso>
+    <SeeAlso>Kuntao Style</SeeAlso>
+    <SeeAlso>Pa Kau Chuan Style</SeeAlso>
+    <SeeAlso>Pak Hok Style</SeeAlso>
+    <SeeAlso>Praying Mantis Style</SeeAlso>
+    <SeeAlso>Shaolin Kung Fu Style</SeeAlso>
+    <SeeAlso>T’ai Chi Chuan Style</SeeAlso>
+    <SeeAlso>Wing Chun Style</SeeAlso>
+    <SeeAlso>and Wushu Style</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Kuntao">
+    <PageReference>MA178-179</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kusarigamajutsu style">
+    <PageReference>MA180</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kusarijutsu style">
+    <PageReference>MA179</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kyokushin style">
+    <PageReference>MA24</PageReference>
+    <PageReference>MA135</PageReference>
+    <PageReference>MA171-172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kyudo style">
+    <PageReference>MA20</PageReference>
+    <PageReference>MA181</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kyujutsu style">
+    <PageReference>MA179-180</PageReference>
+    <SeeAlso>Arrows</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Law and martial arts">
+    <PageReference>MA26-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lee, Bruce">
+    <PageReference>MA8</PageReference>
+    <PageReference>MA24-25</PageReference>
+    <PageReference>MA164</PageReference>
+    <SeeAlso>Jeet Kune Do Style</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Leg">
+    <Child ReferenceText="Lock technique">
+      <PageReference>MA76-77</PageReference>
+      <PageReference>MA116</PageReference>
+      <PageReference>MA118-119</PageReference>
+    </Child>
+    <Child ReferenceText="Grapple technique">
+      <PageReference>MA76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lethal">
+    <Child ReferenceText="Strike technique">
+      <PageReference>MA85</PageReference>
+    </Child>
+    <Child ReferenceText="Kick technique">
+      <PageReference>MA85</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Lethwei style">
+    <PageReference>MA14</PageReference>
+    <PageReference>MA135</PageReference>
+    <PageReference>MA186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lichtenauer, Johannes">
+    <PageReference>MA17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lichtenfeld, Imrich">
+    <SeeAlso>Sde-Or Imi</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Light Walk skill">
+    <PageReference>MA58</PageReference>
+    <PageReference>MA129</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lin Kuei">
+    <PageReference>MA13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lizard Climb skill">
+    <PageReference>MA61-62</PageReference>
+    <PageReference>MA129-130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locks, pain and">
+    <PageReference>MA119</PageReference>
+    <SeeAlso>Arm or Wrist Lock Technique</SeeAlso>
+    <SeeAlso>Finger Lock Technique</SeeAlso>
+    <SeeAlso>Grappling</SeeAlso>
+    <SeeAlso>Head Lock Technique</SeeAlso>
+    <SeeAlso>Leg Lock Technique</SeeAlso>
+    <SeeAlso>and Throws from Locks</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Longsword Fighting style">
+    <PageReference>MA180-182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low Fighting technique">
+    <PageReference>MA77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low-Line Defense technique">
+    <PageReference>MA77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Main-Gauche skill">
+    <PageReference>MA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marma">
+    <PageReference>MA169</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marshal, William">
+    <PageReference>MA21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial artists, famous">
+    <PageReference>MA21-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial arts, definition">
+    <PageReference>MA6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mas Oyama">
+    <PageReference>MA24</PageReference>
+    <PageReference>MA171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Masks, fencing">
+    <PageReference>MA234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Masters of Defence">
+    <PageReference>MA7</PageReference>
+    <PageReference>MA17</PageReference>
+    <PageReference>MA172</PageReference>
+    <Child ReferenceText="Weapon Training">
+      <PageReference>MA182</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="MCMAP style">
+    <PageReference>MA183</PageReference>
+    <PageReference>MA185</PageReference>
+    <PageReference>MA251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mega-Kiai Innate Attack advantage">
+    <PageReference>MA46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee">
+    <Child ReferenceText="combat skills">
+      <PageReference>MA55</PageReference>
+    </Child>
+    <Child ReferenceText="attack options">
+      <PageReference>MA109-113</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee weapons">
+    <Child ReferenceText="swing vs" />
+    <Child ReferenceText="thrust">
+      <PageReference>MA110</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>MA226-231</PageReference>
+    </Child>
+    <Child ReferenceText="weapon length">
+      <PageReference>MA110</PageReference>
+    </Child>
+    <Child ReferenceText="weapon weight">
+      <PageReference>MA110</PageReference>
+    </Child>
+    <Child ReferenceText="hurled">
+      <PageReference>MA220</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Melees (contests)">
+    <PageReference>MA135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mensur style">
+    <SeeAlso>Schläger Style</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Mental Strength skill">
+    <PageReference>MA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Middle East, history">
+    <PageReference>MA19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mighty Blows combat option">
+    <PageReference>MA131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military hand-to-hand styles">
+    <PageReference>MA182-185</PageReference>
+    <Child ReferenceText="purpose">
+      <PageReference>MA184</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Military">
+    <Child ReferenceText="styles">
+      <PageReference>MA145</PageReference>
+    </Child>
+    <Child ReferenceText="lens">
+      <PageReference>MA144</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Milo of Croton">
+    <PageReference>MA21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mixed martial arts style">
+    <PageReference>MA8</PageReference>
+    <PageReference>MA135</PageReference>
+    <PageReference>MA189</PageReference>
+    <PageReference>MA251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modern day settings">
+    <PageReference>MA246</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monk template">
+    <PageReference>MA36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Monks">
+    <PageReference>MA9</PageReference>
+    <PageReference>MA13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounted Shooting technique">
+    <PageReference>MA77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mouthguards">
+    <PageReference>MA234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Move and Attack combat maneuver">
+    <PageReference>MA107</PageReference>
+    <PageReference>MA128</PageReference>
+    <PageReference>MA131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Move combat maneuver">
+    <PageReference>MA105-107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Movie star template">
+    <PageReference>MA36-38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Muay Thai style">
+    <PageReference>MA14</PageReference>
+    <PageReference>MA135</PageReference>
+    <PageReference>MA185-186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Muhammad, Ghulam">
+    <PageReference>MA23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Musashi Miyamoto">
+    <PageReference>MA21-22</PageReference>
+    <PageReference>MA173</PageReference>
+    <PageReference>MA174</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Myths and misconceptions">
+    <PageReference>MA25-27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naginatado style">
+    <PageReference>MA187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naginatajutsu style">
+    <PageReference>MA186</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Naval Training perk">
+    <PageReference>MA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neck Control perk">
+    <PageReference>MA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neck Snap technique">
+    <PageReference>MA77</PageReference>
+    <PageReference>MA116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninja">
+    <PageReference>MA13</PageReference>
+    <PageReference>MA251</PageReference>
+    <SeeAlso>Taijutsu Style</SeeAlso>
+    <Child ReferenceText="characters">
+      <PageReference>MA202</PageReference>
+    </Child>
+    <Child ReferenceText="weapons">
+      <PageReference>MA202</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ninjutsu">
+    <PageReference>MA13</PageReference>
+    <PageReference>MA202</PageReference>
+    <SeeAlso>Ninja and Taijutsu</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Niten Ichi Ryu style">
+    <PageReference>MA12</PageReference>
+    <PageReference>MA22</PageReference>
+    <SeeAlso>Nito Ryu Style</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Nito Ryu style">
+    <PageReference>MA162</PageReference>
+    <PageReference>MA174-175</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Non-player characters">
+    <SeeAlso>NPCs</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Noogie technique">
+    <PageReference>MA88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Nose Slap technique">
+    <PageReference>MA88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NPCs">
+    <PageReference>MA236</PageReference>
+    <PageReference>MA238</PageReference>
+    <SeeAlso>Characters</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Off-Hand Weapon Training perk">
+    <PageReference>MA50</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Okinawa, history">
+    <PageReference>MA7</PageReference>
+    <PageReference>MA14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Olympic Games">
+    <PageReference>MA15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Oyama Masutatsu">
+    <SeeAlso>Mas Oyama</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Pa Kua Chuan style">
+    <PageReference>MA11</PageReference>
+    <PageReference>MA162</PageReference>
+    <PageReference>MA187-188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pads (training)">
+    <PageReference>MA233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pak Hok style">
+    <PageReference>MA188</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Panache">
+    <PageReference>MA193</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pankration">
+    <PageReference>MA6</PageReference>
+    <PageReference>MA15</PageReference>
+    <PageReference>MA188-189</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parata universale">
+    <PageReference>MA18</PageReference>
+    <PageReference>MA86</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parry Missile Weapons skill">
+    <PageReference>MA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parrying">
+    <PageReference>MA122</PageReference>
+    <SeeAlso>Parata Universale</SeeAlso>
+    <Child ReferenceText="fencing">
+      <PageReference>MA122</PageReference>
+    </Child>
+	<Child ReferenceText="flails">
+      <PageReference>MA122</PageReference>
+      <PageReference>MA221</PageReference>
+    </Child>
+    <Child ReferenceText="legs or feet and">
+      <PageReference>MA123</PageReference>
+    </Child>
+    <Child ReferenceText="skills">
+      <PageReference>MA58</PageReference>
+      <PageReference>MA62</PageReference>
+    </Child>
+    <Child ReferenceText="techniques">
+      <PageReference>MA65</PageReference>
+      <PageReference>MA84-85</PageReference>
+    </Child>
+    <Child ReferenceText="two-handed weapons and">
+      <PageReference>MA123</PageReference>
+    </Child>
+    <Child ReferenceText="two weapons and">
+      <PageReference>MA121</PageReference>
+    </Child>
+	<Child ReferenceText="unbalanced">
+      <PageReference>MA125</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pentjak Silat">
+    <PageReference>MA12</PageReference>
+    <PageReference>MA20</PageReference>
+    <PageReference>MA189-191</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>MA49-53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Philippines, history">
+    <PageReference>MA7</PageReference>
+    <PageReference>MA12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Piledriver technique">
+    <PageReference>MA85-87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Polearm fighting styles">
+    <PageReference>MA187</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pole-Vault Kick technique">
+    <PageReference>MA87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Police">
+    <Child ReferenceText="styles">
+      <PageReference>MA145</PageReference>
+    </Child>
+    <Child ReferenceText="training suits">
+      <PageReference>MA234</PageReference>
+    </Child>
+    <Child ReferenceText="lens">
+      <PageReference>MA144-145</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pollaxe Fighting style">
+    <PageReference>MA191</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Post-apocalypse settings">
+    <PageReference>MA246</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Blow skill">
+    <PageReference>MA58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Grappling perk">
+    <PageReference>MA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power level guidelines">
+    <PageReference>MA29</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Prana">
+    <PageReference>MA10</PageReference>
+    <PageReference>MA11</PageReference>
+    <PageReference>MA251</PageReference>
+    <SeeAlso>Chi</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Praying Mantis Kung Fu style">
+    <PageReference>MA191-192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Precognitive Parry skill">
+    <PageReference>MA62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure Points skill">
+    <PageReference>MA58-59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure-Point Strike technique">
+    <PageReference>MA87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pressure Secrets skill">
+    <PageReference>MA59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Proxy Fighting optional rule">
+    <PageReference>MA132-133</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pummeling combat option">
+    <PageReference>MA111</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Push Kick technique">
+    <PageReference>MA78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Push skill">
+    <PageReference>MA59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Qi">
+    <SeeAlso>Chi</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Qian kun ri yue dao">
+    <PageReference>MA56</PageReference>
+    <PageReference>MA222</PageReference>
+    <PageReference>MA226</PageReference>
+    <PageReference>MA230</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quarterstaff fighting style">
+    <PageReference>MA192-193</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Mount technique">
+    <PageReference>MA78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-readying nearby weapons">
+    <PageReference>MA104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Sheathe perk">
+    <PageReference>MA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Sheathing">
+    <PageReference>MA102</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-shooting bows">
+    <PageReference>MA119-120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Swap perk">
+    <PageReference>MA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged">
+    <Child ReferenceText="combat skills">
+      <PageReference>MA55</PageReference>
+    </Child>
+    <Child ReferenceText="weapons table">
+      <PageReference>MA231-232</PageReference>
+    </Child>
+    <Child ReferenceText="attack options">
+      <PageReference>MA119-121</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Fire, thrown weapons with">
+    <PageReference>MA120</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Recovery combat option">
+    <PageReference>MA131</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Retraction perk">
+    <PageReference>MA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Strike">
+    <Child ReferenceText="thrown weapons with">
+      <PageReference>MA120-121</PageReference>
+    </Child>
+    <Child ReferenceText="combat option">
+      <PageReference>MA127</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ready combat maneuver">
+    <PageReference>MA101-104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realism level">
+    <PageReference>MA29-30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Regeneration advantage">
+    <PageReference>MA47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Religion, philosophy, and martial arts">
+    <PageReference>MA11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Religious tournaments">
+    <PageReference>MA135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reputation disadvantage">
+    <PageReference>MA54</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Resistant advantage">
+    <PageReference>MA47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retain Weapon technique">
+    <PageReference>MA78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retreat combat options">
+    <PageReference>MA123-124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Return Strike technique">
+    <PageReference>MA78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Reverse Grip technique">
+    <PageReference>MA78</PageReference>
+    <SeeAlso>Reversed Grip</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Reversed Grip">
+    <PageReference>MA102</PageReference>
+    <PageReference>MA111-112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Righteous and Harmonious Fist">
+    <SeeAlso>I Ho Chu’an</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Riposte combat option">
+    <PageReference>MA124-125</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Robin Hood">
+    <PageReference>MA16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Roll with Blow technique">
+    <PageReference>MA87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rome">
+    <Child ReferenceText="setting">
+      <PageReference>MA241-242</PageReference>
+    </Child>
+    <Child ReferenceText="history">
+      <PageReference>MA6-7</PageReference>
+      <PageReference>MA15-16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rudis">
+    <SeeAlso>Dusack</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Ruse combat maneuver">
+    <PageReference>MA101</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ryu">
+    <PageReference>MA12</PageReference>
+    <PageReference>MA251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Saber fencing style">
+    <PageReference>MA160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sacrifice Throw technique">
+    <PageReference>MA78-79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sambo style">
+    <PageReference>MA19</PageReference>
+    <PageReference>MA185</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Samozashchita bez orushiya style">
+    <SeeAlso>Sambo</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Samurai">
+    <PageReference>MA7</PageReference>
+    <PageReference>MA12-13</PageReference>
+    <PageReference>MA251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="San shou matches">
+    <PageReference>MA207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Savate">
+    <Child ReferenceText="rankings">
+      <PageReference>MA193</PageReference>
+    </Child>
+    <Child ReferenceText="style">
+      <PageReference>MA193-194</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Savoir-Faire skill">
+    <PageReference>MA59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Schläger style">
+    <PageReference>MA160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Science fiction settings">
+    <PageReference>MA246-247</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scissors Hold technique">
+    <PageReference>MA79</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sde-Or, Imi">
+    <PageReference>MA19</PageReference>
+    <PageReference>MA183</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Self-Defense">
+    <Child ReferenceText="styles">
+      <PageReference>MA145</PageReference>
+    </Child>
+    <Child ReferenceText="lens">
+      <PageReference>MA145</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sensitivity skill">
+    <PageReference>MA62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shaka">
+    <PageReference>MA19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shaking It Off optional rule">
+    <PageReference>MA132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shaolin Kung Fu style">
+    <PageReference>MA194</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shaolin Temple">
+    <PageReference>MA7</PageReference>
+    <PageReference>MA8-9</PageReference>
+    <PageReference>MA249</PageReference>
+    <PageReference>MA195</PageReference>
+    <SeeAlso>Shaolin Kung Fu Style</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields, grabbing">
+    <PageReference>MA112-113</PageReference>
+    <SeeAlso>Striking at Shields combat option</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shield-Wall Training perk">
+    <PageReference>MA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shimabuku Tatsuo">
+    <PageReference>MA171</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shinmen Musashi no Kami Fujiwara no Genshin">
+    <SeeAlso>Musashi Miyamoto</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shin Kicks combat option">
+    <PageReference>MA112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shin pads">
+    <PageReference>MA234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shinobi">
+    <PageReference>MA13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shorinjikempo style">
+    <PageReference>MA11</PageReference>
+    <PageReference>MA172-173</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shortsword Fighting style">
+    <PageReference>MA195</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shotokan style">
+    <PageReference>MA23</PageReference>
+    <PageReference>MA170</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shout It Out optional rule">
+    <PageReference>MA132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoves with Weapons combat option">
+    <PageReference>MA112</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoving combat option">
+    <PageReference>MA118</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shtick perk">
+    <PageReference>MA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shurikenjutsu style">
+    <PageReference>MA195-197</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Silat, traditions">
+    <PageReference>MA190</PageReference>
+    <SeeAlso>Pentjak Silat</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Silver, George">
+    <PageReference>MA17</PageReference>
+    <PageReference>MA22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Singlestick style">
+    <PageReference>MA18</PageReference>
+    <PageReference>MA157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skidding">
+    <PageReference>MA105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skill Adaptation perk">
+    <PageReference>MA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>MA54-62</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slams">
+    <Child ReferenceText="with long weapons">
+      <PageReference>MA112</PageReference>
+    </Child>
+    <Child ReferenceText="as All-Out Attacks">
+      <PageReference>MA98</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smasha style">
+    <PageReference>MA210</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snap Weapon technique">
+    <PageReference>MA87</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soft styles, definition">
+    <PageReference>MA162</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sojutsu style">
+    <PageReference>MA197-198</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Soul Blast Innate Attack advantage">
+    <PageReference>MA46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spear">
+    <SeeAlso>Iklwa Fighting Style</SeeAlso>
+    <SeeAlso>Jukenjutsu Style</SeeAlso>
+    <SeeAlso>and Sojutsu Style</SeeAlso>
+    <Child ReferenceText="Chinese style">
+      <PageReference>MA196</PageReference>
+    </Child>
+    <Child ReferenceText="heroic style">
+      <PageReference>MA196</PageReference>
+    </Child>
+    <Child ReferenceText="Viking style">
+      <PageReference>MA197</PageReference>
+    </Child>
+    <Child ReferenceText="fighting styles">
+      <PageReference>MA196-197</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Special Exercises perk">
+    <PageReference>MA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special feats for cinematic skills">
+    <PageReference>MA129-130</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special Setup perk">
+    <PageReference>MA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spinning (Attack) technique">
+    <PageReference>MA79-80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spinning">
+    <PageReference>MA105</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sport competitions">
+    <PageReference>MA134-135</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sport Fencing styles">
+    <PageReference>MA160</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sports skill">
+    <PageReference>MA59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sprawling combat option">
+    <PageReference>MA119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Springing Attack technique">
+    <PageReference>MA87</PageReference>
+    <PageReference>MA88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spy template">
+    <PageReference>MA38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Staff fighting styles">
+    <PageReference>MA192</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stage Combat skill">
+    <PageReference>MA59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stamp Kick technique">
+    <PageReference>MA80-81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Staying Seated technique">
+    <PageReference>MA81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stickfighting styles">
+    <PageReference>MA7</PageReference>
+    <PageReference>MA19</PageReference>
+    <PageReference>MA157</PageReference>
+    <Child ReferenceText="African">
+      <PageReference>MA157</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stop Hit">
+    <PageReference>MA108</PageReference>
+    <PageReference>MA251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Street lens">
+    <PageReference>MA145</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Streetfighting styles">
+    <PageReference>MA145-146</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Striker advantage">
+    <PageReference>MA47</PageReference>
+    <PageReference>MA117</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Striking at Shields combat option">
+    <PageReference>MA112-113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Strongbow perk">
+    <PageReference>MA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Student template">
+    <PageReference>MA38-40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stuntman template">
+    <PageReference>MA40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Style Adaptation perk">
+    <PageReference>MA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Style Familiarity perk">
+    <PageReference>MA49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Style Perks">
+    <PageReference>MA49-52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Styles">
+    <Child ReferenceText="choosing">
+      <PageReference>MA144-146</PageReference>
+    </Child>
+    <Child ReferenceText="combining">
+      <PageReference>MA147-148</PageReference>
+    </Child>
+    <Child ReferenceText="comparing">
+      <PageReference>MA143</PageReference>
+    </Child>
+    <Child ReferenceText="components of">
+      <PageReference>MA141-143</PageReference>
+    </Child>
+    <Child ReferenceText="creating new">
+      <PageReference>MA146</PageReference>
+    </Child>
+    <Child ReferenceText="historical and modern">
+      <PageReference>MA148-207</PageReference>
+    </Child>
+    <Child ReferenceText="learning">
+      <PageReference>MA146-147</PageReference>
+    </Child>
+    <Child ReferenceText="ultimate">
+      <PageReference>MA144</PageReference>
+    </Child>
+    <Child ReferenceText="variations">
+      <PageReference>MA144-145</PageReference>
+    </Child>
+    <Child ReferenceText="buying">
+      <PageReference>MA146-148</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Suit Familiarity perk">
+    <PageReference>MA51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sullivan, John L">
+    <Child ReferenceText="">
+      <PageReference>MA22-23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sulsa">
+    <PageReference>MA13</PageReference>
+    <PageReference>MA14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sumo style">
+    <PageReference>MA7</PageReference>
+    <PageReference>MA12</PageReference>
+    <PageReference>MA135</PageReference>
+    <PageReference>MA198-199</PageReference>
+    <PageReference>MA251</PageReference>
+    <Child ReferenceText="rankings">
+      <PageReference>MA198</PageReference>
+    </Child>
+    <Child ReferenceText="traditions">
+      <PageReference>MA198</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sumo Wrestling skill">
+    <PageReference>MA59</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sure-Footed perk">
+    <PageReference>MA52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sweep technique">
+    <PageReference>MA81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Swinging">
+    <PageReference>MA105-106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Switching weapon skills">
+    <PageReference>MA104</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sword-and-Buckler Play style">
+    <PageReference>MA199</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sword-and-Shield Fighting style">
+    <PageReference>MA199-200</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sykes, Eric Anthony">
+    <PageReference>MA24</PageReference>
+    <PageReference>MA182</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactics skill">
+    <PageReference>MA60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tae Kwon Do style">
+    <PageReference>MA8</PageReference>
+    <PageReference>MA14</PageReference>
+    <PageReference>MA135</PageReference>
+    <PageReference>MA172</PageReference>
+    <PageReference>MA200</PageReference>
+    <Child ReferenceText="ranks">
+      <PageReference>MA200</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="T’ai Chi Chuan style">
+    <PageReference>MA162</PageReference>
+    <PageReference>MA200-201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="T’ai Chi style">
+    <PageReference>MA201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taihojutsu style">
+    <PageReference>MA201</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Taijutsu style">
+    <PageReference>MA202-203</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Talent advantage">
+    <PageReference>MA47-48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tameshiwari">
+    <PageReference>MA25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tao of Jeet Kune Do">
+    <PageReference>MA25</PageReference>
+    <PageReference>MA164</PageReference>
+    <SeeAlso>Lee Bruce</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Taoist kung fu styles">
+    <SeeAlso>Hsing I Chuan Style</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Tapak Sutji Pentjak Silat style">
+    <PageReference>MA190-191</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Targeted Attacks optional rule">
+    <PageReference>MA68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Targets for training">
+    <PageReference>MA233</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Te style">
+    <PageReference>MA14</PageReference>
+    <PageReference>MA169-170</PageReference>
+    <PageReference>MA172</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Teamwork perk">
+    <PageReference>MA52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Technique">
+    <Child ReferenceText="Mastery perk">
+      <PageReference>MA52</PageReference>
+    </Child>
+    <Child ReferenceText="Adaptation perk">
+      <PageReference>MA52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <Child ReferenceText="cinematic">
+      <PageReference>MA82-89</PageReference>
+    </Child>
+    <Child ReferenceText="Combat Art/Sport skills and">
+      <PageReference>MA64</PageReference>
+    </Child>
+    <Child ReferenceText="creating new">
+      <PageReference>MA89-95</PageReference>
+    </Child>
+    <Child ReferenceText="designing cinematic">
+      <PageReference>MA94-95</PageReference>
+    </Child>
+    <Child ReferenceText="designing defensive">
+      <PageReference>MA91-92</PageReference>
+    </Child>
+    <Child ReferenceText="designing for nonhumans">
+      <PageReference>MA95</PageReference>
+    </Child>
+    <Child ReferenceText="designing locks and holds">
+      <PageReference>MA91</PageReference>
+    </Child>
+    <Child ReferenceText="designing offensive">
+      <PageReference>MA90-91</PageReference>
+    </Child>
+    <Child ReferenceText="designing realistic">
+      <PageReference>MA93-94</PageReference>
+    </Child>
+    <Child ReferenceText="learning">
+      <PageReference>MA64</PageReference>
+    </Child>
+    <Child ReferenceText="limited by posture">
+      <PageReference>MA98-99</PageReference>
+    </Child>
+    <Child ReferenceText="“nontechniques, ” 66" />
+    <Child ReferenceText="properties of">
+      <PageReference>MA63-64</PageReference>
+    </Child>
+    <Child ReferenceText="realistic">
+      <PageReference>MA65-82</PageReference>
+    </Child>
+    <Child ReferenceText="secret">
+      <PageReference>MA86</PageReference>
+    </Child>
+    <Child ReferenceText="silly">
+      <PageReference>MA88</PageReference>
+    </Child>
+    <Child ReferenceText="useless">
+      <PageReference>MA95</PageReference>
+    </Child>
+    <Child ReferenceText="using together">
+      <PageReference>MA64</PageReference>
+    </Child>
+    <Child ReferenceText="building utility">
+      <PageReference>MA92</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Teeth">
+    <PageReference>MA115</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telegraphic Attack combat option">
+    <PageReference>MA113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thailand, history">
+    <PageReference>MA7</PageReference>
+    <PageReference>MA14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Thaing">
+    <PageReference>MA14</PageReference>
+    <PageReference>MA151</PageReference>
+    <PageReference>MA176</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Theogenes of Thasos">
+    <PageReference>MA21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throwing Art skill">
+    <PageReference>MA60-61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Throwing dirt, etc">
+    <Child ReferenceText="rules for">
+      <PageReference>MA76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thrown weapons">
+    <Child ReferenceText="rapid strike and">
+      <PageReference>MA120-121</PageReference>
+    </Child>
+    <Child ReferenceText="rapid fire and">
+      <PageReference>MA120</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Throws from locks">
+    <PageReference>MA118-119</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tic-tacs">
+    <PageReference>MA106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tiger-crane style">
+    <SeeAlso>Hung Gar Kung Fu Style</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Timed Defense technique">
+    <PageReference>MA88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Timeline">
+    <PageReference>MA6-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tip Slash combat option">
+    <PageReference>MA113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tonfa, skill">
+    <PageReference>MA61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tournament combat">
+    <PageReference>MA134-135</PageReference>
+    <Child ReferenceText="resolving">
+      <PageReference>MA134</PageReference>
+    </Child>
+    <Child ReferenceText="types">
+      <PageReference>MA134-135</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Trademarked styles">
+    <PageReference>MA27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trained by a Fraud lens">
+    <PageReference>MA145</PageReference>
+    <SeeAlso>Frauds as character and Faking abilities</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Trained by a Master advantage">
+    <PageReference>MA48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Training">
+    <SeeAlso>Techniques Learning</SeeAlso>
+    <SeeAlso>and Beginning Students as PCs</SeeAlso>
+    <Child ReferenceText="sequence">
+      <PageReference>MA147</PageReference>
+    </Child>
+    <Child ReferenceText="adventures to acquire">
+      <PageReference>MA248</PageReference>
+    </Child>
+    <Child ReferenceText="equipment">
+      <PageReference>MA232-234</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Transitional French School fencing style">
+    <PageReference>MA158-159</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Travelling masters">
+    <PageReference>MA17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Triads">
+    <PageReference>MA9</PageReference>
+    <PageReference>MA251</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tricky shooting">
+    <PageReference>MA121</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trip technique">
+    <PageReference>MA81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tumbling">
+    <PageReference>MA106</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Two-Handed Punch technique">
+    <PageReference>MA81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="U">
+    <Child ReferenceText="S" />
+    <Child ReferenceText="Marine Corps Martial Arts Program">
+      <SeeAlso>MCMAP</SeeAlso>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Ultimate combat style">
+    <PageReference>MA144</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unarmed combat, adding risk to">
+    <PageReference>MA124</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unarmed Etiquette optional rule">
+    <PageReference>MA132</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uniforms">
+    <PageReference>MA165</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unique Technique perk">
+    <PageReference>MA52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="United States, history">
+    <PageReference>MA7-8</PageReference>
+    <PageReference>MA20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unorthodox attacks">
+    <PageReference>MA220</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Untrained fighters, optional rules">
+    <PageReference>MA113</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Training perk">
+    <PageReference>MA52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Uppercut technique">
+    <PageReference>MA81</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vale tudo matches">
+    <PageReference>MA20</PageReference>
+    <PageReference>MA167</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vaulting">
+    <PageReference>MA107</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Verdadera Destreza, La, style">
+    <PageReference>MA158</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Victorian Singlestick style">
+    <PageReference>MA18</PageReference>
+    <PageReference>MA157</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wait combat maneuver">
+    <PageReference>MA108</PageReference>
+    <PageReference>MA108</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warrior template">
+    <PageReference>MA41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon">
+    <Child ReferenceText="Bond perk">
+      <PageReference>MA52</PageReference>
+    </Child>
+    <Child ReferenceText="Master advantage">
+      <PageReference>MA48-49</PageReference>
+    </Child>
+    <Child ReferenceText="Adaptation perk">
+      <PageReference>MA52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapons">
+    <SeeAlso>Arrows</SeeAlso>
+    <SeeAlso>Melee Weapons</SeeAlso>
+    <SeeAlso>Proxy Fighting Optional Rule</SeeAlso>
+    <SeeAlso>and Switching Weapon Skills</SeeAlso>
+    <Child ReferenceText="combination">
+      <PageReference>MA214</PageReference>
+    </Child>
+    <Child ReferenceText="cross-cultural familiarity">
+      <PageReference>MA212</PageReference>
+    </Child>
+    <Child ReferenceText="custom quality levels">
+      <PageReference>MA216</PageReference>
+    </Child>
+    <Child ReferenceText="designing the perfect">
+      <PageReference>MA221</PageReference>
+    </Child>
+    <Child ReferenceText="disguised">
+      <PageReference>MA218</PageReference>
+    </Child>
+    <Child ReferenceText="hidden">
+      <PageReference>MA218</PageReference>
+    </Child>
+    <Child ReferenceText="improvised">
+      <PageReference>MA60-61</PageReference>
+      <PageReference>MA224</PageReference>
+    </Child>
+    <Child ReferenceText="melee table">
+      <PageReference>MA226-231</PageReference>
+    </Child>
+    <Child ReferenceText="ranged muscle-powered table">
+      <PageReference>MA231-232</PageReference>
+    </Child>
+    <Child ReferenceText="silly">
+      <PageReference>MA223</PageReference>
+    </Child>
+    <Child ReferenceText="training">
+      <PageReference>MA234</PageReference>
+    </Child>
+    <Child ReferenceText="trick">
+      <PageReference>MA218</PageReference>
+    </Child>
+    <Child ReferenceText="unbalanced">
+      <PageReference>MA98</PageReference>
+      <PageReference>MA100</PageReference>
+      <PageReference>MA102</PageReference>
+      <PageReference>MA108</PageReference>
+      <PageReference>MA110</PageReference>
+      <PageReference>MA125</PageReference>
+      <PageReference>MA131</PageReference>
+      <PageReference>MA226</PageReference>
+    </Child>
+    <Child ReferenceText="using two-handed with one hand">
+      <PageReference>MA220</PageReference>
+    </Child>
+    <Child ReferenceText="alphabetical list">
+      <PageReference>MA212-226</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Weights (for training)">
+    <PageReference>MA234</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wet Willy technique">
+    <PageReference>MA88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Whirlwind Attack technique">
+    <PageReference>MA88</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild Talent advantage">
+    <PageReference>MA49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard skills for styles">
+    <PageReference>MA60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wing Chun style">
+    <PageReference>MA20</PageReference>
+    <PageReference>MA162</PageReference>
+    <PageReference>MA203-204</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Women in the martial arts">
+    <PageReference>MA20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wong Fei-Hung">
+    <PageReference>MA22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wong Kei-Ying">
+    <PageReference>MA22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wounds tables">
+    <PageReference>MA138-139</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrench (Limb) technique">
+    <PageReference>MA82</PageReference>
+    <PageReference>MA116</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrench Spine technique">
+    <PageReference>MA82</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrestling">
+    <Child ReferenceText="Greco-Roman style">
+      <PageReference>MA8</PageReference>
+      <PageReference>MA135</PageReference>
+      <PageReference>MA205</PageReference>
+    </Child>
+    <Child ReferenceText="Indian style">
+      <PageReference>MA10</PageReference>
+      <PageReference>MA205-206</PageReference>
+    </Child>
+    <Child ReferenceText="Professional style">
+      <PageReference>MA206</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>MA61</PageReference>
+    </Child>
+    <Child ReferenceText="style">
+      <PageReference>MA6</PageReference>
+      <PageReference>MA15</PageReference>
+      <PageReference>MA162</PageReference>
+      <PageReference>MA204-206</PageReference>
+    </Child>
+    <Child ReferenceText="Submission style">
+      <PageReference>MA205</PageReference>
+    </Child>
+    <Child ReferenceText="Combat style">
+      <PageReference>MA204-205</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Wrist Lock technique">
+    <SeeAlso>Arm or Wrist Lock Technique</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Wushu style">
+    <PageReference>MA10</PageReference>
+    <PageReference>MA206-207</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wuxia">
+    <PageReference>MA8</PageReference>
+    <PageReference>MA10</PageReference>
+    <PageReference>MA26</PageReference>
+    <PageReference>MA106</PageReference>
+    <PageReference>MA128</PageReference>
+    <PageReference>MA129</PageReference>
+    <PageReference>MA207</PageReference>
+    <PageReference>MA239</PageReference>
+    <PageReference>MA242</PageReference>
+    <PageReference>MA243</PageReference>
+    <PageReference>MA251</PageReference>
+    <SeeAlso>Chambara</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Xia">
+    <PageReference>MA8</PageReference>
+    <PageReference>MA242</PageReference>
+    <PageReference>MA251</PageReference>
+    <Child ReferenceText="Code of Honor disadvantage">
+      <PageReference>MA53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Xingyichuan">
+    <PageReference>MA162-163</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yabusame style">
+    <PageReference>MA181</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yarijutsu style">
+    <PageReference>MA197-198</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yin and yang">
+    <PageReference>MA11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yoshitsune">
+    <PageReference>MA16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Yrth, setting">
+    <PageReference>MA245</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zen Archery skill">
+    <PageReference>MA61</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Zulus">
+    <PageReference>MA19</PageReference>
+    <SeeAlso>Iklwa Fighting style</SeeAlso>
+  </IndexReference>
+</IndexReferenceCollection>

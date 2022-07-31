@@ -1,0 +1,659 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="Abilities">
+    <Child ReferenceText="changing the setting">
+      <PageReference>PU5:13-15</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="effect buying">
+      <PageReference>PU5:6</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="feats">
+      <PageReference>PU5:11-15</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="improvising">
+      <PageReference>PU5:13</PageReference>
+    </Child>
+    <Child ReferenceText="potential">
+      <PageReference>PU5:13</PageReference>
+    </Child>
+    <Child ReferenceText="powered by character points">
+      <PageReference>PU5:13</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="sacrificing">
+      <PageReference>PU5:5</PageReference>
+    </Child>
+    <Child ReferenceText="awakening">
+      <PageReference>PU5:13</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <SeeAlso>Abilities</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Adventures">
+    <SeeAlso>Campaigns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Affliction advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Allies advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:23</PageReference>
+    <Child ReferenceText="resurrecting">
+      <PageReference>PU5:11</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Autotrance perk">
+    <PageReference>PU5:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Awards">
+    <Child ReferenceText="debt">
+      <PageReference>PU5:5</PageReference>
+    </Child>
+    <Child ReferenceText="separate">
+      <PageReference>PU5:17</PageReference>
+      <PageReference>PU5:18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bonus points">
+    <PageReference>PU5:5</PageReference>
+    <PageReference>PU5:17</PageReference>
+    <PageReference>PU5:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Brotherhood perk">
+    <PageReference>PU5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bullet Time">
+    <PageReference>PU5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Campaigns">
+    <Child ReferenceText="genre advice">
+      <PageReference>PU5:20-22</PageReference>
+    </Child>
+    <Child ReferenceText="limiting growth in">
+      <PageReference>PU5:18-19</PageReference>
+    </Child>
+    <Child ReferenceText="no-growth">
+      <PageReference>PU5:19</PageReference>
+    </Child>
+    <Child ReferenceText="player guidance">
+      <PageReference>PU5:7-9</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="changing">
+      <PageReference>PU5:7-9</PageReference>
+      <PageReference>PU5:13-15</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Character points">
+    <SeeAlso>Abilities</SeeAlso>
+    <SeeAlso>Campaigns</SeeAlso>
+    <SeeAlso>Combat</SeeAlso>
+    <SeeAlso>Margins</SeeAlso>
+    <SeeAlso>NPCs</SeeAlso>
+    <SeeAlso>Perks</SeeAlso>
+    <SeeAlso>Reaction Rolls</SeeAlso>
+    <SeeAlso>Success Rolls</SeeAlso>
+    <Child ReferenceText="alternatives to">
+      <PageReference>PU5:5</PageReference>
+      <PageReference>PU5:17-18</PageReference>
+    </Child>
+    <Child ReferenceText="awarding">
+      <PageReference>PU5:17</PageReference>
+      <PageReference>PU5:18</PageReference>
+    </Child>
+    <Child ReferenceText="bidding wars for actions">
+      <PageReference>PU5:18</PageReference>
+    </Child>
+    <Child ReferenceText="controlling use">
+      <PageReference>PU5:17-18</PageReference>
+    </Child>
+    <Child ReferenceText="corruption by using">
+      <PageReference>PU5:18</PageReference>
+    </Child>
+    <Child ReferenceText="debt">
+      <PageReference>PU5:5</PageReference>
+    </Child>
+    <Child ReferenceText="disadvantage deflection">
+      <PageReference>PU5:10</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="divine intervention">
+      <PageReference>PU5:9</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="dooming foes">
+      <PageReference>PU5:5-6</PageReference>
+    </Child>
+    <Child ReferenceText="effect buying">
+      <PageReference>PU5:6</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="energy buying">
+      <PageReference>PU5:12-13</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="Favors and">
+      <PageReference>PU5:8-9</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="flesh wounds">
+      <PageReference>PU5:10</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="GM advice">
+      <PageReference>PU5:4</PageReference>
+      <PageReference>PU5:16</PageReference>
+      <PageReference>PU5:20-22</PageReference>
+    </Child>
+    <Child ReferenceText="limiting impulse buys">
+      <PageReference>PU5:17-19</PageReference>
+    </Child>
+    <Child ReferenceText="money">
+      <PageReference>PU5:8</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="sources of">
+      <PageReference>PU5:5</PageReference>
+    </Child>
+    <Child ReferenceText="spending summary">
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="survival">
+      <PageReference>PU5:10-11</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="transferring to students">
+      <PageReference>PU5:13</PageReference>
+    </Child>
+    <Child ReferenceText="using on other characters">
+      <PageReference>PU5:5-6</PageReference>
+      <PageReference>PU5:13-15</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="wagers">
+      <PageReference>PU5:19</PageReference>
+    </Child>
+    <Child ReferenceText="adjusting cost of impulse buys">
+      <PageReference>PU5:17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <Child ReferenceText="no-growth">
+      <PageReference>PU5:19</PageReference>
+    </Child>
+    <Child ReferenceText="saving starting points">
+      <PageReference>PU5:5</PageReference>
+    </Child>
+    <Child ReferenceText="alternative development">
+      <PageReference>PU5:18-19</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat">
+    <Child ReferenceText="cursing mooks">
+      <PageReference>PU5:5-6</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="defenses">
+      <PageReference>PU5:6</PageReference>
+    </Child>
+    <Child ReferenceText="dooming foes">
+      <PageReference>PU5:5-6</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="modifying damage">
+      <PageReference>PU5:6</PageReference>
+      <PageReference>PU5:10-11</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="adding temporary rules">
+      <PageReference>PU5:12</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Control advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Controllable Disadvantage perk">
+    <PageReference>PU5:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Corruption">
+    <PageReference>PU5:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Covenant of Rest perk">
+    <PageReference>PU5:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Create advantage">
+    <PageReference>PU5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Damage">
+    <Child ReferenceText="modifying">
+      <PageReference>PU5:6</PageReference>
+      <PageReference>PU5:10-11</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Death">
+    <PageReference>PU5:10-11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Depending trait">
+    <PageReference>PU5:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Derangement">
+    <PageReference>PU5:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Destiny Points">
+    <PageReference>PU5:5</PageReference>
+    <PageReference>PU5:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Disadvantages">
+    <Child ReferenceText="perk">
+      <PageReference>PU5:12</PageReference>
+    </Child>
+    <Child ReferenceText="deflecting">
+      <PageReference>PU5:10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Disposable Identity perk">
+    <PageReference>PU5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dominance advantage">
+    <PageReference>PU5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Doodad perk">
+    <PageReference>PU5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dramatic Death perk">
+    <PageReference>PU5:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Energy">
+    <Child ReferenceText="buying">
+      <PageReference>PU5:12-13</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Enhanced Time Sense advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra Option perk">
+    <PageReference>PU5:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fatigue Points (FP)">
+    <Child ReferenceText="buying">
+      <PageReference>PU5:12-13</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Favor advantage">
+    <PageReference>PU5:8-9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Friend perk">
+    <PageReference>PU5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gizmo advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Growth advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>PU5:16</PageReference>
+    <PageReference>PU5:17</PageReference>
+    <Child ReferenceText="Action">
+      <PageReference>PU5:3</PageReference>
+      <PageReference>PU5:20</PageReference>
+    </Child>
+    <Child ReferenceText="Action 2: Exploits">
+      <PageReference>PU5:12</PageReference>
+    </Child>
+    <Child ReferenceText="Action 3: Furious Fists">
+      <PageReference>PU5:12</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>PU5:3</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy">
+      <PageReference>PU5:3</PageReference>
+      <PageReference>PU5:20</PageReference>
+    </Child>
+    <Child ReferenceText="Dungeon Fantasy 9: Summoners">
+      <PageReference>PU5:14</PageReference>
+    </Child>
+    <Child ReferenceText="Fantasy">
+      <PageReference>PU5:20</PageReference>
+      <PageReference>PU5:22</PageReference>
+    </Child>
+    <Child ReferenceText="Gun Fu">
+      <PageReference>PU5:12</PageReference>
+      <PageReference>PU5:20-21</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>PU5:18</PageReference>
+      <PageReference>PU5:21</PageReference>
+    </Child>
+    <Child ReferenceText="Infinite Worlds">
+      <PageReference>PU5:21</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>PU5:3</PageReference>
+      <PageReference>PU5:12</PageReference>
+    </Child>
+    <Child ReferenceText="Monster Hunters">
+      <PageReference>PU5:3</PageReference>
+      <PageReference>PU5:21-22</PageReference>
+    </Child>
+    <Child ReferenceText="Mysteries">
+      <PageReference>PU5:22</PageReference>
+    </Child>
+    <Child ReferenceText="Power-Ups 2: Perks">
+      <PageReference>PU5:4</PageReference>
+      <PageReference>PU5:6</PageReference>
+      <PageReference>PU5:9</PageReference>
+      <PageReference>PU5:11</PageReference>
+      <PageReference>PU5:12</PageReference>
+    </Child>
+    <Child ReferenceText="Powers">
+      <PageReference>PU5:12</PageReference>
+      <PageReference>PU5:13</PageReference>
+      <PageReference>PU5:14</PageReference>
+      <PageReference>PU5:15</PageReference>
+    </Child>
+    <Child ReferenceText="Psionic Powers">
+      <PageReference>PU5:12</PageReference>
+    </Child>
+    <Child ReferenceText="SEALs in Vietnam">
+      <PageReference>PU5:22</PageReference>
+    </Child>
+    <Child ReferenceText="Social Engineering">
+      <PageReference>PU5:7</PageReference>
+      <PageReference>PU5:8</PageReference>
+    </Child>
+    <Child ReferenceText="Supers">
+      <PageReference>PU5:3</PageReference>
+      <PageReference>PU5:12</PageReference>
+      <PageReference>PU5:22</PageReference>
+    </Child>
+    <Child ReferenceText="Tactical Shooting">
+      <PageReference>PU5:22</PageReference>
+    </Child>
+    <Child ReferenceText="Thaumatology">
+      <PageReference>PU5:3</PageReference>
+      <PageReference>PU5:12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Healing injury">
+    <PageReference>PU5:10-11</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Honest Face perk">
+    <PageReference>PU5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Illusion advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Immunity to (Specific Disease/Hazard) perk">
+    <PageReference>PU5:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Impulse Points (IP)">
+    <PageReference>PU5:17-19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Injury">
+    <Child ReferenceText="modifying">
+      <PageReference>PU5:6</PageReference>
+      <PageReference>PU5:10-11</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Insubstantiality advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Invisibility advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jumper advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Low Rejection Threshold perk">
+    <PageReference>PU5:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luck advantage">
+    <PageReference>PU5:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana Damper advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mana Enhancer advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Margins">
+    <Child ReferenceText="upgrading">
+      <PageReference>PU5:5</PageReference>
+    </Child>
+    <Child ReferenceText="for bought outcomes">
+      <PageReference>PU5:5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mentors">
+    <PageReference>PU5:13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mighty Blows option">
+    <PageReference>PU5:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mind Control advantage">
+    <PageReference>PU5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Money">
+    <PageReference>PU5:8</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Neutralize advantage">
+    <PageReference>PU5:15</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="No Nuisance Rolls perk">
+    <PageReference>PU5:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NPCs">
+    <Child ReferenceText="using impulse buys">
+      <PageReference>PU5:16</PageReference>
+    </Child>
+    <Child ReferenceText="buying assistance">
+      <PageReference>PU5:8-9</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Obscure advantage">
+    <PageReference>PU5:15</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <Child ReferenceText="buying success">
+      <PageReference>PU5:6</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="combat">
+      <PageReference>PU5:12</PageReference>
+    </Child>
+    <Child ReferenceText="feats">
+      <PageReference>PU5:12</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="per-use cost">
+      <PageReference>PU5:4</PageReference>
+    </Child>
+    <Child ReferenceText="player guidance">
+      <PageReference>PU5:9</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="survival">
+      <PageReference>PU5:11</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="warnings about">
+      <PageReference>PU5:4</PageReference>
+    </Child>
+    <Child ReferenceText="buying in play">
+      <PageReference>PU5:4</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Player guidance">
+    <SeeAlso>Campaigns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Possession advantage">
+    <PageReference>PU5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Power Perks">
+    <PageReference>PU5:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Powers">
+    <SeeAlso>Abilities</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction rolls">
+    <Child ReferenceText="buying assistance">
+      <PageReference>PU5:8-9</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="Super Luck and">
+      <PageReference>PU5:7</PageReference>
+    </Child>
+    <Child ReferenceText="altering">
+      <PageReference>PU5:6-7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Regrowth advantage">
+    <PageReference>PU5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rest in Pieces perk">
+    <PageReference>PU5:12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rules Exemption perk">
+    <PageReference>PU5:6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rules">
+    <Child ReferenceText="temporary additions">
+      <PageReference>PU5:12</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Sartorial Integrity perk">
+    <PageReference>PU5:11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serendipity Points">
+    <PageReference>PU5:8</PageReference>
+    <PageReference>PU5:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Serendipity advantage">
+    <PageReference>PU5:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Setting modifications">
+    <SeeAlso>Campaigns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Shadow Form advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shrinking advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Signature Gear advantage">
+    <PageReference>PU5:8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Snatcher advantage">
+    <PageReference>PU5:8</PageReference>
+    <PageReference>PU5:15</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standard Operating Procedure perk">
+    <PageReference>PU5:9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Starting points">
+    <PageReference>PU5:5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Static advantage">
+    <PageReference>PU5:15</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Students">
+    <Child ReferenceText="transferring points to">
+      <PageReference>PU5:13</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Success rolls">
+    <PageReference>PU5:4-7</PageReference>
+    <PageReference>PU5:23</PageReference>
+    <SeeAlso>Margins</SeeAlso>
+    <Child ReferenceText="critical success">
+      <PageReference>PU5:4</PageReference>
+      <PageReference>PU5:5</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="effect buying">
+      <PageReference>PU5:6</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="failure">
+      <PageReference>PU5:4</PageReference>
+      <PageReference>PU5:5</PageReference>
+      <PageReference>PU5:23</PageReference>
+    </Child>
+    <Child ReferenceText="roll-changing cost list">
+      <PageReference>PU5:4</PageReference>
+    </Child>
+    <Child ReferenceText="Super Luck and">
+      <PageReference>PU5:7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Super Luck advantage">
+    <PageReference>PU5:7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Telekinesis advantage">
+    <PageReference>PU5:15</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Temperature Control advantage">
+    <PageReference>PU5:15</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trained by a Master advantage">
+    <PageReference>PU5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Warp advantage">
+    <PageReference>PU5:14</PageReference>
+    <PageReference>PU5:23</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Master advantage">
+    <PageReference>PU5:15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wild Talent advantage">
+    <PageReference>PU5:14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wildcard Points">
+    <PageReference>PU5:5</PageReference>
+    <PageReference>PU5:18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="World modifications">
+    <SeeAlso>Campaigns</SeeAlso>
+  </IndexReference>
+</IndexReferenceCollection>

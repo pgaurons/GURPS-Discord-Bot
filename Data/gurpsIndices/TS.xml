@@ -1,0 +1,2261 @@
+<?xml version="1.0"?>
+<IndexReferenceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://gao.gurps.discord/">
+  <IndexReference ReferenceText="2+1 drill">
+    <PageReference>TS15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="50-caliber legalities">
+    <PageReference>TS5</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Accessories">
+    <Child ReferenceText="adding">
+      <PageReference>TS68</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Acute Hearing advantage">
+    <PageReference>TS36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Acute Vision advantage">
+    <PageReference>TS36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Advantages">
+    <PageReference>TS36</PageReference>
+    <Child ReferenceText="perks">
+      <PageReference>TS37-41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Aimed shooting">
+    <PageReference>TS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Aiming">
+    <PageReference>TS14</PageReference>
+    <Child ReferenceText="lights (accessory)">
+      <PageReference>TS74</PageReference>
+    </Child>
+    <Child ReferenceText="precision">
+      <PageReference>TS26-27</PageReference>
+    </Child>
+    <Child ReferenceText="table">
+      <PageReference>TS26</PageReference>
+    </Child>
+    <Child ReferenceText="technique">
+      <PageReference>TS45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Akimbo shooting">
+    <PageReference>TS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="All-Out Attack maneuver">
+    <Child ReferenceText="using">
+      <PageReference>TS13</PageReference>
+      <PageReference>TS14</PageReference>
+      <PageReference>TS17</PageReference>
+      <PageReference>TS21</PageReference>
+      <PageReference>TS22</PageReference>
+      <PageReference>TS24</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="ALS pocket smoke grenades">
+    <PageReference>TS68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambidexterity advantage">
+    <PageReference>TS36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ambushing">
+    <PageReference>TS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ammunition">
+    <SeeAlso>Magazines</SeeAlso>
+    <Child ReferenceText="Fast-Draw">
+      <PageReference>TS42</PageReference>
+    </Child>
+    <Child ReferenceText="loops">
+      <PageReference>TS73</PageReference>
+    </Child>
+    <Child ReferenceText="mixing">
+      <PageReference>TS31</PageReference>
+    </Child>
+    <Child ReferenceText="myths">
+      <PageReference>TS5-7</PageReference>
+    </Child>
+    <Child ReferenceText="options">
+      <PageReference>TS77</PageReference>
+    </Child>
+    <Child ReferenceText="realistic travel">
+      <PageReference>TS32</PageReference>
+    </Child>
+    <Child ReferenceText="choosing">
+      <PageReference>TS77-78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Angular search">
+    <PageReference>TS23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ARES Shrike 5">
+    <Child ReferenceText="56 AMG">
+      <PageReference>TS66</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="ARGES HG 84">
+    <PageReference>TS67</PageReference>
+    <PageReference>TS68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor">
+    <Child ReferenceText="improvised">
+      <PageReference>TS7</PageReference>
+    </Child>
+    <Child ReferenceText="myth">
+      <PageReference>TS7</PageReference>
+    </Child>
+    <Child ReferenceText="shooting in">
+      <PageReference>TS12</PageReference>
+    </Child>
+    <Child ReferenceText="exploiting gaps">
+      <PageReference>TS12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Armorer’s Gift perk">
+    <PageReference>TS37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armor-piercing (AP) ammunition">
+    <PageReference>TS78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Armoury skill">
+    <PageReference>TS41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Army soldiers">
+    <Child ReferenceText="loadouts">
+      <PageReference>TS79</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="ASP pistol">
+    <PageReference>TS56</PageReference>
+    <PageReference>TS57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assault packs">
+    <PageReference>TS73-74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Assaulter style">
+    <PageReference>TS47-48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Attacks">
+    <SeeAlso>Battle Drills</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Backup guns (BUG)">
+    <PageReference>TS4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bags">
+    <PageReference>TS73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barrett REC7">
+    <PageReference>TS64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barricade Tactics perks">
+    <PageReference>TS37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barrier-blind (-BB) ammunition">
+    <PageReference>TS77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Barrow">
+    <Child ReferenceText="Clyde">
+      <PageReference>TS80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Battle drills">
+    <PageReference>TS22-23</PageReference>
+    <Child ReferenceText="perk">
+      <PageReference>TS37</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Behind-the-Back Shot technique">
+    <PageReference>TS43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beretta Mod 1951">
+    <PageReference>TS56</PageReference>
+    <PageReference>TS57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Beretta Mod 70">
+    <PageReference>TS56</PageReference>
+    <PageReference>TS57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Binoculars">
+    <PageReference>TS77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bipods">
+    <PageReference>TS75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Black market">
+    <PageReference>TS53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Black powder guns">
+    <PageReference>TS16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Blinding">
+    <Child ReferenceText="from shooting">
+      <PageReference>TS18</PageReference>
+      <PageReference>TS35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bounding tactic">
+    <PageReference>TS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Breath Control skill">
+    <PageReference>TS41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Browning Stinger">
+    <PageReference>TS65</PageReference>
+    <PageReference>TS66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="BSA Welrod Mk II">
+    <PageReference>TS54</PageReference>
+    <PageReference>TS57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Buckshot">
+    <PageReference>TS78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Bulk">
+    <Child ReferenceText="hindering shooting">
+      <PageReference>TS12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Bullets">
+    <SeeAlso>Ammunition</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Bullpup configuration">
+    <PageReference>TS68-69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Burke, Fred “Killer, ” 80" />
+  <IndexReference ReferenceText="Burns">
+    <Child ReferenceText="shooting">
+      <PageReference>TS35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Buttstock">
+    <Child ReferenceText="magazine pouches">
+      <PageReference>TS73</PageReference>
+    </Child>
+    <Child ReferenceText="ammunition loops">
+      <PageReference>TS73</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Caliber conversion">
+    <PageReference>TS68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Camouflage">
+    <Child ReferenceText="weapon">
+      <PageReference>TS76</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>TS41</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cans">
+    <PageReference>TS4</PageReference>
+    <SeeAlso>Suppressors</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Carbines">
+    <PageReference>TS61</PageReference>
+    <SeeAlso>Rifles</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Cavalry Training technique">
+    <PageReference>TS43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Center of mass (COM)">
+    <PageReference>TS4</PageReference>
+    <SeeAlso>Hit Locations</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Characters">
+    <SeeAlso>Advantages</SeeAlso>
+    <SeeAlso>Perks</SeeAlso>
+    <SeeAlso>Skills</SeeAlso>
+    <SeeAlso>Styles</SeeAlso>
+    <SeeAlso>Techniques</SeeAlso>
+    <Child ReferenceText="recommended actions">
+      <PageReference>TS7-8</PageReference>
+    </Child>
+    <Child ReferenceText="recommended traits">
+      <PageReference>TS7-8</PageReference>
+    </Child>
+    <Child ReferenceText="loadouts">
+      <PageReference>TS79-80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="CheyTac M200 Intervention">
+    <PageReference>TS63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close combat">
+    <SeeAlso>Melee Combat</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Close-contact shots">
+    <PageReference>TS25-26</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Close-Hip Shooting technique">
+    <PageReference>TS43</PageReference>
+    <SeeAlso>Shooting (Hip)</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Close-Quarters Battle technique">
+    <PageReference>TS43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Clothing">
+    <Child ReferenceText="concealed carry">
+      <PageReference>TS73</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Driving technique">
+    <PageReference>TS43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Piloting technique">
+    <PageReference>TS43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Reflexes advantage">
+    <PageReference>TS36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Combat Riding technique">
+    <PageReference>TS43</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Compensators">
+    <PageReference>TS76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concealed Carry Permit perk">
+    <PageReference>TS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concealing guns">
+    <PageReference>TS32</PageReference>
+    <PageReference>TS72-73</PageReference>
+    <PageReference>TS76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Concealment">
+    <SeeAlso>Cover</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Connoisseur skill">
+    <PageReference>TS41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cool under fire">
+    <PageReference>TS34</PageReference>
+    <Child ReferenceText="perk">
+      <PageReference>TS38</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Corrosion-resistant finish">
+    <PageReference>TS76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Counterattack drill">
+    <PageReference>TS22</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Countersniping">
+    <PageReference>TS27-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cover">
+    <Child ReferenceText="outdoors">
+      <PageReference>TS29</PageReference>
+    </Child>
+    <Child ReferenceText="shooting around">
+      <PageReference>TS28</PageReference>
+    </Child>
+    <Child ReferenceText="vehicles and">
+      <PageReference>TS30-31</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>TS28-29</PageReference>
+    </Child>
+    <Child ReferenceText="built-up areas and">
+      <PageReference>TS29-30</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Criminals">
+    <Child ReferenceText="loadouts for famous">
+      <PageReference>TS80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Cross Entry">
+    <PageReference>TS25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cross-Trained perk">
+    <PageReference>TS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Cruiser configuration">
+    <PageReference>TS24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Danger Sense advantage">
+    <PageReference>TS36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Darkness">
+    <Child ReferenceText="shooting in">
+      <PageReference>TS18-20</PageReference>
+    </Child>
+    <Child ReferenceText="technique">
+      <PageReference>TS45</PageReference>
+    </Child>
+    <Child ReferenceText="penalties">
+      <PageReference>TS18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Dazzle">
+    <PageReference>TS18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deadeye perk">
+    <PageReference>TS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Deadliness">
+    <Child ReferenceText="mitigating">
+      <PageReference>TS7-8</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Diagrams">
+    <PageReference>TS22-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dodging">
+    <Child ReferenceText="shooting and">
+      <PageReference>TS17</PageReference>
+    </Child>
+    <Child ReferenceText="against firearms">
+      <PageReference>TS17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Doors">
+    <Child ReferenceText="entering through">
+      <PageReference>TS24-25</PageReference>
+    </Child>
+    <Child ReferenceText="breaching">
+      <PageReference>TS24</PageReference>
+      <PageReference>TS33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Double-Loading technique">
+    <PageReference>TS44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Double-tap">
+    <PageReference>TS4</PageReference>
+    <PageReference>TS15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Drawing first">
+    <Child ReferenceText="determining">
+      <PageReference>TS10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Drills">
+    <SeeAlso>Battle Drills</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Drugs &amp; Armor drill">
+    <PageReference>TS15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Dual-Weapon Attack technique">
+    <PageReference>TS18</PageReference>
+    <PageReference>TS44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Duty disadvantage">
+    <PageReference>TS53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Early Adopter perk">
+    <PageReference>TS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Extra-powerful (+P) ammunition">
+    <PageReference>TS77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Eyestrain">
+    <PageReference>TS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="F">
+    <Child ReferenceText="R" />
+    <Child ReferenceText="Ordnance MC-51">
+      <PageReference>TS62</PageReference>
+      <PageReference>TS63</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Face">
+    <Child ReferenceText="hit location">
+      <PageReference>TS16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Failure-to-Stop (FTS) drill">
+    <PageReference>TS15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fallschirmjägers">
+    <Child ReferenceText="German">
+      <PageReference>TS79</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fanning firearms">
+    <PageReference>TS14</PageReference>
+    <Child ReferenceText="technique">
+      <PageReference>TS44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-draw">
+    <Child ReferenceText="skill">
+      <PageReference>TS10</PageReference>
+      <PageReference>TS42</PageReference>
+    </Child>
+    <Child ReferenceText="magazine loops">
+      <PageReference>TS74</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fastest Gun in the West perk">
+    <PageReference>TS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fast-firing firearms">
+    <PageReference>TS14</PageReference>
+    <Child ReferenceText="technique">
+      <PageReference>TS44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="FBI">
+    <SeeAlso>SWAT</SeeAlso>
+    <Child ReferenceText="preferred guns">
+      <PageReference>TS58</PageReference>
+      <PageReference>TS59</PageReference>
+      <PageReference>TS63</PageReference>
+      <PageReference>TS64</PageReference>
+    </Child>
+    <Child ReferenceText="shooting method">
+      <PageReference>TS19</PageReference>
+    </Child>
+    <Child ReferenceText="skill levels">
+      <PageReference>TS42</PageReference>
+    </Child>
+    <Child ReferenceText="tactics">
+      <PageReference>TS12</PageReference>
+      <PageReference>TS19</PageReference>
+    </Child>
+    <Child ReferenceText="training">
+      <PageReference>TS47</PageReference>
+      <PageReference>TS50</PageReference>
+    </Child>
+    <Child ReferenceText="loadout">
+      <PageReference>TS79</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Fearlessness advantage">
+    <PageReference>TS36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fire and Maneuver advance">
+    <PageReference>TS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Firearms">
+    <SeeAlso>Handguns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="First-shot pop">
+    <PageReference>TS71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Flash hiders">
+    <PageReference>TS76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Foregrips (accessory)">
+    <PageReference>TS75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Forming up">
+    <PageReference>TS37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Franchi SPAS 15">
+    <PageReference>TS59</PageReference>
+    <PageReference>TS60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Frangible ammunition">
+    <PageReference>TS78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Fright Checks">
+    <PageReference>TS33</PageReference>
+    <PageReference>TS34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Full metal jacket (FMJ) ammunition">
+    <PageReference>TS78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gabions">
+    <PageReference>TS30</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gangsta shooting">
+    <PageReference>TS32-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gesture skill">
+    <PageReference>TS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grabbing a gun">
+    <PageReference>TS25</PageReference>
+    <PageReference>TS41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Green Eyes perk">
+    <PageReference>TS38</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Grenades">
+    <PageReference>TS67-68</PageReference>
+    <Child ReferenceText="launchers">
+      <PageReference>TS66-67</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Grip Mastery perk">
+    <PageReference>TS39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gun Shtick (T wirl) perk">
+    <PageReference>TS39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunfighter survival">
+    <PageReference>TS7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunner/TL skill">
+    <PageReference>TS42</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns">
+    <SeeAlso>Handguns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Guns/TL skill">
+    <PageReference>TS42</PageReference>
+    <Child ReferenceText="levels">
+      <PageReference>TS42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Gunsmithing">
+    <PageReference>TS68-70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="GURPS">
+    <PageReference>TS4</PageReference>
+    <PageReference>TS6</PageReference>
+    <PageReference>TS7</PageReference>
+    <PageReference>TS9</PageReference>
+    <PageReference>TS11-13</PageReference>
+    <PageReference>TS15</PageReference>
+    <PageReference>TS18</PageReference>
+    <PageReference>TS31</PageReference>
+    <PageReference>TS33</PageReference>
+    <PageReference>TS34</PageReference>
+    <PageReference>TS54</PageReference>
+    <PageReference>TS69</PageReference>
+    <PageReference>TS75</PageReference>
+    <PageReference>TS76</PageReference>
+    <PageReference>TS82</PageReference>
+    <PageReference>TS83</PageReference>
+    <Child ReferenceText="Action">
+      <PageReference>TS3</PageReference>
+    </Child>
+    <Child ReferenceText="Age of Napoleon">
+      <PageReference>TS4</PageReference>
+      <PageReference>TS10</PageReference>
+    </Child>
+    <Child ReferenceText="Autoduel">
+      <PageReference>TS3</PageReference>
+    </Child>
+    <Child ReferenceText="Basic Set">
+      <PageReference>TS3</PageReference>
+      <PageReference>TS29</PageReference>
+      <PageReference>TS32</PageReference>
+      <PageReference>TS42</PageReference>
+    </Child>
+    <Child ReferenceText="Cops">
+      <PageReference>TS3</PageReference>
+      <PageReference>TS5</PageReference>
+      <PageReference>TS47</PageReference>
+      <PageReference>TS48</PageReference>
+      <PageReference>TS50</PageReference>
+      <PageReference>TS57</PageReference>
+      <PageReference>TS58</PageReference>
+      <PageReference>TS59</PageReference>
+      <PageReference>TS63</PageReference>
+    </Child>
+    <Child ReferenceText="Covert Ops">
+      <PageReference>TS3</PageReference>
+    </Child>
+    <Child ReferenceText="Cyberpunk">
+      <PageReference>TS3</PageReference>
+    </Child>
+    <Child ReferenceText="Gun Fu">
+      <PageReference>TS3</PageReference>
+      <PageReference>TS6</PageReference>
+      <PageReference>TS24</PageReference>
+      <PageReference>TS38</PageReference>
+      <PageReference>TS39</PageReference>
+      <PageReference>TS43</PageReference>
+      <PageReference>TS46</PageReference>
+      <PageReference>TS75</PageReference>
+    </Child>
+    <Child ReferenceText="HighTech">
+      <PageReference>TS3</PageReference>
+      <PageReference>TS6-10</PageReference>
+      <PageReference>TS12-15</PageReference>
+      <PageReference>TS17-21</PageReference>
+      <PageReference>TS24-28</PageReference>
+      <PageReference>TS30</PageReference>
+      <PageReference>TS31</PageReference>
+      <PageReference>TS33</PageReference>
+      <PageReference>TS35</PageReference>
+      <PageReference>TS38-40</PageReference>
+      <PageReference>TS42</PageReference>
+      <PageReference>TS47</PageReference>
+      <PageReference>TS48</PageReference>
+      <PageReference>TS50-80</PageReference>
+      <PageReference>TS82</PageReference>
+      <PageReference>TS83</PageReference>
+    </Child>
+    <Child ReferenceText="High-Tech: Pulp Guns 1">
+      <PageReference>TS32</PageReference>
+      <PageReference>TS47</PageReference>
+      <PageReference>TS50</PageReference>
+      <PageReference>TS54</PageReference>
+      <PageReference>TS55</PageReference>
+      <PageReference>TS58</PageReference>
+      <PageReference>TS64</PageReference>
+      <PageReference>TS69</PageReference>
+      <PageReference>TS71</PageReference>
+      <PageReference>TS72</PageReference>
+      <PageReference>TS75</PageReference>
+      <PageReference>TS79</PageReference>
+      <PageReference>TS80</PageReference>
+      <PageReference>TS82</PageReference>
+      <PageReference>TS83</PageReference>
+    </Child>
+    <Child ReferenceText="HighTech: Pulp Guns 2">
+      <PageReference>TS47</PageReference>
+      <PageReference>TS51</PageReference>
+      <PageReference>TS60</PageReference>
+      <PageReference>TS65</PageReference>
+      <PageReference>TS69</PageReference>
+      <PageReference>TS72</PageReference>
+      <PageReference>TS79</PageReference>
+      <PageReference>TS80</PageReference>
+      <PageReference>TS83</PageReference>
+    </Child>
+    <Child ReferenceText="Horror">
+      <PageReference>TS3</PageReference>
+    </Child>
+    <Child ReferenceText="Infinite Worlds">
+      <PageReference>TS3</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts">
+      <PageReference>TS3</PageReference>
+      <PageReference>TS11-13</PageReference>
+      <PageReference>TS15-17</PageReference>
+      <PageReference>TS26</PageReference>
+      <PageReference>TS46</PageReference>
+      <PageReference>TS47</PageReference>
+    </Child>
+    <Child ReferenceText="Martial Arts: Fairbairn Close Combat Systems">
+      <PageReference>TS3</PageReference>
+      <PageReference>TS5</PageReference>
+      <PageReference>TS26</PageReference>
+      <PageReference>TS38</PageReference>
+      <PageReference>TS47</PageReference>
+      <PageReference>TS49</PageReference>
+      <PageReference>TS50</PageReference>
+      <PageReference>TS54</PageReference>
+      <PageReference>TS67</PageReference>
+    </Child>
+    <Child ReferenceText="Mysteries">
+      <PageReference>TS3</PageReference>
+      <PageReference>TS35</PageReference>
+    </Child>
+    <Child ReferenceText="Old West">
+      <PageReference>TS3</PageReference>
+      <PageReference>TS4</PageReference>
+      <PageReference>TS10</PageReference>
+      <PageReference>TS12</PageReference>
+      <PageReference>TS39</PageReference>
+      <PageReference>TS50</PageReference>
+    </Child>
+    <Child ReferenceText="Reign of Steel">
+      <PageReference>TS3</PageReference>
+    </Child>
+    <Child ReferenceText="SEALs in Vietnam">
+      <PageReference>TS3</PageReference>
+      <PageReference>TS5</PageReference>
+      <PageReference>TS20</PageReference>
+      <PageReference>TS21</PageReference>
+      <PageReference>TS28</PageReference>
+      <PageReference>TS47</PageReference>
+      <PageReference>TS48</PageReference>
+      <PageReference>TS50</PageReference>
+      <PageReference>TS56</PageReference>
+      <PageReference>TS59</PageReference>
+      <PageReference>TS60</PageReference>
+      <PageReference>TS65-67</PageReference>
+      <PageReference>TS70</PageReference>
+      <PageReference>TS72</PageReference>
+    </Child>
+    <Child ReferenceText="Special Ops">
+      <PageReference>TS3</PageReference>
+      <PageReference>TS5</PageReference>
+      <PageReference>TS38</PageReference>
+      <PageReference>TS47</PageReference>
+      <PageReference>TS49</PageReference>
+      <PageReference>TS52</PageReference>
+      <PageReference>TS54-56</PageReference>
+      <PageReference>TS58</PageReference>
+      <PageReference>TS59</PageReference>
+      <PageReference>TS62-64</PageReference>
+      <PageReference>TS66</PageReference>
+      <PageReference>TS72</PageReference>
+    </Child>
+    <Child ReferenceText="Steampunk">
+      <PageReference>TS3</PageReference>
+    </Child>
+    <Child ReferenceText="SWAT">
+      <PageReference>TS3</PageReference>
+      <PageReference>TS5</PageReference>
+      <PageReference>TS23</PageReference>
+      <PageReference>TS24</PageReference>
+      <PageReference>TS25</PageReference>
+      <PageReference>TS33</PageReference>
+      <PageReference>TS47</PageReference>
+      <PageReference>TS52</PageReference>
+      <PageReference>TS55</PageReference>
+      <PageReference>TS58</PageReference>
+      <PageReference>TS62</PageReference>
+      <PageReference>TS64</PageReference>
+      <PageReference>TS67</PageReference>
+      <PageReference>TS70</PageReference>
+    </Child>
+    <Child ReferenceText="Technomancer">
+      <PageReference>TS3</PageReference>
+    </Child>
+    <Child ReferenceText="Traveller">
+      <PageReference>TS3</PageReference>
+    </Child>
+    <Child ReferenceText="WWII">
+      <PageReference>TS3</PageReference>
+      <PageReference>TS5</PageReference>
+      <PageReference>TS47</PageReference>
+      <PageReference>TS52</PageReference>
+      <PageReference>TS65</PageReference>
+    </Child>
+    <Child ReferenceText="WWII: Dogfaces">
+      <PageReference>TS50</PageReference>
+      <PageReference>TS65</PageReference>
+      <PageReference>TS67</PageReference>
+    </Child>
+    <Child ReferenceText="WWII: Frozen Hell">
+      <PageReference>TS61</PageReference>
+    </Child>
+    <Child ReferenceText="WWII: Red Tide">
+      <PageReference>TS52</PageReference>
+      <PageReference>TS62</PageReference>
+    </Child>
+    <Child ReferenceText="WWII: Return to Honor">
+      <PageReference>TS38</PageReference>
+      <PageReference>TS50</PageReference>
+      <PageReference>TS54</PageReference>
+    </Child>
+    <Child ReferenceText="WWII: Weird War II">
+      <PageReference>TS3</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K HK416D10RS">
+    <PageReference>TS63-64</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K HK93A2">
+    <PageReference>TS62</PageReference>
+    <PageReference>TS63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K MK 23 MOD 0">
+    <PageReference>TS57</PageReference>
+    <PageReference>TS58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="H&amp;K P7">
+    <PageReference>TS56</PageReference>
+    <PageReference>TS57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hammer shooting method">
+    <PageReference>TS15</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Handguns">
+    <PageReference>TS54-58</PageReference>
+    <SeeAlso>Long Arms</SeeAlso>
+    <SeeAlso>Pistols</SeeAlso>
+    <SeeAlso>Shooting</SeeAlso>
+    <Child ReferenceText="accessories">
+      <PageReference>TS70-77</PageReference>
+    </Child>
+    <Child ReferenceText="adding accessories">
+      <PageReference>TS68</PageReference>
+    </Child>
+    <Child ReferenceText="choosing">
+      <PageReference>TS53</PageReference>
+    </Child>
+    <Child ReferenceText="converting">
+      <PageReference>TS69</PageReference>
+    </Child>
+    <Child ReferenceText="customized for owner">
+      <PageReference>TS69</PageReference>
+    </Child>
+    <Child ReferenceText="Fast-Draw">
+      <PageReference>TS42</PageReference>
+    </Child>
+    <Child ReferenceText="grabbing">
+      <PageReference>TS25</PageReference>
+    </Child>
+    <Child ReferenceText="hammerless">
+      <PageReference>TS32</PageReference>
+    </Child>
+    <Child ReferenceText="hip shooting">
+      <PageReference>TS11</PageReference>
+    </Child>
+    <Child ReferenceText="myths">
+      <PageReference>TS5-6</PageReference>
+    </Child>
+    <Child ReferenceText="obtaining">
+      <PageReference>TS53</PageReference>
+    </Child>
+    <Child ReferenceText="ranges">
+      <PageReference>TS9-10</PageReference>
+    </Child>
+    <Child ReferenceText="readiness conditions">
+      <PageReference>TS8</PageReference>
+    </Child>
+    <Child ReferenceText="realistic concealed carry">
+      <PageReference>TS32</PageReference>
+    </Child>
+    <Child ReferenceText="reducing weight">
+      <PageReference>TS70</PageReference>
+    </Child>
+    <Child ReferenceText="shooting stances">
+      <PageReference>TS11-12</PageReference>
+    </Child>
+    <Child ReferenceText="shooting two">
+      <PageReference>TS32</PageReference>
+    </Child>
+    <Child ReferenceText="shortening">
+      <PageReference>TS69</PageReference>
+    </Child>
+    <Child ReferenceText="tables">
+      <PageReference>TS57</PageReference>
+    </Child>
+    <Child ReferenceText="tilted">
+      <PageReference>TS32-33</PageReference>
+    </Child>
+    <Child ReferenceText="transitioning to">
+      <PageReference>TS14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Harries stance">
+    <PageReference>TS4</PageReference>
+    <PageReference>TS19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hearing">
+    <Child ReferenceText="shooting and">
+      <PageReference>TS34-35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Heckler &amp; Koch">
+    <SeeAlso>specific H&amp;K weapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="High Standard K-1200 Riot #8111">
+    <PageReference>TS59</PageReference>
+    <PageReference>TS60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="High Standard Model 10B #8291">
+    <PageReference>TS59</PageReference>
+    <PageReference>TS60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hip shooting">
+    <SeeAlso>Shooting</SeeAlso>
+    <Child ReferenceText="long arms">
+      <PageReference>TS12-13</PageReference>
+    </Child>
+    <Child ReferenceText="realistic">
+      <PageReference>TS32</PageReference>
+    </Child>
+    <Child ReferenceText="handguns">
+      <PageReference>TS11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="History">
+    <Child ReferenceText="tactical shooting">
+      <PageReference>TS4-5</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Hit locations">
+    <PageReference>TS4</PageReference>
+    <PageReference>TS15</PageReference>
+    <PageReference>TS16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Hollow-point (HP) ammunition">
+    <PageReference>TS78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Holsters">
+    <PageReference>TS72</PageReference>
+    <PageReference>TS73</PageReference>
+    <Child ReferenceText="rule option">
+      <PageReference>TS12</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Immediate Action">
+    <PageReference>TS17</PageReference>
+    <Child ReferenceText="technique">
+      <PageReference>TS44</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Intuitive Armorer perk">
+    <PageReference>TS39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="IR targeting">
+    <PageReference>TS19-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Isosceles stance">
+    <PageReference>TS4</PageReference>
+    <PageReference>TS12</PageReference>
+    <PageReference>TS48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ISTEC ISL201">
+    <PageReference>TS67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="James">
+    <Child ReferenceText="Jesse">
+      <PageReference>TS80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Jet funnel">
+    <PageReference>TS74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Jungle magazines">
+    <PageReference>TS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="KAC M4A1K">
+    <PageReference>TS62</PageReference>
+    <PageReference>TS63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="KAC SR-25">
+    <PageReference>TS62-63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Killing intent">
+    <PageReference>TS34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kimber TLE II">
+    <PageReference>TS57</PageReference>
+    <PageReference>TS58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Kodak T13 Beano">
+    <PageReference>TS67</PageReference>
+    <PageReference>TS68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Laser modules">
+    <PageReference>TS74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Law enforcement teams">
+    <SeeAlso>Police</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Leapfrogging tactic">
+    <PageReference>TS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Legal Enforcement Powers advantage">
+    <PageReference>TS38</PageReference>
+    <PageReference>TS53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Light adaptation">
+    <Child ReferenceText="of vision">
+      <PageReference>TS18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Light machine guns (LMGs)">
+    <PageReference>TS65-66</PageReference>
+    <SeeAlso>Long Arms</SeeAlso>
+    <Child ReferenceText="assault packs">
+      <PageReference>TS73</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Light modules">
+    <PageReference>TS74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lightning Fingers perk">
+    <PageReference>TS39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lights">
+    <SeeAlso>Darkness</SeeAlso>
+    <Child ReferenceText="using tactical">
+      <PageReference>TS19</PageReference>
+    </Child>
+    <Child ReferenceText="accessory">
+      <PageReference>TS74</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Load-bearing vests">
+    <PageReference>TS72-73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Loadouts">
+    <PageReference>TS79-80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Locks">
+    <Child ReferenceText="shooting">
+      <PageReference>TS33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Long arms">
+    <SeeAlso>Handguns</SeeAlso>
+    <SeeAlso>Shooting</SeeAlso>
+    <SeeAlso>Shotguns</SeeAlso>
+    <Child ReferenceText="adding accessories">
+      <PageReference>TS68</PageReference>
+    </Child>
+    <Child ReferenceText="choosing">
+      <PageReference>TS53</PageReference>
+    </Child>
+    <Child ReferenceText="converting to bullpups">
+      <PageReference>TS68-69</PageReference>
+    </Child>
+    <Child ReferenceText="customized for owner">
+      <PageReference>TS69</PageReference>
+    </Child>
+    <Child ReferenceText="Fast-Draw">
+      <PageReference>TS42</PageReference>
+    </Child>
+    <Child ReferenceText="grabbing">
+      <PageReference>TS25</PageReference>
+      <PageReference>TS41</PageReference>
+    </Child>
+    <Child ReferenceText="hip shooting">
+      <PageReference>TS12-13</PageReference>
+    </Child>
+    <Child ReferenceText="holster">
+      <PageReference>TS73</PageReference>
+    </Child>
+    <Child ReferenceText="one-handed shooting">
+      <PageReference>TS13</PageReference>
+    </Child>
+    <Child ReferenceText="myths">
+      <PageReference>TS5-7</PageReference>
+    </Child>
+    <Child ReferenceText="obtaining">
+      <PageReference>TS53</PageReference>
+    </Child>
+    <Child ReferenceText="ranges">
+      <PageReference>TS10-11</PageReference>
+    </Child>
+    <Child ReferenceText="readiness conditions of">
+      <PageReference>TS8</PageReference>
+    </Child>
+    <Child ReferenceText="reducing weight">
+      <PageReference>TS70</PageReference>
+    </Child>
+    <Child ReferenceText="shooting stances">
+      <PageReference>TS12-13</PageReference>
+    </Child>
+    <Child ReferenceText="shortening">
+      <PageReference>TS69-70</PageReference>
+    </Child>
+    <Child ReferenceText="shoulder shooting">
+      <PageReference>TS12</PageReference>
+    </Child>
+    <Child ReferenceText="slings">
+      <PageReference>TS71-72</PageReference>
+    </Child>
+    <Child ReferenceText="stockless">
+      <PageReference>TS12</PageReference>
+      <PageReference>TS33</PageReference>
+    </Child>
+    <Child ReferenceText="transitioning from">
+      <PageReference>TS14</PageReference>
+    </Child>
+    <Child ReferenceText="accessories">
+      <PageReference>TS70-77</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Loops">
+    <PageReference>TS73</PageReference>
+    <PageReference>TS74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Luck advantage">
+    <PageReference>TS36</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Lysaght Owen Mk I">
+    <PageReference>TS64</PageReference>
+    <PageReference>TS65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Machine guns">
+    <SeeAlso>Light Machine Guns (LMGs)</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Magazines">
+    <SeeAlso>Ammunition</SeeAlso>
+    <Child ReferenceText="concealing">
+      <PageReference>TS72-73</PageReference>
+    </Child>
+    <Child ReferenceText="grips">
+      <PageReference>TS33</PageReference>
+    </Child>
+    <Child ReferenceText="jungle">
+      <PageReference>TS33</PageReference>
+    </Child>
+    <Child ReferenceText="loops">
+      <PageReference>TS74</PageReference>
+    </Child>
+    <Child ReferenceText="modifications">
+      <PageReference>TS33</PageReference>
+      <PageReference>TS73-74</PageReference>
+    </Child>
+    <Child ReferenceText="pouches">
+      <PageReference>TS73</PageReference>
+    </Child>
+    <Child ReferenceText="quality">
+      <PageReference>TS74</PageReference>
+    </Child>
+    <Child ReferenceText="taping together">
+      <PageReference>TS33</PageReference>
+    </Child>
+    <Child ReferenceText="transparent">
+      <PageReference>TS74</PageReference>
+    </Child>
+    <Child ReferenceText="underloaded">
+      <PageReference>TS20</PageReference>
+    </Child>
+    <Child ReferenceText="wells">
+      <PageReference>TS74</PageReference>
+    </Child>
+    <Child ReferenceText="as protection">
+      <PageReference>TS7</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Malfunctioning firearms">
+    <PageReference>TS17</PageReference>
+    <PageReference>TS19</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Marines, U">
+    <Child ReferenceText="S" />
+    <Child ReferenceText="">
+      <PageReference>TS79</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Martial arts styles">
+    <Child ReferenceText="suitable for shootists">
+      <PageReference>TS26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Masked Shooting technique">
+    <PageReference>TS13</PageReference>
+    <PageReference>TS44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Match-grade ammunition">
+    <PageReference>TS77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Melee combat">
+    <Child ReferenceText="shooting and">
+      <PageReference>TS25-26</PageReference>
+    </Child>
+    <Child ReferenceText="guns as melee weapons">
+      <PageReference>TS26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Miami Massacre">
+    <PageReference>TS80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Military">
+    <SeeAlso>Battle Drills</SeeAlso>
+    <SeeAlso>GURPS Special Ops</SeeAlso>
+    <SeeAlso>Styles</SeeAlso>
+    <SeeAlso>SWAT</SeeAlso>
+    <Child ReferenceText="ammunition">
+      <PageReference>TS77</PageReference>
+      <PageReference>TS39</PageReference>
+      <PageReference>TS51</PageReference>
+    </Child>
+    <Child ReferenceText="loadouts">
+      <PageReference>TS79</PageReference>
+    </Child>
+    <Child ReferenceText="popular weapon options">
+      <PageReference>TS35</PageReference>
+      <PageReference>TS54</PageReference>
+      <PageReference>TS65</PageReference>
+      <PageReference>TS72</PageReference>
+      <PageReference>TS73</PageReference>
+      <PageReference>TS74</PageReference>
+    </Child>
+    <Child ReferenceText="preferred weapons">
+      <PageReference>TS6</PageReference>
+      <PageReference>TS55</PageReference>
+      <PageReference>TS56</PageReference>
+      <PageReference>TS59</PageReference>
+      <PageReference>TS61</PageReference>
+      <PageReference>TS63-67</PageReference>
+    </Child>
+    <Child ReferenceText="tactics">
+      <PageReference>TS8</PageReference>
+      <PageReference>TS12</PageReference>
+      <PageReference>TS16</PageReference>
+      <PageReference>TS21</PageReference>
+      <PageReference>TS22</PageReference>
+      <PageReference>TS25</PageReference>
+      <PageReference>TS32</PageReference>
+    </Child>
+    <Child ReferenceText="training">
+      <PageReference>TS34</PageReference>
+      <PageReference>TS46</PageReference>
+      <PageReference>TS47</PageReference>
+    </Child>
+    <Child ReferenceText="acquiring weapons">
+      <PageReference>TS53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Minute of angle">
+    <PageReference>TS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Modern Pistol style">
+    <PageReference>TS48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Molot APS">
+    <PageReference>TS55-57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Motorized Training perk">
+    <PageReference>TS39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounted Shooting technique">
+    <PageReference>TS44</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mounts">
+    <Child ReferenceText="gun">
+      <PageReference>TS75</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Move and Attack maneuver">
+    <PageReference>TS17</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Moving">
+    <Child ReferenceText="shooting and">
+      <PageReference>TS17</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Mozambique drill">
+    <PageReference>TS4</PageReference>
+    <PageReference>TS15-16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Mumbai Attack">
+    <PageReference>TS80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Muzzle">
+    <Child ReferenceText="weights">
+      <PageReference>TS76</PageReference>
+    </Child>
+    <Child ReferenceText="ports">
+      <PageReference>TS76</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Myths and legends">
+    <PageReference>TS5-7</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="New York reloads">
+    <PageReference>TS4</PageReference>
+    <PageReference>TS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night combat">
+    <PageReference>TS18-20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Night vision">
+    <Child ReferenceText="equipment">
+      <PageReference>TS19-20</PageReference>
+      <PageReference>TS74</PageReference>
+    </Child>
+    <Child ReferenceText="advantage">
+      <PageReference>TS36</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Noise">
+    <Child ReferenceText="from shooting">
+      <PageReference>TS34-35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Non-combat bonuses">
+    <PageReference>TS9</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="NORINCO QSW67">
+    <PageReference>TS56</PageReference>
+    <PageReference>TS57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="North Hollywood Shootout">
+    <PageReference>TS80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Observers">
+    <PageReference>TS27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Off-axis viewing devices (OAVD)">
+    <PageReference>TS75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Off-Hand Weapon Training perk">
+    <PageReference>TS39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-Hand Drills perk">
+    <PageReference>TS39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="One-handed shooting">
+    <PageReference>TS11</PageReference>
+    <PageReference>TS13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Parker">
+    <Child ReferenceText="Bonnie">
+      <PageReference>TS80</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Peeling">
+    <PageReference>TS4</PageReference>
+    <Child ReferenceText="drill">
+      <PageReference>TS22-23</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pelvis">
+    <Child ReferenceText="hit location">
+      <PageReference>TS15</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Perks">
+    <PageReference>TS37-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pipe bombs">
+    <PageReference>TS67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pistols">
+    <SeeAlso>Handguns</SeeAlso>
+    <Child ReferenceText="holsters">
+      <PageReference>TS72</PageReference>
+    </Child>
+    <Child ReferenceText="non-repeating">
+      <PageReference>TS54-55</PageReference>
+      <PageReference>TS57</PageReference>
+    </Child>
+    <Child ReferenceText="readiness conditions">
+      <PageReference>TS8</PageReference>
+    </Child>
+    <Child ReferenceText="semiautomatic">
+      <PageReference>TS55-58</PageReference>
+    </Child>
+    <Child ReferenceText="Fast-Draw">
+      <PageReference>TS42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Pocket shooting">
+    <PageReference>TS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Point-blank shots">
+    <PageReference>TS6</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Point-Shooting style">
+    <PageReference>TS49-51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Police">
+    <SeeAlso>Battle Drills</SeeAlso>
+    <SeeAlso>GURPS Cops</SeeAlso>
+    <SeeAlso>GURPS SWAT</SeeAlso>
+    <SeeAlso>Styles</SeeAlso>
+    <SeeAlso>SWAT</SeeAlso>
+    <Child ReferenceText="ammunition">
+      <PageReference>TS77</PageReference>
+      <PageReference>TS78</PageReference>
+    </Child>
+    <Child ReferenceText="important traits">
+      <PageReference>TS51</PageReference>
+    </Child>
+    <Child ReferenceText="loadouts">
+      <PageReference>TS79</PageReference>
+      <PageReference>TS80</PageReference>
+    </Child>
+    <Child ReferenceText="preferred guns">
+      <PageReference>TS6</PageReference>
+      <PageReference>TS16</PageReference>
+      <PageReference>TS54-62</PageReference>
+      <PageReference>TS63</PageReference>
+      <PageReference>TS64</PageReference>
+      <PageReference>TS67</PageReference>
+    </Child>
+    <Child ReferenceText="skill levels">
+      <PageReference>TS42</PageReference>
+    </Child>
+    <Child ReferenceText="tactics">
+      <PageReference>TS8</PageReference>
+      <PageReference>TS12</PageReference>
+      <PageReference>TS19</PageReference>
+      <PageReference>TS40</PageReference>
+      <PageReference>TS45</PageReference>
+    </Child>
+    <Child ReferenceText="training">
+      <PageReference>TS32</PageReference>
+      <PageReference>TS45-50</PageReference>
+    </Child>
+    <Child ReferenceText="acquiring weapons">
+      <PageReference>TS53</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Post-traumatic stress disorder (PTSD)">
+    <PageReference>TS34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Pouches">
+    <PageReference>TS73</PageReference>
+    <PageReference>TS74</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Practical Sports Shooting style">
+    <PageReference>TS49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Precision Aiming">
+    <PageReference>TS26-27</PageReference>
+    <Child ReferenceText="technique">
+      <PageReference>TS45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Projectiles">
+    <SeeAlso>Ammunition</SeeAlso>
+    <SeeAlso>Magazines</SeeAlso>
+    <Child ReferenceText="options">
+      <PageReference>TS77-78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Psychological training">
+    <PageReference>TS33-34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick Reload perk">
+    <PageReference>TS39</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Sheathe perk">
+    <PageReference>TS40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Shot technique">
+    <PageReference>TS45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Quick-Swap perk">
+    <PageReference>TS40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Range">
+    <PageReference>TS9-11</PageReference>
+    <Child ReferenceText="effective">
+      <PageReference>TS9</PageReference>
+    </Child>
+    <Child ReferenceText="handgun">
+      <PageReference>TS9-10</PageReference>
+    </Child>
+    <Child ReferenceText="long arm">
+      <PageReference>TS10-11</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Range masters">
+    <PageReference>TS46</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Ranged Rapid Strike maneuver">
+    <PageReference>TS18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rangefinder binoculars">
+    <PageReference>TS77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rangefinding">
+    <PageReference>TS27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rangers">
+    <Child ReferenceText="Texas">
+      <PageReference>TS79</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Rapid Strike maneuver">
+    <Child ReferenceText="ranged">
+      <PageReference>TS18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reaction speeds">
+    <PageReference>TS32</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Readiness conditions">
+    <PageReference>TS8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Realism">
+    <Child ReferenceText="harsh">
+      <PageReference>TS32</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Reloading">
+    <PageReference>TS20</PageReference>
+    <Child ReferenceText="aids">
+      <PageReference>TS73-74</PageReference>
+    </Child>
+    <Child ReferenceText="New York">
+      <PageReference>TS4</PageReference>
+      <PageReference>TS14</PageReference>
+    </Child>
+    <Child ReferenceText="tactical">
+      <PageReference>TS4</PageReference>
+      <PageReference>TS20</PageReference>
+    </Child>
+    <Child ReferenceText="perk">
+      <PageReference>TS39</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Remington Model 1100 Tac-2">
+    <PageReference>TS60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retain Weapon technique">
+    <PageReference>TS45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Retention devices">
+    <PageReference>TS72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Revolvers">
+    <PageReference>TS55</PageReference>
+    <PageReference>TS57</PageReference>
+    <SeeAlso>Handguns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Rifleman style">
+    <PageReference>TS51</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rifles">
+    <PageReference>TS60</PageReference>
+    <SeeAlso>Long Arms</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Rigs">
+    <Child ReferenceText="shoulder">
+      <PageReference>TS73</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Robust (Sense) perk">
+    <PageReference>TS40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rock ’n’ roll method">
+    <PageReference>TS16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Rote Armee Fraktion (RAF)">
+    <PageReference>TS80</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="RRA LAR-15">
+    <PageReference>TS63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="S&amp;W Model 4006">
+    <PageReference>TS56-58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="S&amp;W Model 40 Centennial">
+    <PageReference>TS55</PageReference>
+    <PageReference>TS57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="S&amp;W Model 686 Distinguished Combat Magnum">
+    <PageReference>TS55</PageReference>
+    <PageReference>TS57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scabbards">
+    <PageReference>TS72-73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Scattergun TR-870 Model 90102">
+    <PageReference>TS59</PageReference>
+    <PageReference>TS60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Semiautomatic gun">
+    <SeeAlso>Handguns</SeeAlso>
+    <SeeAlso>Pistols</SeeAlso>
+    <Child ReferenceText="converting to full automatic">
+      <PageReference>TS69</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Serbu Super-Shorty">
+    <PageReference>TS60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sharpshooter style">
+    <PageReference>TS51-52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shell bags">
+    <PageReference>TS73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shell shock">
+    <PageReference>TS34</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shields">
+    <Child ReferenceText="shooting and">
+      <PageReference>TS33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoot and Scoot tactic">
+    <PageReference>TS21</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoot till down method">
+    <PageReference>TS16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shooting">
+    <SeeAlso>Battle Drills</SeeAlso>
+    <SeeAlso>Styles</SeeAlso>
+    <SeeAlso>Techniques</SeeAlso>
+    <Child ReferenceText="around cover">
+      <PageReference>TS28</PageReference>
+    </Child>
+    <Child ReferenceText="as dirty">
+      <PageReference>TS35</PageReference>
+    </Child>
+    <Child ReferenceText="as smelly">
+      <PageReference>TS35</PageReference>
+    </Child>
+    <Child ReferenceText="as stressful">
+      <PageReference>TS35</PageReference>
+    </Child>
+    <Child ReferenceText="as untidy">
+      <PageReference>TS35</PageReference>
+    </Child>
+    <Child ReferenceText="bad methods">
+      <PageReference>TS32-33</PageReference>
+    </Child>
+    <Child ReferenceText="blinding from">
+      <PageReference>TS35</PageReference>
+    </Child>
+    <Child ReferenceText="close-contact">
+      <PageReference>TS25-26</PageReference>
+    </Child>
+    <Child ReferenceText="consequences of">
+      <PageReference>TS34-35</PageReference>
+    </Child>
+    <Child ReferenceText="darkness and">
+      <PageReference>TS18-20</PageReference>
+    </Child>
+    <Child ReferenceText="dodging and">
+      <PageReference>TS17</PageReference>
+    </Child>
+    <Child ReferenceText="doors">
+      <PageReference>TS24</PageReference>
+    </Child>
+    <Child ReferenceText="ear damage from">
+      <PageReference>TS34-35</PageReference>
+    </Child>
+    <Child ReferenceText="first">
+      <PageReference>TS10</PageReference>
+    </Child>
+    <Child ReferenceText="for effect">
+      <PageReference>TS15-16</PageReference>
+    </Child>
+    <Child ReferenceText="follow-up">
+      <PageReference>TS14</PageReference>
+    </Child>
+    <Child ReferenceText="from vehicles">
+      <PageReference>TS31</PageReference>
+    </Child>
+    <Child ReferenceText="highspeed">
+      <PageReference>TS14</PageReference>
+    </Child>
+    <Child ReferenceText="hip">
+      <PageReference>TS11-13</PageReference>
+      <PageReference>TS25</PageReference>
+      <PageReference>TS32</PageReference>
+      <PageReference>TS43</PageReference>
+    </Child>
+    <Child ReferenceText="history">
+      <PageReference>TS4-5</PageReference>
+    </Child>
+    <Child ReferenceText="in armor">
+      <PageReference>TS12</PageReference>
+    </Child>
+    <Child ReferenceText="instinctive">
+      <PageReference>TS13</PageReference>
+    </Child>
+    <Child ReferenceText="locks">
+      <PageReference>TS33</PageReference>
+    </Child>
+    <Child ReferenceText="melee combat and">
+      <PageReference>TS25-26</PageReference>
+    </Child>
+    <Child ReferenceText="methods">
+      <PageReference>TS15-16</PageReference>
+    </Child>
+    <Child ReferenceText="mixed ammunition and">
+      <PageReference>TS31</PageReference>
+    </Child>
+    <Child ReferenceText="moving and">
+      <PageReference>TS17</PageReference>
+    </Child>
+    <Child ReferenceText="multiple times">
+      <PageReference>TS18</PageReference>
+    </Child>
+    <Child ReferenceText="myths">
+      <PageReference>TS5-7</PageReference>
+    </Child>
+    <Child ReferenceText="noise from">
+      <PageReference>TS34-35</PageReference>
+    </Child>
+    <Child ReferenceText="non-combat bonuses">
+      <PageReference>TS9</PageReference>
+    </Child>
+    <Child ReferenceText="one-handed">
+      <PageReference>TS11</PageReference>
+      <PageReference>TS13</PageReference>
+    </Child>
+    <Child ReferenceText="pain from">
+      <PageReference>TS35</PageReference>
+    </Child>
+    <Child ReferenceText="pocket">
+      <PageReference>TS11</PageReference>
+    </Child>
+    <Child ReferenceText="range and">
+      <PageReference>TS9-11</PageReference>
+    </Child>
+    <Child ReferenceText="realism options">
+      <PageReference>TS32</PageReference>
+    </Child>
+    <Child ReferenceText="several opponents">
+      <PageReference>TS17-18</PageReference>
+    </Child>
+    <Child ReferenceText="shield use and">
+      <PageReference>TS33</PageReference>
+    </Child>
+    <Child ReferenceText="sighted">
+      <PageReference>TS13</PageReference>
+      <PageReference>TS14</PageReference>
+    </Child>
+    <Child ReferenceText="situational modifiers">
+      <PageReference>TS11</PageReference>
+    </Child>
+    <Child ReferenceText="snap">
+      <PageReference>TS13</PageReference>
+    </Child>
+    <Child ReferenceText="stances">
+      <PageReference>TS11-13</PageReference>
+    </Child>
+    <Child ReferenceText="stockless long arms">
+      <PageReference>TS12</PageReference>
+      <PageReference>TS33</PageReference>
+    </Child>
+    <Child ReferenceText="two guns">
+      <PageReference>TS32</PageReference>
+    </Child>
+    <Child ReferenceText="two-handed">
+      <PageReference>TS11-12</PageReference>
+    </Child>
+    <Child ReferenceText="unsighted">
+      <PageReference>TS13</PageReference>
+    </Child>
+    <Child ReferenceText="untrained">
+      <PageReference>TS47</PageReference>
+    </Child>
+    <Child ReferenceText="aiming">
+      <PageReference>TS14</PageReference>
+      <PageReference>TS26-27</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shortening">
+    <Child ReferenceText="long arms">
+      <PageReference>TS69-70</PageReference>
+    </Child>
+    <Child ReferenceText="handguns">
+      <PageReference>TS69</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shotgunner style">
+    <PageReference>TS52</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Shotguns">
+    <PageReference>TS58-60</PageReference>
+    <SeeAlso>Long Arms</SeeAlso>
+    <Child ReferenceText="ammunition">
+      <PageReference>TS78</PageReference>
+    </Child>
+    <Child ReferenceText="breaching">
+      <PageReference>TS24</PageReference>
+    </Child>
+    <Child ReferenceText="choked">
+      <PageReference>TS6</PageReference>
+    </Child>
+    <Child ReferenceText="point-blank shots">
+      <PageReference>TS6</PageReference>
+    </Child>
+    <Child ReferenceText="myths">
+      <PageReference>TS5</PageReference>
+      <PageReference>TS6</PageReference>
+    </Child>
+    <Child ReferenceText="readiness conditions">
+      <PageReference>TS8</PageReference>
+    </Child>
+    <Child ReferenceText="slugs">
+      <PageReference>TS78</PageReference>
+    </Child>
+    <Child ReferenceText="speedload stocks">
+      <PageReference>TS75</PageReference>
+    </Child>
+    <Child ReferenceText="stocks">
+      <PageReference>TS75</PageReference>
+    </Child>
+    <Child ReferenceText="suppressors">
+      <PageReference>TS71</PageReference>
+    </Child>
+    <Child ReferenceText="unchocked">
+      <PageReference>TS6</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Shoulder">
+    <Child ReferenceText="shooting">
+      <PageReference>TS12</PageReference>
+    </Child>
+    <Child ReferenceText="rigs">
+      <PageReference>TS73</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Side carriers">
+    <PageReference>TS73</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sidearms">
+    <SeeAlso>Handguns</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Sights">
+    <PageReference>TS74-75</PageReference>
+    <Child ReferenceText="adjusting">
+      <PageReference>TS41</PageReference>
+    </Child>
+    <Child ReferenceText="micro reflex">
+      <PageReference>TS74</PageReference>
+    </Child>
+    <Child ReferenceText="using">
+      <PageReference>TS13-14</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Situational awareness">
+    <PageReference>TS11</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skills">
+    <PageReference>TS41-42</PageReference>
+    <Child ReferenceText="degradation">
+      <PageReference>TS32</PageReference>
+    </Child>
+    <Child ReferenceText="Guns levels">
+      <PageReference>TS42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Skip Shot perks">
+    <PageReference>TS40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Skull">
+    <Child ReferenceText="hit location">
+      <PageReference>TS16</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Slicing the pie">
+    <PageReference>TS23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slings">
+    <PageReference>TS71-72</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Slugs">
+    <SeeAlso>Ammunition</SeeAlso>
+    <Child ReferenceText="solid">
+      <PageReference>TS78</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Smith &amp; Wesson">
+    <SeeAlso>specific S&amp;W weapons</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Smoke grenades">
+    <PageReference>TS68</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sniper program">
+    <PageReference>TS77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sniping">
+    <PageReference>TS26-28</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SOG M79">
+    <PageReference>TS66</PageReference>
+    <PageReference>TS67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SOG RPD">
+    <PageReference>TS66</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Solid ammunition">
+    <PageReference>TS78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sound suppressors">
+    <PageReference>TS70-71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Special-ops teams">
+    <SeeAlso>Battle Drills</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Speedload shotgun stocks">
+    <PageReference>TS75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sports shooting style">
+    <PageReference>TS49</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spotters">
+    <PageReference>TS27</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Spraying fire">
+    <PageReference>TS18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Springfield TRP Bureau">
+    <PageReference>TS57</PageReference>
+    <PageReference>TS58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stairwells">
+    <Child ReferenceText="clearing">
+      <PageReference>TS25</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stainless steel">
+    <PageReference>TS76</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stances">
+    <PageReference>TS4</PageReference>
+    <PageReference>TS11-13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standard Operating Procedure perk">
+    <PageReference>TS40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Standoffs">
+    <Child ReferenceText="resolving">
+      <PageReference>TS10</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Stockless shooting">
+    <PageReference>TS33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stocks">
+    <PageReference>TS75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Stress">
+    <Child ReferenceText="handling">
+      <PageReference>TS33-34</PageReference>
+    </Child>
+    <Child ReferenceText="caused by shooting">
+      <PageReference>TS34</PageReference>
+      <PageReference>TS35</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Style Familiarity perk">
+    <PageReference>TS37</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Style Perks">
+    <PageReference>TS37-41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Styles">
+    <Child ReferenceText="firearms training">
+      <PageReference>TS47-52</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Submachine guns">
+    <PageReference>TS64-65</PageReference>
+    <SeeAlso>Long Arms</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Subsonic ammunition">
+    <PageReference>TS77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Supplier perk">
+    <PageReference>TS40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suppression fire">
+    <PageReference>TS18</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Suppressors">
+    <PageReference>TS4</PageReference>
+    <PageReference>TS70-71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Sure-Footed perk">
+    <PageReference>TS40</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Survival tips">
+    <PageReference>TS7-8</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SVI Infinity IMM">
+    <PageReference>TS57</PageReference>
+    <PageReference>TS58</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="SWAT">
+    <SeeAlso>Battle Drills</SeeAlso>
+    <SeeAlso>GURPS SWAT</SeeAlso>
+    <SeeAlso>Police</SeeAlso>
+    <SeeAlso>Styles</SeeAlso>
+    <Child ReferenceText="preferred guns">
+      <PageReference>TS48</PageReference>
+      <PageReference>TS56</PageReference>
+      <PageReference>TS58</PageReference>
+    </Child>
+    <Child ReferenceText="skill levels">
+      <PageReference>TS42</PageReference>
+    </Child>
+    <Child ReferenceText="tactics">
+      <PageReference>TS24</PageReference>
+      <PageReference>TS25</PageReference>
+      <PageReference>TS45</PageReference>
+    </Child>
+    <Child ReferenceText="training">
+      <PageReference>TS46</PageReference>
+      <PageReference>TS47</PageReference>
+    </Child>
+    <Child ReferenceText="popular weapon options">
+      <PageReference>TS33</PageReference>
+      <PageReference>TS35</PageReference>
+      <PageReference>TS72</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Swivels">
+    <Child ReferenceText="sling">
+      <PageReference>TS71</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tables">
+    <Child ReferenceText="cover">
+      <PageReference>TS29-31</PageReference>
+    </Child>
+    <Child ReferenceText="grenade launchers">
+      <PageReference>TS67</PageReference>
+    </Child>
+    <Child ReferenceText="grenades">
+      <PageReference>TS68</PageReference>
+    </Child>
+    <Child ReferenceText="handguns">
+      <PageReference>TS57</PageReference>
+    </Child>
+    <Child ReferenceText="machine guns">
+      <PageReference>TS66</PageReference>
+    </Child>
+    <Child ReferenceText="rifles">
+      <PageReference>TS63</PageReference>
+    </Child>
+    <Child ReferenceText="shotguns">
+      <PageReference>TS60</PageReference>
+    </Child>
+    <Child ReferenceText="skill levels">
+      <PageReference>TS42</PageReference>
+    </Child>
+    <Child ReferenceText="submachine guns">
+      <PageReference>TS65</PageReference>
+    </Child>
+    <Child ReferenceText="aiming">
+      <PageReference>TS26</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="TacOps Clandestine-12">
+    <PageReference>TS60</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactical reloads">
+    <PageReference>TS4</PageReference>
+    <PageReference>TS20</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tactics">
+    <Child ReferenceText="examples">
+      <PageReference>TS20-25</PageReference>
+    </Child>
+    <Child ReferenceText="skill">
+      <PageReference>TS42</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tap-Rack-Bang perk">
+    <PageReference>TS41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Targeted Attack technique">
+    <PageReference>TS45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Targeting aids">
+    <PageReference>TS74-75</PageReference>
+    <SeeAlso>Aiming</SeeAlso>
+    <SeeAlso>Sights</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="TDI Kriss Super V SMG">
+    <PageReference>TS65</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Techniques">
+    <PageReference>TS43-45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Terms">
+    <PageReference>TS4</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Threat">
+    <Child ReferenceText="recognition">
+      <PageReference>TS33-34</PageReference>
+    </Child>
+    <Child ReferenceText="cocking">
+      <PageReference>TS33</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Thumbing">
+    <PageReference>TS14</PageReference>
+    <Child ReferenceText="technique">
+      <PageReference>TS45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Tilted guns">
+    <PageReference>TS32-33</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TOZ AKS-74UB">
+    <PageReference>TS62</PageReference>
+    <PageReference>TS63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TOZ GSN-19">
+    <PageReference>TS66-67</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TOZ MSP">
+    <PageReference>TS54-55</PageReference>
+    <PageReference>TS57</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="TOZ SVT-40">
+    <PageReference>TS62</PageReference>
+    <PageReference>TS63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracer Eyes perk">
+    <PageReference>TS41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Tracers">
+    <PageReference>TS78</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Trademark Move perk">
+    <PageReference>TS41</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Training">
+    <PageReference>TS46-47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Transitioning">
+    <PageReference>TS4</PageReference>
+    <PageReference>TS14</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Traumatic events">
+    <SeeAlso>Stress</SeeAlso>
+  </IndexReference>
+  <IndexReference ReferenceText="Tripods">
+    <PageReference>TS75</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Turning corners">
+    <PageReference>TS23-24</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="T wo-handed thumbing">
+    <PageReference>TS14</PageReference>
+    <Child ReferenceText="technique">
+      <PageReference>TS45</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Unsighted shooting">
+    <PageReference>TS13</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Untrained shooters">
+    <PageReference>TS47</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Unusual Background advantage">
+    <PageReference>TS37</PageReference>
+    <PageReference>TS38</PageReference>
+    <PageReference>TS53</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Urban combat">
+    <PageReference>TS23-25</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vehicles">
+    <Child ReferenceText="shooting from">
+      <PageReference>TS31</PageReference>
+    </Child>
+    <Child ReferenceText="as cover">
+      <PageReference>TS30-31</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Vest holsters">
+    <PageReference>TS12</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Vision">
+    <Child ReferenceText="shooting and">
+      <PageReference>TS18</PageReference>
+      <PageReference>TS32</PageReference>
+      <PageReference>TS35</PageReference>
+    </Child>
+    <Child ReferenceText="adapting to light">
+      <PageReference>TS18</PageReference>
+    </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="VKT-Lahti Pstkiv/39">
+    <PageReference>TS61-63</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Walking the burst">
+    <PageReference>TS16</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weapon Bond perk">
+    <PageReference>TS41</PageReference>
+    <PageReference>TS69</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weather sensor">
+    <PageReference>TS77</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weaver stance">
+    <PageReference>TS4</PageReference>
+    <PageReference>TS11-12</PageReference>
+    <PageReference>TS48</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Weight reduction">
+    <PageReference>TS70</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Wet Suppressors">
+    <PageReference>TS71</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="Work by Touch technique">
+    <PageReference>TS45</PageReference>
+  </IndexReference>
+  <IndexReference ReferenceText="ZML PM 63">
+    <PageReference>TS64</PageReference>
+    <PageReference>TS65</PageReference>
+  </IndexReference>
+</IndexReferenceCollection>
