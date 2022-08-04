@@ -36,7 +36,7 @@ namespace Gao.Gurps.Discord
 
         private static void SetupConfiguration()
         {
-            var value = Environment.GetEnvironmentVariable("GGDAAuthenticationToken");
+            var value = Environment.GetEnvironmentVariable("GGDAuthenticationToken");
             Token = value;
         }
 

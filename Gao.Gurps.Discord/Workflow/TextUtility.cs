@@ -1,10 +1,9 @@
 ﻿using Gao.Gurps.Discord.Model;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 namespace Gao.Gurps.Discord.Workflow
 {
@@ -27,6 +26,8 @@ namespace Gao.Gurps.Discord.Workflow
             return timeSpan;
         }
 
+        public static readonly Regex HourMinuteSeconds = new Regex(@"^(\d+):(\d+):(\d+)$");
+
         public static TimeSpan ParseTimeSpanText(string timePeriod, bool preferSeconds)
         {
             TimeSpan timeSpan;
@@ -35,9 +36,14 @@ namespace Gao.Gurps.Discord.Workflow
                 var intValue = int.Parse(timePeriod);
                 timeSpan = preferSeconds ? new TimeSpan(0, 0, intValue) : new TimeSpan(0, intValue, 0);
             }
+            else if(HourMinuteSeconds.IsMatch(timePeriod))
+            {
+                var groups = HourMinuteSeconds.Match(timePeriod).Groups;
+                timeSpan = new TimeSpan(int.Parse(groups[1].Value), int.Parse(groups[2].Value), int.Parse(groups[3].Value));
+            }
             else if
             (
-                !TimeSpan.TryParseExact(timePeriod, @"%m\:%s", null, out timeSpan) &&
+                !TimeSpan.TryParseExact(timePeriod, @"m\:s", CultureInfo.InvariantCulture, out timeSpan) &&
                 !TimeSpan.TryParse(timePeriod, out timeSpan)
             )
             {
