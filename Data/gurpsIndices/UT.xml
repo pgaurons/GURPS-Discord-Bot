@@ -2226,7 +2226,7 @@
       <PageReference>UT80</PageReference>
     </Child>
   </IndexReference>
-  <IndexReference ReferenceText="238 INDEX INDEX 239 Launchers">
+  <IndexReference ReferenceText="Launchers">
     <SeeAlso>Warheads</SeeAlso>
     <Child ReferenceText="conventional">
       <PageReference>UT135-147</PageReference>
@@ -2720,11 +2720,14 @@
   <IndexReference ReferenceText="Needlers">
     <PageReference>UT139-143</PageReference>
   </IndexReference>
-  <IndexReference ReferenceText="Nerve guns, 121-122 Nerve, gas">
+  <IndexReference ReferenceText="Nerve, gas">
     <PageReference>UT160</PageReference>
     <Child ReferenceText="poison">
       <PageReference>UT161</PageReference>
     </Child>
+  </IndexReference>
+  <IndexReference ReferenceText="Nerve guns">
+    <PageReference>UT121-122</PageReference>
   </IndexReference>
   <IndexReference ReferenceText="Networks">
     <PageReference>UT49-50</PageReference>
