@@ -77,7 +77,7 @@ namespace Gao.Gurps.Discord
         private async Task RegisterSlashCommands()
         {
 #if DEBUG
-            await _interactionService.RegisterCommandsToGuildAsync(412288794927300624);
+            await _interactionService.RegisterCommandsToGuildAsync(999420421222977677);
 #else
             await _interactionService.RegisterCommandsGloballyAsync();
 #endif
@@ -102,6 +102,7 @@ namespace Gao.Gurps.Discord
             await _interactionService.AddModuleAsync(typeof(Slash.OverheadModule), _services);
             await _interactionService.AddModuleAsync(typeof(Slash.RandomModule), _services);
             await _interactionService.AddModuleAsync(typeof(Slash.CalculationModule), _services);
+            await _interactionService.AddModuleAsync(typeof(Slash.DiceRollingModule), _services);
 
             // Subscribe a handler to see if a message invokes a command.
             _client.SlashCommandExecuted += HandleSlashCommandAsync;
