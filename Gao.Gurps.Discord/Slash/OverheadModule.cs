@@ -19,6 +19,9 @@ namespace Gao.Gurps.Discord.Slash
     /// <summary>
     /// Slash commands that deal with cross cutting concerns.
     /// </summary>
+#if DEBUG
+    [Group("debug-overhead", "test commands")]
+#endif
     public class OverheadModule : InteractionModuleBase
     {
         private readonly CommandService _commandService;

@@ -16,6 +16,9 @@ using CommandSummaryAttribute = Discord.Commands.SummaryAttribute;
 
 namespace Gao.Gurps.Discord.Slash
 {
+#if DEBUG
+    [Group("debug-calculation", "test commands")]
+#endif
     public class CalculationModule : InteractionModuleBase
     {
         [SlashCommand("basic-lift", "Calculate basic lift", runMode: RunMode.Async), CommandSummary(@"Calculates the Basic Lift of a character given an effective strength. Add Kyos at the end to use Know your own strength calculations.
