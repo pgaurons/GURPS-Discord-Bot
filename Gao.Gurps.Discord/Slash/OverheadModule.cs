@@ -22,7 +22,7 @@ namespace Gao.Gurps.Discord.Slash
 #if DEBUG
     [Group("debug-overhead", "test commands")]
 #endif
-    public class OverheadModule : InteractionModuleBase
+    public class OverheadModule : GurpsInteractionModuleBase
     {
         private readonly CommandService _commandService;
         private readonly InteractionService _interactionService;

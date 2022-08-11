@@ -7,7 +7,6 @@ using Gao.Gurps.Mechanic;
 using Gao.Gurps.Model;
 using Gao.Gurps.Utility;
 using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -22,7 +21,7 @@ namespace Gao.Gurps.Discord.Slash
 #if DEBUG
     [Group("debug-random", "test commands")]
 #endif
-    public class RandomModule : InteractionModuleBase
+    public class RandomModule : GurpsInteractionModuleBase
     {
 
         [SlashCommand("probability", "Calculates the probabilities of various rolls.", runMode: RunMode.Async)]
@@ -311,47 +310,6 @@ If that explosion also has 1d of cutting shrapnel.
             await ExplosionWorkflow(explosionParameters, true);
         }
 
-        private async Task SendTextWithTimeBuffers(int linesToDisplayAtOnce, IEnumerable<string> results, bool privateMessageOverflow, string lineDivider = "")
-        {
-            if (lineDivider == string.Empty) lineDivider = Environment.NewLine;
-            const int maxMessageSize = 2000 - 30; //Let's give some buffer room.
-            results = results.SelectMany(r => r.Length > maxMessageSize ? r.Split(lineDivider) : new[] { r }).Where(s => !string.IsNullOrWhiteSpace(s)).ToArray();
-            IMessageChannel overflowChannel;
-            var thisChannel = await Context.Guild.GetTextChannelAsync(Context.Interaction.ChannelId.Value);
-            if (privateMessageOverflow) overflowChannel = await Context.User.CreateDMChannelAsync();
-            else overflowChannel = thisChannel;
-            var remainingResults = results.ToArray();
-            var overflow = false;
-            IMessageChannel channel = thisChannel;
-
-            while (remainingResults.Length > 0)
-            {
-                channel = overflow ? overflowChannel : thisChannel;
-                var sb = new StringBuilder();
-                sb.AppendLine("```");
-                var linesLeftToAppend = Math.Min(linesToDisplayAtOnce, remainingResults.Length);
-                var linesTaken = 0;
-                while (sb.Length + (remainingResults.FirstOrDefault() ?? "").Length < maxMessageSize && linesLeftToAppend > 0)
-                {
-                    sb.Append(remainingResults.First() + lineDivider);
-                    remainingResults = remainingResults.Skip(1).ToArray();
-                    linesLeftToAppend--;
-                    linesTaken++;
-                }
-                var displayValue = sb.ToString();
-                displayValue = displayValue.Trim(lineDivider.ToCharArray()) + "```";
-
-                displayValue = displayValue.Replace("``````", string.Empty);
-                await channel.SendMessageAsync(displayValue);
-                if (remainingResults.Length == 0)
-                    break;
-
-                await Task.Delay(1500);
-
-                overflow = true;
-            }
-        }
-
         [SlashCommand("fnord", @"You're not cleared for that.", runMode: RunMode.Async)]
         [CommandSummary(@"You're not cleared for that.")]
         public async Task Fnord(string fnord = "")
@@ -430,37 +388,7 @@ examples:
         }
 
 
-        [SlashCommand("gather-energy", "Gather energy via the Ritual Path Magic mechanics", runMode: RunMode.Async)]
-        [CommandSummary(@"Gather Energy according to the rules of RPM. 
-Example command usage: 
-To gather 30 energy with 15 skill.
-\gather-energy Path of Mind-15 30
-To gather 30 energy with 15 skill and gathering occurs every 5 seconds.
-\gather-energy Path of Body-15 30 00:00:05
-If you are in a hurry to gather 30 energy with 15 skill.
-\gather-energy 15 30 ")]
-        public async Task GatherEnergy(string argument)
-        {
-            const int linesToDisplayAtOnce = 5;
 
-            EnergyGatheringParameters parsedParameters;
-            try
-            {
-                parsedParameters = EnergyGather.Parse(argument);
-            }
-            catch (Exception ex)
-            {
-                await DisplayErrorMessage(await Context.Guild.GetTextChannelAsync(Context.Interaction.ChannelId.Value), ex.Message);
-                return;
-            }
-
-            var results = EnergyGather.Execute(parsedParameters);
-            if (parsedParameters.Verbose)
-                await SendTextWithTimeBuffers(linesToDisplayAtOnce, results.VerboseOutput().Split(Environment.NewLine), false);
-            else
-                await Context.Interaction.RespondAsync(results.ToString());
-
-        }
 
 
         [SlashCommand("generate-character", "Puts a bunch of things together from pointless slaying and looting", runMode: RunMode.Async)]
@@ -837,9 +765,5 @@ Striking Strength: {strikingStrength}
 
         }
 
-        private static async Task DisplayErrorMessage(IMessageChannel channel, string message)
-        {
-            await channel.SendMessageAsync($"{message}");
-        }
     }
 }

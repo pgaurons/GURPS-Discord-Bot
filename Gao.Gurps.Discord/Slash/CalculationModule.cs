@@ -19,7 +19,7 @@ namespace Gao.Gurps.Discord.Slash
 #if DEBUG
     [Group("debug-calculation", "test commands")]
 #endif
-    public class CalculationModule : InteractionModuleBase
+    public class CalculationModule : GurpsInteractionModuleBase
     {
         [SlashCommand("basic-lift", "Calculate basic lift", runMode: RunMode.Async), CommandSummary(@"Calculates the Basic Lift of a character given an effective strength. Add Kyos at the end to use Know your own strength calculations.
 Examples:
@@ -345,7 +345,7 @@ The final parameter is an override to return more results than normal.
                         case "FAQ":
                             searchResults = await Workflow.Lookup.FindInFrequentlyAskedQuestions(lookupValue, (int)rowsToReturn);
                             break;
-                        default: await Context.Interaction.RespondAsync(returnValue + "Invalid Lookup Arguments"); break;
+                        default: await Context.Interaction.RespondAsync(returnValue + "Invalid Lookup Arguments"); return;
                     }
                 if (searchResults.Results.Count() > 0)
                 {
@@ -508,47 +508,6 @@ Examples:
             var result = LookupTables.GetStrikingStrengthCalculations((int)strength, kyosOption);
 
             await Context.Interaction.RespondAsync($"{result}");
-        }
-
-        private async Task SendTextWithTimeBuffers(int linesToDisplayAtOnce, IEnumerable<string> results, bool privateMessageOverflow, string lineDivider = "")
-        {
-            if (lineDivider == string.Empty) lineDivider = Environment.NewLine;
-            const int maxMessageSize = 2000 - 30; //Let's give some buffer room.
-            results = results.SelectMany(r => r.Length > maxMessageSize ? r.Split(lineDivider) : new[] { r }).Where(s => !string.IsNullOrWhiteSpace(s)).ToArray();
-            IMessageChannel overflowChannel;
-            var thisChannel = await Context.Guild.GetTextChannelAsync(Context.Interaction.ChannelId.Value);
-            if (privateMessageOverflow) overflowChannel = await Context.User.CreateDMChannelAsync();
-            else overflowChannel = thisChannel;
-            var remainingResults = results.ToArray();
-            var overflow = false;
-            IMessageChannel channel = thisChannel;
-
-            while (remainingResults.Length > 0)
-            {
-                channel = overflow ? overflowChannel : thisChannel;
-                var sb = new StringBuilder();
-                sb.AppendLine("```");
-                var linesLeftToAppend = Math.Min(linesToDisplayAtOnce, remainingResults.Length);
-                var linesTaken = 0;
-                while (sb.Length + (remainingResults.FirstOrDefault() ?? "").Length < maxMessageSize && linesLeftToAppend > 0)
-                {
-                    sb.Append(remainingResults.First() + lineDivider);
-                    remainingResults = remainingResults.Skip(1).ToArray();
-                    linesLeftToAppend--;
-                    linesTaken++;
-                }
-                var displayValue = sb.ToString();
-                displayValue = displayValue.Trim(lineDivider.ToCharArray()) + "```";
-
-                displayValue = displayValue.Replace("``````", string.Empty);
-                await channel.SendMessageAsync(displayValue);
-                if (remainingResults.Length == 0)
-                    break;
-
-                await Task.Delay(1500);
-
-                overflow = true;
-            }
         }
     }
 
